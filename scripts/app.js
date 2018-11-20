@@ -44,7 +44,9 @@ function addTable(t,a){
 		data2.html("");
 	tdata.forEach(function(t,idx){
 			if(idx == 0) return;
-			var e=$("<span/>",{"class":"element_region"}).html(((idx%100==1)?"<br/>" + (idx) + "<br/>":"") + '<a href="https://jisho.org/search/'+t[0]+' %23kanji" target="_blank" class="kjtext" >'+t[0]+'</a>');
+			if(idx%100==1)
+				data2.append($("<div/>",{"class":"kjbr"}).html(idx));//'<div class="kjbr">' + (idx) + "</div>":"")
+			var e=$("<span/>",{"class":"element_region"}).html('<span class="kjregion">' + t[0] + '<br/><a href="https://jisho.org/search/'+t[0]+' %23kanji" target="_blank" class="kjtext-link" >'+t[0]+'</a>' + "</span>");
 			//alert(e.html());
 			data2.append(e);
 			//alert(data2.html());
