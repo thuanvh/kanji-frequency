@@ -43,7 +43,8 @@ function addTable(t,a){
 	if(data2 != null)
 		data2.html("");
 	tdata.forEach(function(t,idx){
-			var e=$("<span/>",{"class":"element_region"}).html(idx + t[0] + '<a href="https://jisho.org/search/'+t[0]+' %23kanji" >'+[t[0]]+'</a>');
+			if(idx == 0) return;
+			var e=$("<span/>",{"class":"element_region"}).html(((idx%100==1)?"<br/>" + (idx) + "<br/>":"") + '<a href="https://jisho.org/search/'+t[0]+' %23kanji" target="_blank" class="kjtext" >'+t[0]+'</a>');
 			//alert(e.html());
 			data2.append(e);
 			//alert(data2.html());
@@ -84,11 +85,11 @@ function(){
 	$(".templates .loading").remove(),
 	_.forEach(kanjiData,function(t,a){var e=$("<div/>",{"class":"col-md-6 col-lg-3"}).html(generalInfo(t));
 	$("#general-info .templates").append(e)}),
-	addTable(kanjiData,$("#table")),
-	_.forEach(kanjiData,function(t,a){var e=chartWrapper(t.name,"col-xs-12");
-		$("#zipf-law .templates").append(e),freqCoverChart(e.find(".chart"),a,t,100)});
-	var t=chartWrapper("Coverage comparison","col-xs-12");
-	$("#zipf-law .templates").append(t),coverComparisonChart(t.find(".chart"),kanjiData,1e3)
+	addTable(kanjiData,$("#table"))//,
+	//_.forEach(kanjiData,function(t,a){var e=chartWrapper(t.name,"col-xs-12");
+	//	$("#zipf-law .templates").append(e),freqCoverChart(e.find(".chart"),a,t,100)});
+	//var t=chartWrapper("Coverage comparison","col-xs-12");
+	//$("#zipf-law .templates").append(t),coverComparisonChart(t.find(".chart"),kanjiData,1e3)
 });
 var generalInfo=_.template('<dl><dt><%- name %></dt><dd><%= description %><ul class="list-unstyled"><li>kanji total: <code><%- kanjiTotalCount %></code> &asymp; <% print((kanjiTotalCount / 1000000).toFixed(1) + "M") %></li><li>kanji distinct: <code><%- kanjiDistinctCount %></code></li></ul></dd></dl>');
 var itemInfo=_.template('<dl><dt><%- name %></dt><dd><%= description %><ul class="list-unstyled"><li>kanji total: <code><%- kanjiTotalCount %></code> &asymp; <% print((kanjiTotalCount / 1000000).toFixed(1) + "M") %></li><li>kanji distinct: <code><%- kanjiDistinctCount %></code></li></ul></dd></dl>');
