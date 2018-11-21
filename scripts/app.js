@@ -34,6 +34,14 @@ function addTable(t,a){
 
 	//$(a.parents(".table-wrapper").find(".table-toolbar")[0]).append(l);
 	a.append(l);
+	var b=$("<input/>",{type: "checkbox","class":"form-control show-detail", id:'cbshowlink'});
+	var bl=$("<span/>",{'for':'cbshowlink', text:"Show link"});
+	a.append(b);
+	a.append(bl);
+	b.change(function(){
+		
+		if(this.checked) $(".kjregion-detail").removeClass("kjregion-detail-hide"); 
+		else $(".kjregion-detail").addClass("kjregion-detail-hide");});
 	//$(a.parents(".table-wrapper").find(".table-list")[0]).clear(),
 	//$(a.parents(".table-wrapper").find(".table-list")[0]).append(data2),
 	gentable = function(tdata){
@@ -46,7 +54,8 @@ function addTable(t,a){
 			if(idx == 0) return;
 			if(idx%100==1)
 				data2.append($("<div/>",{"class":"kjbr"}).html(idx));//'<div class="kjbr">' + (idx) + "</div>":"")
-			var e=$("<span/>",{"class":"element_region"}).html('<span class="kjregion">' + t[0] + '<br/><a href="https://jisho.org/search/'+t[0]+' %23kanji" target="_blank" class="kjtext-link" >'+t[0]+'</a>' + "</span>");
+			var e=$("<span/>",{"class":"element_region"}).html('<span class="kjregion">' + t[0] + '<span class="kjregion-detail kjregion-detail-hide"><br/>'+
+			'<a href="https://jisho.org/search/'+t[0]+' %23kanji" target="_blank" class="kjtext-link" >'+t[0]+'</a>' + "</span>");
 			//alert(e.html());
 			data2.append(e);
 			//alert(data2.html());
