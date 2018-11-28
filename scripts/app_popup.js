@@ -2,27 +2,33 @@ function chartWrapper(t,a){var e=$("<div/>",{"class":a}),n=$("<div/>",{"class":"
 	e.append(n),n.append($("<div/>",{"class":"chart-title"}).text(t));
 	var r=$("<div/>",{"class":"chart"});
 	return n.append(r),e}
-var kpath="all2000.json";
-var dictdata; // a global
-d3.json(kpath, function(error, json) {
-	if (error) return console.warn(error);
-	dictdata = json;
-	//alert(json);
-	//visualizeit();
-	//alert(dictdata[1])	
-	//alert(dictdata["\u697c"]);
-	//alert(dictdata["人"]);
-	//$(".popup-overlay, .popup-content").addClass("active");
-});
+// var kpath="all2000.json";
+// var dictdata; // a global
+// d3.json(kpath, function(error, json) {
+// 	if (error) return console.warn(error);
+// 	dictdata = json;
+// 	//alert(json);
+// 	//visualizeit();
+// 	//alert(dictdata[1])	
+// 	//alert(dictdata["\u697c"]);
+// 	//alert(dictdata["人"]);
+// 	//$(".popup-overlay, .popup-content").addClass("active");
+// });
 function calldetail(t){
 	k=t.data.c;
 	//alert(dictdata[k]);
 	var e=$("<div/>",{"class":"detail-item"});
 	e.append($("<h2/>").html(k));
-	var idx=["keyword","strokeDiagram","constituent","myStory","onYomi","kunYomi","words","readingExamples"];
-	if(dictdata[k] != null)
-	for(var i = 0; i < idx.length; i++)
-		e.append($("<div/>").html(idx[i] + ": " + dictdata[k][idx[i]]));
+	d3.json("data/"+k+".json", function(error, json){
+		if (error) return;
+		var dictdata=json;
+		var idx=["keyword","strokeDiagram","constituent","myStory","onYomi","kunYomi","words","readingExamples"];
+		if(dictdata != null)
+		for(var i = 0; i < idx.length; i++)
+			e.append($("<div/>").html(idx[i] + ": " + dictdata[idx[i]]));
+		
+	});
+	
 	  //e.append($("<span/>").html(dictdata[k][3]));
 	$(".popup-content-div").html("");
 	$(".popup-content-div").append(e);
