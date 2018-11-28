@@ -70,10 +70,15 @@ function addTable(t,a){
 	var bl=$("<span/>",{'for':'cbshowlink', text:"Show link"});
 	a.append(b);
 	a.append(bl);
-	b.change(function(){
-		
-		if(this.checked) $(".kjregion-detail").removeClass("kjregion-detail-hide"); 
-		else $(".kjregion-detail").addClass("kjregion-detail-hide");});
+	b.change(function(){		
+		if(this.checked) {
+			$(".kjregion-detail").removeClass("kjregion-detail-hide"); 
+			$(".kjregion").addClass("kjregion-detail-hide");
+		}else {
+			$(".kjregion-detail").addClass("kjregion-detail-hide");
+			$(".kjregion").removeClass("kjregion-detail-hide");
+		}
+		});
 	//$(a.parents(".table-wrapper").find(".table-list")[0]).clear(),
 	//$(a.parents(".table-wrapper").find(".table-list")[0]).append(data2),
 	gentable = function(tdata){
