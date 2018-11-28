@@ -35,7 +35,8 @@ for i in range(0, len(dicts['flds'])):
 #print(alldict, file=open("all2000.json","w", encoding="utf-8"))
 json.dump(alldict, open("all2000.json","w", encoding="utf-8"), indent=2, ensure_ascii=False, sort_keys=True)
 #print(alldict)
-
+for k in alldict.keys():
+  json.dump(alldict[k], open("data/" + k + ".json","w", encoding="utf-8"), indent=2, ensure_ascii=False, sort_keys=True)
 
 # import mpu.pd
 # df = mpu.pd.example_df()
