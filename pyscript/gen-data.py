@@ -25,9 +25,15 @@ for i in range(0, len(dicts['flds'])):
   #print(i)
   data = (dicts['flds'][i].split('\x1f'))
   key = data[4]
-  alldict[key]=data
+  alldict[key]={"id":data[0],"frameNoV4":data[1],"frameNoV6":data[2],
+    "keyword":data[3],"kanji":data[4],"strokeDiagram":data[5],
+    "hint":data[6],"constituent":data[7],"strokeCount":data[8],
+    "lessonNo":data[9],"myStory":data[10],"heisigStory":data[11],
+    "heisigComment":data[12],"koohiiStory1":data[13],"koohiiStory2":data[14],
+    "jouYou":data[15],"jlpt":data[16],"onYomi":data[17],
+    "kunYomi":data[18],"words":data[19],"readingExamples":data[20]}
 #print(alldict, file=open("all2000.json","w", encoding="utf-8"))
-json.dump(alldict, open("all2000.json","w", encoding="utf-8"))
+json.dump(alldict, open("all2000.json","w", encoding="utf-8"), indent=2, ensure_ascii=False, sort_keys=True)
 #print(alldict)
 
 

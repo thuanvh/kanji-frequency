@@ -19,7 +19,7 @@ function calldetail(t){
 	//alert(dictdata[k]);
 	var e=$("<div/>",{"class":"detail-item"});
 	e.append($("<h2/>").html(k));
-	var idx=[3,5,7,10,17,18,19];
+	var idx=["keyword","strokeDiagram","constituent","myStory","onYomi","kunYomi","words","readingExamples"];
 	if(dictdata[k] != null)
 	for(var i = 0; i < idx.length; i++)
 		e.append($("<div/>").html(idx[i] + ": " + dictdata[k][idx[i]]));
