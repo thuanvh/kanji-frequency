@@ -28,6 +28,8 @@ function calldetail(t){
 	$(".popup-content-div").append(e);
 	$(".popup-overlay, .popup-content").addClass("active");
 	$(".popup-content-div").height = $(".popup-overlay, .popup-content").height - 10;
+	var top = $(window).scrollTop() + 20 + 'px';
+  $('.popup-overlay').css({top:top});
 }
 //removes the "active" class to .popup and .popup-content when the "Close" button is clicked 
 $(".close").on("click", function(){
