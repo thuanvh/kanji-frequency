@@ -11,8 +11,8 @@ body{font-family:Roboto,Arial,sans-serif}.jumbotron{color:#3f75a2;background-col
   position:absolute;
   background:#ffffff;
   border:3px solid #666666;
-  width:50%;
-  height:50%;
+  width:70%;
+  height:80%;
   left:25%;
   z-index: 100;
 }
@@ -20,23 +20,29 @@ body{font-family:Roboto,Arial,sans-serif}.jumbotron{color:#3f75a2;background-col
   /*displays pop-up when "active" class is present*/
   visibility:visible;
   text-align:center;
-  overflow-y:scroll;
+  
 }
 
 .popup-content {
   /*Hides pop-up content when there is no "active" class */
  visibility:hidden;
+ 
 }
 
 .popup-content.active {
   /*Shows pop-up content when "active" class is present */
   visibility:visible;
+  
 }
 
 .popup-content-div{
   font-size: 12px;
-  
+  overflow-y:scroll;
 }
 .detail-item{
   text-align: left;
+}
+.popup-bar{
+  background-color: green;
+  height: 20px;
 }
