@@ -41,6 +41,77 @@ function calldetail(t){
 $(".close").on("click", function(){
   $(".popup-overlay, .popup-content").removeClass("active");
 });
+function calllist(t){	
+	//alert(dictdata[k]);
+	//var e=$("<div/>",{"class":"detail-item"});
+	//e.append($("<h2/>").html(k));
+	d3.json("data-order/"+t+pageidx+".json", function(error, json){
+		if (error) return;
+		var dictdata=json;
+		genlist(dictdata);
+	});
+}
+function genlist(tdata){
+	data2 = $("#table-list");//a.parents(".table-wrapper").find(".table-list");
+//alert("hello " + data2_);
+//alert(data2_.html());
+if(data2 != null)
+	data2.html("");
+tdata.forEach(function(t,idx){
+		//if(idx == 0) return;
+		// if(idx%100==1)
+		// 	data2.append($("<div/>",{"class":"kjbr"}).html(idx));
+		var e=$("<span/>",{"class":"element_region"});
+		var h=$("<span/>",{"class":"kjregion  " + (showlink?"kjregion-detail-hide":"")}).html(t[0]);
+		var k=$("<span/>",{"class":"kjregion-detail " + (showlink?"":"kjregion-detail-hide")});
+		var b=$("<input/>",{"type":"button","value":t[0],"class":"kjregion-detail-button"}).html(t[0]);
+		b.click({c:t[0]},calldetail);
+		k.append(b);			
+		e.append(h);
+		e.append(k);			
+		data2.append(e);			
+		});
+};
+var idx=["aozora","news","twitter","wikipedia"];
+var pageidx=0;var catname=idx[0];var showlink=true;
+var mcontainer=$("#table");
+var l=$("<select/>",{"class":"form-control input-sm"});
+var prevb=$("<input/>",{"type":"button","value":"Previous","class":"kjregion-detail-button"}).html("Previous");
+var nextb=$("<input/>",{"type":"button","value":"Next","class":"kjregion-detail-button"}).html("Next");
+prevb.click(function(){pageidx--;if(pageidx <0) pageidx=0;calllist(catname);lblpage.html(pageidx);});
+nextb.click(function(){pageidx++;calllist(catname);lblpage.html(pageidx);});
+var lblpage=$("<h2/>",{"class":"element_region"}).html(pageidx);
+mcontainer.append(l);
+mcontainer.append(prevb);
+mcontainer.append(lblpage);
+mcontainer.append(nextb);
+var b=$("<input/>",{type: "checkbox","class":"form-control show-detail", id:'cbshowlink', checked:showlink});
+//b.checked=showlink;
+	var bl=$("<span/>",{'for':'cbshowlink', text:"Show link"});
+	mcontainer.append(b);
+	mcontainer.append(bl);
+	b.change(function(){
+		showlink=this.checked;		
+		if(this.checked) {
+			$(".kjregion-detail").removeClass("kjregion-detail-hide"); 
+			$(".kjregion").addClass("kjregion-detail-hide");
+		}else {
+			$(".kjregion-detail").addClass("kjregion-detail-hide");
+			$(".kjregion").removeClass("kjregion-detail-hide");
+		}
+		});
+//var data2=$("<div/>",{"class":"table-list"});
+//alert(data2);
+
+
+for(var i = 0; i < idx.length; i++)
+{var a=idx[i];var n=$("<option/>").val(a).text(a);
+	l.append(n),0==i&&n.attr("selected",!0)};
+l.change(function(a){a.preventDefault();
+	catname=$(this).val();
+	calllist(catname);
+});
+calllist(catname);
 function freqCoverChart(t,a,e,n){var r={top:20,right:40,bottom:30,left:40},l=Math.max(t.innerWidth(),1100)-r.left-r.right,i=300-r.top-r.bottom,o=d3.scale.ordinal().rangeRoundBands([0,l],.1),s=d3.scale.linear().range([i,0]),c=d3.scale.linear().range([i,0]),d=d3.svg.axis().scale(o).orient("bottom"),p=d3.svg.axis().scale(s).orient("left").ticks(10,"%"),u=d3.svg.axis().scale(c).orient("right").ticks(10,"%"),f=d3.svg.line().x(function(t){return o.rangeBand()/2+o(t[0])}).y(function(t){return c(t[3])}),m=d3.select(t.get()[0]).append("svg").attr("width",l+r.left+r.right).attr("height",i+r.top+r.bottom).append("g").attr("transform","translate("+r.left+","+r.top+")"),g=_(e.table).tail().take(n),h=0;
 
 g.forEach(function(t){t.push(h+t[2]),h+=t[2]}),o.domain(g.map(function(t){return t[0]}).value()),s.domain([0,g.map(function(t){return t[2]}).max()]),c.domain([0,g.map(function(t){return t[3]}).max()]),m.append("g").attr("class","x axis").attr("transform","translate(0,"+i+")").call(d),m.append("g").attr("class","y axis left").call(p).append("text").attr("transform","rotate(-90)").attr("y",6).attr("dy",".7em").style("text-anchor","end").text("Frequency"),m.append("g").attr("class","y axis right").attr("transform","translate("+l+" ,0)").call(u).append("text").attr("transform","rotate(-90)").attr("y",6).attr("dy","-1.2em").style("text-anchor","end").text("Coverage"),m.selectAll(".bar").data(g.value()).enter().append("rect").attr("class","bar").attr("x",function(t){return o(t[0])}).attr("width",o.rangeBand()).attr("y",function(t){return s(t[2])}).attr("height",function(t){return i-s(t[2])}),m.append("path").attr("class","secondary").attr("d",f(g.value()))}function coverComparisonChart(t,a,e){var n={top:20,right:20,bottom:30,left:40},r=Math.max(t.innerWidth(),1100)-n.left-n.right,l=400-n.top-n.bottom,i=d3.scale.linear().range([0,r]),o=d3.scale.linear().range([l,0]),s=d3.svg.axis().scale(i).orient("bottom").ticks(20),c=d3.svg.axis().scale(o).orient("left").ticks(10,"%"),d=d3.svg.line().x(function(t){return i(t[0])}).y(function(t){return o(t[1])}),p=d3.select(t.get()[0]).append("svg").attr("width",r+n.left+n.right).attr("height",l+n.top+n.bottom).append("g").attr("transform","translate("+n.left+","+n.top+")"),u=_.keys(a).map(function(t){var n=0,r=_(a[t].table).tail().take(e).map(function(t,a){return n+=t[2],[a,n]}).value();
@@ -133,22 +204,25 @@ a[t.attr("data-legend")]={pos:t.attr("data-legend-pos")||this.getBBox().y,color:
 var i=l[0][0].getBBox();
 r.attr("x",i.x-n).attr("y",i.y-n).attr("height",i.height+2*n).attr("width",i.width+2*n)}),t}}();
 
-var kanjiData={aozora:{fileName:"aozora.json",description:'Books from <a href="http://www.aozora.gr.jp/">Aozora Bunko</a>'},news:{fileName:"news.json",description:"Online news articles"},twitter:{fileName:"twitter.json",description:'Twitter messages collected by a <a href="https://github.com/scriptin/twitter-kanji-frequency">bot</a>'},wikipedia:{fileName:"wikipedia.json",description:'Wikipedia articles and pages from <a href="https://dumps.wikimedia.org/jawiki/">dumps<a/>'}},
-getJson=Promise.promisify(d3.json);
+// var kanjiData={aozora:{fileName:"aozora.json"},
+// news:{fileName:"news.json"},
+// twitter:{fileName:"twitter.json"},
+// wikipedia:{fileName:"wikipedia.json"}},
+// getJson=Promise.promisify(d3.json);
 
-$(".templates").html('<div class="col-xs-12 loading"><em>Loading...</em></div>'),Promise.all(_.map(_.toPairs(kanjiData),function(t){var a=t[0],e=kanjiData[a];
+// $(".templates").html('<div class="col-xs-12 loading"><em>Loading...</em></div>'),Promise.all(_.map(_.toPairs(kanjiData),function(t){var a=t[0],e=kanjiData[a];
 
-return getJson(t[1].fileName).then(function(t){e=_.merge(e,{name:_.upperFirst(a),table:t,kanjiTotalCount:t[0][1],kanjiDistinctCount:t.length-1})})
-})).then(
-function(){
-	$(".templates .loading").remove(),
-	_.forEach(kanjiData,function(t,a){var e=$("<div/>",{"class":"col-md-6 col-lg-3"}).html(generalInfo(t));
-	$("#general-info .templates").append(e)}),
-	addTable(kanjiData,$("#table"))//,
-	//_.forEach(kanjiData,function(t,a){var e=chartWrapper(t.name,"col-xs-12");
-	//	$("#zipf-law .templates").append(e),freqCoverChart(e.find(".chart"),a,t,100)});
-	//var t=chartWrapper("Coverage comparison","col-xs-12");
-	//$("#zipf-law .templates").append(t),coverComparisonChart(t.find(".chart"),kanjiData,1e3)
-});
-var generalInfo=_.template('<dl><dt><%- name %></dt><dd><%= description %><ul class="list-unstyled"><li>kanji total: <code><%- kanjiTotalCount %></code> &asymp; <% print((kanjiTotalCount / 1000000).toFixed(1) + "M") %></li><li>kanji distinct: <code><%- kanjiDistinctCount %></code></li></ul></dd></dl>');
-var itemInfo=_.template('<dl><dt><%- name %></dt><dd><%= description %><ul class="list-unstyled"><li>kanji total: <code><%- kanjiTotalCount %></code> &asymp; <% print((kanjiTotalCount / 1000000).toFixed(1) + "M") %></li><li>kanji distinct: <code><%- kanjiDistinctCount %></code></li></ul></dd></dl>');
+// return getJson(t[1].fileName).then(function(t){e=_.merge(e,{name:_.upperFirst(a),table:t,kanjiTotalCount:t[0][1],kanjiDistinctCount:t.length-1})})
+// })).then(
+// function(){
+// 	$(".templates .loading").remove(),
+// 	_.forEach(kanjiData,function(t,a){var e=$("<div/>",{"class":"col-md-6 col-lg-3"}).html(generalInfo(t));
+// 	$("#general-info .templates").append(e)}),
+// 	addTable(kanjiData,$("#table"))//,
+// 	//_.forEach(kanjiData,function(t,a){var e=chartWrapper(t.name,"col-xs-12");
+// 	//	$("#zipf-law .templates").append(e),freqCoverChart(e.find(".chart"),a,t,100)});
+// 	//var t=chartWrapper("Coverage comparison","col-xs-12");
+// 	//$("#zipf-law .templates").append(t),coverComparisonChart(t.find(".chart"),kanjiData,1e3)
+// });
+// var generalInfo=_.template('<dl><dt><%- name %></dt><dd><%= description %><ul class="list-unstyled"><li>kanji total: <code><%- kanjiTotalCount %></code> &asymp; <% print((kanjiTotalCount / 1000000).toFixed(1) + "M") %></li><li>kanji distinct: <code><%- kanjiDistinctCount %></code></li></ul></dd></dl>');
+// var itemInfo=_.template('<dl><dt><%- name %></dt><dd><%= description %><ul class="list-unstyled"><li>kanji total: <code><%- kanjiTotalCount %></code> &asymp; <% print((kanjiTotalCount / 1000000).toFixed(1) + "M") %></li><li>kanji distinct: <code><%- kanjiDistinctCount %></code></li></ul></dd></dl>');
