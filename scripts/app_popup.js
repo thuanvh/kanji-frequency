@@ -22,7 +22,7 @@ function calldetail(t){
 	d3.json("data/"+k+".json", function(error, json){
 		if (error) return;
 		var dictdata=json;
-		var idx=["keyword","strokeDiagram","constituent","myStory","onYomi","kunYomi","words","readingExamples"];
+		var idx=["hanviet","keyword","strokeDiagram","constituent","myStory","onYomi","kunYomi","words","readingExamples"];
 		if(dictdata != null)
 		for(var i = 0; i < idx.length; i++)
 			e.append($("<div/>").html(idx[i] + ": " + dictdata[idx[i]]));
