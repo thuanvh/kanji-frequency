@@ -43,6 +43,11 @@ function calldetail(t){
 $(".close, .popup-bar").on("click", function(){
   $(".popup-overlay, .popup-content").removeClass("active");
 });
+$(document).keyup(function(e) {
+	if (e.which == 27) {
+		$(".popup-overlay, .popup-content").removeClass("active");
+	}
+});
 function calllist(t){	
 	//alert(dictdata[k]);
 	//var e=$("<div/>",{"class":"detail-item"});
