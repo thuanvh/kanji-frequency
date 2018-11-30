@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9438a46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cooking by boiling"
+        }
+      ],
+      "mobileId": 258453,
+      "phonetic": "ほうすい",
+      "word": "烹炊"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08e499a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fleeting nature of riches and honour (honor)"
+        }
+      ],
+      "mobileId": 285492,
+      "phonetic": "こうりょういっすい",
+      "word": "黄粱一炊"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd87d4d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một trống rỗng mơ"
+        }
+      ],
+      "mobileId": 14102,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "の",
+          "夢",
+          "一"
+        ]
+      },
+      "word": "一炊の夢"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94386de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "galley, ship's kitchen"
+        }
+      ],
+      "mobileId": 258452,
+      "phonetic": "ほうすいじょ",
+      "word": "烹炊所"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

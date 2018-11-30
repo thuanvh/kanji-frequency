@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adf838d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "rejection"
+        }
+      ],
+      "mobileId": 230593,
+      "phonetic": "そきゃく",
+      "word": "阻却"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777c166c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "barrage balloon"
+        }
+      ],
+      "mobileId": 268475,
+      "phonetic": "そさいききゅう",
+      "word": "阻塞気球"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad9f397",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "justifiable cause for noncompliance with the law"
+        }
+      ],
+      "mobileId": 230410,
+      "phonetic": "いほうせいそきゃくじゆう",
+      "word": "違法性阻却事由"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

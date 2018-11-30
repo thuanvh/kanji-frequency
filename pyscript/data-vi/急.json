@@ -1,0 +1,276 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74403266",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "急な屋根",
+              "mean": "mái nhà dốc",
+              "transcription": "きゅうなやね"
+            }
+          ],
+          "kind": "adj-na",
+          "mean": "hiểm trở; dốc"
+        },
+        {
+          "examples": [
+            {
+              "content": "急な流れ",
+              "mean": "dòng chảy nhanh (nước chảy xiết)",
+              "transcription": "きゅうなながれ"
+            }
+          ],
+          "kind": "adj-na",
+          "mean": "nhanh; xiết"
+        },
+        {
+          "examples": [
+            {
+              "content": "急を要する問題",
+              "mean": "vấn đề cần xử lý gấp",
+              "transcription": "きゅうをようするもんだい"
+            }
+          ],
+          "kind": "adj-na",
+          "mean": "vội; gấp; gấp gáp; cấp bách; khẩn cấp; nguy cấp"
+        }
+      ],
+      "mobileId": 98410,
+      "opposite_word": [
+        "緩"
+      ],
+      "phonetic": "きゅう",
+      "related_words": {
+        "word": [
+          "緊急",
+          "急いで",
+          "救急車",
+          "至急",
+          "急ぐ",
+          "宅急便",
+          "特急",
+          "取り急ぎ",
+          "急な",
+          "急ぎ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "急",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "俄",
+                "不意",
+                "急激",
+                "唐突",
+                "卒爾",
+                "率爾",
+                "突然",
+                "出し抜け"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "迅速",
+                "急速",
+                "急激",
+                "速い"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "截然たる",
+                "切り立った"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "俄",
+                "不意",
+                "慮外",
+                "急激",
+                "唐突",
+                "突発的",
+                "卒爾",
+                "率爾",
+                "突然",
+                "出し抜け"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "迅速",
+                "急速",
+                "急激",
+                "スピーディー",
+                "速い"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "急"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e801b348",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khúc cua gắt"
+        }
+      ],
+      "mobileId": 33539,
+      "phonetic": "きゅうカーブ",
+      "word": "急カーブ"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf91bfa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "emergency braking procedure (e.g. during driver training and testing)"
+        }
+      ],
+      "mobileId": 247777,
+      "phonetic": "きゅうせいど",
+      "word": "急制度"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c775a0a86",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abrupt steering"
+        }
+      ],
+      "mobileId": 267352,
+      "phonetic": "きゅうハンドル",
+      "word": "急ハンドル"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f8eec6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ngâm làm nghiêng"
+        }
+      ],
+      "mobileId": 25813,
+      "phonetic": "きゅうしゃめん",
+      "word": "急斜面"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193faaa02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tiếng kêu vù vu, sự làm cho bay vọt lên; sự bay vọt lên, kêu vù vù, bay vọt lên"
+        }
+      ],
+      "mobileId": 25863,
+      "phonetic": "きゅうじょうしょう",
+      "related_words": {
+        "word": [
+          "上",
+          "急"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "急上昇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "急増",
+                "急騰"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "急増"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "急上昇"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fbfe79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự gấp rút, sự cần kíp, sự khẩn cấp, sự cấp bách, sự khẩn nài, sự năn nỉ"
+        }
+      ],
+      "mobileId": 25907,
+      "phonetic": "きゅうせつ",
+      "related_words": {
+        "word": [
+          "急",
+          "切"
+        ]
+      },
+      "word": "急切"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fdbc9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự triển khai cấp tốc"
+        }
+      ],
+      "mobileId": 25964,
+      "phonetic": "きゅうてんかい",
+      "word": "急展開"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fdc183",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đột ngột thay đổi"
+        }
+      ],
+      "mobileId": 25965,
+      "phonetic": "きゅうてんかん",
+      "word": "急転換"
+    },
+    {
+      "_id": "432518852de0a80625d585a9827530ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "fast approach, quick intimacy"
+        }
+      ],
+      "mobileId": 235334,
+      "phonetic": "きゅうせっきん",
+      "word": "急接近"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

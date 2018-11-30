@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0cfdc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "station (esp. a police station), office (i.e. tax office)"
+        }
+      ],
+      "mobileId": 223820,
+      "phonetic": "しょ",
+      "word": "署"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdddb462",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rừng dịch vụ văn phòng lĩnh vực"
+        }
+      ],
+      "mobileId": 16777,
+      "phonetic": "えいりんしょ",
+      "related_words": {
+        "word": [
+          "林"
+        ]
+      },
+      "word": "営林署"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fde9fa3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cục phòng cháy chữa cháy ."
+        }
+      ],
+      "mobileId": 188589,
+      "phonetic": "しょうぼうしょ",
+      "word": "消防署"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dfe0233",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Văn phòng chính phủ ."
+        }
+      ],
+      "mobileId": 145726,
+      "phonetic": "こうしょ",
+      "related_words": {
+        "word": [
+          "公"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "公署",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "官庁",
+                "役所"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "公署"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0339f96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "government and public offices, public agency"
+        }
+      ],
+      "mobileId": 282604,
+      "phonetic": "かんこうしょ",
+      "word": "官公署"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c3ecfb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eastern department, eastern office"
+        }
+      ],
+      "mobileId": 213161,
+      "phonetic": "ひがししょ",
+      "word": "東署"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa706f2f7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "警察署長は姿勢の改善を呼び掛けた",
+              "mean": "cảnh sát trưởng đã kêu gọi nhân viên cải thiện tác phong làm việc",
+              "transcription": "けいさつしょちょうはしせいのかいぜんをよびかけた"
+            },
+            {
+              "content": "その街には特殊犯罪を扱う警察署が設置されたばかりだ",
+              "mean": "Ở thị trấn đó, cảnh sát vừa thiết lập phòng cảnh sát xử lý tội phạm đặc thù",
+              "transcription": "そのまちにはとくしゅはんざいをあつかうけいさつしょがせっちされたばかりだ"
+            },
+            {
+              "content": "大都市の警察署",
+              "mean": "sở cảnh sát của thành phố lớn .",
+              "transcription": "だいとしのけいさつしょ"
+            }
+          ],
+          "kind": "n",
+          "mean": "sở cảnh sát; phòng cảnh sát; văn phòng cảnh sát; trạm cảnh sát"
+        }
+      ],
+      "mobileId": 106826,
+      "phonetic": "けいさつしょ",
+      "related_words": {
+        "word": [
+          "警察",
+          "察"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "警察署",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "屯所",
+                "警察"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "警察署"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

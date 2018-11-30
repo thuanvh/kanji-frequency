@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77eee6ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "entomophily"
+        }
+      ],
+      "mobileId": 272210,
+      "phonetic": "ちゅうばい",
+      "word": "虫媒"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77739410",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anemophily"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "anemophilous"
+        }
+      ],
+      "mobileId": 268185,
+      "phonetic": "ふうばい",
+      "word": "風媒"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801466dc9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hoa thụ phấn nhờ chim muông ."
+        }
+      ],
+      "mobileId": 42953,
+      "phonetic": "ちょうばいか",
+      "word": "鳥媒花"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77eef646",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hydrophilous flower"
+        }
+      ],
+      "mobileId": 272211,
+      "phonetic": "すいばいか",
+      "word": "水媒花"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

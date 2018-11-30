@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d40261f0",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "thay thế"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "さしかえ",
+      "word": "差替"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0086260",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "changing (person in charge, etc.), shifting"
+        }
+      ],
+      "mobileId": 281230,
+      "phonetic": "いたい",
+      "word": "移替"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cef802",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "annual religious ceremony that occurs in Tenmangu where worshippers come to exchange their wooden bullfinch birds"
+        }
+      ],
+      "mobileId": 262896,
+      "phonetic": "うそかえ",
+      "word": "鷽替"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b898ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự lên và sự rơi ((của) những dân tộc)"
+        }
+      ],
+      "mobileId": 39398,
+      "phonetic": "きょうかわ",
+      "related_words": {
+        "word": [
+          "興"
+        ]
+      },
+      "word": "興替"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954b75de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "xuống dốc, tàn tạ"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "làm yếu đi, làm nhụt, yếu đi, nhụt đi"
+        }
+      ],
+      "mobileId": 58505,
+      "phonetic": "",
+      "word": "衰替"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02230c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "reconstructing (shrine, temple, etc.), altering"
+        }
+      ],
+      "mobileId": 282045,
+      "phonetic": "ぞうたい",
+      "word": "造替"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eae669b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trao đổi; sự trao đổi"
+        }
+      ],
+      "mobileId": 116625,
+      "phonetic": "とかわ",
+      "synsets": [
+        {
+          "base_form": "取替",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "商い",
+                "チェンジ",
+                "売買",
+                "トレード",
+                "商",
+                "交換",
+                "バーター",
+                "取り替え"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "エクスチェンジ",
+                "交換",
+                "やり取り",
+                "取り替え",
+                "替え"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "エクスチェンジ",
+                "交換",
+                "取り替え"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "取替"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

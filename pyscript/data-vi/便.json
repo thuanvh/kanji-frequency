@@ -1,0 +1,316 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7db533ed",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "速達便",
+              "mean": "thư nhanh",
+              "transcription": "そくたつびん"
+            },
+            {
+              "content": "航空便",
+              "mean": "thư hàng không",
+              "transcription": "こうくうびん"
+            },
+            {
+              "content": "便箋",
+              "mean": "viết thư",
+              "transcription": "びんせん"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "bưu điện"
+        },
+        {
+          "examples": [
+            {
+              "content": "便のある次第",
+              "mean": "nếu có dịp .",
+              "transcription": "びんのあるしだい"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "cơ hội"
+        }
+      ],
+      "mobileId": 144525,
+      "phonetic": "びん",
+      "related_words": {
+        "word": [
+          "郵便番号",
+          "便利",
+          "宅配便",
+          "郵便局",
+          "郵便",
+          "航空便",
+          "便所",
+          "大便",
+          "宅急便",
+          "不便"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "便",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "便益",
+                "コンビニエンス",
+                "軽便",
+                "重宝",
+                "便宜"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雁の便り",
+                "文",
+                "便り",
+                "郵便",
+                "投書",
+                "雁書",
+                "信書",
+                "状",
+                "書簡",
+                "書面",
+                "信",
+                "雁の使い",
+                "手紙",
+                "雁の文",
+                "レター"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "便益",
+                "コンビニエンス",
+                "便宜",
+                "好都合"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "便"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7db54d69",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "外人観光客の便を図って大きなホテルが建てられた.",
+              "mean": "Một khách sạn lớn được xây dựng tiện nghi phục vụ cho người nước ngoài.",
+              "transcription": "がいじんかんこうきゃくのびんをはかっておおきなホテルがたてられた."
+            },
+            {
+              "content": "駅からその温泉地まではバスの便がある.",
+              "mean": "Từ ga đên suối nước nóng đi bằng xe buýt rất tiện.TIỆN",
+              "transcription": "えきからそのおんせんちまではバスのびんがある."
+            }
+          ],
+          "kind": "n",
+          "mean": "sự thuận tiện"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "thuận tiện ."
+        }
+      ],
+      "mobileId": 144526,
+      "phonetic": "べん",
+      "related_words": {
+        "word": [
+          "郵便番号",
+          "便利",
+          "宅配便",
+          "郵便局",
+          "郵便",
+          "航空便",
+          "便所",
+          "大便",
+          "宅急便",
+          "不便"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "便",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "便益",
+                "コンビニエンス",
+                "軽便",
+                "重宝",
+                "便宜"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雁の便り",
+                "文",
+                "便り",
+                "郵便",
+                "投書",
+                "雁書",
+                "信書",
+                "状",
+                "書簡",
+                "書面",
+                "信",
+                "雁の使い",
+                "手紙",
+                "雁の文",
+                "レター"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "便益",
+                "コンビニエンス",
+                "便宜",
+                "好都合"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "便"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e883cd3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hủy bỏ chuyến bay"
+        }
+      ],
+      "mobileId": 37708,
+      "phonetic": "けつびん",
+      "word": "欠便"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680124814f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chuyến bay"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thư máy bay ."
+        }
+      ],
+      "mobileId": 42349,
+      "phonetic": "ひこうびん",
+      "word": "飛行便"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bdeccd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự tâng bốc, sự xu nịnh, sự bợ đỡ, lời tâng bốc, lời nịnh hót, lời bợ đỡ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự nịnh hót, sự nịnh nọt, sự bợ đỡ"
+        }
+      ],
+      "mobileId": 6064,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "便"
+        ]
+      },
+      "word": "便侫"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef968e9c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "black stools"
+        }
+      ],
+      "mobileId": 276083,
+      "phonetic": "こくべん",
+      "word": "黒便"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77aa9427",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "olive-backed pipit (Anthus hodgsoni), Hodgson's tree pipit, Indian tree pipit"
+        }
+      ],
+      "mobileId": 269998,
+      "phonetic": "びんずい ビンズイ",
+      "word": "便追"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c3a102",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tub used to collect feces in an outhouse"
+        }
+      ],
+      "mobileId": 262537,
+      "phonetic": "べんそう",
+      "word": "便槽"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a33663d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fecal incontinence (faecal), anal leakage"
+        }
+      ],
+      "mobileId": 225060,
+      "phonetic": "べんしっきん",
+      "word": "便失禁"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938c0778",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chuyên chở"
+        }
+      ],
+      "mobileId": 22373,
+      "phonetic": "かもつびん",
+      "word": "貨物便"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

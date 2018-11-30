@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d35dcfb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "湖を見下ろす丘",
+              "mean": "ngọn đồi hướng ra hồ",
+              "transcription": "みずうみをみおろすおか"
+            },
+            {
+              "content": "雪で覆われた丘",
+              "mean": "ngọn đồi được bao phủ bởi tuyết",
+              "transcription": "ゆきでおおわれたおか"
+            },
+            {
+              "content": "私たちは歩いて丘を登った",
+              "mean": "chúng tôi đã leo lên đồi",
+              "transcription": "わたしたちはあるいておかをのぼった"
+            },
+            {
+              "content": "見晴らしの良い丘",
+              "mean": "quả đồi với cảnh quan tuyệt đẹp",
+              "transcription": "みはらしのよいおか"
+            },
+            {
+              "content": "夏草の茂る丘",
+              "mean": "quả đồi xanh tốt cỏ mùa hè .",
+              "transcription": "なつくさのしげるおか"
+            },
+            {
+              "content": "そり滑りに絶好の丘",
+              "mean": "ngọn đồi nơi thường chơi trò trượt tuyết",
+              "transcription": "そりすべりにぜっこうのおか"
+            },
+            {
+              "content": "はるかかなたにぼんやりと見える小高い丘",
+              "mean": "nhìn thấy quả đồi nhỏ qua làn sương",
+              "transcription": "はるかかなたにぼんやりとみえるこだかいおか"
+            }
+          ],
+          "kind": "n",
+          "mean": "quả đồi; ngọn đồi; đồi"
+        }
+      ],
+      "mobileId": 142304,
+      "phonetic": "おか",
+      "related_words": {
+        "word": [
+          "砂丘",
+          "丘陵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "丘",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ヒル",
+                "岡",
+                "丘陵"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "丘"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d221f52",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đổ cát ngọn đồi; đổ cát cồn cát"
+        }
+      ],
+      "mobileId": 146811,
+      "phonetic": "いさごおか",
+      "word": "沙丘"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0926ef2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ice hummock"
+        }
+      ],
+      "mobileId": 285634,
+      "phonetic": "ひょうきゅう",
+      "word": "氷丘"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c6de27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hill"
+        }
+      ],
+      "mobileId": 262641,
+      "phonetic": "りょうきゅう",
+      "word": "陵丘"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde7eca5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gò đống; đồi nhỏ"
+        }
+      ],
+      "mobileId": 17107,
+      "phonetic": "まどかたかし",
+      "related_words": {
+        "word": [
+          "円",
+          "丘"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "円丘",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "塚"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "円丘"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f9cf3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mụn nhọt"
+        }
+      ],
+      "mobileId": 25842,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "丘"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "丘疹",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "吹出物",
+                "出来物",
+                "吹き出物"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "丘疹"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05b4dc1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "small hill, low hill, hillock"
+        }
+      ],
+      "mobileId": 283893,
+      "phonetic": "こだかいおか",
+      "word": "小高い丘"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3c59e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xương mu mons; mons veneris"
+        }
+      ],
+      "mobileId": 112962,
+      "phonetic": "はじおか",
+      "word": "恥丘"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdffc7c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vùng lân cận (của) một ngọn đồi"
+        }
+      ],
+      "mobileId": 17879,
+      "phonetic": "おかあたり",
+      "word": "丘辺"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99b2266",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hillock, small hill, knoll, hummock"
+        }
+      ],
+      "mobileId": 277683,
+      "phonetic": "しょうきゅう",
+      "word": "小丘"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

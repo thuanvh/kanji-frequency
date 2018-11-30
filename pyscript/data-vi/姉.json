@@ -1,0 +1,217 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10760b221",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "姉さん女房",
+              "mean": "người vợ lớn tuổi hơn chồng",
+              "transcription": "ねえさんにょうぼう"
+            },
+            {
+              "content": "姉婿",
+              "mean": "anh rể",
+              "transcription": "あねむこ"
+            },
+            {
+              "content": "一番上の姉",
+              "mean": "chị cả",
+              "transcription": "いちばんじょうのあね"
+            }
+          ],
+          "kind": "n",
+          "mean": "chị; chị của mình"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tỷ ."
+        }
+      ],
+      "mobileId": 53472,
+      "opposite_word": [
+        "妹"
+      ],
+      "phonetic": "あね",
+      "related_words": {
+        "word": [
+          "お姉さん",
+          "姉妹",
+          "姉さん",
+          "姉妹都市",
+          "従姉妹",
+          "義姉",
+          "姉御",
+          "従姉"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "姉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "娘",
+                "女の子",
+                "お嬢さん",
+                "少女",
+                "女子",
+                "お姉さん",
+                "姉さん",
+                "ヤングレディー",
+                "嬢",
+                "乙女",
+                "ガール",
+                "早少女"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "姉"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107611044",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chị và em trai ."
+        }
+      ],
+      "mobileId": 53478,
+      "phonetic": "きょうだい",
+      "related_words": {
+        "word": [
+          "弟",
+          "姉"
+        ]
+      },
+      "word": "姉弟"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7fb77f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "young lady (in ref. to a maid, etc.)"
+        }
+      ],
+      "mobileId": 252152,
+      "phonetic": "ねえや",
+      "word": "姉や"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80c89b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anh(em) trai và chị, em gái"
+        }
+      ],
+      "mobileId": 33893,
+      "opposite_word": [
+        "弟妹"
+      ],
+      "phonetic": "あにあね",
+      "related_words": {
+        "word": [
+          "兄",
+          "姉"
+        ]
+      },
+      "word": "兄姉"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193dd1f17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn, adj-no",
+          "mean": "quý bà; quý chị (bày tỏ sự kính trọng)"
+        }
+      ],
+      "mobileId": 24917,
+      "phonetic": "きあね",
+      "word": "貴姉"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f4682f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "step-sister (elder), stepsister"
+        }
+      ],
+      "mobileId": 264078,
+      "phonetic": "ままねえ",
+      "word": "継姉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3acced40",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "older sister"
+        }
+      ],
+      "mobileId": 229982,
+      "phonetic": "ぐし",
+      "word": "愚姉"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e5a114",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người chị đã mất, người chị quá cố"
+        }
+      ],
+      "mobileId": 7310,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "姉"
+        ]
+      },
+      "word": "亡姉"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd42e1af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chị, em gái già(cũ) hơn"
+        }
+      ],
+      "mobileId": 11932,
+      "phonetic": "あねじょう",
+      "word": "姉上"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08bc92e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "elder sister"
+        }
+      ],
+      "mobileId": 211333,
+      "phonetic": "あねぎみ",
+      "word": "姉君"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

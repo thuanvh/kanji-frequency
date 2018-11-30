@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c051091a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "beautiful, florid"
+        }
+      ],
+      "mobileId": 209454,
+      "phonetic": "ひぜん",
+      "word": "斐然"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7763d8c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional Japanese paper made from the fibre of plant species Diplomorpha sikokiana (high quality, glossy)"
+        }
+      ],
+      "mobileId": 267683,
+      "phonetic": "ひし",
+      "word": "斐紙"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6846a42a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đẹp; hoa mỹ"
+        }
+      ],
+      "mobileId": 2280,
+      "phonetic": "",
+      "word": "斐然たる"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

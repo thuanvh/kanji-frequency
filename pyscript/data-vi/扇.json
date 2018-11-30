@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f748002d2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "水路が扇のように広がる",
+              "mean": "đường nước tỏa ra như chiếc quạt",
+              "transcription": "すいろがおうぎのようにひろがる"
+            },
+            {
+              "content": "尾扇",
+              "mean": "quạt lông công",
+              "transcription": "おおうぎ"
+            },
+            {
+              "content": "白檀の扇",
+              "mean": "quạt làm bằng gỗ đàn hương .",
+              "transcription": "びゃくだんのおうぎ"
+            }
+          ],
+          "kind": "n",
+          "mean": "quạt gấp; quạt giấy; quạt"
+        }
+      ],
+      "mobileId": 99324,
+      "phonetic": "おうぎ",
+      "word": "扇"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821ed95c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "formal folding fan made of hinoki cypress (formerly used by court ladies)"
+        }
+      ],
+      "mobileId": 232603,
+      "phonetic": "あこめおうぎ",
+      "word": "衵扇"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4c5633",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "formal folding fan made of hinoki cypress"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "blackberry lily (Belamcanda Chinensis), leopard lily, leopard flower"
+        }
+      ],
+      "mobileId": 225861,
+      "phonetic": "ひおうぎ",
+      "word": "檜扇"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74805a7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơn gió lốc ."
+        }
+      ],
+      "mobileId": 99331,
+      "phonetic": "せんぷう",
+      "word": "扇風"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77193ad9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fan in autumn (esp. one that is no longer used), outdated item that has fallen into disuse, woman who has lost a man's affection or interest"
+        }
+      ],
+      "mobileId": 265275,
+      "phonetic": "しゅうせん あきおうぎ",
+      "word": "秋扇"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10740ee7b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "天井扇が付いている高い天井",
+              "mean": "trần nhà cao có treo quạt trần",
+              "transcription": "てんじょうおうぎがついているたかいてんじょう"
+            },
+            {
+              "content": "あの天井扇風機はグラグラしている",
+              "mean": "cái quạt trần đó đang lắc lư/lung lay",
+              "transcription": "あのてんじょうせんぷうきはグラグラしている"
+            },
+            {
+              "content": "天井扇が付いている高い天井",
+              "mean": "trần nhà cao có treo quạt trần",
+              "transcription": "てんじょうおうぎがついているたかいてんじょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "Quạt trần"
+        }
+      ],
+      "mobileId": 52908,
+      "phonetic": "てんじょうせん",
+      "word": "天井扇"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e46005f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tail fan"
+        }
+      ],
+      "mobileId": 250277,
+      "phonetic": "びせん",
+      "word": "尾扇"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e8d5816",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traveller's tree (Ravenala madagascariensis), traveller's palm"
+        }
+      ],
+      "mobileId": 252587,
+      "phonetic": "おうぎばしょう オウギバショウ",
+      "word": "扇芭蕉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77188667",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "old fan, worn out fan"
+        }
+      ],
+      "mobileId": 265252,
+      "phonetic": "ふるおうぎ",
+      "word": "古扇"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77193539",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "discarded fan (in autumn), forgotten fan"
+        }
+      ],
+      "mobileId": 265274,
+      "phonetic": "わすれおうぎ",
+      "word": "忘れ扇"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

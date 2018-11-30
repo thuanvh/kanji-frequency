@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c016b76e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, vi",
+          "mean": "The sun has set completely"
+        }
+      ],
+      "mobileId": 189875,
+      "phonetic": "くれはてる",
+      "word": "暮果てる"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771574ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "spring evening"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "end of spring"
+        }
+      ],
+      "mobileId": 265149,
+      "phonetic": "はるのくれ",
+      "word": "春の暮"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c07df671",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bolivia"
+        }
+      ],
+      "mobileId": 210896,
+      "phonetic": "ボリビア",
+      "word": "暮利比亜"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7717443f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sixth lunar month"
+        }
+      ],
+      "mobileId": 265206,
+      "phonetic": "すずくれづき",
+      "word": "涼暮月"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ce3640",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "end of spring"
+        }
+      ],
+      "mobileId": 262873,
+      "phonetic": "くれのはる",
+      "word": "暮の春"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d3304b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "every morning and evening"
+        }
+      ],
+      "mobileId": 213660,
+      "phonetic": "ちょうちょうぼぼ",
+      "word": "朝々暮々"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

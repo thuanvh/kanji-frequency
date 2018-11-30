@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107d294b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màn; rèm ."
+        }
+      ],
+      "mobileId": 55415,
+      "phonetic": "まく",
+      "related_words": {
+        "word": [
+          "字幕",
+          "弾幕",
+          "幕府",
+          "開幕",
+          "終幕",
+          "幕開け",
+          "幕間",
+          "垂れ幕",
+          "序幕",
+          "閉幕"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "幕",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "カーテン",
+                "帷幕",
+                "帷帳",
+                "緞帳",
+                "覆い",
+                "帳",
+                "帷"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "幕"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68417445",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bức màn kéo (ở rạp hát, có thể kéo về hai phía)"
+        }
+      ],
+      "mobileId": 2114,
+      "opposite_word": [
+        "垂れ幕"
+      ],
+      "phonetic": "ひきまく",
+      "related_words": {
+        "word": [
+          "幕"
+        ]
+      },
+      "word": "引き幕"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f6ff8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chớp loé ra như một mảng ánh sáng rộng trên trời"
+        }
+      ],
+      "mobileId": 7875,
+      "phonetic": "まくでん",
+      "word": "幕電"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6831af29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cắm trại"
+        }
+      ],
+      "mobileId": 1612,
+      "phonetic": "まくしゃ",
+      "word": "幕舎"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0835a44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blackout curtain, lampshade, shade"
+        }
+      ],
+      "mobileId": 285135,
+      "phonetic": "しゃっこうまく",
+      "word": "遮光幕"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada229002",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "màng trinh ."
+        }
+      ],
+      "mobileId": 77477,
+      "phonetic": "しょじょまく",
+      "word": "処女幕"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dee4ee5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coloured curtains hanging from the eaves of a Buddhist temple"
+        }
+      ],
+      "mobileId": 222822,
+      "phonetic": "ぶつまく",
+      "word": "仏幕"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77abaed5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fully raising the curtain when an actor enters or exits (noh)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "curtain with a family crest"
+        }
+      ],
+      "mobileId": 270029,
+      "phonetic": "ほんまく",
+      "word": "本幕"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6831927c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quân đội shogunate"
+        }
+      ],
+      "mobileId": 1609,
+      "phonetic": "まくぐん",
+      "word": "幕軍"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954645a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màn vây xung quanh trại lính"
+        }
+      ],
+      "mobileId": 58323,
+      "phonetic": "じんまく",
+      "word": "陣幕"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

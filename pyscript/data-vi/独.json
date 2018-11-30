@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a3a8b8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "độc ."
+        }
+      ],
+      "mobileId": 171331,
+      "phonetic": "どく",
+      "word": "独"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a3a7f17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước Đức"
+        }
+      ],
+      "mobileId": 171330,
+      "phonetic": "どいつ",
+      "word": "独"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec220fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự bơi một mình; sự bơi bỏ xa đối thủ (khi thi bơi)"
+        }
+      ],
+      "mobileId": 117244,
+      "phonetic": "",
+      "word": "独泳"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d130f36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "anti-German"
+        }
+      ],
+      "mobileId": 215712,
+      "phonetic": "こうどく",
+      "word": "抗独"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e354eb3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "private interview with a Zen Master"
+        }
+      ],
+      "mobileId": 249737,
+      "phonetic": "どくさん",
+      "word": "独参"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f096c36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nhật-Đức ."
+        }
+      ],
+      "mobileId": 185077,
+      "phonetic": "にちどく",
+      "related_words": {
+        "word": [
+          "日"
+        ]
+      },
+      "word": "日独"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c825ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Britain and Germany"
+        }
+      ],
+      "mobileId": 213297,
+      "phonetic": "えいどく",
+      "word": "英独"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec21782",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước Đức và nước Anh; tiếng Đức và tiếng Anh"
+        }
+      ],
+      "mobileId": 117243,
+      "phonetic": "どくえい",
+      "word": "独英"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef980118a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "single woman, bachelor girl, spinster"
+        }
+      ],
+      "mobileId": 276816,
+      "phonetic": "どくじょ どくおんな ひとりおんな",
+      "word": "独女"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b7fcd5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mỹ và đức; đức mỹ"
+        }
+      ],
+      "mobileId": 5885,
+      "phonetic": "べいどく",
+      "word": "米独"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

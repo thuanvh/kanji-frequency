@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed951fca28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự cho quyền, sự cho phép, uỷ quyền, quyền được cho phép"
+        }
+      ],
+      "mobileId": 57115,
+      "phonetic": "",
+      "word": "授権"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77366c0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "bestowing a decoration, bestowing an order"
+        }
+      ],
+      "mobileId": 266223,
+      "opposite_word": [
+        "受章"
+      ],
+      "phonetic": "じゅしょう",
+      "word": "授章"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9291974",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vyakarana (assurance of future enlightenment)"
+        }
+      ],
+      "mobileId": 257587,
+      "phonetic": "じゅき",
+      "word": "授記"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5924c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "allotment of rice paddies for cultivation during the cultivator's lifetime (ancient Japanese law)"
+        }
+      ],
+      "mobileId": 250901,
+      "phonetic": "はんでんしゅうじゅのほう",
+      "word": "班田収授法"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

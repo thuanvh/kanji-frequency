@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d44994",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "boiled pine pitch and oil (traditionally used as a glue in archery, etc.)"
+        }
+      ],
+      "mobileId": 263060,
+      "phonetic": "くすね",
+      "word": "薬煉"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9e78d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "văn hóa; sự huấn luyện; khoan; thực hành"
+        }
+      ],
+      "mobileId": 150746,
+      "phonetic": "おさむねり",
+      "synsets": [
+        {
+          "base_form": "修煉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "慣れ",
+                "修錬",
+                "練習",
+                "慣行",
+                "実習",
+                "実際",
+                "修練",
+                "実行"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "慣れ",
+                "修錬",
+                "訓練",
+                "稽古",
+                "練習",
+                "習慣",
+                "実習",
+                "実際",
+                "修練",
+                "実行"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "修煉"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

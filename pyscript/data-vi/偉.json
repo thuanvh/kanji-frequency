@@ -1,0 +1,177 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd59b0e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự to lớn; tính vĩ đại; sự xuất chúng; sự tráng lệ"
+        }
+      ],
+      "mobileId": 12658,
+      "phonetic": "えら",
+      "word": "偉"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd64d758",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuyệt vời chứng nhượng"
+        }
+      ],
+      "mobileId": 13018,
+      "phonetic": "えらきょ",
+      "related_words": {
+        "word": [
+          "挙"
+        ]
+      },
+      "word": "偉挙"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd915eda",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trinh tiết nổi bật"
+        }
+      ],
+      "mobileId": 14408,
+      "phonetic": "えらいさお",
+      "word": "偉徳"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde4bd09",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "để (thì) kiêu ngạo"
+        }
+      ],
+      "mobileId": 17005,
+      "phonetic": "えらがる",
+      "word": "偉がる"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db6a752",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v5r",
+          "mean": "Vênh vang"
+        }
+      ],
+      "mobileId": 221019,
+      "phonetic": "えらぶる",
+      "word": "偉ぶる"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd713986",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiệt tác để đời; sự nghiệp vĩ đại; sự nghiệp lao động"
+        }
+      ],
+      "mobileId": 13396,
+      "phonetic": "えらあと",
+      "related_words": {
+        "word": [
+          "跡"
+        ]
+      },
+      "word": "偉跡"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd71421e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "việc còn lại làm việc; kết quả (của) một lao động (của) người đàn ông"
+        }
+      ],
+      "mobileId": 13397,
+      "phonetic": "えらあと",
+      "word": "偉蹟"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda28386",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thành tích lớn"
+        }
+      ],
+      "mobileId": 14948,
+      "phonetic": "えられつ",
+      "synsets": [
+        {
+          "base_form": "偉烈",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "手柄",
+                "偉業",
+                "偉勲",
+                "功績",
+                "功名",
+                "業績",
+                "功業",
+                "事績"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "偉烈"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c8a2f0",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-na",
+          "mean": "Hống hách, tự kiêu, tự cao"
+        }
+      ],
+      "mobileId": 213310,
+      "phonetic": "えらそう",
+      "related_words": {
+        "word": [
+          "そう"
+        ]
+      },
+      "word": "偉そう"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db09647",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuyệt vời và lớn"
+        }
+      ],
+      "mobileId": 151331,
+      "phonetic": "しゅんえら",
+      "related_words": {
+        "word": [
+          "俊"
+        ]
+      },
+      "word": "俊偉"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

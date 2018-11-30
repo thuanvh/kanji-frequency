@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e81c50ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khoan; mũi khoan"
+        }
+      ],
+      "mobileId": 34404,
+      "phonetic": "きり",
+      "related_words": {
+        "word": [
+          "円錐",
+          "三角錐",
+          "円錐形",
+          "角錐"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "錐",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鑚孔機",
+                "ドリル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "錐"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca000b463",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "square drill"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "regular pyramid"
+        }
+      ],
+      "mobileId": 280972,
+      "phonetic": "ほうすい",
+      "word": "方錐"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef921da6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pump drill, bowdrill, bow drill"
+        }
+      ],
+      "mobileId": 273849,
+      "phonetic": "まいぎり",
+      "word": "舞錐"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e405ae4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anatase (TiO2), octahedrite"
+        }
+      ],
+      "mobileId": 250091,
+      "phonetic": "えいすいせき",
+      "word": "鋭錐石"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92d3b33",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Triconodonta, Eutriconodonta, order of early mammals"
+        }
+      ],
+      "mobileId": 274215,
+      "phonetic": "さんすいしもく",
+      "word": "三錐歯目"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e55286e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cone cell"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pyramidal cell"
+        }
+      ],
+      "mobileId": 250768,
+      "phonetic": "すいたいさいぼう",
+      "word": "錐体細胞"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777db95f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pyramidal tract, corticospinal tract"
+        }
+      ],
+      "mobileId": 268532,
+      "phonetic": "すいたいろ",
+      "word": "錐体路"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f0a254",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "cream rises to the top, a drill in a bag (will always poke through)"
+        }
+      ],
+      "mobileId": 263958,
+      "phonetic": "のうちゅうのきり",
+      "word": "嚢中の錐"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c73d80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hình chóp bình thường"
+        }
+      ],
+      "mobileId": 6353,
+      "phonetic": "ほうきりがた",
+      "word": "方錐形"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

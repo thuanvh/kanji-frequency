@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f60f2fe",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "洗濯桶",
+              "mean": "xô lau nhà",
+              "transcription": "せんたくおけ"
+            },
+            {
+              "content": "水桶",
+              "mean": "xô nước",
+              "transcription": "みずおけ"
+            },
+            {
+              "content": "手洗い桶",
+              "mean": "xô rửa tay",
+              "transcription": "てあらいおけ"
+            },
+            {
+              "content": "汚水桶",
+              "mean": "xô nước bẩn",
+              "transcription": "おすいおけ"
+            },
+            {
+              "content": "マッシュ桶",
+              "mean": "xô cám",
+              "transcription": "マッシュおけ"
+            },
+            {
+              "content": "こね桶",
+              "mean": "xô nhào trộn",
+              "transcription": "こねおけ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái xô; xô đựng nước"
+        }
+      ],
+      "mobileId": 186576,
+      "phonetic": "おけ",
+      "related_words": {
+        "word": [
+          "棺桶",
+          "風呂桶"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "桶",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "バケツ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "水槽",
+                "タブ",
+                "甕",
+                "水盤"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "桶"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f4aabc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đêm làm bẩn cái xô"
+        }
+      ],
+      "mobileId": 41341,
+      "phonetic": "こやしおけ",
+      "word": "肥やし桶"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c4b53d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "washtub, dishpan, washing-up bowl"
+        }
+      ],
+      "mobileId": 213185,
+      "phonetic": "あらいおけ",
+      "word": "洗い桶"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5c7053",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thùng to để làm cho gạo là rượu nho"
+        }
+      ],
+      "mobileId": 148655,
+      "phonetic": "しこみおけ",
+      "word": "仕込み桶"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7f621d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bucket (for carrying sake, soy sauce, etc.)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "manure bucket"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rainwater bucket (for dousing fires)"
+        }
+      ],
+      "mobileId": 252139,
+      "phonetic": "ためおけ",
+      "word": "ため桶"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94224ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "night-soil bucket, honey bucket"
+        }
+      ],
+      "mobileId": 258411,
+      "phonetic": "こえおけ",
+      "word": "肥桶"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8cd74bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thùng phân bắc"
+        }
+      ],
+      "mobileId": 40077,
+      "phonetic": "こえおけ",
+      "word": "肥え桶"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568012a6969",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜の飼い葉おけから食べる",
+              "mean": "ăn ở máng .",
+              "transcription": "〜のかいばおけからたべる"
+            }
+          ],
+          "kind": "n",
+          "mean": "máng ăn"
+        }
+      ],
+      "mobileId": 42469,
+      "phonetic": "かいばおけ",
+      "word": "飼い葉桶"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771e4bf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "round box for apportioning individual rice servings"
+        }
+      ],
+      "mobileId": 265442,
+      "phonetic": "めんつう めんつ",
+      "word": "面桶"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568011f205e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ヒマラヤスギは風呂桶を作るのに最適の木である",
+              "mean": "Cây tùng ở núi Hymalia là loại cây phù hợp để làm bồn tắm",
+              "transcription": "ヒマラヤスギはふろおけをつくるのにさいてきのきである"
+            },
+            {
+              "content": "風呂桶に水を満たす",
+              "mean": "Lấy đầy nước trong bồn tắm. .",
+              "transcription": "ふろおけにみずをみたす"
+            }
+          ],
+          "kind": "n",
+          "mean": "bồn tắm"
+        }
+      ],
+      "mobileId": 42259,
+      "phonetic": "ふろおけ",
+      "related_words": {
+        "word": [
+          "風",
+          "風呂",
+          "桶"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "風呂桶",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "バスタブ",
+                "バス",
+                "浴槽",
+                "湯船"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "風呂桶"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6df9323c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "indicates the target of an activity, -ee (e.g. employee, examinee, trustee)"
+        }
+      ],
+      "mobileId": 223187,
+      "phonetic": "ひ",
+      "word": "被"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00b73be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "to cover (with something)"
+        }
+      ],
+      "mobileId": 189508,
+      "phonetic": "かぶす",
+      "word": "被す"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68434d10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số bị trừ"
+        }
+      ],
+      "mobileId": 2171,
+      "phonetic": "ひげんすう",
+      "related_words": {
+        "word": [
+          "数"
+        ]
+      },
+      "word": "被減数"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6846f229",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái gì đó tạo ra (e.g. bởi những chúa trời); tạo vật"
+        }
+      ],
+      "mobileId": 2289,
+      "phonetic": "ひぞうぶつ",
+      "word": "被造物"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1072c6ecf",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "脳外被膜",
+              "mean": "màng não",
+              "transcription": "のうがいひまく"
+            },
+            {
+              "content": "外被膜",
+              "mean": "màng bọc ngoài",
+              "transcription": "そとひまく"
+            },
+            {
+              "content": "硬変した外被",
+              "mean": "vỏ bọc ngoài có thể thay đổi độ cứng",
+              "transcription": "かたへんしたそとひ"
+            },
+            {
+              "content": "ケーブル外被",
+              "mean": "vỏ bọc dây cáp .",
+              "transcription": "ケーブルがいひ"
+            }
+          ],
+          "kind": "n",
+          "mean": "lớp phủ ngoài; lớp bao ngoài; vỏ ngoài; vỏ bọc"
+        }
+      ],
+      "mobileId": 52567,
+      "phonetic": "がいひ",
+      "related_words": {
+        "word": [
+          "外"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "外被",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "殻",
+                "茎",
+                "外皮"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "皮",
+                "外皮",
+                "表皮"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "外被"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3f1400",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Assumption (of the body and soul of Mary into heaven)"
+        }
+      ],
+      "mobileId": 225434,
+      "phonetic": "ひしょうてん",
+      "word": "被昇天"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d9659f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k",
+          "mean": "to wear on the head"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to have cloth, clothing, etc. bestowed upon one by their lord or master, to wear such cloth on the left shoulder"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to be injured"
+        }
+      ],
+      "mobileId": 219930,
+      "phonetic": "かずく かづく",
+      "word": "被く"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193812e3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bao hoa (thực vật học); bộ phận bên ngoài của hoa"
+        }
+      ],
+      "mobileId": 22035,
+      "phonetic": "はなひ",
+      "related_words": {
+        "word": [
+          "花"
+        ]
+      },
+      "word": "花被"
+    },
+    {
+      "_id": "432518852de0a80625d585a982327d41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "reduced"
+        }
+      ],
+      "mobileId": 233227,
+      "phonetic": "ひやく",
+      "word": "被約"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada865c4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nguyên cáo và bị cáo; bên nguyên và bên bị ."
+        }
+      ],
+      "mobileId": 79152,
+      "phonetic": "げんぴ",
+      "related_words": {
+        "word": [
+          "原"
+        ]
+      },
+      "word": "原被"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e2f9983",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "độ đục"
+        }
+      ],
+      "mobileId": 112546,
+      "phonetic": "にごたび",
+      "word": "濁度"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d4d8447",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nhũ tương ."
+        }
+      ],
+      "mobileId": 142764,
+      "phonetic": "にゅうだく",
+      "related_words": {
+        "word": [
+          "乳"
+        ]
+      },
+      "word": "乳濁"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88f9e75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, vs",
+          "mean": "(chem) sự treo"
+        }
+      ],
+      "mobileId": 38091,
+      "phonetic": "かかにご",
+      "word": "懸濁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06e7730",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "suspension"
+        }
+      ],
+      "mobileId": 284501,
+      "phonetic": "けんだくえき",
+      "word": "懸濁液"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d4d915b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dịch nhũ tương ."
+        }
+      ],
+      "mobileId": 142765,
+      "phonetic": "にゅうだくえき",
+      "related_words": {
+        "word": [
+          "乳",
+          "液"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "乳濁液",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "乳剤"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "乳濁液"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a939840d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "turbidity meter, nephelometer, turbidimeter"
+        }
+      ],
+      "mobileId": 258126,
+      "phonetic": "だくどけい",
+      "word": "濁度計"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

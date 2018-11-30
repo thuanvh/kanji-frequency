@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6a4907",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hansen's disease, leprosy, leper"
+        }
+      ],
+      "mobileId": 218512,
+      "phonetic": "らい かったい かたい",
+      "word": "癩"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779dcb68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "black leprosy"
+        }
+      ],
+      "mobileId": 269564,
+      "phonetic": "こくらい",
+      "word": "黒癩"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6a58c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Mycobacterium leprae, the bacteria that causes Hansen's disease (leprosy)"
+        }
+      ],
+      "mobileId": 218513,
+      "phonetic": "らいきん",
+      "word": "癩菌"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779da56b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vitiligo, leucoderma, leukoderma"
+        }
+      ],
+      "mobileId": 269559,
+      "phonetic": "しらはたけ しらはだけ",
+      "word": "白癩"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

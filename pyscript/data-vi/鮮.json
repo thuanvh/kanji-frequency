@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6dc7b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Korean person"
+        }
+      ],
+      "mobileId": 218615,
+      "phonetic": "せんじん",
+      "word": "鮮人"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6dbbb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "South Korea"
+        }
+      ],
+      "mobileId": 218614,
+      "phonetic": "なんせん",
+      "word": "南鮮"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9481eb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bright green"
+        }
+      ],
+      "mobileId": 258596,
+      "phonetic": "せんりょく",
+      "word": "鮮緑"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d01546",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phía bắc korea"
+        }
+      ],
+      "mobileId": 6642,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "北"
+        ]
+      },
+      "word": "北鮮"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af230f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Xianbei (ancient nomadic tribe of northern Asia)"
+        }
+      ],
+      "mobileId": 231183,
+      "phonetic": "せんぴ",
+      "word": "鮮卑"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680143e0d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "màu nâu tươi ."
+        }
+      ],
+      "mobileId": 42914,
+      "phonetic": "せんかっしょく",
+      "word": "鮮褐色"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb41dc5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đi đến Hàn Quốc"
+        }
+      ],
+      "mobileId": 74553,
+      "phonetic": "",
+      "word": "来鮮"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aac0558",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pliocene epoch"
+        }
+      ],
+      "mobileId": 228893,
+      "phonetic": "せんしんせい",
+      "word": "鮮新世"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eccbfc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "nhật bản và korea như một (khẩu hiệu từ 1910 1945)"
+        }
+      ],
+      "mobileId": 117576,
+      "phonetic": "",
+      "word": "内鮮一体"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada15ba30",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "người Nhật Bản và người Triều Tiên"
+        }
+      ],
+      "mobileId": 77246,
+      "phonetic": "ないせんじん",
+      "related_words": {
+        "word": [
+          "人"
+        ]
+      },
+      "word": "内鮮人"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

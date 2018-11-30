@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09cddae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pasture, grazing land"
+        }
+      ],
+      "mobileId": 211898,
+      "phonetic": "まき",
+      "word": "牧"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef29ed8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gieo trồng và chăn nuôi"
+        }
+      ],
+      "mobileId": 118764,
+      "phonetic": "のうまき",
+      "word": "農牧"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ecc80f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vùng đất có trang trại chăn nuôi gia súc; đồng cỏ, bãi cỏ"
+        }
+      ],
+      "mobileId": 7542,
+      "phonetic": "まきち",
+      "word": "牧地"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e49bfc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "transhumance, moving stock between pastures according to season"
+        }
+      ],
+      "mobileId": 271881,
+      "phonetic": "いぼく",
+      "word": "移牧"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77469c72",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Pastoral Epistles (i.e. Timothy 1 and 2, Titus)"
+        }
+      ],
+      "mobileId": 266734,
+      "phonetic": "ぼっかいしょかん",
+      "word": "牧会書簡"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa757f763",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trang trại ."
+        }
+      ],
+      "mobileId": 108187,
+      "phonetic": "のうぼくち",
+      "word": "農牧地"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f67688",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "con ngựa phi nước kiệu trong đồng cỏ"
+        }
+      ],
+      "mobileId": 7856,
+      "phonetic": "まきをかけるこま",
+      "word": "牧を駈ける駒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

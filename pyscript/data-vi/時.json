@@ -1,0 +1,401 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f18a2e4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "時にはかつこともあって、時として失敗に終わることもないではない",
+              "mean": "cũng có lúc thắng, cũng có lúc thua",
+              "transcription": "ときにはかつこともあって、ときとしてしっぱいにおわることもないではない"
+            }
+          ],
+          "kind": "n",
+          "mean": "có khi; có lúc"
+        },
+        {
+          "examples": [
+            {
+              "content": "大事な時",
+              "mean": "giờ phút trọng đại",
+              "transcription": "だいじなとき"
+            },
+            {
+              "content": "危急存亡の時",
+              "mean": "giây phút sống còn",
+              "transcription": "ききゅうそんぼうのとき"
+            }
+          ],
+          "kind": "n",
+          "mean": "giờ phút; giây phút"
+        },
+        {
+          "examples": [
+            {
+              "content": "時の政府",
+              "mean": "chính phủ lúc đó",
+              "transcription": "ときのせいふ"
+            }
+          ],
+          "kind": "n",
+          "mean": "lúc đó"
+        },
+        {
+          "examples": [
+            {
+              "content": "時のたつのを忘れる",
+              "mean": "quên thời gian trôi đi",
+              "transcription": "ときのたつのをわすれる"
+            },
+            {
+              "content": "時を稼ぐ",
+              "mean": "tranh thủ thời gian",
+              "transcription": "ときをかせぐ"
+            },
+            {
+              "content": "時は金なり",
+              "mean": "thời gian là vàng",
+              "transcription": "ときはきんなり"
+            }
+          ],
+          "kind": "n",
+          "mean": "lúc; khi; thời gian"
+        },
+        {
+          "examples": [
+            {
+              "content": "若葉の時",
+              "mean": "thời tiết đầu xuân",
+              "transcription": "わかばのとき"
+            }
+          ],
+          "kind": "n",
+          "mean": "mùa"
+        },
+        {
+          "examples": [
+            {
+              "content": "今こそ時だ",
+              "mean": "bây giờ chính là dịp tốt",
+              "transcription": "いまこそときだ"
+            }
+          ],
+          "kind": "n",
+          "mean": "thời cơ; cơ hội"
+        },
+        {
+          "examples": [
+            {
+              "content": "時に合う",
+              "mean": "gặp thời",
+              "transcription": "ときにあう"
+            },
+            {
+              "content": "若い時",
+              "mean": "thời còn trẻ",
+              "transcription": "わかいとき"
+            }
+          ],
+          "kind": "n",
+          "mean": "thời đại; thời kỳ"
+        },
+        {
+          "examples": [
+            {
+              "content": "雄鳥が時を作る",
+              "mean": "gà gáy sáng.",
+              "transcription": "おんどりがときをつくる"
+            }
+          ],
+          "kind": "n",
+          "mean": "thời điểm"
+        }
+      ],
+      "mobileId": 185350,
+      "phonetic": "とき",
+      "related_words": {
+        "word": [
+          "時間",
+          "同時に",
+          "時計",
+          "時々",
+          "一時的",
+          "営業時間",
+          "何時",
+          "腕時計",
+          "同時",
+          "一時"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "時",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "間",
+                "期間",
+                "時間"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "チャンス",
+                "好機",
+                "時節",
+                "機会",
+                "機",
+                "機宜",
+                "時宜",
+                "潮時"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "とき",
+                "時分",
+                "時節",
+                "時期",
+                "頃",
+                "潮時",
+                "折"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "時間",
+                "一時"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "折",
+                "場合",
+                "際"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "とき",
+                "回",
+                "折",
+                "度"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "時点",
+                "時節",
+                "機会",
+                "頃",
+                "節",
+                "折",
+                "場合",
+                "序"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "時間"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "瞬時",
+                "モーメント",
+                "時刻",
+                "瞬刻",
+                "刹那",
+                "寸時",
+                "片時",
+                "分秒",
+                "咄嗟"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "とき",
+                "歳月",
+                "年月",
+                "星霜",
+                "時間",
+                "春秋",
+                "タイム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "時刻",
+                "時間",
+                "刻限"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "とき",
+                "時代",
+                "期",
+                "時期",
+                "折",
+                "時間",
+                "タイム"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "時"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8f0791",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn, n-adv",
+          "mean": "không cùng nhau; thành người riêng, vật tách riêng ra"
+        }
+      ],
+      "mobileId": 14327,
+      "phonetic": "なんじなんじ",
+      "related_words": {
+        "word": [
+          "時",
+          "何",
+          "何時"
+        ]
+      },
+      "word": "何時何時"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a043ec6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(approx.) 2 o'clock (am or pm)"
+        }
+      ],
+      "mobileId": 223536,
+      "phonetic": "やつどき",
+      "word": "八つ時"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2378e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "during pregnancy, while pregnant"
+        }
+      ],
+      "mobileId": 224555,
+      "phonetic": "にんしんじ",
+      "word": "妊娠時"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a582d70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Greenwich Time"
+        }
+      ],
+      "mobileId": 226226,
+      "phonetic": "グリニッジじ グリニジじ",
+      "word": "グリニッジ時"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8da1464",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trưa, buổi trưa"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nửa đêm, mười hai giờ đêm"
+        }
+      ],
+      "mobileId": 40499,
+      "phonetic": "ここのつじ",
+      "word": "九つ時"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca048196a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flowers of the season"
+        }
+      ],
+      "mobileId": 283275,
+      "phonetic": "じか",
+      "word": "時花"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107617ca2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khi bắt đầu ."
+        }
+      ],
+      "mobileId": 53485,
+      "phonetic": "はじめるとき",
+      "word": "始める時"
+    },
+    {
+      "_id": "432518852de0a80625d585a9828131cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "assembly time"
+        }
+      ],
+      "mobileId": 235717,
+      "phonetic": "アセンブルじ",
+      "word": "アセンブル時"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cddf054c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thời gian thông thường"
+        }
+      ],
+      "mobileId": 75884,
+      "phonetic": "れいじ",
+      "related_words": {
+        "word": [
+          "時",
+          "例"
+        ]
+      },
+      "word": "例時"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

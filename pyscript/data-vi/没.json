@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fb9fdbc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "1945 年没の作家",
+              "mean": "Một tác giả mất năm 1945",
+              "transcription": "1945ねんぼつのさっか"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "cái chết; sự chấm hết"
+        },
+        {
+          "examples": [
+            {
+              "content": "没になった原稿は一切お返しいたしません",
+              "mean": "Bản thảo chưa sử dụng sẽ không được trả lại. .",
+              "transcription": "ぼつになったげんこうはいっさいおかえしいたしません"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "sự chui bài; sự dập bài; quân bài chui; quân bài dập"
+        }
+      ],
+      "mobileId": 187968,
+      "opposite_word": [
+        "出"
+      ],
+      "phonetic": "ぼつ",
+      "related_words": {
+        "word": [
+          "日没",
+          "沈没",
+          "水没",
+          "没収",
+          "陥没",
+          "神出鬼没",
+          "没頭",
+          "埋没",
+          "出没",
+          "戦没者"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "没",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "死亡",
+                "往生",
+                "死",
+                "一死",
+                "絶命"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "死亡",
+                "死神",
+                "他界",
+                "昇天",
+                "不祝儀",
+                "不幸",
+                "薨去",
+                "先途",
+                "棄世",
+                "死去",
+                "逝去",
+                "卒去",
+                "絶命",
+                "入滅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "死亡",
+                "死神",
+                "他界",
+                "昇天",
+                "不祝儀",
+                "不幸",
+                "薨去",
+                "先途",
+                "棄世",
+                "死",
+                "死去",
+                "逝去",
+                "卒去",
+                "最後",
+                "絶命",
+                "入滅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "終わり",
+                "死亡",
+                "往生",
+                "他界",
+                "昇天",
+                "不祝儀",
+                "人死に",
+                "不幸",
+                "薨去",
+                "不帰",
+                "死",
+                "死去",
+                "終焉",
+                "眠り",
+                "永眠",
+                "一死",
+                "逝去",
+                "卒去",
+                "最後",
+                "絶命",
+                "入滅"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "没"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96b0951",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dead place, place of death"
+        }
+      ],
+      "mobileId": 259721,
+      "phonetic": "ぼつち",
+      "word": "没地"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9c9af4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tịch thu (của) những quyền sở hữu"
+        }
+      ],
+      "mobileId": 150691,
+      "phonetic": "おさむぼつ",
+      "related_words": {
+        "word": [
+          "没"
+        ]
+      },
+      "word": "収没"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e521c6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "manga that has been rejected by an editor"
+        }
+      ],
+      "mobileId": 250670,
+      "phonetic": "ぼつネーム ボツネーム",
+      "word": "没ネーム"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fba1792",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "...と没没交渉である",
+              "mean": "không có quan hệ với...MỘT GIAO THIỆP .",
+              "transcription": "...とぼつぼっこうしょうである"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "không có quan hệ; không liên quan; độc lập (với)"
+        },
+        {
+          "examples": [
+            {
+              "content": "それは僕とは没交渉だ",
+              "mean": "việc này chả có liên quan gì với tôi cả",
+              "transcription": "それはぼくとはぼっこうしょうだ"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "sự không có mối quan hệ; sự không liên quan; sự độc lập (với)"
+        }
+      ],
+      "mobileId": 187969,
+      "phonetic": "ぼっこうしょう",
+      "related_words": {
+        "word": [
+          "交渉",
+          "没"
+        ]
+      },
+      "word": "没交渉"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ef2d29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không có cá tính"
+        }
+      ],
+      "mobileId": 7627,
+      "phonetic": "ぼつこせい",
+      "word": "没個性"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da15dca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "inelegance, want of artistic taste, lack of poetic sense"
+        }
+      ],
+      "mobileId": 220303,
+      "phonetic": "ぼつふうりゅう",
+      "word": "没風流"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da1662d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prosaic person, person of an unromantic turn of mind, philistine"
+        }
+      ],
+      "mobileId": 220304,
+      "phonetic": "ぼつふうりゅうかん",
+      "word": "没風流漢"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ef2e20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "thiếu cá tính"
+        }
+      ],
+      "mobileId": 7628,
+      "phonetic": "ぼつこせいてき",
+      "word": "没個性的"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ef5b5d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, vs-i",
+          "mean": "loại bỏ (một bản thảo); tới sự quay xuống (một đề nghị)"
+        }
+      ],
+      "mobileId": 7635,
+      "phonetic": "ぼつにする",
+      "word": "没にする"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

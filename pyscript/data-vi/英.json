@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4ce3dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-pref, n-suf",
+          "mean": "Britain, British"
+        }
+      ],
+      "mobileId": 217545,
+      "phonetic": "えい",
+      "word": "英"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd5cbe0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếng anh -e nglish"
+        }
+      ],
+      "mobileId": 16535,
+      "phonetic": "えいえいじしょ",
+      "word": "英英辞書"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd5d4ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếng anh -e nglish"
+        }
+      ],
+      "mobileId": 16537,
+      "phonetic": "えいえいじてん",
+      "word": "英英辞典"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939cb945",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji tới tiếng anh (từ điển)"
+        }
+      ],
+      "mobileId": 22897,
+      "phonetic": "かんえい",
+      "word": "漢英"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd8aeb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "linh hồn người chết; anh linh"
+        }
+      ],
+      "mobileId": 16616,
+      "phonetic": "えいたましい",
+      "word": "英魂"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdddcfaa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khối cộng đồng (anh) (của) những dân tộc"
+        }
+      ],
+      "mobileId": 16779,
+      "phonetic": "えいれんぽう",
+      "related_words": {
+        "word": [
+          "連",
+          "連邦",
+          "邦"
+        ]
+      },
+      "word": "英連邦"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d44a733",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ở Anh"
+        }
+      ],
+      "mobileId": 147916,
+      "phonetic": "ざいえい",
+      "word": "在英"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f0ae0d0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜を日英対訳で掲載する〔本などが〕",
+              "mean": "Đăng~bằng bản đối dịch Nhật -Anh (ví dụ như sách..)",
+              "transcription": "〜をにちえいたいやくでけいさいする〔ほんなどが〕"
+            },
+            {
+              "content": "毎日英語を勉強するよう努力する",
+              "mean": "Cố gắng học tiếng Nhật Anh hàng ngày .",
+              "transcription": "まいにちえいごをべんきょうするようどりょくする"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "Nhật-Anh"
+        }
+      ],
+      "mobileId": 185104,
+      "phonetic": "にちえい",
+      "related_words": {
+        "word": [
+          "日"
+        ]
+      },
+      "word": "日英"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd5e09a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phát âm tiếng anh"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sharp (musical note)"
+        }
+      ],
+      "mobileId": 16539,
+      "phonetic": "えいおん",
+      "word": "英音"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddd935b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự sở hữu của Anh; lãnh thổ Anh; thuộc địa của Vương quốc Anh chưa được độc lập"
+        }
+      ],
+      "mobileId": 16773,
+      "phonetic": "えいりょう",
+      "word": "英領"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

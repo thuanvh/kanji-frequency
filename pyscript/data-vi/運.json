@@ -1,0 +1,316 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa77e5413",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "神社へ行って神様に祈ると運が向いてくると思っている人がいる。",
+              "mean": "Có người tin rằng nếu đến đền thờ cầu thần thì vận may sẽ đến.",
+              "transcription": "じんじゃへいってかみさまにいのるとうんがむいてくるとおもっているひとがいる。"
+            }
+          ],
+          "kind": "n",
+          "mean": "vận mệnh; vận số"
+        }
+      ],
+      "mobileId": 108866,
+      "opposite_word": [
+        "不運"
+      ],
+      "phonetic": "うん",
+      "related_words": {
+        "word": [
+          "運命",
+          "運用",
+          "運動",
+          "運営",
+          "幸運",
+          "運転",
+          "運動会",
+          "運賃",
+          "運送",
+          "運ぶ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "運",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "運勢",
+                "天命",
+                "命数",
+                "運命",
+                "宿命",
+                "天運",
+                "運気",
+                "因縁",
+                "定め",
+                "仕合わせ",
+                "天意",
+                "宿縁",
+                "命運",
+                "幸せ",
+                "身の上",
+                "倖"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "天命",
+                "幸",
+                "運命",
+                "宿命",
+                "天運",
+                "因縁",
+                "定め",
+                "仕合わせ",
+                "命運",
+                "幸せ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "幸運",
+                "好運",
+                "僥倖"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "幸運",
+                "好運",
+                "ラック",
+                "果報",
+                "幸",
+                "付き",
+                "仕合わせ",
+                "幸せ",
+                "倖"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "運"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd34316",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chuyên chở bằng xe bò, sự chuyên chở bằng xe ngựa, cước chuyên chở bằng xe bò, cước chuyên chở bằng xe ngựa"
+        }
+      ],
+      "mobileId": 16452,
+      "phonetic": "うんそうりょう",
+      "word": "運送料"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95627368",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khuynh hướng; xu hướng"
+        }
+      ],
+      "mobileId": 59239,
+      "phonetic": "ぜいうん",
+      "related_words": {
+        "word": [
+          "運",
+          "勢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勢運",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "趨勢",
+                "帰趨",
+                "風潮",
+                "潮流",
+                "流れ",
+                "動向",
+                "傾向",
+                "トレンド",
+                "傾き"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "勢運"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dddf2ea",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "số phận của một người (tài sản) như mối quan tâm tình yêu"
+        }
+      ],
+      "mobileId": 222290,
+      "phonetic": "れんあいうん",
+      "word": "恋愛運"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dde02a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one's fate (fortune) as concerns health"
+        }
+      ],
+      "mobileId": 222293,
+      "phonetic": "けんこううん",
+      "word": "健康運"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd26836",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kỹ thuật kéo vĩ (các nhạc cụ có dây như viôlông ...)"
+        }
+      ],
+      "mobileId": 16422,
+      "phonetic": "うんゆみ",
+      "word": "運弓"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd53757",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "may, may mắn"
+        }
+      ],
+      "mobileId": 16514,
+      "phonetic": "うんよく",
+      "related_words": {
+        "word": [
+          "よく",
+          "運"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "運よく",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "恰も好し"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "運よく"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa77f14c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vận động viên ."
+        }
+      ],
+      "mobileId": 108877,
+      "phonetic": "うんどういん",
+      "related_words": {
+        "word": [
+          "運",
+          "動",
+          "員"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "運動員",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "候補者",
+                "候補"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "運動員"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83762e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự không may, sự bất hạnh; sự rủi ro; vận rủi; sự trớ trêu của định mệnh"
+        }
+      ],
+      "mobileId": 35270,
+      "phonetic": "ぎゃくうん",
+      "word": "逆運"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7812cfe",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "運良く素晴らしい夫に恵まれる",
+              "mean": "may mắn lấy được người chồng tuyệt vời",
+              "transcription": "うんよくすばらしいおっとにめぐまれる"
+            },
+            {
+              "content": "運良くすてきな妻に恵まれる",
+              "mean": "may mắn được ban cho người vợ tuyệt vời",
+              "transcription": "うんよくすてきなつまにめぐまれる"
+            },
+            {
+              "content": "運良く〜することができる",
+              "mean": "may mắn làm được việc gì",
+              "transcription": "うんよく〜することができる"
+            },
+            {
+              "content": "若くて素晴らしい先生のクラスに運良く巡りあえた",
+              "mean": "tôi may mắn được vào một lớp có cô giáo trẻ và rất tuyệt .",
+              "transcription": "わかくてすばらしいせんせいのクラスにうんよくめぐりあえた"
+            }
+          ],
+          "kind": "adv",
+          "mean": "số đỏ; may mắn"
+        }
+      ],
+      "mobileId": 108895,
+      "phonetic": "うんよく",
+      "word": "運良く"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

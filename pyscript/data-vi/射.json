@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95da30d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "archery"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mapping"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "map, morphism, arrow"
+        }
+      ],
+      "mobileId": 259310,
+      "phonetic": "しゃ",
+      "word": "射"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6844a351",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ánh sáng mặt trời"
+        }
+      ],
+      "mobileId": 2219,
+      "phonetic": "ひしゃ",
+      "related_words": {
+        "word": [
+          "陽"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "陽射",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "日射",
+                "太陽光線",
+                "陽光",
+                "日影",
+                "サンシャイン",
+                "日射し",
+                "日差し",
+                "日光",
+                "天日"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "陽射"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95da824",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "proper map, map such that the inverse image of a compact set is compact"
+        }
+      ],
+      "mobileId": 259311,
+      "phonetic": "こゆうしゃ",
+      "word": "固有射"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c324b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bijection (math)"
+        }
+      ],
+      "mobileId": 62319,
+      "phonetic": "そうい",
+      "word": "双射"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cfd6b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "củng cố bên sườn lửa"
+        }
+      ],
+      "mobileId": 62735,
+      "phonetic": "がわしゃ",
+      "related_words": {
+        "word": [
+          "側"
+        ]
+      },
+      "word": "側射"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd51f743",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đâm chồi bừa bãi"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "withering gunfire"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "blind person"
+        }
+      ],
+      "mobileId": 71388,
+      "phonetic": "めくらしゃ",
+      "related_words": {
+        "word": [
+          "盲"
+        ]
+      },
+      "word": "盲射"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5202d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "làm héo hoả lực"
+        }
+      ],
+      "mobileId": 71389,
+      "phonetic": "もうい",
+      "word": "猛射"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1b943d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phép đơn cấu, phép đơn ánh"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đi xe mô tô, lái xe mô tô"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thủy ngân sulfua, màu son, một loài bướm đêm có cánh đốm đỏ"
+        }
+      ],
+      "mobileId": 111905,
+      "phonetic": "たんい",
+      "related_words": {
+        "word": [
+          "単"
+        ]
+      },
+      "word": "単射"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd96da4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sáng, sáng ngời, chói lọi, xuất sắc, lỗi lạc"
+        }
+      ],
+      "mobileId": 16642,
+      "phonetic": "うつい",
+      "word": "映射"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5f7a75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s",
+          "mean": "tới chồi cây xuống; tới sự chiến thắng; tới lợi ích"
+        }
+      ],
+      "mobileId": 12841,
+      "phonetic": "いおとす",
+      "word": "射落とす"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

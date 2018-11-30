@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef99ebfc4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "mixed seeding"
+        }
+      ],
+      "mobileId": 277803,
+      "phonetic": "こんぱ",
+      "word": "混播"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a0da018",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "点播機",
+              "mean": "Loại máy móc dùng để tra hạt .",
+              "transcription": "てん播機"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "sự tra hạt"
+        }
+      ],
+      "mobileId": 170512,
+      "phonetic": "てんぱ",
+      "related_words": {
+        "word": [
+          "点"
+        ]
+      },
+      "word": "点播"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

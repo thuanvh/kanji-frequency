@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802763dbc8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bắp chân ."
+        }
+      ],
+      "mobileId": 30775,
+      "phonetic": "ふくらはぎ",
+      "word": "脹脛"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7390bee",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bắp chuối ."
+        }
+      ],
+      "mobileId": 107619,
+      "phonetic": "あしのふくらはぎ",
+      "word": "足の脹脛"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

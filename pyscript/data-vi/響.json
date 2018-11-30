@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68587023",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vang lại; kêu; sự phản hồi; tiếng ồn"
+        }
+      ],
+      "mobileId": 2825,
+      "phonetic": "ひびき",
+      "related_words": {
+        "word": [
+          "影響",
+          "響き",
+          "響く",
+          "音響",
+          "悪影響",
+          "影響力",
+          "反響",
+          "交響曲",
+          "残響",
+          "影響を及ぼす"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "響",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "音響",
+                "音声",
+                "音",
+                "響き",
+                "サウンド"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "音響",
+                "音声",
+                "音",
+                "物音",
+                "響き",
+                "サウンド",
+                "声"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "響"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca027a0dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phonolite, clinkstone"
+        }
+      ],
+      "mobileId": 282210,
+      "phonetic": "きょうがん",
+      "word": "響岩"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eca0d98",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự xáo trộn; sự nhao nhao lên; sự ồn áo náo nhiệt"
+        }
+      ],
+      "mobileId": 117491,
+      "phonetic": "ひびきめき",
+      "word": "響めき"
+    },
+    {
+      "_id": "b2e169caae52ec7c9b5cabff7b4e7e2e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "N響楽団の演奏会",
+              "mean": "tiết mục diễn tấu của đoàn nhạc giao hưởng NHK",
+              "transcription": "Nひびきがくだんのえんそうかい"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "abbr",
+          "mean": "dàn nhạc giao hưởng NHK"
+        }
+      ],
+      "mobileId": 139039,
+      "phonetic": "エヌきょう",
+      "word": "n響"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010f845f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vi",
+          "mean": "vang lên ."
+        }
+      ],
+      "mobileId": 42015,
+      "phonetic": "どよめく",
+      "word": "響めく"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bf2544",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-adv, adj-no",
+          "mean": "short time, fleeting moment"
+        }
+      ],
+      "mobileId": 262386,
+      "phonetic": "たまゆら",
+      "word": "玉響"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e805b353",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dàn nhạc giao hưởng kyoto"
+        }
+      ],
+      "mobileId": 33670,
+      "phonetic": "きょうひびき",
+      "word": "京響"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80d8033",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rung cái ống"
+        }
+      ],
+      "mobileId": 33928,
+      "phonetic": "ひびきふえ",
+      "word": "響笛"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bf2776",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "copper alloy with traces of silver, lead, or tin"
+        }
+      ],
+      "mobileId": 262387,
+      "phonetic": "さはり",
+      "word": "響銅"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eca1ab4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự xáo trộn; động đậy"
+        }
+      ],
+      "mobileId": 117492,
+      "phonetic": "ひびきどうめき",
+      "word": "響動めき"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

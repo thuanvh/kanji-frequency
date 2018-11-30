@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e46e40",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phá ngầm, sự phá hoại, phá ngầm, phá hoại, làm hỏng, phá huỷ"
+        }
+      ],
+      "mobileId": 7272,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "業"
+        ]
+      },
+      "word": "妨業"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e47a27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người phá ngầm, người phá hoại"
+        }
+      ],
+      "mobileId": 7273,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "業",
+          "員"
+        ]
+      },
+      "word": "妨業員"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

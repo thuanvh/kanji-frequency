@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94d3b61",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "publication, edition (e.g. morning, evening, special), published in (year), publication frequency (e.g. daily, monthly)"
+        }
+      ],
+      "mobileId": 258761,
+      "phonetic": "かん",
+      "word": "刊"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f56812",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số  cũ, người lỗi thời; vật lỗi thời phương pháp lỗi thời"
+        }
+      ],
+      "mobileId": 25702,
+      "opposite_word": [
+        "新刊"
+      ],
+      "phonetic": "きゅうかん",
+      "word": "旧刊"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e84eb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếp tục phát hành"
+        }
+      ],
+      "mobileId": 63523,
+      "phonetic": "ぞくかん",
+      "word": "続刊"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d913240",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đình chỉ (của) sự công bố"
+        }
+      ],
+      "mobileId": 150333,
+      "phonetic": "おわりかん",
+      "word": "終刊"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934bcf2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xuất bản bán nguyệt san"
+        }
+      ],
+      "mobileId": 20337,
+      "phonetic": "かくげつかん",
+      "word": "隔月刊"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa760d5dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự phát hành thêm ."
+        }
+      ],
+      "mobileId": 108320,
+      "phonetic": "ついかん",
+      "word": "追刊"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d913948",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vấn đề chung cuộc; kéo dài vấn đề (của) một sự công bố"
+        }
+      ],
+      "mobileId": 150334,
+      "phonetic": "おわりかんごう",
+      "word": "終刊号"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

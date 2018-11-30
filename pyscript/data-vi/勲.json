@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e0553ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "distinguished service, meritorious service"
+        }
+      ],
+      "mobileId": 248178,
+      "phonetic": "いさお",
+      "word": "勲"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd676011",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thứ tự và rậm rạp (của) tài trí"
+        }
+      ],
+      "mobileId": 13093,
+      "phonetic": "くらいくん",
+      "related_words": {
+        "word": [
+          "位"
+        ]
+      },
+      "word": "位勲"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85f15df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "huân chương; huy chương"
+        }
+      ],
+      "mobileId": 36549,
+      "phonetic": "くんい",
+      "related_words": {
+        "word": [
+          "位"
+        ]
+      },
+      "word": "勲位"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e2564c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thứ tự chính (vĩ đại) (của) cúc vàng"
+        }
+      ],
+      "mobileId": 112234,
+      "phonetic": "だいくんい",
+      "word": "大勲位"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3affdb3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Supreme Orders of the Chrysanthemum"
+        }
+      ],
+      "mobileId": 231633,
+      "phonetic": "だいくんいきっかしょう",
+      "word": "大勲位菊花章"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3affe0d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Grand Cordon of the Supreme Order of the Chrysanthemum"
+        }
+      ],
+      "mobileId": 231635,
+      "phonetic": "だいくんいきくかだいじゅしょう",
+      "word": "大勲位菊花大綬章"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3affdda5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Collar of the Supreme Order of the Chrysanthemum"
+        }
+      ],
+      "mobileId": 231634,
+      "phonetic": "だいくんいきっかしょうくびかざり",
+      "word": "大勲位菊花章頸飾"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0c9433",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref, adj-na",
+          "mean": "; cực trị"
+        }
+      ],
+      "mobileId": 146147,
+      "phonetic": "さい",
+      "word": "最"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98ed4f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "highest honours, highest distinction, summa cum laude"
+        }
+      ],
+      "mobileId": 277296,
+      "phonetic": "さいゆうとう",
+      "word": "最優等"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d35e5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "all-time low (e.g. in trading, shopping), record low, new low"
+        }
+      ],
+      "mobileId": 263024,
+      "opposite_word": [
+        "最高値"
+      ],
+      "phonetic": "さいやすね",
+      "related_words": {
+        "word": [
+          "値",
+          "安値"
+        ]
+      },
+      "word": "最安値"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d3f2ab",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "cao kỷ lục, mức cao mới"
+        }
+      ],
+      "mobileId": 263043,
+      "phonetic": "さいたかね",
+      "word": "最高値"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98f1960",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "cheapest, lowest price"
+        }
+      ],
+      "mobileId": 277303,
+      "phonetic": "さいやす",
+      "word": "最安"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d11e2f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "bên cùng bên trái"
+        }
+      ],
+      "mobileId": 146315,
+      "phonetic": "さいひだり",
+      "related_words": {
+        "word": [
+          "左"
+        ]
+      },
+      "word": "最左"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d17ca05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "cực nam"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tai hoạ, tai ương; thiên tai, anh chàng bi quan yếm thế luôn luôn kêu khổ"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự rủi ro, sự bất hạnh, điều không may, điều hoạ, hoạ vô đơn chí"
+        }
+      ],
+      "mobileId": 146500,
+      "phonetic": "さいみなみ",
+      "related_words": {
+        "word": [
+          "南"
+        ]
+      },
+      "word": "最南"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dda6407",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "end of a line (queue)"
+        }
+      ],
+      "mobileId": 222179,
+      "phonetic": "さいこうび",
+      "related_words": {
+        "word": [
+          "後",
+          "最後",
+          "尾"
+        ]
+      },
+      "word": "最後尾"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9677f63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lowest part, bottom (or footer) of a page, computer screen, on-screen window, etc."
+        }
+      ],
+      "mobileId": 259616,
+      "phonetic": "さいかぶ",
+      "word": "最下部"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a99a49af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "right-most, rightmost"
+        }
+      ],
+      "mobileId": 261217,
+      "phonetic": "さいう",
+      "word": "最右"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

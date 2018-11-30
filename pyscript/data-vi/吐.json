@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c8f8b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spout (for water)"
+        }
+      ],
+      "mobileId": 279187,
+      "phonetic": "とすいこう とすいぐち",
+      "word": "吐水口"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c1fc13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "water release"
+        }
+      ],
+      "mobileId": 278944,
+      "phonetic": "とすい",
+      "word": "吐水"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aff25df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ipecac (species of shrub, Cephaelis ipecacuanha), ipecacuanha"
+        }
+      ],
+      "mobileId": 231612,
+      "phonetic": "とこん トコン",
+      "word": "吐根"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e26e847",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vomit, vomitus"
+        }
+      ],
+      "mobileId": 249277,
+      "phonetic": "とぶつ",
+      "word": "吐物"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94658b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "emetic"
+        }
+      ],
+      "mobileId": 258541,
+      "phonetic": "さいとやく",
+      "related_words": {
+        "word": [
+          "薬",
+          "催"
+        ]
+      },
+      "word": "催吐薬"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d422a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(a statesman making) extraordinary efforts to find and employ capable persons (persons of great wisdom)"
+        }
+      ],
+      "mobileId": 213693,
+      "phonetic": "あくはつとほ",
+      "word": "握髪吐哺"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda4d7c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đập tràn"
+        }
+      ],
+      "mobileId": 74062,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "水",
+          "余"
+        ]
+      },
+      "word": "余水吐"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

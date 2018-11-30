@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dd1d48e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ưu tú; sự xuất sắc; sự giỏi giang hơn người ."
+        }
+      ],
+      "mobileId": 145030,
+      "phonetic": "けつ",
+      "related_words": {
+        "word": [
+          "傑作",
+          "豪傑",
+          "怪傑"
+        ]
+      },
+      "word": "傑"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95555a6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hơn, trội hơn, trội về, xuất sắc về"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hơn, vượt, trội hơn"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bỏ xa, chạy vượt xa, chạy nhanh hơn, giỏi hơn, có khả năng hơn"
+        }
+      ],
+      "mobileId": 58813,
+      "phonetic": "すぐるれる",
+      "related_words": {
+        "word": [
+          "傑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "傑れる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "勝る",
+                "優れる",
+                "秀でる",
+                "優る",
+                "抜け出る",
+                "凌ぐ",
+                "上回る"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "勝る",
+                "優れる",
+                "秀でる",
+                "優る",
+                "抜け出る",
+                "凌ぐ",
+                "並外れる",
+                "際立つ",
+                "超える",
+                "光る",
+                "抜きん出る",
+                "越える"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "傑れる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

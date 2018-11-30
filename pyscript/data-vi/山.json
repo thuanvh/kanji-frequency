@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107b3fab9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ngọn núi"
+        },
+        {
+          "examples": [
+            {
+              "content": "山を越す",
+              "mean": "vượt qua núi",
+              "transcription": "やまをこす"
+            },
+            {
+              "content": "山の頂きに",
+              "mean": "trên đỉnh núi",
+              "transcription": "やまのいただきに"
+            }
+          ],
+          "kind": "n, ctr",
+          "mean": "núi"
+        },
+        {
+          "examples": null,
+          "kind": "n, ctr",
+          "mean": "sơn ."
+        }
+      ],
+      "mobileId": 54915,
+      "opposite_word": [
+        "海",
+        "野",
+        "谷"
+      ],
+      "phonetic": "やま",
+      "related_words": {
+        "word": [
+          "沢山",
+          "富士山",
+          "火山",
+          "登山",
+          "海千山千",
+          "山羊座",
+          "鉱山",
+          "山火事",
+          "案山子",
+          "山猫"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "山",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "岳",
+                "山岳",
+                "マウンテン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "境目",
+                "分け目",
+                "危機",
+                "危局",
+                "難局",
+                "クライシス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "堆積"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "鉱山"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "クライマックス",
+                "ピーク",
+                "花盛り",
+                "最盛期",
+                "頂点",
+                "頂上",
+                "峠",
+                "最高潮",
+                "高潮",
+                "真っ盛り",
+                "極点",
+                "絶頂"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "冒険",
+                "投機",
+                "軽業",
+                "一山",
+                "博奕",
+                "ベンチャー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "山"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68af00d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những núi xanh lục"
+        }
+      ],
+      "mobileId": 5571,
+      "phonetic": "へきやま",
+      "related_words": {
+        "word": [
+          "山"
+        ]
+      },
+      "word": "碧山"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7c1947",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lesser cuckoo (Cuculus poliocephalus) (esp. one living in the mountains)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Tricyrtis macropoda (species of toad lily)"
+        }
+      ],
+      "mobileId": 227357,
+      "phonetic": "やまほととぎす",
+      "word": "山杜鵑"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88540da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngâm vào nước núi (hiểm trở)"
+        }
+      ],
+      "mobileId": 37758,
+      "phonetic": "けわしいやま",
+      "word": "険しい山"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5f78b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sulfur đào mỏ"
+        }
+      ],
+      "mobileId": 12840,
+      "phonetic": "いおうざん",
+      "word": "硫黄山"
+    },
+    {
+      "_id": "432518852de0a80625d585a98250bca7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Plectranthus inflexus (species of plant in the mint family)"
+        }
+      ],
+      "mobileId": 234182,
+      "phonetic": "やまはっか ヤマハッカ",
+      "word": "山薄荷"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a45830",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "outdoor practice"
+        }
+      ],
+      "mobileId": 212120,
+      "phonetic": "やまげいこ",
+      "word": "山稽古"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0437c5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wind blowing down from a mountain"
+        }
+      ],
+      "mobileId": 209015,
+      "phonetic": "やまおろし",
+      "word": "山おろし"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd774345",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một núi (của); mountainlike"
+        }
+      ],
+      "mobileId": 72549,
+      "phonetic": "やまなす",
+      "word": "山成す"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eabbf8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "núi cấm ở lại"
+        }
+      ],
+      "mobileId": 116537,
+      "phonetic": "とめやま",
+      "word": "留め山"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08b9491",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "string (of a shamisen, etc.)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "stringed instrument"
+        }
+      ],
+      "mobileId": 211327,
+      "phonetic": "げん",
+      "word": "絃"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c140aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "geisha, woman who entertains (e.g. by playing the shamisen) for her living"
+        }
+      ],
+      "mobileId": 262455,
+      "phonetic": "げんぎ",
+      "word": "絃妓"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802712c02e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "絃線はとても高いだ",
+              "mean": "Dây đàn viôlông rất đắt .",
+              "transcription": "絃線はとてもたかいだ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Dây đàn viôlông"
+        }
+      ],
+      "mobileId": 29431,
+      "phonetic": "げんせん",
+      "related_words": {
+        "word": [
+          "線"
+        ]
+      },
+      "word": "絃線"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6cec2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "koto bảy có dây"
+        }
+      ],
+      "mobileId": 149182,
+      "phonetic": "",
+      "word": "七絃琴"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

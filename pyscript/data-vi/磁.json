@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e34c412",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-f",
+          "mean": "porcelain"
+        }
+      ],
+      "mobileId": 249722,
+      "phonetic": "じせい",
+      "word": "磁製"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a5d382",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "magnetic north"
+        }
+      ],
+      "mobileId": 286249,
+      "phonetic": "じほく",
+      "word": "磁北"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed950f5aeb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miền từ tính"
+        }
+      ],
+      "mobileId": 56609,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "壁"
+        ]
+      },
+      "word": "磁壁"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e395ec4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kaolin, China clay"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "magnetite"
+        }
+      ],
+      "mobileId": 249854,
+      "phonetic": "じこう",
+      "word": "磁鉱"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d119ad7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "magnetization, magnetisation"
+        }
+      ],
+      "mobileId": 215659,
+      "phonetic": "ちゃくじ",
+      "word": "着磁"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d11a016",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "demagnetization, demagnetisation, de-Gaussing"
+        }
+      ],
+      "mobileId": 215660,
+      "phonetic": "だつじ",
+      "word": "脱磁"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95013433",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từ tính (nam châm)"
+        }
+      ],
+      "mobileId": 56151,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "心"
+        ]
+      },
+      "word": "磁心"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed950f81d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chất từ tính chịu"
+        }
+      ],
+      "mobileId": 56614,
+      "phonetic": "",
+      "word": "磁方位"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b03daac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ferrite core"
+        }
+      ],
+      "mobileId": 239959,
+      "phonetic": "フェライトじしん",
+      "word": "フェライト磁心"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95af5bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "field winding"
+        }
+      ],
+      "mobileId": 259216,
+      "phonetic": "かいじまきせん",
+      "word": "界磁巻線"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

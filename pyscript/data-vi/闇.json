@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7d28e01",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜　相場",
+              "mean": "tỉ giá chợ đen .",
+              "transcription": "〜そうば"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "chỗ tối; nơi tối tăm; bóng tối; sự ngấm ngầm; chợ đen"
+        }
+      ],
+      "mobileId": 110228,
+      "opposite_word": [
+        "光"
+      ],
+      "phonetic": "やみ",
+      "related_words": {
+        "word": [
+          "暗闇",
+          "闇黒",
+          "夕闇",
+          "闇夜",
+          "闇雲"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "闇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "闇黒",
+                "暗黒",
+                "暗闇",
+                "真暗闇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "蔭",
+                "闇黒",
+                "暗がり",
+                "暗黒",
+                "影",
+                "陰影",
+                "陰翳",
+                "暗闇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "不道徳",
+                "曲悪",
+                "邪悪",
+                "悪",
+                "不法"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "闇黒",
+                "暗がり",
+                "暗黒",
+                "暗闇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "闇"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd792c16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "không có một chút  kiến thức; không làm được gì; nhẹ nhàng; dễ dàng; khinh suất; không cẩn thận"
+        }
+      ],
+      "mobileId": 72609,
+      "phonetic": "やみやみ",
+      "word": "闇闇"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5467cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự khờ dại; feeblemindedness"
+        }
+      ],
+      "mobileId": 12487,
+      "phonetic": "やみぐ",
+      "related_words": {
+        "word": [
+          "闇"
+        ]
+      },
+      "word": "闇愚"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a995a7eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adv",
+          "mean": "dark under the trees, obscurity of a forest"
+        }
+      ],
+      "mobileId": 261062,
+      "phonetic": "このしたやみ",
+      "word": "木の下闇"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd78c4ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giá - sự hỗ trợ đo cho hàng lậu"
+        }
+      ],
+      "mobileId": 72596,
+      "phonetic": "やみさいはん",
+      "word": "闇再販"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd794770",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tập đoàn kinh tế cacten (sự phối hợp hành động chung) không hợp pháp"
+        }
+      ],
+      "mobileId": 72612,
+      "phonetic": "やみカルテル",
+      "word": "闇カルテル"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9237fef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "illegal website (i.e. websites featuring child pornography, selling drugs, etc.), website encouraging illegal activities, suicide-encouraging website"
+        }
+      ],
+      "mobileId": 273896,
+      "phonetic": "やみサイト",
+      "word": "闇サイト"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd789142",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tấn công ở dưới vỏ (của) bóng tối"
+        }
+      ],
+      "mobileId": 72590,
+      "phonetic": "やみうち",
+      "word": "闇打ち"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd78bbaa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gạo lậu"
+        }
+      ],
+      "mobileId": 72595,
+      "phonetic": "やみまい",
+      "word": "闇米"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd78c8ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người buôn bán chợ đen"
+        }
+      ],
+      "mobileId": 72598,
+      "phonetic": "やみしょうにん",
+      "word": "闇商人"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

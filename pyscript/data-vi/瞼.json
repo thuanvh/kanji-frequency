@@ -1,0 +1,119 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aaf0980",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mí"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mi mắt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mí mắt ."
+        }
+      ],
+      "mobileId": 173195,
+      "phonetic": "まぶた",
+      "word": "瞼"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6b848d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mí mắt trên"
+        }
+      ],
+      "mobileId": 149142,
+      "phonetic": "しもまぶた",
+      "related_words": {
+        "word": [
+          "下",
+          "瞼"
+        ]
+      },
+      "word": "下瞼"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd163f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mi mắt trên"
+        }
+      ],
+      "mobileId": 16393,
+      "phonetic": "うえまぶた",
+      "related_words": {
+        "word": [
+          "上",
+          "瞼"
+        ]
+      },
+      "word": "上瞼"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1978b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một mí ."
+        }
+      ],
+      "mobileId": 141729,
+      "phonetic": "ひとえまぶた",
+      "word": "一重瞼"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca031516c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "meibomian gland, tarsal gland"
+        }
+      ],
+      "mobileId": 282527,
+      "phonetic": "けんばんせん",
+      "word": "瞼板腺"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df07e64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eyelid speculum, lid retractor"
+        }
+      ],
+      "mobileId": 222904,
+      "phonetic": "かいけんき",
+      "word": "開瞼器"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8069c74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái kẹp mí mắt"
+        }
+      ],
+      "mobileId": 33701,
+      "phonetic": "きょうまぶたき",
+      "word": "挟瞼器"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

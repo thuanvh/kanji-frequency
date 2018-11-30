@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adacb9f1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chim sơn ca ."
+        }
+      ],
+      "mobileId": 80194,
+      "phonetic": "ひばり",
+      "related_words": {
+        "word": [
+          "子",
+          "天",
+          "天子"
+        ]
+      },
+      "word": "告天子"
+    },
+    {
+      "_id": "332167954327f6e41c4a167bfeb55784",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "お告げの鐘",
+              "mean": "Chuông cầu kinh đức bà",
+              "transcription": "おつげのかね"
+            },
+            {
+              "content": "（人）が星占いのお告げを信奉すること",
+              "mean": "Tin vào lời tiên đoán",
+              "transcription": "（ひと）がほしうらないのおつげをしんぽうすること"
+            },
+            {
+              "content": "お告げの祝日",
+              "mean": "Ngày lễ tiên tri",
+              "transcription": "おつげのしゅくじつ"
+            },
+            {
+              "content": "先月、お告げがあった",
+              "mean": "Tháng trước tôi nhận được một lời tiên tri",
+              "transcription": "せんげつ、おつげがあった"
+            }
+          ],
+          "kind": "n",
+          "mean": "lời tiên đoán; lời tiên tri; lời sấm truyền"
+        }
+      ],
+      "mobileId": 51060,
+      "phonetic": "おつげ",
+      "word": "お告"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd7c27e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sẽ; di chúc"
+        }
+      ],
+      "mobileId": 72707,
+      "phonetic": "のこつげ",
+      "word": "遺告"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d43090",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lời tạm biệt, lời chia tay"
+        }
+      ],
+      "mobileId": 40295,
+      "phonetic": "つげじ",
+      "word": "告辞"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd6b6c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chú ý; thông báo"
+        }
+      ],
+      "mobileId": 75630,
+      "phonetic": "",
+      "word": "禀告"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932cde06",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảnh báo; nhắc nhở"
+        }
+      ],
+      "mobileId": 19358,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "誡告",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "警告",
+                "注意",
+                "戒め",
+                "戒告",
+                "切諌",
+                "忠告",
+                "警戒"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "慎重",
+                "注意",
+                "自重",
+                "コーション",
+                "警戒"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "誡告"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00aa4ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vt",
+          "mean": "to confess (one's love), to propose (marriage), to ask out (on a date)"
+        }
+      ],
+      "mobileId": 189477,
+      "phonetic": "こくる コクる",
+      "word": "告る"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e4cc9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "something concealed, something not disclosed"
+        }
+      ],
+      "mobileId": 280075,
+      "phonetic": "ふこく",
+      "word": "不告"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d510f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự báo, sự khai báo; sự thông báo"
+        }
+      ],
+      "mobileId": 40326,
+      "phonetic": "つげたち",
+      "synsets": [
+        {
+          "base_form": "告達",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "公示",
+                "布告",
+                "公布",
+                "告知",
+                "公表",
+                "告示"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "告達"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3f52b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the Annunciation"
+        }
+      ],
+      "mobileId": 225441,
+      "phonetic": "せいこく",
+      "word": "聖告"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

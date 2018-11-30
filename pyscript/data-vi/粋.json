@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027009269",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼女は小粋な身なりの紳士の所へ歩いて行った",
+              "mean": "Cô ta đi qua 1 người đàn ông ăn mặc lịch sự",
+              "transcription": "かのじょはしょういきなみなりのしんしのところへあるいていった"
+            },
+            {
+              "content": "江戸らしい粋な感覚をうまく表現する",
+              "mean": "Biểu hiện cảm giác thanh nhã như thời Edo",
+              "transcription": "えどらしいいきなかんかくをうまくひょうげんする"
+            },
+            {
+              "content": "あんたは粋でクールでスマートな一人前の男ってことだ。",
+              "mean": "Bạn là người lịch sự nhất, bảnh bao nhất trước mắt mọi người",
+              "transcription": "あんたはいきでクールでスマートないちにんまえのおとこってことだ。"
+            },
+            {
+              "content": "ガールフレンドの前だからって粋がるなよ。",
+              "mean": "Đừng tỏ ra sành điệu trước mặt bạn gái",
+              "transcription": "ガールフレンドのまえだからっていきがるなよ。"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "tao nhã; sành điệu; mốt; hợp thời trang; lịch thiệp; lịch sự; thanh nhã; sang trọng; bảnh bao"
+        },
+        {
+          "examples": [
+            {
+              "content": "あなたの家を粋に室内装飾をする方法を学びましょう",
+              "mean": "Chúng ta hãy học cách trang trí ngôi nhà của bạn 1 cách thanh lịch",
+              "transcription": "あなたのいえをいきにしつないそうしょくをするほうほうをまなびましょう"
+            },
+            {
+              "content": "〜を持っているだけで粋に見える",
+              "mean": "Xuất hiện thanh lịch trong tay cầm ~ .",
+              "transcription": "〜をもっているだけでいきにみえる"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "thuần; tinh; ròng; thanh lịch; tao nhã"
+        }
+      ],
+      "mobileId": 29073,
+      "phonetic": "いき,  すい",
+      "word": "粋"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027009e45",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bảnh ."
+        }
+      ],
+      "mobileId": 29074,
+      "phonetic": "すいな",
+      "word": "粋な"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9572a0da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính thanh lịch, tính tao nhã (người, cách ăn mặc, lối sống...); tính nhã"
+        }
+      ],
+      "mobileId": 59744,
+      "phonetic": "きよしいき",
+      "related_words": {
+        "word": [
+          "粋"
+        ]
+      },
+      "word": "清粋"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd62d0e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "để (thì) hợp thời trang; để cố gắng xuất hiện đau đớn"
+        }
+      ],
+      "mobileId": 12950,
+      "phonetic": "いきがる",
+      "word": "粋がる"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a58e03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "bảnh; hợp thời trang"
+        }
+      ],
+      "mobileId": 38793,
+      "phonetic": "しょういき",
+      "related_words": {
+        "word": [
+          "小",
+          "粋"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "小粋",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ファッショナブル",
+                "洒落",
+                "瀟洒",
+                "今めかしい",
+                "洒落た",
+                "スタイリッシュ",
+                "小意気"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "格好いい",
+                "乙",
+                "瀟洒",
+                "いなせ",
+                "スタイリッシュ",
+                "スマート",
+                "小意気",
+                "きりっとした"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "格好いい",
+                "瀟洒",
+                "洒落た",
+                "スタイリッシュ",
+                "格好のいい",
+                "小意気"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "小粋"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fbf088",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stylishness (esp. of a woman working at a nightclub, etc.), sophistication, refinement, class, style"
+        }
+      ],
+      "mobileId": 272632,
+      "phonetic": "いきづくり",
+      "word": "粋作り"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc76b6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồ thịnh hành"
+        }
+      ],
+      "mobileId": 75176,
+      "phonetic": "りゅうこうのいき",
+      "word": "流行の粋"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954cc629",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đàn ông (của) được trồng trọt kỹ nếm mùi"
+        }
+      ],
+      "mobileId": 58544,
+      "phonetic": "いきなひと",
+      "word": "粋な人"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954cc0c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phán xử tế nhị"
+        }
+      ],
+      "mobileId": 58543,
+      "phonetic": "いきなさばき",
+      "word": "粋な裁き"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e18683b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Playing the dandy ruins a man"
+        }
+      ],
+      "mobileId": 248798,
+      "phonetic": "すいがみをくう",
+      "word": "粋が身を食う"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

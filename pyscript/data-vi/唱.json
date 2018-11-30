@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05ba0b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chanting the title of a sutra (esp. the Lotus Sutra)"
+        }
+      ],
+      "mobileId": 283908,
+      "phonetic": "しょうだい",
+      "word": "唱題"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d9ada79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "Truyền thống ."
+        }
+      ],
+      "mobileId": 144064,
+      "phonetic": "でんしょう",
+      "related_words": {
+        "word": [
+          "伝"
+        ]
+      },
+      "word": "伝唱"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d78afda",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "responsorial psalm"
+        }
+      ],
+      "mobileId": 218973,
+      "phonetic": "とうしょうしへん",
+      "word": "答唱詩編"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95b4232",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "solmization"
+        }
+      ],
+      "mobileId": 259229,
+      "phonetic": "かいめいしょうほう",
+      "word": "階名唱法"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

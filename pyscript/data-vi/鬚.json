@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68431456",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "râu mép; râu; những tóc mai dài"
+        }
+      ],
+      "mobileId": 2163,
+      "phonetic": "ひげ",
+      "synsets": [
+        {
+          "base_form": "鬚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "髭",
+                "ひげ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "頬髭",
+                "髭",
+                "ひげ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鬚"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801184446",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あごひげの伸ばし始め",
+              "mean": "bắt đầu mọc râu",
+              "transcription": "あごひげののばしはじめ"
+            },
+            {
+              "content": "ヤギのあごひげ",
+              "mean": "râu dê",
+              "transcription": "ヤギのあごひげ"
+            },
+            {
+              "content": "モジャモジャのあごひげ",
+              "mean": "râu rậm",
+              "transcription": "モジャモジャのあごひげ"
+            },
+            {
+              "content": "こわいあごひげ",
+              "mean": "bộ râu trông đáng sợ",
+              "transcription": "こわいあごひげ"
+            },
+            {
+              "content": "顎鬚を剃る",
+              "mean": "cạo râu",
+              "transcription": "あごひげをそる"
+            }
+          ],
+          "kind": "n",
+          "mean": "râu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "râu cằm ."
+        }
+      ],
+      "mobileId": 42167,
+      "phonetic": "あごひげ",
+      "word": "顎鬚"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3759f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "baleen whale, whalebone whale"
+        }
+      ],
+      "mobileId": 225184,
+      "phonetic": "ひげくじら ヒゲクジラ",
+      "word": "鬚鯨"
+    },
+    {
+      "_id": "432518852de0a80625d585a982128542",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "barbel, barb, palp, palpus"
+        }
+      ],
+      "mobileId": 232236,
+      "phonetic": "しょくしゅ",
+      "word": "触鬚"
+    },
+    {
+      "_id": "432518852de0a80625d585a982581fa2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "beard worm (any worm of phylum Pogonophora)"
+        }
+      ],
+      "mobileId": 234419,
+      "phonetic": "ひげむし ヒゲムシ",
+      "word": "鬚虫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770c19b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "volvox"
+        }
+      ],
+      "mobileId": 264840,
+      "phonetic": "おおひげまわり オオヒゲマワリ",
+      "word": "大鬚回り"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a343555",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bearded seal (Erignathus barbatus)"
+        }
+      ],
+      "mobileId": 225085,
+      "phonetic": "あごひげあざらし アゴヒゲアザラシ",
+      "word": "顎鬚海豹"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801184d05",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "râu ria ."
+        }
+      ],
+      "mobileId": 42168,
+      "phonetic": "あごひげとくちひげ",
+      "word": "顎鬚と口髭"
+    },
+    {
+      "_id": "432518852de0a80625d585a982581b60",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pogonophoran (any worm of phylum Pogonophora)"
+        }
+      ],
+      "mobileId": 234418,
+      "phonetic": "ゆうしゅどうぶつ",
+      "word": "有鬚動物"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5b0ca1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dwarf mondo grass (Ophiopogon japonicus)"
+        }
+      ],
+      "mobileId": 250967,
+      "phonetic": "じゃのひげ ジャノヒゲ",
+      "word": "蛇の鬚"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

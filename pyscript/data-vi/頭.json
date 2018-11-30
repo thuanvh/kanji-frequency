@@ -1,0 +1,447 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801141308",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "１０歳の子を頭に４人の子供がいる。",
+              "mean": "Tôi có 4 đứa con 10 tuổi trở xuống.",
+              "transcription": "いちぜろさいのこをあたまによんにんのこどもがいる。"
+            }
+          ],
+          "kind": "n",
+          "mean": "đầu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người cầm đầu; kẻ cầm đầu"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼はサーカス一座のかしらだ。",
+              "mean": "Ông ấy là chủ của gánh xiếc.",
+              "transcription": "かれはサーカスいちざのかしらだ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "ông chủ"
+        }
+      ],
+      "mobileId": 42098,
+      "opposite_word": [
+        "手下",
+        "尻"
+      ],
+      "phonetic": "かしら",
+      "related_words": {
+        "word": [
+          "先頭",
+          "頭痛",
+          "店頭",
+          "頭文字",
+          "頭がおかしい",
+          "頭金",
+          "接頭語",
+          "街頭",
+          "接頭辞",
+          "頭脳"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "頭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "上部",
+                "トップ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雁首",
+                "頭部",
+                "首",
+                "頸",
+                "ヘッド"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "リーダー",
+                "親方",
+                "主任者",
+                "主任",
+                "総督",
+                "長",
+                "チーフ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "知力",
+                "知性",
+                "心",
+                "頭脳",
+                "ブレーン",
+                "精神"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "結球"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "頭"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680113e878",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼は僕の頭を殴った。",
+              "mean": "Anh ta đánh vào đầu tôi.",
+              "transcription": "かれはぼくのあたまをなぐった。"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "cái đầu"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼はとても頭がいい。",
+              "mean": "Anh ấy rất thông minh",
+              "transcription": "かれはとてもあたまがいい。"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "đầu (não)"
+        },
+        {
+          "examples": [
+            {
+              "content": "母は美容院で頭を洗ってもらった。",
+              "mean": "Mẹ tôi đến tiệm để gội đầu",
+              "transcription": "はははびよういんであたまをあらってもらった。"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "đầu tóc"
+        },
+        {
+          "examples": [
+            {
+              "content": "この小説の頭の部分は面白くない。",
+              "mean": "Phần đầu của tiểu thuyết này không thú vị",
+              "transcription": "このしょうせつのあたまのぶぶんはおもしろくない。"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "phần đầu"
+        }
+      ],
+      "mobileId": 42097,
+      "opposite_word": [
+        "手下",
+        "尻"
+      ],
+      "phonetic": "あたま",
+      "related_words": {
+        "word": [
+          "先頭",
+          "頭痛",
+          "店頭",
+          "頭文字",
+          "頭がおかしい",
+          "頭金",
+          "接頭語",
+          "街頭",
+          "接頭辞",
+          "頭脳"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "頭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "上部",
+                "トップ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雁首",
+                "頭部",
+                "首",
+                "頸",
+                "ヘッド"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "リーダー",
+                "親方",
+                "主任者",
+                "主任",
+                "総督",
+                "長",
+                "チーフ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "知力",
+                "知性",
+                "心",
+                "頭脳",
+                "ブレーン",
+                "精神"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "結球"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "頭"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801143613",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            },
+            {
+              "content": "２頭の馬",
+              "mean": "2 con ngựa",
+              "transcription": "にとうのうま"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "đầu"
+        }
+      ],
+      "mobileId": 42099,
+      "opposite_word": [
+        "手下",
+        "尻"
+      ],
+      "phonetic": "とう",
+      "related_words": {
+        "word": [
+          "先頭",
+          "頭痛",
+          "店頭",
+          "頭文字",
+          "頭がおかしい",
+          "頭金",
+          "接頭語",
+          "街頭",
+          "接頭辞",
+          "頭脳"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "頭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "上部",
+                "トップ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雁首",
+                "頭部",
+                "首",
+                "頸",
+                "ヘッド"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "リーダー",
+                "親方",
+                "主任者",
+                "主任",
+                "総督",
+                "長",
+                "チーフ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "知力",
+                "知性",
+                "心",
+                "頭脳",
+                "ブレーン",
+                "精神"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "結球"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "頭"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936127de",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đề mục nhỏ; tiêu đề, lò ngang, (thể dục, thể thao) cú đánh đầu, sự đi về, sự hướng về"
+        }
+      ],
+      "mobileId": 21002,
+      "phonetic": "あたまがき",
+      "word": "頭書き"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e8a6fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đóng - tóc thu hoạch; cái đầu shaven"
+        }
+      ],
+      "mobileId": 7407,
+      "phonetic": "ぼうずあたま",
+      "related_words": {
+        "word": [
+          "主",
+          "頭",
+          "坊主",
+          "坊"
+        ]
+      },
+      "word": "坊主頭"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a666cd5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hair on one's head"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "head, top of one's head"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kanji \"hair\" radical at top"
+        }
+      ],
+      "mobileId": 226658,
+      "phonetic": "かみかしら かみがしら",
+      "word": "髪頭"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cd9c65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cầu phà; cầu tàu"
+        }
+      ],
+      "mobileId": 24431,
+      "phonetic": "きしあたま",
+      "word": "岸頭"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04ee458",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thinly-sliced salmon head cartilage (also whale etc.)"
+        }
+      ],
+      "mobileId": 283485,
+      "phonetic": "ひず",
+      "word": "氷頭"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a89b6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đầu đinh ."
+        }
+      ],
+      "mobileId": 109549,
+      "phonetic": "ていとう",
+      "word": "釘頭"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94e53de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "appointed official sent to administer a certain region (in the Ryukyu Kingdom)"
+        }
+      ],
+      "mobileId": 275245,
+      "phonetic": "かしらしょく",
+      "word": "頭職"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

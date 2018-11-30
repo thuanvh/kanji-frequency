@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad4019c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "今年の冬は去年ほどは雪が降らなかった。",
+              "mean": "Mùa đông năm nay, tuyết không rơi nhiều bằng năm ngoái.",
+              "transcription": "ことしのふゆはきょねんほどはゆきがふらなかった。"
+            }
+          ],
+          "kind": "n-adv, n",
+          "mean": "bằng"
+        },
+        {
+          "examples": [
+            {
+              "content": "私はどれほどあなたを愛しているかわからないの？",
+              "mean": "Anh có biết em yêu anh đến nhường nào không ?",
+              "transcription": "わたしはどれほどあなたをあいしているかわからないの？"
+            }
+          ],
+          "kind": "n-adv, n",
+          "mean": "đến mức"
+        },
+        {
+          "examples": [
+            {
+              "content": "新入社員を500名程採用します。",
+              "mean": "Chúng tôi sẽ tuyển khoảng 500 nhân viên mới.",
+              "transcription": "しんにゅうしゃいんを500めいほどさいようします。"
+            }
+          ],
+          "kind": "n-adv, n",
+          "mean": "khoảng"
+        },
+        {
+          "examples": [
+            {
+              "content": "身の程をわきまえろ。",
+              "mean": "Hãy biết thân phận của mình.",
+              "transcription": "みのほどをわきまえろ。"
+            }
+          ],
+          "kind": "n-adv, n",
+          "mean": "mức độ"
+        }
+      ],
+      "mobileId": 173846,
+      "phonetic": "ほど",
+      "related_words": {
+        "word": [
+          "工程",
+          "程度",
+          "日程",
+          "過程",
+          "旅程",
+          "行程",
+          "規程",
+          "方程式",
+          "先程",
+          "博士課程"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "程",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "度合",
+                "限り",
+                "範囲",
+                "限界",
+                "程度",
+                "領域",
+                "限度"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "度合",
+                "限り",
+                "程度",
+                "限度"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "度合",
+                "レヴェル",
+                "次元",
+                "水準",
+                "レベル",
+                "程度",
+                "度"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "程"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5251e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới phạm vi đó; tới mức đó"
+        }
+      ],
+      "mobileId": 12421,
+      "phonetic": "かれほど",
+      "word": "彼程"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7478e4e6",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp, adv",
+          "mean": "Thực sự; Thực ra; Đã hiểu"
+        }
+      ],
+      "mobileId": 99182,
+      "phonetic": "なるほど",
+      "related_words": {
+        "word": [
+          "程"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "成程",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "確かに",
+                "勿論",
+                "無論"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "成程"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2e4736",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, conj",
+          "mean": "không phải vậy đâu; không đặc biệt; không phải là cái đó nhiều"
+        }
+      ],
+      "mobileId": 147196,
+      "phonetic": "しかほど",
+      "related_words": {
+        "word": [
+          "程"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "然程",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "それだけ",
+                "そんなに"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "然程"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d94bd3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "tới gần"
+        }
+      ],
+      "mobileId": 6932,
+      "opposite_word": [
+        "程遠い"
+      ],
+      "phonetic": "ほどちかい",
+      "related_words": {
+        "word": [
+          "近い",
+          "程"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "程近い",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "手近",
+                "近い"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "程近い"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c044d0da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, adj-no",
+          "mean": "to that extent"
+        }
+      ],
+      "mobileId": 209058,
+      "phonetic": "あれほど",
+      "word": "あれ程"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c033bff0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, n",
+          "mean": "how much (long, far)"
+        }
+      ],
+      "mobileId": 208510,
+      "phonetic": "どれほど なにほど",
+      "word": "どれ程"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a928fa59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lifting height (of a pump, etc.)"
+        }
+      ],
+      "mobileId": 257582,
+      "phonetic": "ようてい",
+      "word": "揚程"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd997568",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gần đây, mới đây"
+        }
+      ],
+      "mobileId": 14659,
+      "phonetic": "いまほど",
+      "related_words": {
+        "word": [
+          "今",
+          "程"
+        ]
+      },
+      "word": "今程"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2e53af",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(không) very;(không) nhiều"
+        }
+      ],
+      "mobileId": 147197,
+      "phonetic": "ひだりほど",
+      "word": "左程"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

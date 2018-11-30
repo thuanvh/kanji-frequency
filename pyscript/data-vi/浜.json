@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fd1c088",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "浜をきれいにする",
+              "mean": "dọn sạch bãi biển",
+              "transcription": "はまをきれいにする"
+            },
+            {
+              "content": "浜へ出る",
+              "mean": "đi xuống bãi biển .",
+              "transcription": "はまへでる"
+            }
+          ],
+          "kind": "n",
+          "mean": "bãi biển"
+        }
+      ],
+      "mobileId": 188382,
+      "opposite_word": [
+        "岸"
+      ],
+      "phonetic": "はま",
+      "related_words": {
+        "word": [
+          "浜辺",
+          "砂浜",
+          "海浜"
+        ]
+      },
+      "word": "浜"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9fde47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ruộng muối"
+        }
+      ],
+      "mobileId": 14858,
+      "phonetic": "はいりはま",
+      "related_words": {
+        "word": [
+          "浜"
+        ]
+      },
+      "word": "入り浜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca051dd61",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "caltrop (Tribulus terrestris), cat's head, devil's thorn, devil's weed, goathead, land caltrop, puncturevine"
+        }
+      ],
+      "mobileId": 283584,
+      "phonetic": "はまびし ハマビシ",
+      "word": "浜菱"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681dcc47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dọc theo bãi biển"
+        }
+      ],
+      "mobileId": 948,
+      "phonetic": "はまづたい",
+      "word": "浜伝い"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0005ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "daylily"
+        }
+      ],
+      "mobileId": 248006,
+      "phonetic": "はまかんぞう ハマカンゾウ",
+      "word": "浜萱草"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7784797d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "queen snapper (Etelis coruscans), ruby snapper, flame snapper"
+        }
+      ],
+      "mobileId": 268754,
+      "phonetic": "はまだい ハマダイ",
+      "word": "浜鯛"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681db104",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tự nhiên (của) yokohama"
+        }
+      ],
+      "mobileId": 944,
+      "phonetic": "はまっこ",
+      "word": "浜っ子"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681dec8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crinum"
+        }
+      ],
+      "mobileId": 952,
+      "phonetic": "はまゆう",
+      "word": "浜木綿"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95eb5c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "artificially flooded salt farm above the high-tide mark"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "captured pieces (in the game of go), captured stones"
+        }
+      ],
+      "mobileId": 275760,
+      "phonetic": "あげはま",
+      "word": "揚げ浜"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c775bab20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shore lark (Eremophila alpestris), horned lark"
+        }
+      ],
+      "mobileId": 267410,
+      "phonetic": "はまひばり ハマヒバリ",
+      "word": "浜雲雀"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

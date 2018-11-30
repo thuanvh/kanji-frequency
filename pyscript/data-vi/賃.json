@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e631686",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đưa tin bịt đầu (mách hoặc hỏi giá"
+        }
+      ],
+      "mobileId": 114199,
+      "phonetic": "つかいちん",
+      "related_words": {
+        "word": [
+          "使い"
+        ]
+      },
+      "word": "使い賃"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193593ce8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xử lý những chi phí"
+        }
+      ],
+      "mobileId": 20763,
+      "phonetic": "かこうちん",
+      "related_words": {
+        "word": [
+          "加工",
+          "加"
+        ]
+      },
+      "word": "加工賃"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193df274f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "huấn luyện giá tiền"
+        }
+      ],
+      "mobileId": 24975,
+      "phonetic": "きしゃちん",
+      "related_words": {
+        "word": [
+          "車",
+          "汽車"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "汽車賃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "電車賃"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "汽車賃"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7fd61d1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "電車賃にも足りない",
+              "mean": "Ngay cả trả tiền vé tầu cũng không đủ.",
+              "transcription": "でんしゃちんにもたりない"
+            },
+            {
+              "content": "ずっと立ち通しだったのに、こんなに電車賃がかかるなんて信じられない。",
+              "mean": "Tôi không thể tin được là tôi phải trả từng này tiền vé tàu mà tôi toàn phải đứng. .",
+              "transcription": "ずっとたちとおしだったのに、こんなにでんしゃちんがかかるなんてしんじられない。"
+            }
+          ],
+          "kind": "n",
+          "mean": "tiền vé tàu"
+        }
+      ],
+      "mobileId": 110979,
+      "phonetic": "でんしゃちん",
+      "related_words": {
+        "word": [
+          "電車",
+          "車"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "電車賃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "汽車賃"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "電車賃"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81e9baa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự môi giới, nghề môi giới"
+        }
+      ],
+      "mobileId": 34480,
+      "phonetic": "きりちん",
+      "related_words": {
+        "word": [
+          "切",
+          "切り"
+        ]
+      },
+      "word": "切り賃"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa722cf6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "suất cước đường biển ."
+        }
+      ],
+      "mobileId": 107257,
+      "phonetic": "ちんりつ",
+      "word": "賃率"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8dc0ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền vé xe; giá tiền; những chi phí vận tải"
+        }
+      ],
+      "mobileId": 150222,
+      "phonetic": "しゃばちん",
+      "word": "車馬賃"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19393d08a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "được cho thuê; sự thuê"
+        }
+      ],
+      "mobileId": 22620,
+      "phonetic": "かりちん",
+      "related_words": {
+        "word": [
+          "借り",
+          "借"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "借り賃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "使い料",
+                "使用料",
+                "家賃",
+                "借貸",
+                "借料"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "借り賃"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952e7728",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giá tiền đường sắt"
+        }
+      ],
+      "mobileId": 57566,
+      "phonetic": "じょうしゃちん",
+      "related_words": {
+        "word": [
+          "車",
+          "乗車"
+        ]
+      },
+      "word": "乗車賃"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d48f5b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bus fare"
+        }
+      ],
+      "mobileId": 217420,
+      "phonetic": "バスちん",
+      "word": "バス賃"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

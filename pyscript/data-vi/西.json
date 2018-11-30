@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027c122d9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "デービッドは昨夜11時ごろ、ハーストブリッジから約20キロ西で、悲惨な交通事故に遭遇し、亡くなりました。",
+              "mean": "David đã thiệt mạng trong vụ tai nạn giao thông khủng khiếp xảy ra vào lúc 11 giờ đêm qua tại địa điểm cách đường Hurstbridge 20km về phía Tây.",
+              "transcription": "デービッドはさくや11じごろ、 ハーストブリッジからやく20キロにしで、ひさんなこうつうじこにそうぐうし、なくなりました。"
+            },
+            {
+              "content": "迂回路として、西3番通りの利用をお勧めします。",
+              "mean": "chúng tôi đề nghị mọi người sử dụng đường số 3 phía tây như một giải pháp thay thế. .",
+              "transcription": "うかいろとして、にし3ばんどおりのりようをおすすめします。"
+            }
+          ],
+          "kind": "n",
+          "mean": "hướng tây; phía tây"
+        }
+      ],
+      "mobileId": 32486,
+      "opposite_word": [
+        "東"
+      ],
+      "phonetic": "にし",
+      "related_words": {
+        "word": [
+          "西暦",
+          "西洋",
+          "東西",
+          "大西洋",
+          "西瓜",
+          "南西",
+          "西口",
+          "西部劇",
+          "北西",
+          "西海岸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "西",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウェスト",
+                "西方",
+                "ウエスト"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "西"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027c1fd49",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "やや西寄りのところに",
+              "mean": "Ở nơi hơi chếch theo hướng tây.",
+              "transcription": "ややにしよりのところに"
+            },
+            {
+              "content": "太陽が雲の中へ沈むときは、西寄りの風だけは吹いてほしくない。",
+              "mean": "mong sao khi mặt trời lấp bóng, gió tây đừng thổi. .",
+              "transcription": "たいようがくものなかへしずむときは、にしよりのかぜだけはふいてほしくない。"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "từ phía Tây"
+        }
+      ],
+      "mobileId": 32499,
+      "phonetic": "にしより",
+      "related_words": {
+        "word": [
+          "西"
+        ]
+      },
+      "word": "西寄り"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1f247c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "western edge, west margin"
+        }
+      ],
+      "mobileId": 224401,
+      "phonetic": "せいえん",
+      "word": "西縁"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0a3d996",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tibet"
+        }
+      ],
+      "mobileId": 203924,
+      "phonetic": "せいぞう チベット",
+      "word": "西藏"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed957b3457",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hướng tây - tây nam"
+        }
+      ],
+      "mobileId": 60011,
+      "phonetic": "せいなんにし",
+      "related_words": {
+        "word": [
+          "西",
+          "南",
+          "西南"
+        ]
+      },
+      "word": "西南西"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed956a13c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vùng ngoại ô phương tây (hiếm có)"
+        }
+      ],
+      "mobileId": 59479,
+      "phonetic": "",
+      "word": "西郊"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e588809",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toilet in a Zen temple"
+        }
+      ],
+      "mobileId": 250879,
+      "phonetic": "せいじん せいちん",
+      "word": "西浄"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa8d6cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Western Roman Empire"
+        }
+      ],
+      "mobileId": 228800,
+      "phonetic": "にしローマていこく",
+      "word": "西ローマ帝国"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027c264d0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "西海岸時間2時以降に受け付けたご注文は翌営業日の発送となりますのでご了承ください。",
+              "mean": "Xin quý khách lưu ý đơn đặt hàng sau 2 giờ chiều tính theo giờ bờ Tây sẽ được giao hàng vào ngày làm việc tiếp theo. .",
+              "transcription": "にしかいがんじかん2じいこうにうけつけたごちゅうもんはよくえいぎょうびのはっそうとなりますのでごりょうしょうください。"
+            }
+          ],
+          "kind": "n",
+          "mean": "Bờ biển phía Tây"
+        }
+      ],
+      "mobileId": 32514,
+      "phonetic": "にしかいがん",
+      "related_words": {
+        "word": [
+          "海",
+          "西",
+          "岸"
+        ]
+      },
+      "word": "西海岸"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94143ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "western gorilla (Gorilla gorilla)"
+        }
+      ],
+      "mobileId": 274846,
+      "phonetic": "にしゴリラ ニシゴリラ",
+      "word": "西ゴリラ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ec4de1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "đã được xuất bản"
+        }
+      ],
+      "mobileId": 25407,
+      "phonetic": "すんではっぴょう",
+      "word": "既発表"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f38ec2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "chương trình [công ước] không thể sửa đổi"
+        }
+      ],
+      "mobileId": 25650,
+      "phonetic": "すんでやく",
+      "related_words": {
+        "word": [
+          "約"
+        ]
+      },
+      "word": "既約"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e0ebc1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "đã nói ở trên, đã nói đến trước đây"
+        }
+      ],
+      "mobileId": 25030,
+      "phonetic": "すんでじゅつ",
+      "word": "既述"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca073525a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "married woman"
+        }
+      ],
+      "mobileId": 284656,
+      "phonetic": "きじょ",
+      "word": "既女"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97fd0dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "married man"
+        }
+      ],
+      "mobileId": 276809,
+      "phonetic": "きだん",
+      "word": "既男"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d033539",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-no, n",
+          "mean": "đã đọc"
+        }
+      ],
+      "mobileId": 215219,
+      "phonetic": "きどく",
+      "word": "既読"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7733e7cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "previously graduated"
+        }
+      ],
+      "mobileId": 266144,
+      "phonetic": "きそつ",
+      "word": "既卒"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e26812",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng hóa làm sẵn"
+        }
+      ],
+      "mobileId": 25086,
+      "phonetic": "き せいひん",
+      "word": "既製品"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f3a096",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trình bày không thể giảm bớt (math)"
+        }
+      ],
+      "mobileId": 25652,
+      "phonetic": "すんでやくひょうげん",
+      "word": "既約表現"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd801745",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hạt không thể phân chia được nữa; hạt cơ bản (vật lý)"
+        }
+      ],
+      "mobileId": 13862,
+      "phonetic": "いちりゅうしすんでやく",
+      "word": "一粒子既約"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

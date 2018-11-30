@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801460443",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "魚の鱗を落とす",
+              "mean": "đánh vẩy ra",
+              "transcription": "さかなのうろこをおとす"
+            },
+            {
+              "content": "魚の鱗を取る",
+              "mean": "đánh vẩy cá",
+              "transcription": "さかなのうろこをとる"
+            },
+            {
+              "content": "〜で目から鱗が落ちる",
+              "mean": "sáng mắt ra (mở mắt ra) nhờ điều gì .",
+              "transcription": "〜でめからうろこがおちる"
+            }
+          ],
+          "kind": "n",
+          "mean": "vảy"
+        }
+      ],
+      "mobileId": 42944,
+      "phonetic": "うろこ",
+      "related_words": {
+        "word": [
+          "逆鱗"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鱗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "魚",
+                "とと",
+                "フィッシュ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鱗"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822c0c21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "placoid scale"
+        }
+      ],
+      "mobileId": 233029,
+      "phonetic": "じゅんりん",
+      "word": "楯鱗"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822c1bce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ganoid scale"
+        }
+      ],
+      "mobileId": 233031,
+      "phonetic": "こうりん",
+      "word": "硬鱗"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd8e7e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lepidodendron"
+        }
+      ],
+      "mobileId": 75698,
+      "phonetic": "うろこき",
+      "word": "鱗木"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bdfe6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fish scaler"
+        }
+      ],
+      "mobileId": 262350,
+      "phonetic": "うろこひき",
+      "word": "鱗引き"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcdf3e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đám mây quyền tích"
+        }
+      ],
+      "mobileId": 16290,
+      "phonetic": "うろこくも",
+      "word": "鱗雲"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0152e1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bulbil, cormel, brood bud"
+        }
+      ],
+      "mobileId": 281631,
+      "phonetic": "りんが",
+      "word": "鱗芽"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8e9202b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quy mô xương xẩu ((của) một con cá)"
+        }
+      ],
+      "mobileId": 40980,
+      "phonetic": "ほねうろこ",
+      "word": "骨鱗"
+    },
+    {
+      "_id": "432518852de0a80625d585a98205c0df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scale leaf (forming part of a bulb)"
+        }
+      ],
+      "mobileId": 231824,
+      "phonetic": "りんよう",
+      "word": "鱗葉"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822c174e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cycloid scale"
+        }
+      ],
+      "mobileId": 233030,
+      "phonetic": "えんりん",
+      "word": "円鱗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

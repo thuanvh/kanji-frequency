@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7f01f37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mưa đá ."
+        }
+      ],
+      "mobileId": 110776,
+      "phonetic": "ひょう",
+      "synsets": [
+        {
+          "base_form": "雹",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "霰",
+                "氷雨"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "雹"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685d16ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thiệt hại mùa màng do mưa đá"
+        }
+      ],
+      "mobileId": 2970,
+      "phonetic": "",
+      "word": "雹害"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

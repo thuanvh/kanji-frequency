@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7abbed6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鈎頭虫",
+              "mean": "bọ đầu gai",
+              "transcription": "かぎあたまちゅう"
+            },
+            {
+              "content": "魚鈎",
+              "mean": "lưỡi câu cá",
+              "transcription": "さかなかぎ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Móc; dấu trích dẫn; dấu nháy kép"
+        }
+      ],
+      "mobileId": 109612,
+      "phonetic": "かぎ",
+      "word": "鈎"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bb4817",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giun móc"
+        }
+      ],
+      "mobileId": 39491,
+      "phonetic": "かぎちゅう",
+      "related_words": {
+        "word": [
+          "虫"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鈎虫",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "十二指腸虫"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鈎虫"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e884b913",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gọi chim ưng về bằng cách tung chim giả tung lên, nhử, nhử mồi, dỗ dành, quyến rũ"
+        }
+      ],
+      "mobileId": 37738,
+      "phonetic": "もうかぎ",
+      "word": "毛鈎"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

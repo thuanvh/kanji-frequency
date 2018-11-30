@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6df1f1e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pouring alcohol, person pouring alcohol"
+        }
+      ],
+      "mobileId": 222949,
+      "phonetic": "しゃく",
+      "word": "酌"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88cefc5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đề nghị tặng một đồ uống"
+        }
+      ],
+      "mobileId": 38003,
+      "phonetic": "",
+      "word": "献酌"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef915f84e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drinking alcohol while pouring it for each other"
+        }
+      ],
+      "mobileId": 273474,
+      "opposite_word": [
+        "手酌"
+      ],
+      "phonetic": "あいじゃく",
+      "word": "相酌"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193086181",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "vũ nữ nhật (học nghề); nhảy cô gái"
+        }
+      ],
+      "mobileId": 18172,
+      "phonetic": "ごしゃく",
+      "word": "御酌"
+    },
+    {
+      "_id": "332167954327f6e41c4a167bfec95eb0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）にお酌をする",
+              "mean": "chuốc rượu cho ai",
+              "transcription": "（ひと）におしゃくをする"
+            },
+            {
+              "content": "誰かお酌をしてよ",
+              "mean": "ai chuốc rượu cho tôi đi",
+              "transcription": "だれかおしゃくをしてよ"
+            },
+            {
+              "content": "お酌をした",
+              "mean": "chuốc rượu .",
+              "transcription": "おしゃくをした"
+            }
+          ],
+          "kind": "n/v",
+          "mean": "gái nhảy; vũ nữ; gái chuốc rượu; gái hầu rượu"
+        }
+      ],
+      "mobileId": 51274,
+      "phonetic": "おしゃく",
+      "word": "お酌"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0fa71f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "regret and sympathy, having lingering attachment and sympathy toward someone"
+        }
+      ],
+      "mobileId": 214943,
+      "phonetic": "みれんみしゃく",
+      "word": "未練未酌"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77342f63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adj-i",
+          "mean": "unsympathetic and inconsiderate, coldhearted"
+        }
+      ],
+      "mobileId": 266150,
+      "phonetic": "みれんみしゃくがない",
+      "word": "未練未酌がない"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

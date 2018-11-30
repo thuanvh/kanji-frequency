@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a52c126",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "triện của vua ."
+        }
+      ],
+      "mobileId": 171690,
+      "phonetic": "じ",
+      "word": "璽"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a953fc00",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "imperial seal"
+        }
+      ],
+      "mobileId": 258980,
+      "phonetic": "じふ",
+      "word": "璽符"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a52cc84",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "văn kiện có đóng triện của vua ."
+        }
+      ],
+      "mobileId": 171691,
+      "phonetic": "じしょ",
+      "word": "璽書"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a448454",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bảo ấn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngọc tỷ ."
+        }
+      ],
+      "mobileId": 171503,
+      "phonetic": "ぎょくじ",
+      "related_words": {
+        "word": [
+          "玉"
+        ]
+      },
+      "word": "玉璽"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88dc968",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thanh gươm và ngọc tỷ của vua"
+        }
+      ],
+      "mobileId": 38027,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "剣"
+        ]
+      },
+      "word": "剣璽"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

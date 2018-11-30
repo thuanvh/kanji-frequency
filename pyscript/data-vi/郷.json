@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6dfb23df",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "quê hương"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "thị trấn nông thôn (của Trung Quốc)"
+        }
+      ],
+      "mobileId": 223248,
+      "phonetic": "きょう,ごう",
+      "word": "郷"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8134b78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làng nhỏ; xóm, thôn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làng, xã"
+        }
+      ],
+      "mobileId": 34110,
+      "phonetic": "",
+      "word": "郷邑"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80c168f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "côn đồ; kẻ hung ác, thằng bé tinh quái; thằng quỷ sứ con, (từ cổ, nghĩa cổ) người quê mùa thô kệch, villein"
+        }
+      ],
+      "mobileId": 33877,
+      "phonetic": "さとぞく",
+      "word": "郷俗"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8fba016",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người kỳ cựu; lính dự bị; ex - người lính"
+        }
+      ],
+      "mobileId": 41573,
+      "phonetic": "さとぐん",
+      "related_words": {
+        "word": [
+          "軍"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "郷軍",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "予備兵"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "郷軍"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8fc5d4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những làng"
+        }
+      ],
+      "mobileId": 41598,
+      "phonetic": "ごうむら",
+      "word": "郷村"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03e7718",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "village school (esp. in Edo-era Japan, and ancient Korea and China)"
+        }
+      ],
+      "mobileId": 282973,
+      "phonetic": "ごうがく きょうがく",
+      "word": "郷学"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00967e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "poor isolated village"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "one's hometown"
+        }
+      ],
+      "mobileId": 281265,
+      "phonetic": "かんきょう",
+      "word": "寒郷"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770434e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "friends from the same hometown"
+        }
+      ],
+      "mobileId": 264592,
+      "phonetic": "きょうゆう",
+      "word": "郷友"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a950ac73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "when in Rome, do as the Romans do"
+        }
+      ],
+      "mobileId": 258873,
+      "phonetic": "ごうにいればごうにしたがえ",
+      "related_words": {
+        "word": [
+          "に",
+          "入れ"
+        ]
+      },
+      "word": "郷に入れば郷に従え"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d49f332",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "When in Rome, do as the Romans do"
+        }
+      ],
+      "mobileId": 217452,
+      "phonetic": "ごうにいらばごうにしたがえ",
+      "word": "郷に入らば郷に従え"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

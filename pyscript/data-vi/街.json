@@ -1,0 +1,267 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b05ef1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phố phường"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phố xá"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phố; thị trấn ."
+        }
+      ],
+      "mobileId": 32192,
+      "phonetic": "まち",
+      "related_words": {
+        "word": [
+          "商店街",
+          "住宅街",
+          "街道",
+          "街頭",
+          "中華街",
+          "繁華街",
+          "旧市街",
+          "街角",
+          "街灯",
+          "街路樹"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "街",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "地区"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "街"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b05796",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）が住んでいる街",
+              "mean": "Khu phố mà ai đó đang sống",
+              "transcription": "（ひと）がすんでいるまち"
+            },
+            {
+              "content": "〜のスラム（街）で暮らす",
+              "mean": "Sống ở khu ổ chuột của ~",
+              "transcription": "〜のスラム（まち）でくらす"
+            },
+            {
+              "content": "大抵はスターバックスで会ってるんだ――ほら、59丁目通りの角にある――あ、ごめん――49丁目通りと8番街（の角）だ",
+              "mean": "Chúng tôi thường gặp nhau ở Starbuck. Ở góc đường 59 ấy - à, xin lỗi - đường 49 và (góc) phố 8.",
+              "transcription": "たいていはスターバックスであってるんだ――ほら、 59ちょうめどおりのかくにある――あ、ごめん―― 49ちょうめどおりと8ばんがい（のかく）だ"
+            }
+          ],
+          "kind": "n-suf, pref",
+          "mean": "phố; khu"
+        }
+      ],
+      "mobileId": 32191,
+      "phonetic": "がい",
+      "related_words": {
+        "word": [
+          "商店街",
+          "住宅街",
+          "街道",
+          "街頭",
+          "中華街",
+          "繁華街",
+          "旧市街",
+          "街角",
+          "街灯",
+          "街路樹"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "街",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "地区"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "街"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fe53d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(nhìn (của)) những kho và những cái nhà trên (về) đường phố; đường phố ((của) những kho và những cái nhà)"
+        }
+      ],
+      "mobileId": 8099,
+      "phonetic": "まちなみ",
+      "related_words": {
+        "word": [
+          "街",
+          "並"
+        ]
+      },
+      "word": "街並"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08f1e95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "downtown high-rise area, street of office buildings, area of medium to tall business buildings"
+        }
+      ],
+      "mobileId": 285517,
+      "phonetic": "ビルがい",
+      "word": "ビル街"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10764ef2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khu giải trí ."
+        }
+      ],
+      "mobileId": 53551,
+      "phonetic": "ごらくがい",
+      "word": "娯楽街"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7150b27",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "貧民街居住者",
+              "mean": "người sống trong khu nhà ổ chuột",
+              "transcription": "ひんみんがいきょじゅうしゃ"
+            },
+            {
+              "content": "貧民街の聖女",
+              "mean": "thánh nữ nơi khu nhà ổ chuột .",
+              "transcription": "ひんみんがいのせいじょ"
+            }
+          ],
+          "kind": "n",
+          "mean": "khu nhà ổ chuột"
+        }
+      ],
+      "mobileId": 107037,
+      "phonetic": "ひんみんがい",
+      "related_words": {
+        "word": [
+          "街",
+          "民",
+          "貧"
+        ]
+      },
+      "word": "貧民街"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c6a448",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Koreatown"
+        }
+      ],
+      "mobileId": 279101,
+      "phonetic": "かんこくがい",
+      "word": "韓国街"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7704f7e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "street vendor"
+        }
+      ],
+      "mobileId": 264619,
+      "phonetic": "がいしょう",
+      "word": "街商"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fe3c48",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "toàn bộ thành phố, cả thành phố, khắp thành phố"
+        }
+      ],
+      "mobileId": 8096,
+      "phonetic": "まちなか",
+      "related_words": {
+        "word": [
+          "中",
+          "街"
+        ]
+      },
+      "word": "街中"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b09138",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đèn đường ."
+        }
+      ],
+      "mobileId": 32196,
+      "phonetic": "がいとう",
+      "related_words": {
+        "word": [
+          "街"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "街燈",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "街灯"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "街燈"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a41cba4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼はペットとして人によくなれたサルを飼っている",
+              "mean": "Anh ấy nuôi khỉ - 1 con vật gần gũi với con người làm con vật cảnh.",
+              "transcription": "かれはペットとしてひとによくなれたサルをかっている"
+            }
+          ],
+          "kind": "n",
+          "mean": "khỉ"
+        }
+      ],
+      "mobileId": 171461,
+      "phonetic": "さる",
+      "related_words": {
+        "word": [
+          "猿も木から落ちる",
+          "猿轡",
+          "類人猿",
+          "山猿",
+          "猿人",
+          "野猿",
+          "犬猿の仲"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "猿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "モンキー",
+                "山猿"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "模倣者",
+                "亜流"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "猿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a97bd34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rosefinch (any finch of genus Carpodacus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "monkey"
+        }
+      ],
+      "mobileId": 228240,
+      "phonetic": "ましこ マシコ",
+      "word": "猿子"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9b0096",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "woolly monkey (any New World monkey of genus Lagothrix)"
+        }
+      ],
+      "mobileId": 228364,
+      "phonetic": "ようもうざる ヨウモウザル",
+      "word": "羊毛猿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9b165d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "green monkey (Chlorocebus sabaeus, sometimes considered to be a subspecies of Chlorocebus aethiops)"
+        }
+      ],
+      "mobileId": 228366,
+      "phonetic": "みどりざる",
+      "word": "緑猿"
+    },
+    {
+      "_id": "0648f34b5f8df91f4f81a793f9d82da7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khỉ đàn ."
+        }
+      ],
+      "mobileId": 10571,
+      "phonetic": "きつねさる",
+      "word": "きつね猿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3c81bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "monkey brain (eaten as a delicacy, medicine, etc.)"
+        }
+      ],
+      "mobileId": 225348,
+      "phonetic": "えんのう",
+      "word": "猿腦"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9547217e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vượn người"
+        }
+      ],
+      "mobileId": 58353,
+      "phonetic": "じんるいさる",
+      "related_words": {
+        "word": [
+          "人",
+          "人類",
+          "猿",
+          "類"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "人類猿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "類人猿"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "人類猿"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a16172",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "earthenware toy portraying a monkey sitting on top of a deer (often a bell)"
+        }
+      ],
+      "mobileId": 286108,
+      "phonetic": "しかざる",
+      "word": "鹿猿"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a16f7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Celebes crested macaque (Macaca nigra), crested black macaque, Sulawesi crested macaque, black ape"
+        }
+      ],
+      "mobileId": 286110,
+      "phonetic": "くろざる クロザル",
+      "word": "黒猿"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a17d8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clay monkey figure"
+        }
+      ],
+      "mobileId": 286112,
+      "phonetic": "かわらざる",
+      "word": "瓦猿"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

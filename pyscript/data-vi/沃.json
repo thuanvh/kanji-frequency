@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9827115c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fertile field, field with fertile soil"
+        }
+      ],
+      "mobileId": 235199,
+      "phonetic": "よくでん",
+      "word": "沃田"
+    },
+    {
+      "_id": "432518852de0a80625d585a982713224",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-f",
+          "mean": "fertile soil, fertile land, fertility"
+        }
+      ],
+      "mobileId": 235201,
+      "phonetic": "こうよく",
+      "word": "膏沃"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aca6bdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "henbane (Hyoscyamus niger)"
+        }
+      ],
+      "mobileId": 229881,
+      "phonetic": "ひよす ヒヨス",
+      "word": "菲沃斯"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

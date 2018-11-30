@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680109b6fb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "私はこの革のコートを特売セールで手に入れた",
+              "mean": "Tôi bán giảm giá cái áo khoác da này.",
+              "transcription": "わたしはこのかわのコートをとくばいセールでてにいれた"
+            },
+            {
+              "content": "彼女のジャケットは人工革でしますた",
+              "mean": "Cái áo jac-ket của cô ấy làm bằng da nhân tạo",
+              "transcription": "かのじょのジャケットはじんこうかわでしますた"
+            },
+            {
+              "content": "しなやかな革",
+              "mean": "Da mềm",
+              "transcription": "しなやかなかわ"
+            }
+          ],
+          "kind": "n",
+          "mean": "da (của động vật)"
+        }
+      ],
+      "mobileId": 41941,
+      "phonetic": "かわ",
+      "related_words": {
+        "word": [
+          "革命",
+          "改革",
+          "沿革",
+          "変革",
+          "革新",
+          "技術革新",
+          "合成皮革",
+          "革新的",
+          "本革",
+          "皮革"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "革",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "皮革",
+                "レザー",
+                "なめし革"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "甲羅",
+                "甲殻",
+                "殻",
+                "匣",
+                "覆い",
+                "箱",
+                "皮"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "革"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939a4806",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bọc bằng da (ghế)"
+        }
+      ],
+      "mobileId": 22823,
+      "phonetic": "かわばり",
+      "word": "革張り"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939a61b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "túi da"
+        }
+      ],
+      "mobileId": 22825,
+      "phonetic": "かわぶくろ",
+      "word": "革袋"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680151879b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thay đổi triều đại ."
+        }
+      ],
+      "mobileId": 43178,
+      "phonetic": "ていかく",
+      "word": "鼎革"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d3199c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "da để đóng đế giày da; đế giày bằng da"
+        }
+      ],
+      "mobileId": 62843,
+      "phonetic": "そこかわ",
+      "word": "底革"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94be094",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "leather tabi"
+        }
+      ],
+      "mobileId": 275170,
+      "phonetic": "かわたび",
+      "word": "革足袋"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d732b52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "da nhân tạo ."
+        }
+      ],
+      "mobileId": 143410,
+      "phonetic": "じんこうかわ",
+      "word": "人工革"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822c3938",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "armor, helmet & shield (armour)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kakurei, kakuun & kakumei (first, fifth and fifty-eighth years of the sexagenary cycle; times of civil unrest according to onmyou-dou)"
+        }
+      ],
+      "mobileId": 233034,
+      "phonetic": "さんかく",
+      "word": "三革"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822c4de4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fifth year of the sexagenary cycle (in onmyou-dou)"
+        }
+      ],
+      "mobileId": 233036,
+      "phonetic": "かくうん",
+      "word": "革運"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d560e2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đế trong"
+        }
+      ],
+      "mobileId": 148469,
+      "phonetic": "しきかわ",
+      "word": "敷き革"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada7a73d6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "卵3個をボウルに入れよく割りほぐすこと",
+              "mean": "Đập nhẹ 3 quả trứng cho vào bát. .",
+              "transcription": "たまご3こをボウルにいれよくわりほぐすこと"
+            }
+          ],
+          "kind": "n",
+          "mean": "trứng; quả trứng"
+        }
+      ],
+      "mobileId": 79018,
+      "phonetic": "たまご",
+      "related_words": {
+        "word": [
+          "卵巣",
+          "卵焼き",
+          "産卵",
+          "生卵",
+          "卵子",
+          "卵白",
+          "半熟卵",
+          "排卵",
+          "受精卵",
+          "鶏卵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "卵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "卵細胞"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "鶏卵",
+                "卵子",
+                "玉"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "卵子",
+                "卵細胞"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "卵"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933b52ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mang một trứng (biol)"
+        }
+      ],
+      "mobileId": 19822,
+      "phonetic": "かいたまご",
+      "related_words": {
+        "word": [
+          "卵",
+          "介"
+        ]
+      },
+      "word": "介卵"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193af7d9a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "noãn khử nước"
+        }
+      ],
+      "mobileId": 23477,
+      "phonetic": "かんそうたまご",
+      "related_words": {
+        "word": [
+          "卵",
+          "乾燥",
+          "乾"
+        ]
+      },
+      "word": "乾燥卵"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0303962",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "skin as white as an egg"
+        }
+      ],
+      "mobileId": 282492,
+      "phonetic": "たまごはだ",
+      "word": "卵肌"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06df6bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "processed egg, processed egg product"
+        }
+      ],
+      "mobileId": 284482,
+      "phonetic": "かこうらん",
+      "word": "加工卵"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06e3a65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frozen egg"
+        }
+      ],
+      "mobileId": 284491,
+      "phonetic": "れいとうらん れいとうたまご",
+      "word": "冷凍卵"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9535b0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "egg sack (frog, spider, etc.), egg mass"
+        }
+      ],
+      "mobileId": 275400,
+      "phonetic": "らんかい",
+      "word": "卵塊"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d439c04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trứng tằm"
+        }
+      ],
+      "mobileId": 147881,
+      "phonetic": "かいこたまご",
+      "related_words": {
+        "word": [
+          "卵",
+          "蚕"
+        ]
+      },
+      "word": "蚕卵"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ef758b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soup or stew over which a beaten egg is poured before serving, egg-bound soup"
+        }
+      ],
+      "mobileId": 272227,
+      "phonetic": "たまごとじ",
+      "word": "卵とじ"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9f73dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bò những trứng"
+        }
+      ],
+      "mobileId": 14847,
+      "phonetic": "いりたまご",
+      "word": "煎り卵"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

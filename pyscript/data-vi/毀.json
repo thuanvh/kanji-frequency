@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801076d54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lời nói xấu ."
+        }
+      ],
+      "mobileId": 41888,
+      "phonetic": "ひき",
+      "word": "非毀"
+    },
+    {
+      "_id": "432518852de0a80625d585a98240aa2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "defamation, libel, calumny, slander"
+        }
+      ],
+      "mobileId": 233670,
+      "phonetic": "ひき",
+      "word": "誹毀"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a567a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "breaking, demolishing, smashing, destroying, wrecking"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "being broken, being ruined, being destroyed, being worn out"
+        }
+      ],
+      "mobileId": 269818,
+      "phonetic": "きかい",
+      "word": "毀壊"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773ee7e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "completely destroying by fire"
+        }
+      ],
+      "mobileId": 266495,
+      "phonetic": "しょうき",
+      "word": "焼毀"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

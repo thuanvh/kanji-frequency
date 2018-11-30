@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ca6227",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự cầu nguyện; lời cầu nguyện, điều cầu nguyện"
+        }
+      ],
+      "mobileId": 24330,
+      "phonetic": "ねがい",
+      "word": "願"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cb7903",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viết yêu cầu"
+        }
+      ],
+      "mobileId": 24365,
+      "phonetic": "ねがいじょう",
+      "related_words": {
+        "word": [
+          "状"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "願状",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "陳情",
+                "嘆願",
+                "起請",
+                "申請",
+                "請願",
+                "願文",
+                "訴状",
+                "建白"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "願状"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0ba10d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "patent application"
+        }
+      ],
+      "mobileId": 286925,
+      "phonetic": "とくがん",
+      "word": "特願"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef992b155",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "thư từ chức, yêu cầu nghỉ hưu"
+        }
+      ],
+      "mobileId": 277416,
+      "phonetic": "たいしょくがん",
+      "word": "退職願"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ce054f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đi chùa (đền, nhà thờ ...) trả lễ (vì đều cầu nguyện đã thành sự thật)"
+        }
+      ],
+      "mobileId": 24444,
+      "phonetic": "ねがいとき",
+      "word": "願解き"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ce2fce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trang mặt (của) một ứng dụng để trống"
+        }
+      ],
+      "mobileId": 24450,
+      "phonetic": "ねがいめん",
+      "related_words": {
+        "word": [
+          "面"
+        ]
+      },
+      "word": "願面"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779328c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "request for a police search, application to the police to search for a missing person"
+        }
+      ],
+      "mobileId": 269234,
+      "phonetic": "そうさくねがい",
+      "word": "捜索願"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cb2e7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ung thư biểu bì"
+        }
+      ],
+      "mobileId": 24356,
+      "phonetic": "ねがいしゅ",
+      "word": "願酒"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9500eaa4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(viết) sự từ chức"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "letter of resignation"
+        }
+      ],
+      "mobileId": 56140,
+      "phonetic": "じしょくねがい",
+      "word": "辞職願"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a585a5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "I pray, I wish"
+        }
+      ],
+      "mobileId": 226233,
+      "phonetic": "ねがわくば",
+      "word": "願わくば"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

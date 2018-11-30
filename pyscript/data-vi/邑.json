@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a63c90b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "ngôi làng lớn"
+        }
+      ],
+      "mobileId": 226577,
+      "phonetic": "おおざと おおざる",
+      "word": "邑"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8134b78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làng nhỏ; xóm, thôn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làng, xã"
+        }
+      ],
+      "mobileId": 34110,
+      "phonetic": "",
+      "word": "郷邑"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0074618",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "city, town, village"
+        }
+      ],
+      "mobileId": 281183,
+      "phonetic": "しゆう",
+      "word": "市邑"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a63caef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"large village\" radical"
+        }
+      ],
+      "mobileId": 226578,
+      "phonetic": "のぼりざと",
+      "word": "幟邑"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd89c0dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làng nhỏ; xóm, thôn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự vui chơi; trò vui, trò giải trí, trò tiêu khiển, sự làm cho thích thú, sự làm buồn cười; sự thích thú, sự buồn cười"
+        }
+      ],
+      "mobileId": 73173,
+      "phonetic": "",
+      "word": "邑落"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68af28f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làng hẻo lánh"
+        }
+      ],
+      "mobileId": 5580,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "僻"
+        ]
+      },
+      "word": "僻邑"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

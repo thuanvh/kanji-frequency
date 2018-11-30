@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e460c2f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "vòi đốt"
+        }
+      ],
+      "mobileId": 250279,
+      "phonetic": "ふん",
+      "word": "吻"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c3638c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người trẻ tuổi còn thiếu kinh nghiệm (như 黄口)"
+        }
+      ],
+      "mobileId": 39754,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "黄"
+        ]
+      },
+      "word": "黄吻"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ec2d96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Rostroconchia (class of extinct molluscs)"
+        }
+      ],
+      "mobileId": 272122,
+      "phonetic": "ふんかくこう",
+      "word": "吻殻綱"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e418a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snout beetle"
+        }
+      ],
+      "mobileId": 263554,
+      "phonetic": "ゆうふんるい",
+      "word": "有吻類"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

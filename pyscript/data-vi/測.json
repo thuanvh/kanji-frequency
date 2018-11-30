@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cf8d28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thước dây"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chemical side chain"
+        }
+      ],
+      "mobileId": 62728,
+      "phonetic": "はかくさり",
+      "word": "測鎖"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a4ff1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "missing (data, observation, etc.)"
+        }
+      ],
+      "mobileId": 286219,
+      "phonetic": "けっそく",
+      "word": "欠測"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b222d9c32",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Lý trình Km 9+500",
+              "mean": "",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Điểm lý trình (cầu đường)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "そくてん",
+      "word": "測点"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d0f624",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "máy đo độ dài"
+        }
+      ],
+      "mobileId": 62772,
+      "phonetic": "はかちょうき",
+      "related_words": {
+        "word": [
+          "長",
+          "機"
+        ]
+      },
+      "word": "測長機"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ddba36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hypsometer"
+        }
+      ],
+      "mobileId": 271671,
+      "phonetic": "そっこうき",
+      "word": "測高器"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fee63c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thước thợ ."
+        }
+      ],
+      "mobileId": 188859,
+      "phonetic": "そっかくき",
+      "word": "測角器"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d1052f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(ship có) đốn khúc"
+        }
+      ],
+      "mobileId": 62774,
+      "phonetic": "はかほどき",
+      "word": "測程器"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d1b961",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái đo vi, trắc vi kế"
+        }
+      ],
+      "mobileId": 62797,
+      "phonetic": "はかびけい",
+      "word": "測微計"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d6e65b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hạn chế sự người tìm ra"
+        }
+      ],
+      "mobileId": 62967,
+      "phonetic": "そっきょ ぎ",
+      "word": "測距儀"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

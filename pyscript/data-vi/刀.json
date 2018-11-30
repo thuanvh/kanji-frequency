@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada2b5ddd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đao"
+        },
+        {
+          "examples": [
+            {
+              "content": "刀を抜く",
+              "mean": "rút kiếm ra .",
+              "transcription": "かたなをぬく"
+            }
+          ],
+          "kind": "n",
+          "mean": "thanh kiếm; thanh gươm"
+        }
+      ],
+      "mobileId": 77686,
+      "opposite_word": [
+        "剣"
+      ],
+      "phonetic": "かたな",
+      "related_words": {
+        "word": [
+          "秋刀魚",
+          "日本刀",
+          "太刀",
+          "竹刀",
+          "剃刀",
+          "太刀魚",
+          "一刀両断",
+          "単刀直入",
+          "抜刀",
+          "薙刀"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "刀",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "太刀",
+                "兵刃",
+                "刀刃",
+                "剣",
+                "大刀",
+                "刀剣"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "軍刀",
+                "サーベル",
+                "剣"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "短剣",
+                "九寸五分",
+                "匕首",
+                "短刀",
+                "小刀",
+                "ナイフ",
+                "合い口"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "刀"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83634a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thanh gươm nghi thức"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(boxing) technical knockout (TKO)"
+        }
+      ],
+      "mobileId": 35231,
+      "phonetic": "ぎがたな",
+      "related_words": {
+        "word": [
+          "刀",
+          "儀"
+        ]
+      },
+      "word": "儀刀"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc43493",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gươm bén"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "secession from political party"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "party of officials"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "isolated (outlying) island"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "departure from island"
+        }
+      ],
+      "mobileId": 75075,
+      "phonetic": "りがたな",
+      "word": "利刀"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7722b85d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "practice sword, fake sword"
+        }
+      ],
+      "mobileId": 265583,
+      "phonetic": "もぎとう",
+      "word": "模擬刀"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f36fb0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bewitched sword, magical sword, demon sword"
+        }
+      ],
+      "mobileId": 264046,
+      "phonetic": "ようとう",
+      "word": "妖刀"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b1b70f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sword used for self-defense"
+        }
+      ],
+      "mobileId": 261966,
+      "phonetic": "ごしんとう",
+      "word": "護身刀"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5155c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"sword\" radical at right (radical 18)"
+        }
+      ],
+      "mobileId": 226022,
+      "phonetic": "りっとう",
+      "word": "立刀"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada2b876b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vết thương do gươm chém ."
+        }
+      ],
+      "mobileId": 77689,
+      "phonetic": "とうしょう",
+      "related_words": {
+        "word": [
+          "傷",
+          "刀"
+        ]
+      },
+      "word": "刀傷"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada2bcbdf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sống dao; sống gươm; sống đao ."
+        }
+      ],
+      "mobileId": 77694,
+      "phonetic": "とうはい",
+      "related_words": {
+        "word": [
+          "刀",
+          "背"
+        ]
+      },
+      "word": "刀背"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a57b33",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scabbard"
+        }
+      ],
+      "mobileId": 277998,
+      "phonetic": "とうしつ",
+      "word": "刀室"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

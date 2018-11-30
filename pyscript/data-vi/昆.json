@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f741ff2e6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "私は孫たち(後昆)に腐敗した状態の世界を残したくない",
+              "mean": "Tôi không muốn để lại cho con cháu (thế hệ sau, thế hệ mai sau) một thế giới trong tình trạng suy tàn .",
+              "transcription": "わたしはまごたち(ごこん)にふはいしたじょうたいのせかいをのこしたくない"
+            }
+          ],
+          "kind": "n",
+          "mean": "con cháu; thế hệ sau; thế hệ mai sau"
+        }
+      ],
+      "mobileId": 97914,
+      "phonetic": "こうこん",
+      "word": "後昆"
+    },
+    {
+      "_id": "432518852de0a80625d585a982496f8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "great-great-great-great-grandchild"
+        }
+      ],
+      "mobileId": 233953,
+      "phonetic": "こんそん",
+      "word": "昆孫"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

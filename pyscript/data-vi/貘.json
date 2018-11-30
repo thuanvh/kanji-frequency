@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6830276b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "heo vòi"
+        }
+      ],
+      "mobileId": 1561,
+      "phonetic": "ばく",
+      "word": "貘"
+    },
+    {
+      "_id": "ac12816c3281c52ce90ba353b6b7d979",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "heo vòi Nam Mỹ (động vật học)"
+        }
+      ],
+      "mobileId": 133387,
+      "phonetic": "アメリカばく",
+      "word": "アメリカ貘"
+    },
+    {
+      "_id": "ac12816c3281c52ce90ba353b6b587a1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "アメリカ貘はテレビで見たことがある",
+              "mean": "tôi đã từng nhìn thấy heo vòi Nam Mỹ trên vô tuyến .",
+              "transcription": "アメリカばくはテレビでみたことがある"
+            },
+            {
+              "content": "アメリカ貘はテレビで見たことがある",
+              "mean": "tôi đã từng nhìn thấy heo vòi Nam Mỹ trên vô tuyến .",
+              "transcription": "アメリカばくはテレビでみたことがある"
+            }
+          ],
+          "kind": "n",
+          "mean": "heo vòi Nam Mỹ (động vật học)"
+        }
+      ],
+      "mobileId": 133358,
+      "phonetic": "アメリカ貘",
+      "word": "アメリカばく"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,332 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a8d50ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đích"
+        },
+        {
+          "examples": [
+            {
+              "content": "政治的事件",
+              "mean": "Sự kiện mang tính chính trị",
+              "transcription": "せいじてきじけん"
+            },
+            {
+              "content": "経済的問題",
+              "mean": "Vấn đề mang tính kinh tế",
+              "transcription": "けいざいてきもんだい"
+            }
+          ],
+          "kind": "adj-na, suf",
+          "mean": "mang tính chất"
+        }
+      ],
+      "mobileId": 172633,
+      "phonetic": "てき",
+      "related_words": {
+        "word": [
+          "目的",
+          "一時的",
+          "具体的",
+          "積極的",
+          "魅力的",
+          "目的地",
+          "基本的に",
+          "一般的",
+          "伝統的",
+          "性的"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "的",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ターゲット",
+                "正鵠",
+                "黒星",
+                "狙い所",
+                "標的"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "フォーカス",
+                "中心",
+                "核",
+                "重心",
+                "焦点"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ターゲット",
+                "好餌",
+                "狙い",
+                "標的",
+                "餌食",
+                "獲物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ターゲット",
+                "目標",
+                "標的"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "的"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a8d60e4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "弾丸は的に当たった。",
+              "mean": "Viên đạn trúng đích.",
+              "transcription": "だんがんはまとにあたった。"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái đích"
+        },
+        {
+          "examples": [
+            {
+              "content": "ダイアナ姫のファッションはいつも注目の的だ。",
+              "mean": "Thời trang của công nương Diana luôn là đối tượng cho sự chú ý. .",
+              "transcription": "ダイアナひめのファッションはいつもちゅうもくのてきだ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "đối tượng"
+        }
+      ],
+      "mobileId": 172634,
+      "phonetic": "まと",
+      "related_words": {
+        "word": [
+          "目的",
+          "一時的",
+          "具体的",
+          "積極的",
+          "魅力的",
+          "目的地",
+          "基本的に",
+          "一般的",
+          "伝統的",
+          "性的"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "的",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ターゲット",
+                "正鵠",
+                "黒星",
+                "狙い所",
+                "標的"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "フォーカス",
+                "中心",
+                "核",
+                "重心",
+                "焦点"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ターゲット",
+                "好餌",
+                "狙い",
+                "標的",
+                "餌食",
+                "獲物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ターゲット",
+                "目標",
+                "標的"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "的"
+    },
+    {
+      "_id": "edf7f33f53832e93b36c90d5fd0c0ad7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Mang tính tích cực"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "てききょくてき",
+      "word": "的極的"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68032a9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "phá hủy; có tính chất phá hoại"
+        }
+      ],
+      "mobileId": 97,
+      "phonetic": "はかいてき",
+      "related_words": {
+        "word": [
+          "的",
+          "破壊"
+        ]
+      },
+      "word": "破壊的"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6834051b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "quyết liệt; căn bản"
+        }
+      ],
+      "mobileId": 1692,
+      "phonetic": "ばっぽんてき",
+      "related_words": {
+        "word": [
+          "本",
+          "的"
+        ]
+      },
+      "word": "抜本的"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685fcbf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "(thuộc) bề mặt, bề ngoài, bề nổi"
+        }
+      ],
+      "mobileId": 3060,
+      "phonetic": "ひょうめんてき",
+      "related_words": {
+        "word": [
+          "表",
+          "的",
+          "面",
+          "表面"
+        ]
+      },
+      "word": "表面的"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6826a16f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "antimilitary"
+        }
+      ],
+      "mobileId": 1238,
+      "phonetic": "はんぐんてき",
+      "related_words": {
+        "word": [
+          "的",
+          "軍",
+          "反"
+        ]
+      },
+      "word": "反軍的"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68eebd1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "đồng quê; thôn dã"
+        }
+      ],
+      "mobileId": 7611,
+      "phonetic": "ぼっかてき",
+      "word": "牧歌的"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cba4e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "nhất thời; đi qua; thoáng qua; chóng tàn; như một bọt trên (về) chất lỏng"
+        }
+      ],
+      "mobileId": 6502,
+      "phonetic": "ほうまつてき",
+      "related_words": {
+        "word": [
+          "的",
+          "泡",
+          "泡沫"
+        ]
+      },
+      "word": "泡沫的"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932b1a99",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "đệ quy"
+        }
+      ],
+      "mobileId": 19299,
+      "phonetic": "かいきてき",
+      "related_words": {
+        "word": [
+          "的",
+          "回",
+          "回帰"
+        ]
+      },
+      "word": "回帰的"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

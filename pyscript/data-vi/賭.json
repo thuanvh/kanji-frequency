@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19353bb07",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự đánh cược, sự đánh bạc"
+        }
+      ],
+      "mobileId": 20575,
+      "phonetic": "と",
+      "related_words": {
+        "word": [
+          "賭け",
+          "賭ける",
+          "賭博"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "賭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ギャンブル",
+                "博打",
+                "賭事",
+                "賭け",
+                "賭博",
+                "博奕"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "冒険",
+                "賭け",
+                "危険"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "賭け"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "賭"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7743f581",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prize archery"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "imperial archery event held annually on the 18th day of the first lunar month (Heian period)"
+        }
+      ],
+      "mobileId": 266655,
+      "phonetic": "のりゆみ",
+      "word": "賭弓"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e26ffc9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bet, stakes"
+        }
+      ],
+      "mobileId": 249279,
+      "phonetic": "とぶつ のりもの",
+      "word": "賭物"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

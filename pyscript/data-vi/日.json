@@ -1,0 +1,281 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f028735",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "うちの庭はよく日があたる.",
+              "mean": "Vườn nhà tôi luôn tràn ngập ánh mặt trời",
+              "transcription": "うちのにわはよくひがあたる."
+            },
+            {
+              "content": "その部屋は南向きだから冬でも日があたる.",
+              "mean": "phòng đó hướng nam nên ngay cả mùa đông cũng có ánh mặt trời",
+              "transcription": "そのへやはみなみむきだからふゆでもひがあたる."
+            }
+          ],
+          "kind": "n-adv, n-t",
+          "mean": "mặt trời"
+        },
+        {
+          "examples": [
+            {
+              "content": "月曜に結婚式を挙げればお金持ちになり、火曜は健康になり、水曜は週の一番良い日。木曜は受難の日、金曜は損をし、土曜は何の運にも恵まれない日。",
+              "mean": "Nếu lễ cưới vào ngày thứ hai thì sẽ trở nên giàu có, ngày thứ ba sẽ được khoẻ mạnh, thứ tư là ngày tốt nhất trong tuần. Thứ năm là ngày gặp hoạn nạn, thứ sáu là ngày bị thiệt hại, thứ bảy là ngày không gặp vận may",
+              "transcription": "げつようにけっこんしきをあげればおかねもちになり、かようはけんこうになり、すいようはしゅうのいちばんよいひ。もくようはじゅなんのひ、きんようはそんをし、どようはなにのうんにもめぐまれないひ。"
+            },
+            {
+              "content": "先日、IHPからオーストラリアや皆さまの街、そしてご家族に関する情報が送られてきました。",
+              "mean": "Mấy hôm trước IHP đã gửi cho tôi những thông tin về nước Úc, về nơi sống và về gia đình của các bạn",
+              "transcription": "せんじつ、 IHPからオーストラリアやみなさまのまち、そしてごかぞくにかんするじょうほうがおくられてきました。"
+            }
+          ],
+          "kind": "n-adv, n-t",
+          "mean": "ngày"
+        }
+      ],
+      "mobileId": 184914,
+      "opposite_word": [
+        "月",
+        "夜"
+      ],
+      "phonetic": "ひ",
+      "related_words": {
+        "word": [
+          "生年月日",
+          "日本人",
+          "誕生日",
+          "日本語",
+          "日本",
+          "土曜日",
+          "今日は",
+          "明日",
+          "今日",
+          "お誕生日おめでとうございます！"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "日",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "デイ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "日輪",
+                "太陽",
+                "天道",
+                "天道様",
+                "御日様"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "日時",
+                "月日",
+                "期日",
+                "日取り",
+                "日日",
+                "年月日",
+                "日付け",
+                "年月",
+                "年代",
+                "日付"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "日本"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "昼",
+                "デイ",
+                "昼間"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "日曜日",
+                "主日",
+                "日曜"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "日付け",
+                "日付"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一日"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "日"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7704d6ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "each day, from day to day, day-to-day"
+        }
+      ],
+      "mobileId": 264613,
+      "phonetic": "そのひそのひ",
+      "word": "その日その日"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d94585a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adv",
+          "mean": "a day or two"
+        }
+      ],
+      "mobileId": 219871,
+      "phonetic": "いちにちふつか",
+      "word": "一日二日"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7bceba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, adv-to",
+          "mean": "dần dần, từ từ"
+        }
+      ],
+      "mobileId": 13724,
+      "phonetic": "いちにちいちにち",
+      "related_words": {
+        "word": [
+          "日",
+          "一",
+          "一日"
+        ]
+      },
+      "word": "一日一日"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f039351",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "日一日と未来がやって来る",
+              "mean": "Tương lai ngày một đến gần .",
+              "transcription": "ひいちにちとみらいがやってくる"
+            }
+          ],
+          "kind": "exp",
+          "mean": "ngày lại ngày"
+        }
+      ],
+      "mobileId": 184931,
+      "phonetic": "ひいちにちと",
+      "word": "日一日と"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6813a3fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngày cái gì đó đi để bán; ngày tháng (của) vấn đề"
+        }
+      ],
+      "mobileId": 641,
+      "phonetic": "はつばいび",
+      "related_words": {
+        "word": [
+          "日",
+          "発売",
+          "発"
+        ]
+      },
+      "word": "発売日"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae23ad0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sidereal day"
+        }
+      ],
+      "mobileId": 230682,
+      "phonetic": "こうせいじつ",
+      "word": "恒星日"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fdf529",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngày cúp điện"
+        }
+      ],
+      "mobileId": 25972,
+      "phonetic": "きゅうでんび",
+      "related_words": {
+        "word": [
+          "日",
+          "休"
+        ]
+      },
+      "word": "休電日"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd50b6b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "những ngày ngày xưa; những ngày thời xưa\r\ntrong thời gian một có cả cuộc đời"
+        }
+      ],
+      "mobileId": 12371,
+      "phonetic": "ありしひ",
+      "word": "在りし日"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca083b59a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese Pharmacopoeia"
+        }
+      ],
+      "mobileId": 285145,
+      "phonetic": "にっきょく",
+      "word": "日局"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

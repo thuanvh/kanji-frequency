@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9824b5645",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Bệnh về xã hội giải trí."
+        }
+      ],
+      "mobileId": 234010,
+      "opposite_word": [
+        "福"
+      ],
+      "phonetic": "わざわい",
+      "word": "禍"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9594e5b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ominous word, ill-omened word"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "misfortune"
+        }
+      ],
+      "mobileId": 259155,
+      "phonetic": "まがごと まがこと",
+      "word": "禍言"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6810ad00",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tai họa do sự bành trướng của người da trắng"
+        }
+      ],
+      "mobileId": 544,
+      "phonetic": "しろか",
+      "word": "白禍"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa70f3152",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tàn phá của lũ lụt ."
+        }
+      ],
+      "mobileId": 106947,
+      "phonetic": "ごううか",
+      "related_words": {
+        "word": [
+          "雨",
+          "豪",
+          "豪雨"
+        ]
+      },
+      "word": "豪雨禍"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193581b56",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nguồn (của) vận rủi"
+        }
+      ],
+      "mobileId": 20728,
+      "phonetic": "わざわいげん",
+      "related_words": {
+        "word": [
+          "源"
+        ]
+      },
+      "word": "禍源"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bc3474",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tai hoạ giao thông; sự cố giao thông"
+        }
+      ],
+      "mobileId": 39516,
+      "phonetic": "こうつうか",
+      "word": "交通禍"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a82da6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tàn phá của chiến tranh, tai họa do chiến tranh"
+        }
+      ],
+      "mobileId": 5355,
+      "phonetic": "へいか",
+      "related_words": {
+        "word": [
+          "兵"
+        ]
+      },
+      "word": "兵禍"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933c92e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "<CHTRị> Hạ nghị viện"
+        }
+      ],
+      "mobileId": 19866,
+      "opposite_word": [
+        "福因"
+      ],
+      "phonetic": "わざわいいん",
+      "related_words": {
+        "word": [
+          "因"
+        ]
+      },
+      "word": "禍因"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686b0441",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tai hoạ gây ra bởi cơn gió và mưa"
+        }
+      ],
+      "mobileId": 3406,
+      "phonetic": "ふううのわざわい",
+      "word": "風雨の禍"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdfd9300",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tai nạn, tai họa; điều bất hạnh, rủi"
+        }
+      ],
+      "mobileId": 76844,
+      "phonetic": "わざわいのふ",
+      "word": "禍の府"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

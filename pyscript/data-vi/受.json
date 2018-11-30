@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a98265f22f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "cảm giác"
+        }
+      ],
+      "mobileId": 234861,
+      "opposite_word": [
+        "授"
+      ],
+      "phonetic": "じゅ",
+      "word": "受"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c027dfa1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2k-s, vt",
+          "mean": "to receive, to get, to be given"
+        }
+      ],
+      "mobileId": 190444,
+      "phonetic": "うく",
+      "word": "受く"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951d4e84",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nhận thức, tri giác"
+        }
+      ],
+      "mobileId": 57030,
+      "phonetic": "",
+      "word": "受蘊"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e929a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "receiving medical treatment"
+        }
+      ],
+      "mobileId": 272035,
+      "phonetic": "じゅりょう",
+      "word": "受療"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a52c54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "receiving a commendation, receiving an award"
+        }
+      ],
+      "mobileId": 286226,
+      "phonetic": "じゅしょう",
+      "word": "受彰"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de6b7ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "lòng tin; sự công nhận ((của) những sự thật)"
+        }
+      ],
+      "mobileId": 153114,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "信"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "信受",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "信",
+                "信心",
+                "信仰",
+                "信条",
+                "信教",
+                "信奉"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "信受"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e41aaf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "being entrusted with, being delegated with"
+        }
+      ],
+      "mobileId": 250139,
+      "phonetic": "じゅしょく",
+      "word": "受嘱"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb2f758",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s",
+          "mean": "chuyển giao"
+        }
+      ],
+      "mobileId": 15474,
+      "phonetic": "うけわたす",
+      "related_words": {
+        "word": [
+          "渡す"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "受渡す",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "引き渡す",
+                "渡す",
+                "譲る",
+                "与える",
+                "譲り渡す",
+                "引渡す",
+                "手放す",
+                "明け渡す"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "引き渡す",
+                "渡す",
+                "譲り渡す",
+                "引渡す",
+                "明け渡す"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "受渡す"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09d1e65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(Christ's) incarnation"
+        }
+      ],
+      "mobileId": 211906,
+      "phonetic": "じゅにく",
+      "word": "受肉"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d9ad1b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự truyền thụ (vào nghệ thuật) ."
+        }
+      ],
+      "mobileId": 144063,
+      "opposite_word": [
+        "伝授"
+      ],
+      "phonetic": "でんじゅ",
+      "word": "伝受"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

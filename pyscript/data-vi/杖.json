@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f4687d1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "おじいちゃんの愛用の杖",
+              "mean": "cái gậy ông tôi thích sử dụng .",
+              "transcription": "おじいちゃんのあいようのつえ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái gậy"
+        }
+      ],
+      "mobileId": 186145,
+      "phonetic": "つえ",
+      "related_words": {
+        "word": [
+          "松葉杖"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "杖",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "撞木杖",
+                "松葉杖"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "警棒",
+                "棒",
+                "スティック",
+                "棍棒"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "棍棒"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "杖"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5c74d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây gậy bên trong có gắn dao"
+        }
+      ],
+      "mobileId": 148656,
+      "phonetic": "しこみつえ",
+      "related_words": {
+        "word": [
+          "杖",
+          "仕込み"
+        ]
+      },
+      "word": "仕込み杖"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a81e303",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "staff (esp. one used by a monk, i.e. as a walking stick during a pilgrimage)"
+        }
+      ],
+      "mobileId": 227541,
+      "phonetic": "しゅじょう ちゅうじょう",
+      "word": "手杖"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7757a22d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "angle brace"
+        }
+      ],
+      "mobileId": 267280,
+      "phonetic": "ほうづえ",
+      "word": "方杖"
+    },
+    {
+      "_id": "edf7f33f53832e93b36c90d5fd0df9cc",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Gậy cho người mù"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "はくじょう",
+      "word": "白杖"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952f5bf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mẫu (dạng) (của) nghệ thuật chiến tranh sử dụng một nhân viên gậy"
+        }
+      ],
+      "mobileId": 57595,
+      "phonetic": "つえどう",
+      "word": "杖道"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00b988e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wand used when preparing gruel for the 15th of the first month (said to cure sterility in women)"
+        }
+      ],
+      "mobileId": 281339,
+      "phonetic": "かゆづえ",
+      "word": "粥杖"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561ebec551",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "janggu (Korean hourglass drum), janggo, changgo"
+        }
+      ],
+      "mobileId": 254215,
+      "phonetic": "じょうこ チャンゴ チャング",
+      "word": "杖鼓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779b580f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mace, (ceremonial) staff"
+        }
+      ],
+      "mobileId": 269482,
+      "phonetic": "しょくじょう",
+      "word": "職杖"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773d627c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "magic wand"
+        }
+      ],
+      "mobileId": 266445,
+      "phonetic": "まほうづえ",
+      "word": "魔法杖"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

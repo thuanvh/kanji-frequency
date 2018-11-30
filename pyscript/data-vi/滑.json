@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9561bab9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chỗ trống; slippage"
+        }
+      ],
+      "mobileId": 59210,
+      "phonetic": "なめら",
+      "word": "滑"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19373970c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ghế trượt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đá tan, xoa bột tan"
+        }
+      ],
+      "mobileId": 21602,
+      "phonetic": "なめらせき",
+      "related_words": {
+        "word": [
+          "席"
+        ]
+      },
+      "word": "滑席"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c07f4366",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, adj-na, adv, adv-to, vs",
+          "mean": "smooth (skin, etc.), sleek, velvety, silky"
+        }
+      ],
+      "mobileId": 210940,
+      "phonetic": "すべすべ",
+      "word": "滑々"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826f3ee1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common purslane (Portulaca oleracea)"
+        }
+      ],
+      "mobileId": 235136,
+      "phonetic": "すべりひゆ スベリヒユ",
+      "word": "滑莧"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92bb3f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "mucilaginous, demulcent"
+        }
+      ],
+      "mobileId": 274169,
+      "phonetic": "ねんかつ",
+      "word": "粘滑"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3be627",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lissencephaly"
+        }
+      ],
+      "mobileId": 225325,
+      "phonetic": "かつのうしょう",
+      "word": "滑脳症"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dad266e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "nói một cách trơn tru, đọc một dòng tốt"
+        }
+      ],
+      "mobileId": 220691,
+      "phonetic": "かつぜつ",
+      "word": "滑舌"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937578bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "chất hoạt dịch"
+        }
+      ],
+      "mobileId": 21658,
+      "phonetic": "なめらえき",
+      "word": "滑液"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95598a85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá heo không vây cá đen (neophocaena phocaenoides)"
+        }
+      ],
+      "mobileId": 58951,
+      "phonetic": "すななめら",
+      "word": "砂滑"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955a9945",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giới thiệu nền tảng;(sân chơi) trượt; trượt cái giường"
+        }
+      ],
+      "mobileId": 58983,
+      "phonetic": "なめらだい",
+      "related_words": {
+        "word": [
+          "台"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "滑台",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "滑り台"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "滑台"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd7e274a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự gọi lên, sự gợi lên, sự gọi ra toà trên"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "gọi lên, gợi lên (ký ức, tình cảm...), gọi ra toà trên"
+        }
+      ],
+      "mobileId": 72784,
+      "phonetic": "",
+      "word": "誘起"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b2219b644",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Sự khởi đầu, sự bắt đầu"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "きかん",
+      "word": "起函"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193d9f3f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bắt đầu và kết thúc"
+        }
+      ],
+      "mobileId": 24812,
+      "phonetic": "おこしゆい",
+      "word": "起結"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193dcd701",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ngồi dậy trên giường"
+        }
+      ],
+      "mobileId": 24903,
+      "phonetic": "おこしざ",
+      "word": "起座"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a88b70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "xuất hiện đồng thời"
+        }
+      ],
+      "mobileId": 5368,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "併"
+        ]
+      },
+      "word": "併起"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e15486",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từ động bắt buộc"
+        }
+      ],
+      "mobileId": 25047,
+      "phonetic": "おこしじりょく",
+      "word": "起磁力"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cd9b86",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "first dealer"
+        }
+      ],
+      "mobileId": 279331,
+      "phonetic": "チーチャ",
+      "word": "起家"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7719f935",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ceremonial removal of the coffin from the house (lay person) or temple (priest) (Zen Buddhism)"
+        }
+      ],
+      "mobileId": 265305,
+      "phonetic": "きがん",
+      "word": "起龕"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c18100",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự nổi dậy; nổi loạn"
+        }
+      ],
+      "mobileId": 6171,
+      "phonetic": "ほこさきおこし",
+      "word": "鋒起"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f8f681",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "recollection, something called to mind"
+        }
+      ],
+      "mobileId": 264234,
+      "phonetic": "こき",
+      "word": "呼起"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

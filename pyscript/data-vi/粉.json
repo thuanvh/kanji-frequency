@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aff6c93",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "粉から作られたもの",
+              "mean": "thứ được làm từ bột mỳ .",
+              "transcription": "こなからつくられたもの"
+            }
+          ],
+          "kind": "n",
+          "mean": "bột mì; bột"
+        }
+      ],
+      "mobileId": 174514,
+      "phonetic": "こな",
+      "related_words": {
+        "word": [
+          "花粉症",
+          "片栗粉",
+          "小麦粉",
+          "花粉",
+          "粉雪",
+          "粉砕",
+          "パン粉",
+          "粉末",
+          "米粉",
+          "粉体"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "粉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "粉末",
+                "細末",
+                "パウダー",
+                "粉体"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "穀粉",
+                "麦粉"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "火薬",
+                "粉末",
+                "パウダー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "粉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a14f0aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soy flour"
+        }
+      ],
+      "mobileId": 224067,
+      "phonetic": "だいずこ",
+      "word": "大豆粉"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027002922",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trà bột ."
+        }
+      ],
+      "mobileId": 29069,
+      "phonetic": "こなちゃ",
+      "related_words": {
+        "word": [
+          "茶",
+          "粉"
+        ]
+      },
+      "word": "粉茶"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a71b5bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "top-grade rice flour made from non-glutinous rice"
+        }
+      ],
+      "mobileId": 227034,
+      "phonetic": "じょうしんこ",
+      "word": "上新粉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8a0527",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bracken starch (starch produced from the rhizomes of bracken)"
+        }
+      ],
+      "mobileId": 227807,
+      "phonetic": "わらびこ",
+      "word": "わらび粉"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02d188a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "curry powder"
+        }
+      ],
+      "mobileId": 282390,
+      "phonetic": "カレーこ",
+      "word": "カレー粉"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95dad838",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bột lúa mạch"
+        }
+      ],
+      "mobileId": 63103,
+      "phonetic": "そばこ",
+      "word": "蕎麦粉"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada3233ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bột xay vụn ."
+        }
+      ],
+      "mobileId": 77790,
+      "phonetic": "きりこ",
+      "word": "切り粉"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d524879",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oak flour (esp. as animal food), acorn flour"
+        }
+      ],
+      "mobileId": 217722,
+      "phonetic": "かしご かしこ カシゴ カシコ",
+      "word": "樫粉"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69affe88d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xà bông bột"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xà phòng bột ."
+        }
+      ],
+      "mobileId": 174522,
+      "phonetic": "こなせっけん",
+      "word": "粉石けん"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

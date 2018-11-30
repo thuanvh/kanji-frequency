@@ -1,0 +1,225 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568012e567b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "その事故が原因で首から下が麻痺してしまった",
+              "mean": "Tai nạn đã làm cho anh ta bị liệt từ cổ trở xuống",
+              "transcription": "そのじこがげんいんでくびからしたがまひしてしまった"
+            },
+            {
+              "content": "〜と書いた目に見えない看板を首からぶら下げている",
+              "mean": "Có một dấu hiệu vô hình treo từ cổ ai đó ghi rằng ~",
+              "transcription": "〜とかいためにみえないかんばんをくびからぶらさげている"
+            }
+          ],
+          "kind": "n",
+          "mean": "cổ"
+        }
+      ],
+      "mobileId": 42534,
+      "opposite_word": [
+        "尾"
+      ],
+      "phonetic": "くび",
+      "related_words": {
+        "word": [
+          "乳首",
+          "首相",
+          "首都",
+          "首都圏",
+          "首輪",
+          "手首",
+          "首領",
+          "足首",
+          "首吊り",
+          "部首"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "首",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "雁首",
+                "頭部",
+                "頸",
+                "ヘッド",
+                "頭"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "衿",
+                "襟"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "解任",
+                "免官",
+                "馘首",
+                "免職",
+                "免",
+                "免黜",
+                "解雇",
+                "暇",
+                "解職",
+                "罷免",
+                "御免"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ネック"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ネック",
+                "頸",
+                "頸部",
+                "頚部"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "首"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8676f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "bài thơ, vật đẹp như bài thơ, cái nên thơ"
+        }
+      ],
+      "mobileId": 14061,
+      "phonetic": "いちしゅ",
+      "word": "一首"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a631c01",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "around the neck, neck size (measurement)"
+        }
+      ],
+      "mobileId": 226557,
+      "phonetic": "くびまわり",
+      "word": "首回り"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09a410a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abovementioned item, description at beginning of (this) text or document"
+        }
+      ],
+      "mobileId": 211803,
+      "phonetic": "しゅき",
+      "word": "首記"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ebd627",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "base of the throat, bottom of the neck"
+        }
+      ],
+      "mobileId": 280303,
+      "phonetic": "くびもと",
+      "word": "首元"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3089db",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự bêu đầu; đầu bị bêu"
+        }
+      ],
+      "mobileId": 147265,
+      "phonetic": "さらしくび",
+      "word": "晒し首"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de83013",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "head-twisting throw"
+        }
+      ],
+      "mobileId": 222636,
+      "phonetic": "くびひねり",
+      "word": "首捻り"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e855268d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đòn kubinage; (sumo; đấu vật) cú đánh dùng một tay vặn đầu đối thủ và quật đối thủ ngã xuống"
+        }
+      ],
+      "mobileId": 36229,
+      "phonetic": "くびなげ",
+      "word": "首投げ"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da3a414",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chương mở đầu (của một quyển sách)"
+        }
+      ],
+      "mobileId": 150915,
+      "phonetic": "くびあきら",
+      "word": "首章"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c1ae00",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r",
+          "mean": "to behead, to decapitate"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to fire, to dismiss"
+        }
+      ],
+      "mobileId": 262472,
+      "phonetic": "くびきる",
+      "word": "首切る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

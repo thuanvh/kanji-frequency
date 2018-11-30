@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d88769e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "lệnh; mệnh lệnh; chỉ thị ."
+        }
+      ],
+      "mobileId": 143821,
+      "phonetic": "れい",
+      "related_words": {
+        "word": [
+          "命令",
+          "指令",
+          "司令官",
+          "法令",
+          "命令する",
+          "辞令",
+          "発令",
+          "政令",
+          "司令部",
+          "令嬢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "令",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "命",
+                "下命",
+                "指令",
+                "司令",
+                "命令",
+                "下知",
+                "沙汰"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "令"
+    },
+    {
+      "_id": "432518852de0a80625d585a98233cd33",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "laws regulating expenditures, sumptuary edicts, thrift ordinance"
+        }
+      ],
+      "mobileId": 233270,
+      "phonetic": "けんやくれい",
+      "word": "倹約令"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef998a6e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ban, prohibition, interdiction, injunction"
+        }
+      ],
+      "mobileId": 277610,
+      "phonetic": "きんしれい",
+      "word": "禁止令"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9e5662",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, suf",
+          "mean": "một tuần nay; đã được một tuần; tuần trước"
+        }
+      ],
+      "mobileId": 150741,
+      "phonetic": "しゅうれい",
+      "related_words": {
+        "word": [
+          "週",
+          "令"
+        ]
+      },
+      "word": "週令"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0979ee3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "conscription ordinance, conscription law, draft"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Conscription Ordinance (1873-1927)"
+        }
+      ],
+      "mobileId": 285793,
+      "phonetic": "ちょうへいれい",
+      "word": "徴兵令"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c032784a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gag order, gag rule, gag law"
+        }
+      ],
+      "mobileId": 208470,
+      "phonetic": "かんこうれい",
+      "word": "緘口令"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f742ca8ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lệnh yêu cầu ."
+        }
+      ],
+      "mobileId": 98130,
+      "phonetic": "ちょうはつれい",
+      "word": "徴発令"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb4cb51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thứ tự động viên"
+        }
+      ],
+      "mobileId": 116826,
+      "phonetic": "どういんれい",
+      "related_words": {
+        "word": [
+          "動",
+          "員",
+          "令",
+          "動員"
+        ]
+      },
+      "word": "動員令"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca094cc68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "imperial navy order"
+        }
+      ],
+      "mobileId": 285706,
+      "phonetic": "だいかいれい",
+      "word": "大海令"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cddf3e03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con gái (của) bạn; quý bà trẻ"
+        }
+      ],
+      "mobileId": 75891,
+      "phonetic": "りょうむすめ",
+      "related_words": {
+        "word": [
+          "娘",
+          "令"
+        ]
+      },
+      "word": "令娘"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

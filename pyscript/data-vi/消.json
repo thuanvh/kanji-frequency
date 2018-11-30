@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc1cd3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự dập tắt; sự làm tan vỡ; sự làm mất đi, sự làm tuyệt giống, sự thanh toán, sự tiêu diệt, sự tiêu huỷ"
+        }
+      ],
+      "mobileId": 151900,
+      "phonetic": "",
+      "word": "消燈"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdbab8c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phủ định; sự từ chối; ngược"
+        }
+      ],
+      "mobileId": 15709,
+      "phonetic": "だしょう",
+      "synsets": [
+        {
+          "base_form": "打消",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "否",
+                "打ち消し",
+                "否定"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "否",
+                "打ち消し",
+                "否定",
+                "匪"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "否",
+                "否決",
+                "打ち消し",
+                "否定"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "打ち消し",
+                "否定"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "打消"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d14412d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "khử mùi"
+        }
+      ],
+      "mobileId": 215750,
+      "phonetic": "しょうしゅう",
+      "word": "消臭"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aad9736",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "snow melting (usu. a system or device), snow removal"
+        }
+      ],
+      "mobileId": 228940,
+      "phonetic": "しょうせつ",
+      "word": "消雪"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c035faa7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "dejected, dispirited, crestfallen, discouraged"
+        }
+      ],
+      "mobileId": 208579,
+      "phonetic": "しょうぜん",
+      "word": "消然"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94ab892",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "vanishing like mist"
+        }
+      ],
+      "mobileId": 258684,
+      "phonetic": "むしょう",
+      "word": "霧消"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c010b3c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vz, vi",
+          "mean": "to disappear"
+        },
+        {
+          "examples": null,
+          "kind": "vz, vi",
+          "mean": "to cause to disappear, to get rid of"
+        },
+        {
+          "examples": null,
+          "kind": "vz, vi",
+          "mean": "(of time) to pass, to while away"
+        }
+      ],
+      "mobileId": 189672,
+      "phonetic": "しょうずる",
+      "word": "消ずる"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a517fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "deletion, removal, elimination, erasure, cancellation, revocation"
+        }
+      ],
+      "mobileId": 286223,
+      "phonetic": "しょうじょ",
+      "word": "消除"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dbc3ad4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chất khử mùi"
+        }
+      ],
+      "mobileId": 151722,
+      "phonetic": "しょうにおいざい",
+      "related_words": {
+        "word": [
+          "消臭",
+          "剤"
+        ]
+      },
+      "word": "消臭剤"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77334309",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pipe buried under a road with nozzles that spray liquid to melt snow"
+        }
+      ],
+      "mobileId": 266123,
+      "phonetic": "しょうせつパイプ",
+      "word": "消雪パイプ"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ba5396",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự khảo sát phạm tội"
+        }
+      ],
+      "mobileId": 23824,
+      "phonetic": "",
+      "word": "劾"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193bf7f55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "bản tấu tội của quan lại dâng lên vua"
+        }
+      ],
+      "mobileId": 23978,
+      "phonetic": "",
+      "word": "劾奏"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

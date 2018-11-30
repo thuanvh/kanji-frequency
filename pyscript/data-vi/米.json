@@ -1,0 +1,233 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afe409a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gạo"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mễ ."
+        }
+      ],
+      "mobileId": 174483,
+      "phonetic": "こめ",
+      "related_words": {
+        "word": [
+          "米国",
+          "北米",
+          "米ドル",
+          "玄米",
+          "中南米",
+          "南米",
+          "亜米利加",
+          "玄米茶",
+          "米国人",
+          "新米"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "米",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "米国",
+                "亜米利加",
+                "合衆国",
+                "アメリカ",
+                "アメリカ合衆国"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "メートル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "稲",
+                "白米",
+                "米飯",
+                "米穀",
+                "供米",
+                "舎利",
+                "御飯",
+                "飯",
+                "上米",
+                "ライス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "米"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad8ba9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kilogram-meter"
+        }
+      ],
+      "mobileId": 230362,
+      "phonetic": "キログラムメートル",
+      "word": "瓩米"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03642c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "germinated rice, sprouted rice"
+        }
+      ],
+      "mobileId": 282699,
+      "phonetic": "はつがまい",
+      "word": "発芽米"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b73763",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chúng ta phơi lực lượng"
+        }
+      ],
+      "mobileId": 5855,
+      "phonetic": "べいくうぐん",
+      "related_words": {
+        "word": [
+          "空",
+          "米",
+          "軍"
+        ]
+      },
+      "word": "米空軍"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b73c50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chúng ta vũ trang những lực lượng"
+        }
+      ],
+      "mobileId": 5856,
+      "phonetic": "べいぐん",
+      "related_words": {
+        "word": [
+          "米",
+          "軍",
+          "在日米軍"
+        ]
+      },
+      "word": "米軍"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b82bf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gạo rắc bột"
+        }
+      ],
+      "mobileId": 5890,
+      "phonetic": "べいこ",
+      "related_words": {
+        "word": [
+          "米",
+          "粉"
+        ]
+      },
+      "word": "米粉"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b8601a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người mỹ nói"
+        }
+      ],
+      "mobileId": 5895,
+      "phonetic": "べいばなし",
+      "related_words": {
+        "word": [
+          "話",
+          "米"
+        ]
+      },
+      "word": "米話"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6880aa56",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thu nhập chính"
+        }
+      ],
+      "mobileId": 4094,
+      "phonetic": "ふちまい",
+      "word": "扶持米"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cdc555",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự cho phép gạo"
+        }
+      ],
+      "mobileId": 6566,
+      "phonetic": "ほうろくまい",
+      "related_words": {
+        "word": [
+          "米"
+        ]
+      },
+      "word": "俸祿米"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68dc0911",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giữ"
+        }
+      ],
+      "mobileId": 7006,
+      "phonetic": "ほゆうまい",
+      "related_words": {
+        "word": [
+          "有",
+          "米",
+          "保有",
+          "保"
+        ]
+      },
+      "word": "保有米"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

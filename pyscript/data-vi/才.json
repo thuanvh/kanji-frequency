@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0cace6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ability; quà tặng; tài năng; thiên hướng; thiên tài"
+        }
+      ],
+      "mobileId": 146152,
+      "phonetic": "さい",
+      "word": "才"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00ad104",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "being a jack of all trades and master of none"
+        }
+      ],
+      "mobileId": 281313,
+      "phonetic": "けらざい",
+      "word": "螻蛄才"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e89570",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "age 10"
+        }
+      ],
+      "mobileId": 280194,
+      "phonetic": "じゅっさい じっさい",
+      "word": "十才"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d1bc676",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đo lường"
+        }
+      ],
+      "mobileId": 146620,
+      "phonetic": "さいりょう",
+      "related_words": {
+        "word": [
+          "量"
+        ]
+      },
+      "word": "才量"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fe36d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "deadwood"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "useless person"
+        }
+      ],
+      "mobileId": 264405,
+      "phonetic": "ちょさい",
+      "word": "樗才"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d19b5be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự xếp đặt"
+        }
+      ],
+      "mobileId": 146562,
+      "phonetic": "さいぶん",
+      "related_words": {
+        "word": [
+          "分"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "才分",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "資質",
+                "才能",
+                "天資",
+                "天才",
+                "天質",
+                "天賦",
+                "素質"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "才分"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d1a8850",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chưa đủ ....tuổi, dưới ....tuổi"
+        }
+      ],
+      "mobileId": 146585,
+      "phonetic": "さいみまん",
+      "word": "才未満"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af3d24c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tài năng văn học ."
+        }
+      ],
+      "mobileId": 174315,
+      "phonetic": "ひっさい",
+      "word": "筆才"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b7e525",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "being very talented and intelligent, talented and intelligent person"
+        }
+      ],
+      "mobileId": 262153,
+      "phonetic": "さいえい",
+      "word": "才英"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde41e0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những tài năng cấp thấp"
+        }
+      ],
+      "mobileId": 76041,
+      "phonetic": "れつさい",
+      "word": "劣才"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

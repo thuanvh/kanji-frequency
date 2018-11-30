@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107d052fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màn; rèm ."
+        }
+      ],
+      "mobileId": 55361,
+      "phonetic": "とばり",
+      "related_words": {
+        "word": [
+          "台帳",
+          "手帳",
+          "電話帳",
+          "アドレス帳",
+          "通帳",
+          "記帳",
+          "帳簿",
+          "元帳",
+          "雑記帳",
+          "仕訳帳"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "帳",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "カーテン",
+                "帷幕",
+                "帷帳",
+                "緞帳",
+                "覆い",
+                "幕",
+                "帷"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "帳"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ce7063",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bank book"
+        }
+      ],
+      "mobileId": 213503,
+      "phonetic": "ちょきんちょう",
+      "word": "貯金帳"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7fca7f6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "電話帳のどこを見ても彼の名前を見つけることはできなかった",
+              "mean": "tôi chẳng thể tìm được tên của anh ta ở đâu trong danh bạ điện thoại.",
+              "transcription": "でんわちょうのどこをみてもかれのなまえをみつけることはできなかった"
+            },
+            {
+              "content": "やつ、気違いだね！電話番号変えてさあ、次からは電話帳に載せるのやめなよ。きっとやつさあ、遅かれ早かれあんたの新しい電話番号見つけると思う。でも何もしないよりいいから。",
+              "mean": "thật điên khùng! Anh đổi số đi và đừng có đưa số vào danh bạ nữa. Tôi cược là sớm muộn hắn ta cũng mò ra số của anh nhưng thà làm vậy còn hơn không .",
+              "transcription": "やつ、きちがいだね！でんわばんごうかえてさあ、つぎからはでんわちょうにのせるのやめなよ。きっとやつさあ、おそかれはやかれあんたのあたらしいでんわばんごうみつけるとおもう。でもなにもしないよりいいから。"
+            }
+          ],
+          "kind": "n",
+          "mean": "danh bạ điện thoại"
+        }
+      ],
+      "mobileId": 110965,
+      "phonetic": "でんわちょう",
+      "related_words": {
+        "word": [
+          "話",
+          "電話",
+          "帳"
+        ]
+      },
+      "word": "電話帳"
+    },
+    {
+      "_id": "ac12816c3281c52ce90ba353b6a53bdd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "アドレス帳に載っている人全員にメッセージを送る",
+              "mean": "gửi tin nhắn đến tất cả mọi người trong sổ địa chỉ",
+              "transcription": "アドレスちょうにのっているひとぜんいんにメッセージをおくる"
+            },
+            {
+              "content": "アドレス帳に載っているすべてのアドレスにウイルスをEメールで送る",
+              "mean": "gửi vi-rút qua đường thư điện tử tới tất cả các địa chỉ được liệt kê trong sổ địa chỉ",
+              "transcription": "アドレスちょうにのっているすべてのアドレスにウイルスをEメールでおくる"
+            },
+            {
+              "content": "アドレス帳から名前を選択する",
+              "mean": "chọn tên từ sổ địa chỉ .",
+              "transcription": "アドレスちょうからなまえをせんたくする"
+            }
+          ],
+          "kind": "n",
+          "mean": "sổ ghi địa chỉ"
+        }
+      ],
+      "mobileId": 133161,
+      "phonetic": "アドレスちょう",
+      "related_words": {
+        "word": [
+          "アドレス",
+          "帳"
+        ]
+      },
+      "word": "アドレス帳"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0ddd93bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đăng ký - giữ nhật ký"
+        }
+      ],
+      "mobileId": 152808,
+      "phonetic": "しわけちょう",
+      "related_words": {
+        "word": [
+          "訳",
+          "仕訳",
+          "帳"
+        ]
+      },
+      "word": "仕訳帳"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77051025",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "curtain, hanging, bunting"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "place where a curtain is hung"
+        }
+      ],
+      "mobileId": 264621,
+      "phonetic": "ちょうばく",
+      "word": "帳幕"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7762d8a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "family registry (of the district) (Edo period), population registry, records of an Edo period census"
+        }
+      ],
+      "mobileId": 267654,
+      "phonetic": "にんべつちょう",
+      "word": "人別帳"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9da5b1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "current journal (accounting)"
+        }
+      ],
+      "mobileId": 263250,
+      "phonetic": "とうざちょう",
+      "word": "当座帳"
+    },
+    {
+      "_id": "f2d618ceb0702f781ec83b7d4f6036a7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Đổi Sổ (dùng trong dịch hộ khẩu,phần lý do chuyển đến)"
+        }
+      ],
+      "mobileId": 0,
+      "word": "変帳"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7f6b7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rèm cửa"
+        }
+      ],
+      "mobileId": 13836,
+      "phonetic": "とばりちょう",
+      "related_words": {
+        "word": [
+          "帳"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "帷帳",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "カーテン",
+                "帷幕",
+                "緞帳",
+                "覆い",
+                "幕",
+                "帳",
+                "帷"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "帷帳"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

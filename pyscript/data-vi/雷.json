@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7efc53e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sấm sét"
+        },
+        {
+          "examples": [
+            {
+              "content": "雷に打たれて死ぬ",
+              "mean": "Chết do sét đánh",
+              "transcription": "かみなりにうたれてしぬ"
+            },
+            {
+              "content": "雷のように騒々しい",
+              "mean": "Ầm ĩ như sấm",
+              "transcription": "かみなりのようにそうぞうしい"
+            },
+            {
+              "content": "私たちは、真夜中にとどろく雷の音で目が覚めた",
+              "mean": "Chúng tôi đã bị thức giấc bởi tiếng sấm vang rền vào lúc nửa đêm",
+              "transcription": "わたしたちは、まよなかにとどろくかみなりのおとでめがさめた"
+            },
+            {
+              "content": "雷(稲妻)に打たれたらどうなりますか?",
+              "mean": "Nếu bị sấm (sét) đánh thì sẽ như thế nào? .",
+              "transcription": "かみなり(いなづま)にうたれたらどうなりますか?"
+            }
+          ],
+          "kind": "n",
+          "mean": "sấm; sét"
+        }
+      ],
+      "mobileId": 110769,
+      "phonetic": "かみなり",
+      "related_words": {
+        "word": [
+          "雷鳥",
+          "地雷",
+          "雷電",
+          "雷光",
+          "雷鳴",
+          "落雷",
+          "雷雨",
+          "魚雷",
+          "遠雷",
+          "避雷針"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "雷",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "稲光",
+                "落雷",
+                "電光",
+                "雷光",
+                "霹靂",
+                "雷電",
+                "稲妻",
+                "迅雷"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "雷"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0712d1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kisslip cuttlefish (Sepia lycidas)"
+        }
+      ],
+      "mobileId": 284587,
+      "phonetic": "かみなりいか カミナリイカ",
+      "word": "雷烏賊"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef908bcac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "outbreak of thunder"
+        }
+      ],
+      "mobileId": 273043,
+      "phonetic": "らいはつ",
+      "word": "雷発"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9daab1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chớp đánh"
+        }
+      ],
+      "mobileId": 150721,
+      "phonetic": "かさねかみなり",
+      "related_words": {
+        "word": [
+          "雷"
+        ]
+      },
+      "word": "襲雷"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7efd88d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đánh chớp nhoáng ."
+        }
+      ],
+      "mobileId": 110771,
+      "phonetic": "らいげきせん",
+      "word": "雷激戦"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938d6303",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơn bão có gió lốc xoáy"
+        }
+      ],
+      "mobileId": 22420,
+      "phonetic": "うずかみなり",
+      "word": "渦雷"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9089437",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sound of thunder"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "large, thunderous voice"
+        }
+      ],
+      "mobileId": 273038,
+      "phonetic": "らいせい かみなりごえ",
+      "word": "雷声"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d7325fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chớp nhân tạo ."
+        }
+      ],
+      "mobileId": 143409,
+      "phonetic": "じんこうらい",
+      "related_words": {
+        "word": [
+          "人",
+          "雷",
+          "人工"
+        ]
+      },
+      "word": "人工雷"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935d50c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơn mưa giông có sấm sét núi lửa"
+        }
+      ],
+      "mobileId": 20885,
+      "phonetic": "かざんかみなり",
+      "word": "火山雷"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ac828f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brontosaurus, apatosaurus (dinosaur)"
+        }
+      ],
+      "mobileId": 212387,
+      "phonetic": "らいりゅう",
+      "related_words": {
+        "word": [
+          "雷",
+          "竜"
+        ]
+      },
+      "word": "雷竜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

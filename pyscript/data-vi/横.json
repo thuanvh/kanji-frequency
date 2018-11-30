@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f791c47",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bề ngang"
+        },
+        {
+          "examples": [
+            {
+              "content": "〜になる",
+              "mean": "nằm nghỉ, nằm",
+              "transcription": "〜になる"
+            },
+            {
+              "content": "建物の〜に本屋がある。",
+              "mean": "Bên cạnh ngôi nhà có một hiệu sách. .",
+              "transcription": "たてものの〜にほんやがある。"
+            }
+          ],
+          "kind": "n",
+          "mean": "bên cạnh; chiều ngang"
+        }
+      ],
+      "mobileId": 186916,
+      "opposite_word": [
+        "縦"
+      ],
+      "phonetic": "よこ",
+      "related_words": {
+        "word": [
+          "横断歩道",
+          "横顔",
+          "縦横",
+          "横になる",
+          "横幅",
+          "横軸",
+          "横向き",
+          "横断",
+          "横たわる",
+          "横切って"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "横",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "辺",
+                "傍ら",
+                "袂",
+                "傍",
+                "側ら",
+                "側",
+                "側辺",
+                "脇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "横"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca016a9dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sweeping sideways, mowing down"
+        }
+      ],
+      "mobileId": 281686,
+      "phonetic": "よこなぎ",
+      "word": "横薙ぎ"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0989cbc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "side stepping, sidling"
+        }
+      ],
+      "mobileId": 211741,
+      "phonetic": "よこあるき",
+      "word": "横歩き"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda2fa94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ném về bên cạnh"
+        }
+      ],
+      "mobileId": 73995,
+      "phonetic": "よこなげ",
+      "word": "横投げ"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda35f7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "mập lùn"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "bè bè chắc nịch"
+        }
+      ],
+      "mobileId": 74004,
+      "phonetic": "よこふとり",
+      "word": "横太り"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b3b178c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "double width size"
+        }
+      ],
+      "mobileId": 241734,
+      "phonetic": "よこばいかく",
+      "word": "横倍角"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d6de41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "width"
+        }
+      ],
+      "mobileId": 279644,
+      "phonetic": "おうしゅう",
+      "word": "横周"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771cd36f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sleeping on one's side, lying on one's side"
+        }
+      ],
+      "mobileId": 265398,
+      "phonetic": "よこね",
+      "word": "横寝"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a944daf0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "square sail"
+        }
+      ],
+      "mobileId": 258496,
+      "phonetic": "おうはん",
+      "word": "横帆"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a00e5e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sharp-sidelong glance, glare"
+        }
+      ],
+      "mobileId": 223430,
+      "phonetic": "よこにらみ",
+      "word": "横にらみ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

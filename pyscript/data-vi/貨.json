@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935c0152",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền bạc của cải; hàng hóa thế gian"
+        }
+      ],
+      "mobileId": 20845,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "財"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "貨財",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "財貨",
+                "財宝",
+                "富",
+                "宝"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "貨財"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682f61de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(cổ xưa) bóc vỏ tiền"
+        }
+      ],
+      "mobileId": 1535,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "貝"
+        ]
+      },
+      "word": "貝貨"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b719f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền tệ mỹ; chúng ta đô la"
+        }
+      ],
+      "mobileId": 5850,
+      "phonetic": "",
+      "word": "米貨"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19348fdcf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chất hàng xuống tàu và những hành khách"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "legs"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lower limbs"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "good visitor"
+        }
+      ],
+      "mobileId": 20249,
+      "phonetic": "",
+      "word": "貨客"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7486179",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồng tiền mềm (giấy)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồng tiền yếu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giấy ngân hàng ."
+        }
+      ],
+      "mobileId": 107879,
+      "opposite_word": [
+        "硬貨"
+      ],
+      "phonetic": "やわか",
+      "word": "軟貨"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e4b4e2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đúc tiền, tiền đúc, hệ thống tiền tệ, sự tạo ra, sự đặt ra, từ mới đặt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đúc tiền, số tiền đúc, dấu rập trên mặt đồng tiền, sự đặt ra, sự tạo ra"
+        }
+      ],
+      "mobileId": 113440,
+      "phonetic": "",
+      "word": "鋳貨"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd5f98c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tiền tệ Anh"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "British goods"
+        }
+      ],
+      "mobileId": 16542,
+      "phonetic": "",
+      "word": "英貨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8a626d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coin (esp. an east Asian coin, many of which have a hole in the center)"
+        }
+      ],
+      "mobileId": 227819,
+      "phonetic": "せんか",
+      "word": "銭貨"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a933484e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "new currency"
+        }
+      ],
+      "mobileId": 257922,
+      "phonetic": "しんか",
+      "word": "新貨"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68355a87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhiều hàng hoá"
+        }
+      ],
+      "mobileId": 1733,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "万"
+        ]
+      },
+      "word": "万貨"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

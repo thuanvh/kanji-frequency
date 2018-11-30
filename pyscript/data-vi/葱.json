@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280279967ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hành ."
+        }
+      ],
+      "mobileId": 31778,
+      "phonetic": "ねぎ",
+      "related_words": {
+        "word": [
+          "玉葱"
+        ]
+      },
+      "word": "葱"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d57ddd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dishes based on spring onions and tuna"
+        }
+      ],
+      "mobileId": 217907,
+      "phonetic": "ねぎま",
+      "word": "葱鮪"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b7def8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "leek (Allium porrum)"
+        }
+      ],
+      "mobileId": 286852,
+      "phonetic": "ポロねぎ",
+      "word": "ポロ葱"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774f51f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Monochoria korsakowii (species of flowering plant)"
+        }
+      ],
+      "mobileId": 267012,
+      "phonetic": "なぎ",
+      "word": "水葱"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a012aff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "white squill (Urginea maritima), sea onion"
+        }
+      ],
+      "mobileId": 223439,
+      "phonetic": "うみねぎ",
+      "word": "海葱"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca036d64c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Alpine leek (Allium victorialis var. platyphyllum)"
+        }
+      ],
+      "mobileId": 282720,
+      "phonetic": "アイヌねぎ アイヌネギ",
+      "word": "アイヌ葱"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9580c285",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tỏi tây, ngậm đắng nuốt cay, chịu nhục"
+        }
+      ],
+      "mobileId": 60186,
+      "phonetic": "せいようねぎ",
+      "related_words": {
+        "word": [
+          "西",
+          "葱"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "西洋葱",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "リーキ",
+                "リーク"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "西洋葱"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98ea551",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scallion oil"
+        }
+      ],
+      "mobileId": 277292,
+      "phonetic": "ねぎあぶら",
+      "word": "葱油"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f7e46b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chives (Allium schoenoprasum var. schoenoprasum)"
+        }
+      ],
+      "mobileId": 264198,
+      "phonetic": "えぞねぎ エゾネギ",
+      "word": "蝦夷葱"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010c1147",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cây tỏi tây ."
+        }
+      ],
+      "mobileId": 41975,
+      "phonetic": "にらねぎ",
+      "related_words": {
+        "word": [
+          "葱",
+          "韮"
+        ]
+      },
+      "word": "韮葱"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

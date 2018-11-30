@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74f84179",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf, n",
+          "mean": "chi phí; phí ."
+        }
+      ],
+      "mobileId": 101177,
+      "phonetic": "りょう",
+      "related_words": {
+        "word": [
+          "資料",
+          "料理",
+          "送料",
+          "料金",
+          "手数料",
+          "材料",
+          "調味料",
+          "給料",
+          "原料",
+          "保険料"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "料",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "値段",
+                "代",
+                "代価",
+                "値",
+                "価格",
+                "代金",
+                "価額"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "代",
+                "代価",
+                "費用",
+                "失費",
+                "代金",
+                "入用",
+                "用",
+                "経費",
+                "掛かり",
+                "勘定",
+                "コスト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "値段",
+                "代",
+                "チャージ",
+                "代価",
+                "値",
+                "価格",
+                "価",
+                "料金",
+                "代金",
+                "課金"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "値段",
+                "値打ち",
+                "代",
+                "代価",
+                "値",
+                "費用",
+                "価格",
+                "料金",
+                "代金",
+                "価額",
+                "入用",
+                "定価",
+                "相場",
+                "経費",
+                "時価",
+                "勘定",
+                "コスト",
+                "用度"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "料"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e834e585",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chi phí kỹ thuật"
+        }
+      ],
+      "mobileId": 35187,
+      "phonetic": "ぎじゅつりょう",
+      "related_words": {
+        "word": [
+          "技術",
+          "技",
+          "術",
+          "料"
+        ]
+      },
+      "word": "技術料"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280274b088f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phí nghe đài ."
+        }
+      ],
+      "mobileId": 30367,
+      "phonetic": "ちょうしゅりょう",
+      "word": "聴取料"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bcfd81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "luật sư có chi phí"
+        }
+      ],
+      "mobileId": 6038,
+      "phonetic": "べんごりょう",
+      "related_words": {
+        "word": [
+          "弁",
+          "料",
+          "弁護"
+        ]
+      },
+      "word": "弁護料"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193dfc15b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chi phí cho tấm bảng và chỗ tạm trú"
+        }
+      ],
+      "mobileId": 24990,
+      "phonetic": "きしゅくりょう",
+      "word": "寄宿料"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd04f482",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quả đậu, cây họ đậu, rau đậu, rau ăn"
+        }
+      ],
+      "mobileId": 68947,
+      "phonetic": "まめりょう",
+      "related_words": {
+        "word": [
+          "豆",
+          "料"
+        ]
+      },
+      "word": "豆料"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada85c9ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhuận bút ."
+        }
+      ],
+      "mobileId": 79142,
+      "phonetic": "げんこうりょう",
+      "related_words": {
+        "word": [
+          "原",
+          "原稿",
+          "料",
+          "稿"
+        ]
+      },
+      "word": "原稿料"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ede44c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phí dỡ hàng xuống"
+        }
+      ],
+      "mobileId": 118112,
+      "phonetic": "にあげりょう",
+      "word": "荷揚げ料"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee5cf19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chi phí thu nạp"
+        }
+      ],
+      "mobileId": 118357,
+      "phonetic": "にゅうかんりょう",
+      "word": "入館料"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef993bedd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "service charge"
+        }
+      ],
+      "mobileId": 277451,
+      "phonetic": "ほうしりょう",
+      "word": "奉仕料"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

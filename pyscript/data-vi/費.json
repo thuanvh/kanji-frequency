@@ -1,0 +1,205 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa72011be",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "生活費",
+              "mean": "sinh hoạt phí",
+              "transcription": "せいかつひ"
+            }
+          ],
+          "kind": "n-suf",
+          "mean": "phí"
+        }
+      ],
+      "mobileId": 107194,
+      "phonetic": "ひ",
+      "related_words": {
+        "word": [
+          "消費税",
+          "費用",
+          "経費",
+          "交通費",
+          "消費者",
+          "人件費",
+          "生活費",
+          "消費",
+          "光熱費",
+          "交際費"
+        ]
+      },
+      "word": "費"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8035980",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng tháng thanh toán cho những vùng chung (của) một tòa nhà căn hộ (sự chiếu sáng, vân vân); những chi phí condo"
+        }
+      ],
+      "mobileId": 33591,
+      "phonetic": "きょうえきひ",
+      "related_words": {
+        "word": [
+          "共",
+          "益",
+          "費",
+          "共益"
+        ]
+      },
+      "word": "共益費"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86bb48b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "operating giá"
+        }
+      ],
+      "mobileId": 36954,
+      "phonetic": "けいえいひ",
+      "word": "経営費"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd44bf7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chi phí vận động"
+        }
+      ],
+      "mobileId": 16483,
+      "phonetic": "うんどうひ",
+      "related_words": {
+        "word": [
+          "運動",
+          "運",
+          "動",
+          "費"
+        ]
+      },
+      "word": "運動費"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107be0240",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "工事費概算見積もり",
+              "mean": "Ước tính sơ qua phí xây dựng (chi phí thi công)",
+              "transcription": "こうじひがいさんみつもり"
+            },
+            {
+              "content": "エアコン据え付け工事費の概算を教えていただけませんか？",
+              "mean": "Ông có thể cho tôi biết sơ qua chi phí lắp đặt điều hòa được không? .",
+              "transcription": "エアコンすえつけこうじひのがいさんをおしえていただけませんか？"
+            }
+          ],
+          "kind": "n",
+          "mean": "phí xây dựng; chi phí xây dựng; phí lắp đặt; chi phí lắp đặt; phí thi công; chi phí thi công"
+        }
+      ],
+      "mobileId": 55073,
+      "phonetic": "こうじひ",
+      "word": "工事費"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd7f1449",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những chi phí trò giải trí"
+        }
+      ],
+      "mobileId": 72809,
+      "phonetic": "ゆうきょうひ",
+      "word": "遊興費"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa716f01c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chi phí bán ."
+        }
+      ],
+      "mobileId": 107071,
+      "phonetic": "はんばいひ",
+      "related_words": {
+        "word": [
+          "販売",
+          "費"
+        ]
+      },
+      "word": "販売費"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7826887",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền vận chuyển"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền vận tải ."
+        }
+      ],
+      "mobileId": 108915,
+      "phonetic": "うんそうひ",
+      "word": "運送費"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf83a07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "compensation, remuneration"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "secret funds"
+        }
+      ],
+      "mobileId": 247751,
+      "phonetic": "ほうしょうひ",
+      "word": "報償費"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dbedfe2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chi phí sửa bao bì ."
+        }
+      ],
+      "mobileId": 144740,
+      "phonetic": "しゅうりひ",
+      "related_words": {
+        "word": [
+          "修理",
+          "費"
+        ]
+      },
+      "word": "修理費"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

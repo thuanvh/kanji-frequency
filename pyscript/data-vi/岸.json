@@ -1,0 +1,295 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107b7ed97",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "大西洋岸から太平洋岸まで",
+              "mean": "từ bờ Đại Tây Dương đến bờ Thái Bình Dương",
+              "transcription": "たいせいようがんからたいへいようがんまで"
+            },
+            {
+              "content": "船を岸から出す",
+              "mean": "đưa thuyền ra khỏi bờ",
+              "transcription": "ふねをきしからだす"
+            },
+            {
+              "content": "太平洋岸",
+              "mean": "bờ biển Thái Bình Dương",
+              "transcription": "たいへいようがん"
+            },
+            {
+              "content": "海の向こう（岸）に（ある）",
+              "mean": "ở phía bờ biển bên kia",
+              "transcription": "うみのむこう（きし）に（ある）"
+            }
+          ],
+          "kind": "n",
+          "mean": "bờ"
+        }
+      ],
+      "mobileId": 54973,
+      "opposite_word": [
+        "沖"
+      ],
+      "phonetic": "きし",
+      "related_words": {
+        "word": [
+          "海岸",
+          "彼岸花",
+          "湾岸",
+          "海岸線",
+          "彼岸",
+          "沿岸",
+          "西海岸",
+          "岸壁",
+          "川岸",
+          "河岸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "岸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "断崖",
+                "崖"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "岸辺",
+                "沿岸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "斜面",
+                "岸辺",
+                "土手"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "岸"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107b7fb75",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đắp bờ; chạy ven biển; cột trụ"
+        }
+      ],
+      "mobileId": 54974,
+      "opposite_word": [
+        "沖"
+      ],
+      "phonetic": "ぎし",
+      "related_words": {
+        "word": [
+          "海岸",
+          "彼岸花",
+          "湾岸",
+          "海岸線",
+          "彼岸",
+          "沿岸",
+          "西海岸",
+          "岸壁",
+          "川岸",
+          "河岸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "岸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "断崖",
+                "崖"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "岸辺",
+                "沿岸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "斜面",
+                "岸辺",
+                "土手"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "岸"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d555dbc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thế giới này, thế gian này"
+        }
+      ],
+      "mobileId": 148450,
+      "opposite_word": [
+        "彼岸",
+        "現し世",
+        "肉界",
+        "娑婆"
+      ],
+      "phonetic": "",
+      "word": "此岸"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cd9c65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cầu phà; cầu tàu"
+        }
+      ],
+      "mobileId": 24431,
+      "phonetic": "きしあたま",
+      "word": "岸頭"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbd385f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đất liền"
+        }
+      ],
+      "mobileId": 74851,
+      "phonetic": "りくがん",
+      "word": "陸岸"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdcb799a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "hai bờ (sông)"
+        }
+      ],
+      "mobileId": 75292,
+      "phonetic": "りょうきし",
+      "related_words": {
+        "word": [
+          "岸"
+        ]
+      },
+      "word": "両岸"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81da340",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vách đá, câu chuyện hấp dẫn được kể từng phần trên một đài phát thanh"
+        }
+      ],
+      "mobileId": 34443,
+      "phonetic": "きりがん",
+      "related_words": {
+        "word": [
+          "切",
+          "切り",
+          "岸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "切り岸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "断崖",
+                "懸崖",
+                "絶壁"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "切り岸"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95afa688",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toàn bộ bờ sông"
+        }
+      ],
+      "mobileId": 61693,
+      "phonetic": "ぜんきし",
+      "related_words": {
+        "word": [
+          "全",
+          "岸"
+        ]
+      },
+      "word": "全岸"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbc3eab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giương buồm"
+        }
+      ],
+      "mobileId": 74819,
+      "opposite_word": [
+        "接岸",
+        "着岸"
+      ],
+      "phonetic": "はなれがん",
+      "word": "離岸"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d895448",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pacific coast"
+        }
+      ],
+      "mobileId": 219515,
+      "phonetic": "たいへいようがん",
+      "word": "太平洋岸"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

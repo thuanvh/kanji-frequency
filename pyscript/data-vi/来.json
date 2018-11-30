@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f47cf69",
+      "means": [
+        {
+          "examples": "",
+          "kind": "pref",
+          "mean": "sự tới"
+        },
+        {
+          "examples": "",
+          "kind": "pref",
+          "mean": "来々週の日曜日:ngày Chủ nhật tuần sau nữa ."
+        }
+      ],
+      "mobileId": 186172,
+      "opposite_word": [
+        "往",
+        "去"
+      ],
+      "phonetic": "らい",
+      "related_words": {
+        "word": [
+          "未来",
+          "将来",
+          "来週",
+          "出来事",
+          "来る",
+          "本来",
+          "従来",
+          "出来",
+          "近い将来",
+          "出来る"
+        ]
+      },
+      "word": "来"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68393a77",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhiều người đến; nhiều khách đến"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "heavy thunder"
+        }
+      ],
+      "mobileId": 1858,
+      "phonetic": "まんらい",
+      "related_words": {
+        "word": [
+          "万",
+          "来"
+        ]
+      },
+      "word": "万来"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f111c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5u",
+          "mean": "để đến là sự giáp mặt (chúng ta)"
+        }
+      ],
+      "mobileId": 25574,
+      "phonetic": "きむかう",
+      "word": "来向かう"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e75dcb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "tới sự gọi thường xuyên"
+        }
+      ],
+      "mobileId": 25242,
+      "phonetic": "きつける",
+      "related_words": {
+        "word": [
+          "来",
+          "付",
+          "付ける"
+        ]
+      },
+      "word": "来付ける"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05498b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "coming to a castle, visiting a castle"
+        }
+      ],
+      "mobileId": 283674,
+      "phonetic": "らいじょう",
+      "word": "来城"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca063c327",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "onset, outbreak"
+        }
+      ],
+      "mobileId": 284161,
+      "phonetic": "はつらい",
+      "word": "発来"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb38824",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "xâm lược"
+        }
+      ],
+      "mobileId": 74534,
+      "phonetic": "らいおさむ",
+      "related_words": {
+        "word": [
+          "来"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "来攻",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "来襲",
+                "侵冦",
+                "侵攻",
+                "襲来",
+                "入冦",
+                "侵入",
+                "来冦",
+                "侵略",
+                "侵犯",
+                "侵掠"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "来襲",
+                "侵冦",
+                "侵攻",
+                "襲来",
+                "入冦",
+                "侵入",
+                "蚕食",
+                "攻略",
+                "来冦",
+                "侵略",
+                "侵犯",
+                "侵掠"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "来攻"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef907d907",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "correspondence, received letter"
+        }
+      ],
+      "mobileId": 273017,
+      "phonetic": "らいかん",
+      "word": "来簡"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9106c2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "coming to a prefectural office, etc."
+        }
+      ],
+      "mobileId": 273297,
+      "phonetic": "らいちょう",
+      "word": "来庁"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d9c785",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "coming to a capital city (esp. Tokyo or Kyoto)"
+        }
+      ],
+      "mobileId": 279732,
+      "phonetic": "らいきょう",
+      "word": "来京"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

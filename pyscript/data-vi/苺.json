@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280278bcf16",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "今はいちごの季節じゃないの",
+              "mean": "bây giờ không phải là mùa dâu tây",
+              "transcription": "いまはいちごのきせつじゃないの"
+            },
+            {
+              "content": "ママ、いちご食べたいよ",
+              "mean": "mẹ ơi con muốn ăn dâu tây",
+              "transcription": "ママ、いちごたべたいよ"
+            },
+            {
+              "content": "苺ジャムの（赤）色",
+              "mean": "màu của mứt dâu tây .",
+              "transcription": "いちごジャムの（あか）いろ"
+            }
+          ],
+          "kind": "n",
+          "mean": "dâu tây; quả dâu tây; cây dâu tây"
+        }
+      ],
+      "mobileId": 31536,
+      "phonetic": "いちご",
+      "related_words": {
+        "word": [
+          "木苺"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "苺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ストロベリー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "苺"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014f9dbe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây mâm xôi; quả mâm xôi; mâm xôi ."
+        }
+      ],
+      "mobileId": 43131,
+      "phonetic": "くろいちご",
+      "related_words": {
+        "word": [
+          "黒",
+          "苺"
+        ]
+      },
+      "word": "黒苺"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7a5e81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Rubus buergeri (species of raspberry)"
+        }
+      ],
+      "mobileId": 251974,
+      "phonetic": "ふゆいちご フユイチゴ",
+      "word": "冬苺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aca1af9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Rubus trifidus (species of raspberry)"
+        }
+      ],
+      "mobileId": 229869,
+      "phonetic": "かじいちご カジイチゴ",
+      "word": "構苺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aca363b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Rubus hirsutus (species of raspberry)"
+        }
+      ],
+      "mobileId": 229874,
+      "phonetic": "くさいちご クサイチゴ",
+      "word": "草苺"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85e94b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quả dâu tằm"
+        }
+      ],
+      "mobileId": 36533,
+      "phonetic": "くわいちご",
+      "related_words": {
+        "word": [
+          "苺",
+          "桑"
+        ]
+      },
+      "word": "桑苺"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a3a641",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Rubus vernus (species of raspberry)"
+        }
+      ],
+      "mobileId": 286177,
+      "phonetic": "べにばないちご ベニバナイチゴ",
+      "word": "紅花苺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8ad7e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "false strawberry (Duchesnea chrysantha), mock strawberry"
+        }
+      ],
+      "mobileId": 227835,
+      "phonetic": "どくいちご どくイチゴ",
+      "word": "毒苺"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7a57cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "garden strawberry (Fragaria x ananassa)"
+        }
+      ],
+      "mobileId": 251972,
+      "phonetic": "オランダいちご オランダイチゴ",
+      "word": "オランダ苺"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7a6c80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Rubus palmatus var. coptophyllus (specific variety of raspberry)"
+        }
+      ],
+      "mobileId": 251975,
+      "phonetic": "もみじいちご モミジイチゴ",
+      "word": "紅葉苺"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

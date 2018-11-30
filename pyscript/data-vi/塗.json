@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e857fc6",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "màng sơn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "とまく",
+      "word": "塗膜"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dad677b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "màu đỏ (sơn mài)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "painting in red"
+        }
+      ],
+      "mobileId": 151224,
+      "phonetic": "しゅぬり",
+      "related_words": {
+        "word": [
+          "朱"
+        ]
+      },
+      "word": "朱塗"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773f0612",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "anointing"
+        }
+      ],
+      "mobileId": 266498,
+      "phonetic": "とゆ",
+      "related_words": {
+        "word": [
+          "油"
+        ]
+      },
+      "word": "塗油"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10716cdc7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "塗物師",
+              "mean": "họa sĩ vẽ tranh sơn mài .",
+              "transcription": "ぬりぶつし"
+            }
+          ],
+          "kind": "n",
+          "mean": "Tranh sơn mài"
+        }
+      ],
+      "mobileId": 52251,
+      "phonetic": "ぬりもの",
+      "related_words": {
+        "word": [
+          "物"
+        ]
+      },
+      "word": "塗物"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2a909f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sơn hiệu Aizu"
+        }
+      ],
+      "mobileId": 11149,
+      "phonetic": "あいづぬり",
+      "word": "会津塗"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107163bc2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "板紙塗工",
+              "mean": "sơn vẽ giấy bồi",
+              "transcription": "いたがみぬりこう"
+            },
+            {
+              "content": "塗工印刷用紙",
+              "mean": "giấy dùng cho in ấn sơn vẽ .",
+              "transcription": "ぬりこういんさつようし"
+            }
+          ],
+          "kind": "n",
+          "mean": "Họa sĩ; vẽ"
+        }
+      ],
+      "mobileId": 52243,
+      "phonetic": "とこう",
+      "word": "塗工"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0377e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "tới vỏ (vết bẩn, rải) (với)"
+        }
+      ],
+      "mobileId": 68902,
+      "phonetic": "ぬりす",
+      "word": "塗す"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92ba227",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "graining (lacquering technique)"
+        }
+      ],
+      "mobileId": 257668,
+      "phonetic": "もくめぬり",
+      "word": "木目塗"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96bd4e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional lacquered conical hat"
+        }
+      ],
+      "mobileId": 259741,
+      "phonetic": "ぬりがさ",
+      "word": "塗笠"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fc0800",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "interior closed room with heavily plastered walls in a Heian palace"
+        }
+      ],
+      "mobileId": 264333,
+      "phonetic": "ぬりごめ",
+      "word": "塗籠"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

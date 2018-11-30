@@ -1,0 +1,276 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada3a10a9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あいつは酒を飲みすぎることを別にすればいい男なんだが.",
+              "mean": "Anh ấy là một người tốt trừ một điểm là anh ấy uống quá nhiều rượu.",
+              "transcription": "あいつはさけをのみすぎることをべつにすればいいおとこなんだが."
+            },
+            {
+              "content": "本当に困ったときは別だが, 僕を当てにしないでほしい.",
+              "mean": "Đừng đặt niềm tin vào tôi trừ khi bạn thực sự đang trong lúc khó khăn.",
+              "transcription": "ほんとうにこまったときはべつだが,ぼくをあてにしないでほしい."
+            }
+          ],
+          "kind": "adj-no, adj-na, n, n-suf, n-pref",
+          "mean": "đặc biệt; trừ ra"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no, adj-na, n, n-suf, n-pref",
+          "mean": "ngoài ra"
+        },
+        {
+          "examples": [
+            {
+              "content": "AとBに分けて別々に扱われる",
+              "mean": "Đối xử phân biệt chia rẽ A và B.",
+              "transcription": "AとBにわけてべつべつにあつかわれる"
+            },
+            {
+              "content": "個人生活と公的生活を別々にする",
+              "mean": "Tách biệt cuộc sống cá nhân với cuộc sống tập thể.",
+              "transcription": "こじんせいかつとこうてきせいかつをべつべつにする"
+            }
+          ],
+          "kind": "adj-no, adj-na, n, n-suf, n-pref",
+          "mean": "phân biệt; riêng biệt"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼らは別々に動いたが、同じ結果に到達した",
+              "mean": "Họ làm việc riêng biệt nhưng cùng đạt một kết quả giống nhau.",
+              "transcription": "かれらはべつべつにうごいたが、おなじけっかにとうたつした"
+            }
+          ],
+          "kind": "adj-no, adj-na, n, n-suf, n-pref",
+          "mean": "phân biệt; riêng biệt; riêng"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no, adj-na, n, n-suf, n-pref",
+          "mean": "sự đặc biệt"
+        },
+        {
+          "examples": [
+            {
+              "content": "公私の別がある",
+              "mean": "sự phân biệt giữa công và tư .",
+              "transcription": "こうしのべつがある"
+            }
+          ],
+          "kind": "adj-no, adj-na, n, n-suf, n-pref",
+          "mean": "sự phân biệt"
+        }
+      ],
+      "mobileId": 77911,
+      "phonetic": "べつ",
+      "related_words": {
+        "word": [
+          "性別",
+          "特別",
+          "個別",
+          "種別",
+          "別途",
+          "識別",
+          "送別会",
+          "別れ",
+          "別の",
+          "別に"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "別",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "別個"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "異なった"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "截然たる"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "base_form": "別",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "異同"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "別"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8da1779",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mỗi một riêng rẽ"
+        }
+      ],
+      "mobileId": 40500,
+      "phonetic": "ここべつべつ",
+      "word": "個々別別"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8da1e1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mỗi một riêng rẽ"
+        }
+      ],
+      "mobileId": 40501,
+      "phonetic": "ここべつべつ",
+      "word": "個個別別"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b8e7b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phân ra cái nhà"
+        }
+      ],
+      "mobileId": 5910,
+      "phonetic": "べつと",
+      "related_words": {
+        "word": [
+          "別",
+          "戸"
+        ]
+      },
+      "word": "別戸"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ba9d2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "may đo; may khéo"
+        }
+      ],
+      "mobileId": 5962,
+      "phonetic": "べつしたて",
+      "related_words": {
+        "word": [
+          "別",
+          "仕立て"
+        ]
+      },
+      "word": "別仕立て"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bb1338",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phân ra tòa nhà"
+        }
+      ],
+      "mobileId": 5974,
+      "phonetic": "べつどう",
+      "related_words": {
+        "word": [
+          "別"
+        ]
+      },
+      "word": "別堂"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bb3fc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dịch vụ chuyển bưu phẩm đặc biệt"
+        }
+      ],
+      "mobileId": 5981,
+      "phonetic": "べつはいたつ",
+      "related_words": {
+        "word": [
+          "別",
+          "配達"
+        ]
+      },
+      "word": "別配達"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7d9db4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự chia ly, sự chia tay, sự từ biệt, đường ngôi, chỗ rẽ, ngã ba"
+        }
+      ],
+      "mobileId": 13780,
+      "phonetic": "いちべつ",
+      "related_words": {
+        "word": [
+          "別",
+          "一"
+        ]
+      },
+      "word": "一別"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aecf7db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clans supposedly descended from foreign lineage (i.e. Chinese or Korean)"
+        }
+      ],
+      "mobileId": 231017,
+      "phonetic": "ばんべつ",
+      "word": "蕃別"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0956d3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "different letter, different character, different spelling"
+        }
+      ],
+      "mobileId": 285724,
+      "phonetic": "べつじ",
+      "word": "別字"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

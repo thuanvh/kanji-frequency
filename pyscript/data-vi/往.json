@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6052f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ancient times, times of old, time long since passed"
+        }
+      ],
+      "mobileId": 226469,
+      "phonetic": "おうだい",
+      "word": "往代"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e57e062",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự thẳng tiến"
+        }
+      ],
+      "mobileId": 113846,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "直"
+        ]
+      },
+      "word": "直往"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf8420b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "xung quanh đi nhẹ bước"
+        }
+      ],
+      "mobileId": 17636,
+      "phonetic": "",
+      "word": "往返"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd76932d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một lần; ngập ngừng ướm thử; phác thảo sơ bộ; tạm thời; hơn nữa"
+        }
+      ],
+      "mobileId": 13558,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "一"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "一往",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一応",
+                "仮に"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "一往"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00747c7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "kiểm tra thực địa, truy cập trang web (kiểm toán viên, kế toán viên, v.v.)"
+        }
+      ],
+      "mobileId": 281184,
+      "phonetic": "おうさ",
+      "word": "往査"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d9da634",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "words and deeds of the people of yore"
+        }
+      ],
+      "mobileId": 220176,
+      "phonetic": "ぜんげんおうこう",
+      "word": "前言往行"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

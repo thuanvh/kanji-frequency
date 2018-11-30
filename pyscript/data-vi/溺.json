@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757ff52912",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chết đuối ."
+        }
+      ],
+      "mobileId": 188994,
+      "phonetic": "できすい",
+      "related_words": {
+        "word": [
+          "水"
+        ]
+      },
+      "word": "溺水"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776793d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "being immersed in water, being drowned"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "being infatuated, being dazed, being blinded by"
+        }
+      ],
+      "mobileId": 267804,
+      "phonetic": "ちんでき",
+      "word": "沈溺"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

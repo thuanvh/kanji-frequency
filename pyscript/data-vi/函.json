@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada2b2722",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dãy núi Hakone ."
+        }
+      ],
+      "mobileId": 77683,
+      "phonetic": "かんれい",
+      "word": "函嶺"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada2b24a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Người chế tạo vũ khí; nhà sản xuất vũ khí ."
+        }
+      ],
+      "mobileId": 77682,
+      "phonetic": "かんじん",
+      "related_words": {
+        "word": [
+          "人"
+        ]
+      },
+      "word": "函人"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda2c551",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đặt vào trong"
+        }
+      ],
+      "mobileId": 14956,
+      "phonetic": "はこれる",
+      "word": "函れる"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939e480c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái hộp và nắp đậy; từ dùng chỉ sự hòa hợp của hai người, tuy hai mà như một"
+        }
+      ],
+      "mobileId": 22942,
+      "phonetic": "はこふた",
+      "related_words": {
+        "word": [
+          "蓋"
+        ]
+      },
+      "word": "函蓋"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b2219b644",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Sự khởi đầu, sự bắt đầu"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "きかん",
+      "word": "起函"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b2219b961",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Dán lại (thùng carton, phong bì,...)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ふうかん",
+      "word": "封函"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad83e6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sutra box"
+        }
+      ],
+      "mobileId": 230345,
+      "phonetic": "きょうかん",
+      "word": "経函"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad84057",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "letterbox"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "book chest"
+        }
+      ],
+      "mobileId": 230346,
+      "phonetic": "しょかん",
+      "word": "書函"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939fc580",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ống dẫn nước thải có bề mặt cắt ngang hình vuông; rãnh nước có mặt cắt ngang hình vuông"
+        }
+      ],
+      "mobileId": 22983,
+      "phonetic": "はこみぞ",
+      "word": "函渠"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

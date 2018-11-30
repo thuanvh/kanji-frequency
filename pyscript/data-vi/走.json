@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773b5c76",
+      "means": [
+        {
+          "examples": [],
+          "kind": "suf",
+          "mean": "chạy, đua"
+        }
+      ],
+      "mobileId": 266382,
+      "phonetic": "そう",
+      "word": "走"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a639cae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"run\" radical at left"
+        }
+      ],
+      "mobileId": 226573,
+      "phonetic": "そうにょう",
+      "word": "走繞"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af755d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common treecreeper (species of songbird, Certhia familiaris)"
+        }
+      ],
+      "mobileId": 231339,
+      "phonetic": "きばしり キバシリ",
+      "word": "木走"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cdc381",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sức chạy; khả năng chạy"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "total energy"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "all efforts"
+        }
+      ],
+      "mobileId": 62667,
+      "phonetic": "はしちから",
+      "word": "走力"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7728fa4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "taxis"
+        }
+      ],
+      "mobileId": 265790,
+      "phonetic": "そうせい",
+      "word": "走性"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aac2f32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "going in the opposite direction"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "going against the wind"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "running or operating a machine in reverse (such as an electric motor)"
+        }
+      ],
+      "mobileId": 228900,
+      "phonetic": "ぎゃくそう",
+      "related_words": {
+        "word": [
+          "逆"
+        ]
+      },
+      "word": "逆走"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b6ff71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chạy tốt; chạy nhanh"
+        }
+      ],
+      "mobileId": 39349,
+      "phonetic": "こうはし",
+      "word": "好走"
+    },
+    {
+      "_id": "432518852de0a80625d585a982506710",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese belladonna (Scopolia japonica)"
+        }
+      ],
+      "mobileId": 234170,
+      "phonetic": "はしりどころ ハシリドコロ",
+      "word": "走野老"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0aae3ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "roaring noisily around"
+        }
+      ],
+      "mobileId": 212337,
+      "phonetic": "ばくそう",
+      "word": "爆走"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773b07ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "short-distance race, sprint"
+        }
+      ],
+      "mobileId": 266373,
+      "phonetic": "たんきょりそう",
+      "word": "短距離走"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

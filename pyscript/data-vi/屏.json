@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fc23e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "partitions in a Japanese house (e.g. screens, sliding doors, etc.)"
+        }
+      ],
+      "mobileId": 264335,
+      "phonetic": "しょうへい",
+      "word": "障屏"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a8b6f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sống ẩn cư khi về hưu"
+        }
+      ],
+      "mobileId": 5375,
+      "phonetic": "へいきょ",
+      "related_words": {
+        "word": [
+          "居"
+        ]
+      },
+      "word": "屏居"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0215887",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "solitary confinement"
+        }
+      ],
+      "mobileId": 282018,
+      "phonetic": "へいきん",
+      "word": "屏禁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca021a9f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "solitary confinement in a dark cell without bedding (for up to one week)"
+        }
+      ],
+      "mobileId": 282028,
+      "phonetic": "じゅうへいきん",
+      "word": "重屏禁"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

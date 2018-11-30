@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107b7af55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mũi đất ."
+        }
+      ],
+      "mobileId": 54969,
+      "phonetic": "みさき",
+      "synsets": [
+        {
+          "base_form": "岬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "崎",
+                "端",
+                "穂",
+                "先頭",
+                "先端",
+                "穂先",
+                "先",
+                "先登",
+                "頂",
+                "尖端"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "崎"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "崎",
+                "端",
+                "穂",
+                "先端",
+                "穂先",
+                "先",
+                "尖端"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "岬"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ccce0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ lồi lõm (ở bờ biển); doi đất"
+        }
+      ],
+      "mobileId": 40058,
+      "phonetic": "みさきわん",
+      "related_words": {
+        "word": [
+          "湾",
+          "岬"
+        ]
+      },
+      "word": "岬湾"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107b7b8ab",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "骨盤の岬角",
+              "mean": "chỗ lồi lên ở xương chậu",
+              "transcription": "こつばんのみさきかく"
+            },
+            {
+              "content": "中耳内の岬角",
+              "mean": "chỗ lồi lên trong tai giữa.",
+              "transcription": "ちゅうじないのみさきかく"
+            }
+          ],
+          "kind": "n",
+          "mean": "mũi đất; doi đất; chỗ lồi lên; chỗ lồi"
+        }
+      ],
+      "mobileId": 54970,
+      "phonetic": "こうかく",
+      "word": "岬角"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

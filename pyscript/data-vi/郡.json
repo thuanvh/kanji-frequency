@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa795a846",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "郡から麻薬を追放するために人を雇う",
+              "mean": "Thuê người để chuyển ma túy ra khỏi huyện.",
+              "transcription": "ぐんからまやくをついほうするためにひとをやとう"
+            },
+            {
+              "content": "アメリカ一裕福な郡",
+              "mean": "Huyện dư giả giầu có ở Mĩ .",
+              "transcription": "アメリカいちゆうふくなぐん"
+            }
+          ],
+          "kind": "n",
+          "mean": "huyện"
+        }
+      ],
+      "mobileId": 109202,
+      "phonetic": "ぐん",
+      "word": "郡"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e867ed8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ thống lãnh địa"
+        }
+      ],
+      "mobileId": 36835,
+      "phonetic": "ぐんせい",
+      "word": "郡制"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e869a255",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những văn phòng lãnh địa"
+        }
+      ],
+      "mobileId": 36893,
+      "phonetic": "ぐんやくしょ",
+      "word": "郡役所"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e868be94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quận trưởng; trưởng một quận; thủ lãnh khu;viên chức đứng đầu lãnh địa"
+        }
+      ],
+      "mobileId": 36861,
+      "phonetic": "ぐんちょう",
+      "word": "郡長"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa795a91c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tỉnh và huyện ."
+        }
+      ],
+      "mobileId": 109203,
+      "phonetic": "ぐんけん",
+      "related_words": {
+        "word": [
+          "県",
+          "郡"
+        ]
+      },
+      "word": "郡県"
+    },
+    {
+      "_id": "432518852de0a80625d585a9823e0fba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "province-district-neighbourhood system (system of administrative divisions under the ritsuryo; 1 neighbourhood=~50 homes, 1 district=2-20 neighbourhoods)"
+        }
+      ],
+      "mobileId": 233586,
+      "phonetic": "こくぐんりせい",
+      "word": "国郡里制"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773d34c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "county seat, parish seat, borough seat, county town"
+        }
+      ],
+      "mobileId": 266439,
+      "phonetic": "ぐんちょうしょざいち",
+      "word": "郡庁所在地"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8651b62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chế độ quận huyện"
+        }
+      ],
+      "mobileId": 36746,
+      "phonetic": "ぐんけんせいど",
+      "word": "郡県制度"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07d66b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Gunnai silk weaving"
+        }
+      ],
+      "mobileId": 284953,
+      "phonetic": "ぐんないおり",
+      "word": "郡内織"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e807eb2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khối cộng sản"
+        }
+      ],
+      "mobileId": 33746,
+      "phonetic": "きょうさんこっかぐん",
+      "word": "共産国家郡"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

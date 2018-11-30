@@ -1,0 +1,289 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd6c6861",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "dịu dàng; dễ thương"
+        }
+      ],
+      "mobileId": 72214,
+      "opposite_word": [
+        "劣",
+        "可"
+      ],
+      "phonetic": "ゆう",
+      "related_words": {
+        "word": [
+          "優しい",
+          "優先",
+          "優先順位",
+          "優れた",
+          "女優",
+          "優秀",
+          "優勝",
+          "俳優",
+          "優位性",
+          "声優"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "優",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "麗しい",
+                "綺麗",
+                "美的",
+                "秀麗",
+                "艶やか",
+                "奥ゆかしい",
+                "佳",
+                "美しい",
+                "可愛い",
+                "見事",
+                "眩い",
+                "奇麗",
+                "良い",
+                "ビューティフル",
+                "素晴らしい"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "base_form": "優",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "優等",
+                "良質"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "優"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd7d3fbc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "đẹp, duyên dáng, yêu kiều; có sức quyến rũ, làm say mê, làm mê mẩn"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "làm mê, làm say mê, quyến rũ"
+        }
+      ],
+      "mobileId": 72745,
+      "phonetic": "ゆうつや",
+      "related_words": {
+        "word": [
+          "優",
+          "艶"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "優艶",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "麗しい",
+                "優しい",
+                "優婉",
+                "雅びた",
+                "雅びやか",
+                "瀟洒",
+                "エレガント",
+                "典雅",
+                "都雅",
+                "上品",
+                "典麗"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "麗しい",
+                "優婉",
+                "雅びた",
+                "床しい",
+                "雅びやか",
+                "奥床しい",
+                "淑やか",
+                "典雅",
+                "奥ゆかしい",
+                "典麗"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "優艶"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd82d09b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người ưu tú, cá nhân xuất sắc"
+        }
+      ],
+      "mobileId": 72942,
+      "phonetic": "ゆうしゃ",
+      "related_words": {
+        "word": [
+          "者",
+          "優"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "優者",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "大家",
+                "ナンバーワン",
+                "明星",
+                "エース",
+                "王者",
+                "チャンピオン",
+                "名人",
+                "巨匠",
+                "スーパースター",
+                "花形",
+                "ウイザード",
+                "千両役者",
+                "妙手",
+                "達人",
+                "スター",
+                "国手"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "優者"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3ea06a0a",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Ưu uất, ảm đạm"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ゆううつ",
+      "word": "優鬱"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ba898e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thẳng một"
+        }
+      ],
+      "mobileId": 62038,
+      "phonetic": "ちょんゆう",
+      "related_words": {
+        "word": [
+          "優",
+          "全"
+        ]
+      },
+      "word": "全優"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8187b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cung lớn hơn trên nửa đường tròn"
+        }
+      ],
+      "mobileId": 72899,
+      "phonetic": "ゆうこ",
+      "word": "優弧"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92b380b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "góc phản xạ"
+        }
+      ],
+      "mobileId": 257653,
+      "phonetic": "ゆうかく",
+      "word": "優角"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde1b191",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "diễn viên"
+        }
+      ],
+      "mobileId": 75969,
+      "phonetic": "",
+      "word": "伶優"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd83117b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con ngựa tinh tế"
+        }
+      ],
+      "mobileId": 72951,
+      "opposite_word": [
+        "駑馬"
+      ],
+      "phonetic": "ゆうしゅん",
+      "word": "優駿"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd83188a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phạt tiền con ngựa"
+        }
+      ],
+      "mobileId": 72952,
+      "phonetic": "ゆうしゅんめ",
+      "word": "優駿馬"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

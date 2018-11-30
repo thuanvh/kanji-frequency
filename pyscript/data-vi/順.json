@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568011072f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "trật tự; lượt ."
+        }
+      ],
+      "mobileId": 42031,
+      "opposite_word": [
+        "逆"
+      ],
+      "phonetic": "じゅん",
+      "related_words": {
+        "word": [
+          "手順",
+          "順番",
+          "優先順位",
+          "順位",
+          "順序",
+          "昇順",
+          "順調",
+          "降順",
+          "順番に",
+          "順次"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "順",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "配列",
+                "順序",
+                "順番"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "順"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e47287e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thứ tự đến"
+        }
+      ],
+      "mobileId": 113308,
+      "phonetic": "ちゃくじゅん",
+      "word": "着順"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b7a1e28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sequential access"
+        }
+      ],
+      "mobileId": 243751,
+      "phonetic": "じゅんよびだし",
+      "word": "順呼出し"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b7a8261",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "forward reading"
+        }
+      ],
+      "mobileId": 243762,
+      "phonetic": "じゅんよみ",
+      "word": "順読み"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f2a0c7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thứ tự viết nét chữ; trình tự viết chữ ."
+        }
+      ],
+      "mobileId": 185612,
+      "phonetic": "かきじゅん",
+      "related_words": {
+        "word": [
+          "順"
+        ]
+      },
+      "word": "書き順"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a46beb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thứ tự (của) thâm niên"
+        }
+      ],
+      "mobileId": 61335,
+      "phonetic": "せんにんじゅん",
+      "related_words": {
+        "word": [
+          "先",
+          "順",
+          "任"
+        ]
+      },
+      "word": "先任順"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95275f9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tuân theo; quan sát; đi theo"
+        }
+      ],
+      "mobileId": 57353,
+      "phonetic": "じゅんたてまつ",
+      "word": "順奉"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7b683f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vâng lời"
+        }
+      ],
+      "mobileId": 114956,
+      "phonetic": "",
+      "word": "悌順"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b7a1a4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sequential file"
+        }
+      ],
+      "mobileId": 243750,
+      "phonetic": "じゅんファイル",
+      "word": "順ファイル"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b7aa45b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sequential organization"
+        }
+      ],
+      "mobileId": 243766,
+      "phonetic": "じゅんへんせい",
+      "word": "順編成"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

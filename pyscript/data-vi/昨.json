@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f16e47f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "trước (năm, tháng) ."
+        }
+      ],
+      "mobileId": 185314,
+      "phonetic": "さく",
+      "related_words": {
+        "word": [
+          "昨日",
+          "昨年",
+          "一昨日",
+          "昨夜",
+          "一昨年",
+          "昨晩",
+          "昨今"
+        ]
+      },
+      "word": "昨"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8530a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trước (thời gian)"
+        }
+      ],
+      "mobileId": 14017,
+      "phonetic": "いちさく",
+      "word": "一昨"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d239629",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xem intrigue"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà chiến thuật"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người vạch kế hoạch, người chủ mưu, kẻ âm mưu; kẻ hay dùng mưu gian"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẻ âm mưu, kẻ mưu toan, kẻ bày mưu lập kế"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phép làm thơ, lối thơ; luật thơ, sự chuyển thành thơ, sự viết bằng thơ"
+        }
+      ],
+      "mobileId": 146858,
+      "phonetic": "さくかみ",
+      "related_words": {
+        "word": [
+          "紙",
+          "昨"
+        ]
+      },
+      "word": "昨紙"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8542f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hai đêm trước kéo dài"
+        }
+      ],
+      "mobileId": 14019,
+      "phonetic": "いちさく々よる",
+      "word": "一昨々夜"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd854a84",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hai đêm trước kéo dài"
+        }
+      ],
+      "mobileId": 14020,
+      "phonetic": "いちさくさくや",
+      "word": "一昨昨夜"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0e15219",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "complete reversal of values or ways of thinking (over time), What appeared wrong in the past now appears right, realizing and regretting the past errors of one's ways"
+        }
+      ],
+      "mobileId": 214128,
+      "phonetic": "こんぜさくひ",
+      "word": "今是昨非"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

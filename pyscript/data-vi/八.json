@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7df22345",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bát"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bát quác"
+        },
+        {
+          "examples": [
+            {
+              "content": "出馬表には八つか九つのレースが載っている",
+              "mean": "Có tám hoặc chín cuộc đua được ghi trên bảng đua ngựa",
+              "transcription": "しゅつばひょうにはやっつかここのつのレースがのっている"
+            }
+          ],
+          "kind": "num",
+          "mean": "tám"
+        }
+      ],
+      "mobileId": 145603,
+      "phonetic": "はち",
+      "related_words": {
+        "word": [
+          "七転び八起き",
+          "八月",
+          "八角形",
+          "八百屋",
+          "尺八",
+          "四苦八苦",
+          "八方美人",
+          "八つ当たり",
+          "八洲",
+          "八つ"
+        ]
+      },
+      "word": "八"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7df225b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "num",
+          "mean": "tám"
+        },
+        {
+          "examples": null,
+          "kind": "num",
+          "mean": "thứ tám ."
+        }
+      ],
+      "mobileId": 145604,
+      "phonetic": "やっつ",
+      "related_words": {
+        "word": [
+          "七転び八起き",
+          "八月",
+          "八角形",
+          "八百屋",
+          "尺八",
+          "四苦八苦",
+          "八方美人",
+          "八つ当たり",
+          "八洲",
+          "八つ"
+        ]
+      },
+      "word": "八"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f52fc7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the whole enormous extent of Edo, from one side of Edo to the other"
+        }
+      ],
+      "mobileId": 214770,
+      "phonetic": "はっぴゃくやちょう",
+      "word": "八百八町"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d16cf4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "multilayered"
+        }
+      ],
+      "mobileId": 215829,
+      "phonetic": "やえやえ",
+      "word": "八重八重"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826547f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "88 temples (of, or modeled after those of, Shikoku)"
+        }
+      ],
+      "mobileId": 234840,
+      "phonetic": "はちじゅうはっかしょ",
+      "word": "八十八箇所"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d16d888",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the large number of bridges over canals and rivers in Naniwa (present-day Osaka)"
+        }
+      ],
+      "mobileId": 215830,
+      "phonetic": "はっぴゃくやばし",
+      "word": "八百八橋"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680fe28d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngày thứ tám mươi tám sau ngày lập xuân (khoảng ngày 2 tháng 5)"
+        }
+      ],
+      "mobileId": 519,
+      "phonetic": "はちじゅうはちや",
+      "word": "八十八夜"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d16e325",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the large number of temples in Kyoto"
+        }
+      ],
+      "mobileId": 215831,
+      "phonetic": "はっぴゃくやでら",
+      "word": "八百八寺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad58c67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "8000"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "many"
+        }
+      ],
+      "mobileId": 230261,
+      "phonetic": "はっせん やち",
+      "related_words": {
+        "word": [
+          "千",
+          "八"
+        ]
+      },
+      "word": "八千"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aed684f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eight consciousnesses (one for each of the five senses, consciousness of the mind, self-consciousness and store consciousness)"
+        }
+      ],
+      "mobileId": 231033,
+      "phonetic": "はっしき はちしき",
+      "word": "八識"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

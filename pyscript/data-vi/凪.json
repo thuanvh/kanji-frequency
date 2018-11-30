@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada236d35",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "今日はいいなぎだ.",
+              "mean": "Hôm nay biển lặng",
+              "transcription": "きょうはいいなぎだ."
+            },
+            {
+              "content": "水凪鳥",
+              "mean": "chim hải âu .",
+              "transcription": "みずなぎとり"
+            }
+          ],
+          "kind": "n",
+          "mean": "Sự tĩnh lặng; sự yên lặng; trời yên biển lặng"
+        }
+      ],
+      "mobileId": 77494,
+      "opposite_word": [
+        "時化"
+      ],
+      "phonetic": "なぎ",
+      "word": "凪"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d22a543",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "backlash (after use of 'magic')"
+        }
+      ],
+      "mobileId": 216213,
+      "phonetic": "さかなぎ",
+      "word": "逆凪"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda8311a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự êm đềm vào buổi tối"
+        }
+      ],
+      "mobileId": 74177,
+      "phonetic": "よるなぎ",
+      "related_words": {
+        "word": [
+          "夜",
+          "凪"
+        ]
+      },
+      "word": "夜凪"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cf1bce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "first lull of the year, lull on New Year's Day"
+        }
+      ],
+      "mobileId": 262900,
+      "phonetic": "はつなぎ",
+      "word": "初凪"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

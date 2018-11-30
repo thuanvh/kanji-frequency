@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ae6751f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đứng thẳng ."
+        }
+      ],
+      "mobileId": 174101,
+      "phonetic": "とったつ",
+      "word": "突立"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778a7490",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pungtungia herzi (species of cyprinid)"
+        }
+      ],
+      "mobileId": 268953,
+      "phonetic": "むぎつく ムギツク",
+      "word": "麦突"
+    },
+    {
+      "_id": "432518852de0a80625d585a982715b43",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "đối chiếu, kiểm tra, so sánh (dữ liệu)"
+        }
+      ],
+      "mobileId": 235207,
+      "phonetic": "とつごう",
+      "word": "突合"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e6cf723",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chống đỡ; đi khệnh khạng; sự hỗ trợ; quán rượu; đẩy"
+        }
+      ],
+      "mobileId": 114520,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "張り"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "突張り",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "サポート",
+                "支え",
+                "突っ張り"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "支柱",
+                "支え",
+                "突っ張り"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "土台",
+                "支柱",
+                "支え",
+                "突っ張り"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "延べ棒",
+                "バール",
+                "棒",
+                "延棒",
+                "横木",
+                "突っ張り",
+                "小節",
+                "バー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "突張り"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b631aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "thrusting (a spear, etc.)"
+        }
+      ],
+      "mobileId": 262106,
+      "phonetic": "しとつ",
+      "word": "刺突"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e6572ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "tới sự ép; để vỡ tan"
+        }
+      ],
+      "mobileId": 114276,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "崩す"
+        ]
+      },
+      "word": "突崩す"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae463493",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mét (mét (đồng hồ đo)) (mẫu (dạng) cũ (già))"
+        }
+      ],
+      "mobileId": 129590,
+      "phonetic": "",
+      "word": "米突"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68171d62",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gặp cái đầu trên (về)"
+        }
+      ],
+      "mobileId": 743,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "鼻"
+        ]
+      },
+      "word": "鼻突"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1bb76d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "lofty, soaring, towering, precipitous, high and steep, sharply sticking out, jutting upward"
+        }
+      ],
+      "mobileId": 224301,
+      "phonetic": "とっこつ",
+      "word": "突兀"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06a7763",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "suddenly, all of a sudden"
+        }
+      ],
+      "mobileId": 284372,
+      "phonetic": "とつとして",
+      "word": "突として"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7df5b31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mặt trời; ánh sáng mặt trời ."
+        }
+      ],
+      "mobileId": 110451,
+      "opposite_word": [
+        "陰"
+      ],
+      "phonetic": "よう",
+      "related_words": {
+        "word": [
+          "太陽",
+          "太陽光発電",
+          "陽気",
+          "陽炎",
+          "陽子",
+          "陰陽",
+          "半陰陽",
+          "陽光",
+          "陽性",
+          "夕陽"
+        ]
+      },
+      "word": "陽"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0061164",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "explicit"
+        }
+      ],
+      "mobileId": 281144,
+      "phonetic": "ようてき",
+      "word": "陽的"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7df7079",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nơi mặt trời chiếu thẳng ."
+        }
+      ],
+      "mobileId": 110454,
+      "phonetic": "ひあたり",
+      "related_words": {
+        "word": [
+          "陽"
+        ]
+      },
+      "word": "陽当り"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820f1634",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anhemitonic pentatonic scale (pentatonic scale containing no semitones)"
+        }
+      ],
+      "mobileId": 232129,
+      "phonetic": "ようせんぽう",
+      "word": "陽旋法"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0af2f18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "cation, positive ion"
+        }
+      ],
+      "mobileId": 212473,
+      "opposite_word": [
+        "陰イオン"
+      ],
+      "phonetic": "ようイオン",
+      "word": "陽イオン"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e9f0878",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Tên 1 loại cà tím của nhật"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "黒陽"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e00c4d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "visibly, openly, publicly"
+        }
+      ],
+      "mobileId": 248028,
+      "phonetic": "ように",
+      "word": "陽に"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6844a351",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ánh sáng mặt trời"
+        }
+      ],
+      "mobileId": 2219,
+      "phonetic": "ひしゃ",
+      "related_words": {
+        "word": [
+          "陽"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "陽射",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "日射",
+                "太陽光線",
+                "陽光",
+                "日影",
+                "サンシャイン",
+                "日射し",
+                "日差し",
+                "日光",
+                "天日"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "陽射"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684799eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đầy nắng làm lốm đốm; sự bóc trần tới mặt trời"
+        }
+      ],
+      "mobileId": 2313,
+      "phonetic": "ひたまり",
+      "related_words": {
+        "word": [
+          "陽"
+        ]
+      },
+      "word": "陽溜り"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ad3917",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ninja working in the open, non-undercover ninja"
+        }
+      ],
+      "mobileId": 212410,
+      "phonetic": "ようにん",
+      "word": "陽忍"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

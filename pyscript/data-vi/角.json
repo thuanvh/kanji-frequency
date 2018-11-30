@@ -1,0 +1,337 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027d22e35",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sừng ."
+        }
+      ],
+      "mobileId": 32764,
+      "opposite_word": [
+        "真ん中",
+        "丸"
+      ],
+      "phonetic": "つの",
+      "related_words": {
+        "word": [
+          "三角",
+          "角度",
+          "四角",
+          "四角形",
+          "三角形",
+          "折角",
+          "八角形",
+          "六角形",
+          "三角関係",
+          "直角"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "角",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "端",
+                "コーナ",
+                "コーナー",
+                "隅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "街角",
+                "四つ角",
+                "曲がり角",
+                "辻"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コーナ",
+                "コーナー",
+                "隅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "片隅",
+                "一隅",
+                "コーナー",
+                "ニッチ",
+                "隅",
+                "一角"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "アングル",
+                "一角"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "端",
+                "一隅",
+                "コーナー",
+                "隅"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "角"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027d22a2f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "三角形の内角の和は１８０度である。",
+              "mean": "Tổng các góc trong của một tam giác là 180 độ.",
+              "transcription": "さんかっけいのないかくのわはいちはちぜろどである。"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "góc"
+        }
+      ],
+      "mobileId": 32763,
+      "phonetic": "かく",
+      "related_words": {
+        "word": [
+          "三角",
+          "角度",
+          "四角",
+          "四角形",
+          "三角形",
+          "折角",
+          "八角形",
+          "六角形",
+          "三角関係",
+          "直角"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "角",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "端",
+                "コーナ",
+                "コーナー",
+                "隅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "街角",
+                "四つ角",
+                "曲がり角",
+                "辻"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コーナ",
+                "コーナー",
+                "隅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "片隅",
+                "一隅",
+                "コーナー",
+                "ニッチ",
+                "隅",
+                "一角"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "アングル",
+                "一角"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "端",
+                "一隅",
+                "コーナー",
+                "隅"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "角"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a85b25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "góc bẹt"
+        }
+      ],
+      "mobileId": 5360,
+      "phonetic": "ひらかく",
+      "related_words": {
+        "word": [
+          "角",
+          "平"
+        ]
+      },
+      "word": "平角"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934b0588",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shogi chơi với người (bộ) chơi cấp cao hơn chơi mà không có kaku"
+        }
+      ],
+      "mobileId": 20314,
+      "phonetic": "かくおち",
+      "word": "角落ち"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934ece8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phép đo góc"
+        }
+      ],
+      "mobileId": 20427,
+      "phonetic": "かくそくりょう",
+      "word": "角測量"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8cc556",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "góc chung"
+        }
+      ],
+      "mobileId": 14256,
+      "phonetic": "いっぱんかく",
+      "word": "一般角"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937b23ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa tiệm ở góc phố"
+        }
+      ],
+      "mobileId": 21835,
+      "phonetic": "かくてん",
+      "word": "角店"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0171440",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "to compare (e.g. in a competition)"
+        }
+      ],
+      "mobileId": 189888,
+      "phonetic": "かくす",
+      "word": "角す"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ab7314",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "góc tạo bởi 2 đường thẳng hoặc 2 mặt phẳng giao nhau"
+        }
+      ],
+      "mobileId": 38970,
+      "phonetic": "",
+      "word": "交角"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86c2de4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inclining, sự nghiêng, sự cúi, dốc; độ nghiêng"
+        }
+      ],
+      "mobileId": 36966,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "角"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "傾角",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "勾配",
+                "傾度",
+                "傾き",
+                "傾斜",
+                "傾斜角"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "下地",
+                "偏り",
+                "傾度",
+                "傾向",
+                "了見",
+                "傾き",
+                "傾斜"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "傾角"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

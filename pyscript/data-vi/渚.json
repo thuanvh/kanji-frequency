@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fe80d09",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜を散歩する",
+              "mean": "đi bộ bên bờ biển .",
+              "transcription": "〜をさんぽする"
+            }
+          ],
+          "kind": "n",
+          "mean": "bến bờ; bờ sông; bờ biển"
+        }
+      ],
+      "mobileId": 188783,
+      "phonetic": "なぎさ",
+      "word": "渚"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dd4c5d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cột trụ ; bờ sông"
+        }
+      ],
+      "mobileId": 152520,
+      "phonetic": "なぎさほとり",
+      "word": "渚畔"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7a8ec3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đổ cát quán rượu; tưới nước mép"
+        }
+      ],
+      "mobileId": 114933,
+      "phonetic": "みぎわなぎさ",
+      "word": "汀渚"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed0b1ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dọc theo mép, mé (sông biển ....)"
+        }
+      ],
+      "mobileId": 117704,
+      "phonetic": "なぎさづたい",
+      "word": "渚伝い"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

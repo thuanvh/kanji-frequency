@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9acac65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "edge, angle"
+        },
+        {
+          "examples": null,
+          "kind": "n, suf",
+          "mean": "ridge (e.g. of a mountain)"
+        }
+      ],
+      "mobileId": 261805,
+      "phonetic": "りょう",
+      "word": "稜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca051fed2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ridge of a cliff, rock ridge"
+        }
+      ],
+      "mobileId": 283589,
+      "phonetic": "がんりょう",
+      "word": "岩稜"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d1f5f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "(a person with) strong moral fiber (backbone, determination)"
+        }
+      ],
+      "mobileId": 213620,
+      "phonetic": "きこつりょうりょう",
+      "word": "気骨稜々"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

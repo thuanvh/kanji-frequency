@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04d0e0b",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "đồ uống, uống"
+        }
+      ],
+      "mobileId": 283425,
+      "phonetic": "いん",
+      "word": "飲"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc66a3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự làm cho thoả mãn; sự vừa lòng, sự toại ý, sự thoả mãn, sự trả nợ; sự làm tròn nhiệm vụ, dịp rửa thù"
+        }
+      ],
+      "mobileId": 75147,
+      "phonetic": "とめいん",
+      "synsets": [
+        {
+          "base_form": "留飲",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "満足",
+                "会心",
+                "喜び",
+                "本望"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "補償",
+                "満足",
+                "会心",
+                "喜び",
+                "本望",
+                "償い"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "留飲"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779df777",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "accidental ingestion, swallowing something by mistake"
+        }
+      ],
+      "mobileId": 269569,
+      "phonetic": "ごいん",
+      "word": "誤飲"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8fac0dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự uống rượu"
+        }
+      ],
+      "mobileId": 41542,
+      "phonetic": "ごういん",
+      "related_words": {
+        "word": [
+          "豪"
+        ]
+      },
+      "word": "豪飲"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5f7f1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "polydipsia, excessive thirst (e.g. with diabetes)"
+        }
+      ],
+      "mobileId": 251110,
+      "phonetic": "たいん",
+      "word": "多飲"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94add5d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "regular drinking, habitual drinking"
+        }
+      ],
+      "mobileId": 258689,
+      "phonetic": "じょういん",
+      "word": "常飲"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f41367",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "uống vào; hút nước"
+        }
+      ],
+      "mobileId": 25668,
+      "phonetic": "",
+      "word": "吸飲"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef6e612",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người say rượu, người nghiện rượu"
+        }
+      ],
+      "mobileId": 118899,
+      "phonetic": "いんぬけ",
+      "word": "飲抜け"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b1f678",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "ăn uống"
+        }
+      ],
+      "mobileId": 278404,
+      "phonetic": "きついん",
+      "word": "喫飲"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680129780e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thuốc uống ."
+        }
+      ],
+      "mobileId": 42458,
+      "phonetic": "のみぐすり",
+      "word": "飲薬"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

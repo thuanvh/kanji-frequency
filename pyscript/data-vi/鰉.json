@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680144ebb6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "Cá tầm"
+        }
+      ],
+      "mobileId": 42928,
+      "phonetic": "ちょうざめ",
+      "word": "鰉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77833aea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sarcocheilichthys biwaensis (species of cyprinid)"
+        }
+      ],
+      "mobileId": 268709,
+      "phonetic": "あぶらひがい アブラヒガイ",
+      "word": "脂鰉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77890678",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Biwa oily gudgeon (Sarcocheilichthys variegatus microoculus)"
+        }
+      ],
+      "mobileId": 268904,
+      "phonetic": "びわひがい ビワヒガイ",
+      "word": "琵琶鰉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7784b315",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sarcocheilichthys variegatus variegatus (subspecies of cyprinid)"
+        }
+      ],
+      "mobileId": 268761,
+      "phonetic": "かわひがい カワヒガイ",
+      "word": "河鰉"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

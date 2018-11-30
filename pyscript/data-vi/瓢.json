@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a52ffd1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con bọ rùa ."
+        }
+      ],
+      "mobileId": 171694,
+      "phonetic": "てんとうむし",
+      "word": "瓢虫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae19bf3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "handsome fungus beetle (any beetle of family Endomychidae)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "28-spotted ladybird (Epilachna vigintioctopunctata)"
+        }
+      ],
+      "mobileId": 230663,
+      "phonetic": "てんとうむしだまし テントウムシダマシ",
+      "word": "偽瓢虫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae18f5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "28-spotted ladybird (Epilachna vigintioctopunctata)"
+        }
+      ],
+      "mobileId": 230662,
+      "phonetic": "にじゅうやほしてんとう ニジュウヤホシテントウ",
+      "word": "二十八星瓢虫"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

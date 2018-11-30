@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802750c95a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cùi chỏ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khuỷu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khuỷu tay ."
+        }
+      ],
+      "mobileId": 30472,
+      "phonetic": "ひじ",
+      "synsets": [
+        {
+          "base_form": "肘",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "エルボー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "肘"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd072e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hai khuỷu tay"
+        }
+      ],
+      "mobileId": 75438,
+      "phonetic": "りょうひじ",
+      "related_words": {
+        "word": [
+          "肘"
+        ]
+      },
+      "word": "両肘"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90f8752",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "elbow joint"
+        }
+      ],
+      "mobileId": 273264,
+      "phonetic": "ちゅうかんせつ",
+      "word": "肘関節"
+    },
+    {
+      "_id": "432518852de0a80625d585a982178a35",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(detachable) elbow rest, arm rest, elbow pad"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "elbow strike (karate)"
+        }
+      ],
+      "mobileId": 232384,
+      "phonetic": "ひじあて",
+      "word": "肘当て"
+    },
+    {
+      "_id": "432518852de0a80625d585a982179720",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "elbow strike (karate)"
+        }
+      ],
+      "mobileId": 232385,
+      "phonetic": "ひじうち",
+      "word": "肘打ち"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be3795b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự sưng và đau khủyu tay"
+        }
+      ],
+      "mobileId": 91062,
+      "phonetic": "テニスひじ",
+      "word": "テニス肘"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9073506",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "olecranoid bursitis, miner's elbow"
+        }
+      ],
+      "mobileId": 256550,
+      "phonetic": "ちゅうとうかつえきのうえん",
+      "word": "肘頭滑液嚢炎"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561ebf1891",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "olecranon bursitis"
+        }
+      ],
+      "mobileId": 254227,
+      "phonetic": "ちゅうとうかつえきほうえん",
+      "word": "肘頭滑液包炎"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

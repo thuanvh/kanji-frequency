@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd921d3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự rung động; đu đưa; xóc nảy lên; rung chuyển"
+        }
+      ],
+      "mobileId": 73455,
+      "phonetic": "ゆら",
+      "related_words": {
+        "word": [
+          "動揺",
+          "揺れる",
+          "揺れ",
+          "揺らす",
+          "揺る",
+          "揺り",
+          "揺らぐ",
+          "揺する",
+          "揺れ動く",
+          "貧乏揺すり"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "揺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "振動",
+                "揺れ",
+                "揺り",
+                "動揺",
+                "震動"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "揺れ",
+                "揺り",
+                "身震い",
+                "震動"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "揺"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd924abc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cái nôi"
+        }
+      ],
+      "mobileId": 73460,
+      "phonetic": "ゆらかご",
+      "related_words": {
+        "word": [
+          "揺",
+          "篭"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "揺篭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "揺り籠",
+                "揺り篭"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "揺篭"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77acfde0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thixotropy"
+        }
+      ],
+      "mobileId": 270069,
+      "phonetic": "ようへんせい",
+      "word": "揺変性"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a928effc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "shaking, swaying"
+        }
+      ],
+      "mobileId": 257579,
+      "phonetic": "ようとう",
+      "word": "揺蕩"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9ad70d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đi lảo đảo, sự loạng choạng"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự lắc, sự giũ; hành động lắc, hành động giũ"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "nhún nhảy, nhịp nhàng (dáng đi, điệu hát...)"
+        }
+      ],
+      "mobileId": 73735,
+      "phonetic": "ゆらどう",
+      "word": "揺動"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9253521",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Oscillatoria (cyanobacteria)"
+        }
+      ],
+      "mobileId": 273955,
+      "phonetic": "ゆれも ユレモ",
+      "word": "揺藻"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00d3475",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v5u, vi",
+          "mean": "lắc lư và lảo đảo, trôi dạt, rung động, nhấp nháy"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "để được thay đổi"
+        }
+      ],
+      "mobileId": 189563,
+      "phonetic": "たゆたう たゆとう",
+      "word": "揺蕩う"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

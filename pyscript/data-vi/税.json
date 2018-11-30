@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad488d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, suf",
+          "mean": "thuế ."
+        }
+      ],
+      "mobileId": 173851,
+      "phonetic": "ぜい",
+      "related_words": {
+        "word": [
+          "消費税",
+          "税関",
+          "税込",
+          "所得税",
+          "税込み",
+          "関税",
+          "税金",
+          "税理士",
+          "免税",
+          "非課税"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "税",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "収税",
+                "賦課",
+                "課税",
+                "公租",
+                "租税",
+                "寄与",
+                "徴税",
+                "税金",
+                "タックス",
+                "公課",
+                "賦税"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "税"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcac589",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thuế bán hàng.+ Một loại thuế đánh vào giao dịch thị trường."
+        }
+      ],
+      "mobileId": 16204,
+      "phonetic": "うりあげぜい",
+      "word": "売上税"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdebb743",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ướp muối thuế"
+        }
+      ],
+      "mobileId": 17241,
+      "phonetic": "しおぜい",
+      "word": "塩税"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdec7d0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuế còn khất lại"
+        }
+      ],
+      "mobileId": 17264,
+      "phonetic": "えんたいぜい",
+      "word": "延滞税"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935bf990",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuế bổ sung"
+        }
+      ],
+      "mobileId": 20844,
+      "phonetic": "かさんぜい",
+      "word": "加算税"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107ee190e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thuế ở thành phố ."
+        }
+      ],
+      "mobileId": 55823,
+      "phonetic": "ふぜい",
+      "word": "府税"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1070e13f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phí cầu cảng ."
+        }
+      ],
+      "mobileId": 52110,
+      "phonetic": "ふとうぜい",
+      "word": "埠頭税"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07f238f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bath tax, hot spring tax"
+        }
+      ],
+      "mobileId": 285005,
+      "phonetic": "にゅうとうぜい",
+      "word": "入湯税"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d45dfc4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuế tài sản"
+        }
+      ],
+      "mobileId": 147956,
+      "phonetic": "ざいさんぜい",
+      "word": "財産税"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e94f3cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tobacco tax, cigarette tax"
+        }
+      ],
+      "mobileId": 252833,
+      "phonetic": "たばこぜい タバコぜい",
+      "word": "たばこ税"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

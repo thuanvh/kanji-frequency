@@ -1,0 +1,360 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10767741d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "嫌でも、その仕事をしなければならない",
+              "mean": "Dù ghét vẫn cứ phải làm công việc đó",
+              "transcription": "いやでも、そのしごとをしなければならない"
+            },
+            {
+              "content": "あの人は何時も不満ばかり言っていて、嫌な人だ",
+              "mean": "Ông ta là một người khó chịu vì suốt ngày than vãn",
+              "transcription": "あのひとはいつもふまんばかりいっていて、いやなひとだ"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "khó chịu; ghét; không vừa ý"
+        },
+        {
+          "examples": [
+            {
+              "content": "毎日宿題をたくさんすることは嫌だ",
+              "mean": "Thật khó chịu khi ngày nào cũng làm nhiều bài tập về nhà",
+              "transcription": "まいにちしゅくだいをたくさんすることはいやだ"
+            },
+            {
+              "content": "私は虫(昆虫)が本当に嫌(嫌い)だ",
+              "mean": "Tôi rất ghét sâu .",
+              "transcription": "わたしはむし(こんちゅう)がほんとうにいや(ぎらい)だ"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "sự khó chịu; sự ghét; điều chán ghét; khó chịu; không thích"
+        }
+      ],
+      "mobileId": 53613,
+      "phonetic": "いや",
+      "related_words": {
+        "word": [
+          "嫌い",
+          "大嫌い",
+          "不機嫌",
+          "好き嫌い",
+          "嫌う",
+          "機嫌",
+          "自己嫌悪",
+          "嫌らしい",
+          "嫌がらせ",
+          "嫌悪"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "嫌",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "疎ましい",
+                "忌まわしい",
+                "不愉快",
+                "厭わしい",
+                "不祥",
+                "鬱陶しい",
+                "不快",
+                "嫌らしい",
+                "厭やらしい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "厭",
+                "汚い",
+                "厭わしい",
+                "意地悪",
+                "いやらしい",
+                "えげつない",
+                "非道い",
+                "嫌らしい"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "嫌"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9486a5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shady online money-making"
+        }
+      ],
+      "mobileId": 275060,
+      "phonetic": "けんちょ けんもう いやもう いやもうけ",
+      "word": "嫌儲"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9df40d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "khó chịu; ghê tởm; đáng ghê tởm; không đứng đắn; vô liêm sỉ; bẩn thỉu; khiêu dâm"
+        }
+      ],
+      "mobileId": 14800,
+      "phonetic": "いやらしい",
+      "related_words": {
+        "word": [
+          "嫌",
+          "らしい"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "嫌らしい",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "疎ましい",
+                "忌まわしい",
+                "不愉快",
+                "厭わしい",
+                "不祥",
+                "鬱陶しい",
+                "不快",
+                "嫌",
+                "厭やらしい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "下劣",
+                "汚い",
+                "不潔",
+                "薄汚い",
+                "えげつない",
+                "汚らわしい",
+                "厭やらしい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "厭",
+                "汚い",
+                "厭わしい",
+                "意地悪",
+                "いやらしい",
+                "えげつない",
+                "非道い",
+                "嫌"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "エッチ",
+                "いやらしい",
+                "卑猥",
+                "妄りがましい",
+                "濫りがわしい",
+                "猥りがわしい",
+                "いかがわしい",
+                "淫ら",
+                "厭やらしい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "粗野",
+                "汚い",
+                "俗っぽい",
+                "低級",
+                "卑しい",
+                "いやらしい",
+                "えげつない",
+                "卑俗",
+                "低俗",
+                "淫ら"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "エッチ",
+                "卑猥",
+                "妄りがましい",
+                "濫りがわしい",
+                "猥りがわしい",
+                "いかがわしい",
+                "淫ら"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "忌まわしい",
+                "厭わしい",
+                "憎い",
+                "憎らしい",
+                "厭やらしい"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "嫌らしい"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0005066",
+      "means": [
+        {
+          "examples": null,
+          "kind": "int",
+          "mean": "no, quit it, no way"
+        }
+      ],
+      "mobileId": 280961,
+      "phonetic": "いやや やや",
+      "word": "嫌や"
+    },
+    {
+      "_id": "432518852de0a80625d585a982091bbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hatred of things Korean (by Japanese)"
+        }
+      ],
+      "mobileId": 231933,
+      "phonetic": "けんかん",
+      "word": "嫌韓"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9c8ffa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "không bằng lòng, không vui lòng, miễn cưỡng, không thiện ý"
+        },
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "bất đắc dự, miễn cưỡng"
+        },
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "miễn cưỡng; bất đắc dự, không tự nguyện, không sẵn lòng, trơ trơ, khó bảo, khó làm"
+        }
+      ],
+      "mobileId": 14758,
+      "phonetic": "いや々",
+      "related_words": {
+        "word": [
+          "嫌"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "嫌々",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "止むを得ず",
+                "否々乍ら",
+                "不承不承",
+                "仕方無く",
+                "仕方無しに",
+                "渋渋",
+                "否否乍ら",
+                "渋々",
+                "嫌嫌"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "しぶしぶ",
+                "嫌嫌"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "嫌々"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193da8196",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính khí; tâm tính; tâm trạng"
+        }
+      ],
+      "mobileId": 24831,
+      "phonetic": "そしいや",
+      "word": "譏嫌"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02b16f3",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adv",
+          "mean": "khủng khiếp"
+        }
+      ],
+      "mobileId": 200019,
+      "phonetic": "いやに",
+      "word": "嫌に"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9db8fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảm giác khó chịu"
+        }
+      ],
+      "mobileId": 14793,
+      "phonetic": "いやなきもち",
+      "word": "嫌な気持"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06e8056",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "bad weather, nasty weather"
+        }
+      ],
+      "mobileId": 284502,
+      "phonetic": "いやなてんき",
+      "word": "嫌な天気"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

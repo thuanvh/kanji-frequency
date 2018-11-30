@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0509354",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "loss, defeat"
+        },
+        {
+          "examples": null,
+          "kind": "suf, ctr",
+          "mean": "counter for losses"
+        }
+      ],
+      "mobileId": 209441,
+      "opposite_word": [
+        "勝"
+      ],
+      "phonetic": "はい",
+      "word": "敗"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8c221a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "thất bại một lần"
+        }
+      ],
+      "mobileId": 14237,
+      "phonetic": "いちはい",
+      "word": "一敗"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd74bbb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự thất bại"
+        }
+      ],
+      "mobileId": 72469,
+      "phonetic": "はいる",
+      "synsets": [
+        {
+          "base_form": "敗る",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "亡ぼす",
+                "滅ぼす",
+                "破る",
+                "切り枯らす",
+                "壊す",
+                "撃つ",
+                "崩す"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "破る",
+                "割る",
+                "砕く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "打破る",
+                "破る",
+                "打ち破る",
+                "倒す"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "破る",
+                "壊す"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "敗る"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07f58ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "losing move (go, shogi), move that costs one the game"
+        }
+      ],
+      "mobileId": 285011,
+      "phonetic": "はいちゃく",
+      "word": "敗着"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c14d39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "vận số, vận mệnh, số phận"
+        }
+      ],
+      "mobileId": 39686,
+      "phonetic": "きょうはい",
+      "related_words": {
+        "word": [
+          "興"
+        ]
+      },
+      "word": "興敗"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde0e69f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "nước vôi, sự thanh minh; sự minh oan, quét vôi trắng, thanh minh; minh oan"
+        }
+      ],
+      "mobileId": 75943,
+      "phonetic": "れいはい",
+      "word": "零敗"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6faf3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "certain defeat"
+        }
+      ],
+      "mobileId": 218678,
+      "phonetic": "ひっぱい",
+      "word": "必敗"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680194be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự thất bại; sự bại diệt"
+        }
+      ],
+      "mobileId": 50,
+      "phonetic": "はいめつ",
+      "word": "敗滅"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900efe1546",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bại tướng, tướng bại trận"
+        }
+      ],
+      "mobileId": 119126,
+      "phonetic": "はいしょう",
+      "word": "敗将"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d1830e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ủng hộ sự thất bại"
+        }
+      ],
+      "mobileId": 146516,
+      "phonetic": "さいはい",
+      "related_words": {
+        "word": [
+          "再"
+        ]
+      },
+      "word": "再敗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

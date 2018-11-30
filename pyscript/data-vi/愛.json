@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f7462b92f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜の父性愛",
+              "mean": "tình yêu của người cha",
+              "transcription": "〜のふせいあい"
+            },
+            {
+              "content": "〜に対する大きな愛",
+              "mean": "tình yêu bao la đối với",
+              "transcription": "〜にたいするおおきなあい"
+            },
+            {
+              "content": "〜に対する異常な愛",
+              "mean": "tình yêu vô bờ bến đối với",
+              "transcription": "〜にたいするいじょうなあい"
+            },
+            {
+              "content": "〜に対する愛",
+              "mean": "tình yêu đối với ai đó",
+              "transcription": "〜にたいするあい"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "tình yêu; tình cảm"
+        }
+      ],
+      "mobileId": 98896,
+      "opposite_word": [
+        "憎"
+      ],
+      "phonetic": "あい",
+      "related_words": {
+        "word": [
+          "可愛い",
+          "愛する",
+          "同性愛",
+          "恋愛",
+          "愛情",
+          "愛人",
+          "最愛",
+          "愛らしい",
+          "愛液",
+          "愛好家"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "愛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "愛情",
+                "慈愛",
+                "慈",
+                "好意",
+                "情愛",
+                "慈しみ",
+                "好き",
+                "ラブ",
+                "暖かさ",
+                "愛着",
+                "優しさ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "愛情",
+                "慈愛",
+                "慈",
+                "情愛",
+                "慈しみ",
+                "ラブ",
+                "仁愛",
+                "愛着"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "愛情",
+                "恋愛",
+                "恋"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "温もり"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "愛"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ee4f74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tình yêu mẹ"
+        }
+      ],
+      "mobileId": 7594,
+      "opposite_word": [
+        "父性愛"
+      ],
+      "phonetic": "ぼせいあい",
+      "related_words": {
+        "word": [
+          "愛",
+          "母",
+          "性",
+          "性愛"
+        ]
+      },
+      "word": "母性愛"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80e09b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tình yêu cho một có hometown"
+        }
+      ],
+      "mobileId": 33943,
+      "phonetic": "きょうどあい",
+      "word": "郷土愛"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74662267",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái máy được ưa thích ."
+        }
+      ],
+      "mobileId": 98941,
+      "phonetic": "あいき",
+      "related_words": {
+        "word": [
+          "愛",
+          "機"
+        ]
+      },
+      "word": "愛機"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91e47bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "affection, strong feeling of love"
+        }
+      ],
+      "mobileId": 273743,
+      "phonetic": "あいねん",
+      "word": "愛念"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95bf772",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "loving listening to something, loving to listen to something"
+        }
+      ],
+      "mobileId": 259256,
+      "phonetic": "あいちょう",
+      "word": "愛聴"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fe59bc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tình yêu thuần khiết; tình yêu trong sáng ."
+        }
+      ],
+      "mobileId": 188730,
+      "phonetic": "きよいあい",
+      "word": "清い愛"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd287be5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tinh dịch"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "với, kể cả"
+        }
+      ],
+      "mobileId": 11080,
+      "phonetic": "あいえき",
+      "related_words": {
+        "word": [
+          "愛",
+          "液"
+        ]
+      },
+      "word": "愛液"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd294ca3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "há hốc mồm ra"
+        }
+      ],
+      "mobileId": 11105,
+      "phonetic": "",
+      "word": "愛餐"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab19292",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "attachment, craving"
+        }
+      ],
+      "mobileId": 229078,
+      "phonetic": "とんあい とんない どんあい",
+      "word": "貪愛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

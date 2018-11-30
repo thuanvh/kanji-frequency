@@ -1,0 +1,259 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adacd03e4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "味をつける",
+              "mean": "nêm gia vị",
+              "transcription": "あじをつける"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "gia vị"
+        },
+        {
+          "examples": [
+            {
+              "content": "塩味",
+              "mean": "vị muối, vị mặn .",
+              "transcription": "しおあじ"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "vị; mùi vị"
+        }
+      ],
+      "mobileId": 80226,
+      "phonetic": "あじ",
+      "related_words": {
+        "word": [
+          "趣味",
+          "意味",
+          "調味料",
+          "美味しい",
+          "地味",
+          "意味する",
+          "味噌",
+          "味方",
+          "味わう",
+          "不味い"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "味",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "風情",
+                "口当たり",
+                "味覚",
+                "匂い"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "風情",
+                "口当たり",
+                "味覚",
+                "後味",
+                "好み",
+                "嗜好"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "味覚"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "味"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2d62ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự xanh tươi; màu xanh; rau xanh (trang trí cho món ăn bắt mắt)"
+        }
+      ],
+      "mobileId": 11244,
+      "phonetic": "あおみ",
+      "word": "青味"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682f3ee0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếp thị tình cảm"
+        }
+      ],
+      "mobileId": 1529,
+      "phonetic": "ばみ",
+      "related_words": {
+        "word": [
+          "味",
+          "場"
+        ]
+      },
+      "word": "場味"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c966e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "có duyên, duyên dáng, yêu kiều, phong nhã, thanh nhã"
+        }
+      ],
+      "mobileId": 24297,
+      "phonetic": "みやびみ",
+      "related_words": {
+        "word": [
+          "味"
+        ]
+      },
+      "word": "雅味"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d746e1a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼は人情味のあふれる男だ.",
+              "mean": "Anh ta là người giàu tình thương.",
+              "transcription": "かれはにんじょうみのあふれるおとこだ."
+            },
+            {
+              "content": "人情味をなしで済ませる",
+              "mean": "Kết cục không có tính nhân văn. .",
+              "transcription": "にんじょうみをなしですませる"
+            }
+          ],
+          "kind": "n",
+          "mean": "Tình người; tính nhân văn"
+        }
+      ],
+      "mobileId": 143429,
+      "phonetic": "にんじょうみ",
+      "related_words": {
+        "word": [
+          "人",
+          "味",
+          "情"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "人情味",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ヒューマニティー",
+                "人情",
+                "仁愛",
+                "仁心",
+                "仁",
+                "人間味"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "人情味"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561ebf12f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "seasoning (esp. in food industry with additives), flavoring"
+        }
+      ],
+      "mobileId": 254225,
+      "phonetic": "ちゃくみ",
+      "word": "着味"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a8b3ab",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "trứng hương vị, trứng luộc ngâm xì dầu"
+        }
+      ],
+      "mobileId": 286342,
+      "phonetic": "あじたま",
+      "word": "味玉"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3eebde",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bề dày; sâu sắc"
+        }
+      ],
+      "mobileId": 11806,
+      "phonetic": "あつみ",
+      "related_words": {
+        "word": [
+          "味"
+        ]
+      },
+      "word": "厚味"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19339a535",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thích thú"
+        }
+      ],
+      "mobileId": 19765,
+      "phonetic": "かいあじ",
+      "word": "快味"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934c675c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cho thêm một chút gia vị vào để mùi vị ngon hơn"
+        }
+      ],
+      "mobileId": 20356,
+      "phonetic": "かくしみ",
+      "related_words": {
+        "word": [
+          "味"
+        ]
+      },
+      "word": "隠し味"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

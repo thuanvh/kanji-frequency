@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a98228fd0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "int",
+          "mean": "ouch, ow"
+        }
+      ],
+      "mobileId": 232930,
+      "phonetic": "いた",
+      "related_words": {
+        "word": [
+          "痛い",
+          "筋肉痛",
+          "腹痛",
+          "頭痛",
+          "痛み",
+          "生理痛",
+          "腰痛",
+          "苦痛",
+          "胃痛",
+          "痛み止め"
+        ]
+      },
+      "word": "痛"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2a74fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "buồn đau do nhà có tang; đau khổ; đau buồn"
+        }
+      ],
+      "mobileId": 11147,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "痛"
+        ]
+      },
+      "word": "哀痛"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9edfe64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "earache, aural pain, ear pain, otalgia, otodynia"
+        }
+      ],
+      "mobileId": 280373,
+      "phonetic": "じつう",
+      "word": "耳痛"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777c2bfd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "referred pain"
+        }
+      ],
+      "mobileId": 268479,
+      "phonetic": "かんれんつう",
+      "word": "関連痛"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95bae2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "car painted with anime characters, painful car (because some people consider it painful to look at)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Italian car, European car"
+        }
+      ],
+      "mobileId": 259246,
+      "phonetic": "いたしゃ イタしゃ",
+      "word": "痛車"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca067dd39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "myalgia, muscular pain"
+        }
+      ],
+      "mobileId": 284285,
+      "phonetic": "きんつう",
+      "word": "筋痛"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bdc36b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ovulation pain"
+        }
+      ],
+      "mobileId": 246864,
+      "phonetic": "はいらんつう",
+      "word": "排卵痛"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777c393e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Đau khớp"
+        }
+      ],
+      "mobileId": 268482,
+      "phonetic": "かんせつつう",
+      "word": "関節痛"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a93b05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pancreatic pain, pancrealgia, pancreatalgia"
+        }
+      ],
+      "mobileId": 269951,
+      "phonetic": "すいぞうつう",
+      "word": "膵臓痛"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82ce918",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chứng đau cơ bắp"
+        }
+      ],
+      "mobileId": 34938,
+      "phonetic": "きんにくつう",
+      "related_words": {
+        "word": [
+          "肉",
+          "筋肉",
+          "痛",
+          "筋"
+        ]
+      },
+      "word": "筋肉痛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

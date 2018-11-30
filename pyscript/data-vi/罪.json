@@ -1,0 +1,251 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280273872fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na, adj-no",
+          "mean": "tội ác; tội lỗi"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-na, adj-no",
+          "mean": "tội; lỗi ."
+        }
+      ],
+      "mobileId": 30024,
+      "opposite_word": [
+        "功"
+      ],
+      "phonetic": "つみ",
+      "related_words": {
+        "word": [
+          "犯罪者",
+          "犯罪",
+          "無罪",
+          "謝罪",
+          "罪悪感",
+          "有罪",
+          "断罪",
+          "罪人",
+          "冤罪",
+          "贖罪"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "罪",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "辟",
+                "犯行",
+                "事犯",
+                "罪科",
+                "重犯",
+                "辜",
+                "罪過",
+                "刑事犯",
+                "重罪",
+                "犯罪"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "悪行",
+                "罪科",
+                "悪事",
+                "罪悪",
+                "罪過"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "罪科",
+                "罪業",
+                "辜",
+                "罪悪",
+                "罪過",
+                "不浄",
+                "不善"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "不埒",
+                "悪行",
+                "不仕末",
+                "悪事",
+                "不行跡",
+                "非行",
+                "不始末"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "間違い",
+                "過怠",
+                "過誤",
+                "悪行",
+                "越度",
+                "錯誤",
+                "悪事",
+                "過失",
+                "過ち",
+                "誤り",
+                "誤謬"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "罪業"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "罪"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf93f36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chiếm hữu gian lận"
+        }
+      ],
+      "mobileId": 17666,
+      "phonetic": "おうりょうざい",
+      "word": "横領罪"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0564498",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prisoner, convict"
+        }
+      ],
+      "mobileId": 283735,
+      "phonetic": "ざいしゅう",
+      "word": "罪囚"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca033e94f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evidence (of a crime)"
+        }
+      ],
+      "mobileId": 282616,
+      "phonetic": "ざいしょう",
+      "word": "罪証"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd13f5a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tội ác chưa hoàn thành"
+        }
+      ],
+      "mobileId": 69432,
+      "phonetic": "みすいざい",
+      "related_words": {
+        "word": [
+          "未",
+          "罪",
+          "未遂"
+        ]
+      },
+      "word": "未遂罪"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e310278",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tội ác phá thai bất hợp pháp"
+        }
+      ],
+      "mobileId": 112592,
+      "phonetic": "だたいざい",
+      "word": "堕胎罪"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f79997",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sex crimes"
+        }
+      ],
+      "mobileId": 280683,
+      "phonetic": "かんいんさい",
+      "word": "姦淫罪"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f98ca02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tội sát nhân ."
+        }
+      ],
+      "mobileId": 187416,
+      "phonetic": "さつじんざい",
+      "related_words": {
+        "word": [
+          "人",
+          "罪",
+          "殺人"
+        ]
+      },
+      "word": "殺人罪"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6824a201",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tội vô liêm sỉ, vô đạo đức (như trộm cắp, lừa đảo, sát nhân ...)"
+        }
+      ],
+      "mobileId": 1172,
+      "phonetic": "はれんちざい",
+      "word": "破廉恥罪"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd63147c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tội không giúp đỡ người bị nạn"
+        }
+      ],
+      "mobileId": 12961,
+      "phonetic": "いきざい",
+      "word": "遺棄罪"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

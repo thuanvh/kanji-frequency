@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e03c49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "toán ."
+        }
+      ],
+      "mobileId": 110467,
+      "phonetic": "たい",
+      "word": "隊"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8259383",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đế quốc bảo vệ"
+        }
+      ],
+      "mobileId": 34696,
+      "phonetic": "きんえいたい",
+      "word": "禁衛隊"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b0d754",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lực lượng tấn công"
+        }
+      ],
+      "mobileId": 39145,
+      "phonetic": "こうげきたい",
+      "word": "攻撃隊"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adab86695",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "小合唱隊",
+              "mean": "đội tiểu hợp xướng",
+              "transcription": "しょうがっしょうたい"
+            },
+            {
+              "content": "合唱隊員",
+              "mean": "người trong dàn hợp xướng .",
+              "transcription": "がっしょうたいいん"
+            }
+          ],
+          "kind": "n",
+          "mean": "đội hợp xướng; nhóm hợp xướng; dàn hợp xướng"
+        }
+      ],
+      "mobileId": 79859,
+      "phonetic": "がっしょうたい",
+      "related_words": {
+        "word": [
+          "合唱"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "合唱隊",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "クワイア",
+                "合唱団"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "合唱団",
+                "コーラス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "合唱隊"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda9f438",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dự trữ đoàn"
+        }
+      ],
+      "mobileId": 74235,
+      "phonetic": "よびたい",
+      "related_words": {
+        "word": [
+          "予備"
+        ]
+      },
+      "word": "予備隊"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74c14c37",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "南極探検隊",
+              "mean": "đoàn thám hiểm Nam cực .",
+              "transcription": "なんきょくたんけんたい"
+            }
+          ],
+          "kind": "n",
+          "mean": "đoàn thám hiểm"
+        }
+      ],
+      "mobileId": 100321,
+      "phonetic": "たんけんたい",
+      "related_words": {
+        "word": [
+          "探検"
+        ]
+      },
+      "word": "探検隊"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dce8f56",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đội thám thính; đội trinh sát ."
+        }
+      ],
+      "mobileId": 144988,
+      "phonetic": "ていさつたい",
+      "related_words": {
+        "word": [
+          "偵察",
+          "察",
+          "偵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "偵察隊",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "斥候"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "偵察隊"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779bae4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "research team, investigative team, survey team, reconnaissance team, investigative commission, fact-finding party"
+        }
+      ],
+      "mobileId": 269494,
+      "phonetic": "ちょうさたい",
+      "word": "調査隊"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9685357",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "disbanding (usu. a military unit), breaking up"
+        }
+      ],
+      "mobileId": 259640,
+      "phonetic": "かいたい",
+      "word": "解隊"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd891042",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một phe (đảng); một tốp; một công ty; một tổ"
+        }
+      ],
+      "mobileId": 14138,
+      "phonetic": "いちたい, いったい",
+      "word": "一隊"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

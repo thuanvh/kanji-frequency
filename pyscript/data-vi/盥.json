@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a960f76",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chậu ."
+        }
+      ],
+      "mobileId": 172767,
+      "phonetic": "たらい",
+      "word": "盥"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d113445",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "washing one's hands and rinsing one's mouth"
+        }
+      ],
+      "mobileId": 215646,
+      "phonetic": "かんそう",
+      "word": "盥漱"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d10d4f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tub boat, traditional round coracle-like boat"
+        }
+      ],
+      "mobileId": 215634,
+      "phonetic": "たらいぶね",
+      "word": "盥船"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

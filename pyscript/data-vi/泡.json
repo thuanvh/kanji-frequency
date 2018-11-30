@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fc17ab5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "せっかくの努力もすべて水の泡だった",
+              "mean": "mọi nỗ lực rút cục cũng tan thành bọt nước",
+              "transcription": "せっかくのどりょくもすべてみずのあわだった"
+            },
+            {
+              "content": "せっけんの泡",
+              "mean": "bong bóng xà phòng .",
+              "transcription": "せっけんのあわ"
+            }
+          ],
+          "kind": "n",
+          "mean": "bong bóng; bọt"
+        }
+      ],
+      "mobileId": 188099,
+      "phonetic": "あわ",
+      "related_words": {
+        "word": [
+          "泡沫",
+          "発泡",
+          "水泡",
+          "発泡剤",
+          "泡立てる",
+          "泡立て器",
+          "泡盛"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "泡",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "バブル",
+                "水泡",
+                "泡沫"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "水泡",
+                "泡沫"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "泡"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94c807c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frothing at the mouth"
+        }
+      ],
+      "mobileId": 258738,
+      "phonetic": "こうかくあわ",
+      "word": "口角泡"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a0457b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jacuzzi, whirlpool bath, bubble bath"
+        }
+      ],
+      "mobileId": 261405,
+      "phonetic": "あわぶろ",
+      "word": "泡風呂"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd532ab8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buồng (phòng, hộp) bọt"
+        }
+      ],
+      "mobileId": 12451,
+      "phonetic": "あわばこ",
+      "word": "泡箱"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f37ad6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "car wash (esp. hand car wash)"
+        }
+      ],
+      "mobileId": 264048,
+      "phonetic": "あわせんしゃ",
+      "word": "泡洗車"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3acad53c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Meliosma myriantha"
+        }
+      ],
+      "mobileId": 229897,
+      "phonetic": "あわぶき アワブキ",
+      "word": "泡吹"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05d8d43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pao cai, pow tsai, pickled vegetable, usu. cabbage, found in Szechuan cuisine"
+        }
+      ],
+      "mobileId": 283968,
+      "phonetic": "パオツァイ",
+      "word": "泡菜"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90c6c74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bubbles and shadows, something transient"
+        }
+      ],
+      "mobileId": 273163,
+      "phonetic": "ほうえい ほうよう",
+      "word": "泡影"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9438976",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp, v5t",
+          "mean": "bong bóng, bọt"
+        }
+      ],
+      "mobileId": 274923,
+      "phonetic": "あわがたつ",
+      "word": "泡が立つ"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933954d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sepiolite"
+        }
+      ],
+      "mobileId": 19756,
+      "phonetic": "うみあわせき",
+      "word": "海泡石"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

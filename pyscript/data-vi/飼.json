@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568012ab720",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼女は夫よりも飼犬の方に愛情を感じている",
+              "mean": "Cô ấy dành sự quan tâm tới con chó của mình còn hơn cả tới chồng",
+              "transcription": "かのじょはおっとよりも飼犬のほうにあいじょうをかんじている"
+            },
+            {
+              "content": "子どもたちを守るため、飼犬に口輪をはめた",
+              "mean": "tôi đã đeo rọ mõm cho con chó để bảo đảm an toàn cho lũ trẻ .",
+              "transcription": "こどもたちをまもるため、 飼犬にくちわをはめた"
+            }
+          ],
+          "kind": "n",
+          "mean": "Chó nuôi; chó nhà; chó"
+        }
+      ],
+      "mobileId": 42474,
+      "phonetic": "かいいぬ",
+      "word": "飼犬"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aad67e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "domestic rabbit (variety of European rabbit, Oryctolagus cuniculus)"
+        }
+      ],
+      "mobileId": 228935,
+      "phonetic": "かいうさぎ",
+      "word": "飼兎"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

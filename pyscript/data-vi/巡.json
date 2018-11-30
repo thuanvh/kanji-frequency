@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c45bc4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf, ctr",
+          "mean": "counter for tours, cycles, rounds, circuits, etc."
+        }
+      ],
+      "mobileId": 270808,
+      "phonetic": "じゅん",
+      "word": "巡"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930d4b32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuần dương hạm hạng hai"
+        }
+      ],
+      "mobileId": 18333,
+      "phonetic": "きのとじゅん",
+      "related_words": {
+        "word": [
+          "乙"
+        ]
+      },
+      "word": "乙巡"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0581d50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "light cruiser"
+        }
+      ],
+      "mobileId": 283795,
+      "phonetic": "けいじゅん",
+      "word": "軽巡"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3b53a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "patrolling"
+        }
+      ],
+      "mobileId": 225305,
+      "phonetic": "じゅんけい",
+      "word": "巡警"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca049b1b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "heavy cruiser"
+        }
+      ],
+      "mobileId": 283323,
+      "phonetic": "じゅうじゅん",
+      "word": "重巡"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95253752",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đế quốc đến thăm"
+        }
+      ],
+      "mobileId": 57287,
+      "phonetic": "めぐかり",
+      "word": "巡狩"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a650809",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tuần dương hạm bọc sắt ."
+        }
+      ],
+      "mobileId": 172000,
+      "phonetic": "こうじゅん",
+      "related_words": {
+        "word": [
+          "甲"
+        ]
+      },
+      "word": "甲巡"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

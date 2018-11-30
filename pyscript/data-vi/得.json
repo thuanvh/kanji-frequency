@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74247ad9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "覚えただけ得だ",
+              "mean": "nhớ được sẽ có lợi",
+              "transcription": "おぼえただけとくだ"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "có lợi"
+        },
+        {
+          "examples": [
+            {
+              "content": "損をして得を取る",
+              "mean": "chuyển lỗ thành lãi",
+              "transcription": "そんをしてとくをとる"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "sự ích lợi; lãi"
+        }
+      ],
+      "mobileId": 97991,
+      "opposite_word": [
+        "失",
+        "損"
+      ],
+      "phonetic": "とく",
+      "related_words": {
+        "word": [
+          "取得",
+          "得意",
+          "得意先",
+          "得る",
+          "獲得",
+          "得点",
+          "納得",
+          "自業自得",
+          "説得",
+          "説得力"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "得",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "妙味",
+                "便益",
+                "プラス",
+                "利",
+                "ゲイン",
+                "益"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "得"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a82414a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the unobtainable (that which cannot be known)"
+        }
+      ],
+      "mobileId": 227555,
+      "phonetic": "ふかとく",
+      "word": "不可得"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dddc031",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf, adj-i",
+          "mean": "unable to..., cannot ..."
+        }
+      ],
+      "mobileId": 222283,
+      "phonetic": "えない",
+      "word": "得ない"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0badd24",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "profiting by escaping (from punishment, payment, etc.)"
+        }
+      ],
+      "mobileId": 286956,
+      "phonetic": "にげとく",
+      "word": "逃げ得"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03fb910",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "meaningless, pointless"
+        }
+      ],
+      "mobileId": 283008,
+      "phonetic": "だれとく",
+      "word": "誰得"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02b9988",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-na, adj-no",
+          "mean": "mặc cả, giá trị tốt, giá rẻ"
+        }
+      ],
+      "mobileId": 200038,
+      "phonetic": "おとく",
+      "word": "お得"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81f6792",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không có trừng phạt nào cho một samurai giết một người thường dân"
+        }
+      ],
+      "mobileId": 34502,
+      "phonetic": "きりえ",
+      "word": "切り得"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0e38a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đứng; lấy dáng điệu"
+        }
+      ],
+      "mobileId": 69243,
+      "phonetic": "みえ",
+      "word": "見得"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a4f9cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "loss of a low-ranked wrestler in the extra eighth bout in the tournament"
+        }
+      ],
+      "mobileId": 212137,
+      "phonetic": "まけどく",
+      "word": "負け得"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c044bccb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv-to, adj-t",
+          "mean": "triumphantly, proudly"
+        }
+      ],
+      "mobileId": 209054,
+      "phonetic": "とくとく",
+      "word": "得々"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

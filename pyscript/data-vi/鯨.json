@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568014462f2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鯨の背のような",
+              "mean": "giống như lưng cá voi",
+              "transcription": "くじらのせのような"
+            },
+            {
+              "content": "鯨が水面に躍り出ること",
+              "mean": "cá voi nổi trên mặt nước",
+              "transcription": "くじらがすいめんにおどりでること"
+            },
+            {
+              "content": "遊泳中の鯨",
+              "mean": "cá voi lúc đang chơi đùa",
+              "transcription": "ゆうえいちゅうのくじら"
+            },
+            {
+              "content": "全長＿メートルの鯨",
+              "mean": "cá voi dài bao nhiêu mét",
+              "transcription": "ぜんちょう＿メートルのくじら"
+            },
+            {
+              "content": "しろながす鯨",
+              "mean": "cá voi xanh .",
+              "transcription": "しろながすくじら"
+            }
+          ],
+          "kind": "n",
+          "mean": "cá voi"
+        }
+      ],
+      "mobileId": 42920,
+      "phonetic": "くじら",
+      "related_words": {
+        "word": [
+          "捕鯨",
+          "白鯨",
+          "鯨飲"
+        ]
+      },
+      "word": "鯨"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c66444",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sei whale (Balaenoptera borealis)"
+        }
+      ],
+      "mobileId": 213244,
+      "phonetic": "いわしくじら イワシクジラ",
+      "word": "鰯鯨"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae457da6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá voi Minke; cá voi răng nhọn"
+        }
+      ],
+      "mobileId": 129562,
+      "phonetic": "ミンクくじら",
+      "word": "ミンク鯨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a377ba2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "larger whales of family Delphinidae (esp. the pilot whale or blackfish)"
+        }
+      ],
+      "mobileId": 225188,
+      "phonetic": "ごとうくじら ゴトウクジラ",
+      "word": "五島鯨"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5165f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "whale soup"
+        }
+      ],
+      "mobileId": 250649,
+      "phonetic": "くじらじる",
+      "word": "鯨汁"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77089fa0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "obi with a different colour on each side"
+        }
+      ],
+      "mobileId": 264738,
+      "phonetic": "くじらおび",
+      "word": "鯨帯"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3763e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "beaked whale"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Cuvier's beaked whale (Ziphius cavirostris)"
+        }
+      ],
+      "mobileId": 225185,
+      "phonetic": "あかぼうくじら アカボウクジラ",
+      "word": "赤坊鯨"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e817bdb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khổng lồ đánh cá voi"
+        }
+      ],
+      "mobileId": 34256,
+      "phonetic": "",
+      "word": "巨鯨"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02ff534",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Shepherd's beaked whale (Tasmacetus shepherdi)"
+        }
+      ],
+      "mobileId": 282482,
+      "phonetic": "タスマニアくじら タスマニアクジラ",
+      "word": "タスマニア鯨"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dcbbf73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "whale calf"
+        }
+      ],
+      "mobileId": 221717,
+      "phonetic": "こくじら こクジラ",
+      "word": "子鯨"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

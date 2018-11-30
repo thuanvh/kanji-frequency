@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280278c1025",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "花の茎",
+              "mean": "cuống hoa",
+              "transcription": "はなのくき"
+            },
+            {
+              "content": "異常茎",
+              "mean": "cuống khác thường",
+              "transcription": "いじょうくき"
+            },
+            {
+              "content": "アスパラガスの若い茎",
+              "mean": "cọng măng tây non",
+              "transcription": "アスパラガスのわかいくき"
+            },
+            {
+              "content": "ほふく茎",
+              "mean": "cuống rễ",
+              "transcription": "ほふくくき"
+            },
+            {
+              "content": "イネ科の雑草（の茎）",
+              "mean": "(cọng) cỏ mần trầu .",
+              "transcription": "イネかのざっそう（のくき）"
+            }
+          ],
+          "kind": "n",
+          "mean": "cọng; cuống"
+        }
+      ],
+      "mobileId": 31541,
+      "phonetic": "くき",
+      "related_words": {
+        "word": [
+          "陰茎",
+          "包茎",
+          "歯茎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "茎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "柄",
+                "幹"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "殻",
+                "外被",
+                "外皮"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "茎"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77672461",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "salt pickling of a turnip or daikon, incl. leaves and stalk"
+        }
+      ],
+      "mobileId": 267792,
+      "phonetic": "くきづけ",
+      "word": "茎漬"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7723309d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "epigeal stem, (normal) plant stem which is above the ground"
+        }
+      ],
+      "mobileId": 265598,
+      "phonetic": "ちじょうけい",
+      "word": "地上茎"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9739a30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stolon, runner, creeper"
+        }
+      ],
+      "mobileId": 276421,
+      "phonetic": "ほふくけい",
+      "word": "匍匐茎"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d07d606",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "twig tea, stem tea, kukicha, tea made from twigs pruned from the tea plant during its dormant season"
+        }
+      ],
+      "mobileId": 215345,
+      "phonetic": "くきちゃ",
+      "word": "茎茶"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c775fb6c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wakame stem, central rib of the wakame leaf"
+        }
+      ],
+      "mobileId": 267549,
+      "phonetic": "くきわかめ",
+      "word": "茎若布"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd83b241",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một thân cây"
+        }
+      ],
+      "mobileId": 13970,
+      "phonetic": "いちくき",
+      "word": "一茎"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7729d355",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tip of a stem (of a plant)"
+        }
+      ],
+      "mobileId": 265814,
+      "phonetic": "けいちょう",
+      "word": "茎頂"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e594538",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thân cây thẳng"
+        }
+      ],
+      "mobileId": 113892,
+      "phonetic": "ちょくりつくき",
+      "related_words": {
+        "word": [
+          "直",
+          "茎",
+          "直立"
+        ]
+      },
+      "word": "直立茎"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d2345e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "peduncle, pedicle, pedicel"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dick, cock"
+        }
+      ],
+      "mobileId": 216232,
+      "phonetic": "にっけい にくけい",
+      "word": "肉茎"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

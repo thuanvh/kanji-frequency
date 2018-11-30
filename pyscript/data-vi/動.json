@@ -1,0 +1,260 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02cfe7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "motion, change, confusion"
+        }
+      ],
+      "mobileId": 208298,
+      "opposite_word": [
+        "静"
+      ],
+      "phonetic": "どう",
+      "related_words": {
+        "word": [
+          "起動",
+          "再起動",
+          "感動",
+          "動画",
+          "自動車",
+          "移動",
+          "不動産",
+          "動作",
+          "活動",
+          "変動"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "動",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "変位",
+                "移転",
+                "移動",
+                "動き"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "異動",
+                "変わり",
+                "変換",
+                "チェンジ",
+                "転変",
+                "お返し",
+                "転換",
+                "変遷",
+                "変移",
+                "変動",
+                "異状",
+                "変わり目",
+                "変化",
+                "替え",
+                "変更"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "狂い",
+                "めちゃ",
+                "ごたごた",
+                "乱脈",
+                "混乱",
+                "困惑",
+                "取込み",
+                "混同",
+                "無秩序",
+                "狼狽",
+                "狼藉",
+                "当惑",
+                "紛糾",
+                "猥雑",
+                "混迷",
+                "取り込み",
+                "乱雑",
+                "混沌",
+                "雑駁"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "運動",
+                "動き",
+                "提言"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "御釣り",
+                "異動",
+                "多様性",
+                "変わり",
+                "変換",
+                "チェンジ",
+                "転変",
+                "お返し",
+                "転換",
+                "変遷",
+                "変移",
+                "変動",
+                "異状",
+                "変わり目",
+                "変化",
+                "替え",
+                "変更"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "動"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9ad70d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đi lảo đảo, sự loạng choạng"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự lắc, sự giũ; hành động lắc, hành động giũ"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "nhún nhảy, nhịp nhàng (dáng đi, điệu hát...)"
+        }
+      ],
+      "mobileId": 73735,
+      "phonetic": "ゆらどう",
+      "word": "揺動"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec08c07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "động lượng"
+        }
+      ],
+      "mobileId": 117195,
+      "phonetic": "どうりょう",
+      "related_words": {
+        "word": [
+          "量",
+          "動"
+        ]
+      },
+      "word": "動量"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb43c9f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự vững vàng động"
+        }
+      ],
+      "mobileId": 116809,
+      "phonetic": "どうあんてい",
+      "word": "動安定"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2cce52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự chuyển động vi phân"
+        }
+      ],
+      "mobileId": 147151,
+      "phonetic": "さどう",
+      "word": "差動"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d445c8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "drift (e.g. in frequency)"
+        }
+      ],
+      "mobileId": 217277,
+      "phonetic": "ひょうどう",
+      "word": "漂動"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0611dc6",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "đặc tính động"
+        }
+      ],
+      "mobileId": 284080,
+      "phonetic": "どうとくせい",
+      "word": "動特性"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680784fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "sự đập; tiếng đạp, sự rung, sự rung động, sự rộn ràng"
+        }
+      ],
+      "mobileId": 241,
+      "phonetic": "はくどう",
+      "word": "拍動"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09b7f2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "moto perpetuo, perpetual motion"
+        }
+      ],
+      "mobileId": 285920,
+      "phonetic": "むきゅうどう",
+      "word": "無窮動"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ac6037",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "telekinesis, psychokinesis"
+        }
+      ],
+      "mobileId": 212383,
+      "phonetic": "ねんどう",
+      "word": "念動"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

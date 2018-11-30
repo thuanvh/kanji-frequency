@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ce8b54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "cổng; ba-ri-e"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "quan ."
+        }
+      ],
+      "mobileId": 110188,
+      "phonetic": "せき",
+      "related_words": {
+        "word": [
+          "関連",
+          "関係",
+          "玄関",
+          "関連会社",
+          "税関",
+          "通関",
+          "関係者",
+          "関数",
+          "関して",
+          "機関"
+        ]
+      },
+      "word": "関"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a22bec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa khóa; chìa và khoá; điểm mấu chốt"
+        }
+      ],
+      "mobileId": 23063,
+      "phonetic": "せきかぎ",
+      "word": "関鍵"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fd83be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Vatican"
+        }
+      ],
+      "mobileId": 272682,
+      "phonetic": "バチカン ヴァチカン バティカン ヴァティカン",
+      "word": "和地関"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ad33ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự nói bóng gió, sự ám chỉ, lời ám chỉ"
+        }
+      ],
+      "mobileId": 23407,
+      "phonetic": "せきせつ",
+      "word": "関説"
+    },
+    {
+      "_id": "432518852de0a80625d585a982223826",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "relative pronoun"
+        }
+      ],
+      "mobileId": 232707,
+      "phonetic": "かんだい",
+      "word": "関代"
+    },
+    {
+      "_id": "432518852de0a80625d585a982223c31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "relative adverb"
+        }
+      ],
+      "mobileId": 232708,
+      "phonetic": "かんふく",
+      "word": "関副"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db53b05",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự gãy ngắn hoặc sự xả hơi; ru ngủ"
+        }
+      ],
+      "mobileId": 151481,
+      "phonetic": "しょうせき",
+      "word": "少関"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fab041",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "type of fast military boat used from the Warring states period until the Edo period"
+        }
+      ],
+      "mobileId": 264288,
+      "phonetic": "せきぶね",
+      "word": "関船"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fdb423a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hải quan"
+        },
+        {
+          "examples": [
+            {
+              "content": "（中国）海関総署、中国税関",
+              "mean": "Thống đốc hải quan (Trung Quốc), Hải quan Trung Quốc.",
+              "transcription": "（ちゅうごく）うみせきそうしょ、ちゅうごくぜいかん"
+            }
+          ],
+          "kind": "n",
+          "mean": "thuế hải quan"
+        }
+      ],
+      "mobileId": 188520,
+      "phonetic": "かいかん",
+      "word": "海関"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d23773c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "no concern of mine, nothing to do with me"
+        }
+      ],
+      "mobileId": 216238,
+      "phonetic": "われかんせず",
+      "word": "我関せず"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,588 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680108a99c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "川の面",
+              "mean": "mặt sông",
+              "transcription": "かわのめん"
+            }
+          ],
+          "kind": "n",
+          "mean": "bề mặt; mặt"
+        },
+        {
+          "examples": [
+            {
+              "content": "面から火が出る",
+              "mean": "ngượng chín người",
+              "transcription": "めんからひがでる"
+            },
+            {
+              "content": "面を膨らす",
+              "mean": "vênh cái mặt",
+              "transcription": "めんをふくらす"
+            },
+            {
+              "content": "どの面さげてまた来たのか",
+              "mean": "mày còn vác cái mặt mày đến đây à",
+              "transcription": "どのめんさげてまたきたのか"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "bộ mặt; cái mặt"
+        }
+      ],
+      "mobileId": 41912,
+      "phonetic": "つら",
+      "related_words": {
+        "word": [
+          "真面目",
+          "画面",
+          "平面",
+          "面白い",
+          "図面",
+          "面倒",
+          "平面図",
+          "面積",
+          "断面",
+          "地面"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "面",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "表面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "様相",
+                "因子",
+                "局面",
+                "アスペクト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "側面",
+                "片方",
+                "傍",
+                "サイド",
+                "側"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "水平",
+                "平面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仮面",
+                "覆面",
+                "マスク"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "顔",
+                "顔色",
+                "表情",
+                "顔付き"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "顔",
+                "人面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "斜面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "顔"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "上面",
+                "うわべ",
+                "外面",
+                "上側",
+                "上辺",
+                "外",
+                "表面",
+                "表",
+                "上っ面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "上面",
+                "うわべ",
+                "外面",
+                "表層",
+                "上っ側",
+                "表面",
+                "上っ面"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "面"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801087a99",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "テーブル面",
+              "mean": "mặt bàn",
+              "transcription": "テーブルめん"
+            },
+            {
+              "content": "おもて面",
+              "mean": "mặt phải",
+              "transcription": "おもてめん"
+            },
+            {
+              "content": "...の違った面",
+              "mean": "mặt khác",
+              "transcription": "...のちがっためん"
+            }
+          ],
+          "kind": "n",
+          "mean": "mặt; bề ngoài"
+        }
+      ],
+      "mobileId": 41911,
+      "phonetic": "おも",
+      "related_words": {
+        "word": [
+          "真面目",
+          "画面",
+          "平面",
+          "面白い",
+          "図面",
+          "面倒",
+          "平面図",
+          "面積",
+          "断面",
+          "地面"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "面",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "表面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "様相",
+                "因子",
+                "局面",
+                "アスペクト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "側面",
+                "片方",
+                "傍",
+                "サイド",
+                "側"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "水平",
+                "平面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仮面",
+                "覆面",
+                "マスク"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "顔",
+                "顔色",
+                "表情",
+                "顔付き"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "顔",
+                "人面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "斜面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "顔"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "上面",
+                "うわべ",
+                "外面",
+                "上側",
+                "上辺",
+                "外",
+                "表面",
+                "表",
+                "上っ面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "上面",
+                "うわべ",
+                "外面",
+                "表層",
+                "上っ側",
+                "表面",
+                "上っ面"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "面"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680108abb3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bề"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "khía cạnh; phương diện"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "lĩnh vực"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "mặt; bề mặt; đặc điểm của mặt"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "phía"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "trang; tờ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mặt nạ."
+        }
+      ],
+      "mobileId": 41913,
+      "phonetic": "めん",
+      "related_words": {
+        "word": [
+          "真面目",
+          "画面",
+          "平面",
+          "面白い",
+          "図面",
+          "面倒",
+          "平面図",
+          "面積",
+          "断面",
+          "地面"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "面",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "表面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "様相",
+                "因子",
+                "局面",
+                "アスペクト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "側面",
+                "片方",
+                "傍",
+                "サイド",
+                "側"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "水平",
+                "平面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仮面",
+                "覆面",
+                "マスク"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "顔",
+                "顔色",
+                "表情",
+                "顔付き"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "顔",
+                "人面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "斜面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "顔"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "上面",
+                "うわべ",
+                "外面",
+                "上側",
+                "上辺",
+                "外",
+                "表面",
+                "表",
+                "上っ面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "上面",
+                "うわべ",
+                "外面",
+                "表層",
+                "上っ側",
+                "表面",
+                "上っ面"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "面"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681072b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tám mặt; mọi mặt"
+        }
+      ],
+      "mobileId": 536,
+      "phonetic": "はちめん",
+      "related_words": {
+        "word": [
+          "八",
+          "面"
+        ]
+      },
+      "word": "八面"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf6efc7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mặt cắt, tiết diện"
+        }
+      ],
+      "mobileId": 17596,
+      "phonetic": "おうだんめん",
+      "word": "横断面"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde2307d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một kế hoạch"
+        }
+      ],
+      "mobileId": 16924,
+      "phonetic": "えずめん",
+      "word": "絵図面"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193366b28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bề mặt (của) cách mạng"
+        }
+      ],
+      "mobileId": 19660,
+      "phonetic": "かいてんめん",
+      "word": "回転面"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b38972",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mạng (giàn) bay"
+        }
+      ],
+      "mobileId": 39233,
+      "phonetic": "こうしめん",
+      "related_words": {
+        "word": [
+          "子",
+          "面",
+          "格",
+          "格子"
+        ]
+      },
+      "word": "格子面"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ccdb9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trang trí mặt ngoài (của) một vết thương"
+        }
+      ],
+      "mobileId": 62638,
+      "phonetic": "そうめん",
+      "related_words": {
+        "word": [
+          "面",
+          "創"
+        ]
+      },
+      "word": "創面"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd4bb36a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trang trí mặt ngoài - bản vẽ"
+        }
+      ],
+      "mobileId": 71186,
+      "phonetic": "めんが",
+      "related_words": {
+        "word": [
+          "面",
+          "画"
+        ]
+      },
+      "word": "面画"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

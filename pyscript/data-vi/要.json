@@ -1,0 +1,203 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027c2d48f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "戦略的安定性の要",
+              "mean": "điểm chủ chốt của tính ổn định chiến lược .",
+              "transcription": "せんりゃくてきあんていせいのよう"
+            }
+          ],
+          "kind": "n",
+          "mean": "điểm thiết yếu; điểm chủ yếu; điểm chủ chốt"
+        }
+      ],
+      "mobileId": 32520,
+      "phonetic": "かなめ",
+      "word": "要"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937d1f28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đá đỉnh vòm, nguyên tắc cơ bản; yếu tố chủ chốt, yếu tố quyết định (trong một kế hoạch, một chính sách...)"
+        }
+      ],
+      "mobileId": 21902,
+      "phonetic": "よういし",
+      "related_words": {
+        "word": [
+          "石"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "要石",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "柱石",
+                "バックボーン",
+                "支柱",
+                "基幹",
+                "拠所",
+                "幹",
+                "中枢",
+                "大黒柱",
+                "柱",
+                "キーストーン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "要石"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aef10d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "citation required"
+        }
+      ],
+      "mobileId": 231083,
+      "phonetic": "ようしゅってん",
+      "word": "要出典"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd951446",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự xác nhận được yêu cầu"
+        }
+      ],
+      "mobileId": 73551,
+      "phonetic": "ようかくにん",
+      "word": "要確認"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a956b002",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "matter (thing, concept) of high (vital, extreme) importance"
+        }
+      ],
+      "mobileId": 259073,
+      "phonetic": "ゆうよう",
+      "word": "有要"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027c38647",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chú ý cần thiết"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "要注意人物リスト:danh sách đen ."
+        }
+      ],
+      "mobileId": 32538,
+      "phonetic": "ようちゅうい",
+      "word": "要注意"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f6c864",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quan trọng chỉ"
+        }
+      ],
+      "mobileId": 64003,
+      "phonetic": "からだよう",
+      "related_words": {
+        "word": [
+          "体"
+        ]
+      },
+      "word": "体要"
+    },
+    {
+      "_id": "432518852de0a80625d585a982221345",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "requiring medical treatment"
+        }
+      ],
+      "mobileId": 232703,
+      "phonetic": "ようちりょう",
+      "word": "要治療"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9b6a66",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "cần thiết hoặc không cần thiết; tự chọn (những đồ dùng)"
+        }
+      ],
+      "mobileId": 73755,
+      "phonetic": "よういな",
+      "word": "要否"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9c861e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tóm lược; tiêu hóa"
+        }
+      ],
+      "mobileId": 73788,
+      "phonetic": "ようやく",
+      "related_words": {
+        "word": [
+          "訳"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "要訳",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "編修",
+                "ダイジェスト",
+                "要約",
+                "編纂",
+                "編集"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "要訳"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

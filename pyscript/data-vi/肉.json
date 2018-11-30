@@ -1,0 +1,205 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280274c915f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "イスラム教の戒律に従って食肉解体した動物の肉",
+              "mean": "Thịt động vật đã được làm theo giới luật của đạo hồi",
+              "transcription": "いすらむきょうのかいりつにしたがってしょくにくかいたいしたどうぶつのにく"
+            },
+            {
+              "content": "すでに関節ごとに分けてある鳥肉",
+              "mean": "Thịt gà được chia hoàn toàn theo từng khớp .",
+              "transcription": "すでにかんせつごとにわけてあるとりにく"
+            }
+          ],
+          "kind": "n",
+          "mean": "thịt"
+        }
+      ],
+      "mobileId": 30407,
+      "opposite_word": [
+        "霊"
+      ],
+      "phonetic": "にく",
+      "related_words": {
+        "word": [
+          "筋肉",
+          "筋肉痛",
+          "豚肉",
+          "焼肉",
+          "鶏肉",
+          "皮肉",
+          "牛肉",
+          "肉じゃが",
+          "羊肉",
+          "焼き肉"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "肉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "果肉"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "獣肉",
+                "食肉",
+                "ミート",
+                "肉類"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "肉"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68350931",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "boned (esp. (của) thịt lợn)"
+        }
+      ],
+      "mobileId": 1722,
+      "phonetic": "あばらにく",
+      "word": "肋肉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aaf1e71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "adductor muscle (of a bivalve)"
+        }
+      ],
+      "mobileId": 228999,
+      "phonetic": "にくちゅう",
+      "word": "肉柱"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85dc815",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu đen đóng dấu mực; màu đen đóng dấu lên miếng"
+        }
+      ],
+      "mobileId": 36508,
+      "phonetic": "くろにく",
+      "related_words": {
+        "word": [
+          "肉",
+          "黒"
+        ]
+      },
+      "word": "黒肉"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0695115",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dried meat, jerky"
+        }
+      ],
+      "mobileId": 210227,
+      "phonetic": "ほしにく",
+      "word": "干し肉"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada206ff8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thịt đông lạnh ."
+        }
+      ],
+      "mobileId": 77448,
+      "phonetic": "とうにく",
+      "related_words": {
+        "word": [
+          "肉",
+          "凍"
+        ]
+      },
+      "word": "凍肉"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e1fae4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "meat tenderizer, meat mallet"
+        }
+      ],
+      "mobileId": 279984,
+      "phonetic": "にくたたき",
+      "word": "肉たたき"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1500ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(sole of the) paw, pad"
+        }
+      ],
+      "mobileId": 215773,
+      "phonetic": "にくきゅう",
+      "related_words": {
+        "word": [
+          "肉",
+          "球"
+        ]
+      },
+      "word": "肉球"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779829d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, adj-no",
+          "mean": "thick, meaty, fleshy"
+        }
+      ],
+      "mobileId": 269389,
+      "phonetic": "にくあつ",
+      "word": "肉厚"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de57465",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wattle (of a bird's neck)"
+        }
+      ],
+      "mobileId": 222546,
+      "phonetic": "にくだれ",
+      "word": "肉垂れ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

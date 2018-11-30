@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e6fbac7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hoàn toàn, đầy đủ, trọn vẹn"
+        }
+      ],
+      "mobileId": 114608,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "に"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "悉に",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "事細やかに",
+                "逐一",
+                "具に",
+                "詳しく",
+                "詳細",
+                "事細かに",
+                "備に"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ことごとく",
+                "余す所無く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "すっかり",
+                "全く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "万遍無く",
+                "つくづく",
+                "逐一",
+                "すっかり",
+                "具に",
+                "満遍なく",
+                "備に",
+                "全く",
+                "余す所無く"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "悉に"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e24aaa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Susiddhikara Sutra"
+        }
+      ],
+      "mobileId": 263495,
+      "phonetic": "そしつじきょう",
+      "word": "蘇悉地経"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95c361b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "all-or-none law, all-or-none-principle"
+        }
+      ],
+      "mobileId": 259262,
+      "phonetic": "しつむりつ",
+      "word": "悉無律"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

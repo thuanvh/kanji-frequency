@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f36e723",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "朕が忠良なる臣民",
+              "mean": "Những thần dân yêu quý của trẫm! .",
+              "transcription": "ちんがただよしなるしんみん"
+            }
+          ],
+          "kind": "pn, adj-no",
+          "mean": "trẫm (tiếng xưng của nhà vua)"
+        }
+      ],
+      "mobileId": 185834,
+      "phonetic": "ちん",
+      "word": "朕"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f36f240",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "trẫm (tiếng xưng của nhà vua) ."
+        }
+      ],
+      "mobileId": 185835,
+      "phonetic": "ちんおもうに",
+      "word": "朕思うに"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

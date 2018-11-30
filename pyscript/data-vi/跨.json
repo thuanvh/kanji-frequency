@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa73cb266",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "両県に　〜　森林",
+              "mean": "khu rừng trải qua địa phận hai tỉnh giáp nhau",
+              "transcription": "りょうけんに〜しんりん"
+            }
+          ],
+          "kind": "v5r",
+          "mean": "bắc qua; bắc ngang qua; trải qua"
+        },
+        {
+          "examples": [
+            {
+              "content": "馬に　〜",
+              "mean": "cưỡi ngựa .",
+              "transcription": "うまに〜"
+            }
+          ],
+          "kind": "v5r",
+          "mean": "cưỡi; bắc qua; bắc ngang qua"
+        }
+      ],
+      "mobileId": 107670,
+      "phonetic": "またがる",
+      "synsets": [
+        {
+          "base_form": "跨がる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "及ぶ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "跨ぐ"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "跨がる"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9242f83",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "straddle-beam type"
+        }
+      ],
+      "mobileId": 257434,
+      "phonetic": "こざしき",
+      "word": "跨座式"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561eb07d24",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "overpass"
+        }
+      ],
+      "mobileId": 253771,
+      "phonetic": "こどうきょう",
+      "word": "跨道橋"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7981d17",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "住めば都",
+              "mean": "Nếu sống được thì nơi đó là thủ đô (= Ở đâu âu đấy) .",
+              "transcription": "すめばと"
+            }
+          ],
+          "kind": "n",
+          "mean": "thủ đô"
+        }
+      ],
+      "mobileId": 109241,
+      "phonetic": "みやこ",
+      "related_words": {
+        "word": [
+          "東京都",
+          "都合",
+          "都市",
+          "首都",
+          "首都圏",
+          "都会",
+          "都度",
+          "その都度",
+          "不都合",
+          "都内"
+        ]
+      },
+      "word": "都"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d2e8c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Edo"
+        }
+      ],
+      "mobileId": 279509,
+      "phonetic": "こうと",
+      "word": "江都"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9de1d8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Holy City (e.g. Jerusalem, Mecca)"
+        }
+      ],
+      "mobileId": 263371,
+      "phonetic": "せいと",
+      "word": "聖都"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0ba20a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the Russian capital (i.e. Moscow)"
+        }
+      ],
+      "mobileId": 286928,
+      "phonetic": "ろと",
+      "word": "露都"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd2408f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự lớn lên ở thành thị, sự trưởng thành ở thành thị; người trưởng thành ở thành thị"
+        }
+      ],
+      "mobileId": 69951,
+      "phonetic": "とそだち",
+      "word": "都育ち"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd241869",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây cúc tây trung quốc"
+        }
+      ],
+      "mobileId": 69954,
+      "phonetic": "",
+      "word": "都忘"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a39af01",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "secondary capital city (of historical China)"
+        }
+      ],
+      "mobileId": 225255,
+      "phonetic": "ばい と",
+      "word": "陪都"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b66ec7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toàn bộ thủ phủ"
+        }
+      ],
+      "mobileId": 61901,
+      "phonetic": "ぜんと",
+      "related_words": {
+        "word": [
+          "全",
+          "都"
+        ]
+      },
+      "word": "全都"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0992fc7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(national) capital city"
+        }
+      ],
+      "mobileId": 211759,
+      "phonetic": "こくと",
+      "word": "国都"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea7d5ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chung thống đốc"
+        }
+      ],
+      "mobileId": 116409,
+      "phonetic": "みやこただし",
+      "word": "都督"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

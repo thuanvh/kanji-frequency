@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aa35642",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, n-suf",
+          "mean": "bộ"
+        }
+      ],
+      "mobileId": 173015,
+      "phonetic": "しょう",
+      "related_words": {
+        "word": [
+          "省略",
+          "反省",
+          "省エネ",
+          "外務省",
+          "省く",
+          "帰省",
+          "法務省",
+          "文部省",
+          "省庁",
+          "省令"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "省",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "州"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "倹約",
+                "緊縮",
+                "エコノミー",
+                "安上がり",
+                "節倹",
+                "節減",
+                "経済"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "省"
+    },
+    {
+      "_id": "432518852de0a80625d585a9823e5061",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ministry of Justice (1869-1871 CE)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Ministry of Justice (under the ritsuryo system)"
+        }
+      ],
+      "mobileId": 233595,
+      "phonetic": "ぎょうぶしょう うたえただすつかさ うたえのつかさ",
+      "word": "刑部省"
+    },
+    {
+      "_id": "432518852de0a80625d585a98245429c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ministry of Central Affairs (under the ritsuryo system)"
+        }
+      ],
+      "mobileId": 233821,
+      "phonetic": "なかつかさしょう ちゅうむしょう なかのまつりごとのつかさ なかのつかさ",
+      "word": "中務省"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dbd009c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đơn giản hóa (của) một kanji"
+        }
+      ],
+      "mobileId": 151748,
+      "phonetic": "しょうじ",
+      "word": "省字"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e02eb62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Department of Health, Ministry of Health"
+        }
+      ],
+      "mobileId": 248097,
+      "phonetic": "ほけんしょう",
+      "related_words": {
+        "word": [
+          "保",
+          "健",
+          "省",
+          "保健"
+        ]
+      },
+      "word": "保健省"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dfd1057",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ministry of Communications and Transportation (dissolved in 1949)"
+        }
+      ],
+      "mobileId": 223301,
+      "phonetic": "ていしんしょう",
+      "word": "逓信省"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9508540",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "space-saving"
+        }
+      ],
+      "mobileId": 258869,
+      "phonetic": "しょうスペース",
+      "word": "省スペース"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fa9d41d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bộ thủy lợi ."
+        }
+      ],
+      "mobileId": 187703,
+      "phonetic": "すいりしょう",
+      "word": "水利省"
+    },
+    {
+      "_id": "432518852de0a80625d585a982455246",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ministry of Civil Administration (under the ritsuryo system)"
+        }
+      ],
+      "mobileId": 233822,
+      "phonetic": "じぶしょう おさむるつかさ",
+      "word": "治部省"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c095d550",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "government departments, ministries and agencies"
+        }
+      ],
+      "mobileId": 211657,
+      "phonetic": "ふしょう",
+      "word": "府省"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

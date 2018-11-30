@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dd29d79",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "傘をすぼめる",
+              "mean": "thu ô",
+              "transcription": "かさをすぼめる"
+            },
+            {
+              "content": "傘を差す",
+              "mean": "giương ô",
+              "transcription": "かさをさす"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái ô"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dù"
+        },
+        {
+          "examples": [
+            {
+              "content": "アメリカの核の傘に守られた安全保障を享受する",
+              "mean": "Chúng ta hưởng an toàn dưới sự thống trị của ô hạt nhân của Mỹ",
+              "transcription": "アメリカのかくのかさにまもられたあんぜんほしょうをきょうじゅする"
+            },
+            {
+              "content": "傘立てはぬれた傘で一杯だ。",
+              "mean": "Giá để ô toàn là những ô ướt .",
+              "transcription": "かさだてはぬれたかさでいちはいだ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "ô; cái ô"
+        }
+      ],
+      "mobileId": 145036,
+      "phonetic": "かさ",
+      "related_words": {
+        "word": [
+          "日傘",
+          "傘下",
+          "雨傘",
+          "相合傘",
+          "傘立て"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "傘",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "笠"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雨傘",
+                "蛇の目",
+                "蝙蝠",
+                "蝙蝠傘"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "傘"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935b838e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bánh răng nón"
+        }
+      ],
+      "mobileId": 20828,
+      "phonetic": "かさはぐるま",
+      "related_words": {
+        "word": [
+          "車",
+          "傘",
+          "歯",
+          "歯車"
+        ]
+      },
+      "word": "傘歯車"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad6dc26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "umbrella, parasol"
+        }
+      ],
+      "mobileId": 230302,
+      "phonetic": "さしがさ",
+      "word": "差し傘"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935ba9fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người mang theo ô; người có ô dù"
+        }
+      ],
+      "mobileId": 20831,
+      "phonetic": "かさもち",
+      "related_words": {
+        "word": [
+          "傘"
+        ]
+      },
+      "word": "傘持ち"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04f401b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "long-ribbed umbrella (i.e. not folding)"
+        }
+      ],
+      "mobileId": 283496,
+      "phonetic": "なががさ",
+      "word": "長傘"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da3125a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chính nhảy dù"
+        }
+      ],
+      "mobileId": 150898,
+      "phonetic": "しゅかさ",
+      "word": "主傘"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935ae86d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vải (len) may ô; vải may dù"
+        }
+      ],
+      "mobileId": 20809,
+      "phonetic": "かさち",
+      "related_words": {
+        "word": [
+          "傘",
+          "地"
+        ]
+      },
+      "word": "傘地"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938db17c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dù làm bằng giấy và tre"
+        }
+      ],
+      "mobileId": 22432,
+      "phonetic": "とうかさ",
+      "word": "唐傘"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d4097b5e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あのまま傘差さずに歩いてたら ずぶぬれだったね",
+              "mean": "N2",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Mang theo ô, dù"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "かささす",
+      "word": "傘差す"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03a9ba6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "broken umbrella, torn umbrella"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "shredded umbrella plant (Syneilesis palmata)"
+        }
+      ],
+      "mobileId": 282849,
+      "phonetic": "やぶれがさ ヤブレガサ",
+      "word": "破れ傘"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

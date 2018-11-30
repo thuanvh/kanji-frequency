@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dcb55db",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "停学制度の改善",
+              "mean": "cải cách chế độ nghỉ học",
+              "transcription": "ていがくせいどのかいぜん"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự dừng"
+        }
+      ],
+      "mobileId": 144930,
+      "phonetic": "てい",
+      "related_words": {
+        "word": [
+          "停止",
+          "停止する",
+          "バス停",
+          "停電",
+          "停滞",
+          "調停",
+          "停止時間",
+          "停留所",
+          "停車",
+          "調停者"
+        ]
+      },
+      "word": "停"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef962c89b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "end of transmission (radio, television, telephony, etc.), closure of transmission"
+        }
+      ],
+      "mobileId": 275884,
+      "phonetic": "ていは",
+      "word": "停波"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7f0cf92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự dừng của xe điện ."
+        }
+      ],
+      "mobileId": 110788,
+      "phonetic": "でんてい",
+      "word": "電停"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6954fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "driving license suspension"
+        }
+      ],
+      "mobileId": 226755,
+      "phonetic": "めんてい",
+      "word": "免停"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7868e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghỉ ngơi (âm nhạc)"
+        }
+      ],
+      "mobileId": 114860,
+      "phonetic": "とまおと",
+      "related_words": {
+        "word": [
+          "音",
+          "停"
+        ]
+      },
+      "word": "停音"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934f9a97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "huấn luyện dừng gần như mỗi nhà ga"
+        }
+      ],
+      "mobileId": 20452,
+      "phonetic": "かくてい",
+      "word": "各停"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111a83c3",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "mất điện tạm thời"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "しゅんてい",
+      "word": "瞬停"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e788003",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghỉ ngơi (âm nhạc)"
+        }
+      ],
+      "mobileId": 114862,
+      "phonetic": "とまおんぷ",
+      "related_words": {
+        "word": [
+          "音",
+          "音符",
+          "停"
+        ]
+      },
+      "word": "停音符"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eaacd20",
+      "means": [
+        {
+          "examples": "",
+          "kind": "",
+          "mean": "tới sự dừng; tới sự dừng"
+        }
+      ],
+      "mobileId": 116505,
+      "phonetic": "とまる",
+      "related_words": {
+        "word": [
+          "停"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "停まる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "止まる",
+                "留まる"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "止まる",
+                "立ち止まる",
+                "留まる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "停まる"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eaade85",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới đã qua chạy; tới sự chạy mà không dừng"
+        }
+      ],
+      "mobileId": 116507,
+      "phonetic": "とままらずにいく",
+      "word": "停まらずに行く"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

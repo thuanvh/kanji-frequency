@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e783b1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cạo râu"
+        }
+      ],
+      "mobileId": 114855,
+      "phonetic": "そ",
+      "related_words": {
+        "word": [
+          "髭剃り",
+          "剃る",
+          "剃刀"
+        ]
+      },
+      "word": "剃"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955dc168",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "làm sạch shaven; tươi mới là shaven"
+        }
+      ],
+      "mobileId": 59077,
+      "phonetic": "そだて",
+      "related_words": {
+        "word": [
+          "剃"
+        ]
+      },
+      "word": "剃立て"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada40d8b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trọc ."
+        }
+      ],
+      "mobileId": 78043,
+      "phonetic": "そあたま",
+      "word": "剃頭"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df4b9ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "shaving"
+        }
+      ],
+      "mobileId": 223039,
+      "phonetic": "ていもう",
+      "related_words": {
+        "word": [
+          "毛",
+          "剃"
+        ]
+      },
+      "word": "剃毛"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955cd57d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái trán rộng và cao"
+        }
+      ],
+      "mobileId": 59050,
+      "phonetic": "そあげがく",
+      "related_words": {
+        "word": [
+          "上",
+          "額",
+          "剃"
+        ]
+      },
+      "word": "剃上げ額"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef939c794",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hawkweed oxtongue (Picris hieracioides subsp. japonica)"
+        }
+      ],
+      "mobileId": 274620,
+      "phonetic": "こうぞりな コウゾリナ",
+      "word": "髪剃菜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

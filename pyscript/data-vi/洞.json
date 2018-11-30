@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fc96691",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hang; động ."
+        }
+      ],
+      "mobileId": 188255,
+      "phonetic": "ほら",
+      "related_words": {
+        "word": [
+          "洞窟",
+          "鍾乳洞",
+          "空洞",
+          "洞察",
+          "洞穴"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "洞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "洞穴",
+                "空洞",
+                "風穴",
+                "洞窟",
+                "岩屋"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "穴",
+                "穴凹"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "空洞",
+                "空",
+                "穴",
+                "穴凹",
+                "虚"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "洞穴",
+                "空洞",
+                "洞窟",
+                "岩屋"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "洞穴",
+                "洞窟",
+                "岩屋"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "空",
+                "穴",
+                "穴凹",
+                "虚"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "洞"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7778927f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "venous sinus, sinus venosus"
+        }
+      ],
+      "mobileId": 268356,
+      "phonetic": "じょうみゃくどう",
+      "word": "静脈洞"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7737e9e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sinus node, sinoatrial node"
+        }
+      ],
+      "mobileId": 266271,
+      "phonetic": "どうけっせつ",
+      "word": "洞結節"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a966eb45",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vibrissae, whiskers"
+        }
+      ],
+      "mobileId": 259600,
+      "phonetic": "どうもう",
+      "word": "洞毛"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fdbc84b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "海食洞の浸食",
+              "mean": "sự xâm thực hang động ngoài biển .",
+              "transcription": "かいしょくほらのしんしょく"
+            }
+          ],
+          "kind": "n",
+          "mean": "hang động ngoài biển"
+        }
+      ],
+      "mobileId": 188527,
+      "phonetic": "かいしょくどう",
+      "word": "海食洞"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0c9ac6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hollow horn, cavicorn"
+        }
+      ],
+      "mobileId": 215506,
+      "phonetic": "どうかく",
+      "word": "洞角"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77355745",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lava tube"
+        }
+      ],
+      "mobileId": 266188,
+      "phonetic": "ようがんどう",
+      "word": "溶岩洞"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6294ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "druse, globular calcium oxalate crystals, often lining a rock cavity"
+        }
+      ],
+      "mobileId": 226536,
+      "phonetic": "しょうどう",
+      "word": "晶洞"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af1a828",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dongxiao (Chinese bamboo flute similar to a shakuhachi)"
+        }
+      ],
+      "mobileId": 231168,
+      "phonetic": "どうしょう",
+      "word": "洞簫"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9240690",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tree hollow, hollow in a tree"
+        }
+      ],
+      "mobileId": 273916,
+      "phonetic": "じゅどう",
+      "word": "樹洞"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

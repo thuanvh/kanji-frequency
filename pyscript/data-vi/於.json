@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf0ccad",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ở (tại); trong; trên (về)"
+        }
+      ],
+      "mobileId": 17391,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "於ける",
+          "於いて"
+        ]
+      },
+      "word": "於"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02321e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "conj",
+          "mean": "at, in, on"
+        }
+      ],
+      "mobileId": 207972,
+      "phonetic": "おいて",
+      "word": "於て"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a542419",
+      "means": [
+        {
+          "examples": null,
+          "kind": "conj",
+          "mean": "now, at this time"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "as such, for this reason, hence"
+        }
+      ],
+      "mobileId": 226107,
+      "phonetic": "ここにおいて",
+      "word": "此処に於て"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955a2a34",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để trội hơn mỗi sự kính trọng"
+        }
+      ],
+      "mobileId": 58971,
+      "phonetic": "",
+      "word": "全てに於て勝る"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95687e59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "trong tên (của) công lý"
+        }
+      ],
+      "mobileId": 59433,
+      "phonetic": "",
+      "word": "正義の名に於て"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4f3024",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "don't do unto others what you would not have done unto you"
+        }
+      ],
+      "mobileId": 225955,
+      "phonetic": "おのれのほっせざるところひとにほどこすことなかれ",
+      "word": "己所不欲勿施於人"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

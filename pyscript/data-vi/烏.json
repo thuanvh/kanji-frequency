@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a103972",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "烏がピクニックテーブルの上のチーズを食べてしまった",
+              "mean": "Con quạ đã ăn mất pho mát để ở trên bàn ăn ngoài trời",
+              "transcription": "からすがピクニックテーブルのうえのチーズをたべてしまった"
+            },
+            {
+              "content": "烏は自分の子が一番美しいと思っている",
+              "mean": "Quạ luôn nghĩ con mình đẹp nhất",
+              "transcription": "からすはじぶんのこがいちばんうつくしいとおもっている"
+            },
+            {
+              "content": "烏が多すぎてあの公園には行きたくない",
+              "mean": "Tôi không muốn đến công viên đó vì ở đó có quá nhiều quạ",
+              "transcription": "からすがおおすぎてあのこうえんにはいきたくない"
+            }
+          ],
+          "kind": "n",
+          "mean": "quạ"
+        }
+      ],
+      "mobileId": 170557,
+      "phonetic": "からす",
+      "related_words": {
+        "word": [
+          "烏賊",
+          "烏合の衆"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "烏",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鴉"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "烏"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3ae6b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spotted nutcracker (Nucifraga caryocatactes)"
+        }
+      ],
+      "mobileId": 225294,
+      "phonetic": "ほしがらす ホシガラス",
+      "word": "星烏"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd2479d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con quạ"
+        }
+      ],
+      "mobileId": 69967,
+      "phonetic": "ふかやまからす",
+      "word": "深山烏"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9be8a43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crow in the mountains"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "jungle crow (Corvus macrorhynchos)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rook (species of crow, Corvus frugilegus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dark-skinned person"
+        }
+      ],
+      "mobileId": 262368,
+      "phonetic": "やまがらす",
+      "word": "山烏"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938eca92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giấy thô mầu nâu xỉn (trải lót dưới thảm sàn)"
+        }
+      ],
+      "mobileId": 22465,
+      "phonetic": "からすし",
+      "related_words": {
+        "word": [
+          "紙",
+          "烏"
+        ]
+      },
+      "word": "烏紙"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e477079",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sun"
+        }
+      ],
+      "mobileId": 250325,
+      "phonetic": "きんう",
+      "word": "金烏"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92e0980",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Daurian jackdaw (Corvus dauuricus)"
+        }
+      ],
+      "mobileId": 257744,
+      "phonetic": "こくまるがらす コクマルガラス",
+      "word": "黒丸烏"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dcb7c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crow in winter"
+        }
+      ],
+      "mobileId": 263328,
+      "phonetic": "かんがらす",
+      "word": "寒烏"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938ee5f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếng quạ kêu; điềm không lành"
+        }
+      ],
+      "mobileId": 22469,
+      "phonetic": "からすなき",
+      "related_words": {
+        "word": [
+          "烏"
+        ]
+      },
+      "word": "烏鳴き"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193983398",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim hét nước, chim xinclut"
+        }
+      ],
+      "mobileId": 22750,
+      "phonetic": "かわからす",
+      "word": "河烏"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

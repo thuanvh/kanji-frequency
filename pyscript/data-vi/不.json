@@ -1,0 +1,418 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686a5a06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "Liên hợp quốc"
+        },
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "không"
+        }
+      ],
+      "mobileId": 3383,
+      "phonetic": "ふ",
+      "word": "不"
+    },
+    {
+      "_id": "432518852de0a80625d585a982663829",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nothing increases or decreases (because all things are void)"
+        }
+      ],
+      "mobileId": 234867,
+      "phonetic": "ふぞうふげん",
+      "word": "不増不減"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688e6d29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khó chịu; hoàng đế có bệnh; sự bất hạnh"
+        }
+      ],
+      "mobileId": 4523,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "不予",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "不祝儀",
+                "不幸せ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "不予"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688f3611",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "vô lý; vô lý"
+        }
+      ],
+      "mobileId": 4542,
+      "phonetic": "ふり",
+      "word": "不理"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68918298",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng hóa cấp thấp; sản phẩm có sai sót"
+        }
+      ],
+      "mobileId": 4621,
+      "opposite_word": [
+        "良品"
+      ],
+      "phonetic": "ふりょうひん",
+      "related_words": {
+        "word": [
+          "品",
+          "良品"
+        ]
+      },
+      "word": "不良品"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689949ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "vụng về (làm việc); nghèo hình thành; ở nhà; phàn nàn"
+        }
+      ],
+      "mobileId": 4860,
+      "opposite_word": [
+        "端正"
+      ],
+      "phonetic": "ぶさいく",
+      "synsets": [
+        {
+          "base_form": "不細工",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "不格好",
+                "下手",
+                "拙い",
+                "不器用",
+                "ぎこちない",
+                "不味い"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "不格好",
+                "不様",
+                "無様"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "醜い",
+                "厭",
+                "見苦しい",
+                "不味い",
+                "格好悪い",
+                "格好の悪い",
+                "まずい"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "不細工"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689a25ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự không thích; sự quan tâm"
+        }
+      ],
+      "mobileId": 4893,
+      "phonetic": "ふすき",
+      "word": "不好き"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686ab740",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự không nhất trí; sự xung khắc; sự bất hòa; sự bất đồng"
+        }
+      ],
+      "mobileId": 3395,
+      "opposite_word": [
+        "一致"
+      ],
+      "phonetic": "ふいっち",
+      "related_words": {
+        "word": [
+          "一"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "不一致",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "矛盾"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "噪音"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "違和感"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "隔たり",
+                "距離",
+                "違い",
+                "懸隔",
+                "差",
+                "相違",
+                "差異",
+                "差違"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "齟齬",
+                "行き違い",
+                "背中合わせ",
+                "軋轢",
+                "不和",
+                "不仲",
+                "不調和",
+                "確執"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "食い違い",
+                "行き違い",
+                "軋轢",
+                "不和",
+                "不仲",
+                "摩擦",
+                "確執"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "齟齬",
+                "背中合わせ",
+                "間隙",
+                "軋轢",
+                "漣",
+                "相剋",
+                "不和",
+                "細波",
+                "不仲",
+                "不調和",
+                "仲違い",
+                "摩擦",
+                "相克",
+                "小波",
+                "敵対",
+                "確執",
+                "葛藤"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "分野",
+                "部門",
+                "分割"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "行き違い",
+                "相反",
+                "反対",
+                "不承知",
+                "不調",
+                "不同意",
+                "不承諾",
+                "不賛成",
+                "不承",
+                "不和",
+                "確執"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "異同",
+                "食い違い",
+                "齟齬",
+                "相反",
+                "違い",
+                "異存",
+                "懸隔",
+                "差",
+                "ずれ",
+                "相違",
+                "不和",
+                "不統一",
+                "不整合",
+                "異議",
+                "不調和",
+                "差異",
+                "差違",
+                "不同"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "食い違い",
+                "争議",
+                "不同意",
+                "相違",
+                "対立"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "不一致"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686ac298",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rất chân thành là của bạn"
+        }
+      ],
+      "mobileId": 3397,
+      "phonetic": "ふきのと",
+      "related_words": {
+        "word": [
+          "乙"
+        ]
+      },
+      "word": "不乙"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686db329",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "không chắc, còn ngờ, hay thay đổi, không kiên định, không đáng tin cậy"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "không tin cậy được ; không đáng tin, không xác thực"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "không thật, giả"
+        }
+      ],
+      "mobileId": 3496,
+      "opposite_word": [
+        "確実"
+      ],
+      "phonetic": "ふかくじつ",
+      "related_words": {
+        "word": [
+          "実",
+          "確実",
+          "確"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "不確実",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "危うい",
+                "危なっかしい",
+                "不確か",
+                "あやふや",
+                "危ない",
+                "おぼつかない",
+                "胡乱",
+                "疑わしい",
+                "訝しい",
+                "怪しい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "不確か",
+                "あやふや",
+                "おぼつかない",
+                "不明",
+                "疑わしい",
+                "未定",
+                "怪しい"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "不確実"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

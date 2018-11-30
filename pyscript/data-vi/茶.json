@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280278c33de",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "飲みかけの茶",
+              "mean": "1 chén trà chưa pha xong/chén trà dở .",
+              "transcription": "のみかけのちゃ"
+            }
+          ],
+          "kind": "n",
+          "mean": "chè"
+        }
+      ],
+      "mobileId": 31543,
+      "phonetic": "ちゃ",
+      "related_words": {
+        "word": [
+          "茶色",
+          "お茶",
+          "抹茶",
+          "緑茶",
+          "紅茶",
+          "喫茶店",
+          "ウーロン茶",
+          "茶碗",
+          "無茶",
+          "茶道"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "茶",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ティー",
+                "お茶",
+                "紅茶"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "褐色"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "お茶"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "茶"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027002922",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trà bột ."
+        }
+      ],
+      "mobileId": 29069,
+      "phonetic": "こなちゃ",
+      "related_words": {
+        "word": [
+          "茶",
+          "粉"
+        ]
+      },
+      "word": "粉茶"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a309bd3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "powdered tea"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "freshly-brewed, aromatic tea"
+        }
+      ],
+      "mobileId": 224968,
+      "phonetic": "さんちゃ",
+      "word": "散茶"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802797c4ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lá trà; lá chè ."
+        }
+      ],
+      "mobileId": 31736,
+      "phonetic": "はちゃ",
+      "word": "葉茶"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280279b345a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chè sen ."
+        }
+      ],
+      "mobileId": 31808,
+      "phonetic": "はすちゃ",
+      "word": "蓮茶"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0834a47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kabusecha, mild green tea which has been lightly screened from sunlight for 1-3 weeks before picking"
+        }
+      ],
+      "mobileId": 285134,
+      "phonetic": "かぶせちゃ",
+      "word": "かぶせ茶"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00da1ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tea tasting, tea-tasting"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tea-tasting contest"
+        }
+      ],
+      "mobileId": 281399,
+      "phonetic": "ききちゃ",
+      "word": "聞き茶"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959cb7ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước trà [chè] nấu"
+        }
+      ],
+      "mobileId": 61101,
+      "phonetic": "せんじちゃ",
+      "word": "煎じ茶"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d3bdcf9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chè tàu ."
+        }
+      ],
+      "mobileId": 142415,
+      "phonetic": "ちゅうごくちゃ",
+      "word": "中国茶"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776767fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "entertaining people by serving tea (esp. in the Obaku school of Zen)"
+        }
+      ],
+      "mobileId": 267800,
+      "phonetic": "ふちゃ ふさ",
+      "word": "普茶"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

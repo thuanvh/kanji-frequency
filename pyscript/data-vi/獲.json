@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e6fb98a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "by-catch, bycatch"
+        }
+      ],
+      "mobileId": 251634,
+      "phonetic": "こんかく",
+      "word": "混獲"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd81b285",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một chụp giật"
+        }
+      ],
+      "mobileId": 13910,
+      "phonetic": "いちえ",
+      "word": "一獲"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aec9538",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "to be harvested, to be reaped, to be yielded"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to be able to harvest, to be able to reap, to be able to yield"
+        }
+      ],
+      "mobileId": 231004,
+      "phonetic": "とれる",
+      "word": "獲れる"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6deeafdd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the end of things (esp. used for one's last writings)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "one's dying hour (esp. used for the death of Confucius)"
+        }
+      ],
+      "mobileId": 222837,
+      "phonetic": "かくりん",
+      "word": "獲麟"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9101e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(tốt) kết quả; chơi"
+        }
+      ],
+      "mobileId": 150326,
+      "phonetic": "トリイレ",
+      "word": "収獲"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

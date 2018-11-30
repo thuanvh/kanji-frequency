@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f9ef41d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "XX社のヤマダタロウ氏から御社を紹介していただきました。",
+              "mean": "Tôi được ông Taro Yamada, giám đốc sản phẩm của tập đoàn XX giới thiệu tới công ty của ông",
+              "transcription": "XXしゃのヤマダタロウしからおんしゃをしょうかいしていただきました。"
+            },
+            {
+              "content": "弊社のサービスに興味を持たれていると、ホワイト氏から伺いました。",
+              "mean": "Ông White đã nói với tôi rằng bạn rất quan tâm tới dịch vụ của chúng tôi",
+              "transcription": "へいしゃのサービスにきょうみをもたれていると、ホワイトしからうかがいました。"
+            }
+          ],
+          "kind": "n",
+          "mean": "dòng dõi; anh (thêm vào sau tên người; ông (thêm vào sau tên người); Mr."
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gia tộc ."
+        }
+      ],
+      "mobileId": 187542,
+      "opposite_word": [
+        "名"
+      ],
+      "phonetic": "うじ、し",
+      "related_words": {
+        "word": [
+          "氏名",
+          "彼氏",
+          "摂氏",
+          "華氏",
+          "姓氏",
+          "氏神"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "氏",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "名字",
+                "苗字",
+                "姓"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "氏"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb54d8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nòi giống, dòng, dòng giống, dòng dõi"
+        }
+      ],
+      "mobileId": 15540,
+      "phonetic": "しすじょう",
+      "word": "氏素姓"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb5543a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miếu thờ xây dựng cho một vị thần bảo vệ dòng họ; miếu thờ họ"
+        }
+      ],
+      "mobileId": 15541,
+      "phonetic": "してら",
+      "word": "氏寺"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb55b84",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người (của) dòng dõi máu; thành viên thị tộc"
+        }
+      ],
+      "mobileId": 15542,
+      "phonetic": "しじん",
+      "word": "氏人"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02489b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5n, vi",
+          "mean": "to die"
+        }
+      ],
+      "mobileId": 190329,
+      "phonetic": "しぬ",
+      "word": "氏ぬ"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a17e71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Genji (trong truyện Genji monogatari); người thuộc dòng họ Minamôtô"
+        }
+      ],
+      "mobileId": 38667,
+      "opposite_word": [
+        "平家"
+      ],
+      "phonetic": "みなもとし",
+      "word": "源氏"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e78d05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Yuezhi, Rouzhi, an ancient Central Asian people"
+        }
+      ],
+      "mobileId": 263662,
+      "phonetic": "げっし",
+      "word": "月氏"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02c67a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sho clan, royal family of the Ryukyu Kingdom"
+        }
+      ],
+      "mobileId": 282368,
+      "phonetic": "しょうし",
+      "word": "尚氏"
+    },
+    {
+      "_id": "432518852de0a80625d585a98228c2ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ancient clan record (incl. their origins, their achievements, etc.)"
+        }
+      ],
+      "mobileId": 232921,
+      "phonetic": "うじぶみ",
+      "word": "氏文"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92406b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Aya clan"
+        }
+      ],
+      "mobileId": 257429,
+      "phonetic": "あやうじ",
+      "word": "漢氏"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

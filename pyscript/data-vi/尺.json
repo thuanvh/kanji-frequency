@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107aa9a03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái thước"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kích thước dài ngắn"
+        },
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "một thước"
+        }
+      ],
+      "mobileId": 54783,
+      "phonetic": "しゃく",
+      "related_words": {
+        "word": [
+          "縮尺",
+          "尺度",
+          "尺八",
+          "計算尺"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "尺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ルーラー",
+                "定規",
+                "物指"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "尺度",
+                "定規",
+                "物指",
+                "メジャー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "尺度"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "尺"
+    },
+    {
+      "_id": "432518852de0a80625d585a98218dbe6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Korean shaku (approx. 35.6 cm)"
+        }
+      ],
+      "mobileId": 232423,
+      "phonetic": "こまじゃく",
+      "word": "高麗尺"
+    },
+    {
+      "_id": "432518852de0a80625d585a98218e8f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tempyou shaku (approx. 29.6 cm)"
+        }
+      ],
+      "mobileId": 232425,
+      "phonetic": "てんぴょうじゃく",
+      "word": "天平尺"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99bf6f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bamboo ruler, bamboo scale, bamboo tape"
+        }
+      ],
+      "mobileId": 277708,
+      "phonetic": "たけじゃく",
+      "word": "竹尺"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8cee19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "xương trụ"
+        }
+      ],
+      "mobileId": 150197,
+      "phonetic": "しゃくぼね",
+      "word": "尺骨"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f52ce5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bàn chân tiếng nhật chung; thợ mộc có vuông"
+        }
+      ],
+      "mobileId": 7812,
+      "phonetic": "まがりしゃく",
+      "word": "曲り尺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a208eb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "geometer moth, geometrid (of the Ennominae subfamily)"
+        }
+      ],
+      "mobileId": 224448,
+      "phonetic": "えだしゃく",
+      "word": "枝尺"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9525159f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiểm soát viên có cực cân bằng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "preaching tour"
+        }
+      ],
+      "mobileId": 57284,
+      "phonetic": "じゅんしゃく",
+      "related_words": {
+        "word": [
+          "準",
+          "尺"
+        ]
+      },
+      "word": "準尺"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955a9901",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trượt quy tắc"
+        }
+      ],
+      "mobileId": 58982,
+      "phonetic": "すべりしゃく",
+      "related_words": {
+        "word": [
+          "尺"
+        ]
+      },
+      "word": "滑り尺"
+    },
+    {
+      "_id": "432518852de0a80625d585a98218a539",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fabric shaku (approx. 36.4 cm)"
+        }
+      ],
+      "mobileId": 232417,
+      "phonetic": "ごふくじゃく",
+      "word": "呉服尺"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

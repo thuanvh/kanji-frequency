@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad3cda0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "これは〜に見える宝石",
+              "mean": "Đây là viên đá quý hiếm có",
+              "transcription": "これは〜にみえるほうせき"
+            },
+            {
+              "content": "〜な出来事",
+              "mean": "sự kiện hiếm có",
+              "transcription": "〜なできごと"
+            }
+          ],
+          "kind": "adj-na",
+          "mean": "hiếm có; ít có"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "sự hiếm có; sự hiếm thấy ."
+        }
+      ],
+      "mobileId": 173844,
+      "opposite_word": [
+        "ざら"
+      ],
+      "phonetic": "まれ",
+      "related_words": {
+        "word": [
+          "稀少",
+          "稀薄"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "稀",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "珍奇",
+                "珍",
+                "希",
+                "珍しい",
+                "滅多に無い"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "異色",
+                "並み外れ",
+                "非凡",
+                "希",
+                "奇矯",
+                "人並み外れた",
+                "珍しい",
+                "徒ならぬ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "偶"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "珍",
+                "希",
+                "珍しい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "珍",
+                "偶",
+                "希",
+                "珍しい",
+                "滅多に無い"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "稀"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d311e63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rare decay"
+        }
+      ],
+      "mobileId": 216668,
+      "phonetic": "きほうかい",
+      "word": "稀崩壊"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0367917",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "unique, rare, exceptional, unparalleled, incomparable"
+        }
+      ],
+      "mobileId": 208595,
+      "phonetic": "たぐいまれ",
+      "word": "類稀"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e822757a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pha loãng a-xít sulfuric"
+        }
+      ],
+      "mobileId": 34602,
+      "phonetic": "まれりゅうさん",
+      "word": "稀硫酸"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a92b66",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "unusual, rare"
+        }
+      ],
+      "mobileId": 278108,
+      "phonetic": "ちんき",
+      "word": "珍稀"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9166fb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "visitor from afar"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "joy-bringing spirit from the divine realms"
+        }
+      ],
+      "mobileId": 273487,
+      "phonetic": "まれびと マレビト",
+      "word": "稀人"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

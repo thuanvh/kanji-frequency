@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e3dd281",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "スケッチが拡縮できる。",
+              "mean": "bản vẽ co giãn được.",
+              "transcription": "スケッチがかくしゅくできる。"
+            }
+          ],
+          "kind": "",
+          "mean": "co giãn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "かくしゅく",
+      "word": "拡縮"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0b2081",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "speaker (stereo equipment, computer, etc.)"
+        }
+      ],
+      "mobileId": 248350,
+      "phonetic": "かくおんき",
+      "word": "拡音器"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

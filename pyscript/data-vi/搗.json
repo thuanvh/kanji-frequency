@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7748355a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rice polishing (removing the shell of brown rice to leave white rice)"
+        }
+      ],
+      "mobileId": 266784,
+      "phonetic": "とうせい",
+      "word": "搗精"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a369cfd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "click beetle, skipjack (beetle of family Elateridae)"
+        }
+      ],
+      "mobileId": 225163,
+      "phonetic": "こめつきむし ぬかずきむし ぬかつきむし コメツキムシ",
+      "word": "米搗虫"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19370a951",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5u, vi",
+          "mean": "va chạm; xung đột với"
+        }
+      ],
+      "mobileId": 21508,
+      "phonetic": "かち あう",
+      "word": "搗ち合う"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19370fde3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "làm khô hạt dẻ"
+        }
+      ],
+      "mobileId": 21520,
+      "phonetic": "",
+      "word": "搗ち栗"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d40a0e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "30 % đánh bóng gạo"
+        }
+      ],
+      "mobileId": 147785,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "分",
+          "三",
+          "三分"
+        ]
+      },
+      "word": "三分搗"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

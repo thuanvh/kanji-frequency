@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed951b5654",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "hoàn thành; sự hoàn thiện; trang bị đầy đủ"
+        }
+      ],
+      "mobileId": 56970,
+      "phonetic": "",
+      "word": "充備"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e714a42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "high-grade charcoal produced from ubame oak (Quercus phillyraeoides)"
+        }
+      ],
+      "mobileId": 251675,
+      "phonetic": "びんちょう",
+      "word": "備長"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed957cf4f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự làm vững chắc, sự làm củng cố, sự hợp nhất, sự thống nhất"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự sửa lại cho đúng, sự điều chỉnh, sự chỉnh lý, sự hoà giải, sự dàn xếp (mối bất hoà, cuộc phân tranh...)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hoàn thành, sự làm xong, sự làm cho hoàn toàn, sự làm cho đầy đủ"
+        }
+      ],
+      "mobileId": 60064,
+      "phonetic": "",
+      "word": "斉備"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95da13f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thiết bị; sự chuẩn bị"
+        }
+      ],
+      "mobileId": 63077,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "付"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "備付",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "軍需品",
+                "備え",
+                "貯蔵",
+                "備え付け"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "備え付け",
+                "設備",
+                "備品"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "備付"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a846bd6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "high-grade charcoal produced from ubame oak (Quercus phillyraeoides)"
+        }
+      ],
+      "mobileId": 227628,
+      "phonetic": "びんちょうずみ びんちょうたん",
+      "related_words": {
+        "word": [
+          "長",
+          "炭"
+        ]
+      },
+      "word": "備長炭"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

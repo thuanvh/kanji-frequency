@@ -1,0 +1,288 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107f97eba",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "AとBの関係を示す式",
+              "mean": "Nghi thức thể hiện mối quan hệ của A và B",
+              "transcription": "AとBのかんけいをしめすしき"
+            },
+            {
+              "content": "（人）が名誉学位を受ける授与式",
+              "mean": "Lễ (ai đó) nhận học vị danh dự .",
+              "transcription": "（ひと）がめいよがくいをうけるじゅよしき"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "hình thức; kiểu; lễ; nghi thức"
+        }
+      ],
+      "mobileId": 56005,
+      "phonetic": "しき",
+      "related_words": {
+        "word": [
+          "株式会社",
+          "形式",
+          "結婚式",
+          "正式",
+          "株式",
+          "方式",
+          "一式",
+          "公式",
+          "卒業式",
+          "葬式"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "式",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "儀典",
+                "会",
+                "セレモニー",
+                "儀式",
+                "典礼",
+                "祭り",
+                "栄典",
+                "儀",
+                "祭",
+                "式典",
+                "典",
+                "祝典"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "数式",
+                "公式"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "礼式",
+                "セレモニー",
+                "儀式",
+                "典礼",
+                "儀",
+                "式典",
+                "典",
+                "定式"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "儀典",
+                "セレモニー",
+                "儀式",
+                "典礼",
+                "祭り",
+                "儀",
+                "祭祀",
+                "祭",
+                "式典",
+                "典",
+                "定式"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "婚礼",
+                "華燭の典",
+                "婚儀",
+                "輿入れ",
+                "華燭",
+                "結婚式",
+                "嫁入り"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "式"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a7561e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cuộc diễu hành qua lễ đài; cuộc duyệt binh"
+        }
+      ],
+      "mobileId": 5329,
+      "phonetic": "ぶんれつしき",
+      "related_words": {
+        "word": [
+          "分",
+          "列",
+          "式"
+        ]
+      },
+      "word": "分列式"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027990ed1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghi thức tang lễ ."
+        }
+      ],
+      "mobileId": 31770,
+      "phonetic": "そうぎしき",
+      "related_words": {
+        "word": [
+          "式",
+          "葬儀",
+          "儀"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "葬儀式",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "送り",
+                "追悼式",
+                "告別式",
+                "葬儀",
+                "弔い",
+                "葬式"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "葬儀式"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa8fc1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Byzantine style (of architecture)"
+        }
+      ],
+      "mobileId": 228805,
+      "phonetic": "ビザンチンしき",
+      "word": "ビザンチン式"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e846319c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "được làm nguội bằng không khí"
+        }
+      ],
+      "mobileId": 35755,
+      "phonetic": "くうれいしき",
+      "related_words": {
+        "word": [
+          "空",
+          "式",
+          "冷",
+          "空冷"
+        ]
+      },
+      "word": "空冷式"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027fd01bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lễ ký kết ."
+        }
+      ],
+      "mobileId": 33404,
+      "phonetic": "ちょういんしき",
+      "related_words": {
+        "word": [
+          "式",
+          "印",
+          "調印"
+        ]
+      },
+      "word": "調印式"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9580a7bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiểu phương tây hoặc kiểu cách"
+        }
+      ],
+      "mobileId": 60183,
+      "phonetic": "せいようしき",
+      "word": "西洋式"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95aad392",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lễ rửa tội, sự thử thách đầu tiên, sự đặt tên (cho tàu, chuông nhà thờ...)"
+        }
+      ],
+      "mobileId": 61542,
+      "phonetic": "せんれいしき",
+      "word": "洗礼式"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c9ca6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "form of magic or divination (e.g. animating objects to act as the sorcerer's agent)"
+        }
+      ],
+      "mobileId": 213352,
+      "phonetic": "しきがみ",
+      "related_words": {
+        "word": [
+          "神",
+          "式"
+        ]
+      },
+      "word": "式神"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a2eebf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "first ring-entering ceremony of the newly promoted grand champion, performed at Meiji shrine"
+        }
+      ],
+      "mobileId": 212076,
+      "phonetic": "すいきょしき",
+      "word": "推挙式"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

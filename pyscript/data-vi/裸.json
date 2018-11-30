@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027bcb0c8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "生まれたての赤ん坊のように真っ裸である",
+              "mean": "hoàn toàn trần trụi như đứa trẻ mới sinh",
+              "transcription": "うまれたてのあかんぼうのようにまっぱだかである"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "sự trần trụi; sự trơ trụi; sự lõa thể"
+        },
+        {
+          "examples": [
+            {
+              "content": "裸で泳ぐ",
+              "mean": "Bơi không mặc đồ tắm/ tắm tiên",
+              "transcription": "はだかでおよぐ"
+            },
+            {
+              "content": "美術の授業のために裸でポーズを取る",
+              "mean": "Ở tư thế lõa thể cho giờ học mỹ thuật. .",
+              "transcription": "びじゅつのじゅぎょうのためにはだかでポーズをとる"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "trần trụi; trơ trụi; lõa thể"
+        }
+      ],
+      "mobileId": 32399,
+      "phonetic": "はだか",
+      "related_words": {
+        "word": [
+          "全裸",
+          "裸体",
+          "裸足",
+          "裸の",
+          "裸婦",
+          "真っ裸",
+          "裸眼",
+          "裸体画",
+          "半裸",
+          "丸裸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "裸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "真っ裸",
+                "全裸",
+                "真裸",
+                "赤裸",
+                "剥き出し"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "裸"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680f478f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bóng nhẹ trần truồng"
+        }
+      ],
+      "mobileId": 502,
+      "phonetic": "はだかでんきゅう",
+      "word": "裸電球"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9a2f11",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "caecilian (any burrowing legless amphibian of the order Gymnophiona)"
+        }
+      ],
+      "mobileId": 228339,
+      "phonetic": "はだかへび",
+      "word": "裸蛇"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680f3c3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "dây điện không có lớp vỏ cách điện, đây điện trần"
+        }
+      ],
+      "mobileId": 501,
+      "phonetic": "はだかせん",
+      "word": "裸線"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b30d9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "naked flame, naked light"
+        }
+      ],
+      "mobileId": 262010,
+      "phonetic": "はだかび",
+      "word": "裸火"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef910faa2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "achlamydeous flower, naked flower"
+        }
+      ],
+      "mobileId": 273312,
+      "phonetic": "らか",
+      "word": "裸花"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7703c23a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "naked woman"
+        }
+      ],
+      "mobileId": 264581,
+      "phonetic": "らじょ",
+      "word": "裸女"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7703cc95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "naked man"
+        }
+      ],
+      "mobileId": 264582,
+      "phonetic": "はだかおとこ",
+      "word": "裸男"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a908802e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lantern fish (any fish of family Myctophidae, esp. Watase's lanternfish, Diaphus watasei)"
+        }
+      ],
+      "mobileId": 256591,
+      "phonetic": "はだかいわし ハダカイワシ",
+      "word": "裸鰯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92e6e13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sterile frond"
+        }
+      ],
+      "mobileId": 257757,
+      "phonetic": "らよう",
+      "word": "裸葉"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

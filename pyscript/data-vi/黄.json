@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568014c5947",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "黄ばんだ顔",
+              "mean": "khuôn mặt vàng bủng",
+              "transcription": "きばんだかお"
+            },
+            {
+              "content": "秋には木の葉の色が赤や黄に変わる",
+              "mean": "vào mùa thu lá cây biến đổi thành màu đỏ và màu vàng",
+              "transcription": "あきにはこのはのいろがあかやきにかわる"
+            },
+            {
+              "content": "古びた紙のように黄ばんだ",
+              "mean": "màu vàng giống như tờ giấy cũ",
+              "transcription": "ふるびたかみのようにきばんだ"
+            }
+          ],
+          "kind": "n, adj-na",
+          "mean": "màu vàng; vàng"
+        }
+      ],
+      "mobileId": 43070,
+      "phonetic": "き",
+      "related_words": {
+        "word": [
+          "黄色",
+          "黄昏",
+          "黄緑",
+          "黄金",
+          "硫黄",
+          "黄泉",
+          "黄銅",
+          "黄色い",
+          "淡黄色",
+          "黄砂"
+        ]
+      },
+      "word": "黄"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf407aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu hạt dẻ, màu nâu vàng"
+        }
+      ],
+      "mobileId": 17500,
+      "phonetic": "きかっしょく",
+      "related_words": {
+        "word": [
+          "色",
+          "黄",
+          "褐色"
+        ]
+      },
+      "word": "黄褐色"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820d881a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(in Japan) 8th note of the ancient chromatic scale (approx. A)"
+        }
+      ],
+      "mobileId": 232078,
+      "phonetic": "おうしき",
+      "word": "黄鐘"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822468a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "huangjiu, undistilled Chinese alcohol made of fermented grains"
+        }
+      ],
+      "mobileId": 232777,
+      "phonetic": "おうしゅ こうしゅ ホワンチュウ ホワンチュー",
+      "word": "黄酒"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be7ea66",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Jasminum umile var. revolutum, curled flower yellow jasmine"
+        }
+      ],
+      "mobileId": 247245,
+      "phonetic": "きそけい",
+      "word": "黄素馨"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776b425a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "etiolation"
+        }
+      ],
+      "mobileId": 267923,
+      "phonetic": "おうか",
+      "word": "黄化"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b4d3db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim sẻ"
+        }
+      ],
+      "mobileId": 39276,
+      "phonetic": "きすずめ",
+      "related_words": {
+        "word": [
+          "黄",
+          "雀"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "黄雀",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "雀"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "黄雀"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01d9cdc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yellow beeswax"
+        }
+      ],
+      "mobileId": 281900,
+      "phonetic": "おうろう こうろう",
+      "word": "黄蝋"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014caaf2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "黄熱病の予防接種",
+              "mean": "tiêm phòng bệnh sốt vàng da",
+              "transcription": "おうねつびょうのよぼうせっしゅ"
+            },
+            {
+              "content": "黄熱病の症例",
+              "mean": "các trường hợp về bệnh sốt vàng da",
+              "transcription": "おうねつびょうのしょうれい"
+            },
+            {
+              "content": "古典的黄熱病",
+              "mean": "bệnh sốt vàng da cổ điển .",
+              "transcription": "こてんてきおうねつびょう"
+            }
+          ],
+          "kind": "n, abbr",
+          "mean": "sốt vàng da; hoàng nhiệt"
+        }
+      ],
+      "mobileId": 43073,
+      "phonetic": "こうねつ",
+      "related_words": {
+        "word": [
+          "熱",
+          "黄"
+        ]
+      },
+      "word": "黄熱"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf7db73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "điểm vàng"
+        }
+      ],
+      "mobileId": 17624,
+      "phonetic": "きむら",
+      "word": "黄斑"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada074b96",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "防音保護具(耳に付ける)",
+              "mean": "dụng cụ bảo đảm chống tiếng ồn (gắn vào tai)",
+              "transcription": "ぼうおんほごぐ(みみにつける)"
+            },
+            {
+              "content": "調理器（具）",
+              "mean": "dụng cụ nấu ăn",
+              "transcription": "ちょうりき（ぐ）"
+            },
+            {
+              "content": "ガラス切り（具）",
+              "mean": "dụng cụ cắt kính .",
+              "transcription": "ガラスぎり（ぐ）"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "dụng cụ"
+        }
+      ],
+      "mobileId": 77016,
+      "phonetic": "ぐ",
+      "related_words": {
+        "word": [
+          "敬具",
+          "道具",
+          "不具合",
+          "具体的",
+          "治具",
+          "家具",
+          "工具",
+          "具体的に",
+          "金具",
+          "絵の具"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "具",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "工具",
+                "道具",
+                "用具",
+                "ツール",
+                "器械",
+                "器具"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "道具",
+                "ツール",
+                "手段"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "具"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86de537",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dụng cụ để hành hình hay tra khảo"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sincerely yours"
+        }
+      ],
+      "mobileId": 37024,
+      "phonetic": "けいぐ",
+      "related_words": {
+        "word": [
+          "具",
+          "刑"
+        ]
+      },
+      "word": "刑具"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0786182",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ninja implement (shuriken, etc.)"
+        }
+      ],
+      "mobileId": 210714,
+      "phonetic": "にんぐ",
+      "word": "忍具"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd2718c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dụng cụ sinh hoạt hàng ngày của mọi người (ấm chén, rổ rá, tách trà ...)"
+        }
+      ],
+      "mobileId": 70051,
+      "phonetic": "みんぐ",
+      "word": "民具"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd59a091",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công cụ bằng gỗ"
+        }
+      ],
+      "mobileId": 71633,
+      "phonetic": "もっこうぐ",
+      "word": "木工具"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2d9403",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tool which is attached to something (e.g. fire extinguisher on a boat), accessory, appliance"
+        }
+      ],
+      "mobileId": 249498,
+      "phonetic": "ぞくぐ",
+      "word": "属具"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da7737f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sex toy, sex aid"
+        }
+      ],
+      "mobileId": 220505,
+      "phonetic": "せいぐ",
+      "word": "性具"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd40601",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dụng cụ thể thao"
+        }
+      ],
+      "mobileId": 16473,
+      "phonetic": "うんどうぐ",
+      "word": "運動具"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8065721",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vũ khí nguy hiểm"
+        }
+      ],
+      "mobileId": 33693,
+      "phonetic": "きょうぐ",
+      "word": "凶具"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b03af9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những dụng cụ làm nông"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "farm implements"
+        }
+      ],
+      "mobileId": 39124,
+      "phonetic": "こうぐ",
+      "related_words": {
+        "word": [
+          "具"
+        ]
+      },
+      "word": "耕具"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

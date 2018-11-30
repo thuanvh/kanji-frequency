@@ -1,0 +1,250 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adad7e86e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "気合を入れてすぼめた唇",
+              "mean": "ra sức mím môi",
+              "transcription": "きあいをいれてすぼめたくちびる"
+            },
+            {
+              "content": "コラーゲンで肉厚にした唇",
+              "mean": "môi bơm colagen .",
+              "transcription": "コラーゲンでにくあつにしたくちびる"
+            }
+          ],
+          "kind": "n",
+          "mean": "môi"
+        }
+      ],
+      "mobileId": 80418,
+      "phonetic": "くちびる",
+      "related_words": {
+        "word": [
+          "陰唇",
+          "口唇"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "唇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "リップ",
+                "下唇",
+                "上唇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "唇"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802708aafe",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "厚く肉感的な紅い唇をしている",
+              "mean": "Có đôi môi đỏ dày và gợi cảm .",
+              "transcription": "あつくにっかんてきなあかいくちびるをしている"
+            }
+          ],
+          "kind": null,
+          "mean": "môi hồng; môi đỏ"
+        }
+      ],
+      "mobileId": 29226,
+      "phonetic": "あかいくちびる",
+      "word": "紅い唇"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda965f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "môi âm hộ"
+        }
+      ],
+      "mobileId": 15168,
+      "phonetic": "かげくちびる",
+      "related_words": {
+        "word": [
+          "唇",
+          "陰"
+        ]
+      },
+      "word": "陰唇"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95243b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "labiodental, labiodental consonant"
+        }
+      ],
+      "mobileId": 275371,
+      "phonetic": "しんしおん",
+      "word": "唇歯音"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e670438",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "labial gland"
+        }
+      ],
+      "mobileId": 251364,
+      "phonetic": "しんせん",
+      "word": "唇腺"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d26a928",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "môi dưới ."
+        }
+      ],
+      "mobileId": 141961,
+      "opposite_word": [
+        "上唇"
+      ],
+      "phonetic": "したくちびる",
+      "related_words": {
+        "word": [
+          "下",
+          "唇"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "下唇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "リップ",
+                "唇",
+                "上唇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "下唇"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d26a0dd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "下唇を噛んで集中する",
+              "mean": "cắn môi suy nghĩ",
+              "transcription": "しもくちびるをかんでしゅうちゅうする"
+            },
+            {
+              "content": "下唇をなめる",
+              "mean": "làm ướt môi .",
+              "transcription": "しもくちびるをなめる"
+            }
+          ],
+          "kind": "n",
+          "mean": "môi dưới"
+        }
+      ],
+      "mobileId": 141960,
+      "opposite_word": [
+        "上唇"
+      ],
+      "phonetic": "かしん",
+      "related_words": {
+        "word": [
+          "下",
+          "唇"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "下唇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "リップ",
+                "唇",
+                "上唇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "下唇"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77381dad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "labia minora"
+        }
+      ],
+      "mobileId": 266278,
+      "phonetic": "しょういんしん",
+      "related_words": {
+        "word": [
+          "小",
+          "唇",
+          "陰",
+          "陰唇"
+        ]
+      },
+      "word": "小陰唇"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77380f62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "labia majora"
+        }
+      ],
+      "mobileId": 266277,
+      "phonetic": "だいいんしん",
+      "word": "大陰唇"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a2eb43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "unrounded"
+        }
+      ],
+      "mobileId": 286157,
+      "phonetic": "ひえんしん",
+      "word": "非円唇"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

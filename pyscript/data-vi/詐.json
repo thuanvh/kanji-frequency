@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dc9ec6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fraud"
+        },
+        {
+          "examples": null,
+          "kind": "vs",
+          "mean": "to defraud"
+        }
+      ],
+      "mobileId": 263326,
+      "phonetic": "さがい",
+      "related_words": {
+        "word": [
+          "害"
+        ]
+      },
+      "word": "詐害"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e6b5f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự sai lầm; điều sai lầm, thuyết sai lầm, điều tin tưởng sai lầm, ý nghĩ sai lầm, sự nói dối, sự lừa dối; lời nói dối"
+        }
+      ],
+      "mobileId": 25220,
+      "phonetic": "",
+      "word": "譎詐"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93c20e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fraud, fraudulence, dupery, hoax"
+        }
+      ],
+      "mobileId": 274693,
+      "phonetic": "ぎさ",
+      "word": "欺詐"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8ffac6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để thu được tiền bởi mưu gian"
+        }
+      ],
+      "mobileId": 14360,
+      "phonetic": "",
+      "word": "詐って金を取る"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

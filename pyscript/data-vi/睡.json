@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be05be4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "doze, nap, slumber"
+        }
+      ],
+      "mobileId": 247012,
+      "phonetic": "まどろみ びすい",
+      "word": "微睡"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6828ca1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "ngủ nửa"
+        }
+      ],
+      "mobileId": 1315,
+      "phonetic": "はんねむ",
+      "word": "半睡"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68320207",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "say rượu hoặc ma túy"
+        }
+      ],
+      "mobileId": 1622,
+      "phonetic": "ばく すい",
+      "word": "爆睡"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fb2cd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự mất cảm giác, sự gây mê, sự gây tê"
+        }
+      ],
+      "mobileId": 8003,
+      "phonetic": "まねむ",
+      "related_words": {
+        "word": [
+          "魔"
+        ]
+      },
+      "word": "魔睡"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dfbbc13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sleeping, being sleepy"
+        }
+      ],
+      "mobileId": 223267,
+      "phonetic": "おねむ",
+      "word": "御睡"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f59b4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "half asleep and half awake"
+        }
+      ],
+      "mobileId": 214785,
+      "phonetic": "はんすいはんせい",
+      "word": "半睡半醒"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f5a2c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "half awake and half asleep"
+        }
+      ],
+      "mobileId": 214787,
+      "phonetic": "はんせいはんすい",
+      "word": "半醒半睡"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

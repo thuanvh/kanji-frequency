@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afda16c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cọ"
+        },
+        {
+          "examples": [
+            {
+              "content": "座る所が籐で出来ている椅子",
+              "mean": "Cái ghế ngồi được làm từ mây.",
+              "transcription": "すわるところがとうでできているいす"
+            },
+            {
+              "content": "太った男が座って、その籐で作ったいすを壊してしまった",
+              "mean": "Khi người đàn ông béo ngồi xuống, chiếc ghế được làm bằng mây bị đổ sập xuống",
+              "transcription": "ふとったおとこがすわって、そのとうでつくったいすをこわしてしまった"
+            }
+          ],
+          "kind": "n",
+          "mean": "mây; song"
+        }
+      ],
+      "mobileId": 174473,
+      "phonetic": "とう",
+      "word": "籐"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afdc8a9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "家具・木製品・籐製品などの市場向けに塗料を供給する",
+              "mean": "Cung cấp sơn cho thị trường sản xuất đồ nội thất, các sản phẩm gỗ và sản phẩm mây tre đan",
+              "transcription": "かぐ・もくせいひん・とうせいひんなどのしじょうむけにとりょうをきょうきゅうする"
+            },
+            {
+              "content": "籐製品",
+              "mean": "Đồ mây song/ sản phẩm mây tre đan.",
+              "transcription": "とうせいひん"
+            }
+          ],
+          "kind": "n",
+          "mean": "đồ mây song"
+        }
+      ],
+      "mobileId": 174475,
+      "phonetic": "とうせい",
+      "word": "籐製"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afdb14d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Sản phẩm làm bằng mây tre, cói, dừa cọ ."
+        }
+      ],
+      "mobileId": 174474,
+      "phonetic": "とう、たけ、いぐさ、やし、しゅろをげんりょうとしたせいひん",
+      "word": "籐、竹、イグサ、ヤシ、シュロを原料とした製品"
+    },
+    {
+      "_id": "4a879669dfc9cec32da10b6c21c1eee7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Sản phẩm làm bằng mây tre, cói, dừa cọ ."
+        }
+      ],
+      "mobileId": 67704,
+      "phonetic": "籐、竹、イグサ、ヤシ、シュロを原料とした製品",
+      "word": "とう、たけ、いぐさ、やし、しゅろをげんりょうとしたせいひん"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

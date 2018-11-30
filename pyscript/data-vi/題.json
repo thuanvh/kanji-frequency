@@ -1,0 +1,248 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568011732f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vấn đề; chủ đề"
+        }
+      ],
+      "mobileId": 42154,
+      "phonetic": "だい",
+      "related_words": {
+        "word": [
+          "課題",
+          "宿題",
+          "問題",
+          "問題点",
+          "無題",
+          "題名",
+          "食べ放題",
+          "飲み放題",
+          "話題",
+          "問題解決"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "題",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "二字",
+                "題名",
+                "名前",
+                "名",
+                "呼称",
+                "名称",
+                "ネーム",
+                "称号",
+                "名目",
+                "氏名",
+                "人名",
+                "姓名"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "標題",
+                "タイトル",
+                "演題",
+                "題名",
+                "曲名",
+                "表題"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "トピック",
+                "題目",
+                "話題",
+                "件",
+                "テーマ",
+                "主題"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "肩書き",
+                "タイトル",
+                "題名",
+                "肩書",
+                "見出し",
+                "称号",
+                "表題",
+                "敬称"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "悩み",
+                "命題",
+                "問い",
+                "宿題",
+                "案件",
+                "問題",
+                "問",
+                "課題",
+                "設問"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "標題",
+                "タイトル",
+                "件名",
+                "題名",
+                "目",
+                "見出し",
+                "表題",
+                "標記"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "題"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a95b81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chapter title, section title, volume title"
+        }
+      ],
+      "mobileId": 269954,
+      "phonetic": "ほんだい",
+      "word": "品題"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193704654",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chủ đề của bài thơ (thơ Nhật)"
+        }
+      ],
+      "mobileId": 21496,
+      "phonetic": "うただい",
+      "related_words": {
+        "word": [
+          "歌",
+          "題"
+        ]
+      },
+      "word": "歌題"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05ba0b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chanting the title of a sutra (esp. the Lotus Sutra)"
+        }
+      ],
+      "mobileId": 283908,
+      "phonetic": "しょうだい",
+      "word": "唱題"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a2a8f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(1) câu chuyện (động từ) vấn đề;(2) (math) vấn đề được biểu thị trong những từ"
+        }
+      ],
+      "mobileId": 5162,
+      "phonetic": "ぶんしょうだい",
+      "word": "文章題"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b62882",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thesis (of an argument), claim, assertion"
+        }
+      ],
+      "mobileId": 278545,
+      "phonetic": "ていだい",
+      "word": "提題"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a90de4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "title of a scripture or sacred text (e.g. Buddhist sutra)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "title on a scroll or rolled book"
+        }
+      ],
+      "mobileId": 269944,
+      "phonetic": "きょうだい",
+      "word": "経題"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77428c71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "opening section of a Chinese poem or essay (in which the topic is broached), broaching the topic of a poem or essay in its opening lines"
+        }
+      ],
+      "mobileId": 266606,
+      "phonetic": "はだい",
+      "word": "破題"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d22f56c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Các dự án được liệt kê là một chủ đề. Nó được sử dụng để đề cập đến tiêu đề của tài liệu hoặc vấn đề được mô tả trong chủ đề của e-mail."
+        }
+      ],
+      "mobileId": 216224,
+      "phonetic": "けいだいのけん",
+      "word": "掲題の件"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d258434",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đề tài (của) một sự hợp thành"
+        }
+      ],
+      "mobileId": 146914,
+      "phonetic": "さくぶんのだい",
+      "word": "作文の題"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

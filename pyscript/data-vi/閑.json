@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9228d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(1) giải phóng thời gian; thì giờ nhàn rỗi; bỏ đi; tằn tiện thời gian;(2) chia tay"
+        }
+      ],
+      "mobileId": 14434,
+      "opposite_word": [
+        "忙"
+      ],
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "閑散",
+          "長閑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "閑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "休暇",
+                "暇",
+                "余暇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "レジャー",
+                "暇",
+                "余暇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "閑暇",
+                "暇",
+                "余暇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "暇",
+                "余暇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "閑"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193acaffb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thanh bình; sự yên tĩnh"
+        }
+      ],
+      "mobileId": 23391,
+      "phonetic": "",
+      "word": "閑靖"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd7dbb2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "u nhàn"
+        }
+      ],
+      "mobileId": 72767,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "閑"
+        ]
+      },
+      "word": "幽閑"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7ff198",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adv, adv-to",
+          "mean": "lặng lẽ"
+        }
+      ],
+      "mobileId": 252158,
+      "phonetic": "ひっそりかん",
+      "word": "ひっそり閑"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93c3945",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toilet, lavatory"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quiet place"
+        }
+      ],
+      "mobileId": 274695,
+      "phonetic": "かんじょ かんしょ",
+      "word": "閑所"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e99be8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tìm thấy lẻ những chốc lát (của) thì giờ nhàn rỗi trong cuộc sống bận rộn (của) ai đó"
+        }
+      ],
+      "mobileId": 7439,
+      "phonetic": "",
+      "word": "忙中閑有り"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

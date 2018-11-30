@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af84f25",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "zhen (một trong những hình tam giác của Kinh Dịch: sấm sét, đông)"
+        }
+      ],
+      "mobileId": 231372,
+      "phonetic": "しん",
+      "word": "震"
+    },
+    {
+      "_id": "432518852de0a80625d585a98253b8c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "earthquake damage"
+        }
+      ],
+      "mobileId": 234282,
+      "phonetic": "しんがい",
+      "word": "震害"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0decf943",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Trung Quốc"
+        }
+      ],
+      "mobileId": 153304,
+      "phonetic": "しんだん",
+      "word": "震旦"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89508f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "động đất khốc liệt"
+        }
+      ],
+      "mobileId": 38270,
+      "phonetic": "げきしん",
+      "related_words": {
+        "word": [
+          "劇"
+        ]
+      },
+      "word": "劇震"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932ffd88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơn địa chấn dưới biển; động đất dưới biển"
+        }
+      ],
+      "mobileId": 19449,
+      "phonetic": "うみしん",
+      "word": "海震"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0868d7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tremble, shudder, quiver"
+        }
+      ],
+      "mobileId": 285241,
+      "phonetic": "しんりつ",
+      "word": "震慄"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bdbd81a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "vibration control (in earthquake-resistant construction)"
+        }
+      ],
+      "mobileId": 246853,
+      "phonetic": "せいしん",
+      "word": "制震"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0496ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "base isolation, seismic base isolation, base isolating, vibration damping at the base of a building"
+        }
+      ],
+      "mobileId": 215257,
+      "phonetic": "めんしん",
+      "word": "免震"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757faf3002",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chấn động của băng tuyết ."
+        }
+      ],
+      "mobileId": 187820,
+      "phonetic": "ひょうしん",
+      "related_words": {
+        "word": [
+          "氷"
+        ]
+      },
+      "word": "氷震"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09d38bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "earthquake simulation vehicle"
+        }
+      ],
+      "mobileId": 211908,
+      "phonetic": "きしんしゃ",
+      "word": "起震車"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

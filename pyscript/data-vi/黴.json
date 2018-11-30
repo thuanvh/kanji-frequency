@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801511a9a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "かびに強い種類",
+              "mean": "vật liệu chống rỉ tốt",
+              "transcription": "かびにつよいしゅるい"
+            },
+            {
+              "content": "かびだらけである",
+              "mean": "bị mốc toàn bộ",
+              "transcription": "かびだらけである"
+            },
+            {
+              "content": "かびが付く",
+              "mean": "bị rỉ sét",
+              "transcription": "かびがつく"
+            },
+            {
+              "content": "葉に生えるかび",
+              "mean": "mốc trên lá cây",
+              "transcription": "はにはえるかび"
+            },
+            {
+              "content": "かびが出る",
+              "mean": "bị mốc",
+              "transcription": "かびがでる"
+            },
+            {
+              "content": "黴止め",
+              "mean": "chống rỉ .",
+              "transcription": "かびとめ"
+            }
+          ],
+          "kind": "n",
+          "mean": "mốc; nấm mốc; ố; gỉ; rỉ sét; rỉ"
+        }
+      ],
+      "mobileId": 43166,
+      "phonetic": "かび",
+      "related_words": {
+        "word": [
+          "黴菌"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "黴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "真菌",
+                "菌類"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "黴"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0983a27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mouldy bread"
+        }
+      ],
+      "mobileId": 285815,
+      "phonetic": "かびパン カビパン",
+      "word": "黴パン"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014b303f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây làm men; cây men ."
+        }
+      ],
+      "mobileId": 43039,
+      "phonetic": "こうじかび",
+      "related_words": {
+        "word": [
+          "麹",
+          "黴"
+        ]
+      },
+      "word": "麹黴"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193818cc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để trở thành mốc meo hoặc có mùi mốc,"
+        }
+      ],
+      "mobileId": 22047,
+      "phonetic": "かびる",
+      "related_words": {
+        "word": [
+          "黴"
+        ]
+      },
+      "word": "黴る"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801514a5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mùa mưa ."
+        }
+      ],
+      "mobileId": 43173,
+      "phonetic": "ばいう",
+      "related_words": {
+        "word": [
+          "雨",
+          "黴"
+        ]
+      },
+      "word": "黴雨"
+    },
+    {
+      "_id": "432518852de0a80625d585a982074c5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chytrid (any simple, algaelike fungi of order Chytridiales)"
+        }
+      ],
+      "mobileId": 231872,
+      "phonetic": "つぼかび ツボカビ",
+      "word": "壷黴"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77479f99",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "thuốc diệt nấm, chất bảo quản chống nấm mốc, chất chống nấm mốc"
+        }
+      ],
+      "mobileId": 266764,
+      "phonetic": "かびどめ",
+      "word": "黴止め"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568015122a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mốc meo"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mốc thếch"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mốc xì ."
+        }
+      ],
+      "mobileId": 43168,
+      "phonetic": "かびだらけの",
+      "word": "黴だらけの"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801511d79",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mốc meo ."
+        }
+      ],
+      "mobileId": 43167,
+      "phonetic": "かびがはえる",
+      "word": "黴が生える"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801512328",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mốc meo ."
+        }
+      ],
+      "mobileId": 43169,
+      "phonetic": "かびのおおい",
+      "word": "黴の多い"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

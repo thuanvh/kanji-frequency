@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c03321a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "indirect remonstrance, exhortation by insinuation"
+        }
+      ],
+      "mobileId": 208492,
+      "phonetic": "ふうかん",
+      "word": "諷諫"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a83e46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người hầu cận dám can ngăn lãnh chúa của mình"
+        }
+      ],
+      "mobileId": 23258,
+      "phonetic": "",
+      "word": "諫臣"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c5af1e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "remonstrance, remonstration, admonition, protest, reproof, expostulation, advice, counsel"
+        }
+      ],
+      "mobileId": 213221,
+      "phonetic": "いさめ",
+      "word": "諫め"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7019732",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "sự khuyên can; sự can gián; khuyên can; can gián ."
+        }
+      ],
+      "mobileId": 106733,
+      "phonetic": "かんし",
+      "word": "諫止"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5a0ff7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự quở trách; sự can gián, sự phản đối"
+        }
+      ],
+      "mobileId": 113913,
+      "phonetic": "",
+      "word": "直諫"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a5c9cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "gián tử; can ngăn vua chúa đến chết; sẵn sàng chết khi nỗ lực can gián vua chúa"
+        }
+      ],
+      "mobileId": 23187,
+      "phonetic": "",
+      "word": "諫死"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7019aa8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "諫言する",
+              "mean": "cảnh cáo .",
+              "transcription": "諫言する"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "sự cảnh cáo; cảnh cáo"
+        }
+      ],
+      "mobileId": 106734,
+      "phonetic": "かんげん",
+      "word": "諫言"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6adfcd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vt",
+          "mean": "quở trách, khiển trách; khuyên can, can gián, phản đối, phản kháng"
+        }
+      ],
+      "mobileId": 13204,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "諫める",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "言い聞かす",
+                "戒める",
+                "諭す",
+                "言い聞かせる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "諫める"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

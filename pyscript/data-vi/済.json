@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a8d1913",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Vương quốc Triều Tiên thời xưa ."
+        }
+      ],
+      "mobileId": 172627,
+      "phonetic": "くだら",
+      "word": "百済"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3ebcd2ef",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "đang sạc pin"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "充電済"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e333096",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "đã thanh toán"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "しはらいずみ",
+      "word": "支払済"
+    },
+    {
+      "_id": "f2d618ceb0702f781ec83b7d4f5112e3",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Tất cả =全部"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "Đọc là いっさい",
+      "word": "一済"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a89de7a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "登録済みの電話帳にデータを追加する",
+              "mean": "điền thêm thông tin/dữ liệu vào sổ điện thoại đang có",
+              "transcription": "とうろくずみのでんわちょうにデータをついかする"
+            },
+            {
+              "content": "登録済みのマスコミ関係者＿名によって行われる取材",
+              "mean": "bài phóng sự được tiến hành do nhóm ~ người có liên quan đến các phương tiện thông tin đại chúng đã đăng ký .",
+              "transcription": "とうろくずみのマスコミかんけいしゃ＿めいによっておこなわれるしゅざい"
+            }
+          ],
+          "kind": "n",
+          "mean": "đã đăng ký"
+        }
+      ],
+      "mobileId": 172537,
+      "phonetic": "とうろくずみ",
+      "related_words": {
+        "word": [
+          "登録"
+        ]
+      },
+      "word": "登録済"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d1aa11b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giải tỏa cho những nỗi đau khỏi những người"
+        }
+      ],
+      "mobileId": 146587,
+      "phonetic": "すみみん",
+      "word": "済民"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5ceebc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "\"completed\" (rubber) stamp"
+        }
+      ],
+      "mobileId": 218070,
+      "phonetic": "すみいん",
+      "word": "済印"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b9b88b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "kiểm tra"
+        }
+      ],
+      "mobileId": 270476,
+      "phonetic": "けんしんずみ",
+      "word": "検針済"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0de14b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "governing a nation and providing relief to people"
+        }
+      ],
+      "mobileId": 214025,
+      "phonetic": "けいこくさいみん",
+      "word": "経国済民"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7400fe10",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hối phiếu đã chấp nhận ."
+        }
+      ],
+      "mobileId": 97519,
+      "phonetic": "ひきうけずみてがた",
+      "word": "引受済手形"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

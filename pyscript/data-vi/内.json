@@ -1,0 +1,244 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada098a29",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "心の内を打ちあける",
+              "mean": "nói những lời từ trong lòng",
+              "transcription": "こころのうちをうちあける"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "bên trong; ở giữa"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "trong"
+        },
+        {
+          "examples": [
+            {
+              "content": "若い内にうんと勉強せよ",
+              "mean": "nhân lúc còn trẻ phải cố gắng học .",
+              "transcription": "わかいうちにうんとべんきょうせよ"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "trong khoảng thời gian; nhân lúc"
+        }
+      ],
+      "mobileId": 77040,
+      "opposite_word": [
+        "外",
+        "表"
+      ],
+      "phonetic": "うち",
+      "word": "内"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac1aad4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "internal lock"
+        }
+      ],
+      "mobileId": 229611,
+      "phonetic": "うちかぎ",
+      "word": "内鍵"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0376037",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "purple Washington clam (Saxidomus purpurata)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "type of pomelo with red-purple flesh"
+        }
+      ],
+      "mobileId": 282739,
+      "phonetic": "うちむらさき",
+      "word": "内紫"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03afee2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "voluntary liquidation, winding-up"
+        }
+      ],
+      "mobileId": 282865,
+      "phonetic": "ないせいり",
+      "word": "内整理"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdba3a25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tài khoản bí mật"
+        }
+      ],
+      "mobileId": 15696,
+      "phonetic": "うちかんじょう",
+      "related_words": {
+        "word": [
+          "勘定",
+          "勘"
+        ]
+      },
+      "word": "内勘定"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdba3f6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ném xuống bởi chân làm việc"
+        }
+      ],
+      "mobileId": 15697,
+      "opposite_word": [
+        "外掛け"
+      ],
+      "phonetic": "うちかけ",
+      "word": "内掛け"
+    },
+    {
+      "_id": "32266b33d424da615075e0dca7ac2ddf",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜慣れてくる",
+              "mean": "rồi dần dần (trong thời gian đó) sẽ quen",
+              "transcription": "〜なれてくる"
+            }
+          ],
+          "kind": "adv",
+          "mean": "trong khi đó; trong thời gian đó"
+        }
+      ],
+      "mobileId": 47450,
+      "phonetic": "そのうち",
+      "related_words": {
+        "word": [
+          "その"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "その内",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "追っ付け",
+                "間も無く",
+                "唯今",
+                "近近",
+                "幾許も無く",
+                "近く",
+                "直ぐ",
+                "今にも",
+                "何れ",
+                "まもなく",
+                "只今",
+                "今に",
+                "やがて",
+                "今や",
+                "遠からず",
+                "幾何も無く",
+                "近いうちに",
+                "もう",
+                "不日",
+                "程なく"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "何時か"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "追っ付け",
+                "まもなく",
+                "今に",
+                "後に",
+                "やがて",
+                "後程",
+                "後ほど"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "その内"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825da3f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inner offerer (any of the 10 high-ranking monks serving at the inner offering hall)"
+        }
+      ],
+      "mobileId": 234590,
+      "phonetic": "ないぐぶ",
+      "word": "内供奉"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada1095e3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "細胞内発育周期",
+              "mean": "chu kỳ tự phát triển của tế bào .",
+              "transcription": "さいぼうないはついくしゅうき"
+            }
+          ],
+          "kind": "n",
+          "mean": "Tự phát; nội phát; phát sinh từ bên trong"
+        }
+      ],
+      "mobileId": 77161,
+      "phonetic": "ないはつ",
+      "word": "内発"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb624f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bên trong thủ đô; bên trong Kyoto"
+        }
+      ],
+      "mobileId": 74624,
+      "phonetic": "らくない",
+      "word": "洛内"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

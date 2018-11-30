@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dd71ec3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ラマ教の高僧たちは、祈りをささげるために列になって僧院へ入った",
+              "mean": "các cao tăng của đạo lamas xếp hàng bước vào tu viện và bắt đầu cầu nguyện",
+              "transcription": "らまきょうのこうそうたちは、いのりをささげるためにれつになってそういんへはいった"
+            },
+            {
+              "content": "修道僧は欲から離れるように絶えず修行している",
+              "mean": "nhà sư tu hành để có thể rời xa những ham muốn",
+              "transcription": "しゅうどうそうはよくからはなれるようにたえずしゅぎょうしている"
+            }
+          ],
+          "kind": "n",
+          "mean": "nhà sư"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tầng ."
+        }
+      ],
+      "mobileId": 145116,
+      "opposite_word": [
+        "俗",
+        "尼僧"
+      ],
+      "phonetic": "そう",
+      "related_words": {
+        "word": [
+          "僧侶",
+          "小僧",
+          "尼僧",
+          "僧兵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "僧",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "円顱",
+                "大徳",
+                "入道",
+                "祭司",
+                "桑門",
+                "坊さん",
+                "和尚",
+                "僧侶",
+                "僧家",
+                "坊"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "僧"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6803254a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm sa đoạ thầy tu; thầy tu có tội"
+        }
+      ],
+      "mobileId": 96,
+      "phonetic": "はかいそう",
+      "word": "破戒僧"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280274b41f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giáo sĩ nghe xưng tội ."
+        }
+      ],
+      "mobileId": 30372,
+      "phonetic": "ちょうもんそう",
+      "word": "聴聞僧"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afb822d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hinayana monk"
+        }
+      ],
+      "mobileId": 231489,
+      "phonetic": "しょうもんそう",
+      "word": "声聞僧"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95bf20ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tăng già (Phật giáo)"
+        }
+      ],
+      "mobileId": 62186,
+      "phonetic": "そうとぎ",
+      "word": "僧伽"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d7e55a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà sư; tăng lữ ."
+        }
+      ],
+      "mobileId": 143599,
+      "phonetic": "ぶっそう",
+      "related_words": {
+        "word": [
+          "仏",
+          "僧"
+        ]
+      },
+      "word": "仏僧"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95fefb7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thầy tu ăn xin (phật)"
+        }
+      ],
+      "mobileId": 64256,
+      "phonetic": "たくはつそう",
+      "word": "托鉢僧"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c22865",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "travelling monk (RPG term)"
+        }
+      ],
+      "mobileId": 213104,
+      "phonetic": "じゅんかいそう",
+      "word": "巡回僧"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a935ba09",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ascetic monk, trainee monk"
+        }
+      ],
+      "mobileId": 258003,
+      "phonetic": "しゅうぎょうそう",
+      "word": "修行僧"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9663e7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "large number of priests"
+        }
+      ],
+      "mobileId": 259583,
+      "phonetic": "そうしゅう そうしゅ",
+      "word": "僧衆"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

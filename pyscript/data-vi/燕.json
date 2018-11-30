@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a24ad83",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ツバメは春に入った兆しとする",
+              "mean": "Chim én được coi là tín hiệu của mùa xuân",
+              "transcription": "ツバメははるにはいったきざしとする"
+            }
+          ],
+          "kind": "n",
+          "mean": "én; chim én"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yến ."
+        }
+      ],
+      "mobileId": 170964,
+      "phonetic": "つばめ",
+      "synsets": [
+        {
+          "base_form": "燕",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一飲み"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "飛行機"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "燕"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4d660d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "swift's nest (used to make bird's nest soup)"
+        }
+      ],
+      "mobileId": 225895,
+      "phonetic": "えんか イェンウオ",
+      "word": "燕窩"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e6fa616",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ấn độ pratincole"
+        }
+      ],
+      "mobileId": 114605,
+      "phonetic": "つばめちどり",
+      "word": "燕千鳥"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e8ed4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "threadfin (any fish of family Polynemidae, esp. the striped threadfin, Polydactylus plebeius)"
+        }
+      ],
+      "mobileId": 272030,
+      "phonetic": "つばめこのしろ ツバメコノシロ",
+      "word": "燕鰶"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a964c3da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "swallow"
+        }
+      ],
+      "mobileId": 259536,
+      "phonetic": "えんし",
+      "word": "燕子"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd47dd93",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim vũ yến; chim én"
+        }
+      ],
+      "mobileId": 12087,
+      "phonetic": "あめつばめ",
+      "word": "雨燕"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4d67c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "swiftlet"
+        }
+      ],
+      "mobileId": 225896,
+      "phonetic": "あなつばめ アナツバメ",
+      "word": "穴燕"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2eb55d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "powdered oakblue (butterfly) (Narathura bazalus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "purple martin (bird) (Progne subis)"
+        }
+      ],
+      "mobileId": 224917,
+      "phonetic": "むらさきつばめ ムラサキツバメ",
+      "word": "紫燕"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9de16f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "swallow-tailed kite (Elanoides forficatus)"
+        }
+      ],
+      "mobileId": 279865,
+      "phonetic": "つばめとび ツバメトビ",
+      "word": "燕鳶"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771244ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ancient Chinese banquet music"
+        }
+      ],
+      "mobileId": 265046,
+      "phonetic": "えんがく",
+      "word": "燕楽"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

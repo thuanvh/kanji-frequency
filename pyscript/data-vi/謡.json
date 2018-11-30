@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb812a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự kể lại, sự kể lể, sự ngâm thơ, sự kể chuyện (thuộc lòng, trước thính giả), sự đọc thuộc lòng ; bài học thuộc lòng"
+        }
+      ],
+      "mobileId": 15625,
+      "phonetic": "うたい",
+      "related_words": {
+        "word": [
+          "童謡",
+          "歌謡曲",
+          "民謡",
+          "歌謡"
+        ]
+      },
+      "word": "謡"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0547cdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional (folk) song"
+        }
+      ],
+      "mobileId": 283670,
+      "phonetic": "こよう",
+      "word": "古謡"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df3f2eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tập hợp thần thoại"
+        }
+      ],
+      "mobileId": 153524,
+      "phonetic": "かみうたいしゅう",
+      "related_words": {
+        "word": [
+          "神",
+          "謡"
+        ]
+      },
+      "word": "神謡集"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb83fac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5u",
+          "mean": "để kể lại một utai ((mà) noh hát cầu kinh)"
+        }
+      ],
+      "mobileId": 15632,
+      "phonetic": "うたいをうたう",
+      "word": "謡を謡う"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

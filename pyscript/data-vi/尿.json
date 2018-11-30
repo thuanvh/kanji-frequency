@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107aba9e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nước đái"
+        },
+        {
+          "examples": [
+            {
+              "content": "尿の検査する",
+              "mean": "kiểm tra nước tiểu",
+              "transcription": "にょうのけんさする"
+            }
+          ],
+          "kind": "n",
+          "mean": "nước tiểu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "尿道:đường tiết niệu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "尿石:sỏi thận ."
+        }
+      ],
+      "mobileId": 54806,
+      "phonetic": "にょう",
+      "related_words": {
+        "word": [
+          "糖尿病",
+          "放尿",
+          "尿道",
+          "泌尿器科",
+          "尿酸",
+          "排尿",
+          "尿素",
+          "糞尿",
+          "尿管",
+          "検尿"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "尿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "おしっこ",
+                "小便",
+                "小水"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "おしっこ",
+                "小便"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "尿"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9aed6b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "urine"
+        }
+      ],
+      "mobileId": 261875,
+      "phonetic": "しいしい",
+      "word": "尿尿"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107abb96c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cái bô; lọ đựng nước tiểu ."
+        }
+      ],
+      "mobileId": 54808,
+      "phonetic": "にょうき",
+      "word": "尿器"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ddfeba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "urination"
+        }
+      ],
+      "mobileId": 271678,
+      "phonetic": "ひにょう",
+      "word": "泌尿"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92e40cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oliguria"
+        }
+      ],
+      "mobileId": 257753,
+      "phonetic": "ぼうにょう",
+      "word": "乏尿"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107abe0cd",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-na, n, adj-no",
+          "mean": "Đường tiết niệu"
+        }
+      ],
+      "mobileId": 54811,
+      "phonetic": "にょうかん",
+      "related_words": {
+        "word": [
+          "尿",
+          "管"
+        ]
+      },
+      "word": "尿管"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7be19e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cylindruria"
+        }
+      ],
+      "mobileId": 252021,
+      "phonetic": "えんちょうにょう",
+      "word": "円柱尿"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d47a16f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "urine remaining in the bladder after urination"
+        }
+      ],
+      "mobileId": 217379,
+      "phonetic": "ざんにょう",
+      "word": "残尿"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9730cab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "urinary sugar"
+        }
+      ],
+      "mobileId": 259980,
+      "phonetic": "にょうとう",
+      "word": "尿糖"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22197e2b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Cảm giác buồn tiểu nhưng ko tiểu dc"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "尿閉"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

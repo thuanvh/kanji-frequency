@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801408c53",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "かつらを着けていないように見せることもできます",
+              "mean": "có thể hóa trang sao cho không ai biết là đang đội tóc giả",
+              "transcription": "かつらをつけていないようにみせることもできます"
+            },
+            {
+              "content": "お気に入りのかつらをかぶる",
+              "mean": "đội loại tóc giả mà mình thích",
+              "transcription": "おきにいりのかつらをかぶる"
+            },
+            {
+              "content": "かつらをかぶる",
+              "mean": "đội tóc giả",
+              "transcription": "かつらをかぶる"
+            },
+            {
+              "content": "かつらで変装する",
+              "mean": "thay đổi bằng tóc giả",
+              "transcription": "かつらでへんそうする"
+            }
+          ],
+          "kind": "n",
+          "mean": "tóc giả"
+        }
+      ],
+      "mobileId": 42851,
+      "phonetic": "かつら",
+      "word": "鬘"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77418a21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "simple paper mask"
+        }
+      ],
+      "mobileId": 266577,
+      "phonetic": "めかずら",
+      "word": "目鬘"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9210b36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "long-haired wig used in kabuki (used metaphorically to refer to a thick growth)"
+        }
+      ],
+      "mobileId": 257328,
+      "phonetic": "ひゃくにちかずら ひゃくにちかつら",
+      "word": "百日鬘"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

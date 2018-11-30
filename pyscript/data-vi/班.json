@@ -1,0 +1,226 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a47b3d9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "二班にわかれる",
+              "mean": "chia thành hai kíp .",
+              "transcription": "にはんにわかれる"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "kíp; đội; nhóm"
+        }
+      ],
+      "mobileId": 171546,
+      "phonetic": "はん",
+      "related_words": {
+        "word": [
+          "班長",
+          "一班"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "班",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "組",
+                "分隊",
+                "チーム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "部隊"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ユニット"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "班"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682accec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phân công đất đai thời xưa theo chế độ \"ban điền\""
+        }
+      ],
+      "mobileId": 1386,
+      "phonetic": "はんた",
+      "word": "班田"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da3317f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dữ liệu tập hợp phe (đảng)"
+        }
+      ],
+      "mobileId": 150902,
+      "phonetic": "しゅざいはん",
+      "word": "取材班"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681a07dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thành viên trong nhóm"
+        }
+      ],
+      "mobileId": 828,
+      "phonetic": "はんいん",
+      "word": "班員"
+    },
+    {
+      "_id": "432518852de0a80625d585a982715d77",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "preliminary introduction (Zen)"
+        }
+      ],
+      "mobileId": 235208,
+      "phonetic": "りょうはん",
+      "word": "両班"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dadfe78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đứng đầu vị trí"
+        }
+      ],
+      "mobileId": 151242,
+      "phonetic": "しゅはん",
+      "related_words": {
+        "word": [
+          "主",
+          "班"
+        ]
+      },
+      "word": "主班"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68286ff0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền được trước, quyền đi trước, quyền đứng trước, quyền ở trước, địa vị cao hơn, địa vị trên"
+        }
+      ],
+      "mobileId": 1304,
+      "phonetic": "はんじ",
+      "word": "班次"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0885ea8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one group, one squad"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "group one, squad one"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "entire group, entire squad"
+        }
+      ],
+      "mobileId": 285300,
+      "phonetic": "いっぱん",
+      "related_words": {
+        "word": [
+          "一",
+          "班"
+        ]
+      },
+      "word": "一班"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec540b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhóm độc lập; biệt đội"
+        }
+      ],
+      "mobileId": 117342,
+      "phonetic": "どくりつはん",
+      "related_words": {
+        "word": [
+          "独立",
+          "班"
+        ]
+      },
+      "word": "独立班"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d22a9dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm việc là phe (đảng)"
+        }
+      ],
+      "mobileId": 146825,
+      "phonetic": "さぎょうはん",
+      "related_words": {
+        "word": [
+          "作業",
+          "作",
+          "業",
+          "班"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "作業班",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "クルー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "作業班"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

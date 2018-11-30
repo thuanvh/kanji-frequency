@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada7de0d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cánh đồng; thảo nguyên; đồng bằng ."
+        }
+      ],
+      "mobileId": 79062,
+      "phonetic": "はら",
+      "related_words": {
+        "word": [
+          "原因",
+          "原料",
+          "原稿",
+          "原点",
+          "原則として",
+          "原紙",
+          "原材料",
+          "原則",
+          "草原",
+          "原本"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "原",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "分野",
+                "フィールド",
+                "野原",
+                "野",
+                "戦域",
+                "原野",
+                "畑"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "原"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada7dd33d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "環境変異原",
+              "mean": "nguyên nhân sự biến đổi của môi trường",
+              "transcription": "かんきょうへんいはら"
+            }
+          ],
+          "kind": "pref",
+          "mean": "nguyên nhân; bản chất; nguyên bản"
+        }
+      ],
+      "mobileId": 79061,
+      "phonetic": "げん",
+      "related_words": {
+        "word": [
+          "原因",
+          "原料",
+          "原稿",
+          "原点",
+          "原則として",
+          "原紙",
+          "原材料",
+          "原則",
+          "草原",
+          "原本"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "原",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "分野",
+                "フィールド",
+                "野原",
+                "野",
+                "戦域",
+                "原野",
+                "畑"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "原"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aaf6e10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "agglutinogen"
+        }
+      ],
+      "mobileId": 229010,
+      "phonetic": "ぎょうしゅうげん",
+      "word": "凝集原"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7f4bdc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fibrinogen"
+        }
+      ],
+      "mobileId": 227463,
+      "phonetic": "せんいそげん",
+      "word": "繊維素原"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89f8157",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sân nguyên bản; sân (của) thể hiện đầu tiên"
+        }
+      ],
+      "mobileId": 38604,
+      "phonetic": "はらさいばんしょ",
+      "related_words": {
+        "word": [
+          "原",
+          "所",
+          "裁判所",
+          "判",
+          "裁"
+        ]
+      },
+      "word": "原裁判所"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a497c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơ sở thoa phấn; bột khối lớn"
+        }
+      ],
+      "mobileId": 38765,
+      "phonetic": "はらまつ",
+      "word": "原末"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a4bdc9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(khối lớn) chất thuốc"
+        }
+      ],
+      "mobileId": 38770,
+      "phonetic": "はらやく",
+      "related_words": {
+        "word": [
+          "薬",
+          "原"
+        ]
+      },
+      "word": "原薬"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a949beb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "aurochs, urus (extinct ancestor of the modern cow, Bos taurus)"
+        }
+      ],
+      "mobileId": 228147,
+      "phonetic": "げんぎゅう",
+      "word": "原牛"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0899835",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wilderness, virgin land, wild land"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "habitat, native land"
+        }
+      ],
+      "mobileId": 285338,
+      "phonetic": "げんせいち",
+      "word": "原生地"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca040c508",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "underlying asset, underlying security, underlier"
+        }
+      ],
+      "mobileId": 283039,
+      "phonetic": "げんしさん",
+      "word": "原資産"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

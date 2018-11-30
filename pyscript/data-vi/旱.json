@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07fa7f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drought and floods"
+        }
+      ],
+      "mobileId": 285021,
+      "phonetic": "かんすい",
+      "word": "旱水"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ab72c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drought damage"
+        }
+      ],
+      "mobileId": 270021,
+      "phonetic": "かんそん",
+      "word": "旱損"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

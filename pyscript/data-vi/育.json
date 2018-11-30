@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dcc34d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đào tạo trẻ con để có một sự ăn kiêng tốt"
+        }
+      ],
+      "mobileId": 152237,
+      "phonetic": "しょくいく",
+      "word": "食育"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7769ff66",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mathematics education"
+        }
+      ],
+      "mobileId": 267888,
+      "phonetic": "すういく",
+      "word": "数育"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd664945",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ấp trứng"
+        }
+      ],
+      "mobileId": 13061,
+      "phonetic": "いくひな",
+      "word": "育雛"
+    },
+    {
+      "_id": "622cc39a952b667c2efb0cae5ef5e65f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Chăm sóc con cái"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "子育"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0c16030",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "New York (US state, city)"
+        }
+      ],
+      "mobileId": 204848,
+      "phonetic": "ニューヨーク",
+      "word": "紐育"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9402cb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "man who enjoys child rearing"
+        }
+      ],
+      "mobileId": 274814,
+      "phonetic": "いくメン イクメン",
+      "word": "育メン"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3330b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự giáo dục (của) cái đầu và bàn tay và trái tim"
+        }
+      ],
+      "mobileId": 147361,
+      "phonetic": "さんいく",
+      "word": "三育"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca048f064",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "silviculture, afforestation"
+        }
+      ],
+      "mobileId": 283302,
+      "phonetic": "いくりん",
+      "word": "育林"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ef3368",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "female infertility, inability to carry a pregnancy to full term"
+        }
+      ],
+      "mobileId": 280416,
+      "phonetic": "ふいく",
+      "word": "不育"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd664b94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người gây giống, người chăn nuôi"
+        }
+      ],
+      "mobileId": 13062,
+      "phonetic": "いくひなき",
+      "related_words": {
+        "word": [
+          "器",
+          "雛"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "育雛器",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "育種家"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "育雛器"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

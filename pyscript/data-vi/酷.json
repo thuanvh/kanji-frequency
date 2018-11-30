@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8a649a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "khốc liệt; thô nhám; khó khăn; nghiêm khắc; chính xác; không công bằng"
+        }
+      ],
+      "mobileId": 38812,
+      "phonetic": "こく",
+      "word": "酷"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d4b9e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ thống thuế nặng"
+        }
+      ],
+      "mobileId": 40314,
+      "phonetic": "こくぜい",
+      "related_words": {
+        "word": [
+          "税"
+        ]
+      },
+      "word": "酷税"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4b1523",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự tàn bạo; sự độc ác; sự thô bạo"
+        }
+      ],
+      "mobileId": 148126,
+      "phonetic": "むごこく",
+      "word": "惨酷"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9461277",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(national) road in poor condition"
+        }
+      ],
+      "mobileId": 274988,
+      "phonetic": "こくどう",
+      "word": "酷道"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f9b6d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "severe (personality), unaffected by love"
+        }
+      ],
+      "mobileId": 264257,
+      "phonetic": "しゅんこく",
+      "word": "峻酷"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cc8fbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r-i",
+          "mean": "deep (colour)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thick (liquid, fluid)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "full-bodied, rich (flavour)"
+        }
+      ],
+      "mobileId": 213444,
+      "phonetic": "こくがある",
+      "word": "酷がある"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d60046",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tàn bạo chứng nhượng"
+        }
+      ],
+      "mobileId": 40355,
+      "phonetic": "こくなやりかた",
+      "related_words": {
+        "word": [
+          "方",
+          "やり方"
+        ]
+      },
+      "word": "酷なやり方"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cc93e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r-i",
+          "mean": "deep (colour)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thick (liquid, fluid)"
+        }
+      ],
+      "mobileId": 213445,
+      "phonetic": "こくのある",
+      "word": "酷のある"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

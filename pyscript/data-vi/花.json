@@ -1,0 +1,242 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280278000fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bông hoa"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đóa hoa"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼女は花々を本の間に押しはさんで保存した",
+              "mean": "Chúng tôi giữ hoa bằng cách ép chúng vào trong những trang sách",
+              "transcription": "かのじょははな々をほんのまにおしはさんでほぞんした"
+            },
+            {
+              "content": "私たちは春に美しい花々を見て楽しむ",
+              "mean": "Chúng tôi thích nhìn những bông hoa đẹp vào mùa xuân",
+              "transcription": "わたしたちははるにうつくしいはな々をみてたのしむ"
+            },
+            {
+              "content": "庭で咲きほこる花々が春の訪れを告げている",
+              "mean": "Hoa nở ở sân báo hiệu mùa xuân đến",
+              "transcription": "にわでさきほこるはな々がはるのおとずれをつげている"
+            },
+            {
+              "content": "彼女は左手に赤いバラの花1本を握り締めていた",
+              "mean": "Cô ấy đã nắm chặt một bông hoa hồng đỏ trong tay trái của mình",
+              "transcription": "かのじょはひだりてにあかいバラのはな1ほんをにぎりしめていた"
+            }
+          ],
+          "kind": "n",
+          "mean": "hoa"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "huê ."
+        }
+      ],
+      "mobileId": 31361,
+      "phonetic": "はな",
+      "related_words": {
+        "word": [
+          "花粉症",
+          "花火",
+          "花見",
+          "花嫁",
+          "花粉",
+          "お花見",
+          "花束",
+          "花びら",
+          "花瓶",
+          "花鳥風月"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "花",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "盛り",
+                "ピーク",
+                "全盛",
+                "花盛り",
+                "佳境",
+                "最盛期",
+                "全盛期",
+                "頂点",
+                "黄金時代",
+                "最高潮",
+                "真っ盛り",
+                "絶頂"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "華"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "花"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9117c9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "achlamydeous flower, naked flower"
+        }
+      ],
+      "mobileId": 273328,
+      "phonetic": "むかひか",
+      "word": "無花被花"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6818c3c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mẫu hoa; hoa văn hình hoa"
+        }
+      ],
+      "mobileId": 790,
+      "phonetic": "はなもよう",
+      "related_words": {
+        "word": [
+          "様",
+          "花",
+          "模様"
+        ]
+      },
+      "word": "花模様"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd67f871",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ra hoa sự sắp đặt"
+        }
+      ],
+      "mobileId": 13112,
+      "phonetic": "いけはな",
+      "word": "活け花"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193812e3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bao hoa (thực vật học); bộ phận bên ngoài của hoa"
+        }
+      ],
+      "mobileId": 22035,
+      "phonetic": "はなひ",
+      "related_words": {
+        "word": [
+          "花"
+        ]
+      },
+      "word": "花被"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac9ed93",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "garland, festoon (of flowers)"
+        }
+      ],
+      "mobileId": 229864,
+      "phonetic": "はなづな",
+      "word": "花綵"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a35f461",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flower chafer (any flower beetle of tribe Cetoniini)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Eucetonia pilifera (flower chafer species of tribe Cetoniini)"
+        }
+      ],
+      "mobileId": 225144,
+      "phonetic": "はなむぐり ハナムグリ",
+      "word": "花潜"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a64417d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "edible flower"
+        }
+      ],
+      "mobileId": 226593,
+      "phonetic": "しょくようか",
+      "word": "食用花"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027814cfb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồng hồ hoa ."
+        }
+      ],
+      "mobileId": 31394,
+      "phonetic": "はなどけい",
+      "related_words": {
+        "word": [
+          "時",
+          "花",
+          "時計",
+          "計"
+        ]
+      },
+      "word": "花時計"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00907d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "off-season flowering"
+        }
+      ],
+      "mobileId": 281251,
+      "phonetic": "くるいばな",
+      "word": "狂い花"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

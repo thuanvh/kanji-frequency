@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7776fda9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "browning"
+        }
+      ],
+      "mobileId": 268303,
+      "phonetic": "かっぺん",
+      "word": "褐変"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97c1ae7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dark indigo tinged with brighter blue"
+        }
+      ],
+      "mobileId": 276693,
+      "phonetic": "あおかち",
+      "word": "青褐"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96c4f5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "browning reaction"
+        }
+      ],
+      "mobileId": 276185,
+      "phonetic": "かっぺんはんのう",
+      "word": "褐変反応"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77770679",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "enzymatic browning"
+        }
+      ],
+      "mobileId": 268305,
+      "phonetic": "こうそてきかっぺん",
+      "word": "酵素的褐変"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2dd7b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một loại bò Nhật có sắc lông xám nhạt hay xám đỏ"
+        }
+      ],
+      "mobileId": 11262,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "和",
+          "種",
+          "毛"
+        ]
+      },
+      "word": "褐毛和種"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7776ffe3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "non-enzymatic browning"
+        }
+      ],
+      "mobileId": 268304,
+      "phonetic": "ひこうそてきかっぺん",
+      "word": "非酵素的褐変"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

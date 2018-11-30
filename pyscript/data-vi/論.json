@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cdf559bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "(1) lý lẽ; sự thảo luận; sự cãi nhau; sự bàn cãi; thuyết trình; tranh luận;(2) lý thuyết; học thuyết;(3)  luận văn, luận án; bình luận"
+        }
+      ],
+      "mobileId": 76579,
+      "phonetic": "ろん",
+      "word": "論"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a2b17f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cú pháp"
+        }
+      ],
+      "mobileId": 5163,
+      "phonetic": "ぶんしょうろん",
+      "word": "文章論"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e881b7c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuyết quyết định"
+        }
+      ],
+      "mobileId": 37650,
+      "phonetic": "けっていろん",
+      "word": "決定論"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afbb893",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "conspiracy theory"
+        }
+      ],
+      "mobileId": 231499,
+      "phonetic": "いんぼうろん",
+      "word": "陰謀論"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86e51e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chủ nghĩa kinh nghiệm"
+        }
+      ],
+      "mobileId": 37036,
+      "phonetic": "けいけんろん",
+      "word": "経験論"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19352b644",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lý thuyết xác suất"
+        }
+      ],
+      "mobileId": 20545,
+      "phonetic": "かくりつろん",
+      "related_words": {
+        "word": [
+          "率",
+          "確率",
+          "確"
+        ]
+      },
+      "word": "確率論"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193d1dc6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(trong triết học) cơ giới luận"
+        }
+      ],
+      "mobileId": 24555,
+      "phonetic": "きかいろん",
+      "word": "機械論"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193dc23b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "triệu chứng học"
+        }
+      ],
+      "mobileId": 24884,
+      "phonetic": "きごうろん",
+      "word": "記号論"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd77ca0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nhất Nguyên luận"
+        }
+      ],
+      "mobileId": 13596,
+      "opposite_word": [
+        "多元論",
+        "二元論"
+      ],
+      "phonetic": "いちげんろん",
+      "related_words": {
+        "word": [
+          "元",
+          "一"
+        ]
+      },
+      "word": "一元論"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed958f9a3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lý thuyết hỗn loạn (vật lý)"
+        }
+      ],
+      "mobileId": 60666,
+      "phonetic": "せつどうろん",
+      "related_words": {
+        "word": [
+          "動",
+          "摂動"
+        ]
+      },
+      "word": "摂動論"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

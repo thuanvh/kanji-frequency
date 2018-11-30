@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6da452d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r",
+          "mean": "to shuffle one's feet"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to trample underfoot"
+        }
+      ],
+      "mobileId": 220396,
+      "phonetic": "にじる",
+      "word": "躙る"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa73ff72a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "cửa vào phòng trà đạo"
+        }
+      ],
+      "mobileId": 107726,
+      "phonetic": "にじりぐち",
+      "word": "躙り口"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aecaf29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "retainer, attendant"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Omi (hereditary title; orig. one of the two highest such titles, later demoted to sixth highest of eight)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "I (used by a servant when speaking to his master), me"
+        }
+      ],
+      "mobileId": 231007,
+      "opposite_word": [
+        "君"
+      ],
+      "phonetic": "おみ しん",
+      "word": "臣"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19361a0b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người giữ chức vụ thấp, hạ thần"
+        }
+      ],
+      "mobileId": 21016,
+      "phonetic": "しもしん",
+      "related_words": {
+        "word": [
+          "下"
+        ]
+      },
+      "word": "下臣"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9bedeb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "foreign retainer"
+        }
+      ],
+      "mobileId": 278840,
+      "phonetic": "がいしん",
+      "word": "外臣"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68283f5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phản thần, nghịch thần"
+        }
+      ],
+      "mobileId": 1298,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "叛臣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "反乱者",
+                "反賊",
+                "叛賊",
+                "反逆者",
+                "反逆人"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "叛臣"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83423ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vật giữ trung thành"
+        }
+      ],
+      "mobileId": 35161,
+      "phonetic": "ぎしん",
+      "word": "義臣"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d32cc4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sự không trung thành; sự bội tín ."
+        }
+      ],
+      "mobileId": 142226,
+      "phonetic": "ふしん",
+      "word": "不臣"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a83e46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người hầu cận dám can ngăn lãnh chúa của mình"
+        }
+      ],
+      "mobileId": 23258,
+      "phonetic": "",
+      "word": "諫臣"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09b4b31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "civil official (esp. dealing with literary matters)"
+        }
+      ],
+      "mobileId": 211839,
+      "phonetic": "ぶんしん",
+      "word": "文臣"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc512f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trung thần; cận thần thân tín ."
+        }
+      ],
+      "mobileId": 144835,
+      "phonetic": "こうしん",
+      "word": "倖臣"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e67fe1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà chiến lược"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà chiến thuật"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người vạch kế hoạch, người chủ mưu, kẻ âm mưu; kẻ hay dùng mưu gian"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính cả tin, tính nhẹ dạ"
+        }
+      ],
+      "mobileId": 7339,
+      "phonetic": "はかりごとしん",
+      "word": "謀臣"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

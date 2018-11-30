@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f382844",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ban sáng"
+        },
+        {
+          "examples": [
+            {
+              "content": "明日の朝8時に起こしてもらえますか",
+              "mean": "đánh thức tôi dậy lúc 8 giờ sáng mai được không?",
+              "transcription": "あしたのあさ8じにおこしてもらえますか"
+            },
+            {
+              "content": "私はいつも朝6時に目を覚ます",
+              "mean": "tôi thường thức dậy lúc 6 giờ sáng",
+              "transcription": "わたしはいつもあさ6じにめをさます"
+            }
+          ],
+          "kind": "n-adv, n-t",
+          "mean": "buổi sáng"
+        },
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "sáng ."
+        }
+      ],
+      "mobileId": 185848,
+      "opposite_word": [
+        "晩",
+        "夕べ",
+        "野",
+        "夕"
+      ],
+      "phonetic": "あさ",
+      "related_words": {
+        "word": [
+          "朝食",
+          "北朝鮮",
+          "朝顔",
+          "朝日",
+          "朝礼",
+          "今朝",
+          "早朝",
+          "朝焼け",
+          "毎朝",
+          "朝鮮"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "朝",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "午前",
+                "モーニング",
+                "昼前"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "朝"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b42ce3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "morning studies, studying before school"
+        }
+      ],
+      "mobileId": 270306,
+      "phonetic": "あさがく",
+      "word": "朝習"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6ddcd3d1",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "sáng sớm"
+        }
+      ],
+      "mobileId": 222253,
+      "phonetic": "あさいちばん",
+      "word": "朝一番"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f384603",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "朝食(朝ご飯)は何でしたか",
+              "mean": "sáng nay, cậu ăn gì đấy",
+              "transcription": "ちょうしょく(あさごはん)はなにでしたか"
+            }
+          ],
+          "kind": "n",
+          "mean": "bữa sáng; cơm sáng (nói chung)"
+        }
+      ],
+      "mobileId": 185849,
+      "phonetic": "あさごはん",
+      "related_words": {
+        "word": [
+          "朝",
+          "飯"
+        ]
+      },
+      "word": "朝ご飯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e99e77",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Cái lạnh buổi sáng; Cái lạnh đầu thu"
+        }
+      ],
+      "mobileId": 263732,
+      "opposite_word": [
+        "夜寒"
+      ],
+      "phonetic": "あささむ",
+      "word": "朝寒"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107d64399",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "thời kì heian"
+        }
+      ],
+      "mobileId": 55476,
+      "phonetic": "へいあんちょう",
+      "word": "平安朝"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09b9b21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "early morning (from dawn to breakfast)"
+        }
+      ],
+      "mobileId": 285924,
+      "phonetic": "しゅうちょう",
+      "word": "終朝"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77125365",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "morning sky"
+        }
+      ],
+      "mobileId": 265048,
+      "phonetic": "あさぞら ちょうくう",
+      "word": "朝空"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f392408",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "朝御飯くらい食べていけばいいのに。",
+              "mean": "đáng lẽ, cậu nên ăn một chút gì đó, ít ra là bữa sáng",
+              "transcription": "あさごはんくらいたべていけばいいのに。"
+            },
+            {
+              "content": "ティナ、今日の朝御飯は何だったのかしら？",
+              "mean": "Tina, sáng nay, cậu ăn gì ?",
+              "transcription": "ティナ 、きょうのあさごはんはなにだったのかしら？"
+            }
+          ],
+          "kind": "n",
+          "mean": "bữa sáng; cơm sáng (nói chung)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơm sáng ."
+        }
+      ],
+      "mobileId": 185864,
+      "phonetic": "あさごはん",
+      "related_words": {
+        "word": [
+          "朝",
+          "飯",
+          "御",
+          "御飯"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "朝御飯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "朝飯",
+                "朝食"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "朝御飯"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f398800",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buổi sáng nhiều mây ."
+        }
+      ],
+      "mobileId": 185874,
+      "phonetic": "あさぐもり",
+      "word": "朝曇り"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

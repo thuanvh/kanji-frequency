@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afbb56c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鳥をかごから放つ",
+              "mean": "thả chim ra khỏi lồng",
+              "transcription": "とりをかごからはなつ"
+            },
+            {
+              "content": "かごから逃げる",
+              "mean": "trốn khỏi lồng",
+              "transcription": "かごからにげる"
+            },
+            {
+              "content": "鳥はかごから外に出た",
+              "mean": "con chim thoát ra khỏi lồng",
+              "transcription": "とりはかごからそとにでた"
+            },
+            {
+              "content": "テーブルの上のかごにたくさんの果物が入っている",
+              "mean": "có rất nhiều hoa quả trong rổ ở trên bàn",
+              "transcription": "テーブルのうえのかごにたくさんのくだものがはいっている"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái giỏ; giỏ; cái lồng; lồng; cái rổ; rổ; cái hom; hom"
+        }
+      ],
+      "mobileId": 174452,
+      "phonetic": "かご",
+      "related_words": {
+        "word": [
+          "篭る"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "篭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "籠"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "篭"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd924abc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cái nôi"
+        }
+      ],
+      "mobileId": 73460,
+      "phonetic": "ゆらかご",
+      "related_words": {
+        "word": [
+          "揺",
+          "篭"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "揺篭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "揺り籠",
+                "揺り篭"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "揺篭"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afbc40b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bỏ rọ ."
+        }
+      ],
+      "mobileId": 174453,
+      "phonetic": "かごになげいれる",
+      "word": "篭に投げ入れる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

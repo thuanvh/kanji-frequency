@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c098f678",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "revision"
+        }
+      ],
+      "mobileId": 211751,
+      "phonetic": "かい",
+      "word": "改"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d90d8e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự tu cải"
+        }
+      ],
+      "mobileId": 150322,
+      "phonetic": "おさむあらため",
+      "word": "修改"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d39eacd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "revision, modified plan"
+        }
+      ],
+      "mobileId": 216955,
+      "phonetic": "かいあん",
+      "word": "改案"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab9efb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "re-drawing up (of family register), re-establishment"
+        }
+      ],
+      "mobileId": 229347,
+      "phonetic": "かいせい",
+      "word": "改製"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b41c928",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "repagination, new page, form feed, page break"
+        }
+      ],
+      "mobileId": 241951,
+      "phonetic": "かいページ",
+      "related_words": {
+        "word": [
+          "ページ"
+        ]
+      },
+      "word": "改ページ"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c03ffbf2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese religious census used to repress Christians (Edo period)"
+        }
+      ],
+      "mobileId": 208891,
+      "phonetic": "しゅうもんあらため",
+      "word": "宗門改"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74def2e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cải tiến ."
+        }
+      ],
+      "mobileId": 100800,
+      "phonetic": "かいしん",
+      "word": "改進"
+    },
+    {
+      "_id": "f2d618ceb0702f781ec83b7d4f5cbb1b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "ngắt trang, phân trang"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "かいぺーじ",
+      "word": "改頁"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6881058a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trở đầu bộ lên giấy, về đầu dòng"
+        }
+      ],
+      "mobileId": 4107,
+      "phonetic": "ふくあらため",
+      "word": "復改"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef974ce48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reforming (esp. gasoline), reformulation, modifying"
+        }
+      ],
+      "mobileId": 276465,
+      "phonetic": "かいしつ",
+      "word": "改質"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280270c9e74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "bực"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "cấp"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "lớp ."
+        }
+      ],
+      "mobileId": 29315,
+      "phonetic": "きゅう",
+      "word": "級"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d04844",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "welterweight class (boxing)"
+        }
+      ],
+      "mobileId": 213563,
+      "phonetic": "ウエルターきゅう",
+      "word": "ウエルター級"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be24640d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cấp dưới flyweight"
+        }
+      ],
+      "mobileId": 90449,
+      "phonetic": "ジュニアフライきゅう",
+      "word": "ジュニアフライ級"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9225cca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "trauma inducing, traumatizing, extremely scary (of movies, etc.)"
+        }
+      ],
+      "mobileId": 273865,
+      "phonetic": "トラウマきゅう",
+      "word": "トラウマ級"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae47f0f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "<THể>  hạng cân nhẹ"
+        }
+      ],
+      "mobileId": 129646,
+      "phonetic": "ライトきゅう",
+      "word": "ライト級"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae47f2b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "võ sĩ hạng trung nhẹ"
+        }
+      ],
+      "mobileId": 129647,
+      "phonetic": "ライトウエルターきゅう",
+      "word": "ライトウエルター級"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801239732",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự nhảy cóc bước; sự nhảy cóc cấp bậc ."
+        }
+      ],
+      "mobileId": 42329,
+      "phonetic": "とびきゅう",
+      "word": "飛び級"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d158c06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "bậc nhất ."
+        }
+      ],
+      "mobileId": 141687,
+      "phonetic": "いっきゅう",
+      "related_words": {
+        "word": [
+          "一"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "一級",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一等",
+                "ナンバーワン",
+                "初め",
+                "一番",
+                "真っ先",
+                "トップ",
+                "最初"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一等",
+                "一流"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "一級"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d5d3481",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "Cấp độ 2 ."
+        }
+      ],
+      "mobileId": 143052,
+      "phonetic": "にきゅう",
+      "related_words": {
+        "word": [
+          "二"
+        ]
+      },
+      "word": "二級"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f9c9919",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cấp độ để so sánh ."
+        }
+      ],
+      "mobileId": 187514,
+      "opposite_word": [
+        "最上級"
+      ],
+      "phonetic": "ひかくきゅう",
+      "related_words": {
+        "word": [
+          "比較",
+          "比"
+        ]
+      },
+      "word": "比較級"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

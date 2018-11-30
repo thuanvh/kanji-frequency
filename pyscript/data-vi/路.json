@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad59f0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "route, road"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "distance travelled in a day"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(with decade) one's ...., age ...."
+        }
+      ],
+      "mobileId": 230266,
+      "phonetic": "じ",
+      "word": "路"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdafbaf4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường vòng ký tên; phân kỳ ký tên"
+        }
+      ],
+      "mobileId": 15376,
+      "phonetic": "うかいろ",
+      "related_words": {
+        "word": [
+          "回",
+          "迂回"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "迂回路",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "迂路",
+                "回り道"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "迂回路"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cfbc4e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một hàng cung cấp"
+        }
+      ],
+      "mobileId": 6625,
+      "phonetic": "ほきゅうろ",
+      "word": "補給路"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802779e8bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đường hàng không"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuyến hàng không; không lộ; đường bay ."
+        }
+      ],
+      "mobileId": 31211,
+      "phonetic": "こうくうろ",
+      "related_words": {
+        "word": [
+          "空",
+          "航空"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "航空路",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "空路"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "航空路"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8cc400e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường cái, quốc lộ, con đường chính, con đường, đường lối"
+        }
+      ],
+      "mobileId": 40041,
+      "phonetic": "おおやけろ",
+      "related_words": {
+        "word": [
+          "公"
+        ]
+      },
+      "word": "公路"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d6c71aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường giao thông ."
+        }
+      ],
+      "mobileId": 143295,
+      "phonetic": "こうつうろ",
+      "related_words": {
+        "word": [
+          "交通",
+          "通"
+        ]
+      },
+      "word": "交通路"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777208af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "section of the Nakasendo"
+        }
+      ],
+      "mobileId": 268134,
+      "phonetic": "きそじ",
+      "word": "木曽路"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757ff5c208",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "近くの滑走路に緊急着陸する",
+              "mean": "hạ cánh khẩn cấp xuống sân bay gần nhất",
+              "transcription": "ちかくのかっそうろにきんきゅうちゃくりくする"
+            },
+            {
+              "content": "滑走路から離陸する",
+              "mean": "cất cánh khỏi sân bay .",
+              "transcription": "かっそうろからりりくする"
+            }
+          ],
+          "kind": "n",
+          "mean": "đường băng; sân bay"
+        }
+      ],
+      "mobileId": 189011,
+      "phonetic": "かっそうろ",
+      "related_words": {
+        "word": [
+          "滑走"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "滑走路",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "アプローチ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "滑走路"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cddb5dc5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "st luke"
+        }
+      ],
+      "mobileId": 75778,
+      "phonetic": "みちか",
+      "word": "路加"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e288b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đèo ải"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đường hẻm"
+        },
+        {
+          "examples": [
+            {
+              "content": "隘路を打開する",
+              "mean": "Giải quyết những vấn đề trọng yếu",
+              "transcription": "隘路をだかいする"
+            },
+            {
+              "content": "〜における主要な隘路を分析する",
+              "mean": "Phân tích những vấn đề chủ chốt liên quan đến ~ .",
+              "transcription": "〜におけるしゅような隘路をぶんせきする"
+            }
+          ],
+          "kind": "n",
+          "mean": "Đường hẹp; hẻm núi; Nút giao thông thắt cổ chai; vấn đề chủ chốt; vấn đề trọng yếu"
+        }
+      ],
+      "mobileId": 110501,
+      "phonetic": "あいろ",
+      "word": "隘路"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

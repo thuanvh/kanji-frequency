@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680151896e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trống cơm ."
+        }
+      ],
+      "mobileId": 43179,
+      "phonetic": "つづみ",
+      "related_words": {
+        "word": [
+          "鼓動",
+          "太鼓",
+          "和太鼓",
+          "心臓の鼓動",
+          "鼓舞",
+          "鼓膜",
+          "鼓笛隊",
+          "鼓腹",
+          "太鼓判"
+        ]
+      },
+      "word": "鼓"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9eeeff8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "waisted drum, hourglass drum"
+        }
+      ],
+      "mobileId": 263910,
+      "phonetic": "さいようこ",
+      "word": "細腰鼓"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a079bb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the three types of gagaku drums"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "third division of the night (approx. 11 pm to 1 am)"
+        }
+      ],
+      "mobileId": 223641,
+      "phonetic": "さんこ",
+      "word": "三鼓"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfcf0eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rộng lớn trao cái trống"
+        }
+      ],
+      "mobileId": 17789,
+      "opposite_word": [
+        "小鼓"
+      ],
+      "phonetic": "だいこ",
+      "related_words": {
+        "word": [
+          "大",
+          "鼓"
+        ]
+      },
+      "word": "大鼓"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561ebec551",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "janggu (Korean hourglass drum), janggo, changgo"
+        }
+      ],
+      "mobileId": 254215,
+      "phonetic": "じょうこ チャンゴ チャング",
+      "word": "杖鼓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776ad482",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chorda tympani"
+        }
+      ],
+      "mobileId": 267912,
+      "phonetic": "こさく",
+      "word": "鼓索"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a936ab85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hourglass-shaped object"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sarugaku performance art using such an object"
+        }
+      ],
+      "mobileId": 258030,
+      "phonetic": "りゅうご",
+      "word": "輪鼓"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8eec5e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Kodou (tên một nhóm chơi trống ở đảo Sado)"
+        }
+      ],
+      "mobileId": 41153,
+      "phonetic": "つづみわらべ",
+      "word": "鼓童"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00a0d4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "motivating the troops on the battlefield with war drums and war cries"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "making an uproar"
+        }
+      ],
+      "mobileId": 281287,
+      "phonetic": "こそう",
+      "word": "鼓譟"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8426e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhịp trống đầu tiên"
+        }
+      ],
+      "mobileId": 13984,
+      "phonetic": "いちこ",
+      "related_words": {
+        "word": [
+          "一",
+          "鼓"
+        ]
+      },
+      "word": "一鼓"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

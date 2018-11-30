@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934a1b64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự đối xử tàn bạo"
+        }
+      ],
+      "mobileId": 20282,
+      "phonetic": "",
+      "word": "苛虐"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a89a7cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the eight unpardonable crimes in ancient Japanese law"
+        }
+      ],
+      "mobileId": 227795,
+      "phonetic": "はちぎゃく",
+      "word": "八虐"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770572b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "humiliation, indignity, affront, assault"
+        }
+      ],
+      "mobileId": 264636,
+      "phonetic": "りょうぎゃく",
+      "word": "凌虐"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd309494",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "làm phản; sự phản bội; sự tàn bạo"
+        }
+      ],
+      "mobileId": 11343,
+      "phonetic": "",
+      "word": "悪虐"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934a2c35",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "sự ngược đãi; sự hành hạ (làm người khác đau đớn và xấu hổ)"
+        }
+      ],
+      "mobileId": 20284,
+      "opposite_word": [
+        "被虐"
+      ],
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "加"
+        ]
+      },
+      "word": "加虐"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e58f10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hư hại và sự ngược đãi"
+        }
+      ],
+      "mobileId": 63436,
+      "phonetic": "",
+      "word": "賊虐"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7743685c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "ill-treatment, abuse"
+        }
+      ],
+      "mobileId": 266635,
+      "phonetic": "ぎゃくぐう",
+      "word": "虐遇"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96f3d7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sadism"
+        }
+      ],
+      "mobileId": 259864,
+      "phonetic": "かぎゃくせいよく",
+      "word": "加虐性欲"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd30ad34",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phản bội, phụ bạc, bội bạc, không tin được, dối trá, xảo trá"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cực kỳ tàn ác; ghê tởm (tội ác, kẻ phạm tội...)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phản nghịch, mưu phản"
+        }
+      ],
+      "mobileId": 11345,
+      "phonetic": "",
+      "word": "悪虐無道"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96f4729",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sadist"
+        }
+      ],
+      "mobileId": 259865,
+      "phonetic": "かぎゃくせいあいしゃ",
+      "word": "加虐性愛者"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

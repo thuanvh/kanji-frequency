@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568014324dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá bơn ."
+        }
+      ],
+      "mobileId": 42901,
+      "phonetic": "ひらめ",
+      "synsets": [
+        {
+          "base_form": "鮃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "平目",
+                "鰈"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鮃"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d387a92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "halibut (esp. the Pacific halibut, Hippoglossus stenolepis)"
+        }
+      ],
+      "mobileId": 216911,
+      "phonetic": "おひょう オヒョウ",
+      "word": "大鮃"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

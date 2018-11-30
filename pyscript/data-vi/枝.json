@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f504fc1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cành cây"
+        },
+        {
+          "examples": [
+            {
+              "content": "(木が)枝を広げる",
+              "mean": "Cành cây lan rộng",
+              "transcription": "(きが)えだをひろげる"
+            }
+          ],
+          "kind": "n",
+          "mean": "cành; nhánh"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhành"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhánh cây ."
+        }
+      ],
+      "mobileId": 186316,
+      "opposite_word": [
+        "幹"
+      ],
+      "phonetic": "えだ",
+      "related_words": {
+        "word": [
+          "枝豆",
+          "楊枝",
+          "小枝",
+          "爪楊枝",
+          "枝葉"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "枝",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ブランチ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "小枝"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "枝"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a0849b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "enshrined deity of a subordinate shrine"
+        }
+      ],
+      "mobileId": 277854,
+      "phonetic": "えだがみ",
+      "word": "枝神"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e6cd407",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "アプリケーションの枝番だ。",
+              "mean": "số phiên bản của ứng dụng",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "IT: số phiên bản"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "えだばん",
+      "word": "枝番"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91f95da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r",
+          "mean": "to work without sleep or rest"
+        }
+      ],
+      "mobileId": 273788,
+      "phonetic": "えだる エダる",
+      "word": "枝る"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e91ee7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pruning (e.g. decision tree)"
+        }
+      ],
+      "mobileId": 280215,
+      "phonetic": "えだかり",
+      "word": "枝刈り"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f50acbf",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "緑枝接ぎ",
+              "mean": "Kỹ thuật ghép cành non .",
+              "transcription": "みどりえだはぎ"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự ghép cành"
+        }
+      ],
+      "mobileId": 186320,
+      "phonetic": "えだつぎ",
+      "related_words": {
+        "word": [
+          "枝"
+        ]
+      },
+      "word": "枝接ぎ"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae391f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "barb (of a feather)"
+        }
+      ],
+      "mobileId": 230723,
+      "phonetic": "うし",
+      "word": "羽枝"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b54a26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "training (branches in horticulture)"
+        }
+      ],
+      "mobileId": 286770,
+      "phonetic": "せいし",
+      "word": "整枝"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada31f5db",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "切り枝〔園芸の〕",
+              "mean": "bộ cắt tỉa .",
+              "transcription": "きりえだ〔えんげいの〕"
+            }
+          ],
+          "kind": "n",
+          "mean": "cành cắt (để giâm)"
+        }
+      ],
+      "mobileId": 77787,
+      "phonetic": "きりえだ",
+      "related_words": {
+        "word": [
+          "切",
+          "切り"
+        ]
+      },
+      "word": "切り枝"
+    },
+    {
+      "_id": "432518852de0a80625d585a982292275",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "switch (long, young branch)"
+        }
+      ],
+      "mobileId": 232935,
+      "phonetic": "しもと",
+      "word": "細枝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

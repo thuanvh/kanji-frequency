@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada7c21e3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "num",
+          "mean": "đơn vị tiền tệ xưa = 0.001 đồng yên; 1 đơn vị chiều dài= 0,3 mm"
+        }
+      ],
+      "mobileId": 79041,
+      "phonetic": "りん",
+      "word": "厘"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a71fda",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "(không) trong bé nhất;(không) một mẩu"
+        }
+      ],
+      "mobileId": 5321,
+      "phonetic": "ぶんりん",
+      "related_words": {
+        "word": [
+          "分"
+        ]
+      },
+      "word": "分厘"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6ed5a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lò than hồng (người làm đồ đồng) chì than bằng đất (để nấu)"
+        }
+      ],
+      "mobileId": 149244,
+      "phonetic": "ななりん",
+      "related_words": {
+        "word": [
+          "七"
+        ]
+      },
+      "word": "七厘"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d0a115c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "一分一厘の狂いもない",
+              "mean": "chẳng điên tí nào .",
+              "transcription": "いちぶいちりんのくるいもない"
+            }
+          ],
+          "kind": "n",
+          "mean": "một chút; một ít; một tí"
+        }
+      ],
+      "mobileId": 141565,
+      "phonetic": "いちぶいちりん",
+      "related_words": {
+        "word": [
+          "分",
+          "一",
+          "一分"
+        ]
+      },
+      "word": "一分一厘"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e855ae4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "cược mười ăn một; hầu như chắc chắn"
+        }
+      ],
+      "mobileId": 36250,
+      "phonetic": "くぶくりん",
+      "word": "九分九厘"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7d405f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "để (thì) giống nhau chính xác"
+        }
+      ],
+      "mobileId": 13769,
+      "phonetic": "いちぶいちりんもちがわず",
+      "word": "一分一厘も違わず"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

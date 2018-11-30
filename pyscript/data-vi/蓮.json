@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280279b19f4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "蓮の花",
+              "mean": "hoa sen .",
+              "transcription": "はちすのはな"
+            }
+          ],
+          "kind": "n",
+          "mean": "sen"
+        }
+      ],
+      "mobileId": 31806,
+      "phonetic": "はす",
+      "related_words": {
+        "word": [
+          "蓮華",
+          "蓮根",
+          "一蓮托生"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "蓮",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ロータス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蓮"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f0c624",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jacana (esp. the pheasant-tailed jacana, Hydrophasianus chirurgus), lily-trotter"
+        }
+      ],
+      "mobileId": 272268,
+      "phonetic": "れんかく レンカク",
+      "word": "蓮角"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99fcd27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lotus root-starch dumpling"
+        }
+      ],
+      "mobileId": 277832,
+      "phonetic": "はすもち れんもち",
+      "word": "蓮餅"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280279b345a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chè sen ."
+        }
+      ],
+      "mobileId": 31808,
+      "phonetic": "はすちゃ",
+      "word": "蓮茶"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e01e2cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giant elephant ear (species of taro, Colocasia gigantea)"
+        }
+      ],
+      "mobileId": 248061,
+      "phonetic": "はすいも ハスイモ",
+      "word": "蓮芋"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19312549e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hoa súng"
+        }
+      ],
+      "mobileId": 18502,
+      "phonetic": "おにはちす",
+      "word": "鬼蓮"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a8a81d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cây hoa mộc lan trắng ."
+        }
+      ],
+      "mobileId": 172557,
+      "phonetic": "はくもくれん",
+      "word": "白木蓮"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561ebf39de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nasturtium (species of Indian cress, Tropaeolum majus)"
+        }
+      ],
+      "mobileId": 254234,
+      "phonetic": "のうぜんはれん ノウゼンハレン",
+      "word": "凌霄葉蓮"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280279b249f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hoa sen ."
+        }
+      ],
+      "mobileId": 31807,
+      "phonetic": "はすのはな",
+      "related_words": {
+        "word": [
+          "の",
+          "花",
+          "蓮"
+        ]
+      },
+      "word": "蓮の花"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d12d8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "royal water lily, water platter"
+        }
+      ],
+      "mobileId": 213594,
+      "phonetic": "おおおにばす",
+      "word": "大鬼蓮"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

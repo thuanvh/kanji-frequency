@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c052a96a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "brilliant, bright"
+        }
+      ],
+      "mobileId": 209503,
+      "phonetic": "らん",
+      "word": "爛"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb8acb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chết thiêu, chết cháy"
+        }
+      ],
+      "mobileId": 74710,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "死"
+        ]
+      },
+      "word": "爛死"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb984b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rực rỡ; sáng sủa"
+        }
+      ],
+      "mobileId": 74736,
+      "phonetic": "",
+      "word": "爛たる"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e06d7c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "tới nguyên nhân sẽ được đốt"
+        }
+      ],
+      "mobileId": 111249,
+      "phonetic": "",
+      "word": "爛らかす"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

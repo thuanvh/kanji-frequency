@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a7c2579",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bệnh ung thư"
+        },
+        {
+          "examples": [
+            {
+              "content": "癌を克服した人",
+              "mean": "người được chữa khỏi căn bệnh ung thư",
+              "transcription": "がんをこくふくしたひと"
+            },
+            {
+              "content": "癌を患う危険性",
+              "mean": "khả năng nhiễm bệnh ung thư",
+              "transcription": "がんをわずらうきけんせい"
+            },
+            {
+              "content": "その企業は製品が皮膚癌を引き起こしたとして訴えられた",
+              "mean": "doanh nghiệp đó bị kiện là sản phẩm đã gây ra bệnh ung thư",
+              "transcription": "そのきぎょうはせいひんがひふがんをひきおこしたとしてうったえられた"
+            },
+            {
+              "content": "〜に転移した癌",
+              "mean": "ung thư biến chứng từ ~",
+              "transcription": "〜にてんいしたがん"
+            },
+            {
+              "content": "〜によって起こる癌",
+              "mean": "căn bệnh ung thư gây ra bởi",
+              "transcription": "〜によっておこるがん"
+            },
+            {
+              "content": "（人）の中で最も頻度の高い癌",
+              "mean": "căn bệnh ung thư thường xuất hiện nhất ở những người~",
+              "transcription": "（ひと）のなかでもっともひんどのたかいがん"
+            },
+            {
+              "content": "たばこが誘導する癌",
+              "mean": "căn bệnh ung thư gây ra bởi hút thuốc",
+              "transcription": "たばこがゆうどうするがん"
+            },
+            {
+              "content": "ゆっくりと進行するタイプの癌",
+              "mean": "kiểu ung thư tiến triển một cách từ từ .",
+              "transcription": "ゆっくりとしんこうするタイプのがん"
+            }
+          ],
+          "kind": "n",
+          "mean": "ung thư"
+        }
+      ],
+      "mobileId": 172335,
+      "phonetic": "がん",
+      "related_words": {
+        "word": [
+          "乳癌",
+          "肺癌",
+          "胃癌"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "癌",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ガン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "故障",
+                "雑音",
+                "足枷",
+                "支障",
+                "干渉",
+                "荷物",
+                "障害",
+                "口出し",
+                "足かせ",
+                "邪魔物",
+                "瘤",
+                "重荷",
+                "荷",
+                "口だし",
+                "妨げ",
+                "邪魔",
+                "荷厄介",
+                "差し支え",
+                "害",
+                "妨害",
+                "差し障り",
+                "横槍"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "キャンサー",
+                "癌腫"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "癌"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e66b4a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "adenocarcinoma"
+        }
+      ],
+      "mobileId": 251355,
+      "phonetic": "せんがん",
+      "word": "腺癌"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a90984c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh ung thư da ."
+        }
+      ],
+      "mobileId": 172689,
+      "phonetic": "ひふがん",
+      "word": "皮膚癌"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773711c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "colon cancer"
+        }
+      ],
+      "mobileId": 266244,
+      "phonetic": "けっちょうがん",
+      "word": "結腸癌"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027642b63",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bệnh ung thư thận ."
+        }
+      ],
+      "mobileId": 30784,
+      "phonetic": "じんぞうがん",
+      "word": "腎臓癌"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680139e1d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bệnh ung thư xương ."
+        }
+      ],
+      "mobileId": 42723,
+      "phonetic": "こつずいがん",
+      "word": "骨髄癌"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193caede6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tế bào ung thư"
+        }
+      ],
+      "mobileId": 24349,
+      "phonetic": "がんさいぼう",
+      "word": "癌細胞"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adadfc5a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh ung thư huyết hầu ."
+        }
+      ],
+      "mobileId": 80616,
+      "phonetic": "こうとうがん",
+      "word": "喉頭癌"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dbc5dca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liver cancer (esp. hepatoma)"
+        }
+      ],
+      "mobileId": 221204,
+      "phonetic": "かんがん かんガン",
+      "word": "肝癌"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773750e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tar cancer, tar carcinoma"
+        }
+      ],
+      "mobileId": 266254,
+      "phonetic": "タールがん",
+      "word": "タール癌"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

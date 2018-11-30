@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a925525d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "truth"
+        }
+      ],
+      "mobileId": 257465,
+      "phonetic": "りょう",
+      "word": "諒"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99b01fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "pity, compassion, sympathizing"
+        }
+      ],
+      "mobileId": 277679,
+      "phonetic": "びんりょう",
+      "word": "憫諒"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdcf4f50",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự ghi nhận; hiểu; tăng giá trị; tha lỗi"
+        }
+      ],
+      "mobileId": 75410,
+      "phonetic": "りょうと",
+      "word": "諒と"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c030da9a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, vs-i",
+          "mean": "to acknowledge, to understand, to appreciate"
+        }
+      ],
+      "mobileId": 208415,
+      "phonetic": "りょうとする",
+      "word": "諒とする"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa73f190d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "有蹄で毛皮のある肉食動物",
+              "mean": "động vật ăn thịt có vuốt và lông",
+              "transcription": "ゆうひずめでけがわのあるにくしょくどうぶつ"
+            },
+            {
+              "content": "蹄割れた蹄を持つ動物",
+              "mean": "động vật có móng vuốt chẻ hai",
+              "transcription": "ひずめわれたひずめをもつどうぶつ"
+            },
+            {
+              "content": "蹄でかく",
+              "mean": "cào bằng móng vuốt",
+              "transcription": "ひずめでかく"
+            },
+            {
+              "content": "蹄が割れていない",
+              "mean": "móng không chia .",
+              "transcription": "ひずめがわれていない"
+            }
+          ],
+          "kind": "n",
+          "mean": "móng vuốt"
+        }
+      ],
+      "mobileId": 107706,
+      "phonetic": "ひづめ",
+      "related_words": {
+        "word": [
+          "蹄鉄"
+        ]
+      },
+      "word": "蹄"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf68151",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shoeing a horse, horseshoeing"
+        }
+      ],
+      "mobileId": 247703,
+      "phonetic": "そうてい",
+      "word": "装蹄"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa73f2d7f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "蹄叉中溝",
+              "mean": "xương ức ở giữa .",
+              "transcription": "ひずめまたなかみぞ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Xương ức"
+        }
+      ],
+      "mobileId": 107707,
+      "phonetic": "ていさ",
+      "word": "蹄叉"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c87842",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bàn chân cloven"
+        }
+      ],
+      "mobileId": 62492,
+      "phonetic": "そうひずめ",
+      "related_words": {
+        "word": [
+          "双",
+          "蹄"
+        ]
+      },
+      "word": "双蹄"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa42d1d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "bệnh lở mồm long móng"
+        }
+      ],
+      "mobileId": 228650,
+      "phonetic": "こうていえき",
+      "word": "口蹄疫"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd86ba44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "loài động vật có móng guốc"
+        }
+      ],
+      "mobileId": 73068,
+      "phonetic": "ゆうひずめるい",
+      "word": "有蹄類"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93c824c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Meridiungulata, extinct clade of South American ungulates"
+        }
+      ],
+      "mobileId": 274704,
+      "phonetic": "ごていちゅうもく",
+      "word": "午蹄中目"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8c91b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Perissodactyla (order of odd-toed ungulates, incl. horses, tapirs, etc.)"
+        }
+      ],
+      "mobileId": 219623,
+      "phonetic": "きていもく",
+      "word": "奇蹄目"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae89db1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "unguligrade (walking on hooves)"
+        }
+      ],
+      "mobileId": 230880,
+      "phonetic": "ていこうせい",
+      "word": "蹄行性"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf65632",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "farrier (person who fits foot irons on horses and cows), hoof (care) specialist"
+        }
+      ],
+      "mobileId": 247696,
+      "phonetic": "そうていし",
+      "word": "装蹄師"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

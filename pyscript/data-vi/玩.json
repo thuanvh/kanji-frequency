@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3b14f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small toy sold with food, premium"
+        }
+      ],
+      "mobileId": 216992,
+      "phonetic": "しょくがん",
+      "word": "食玩"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0dab59f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "forgetting one's serious objectives by becoming engrossed in trivial pursuits, being distracted by trivial objects and losing sight of one's original goal"
+        }
+      ],
+      "mobileId": 213912,
+      "phonetic": "がんぶつそうし",
+      "word": "玩物喪志"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

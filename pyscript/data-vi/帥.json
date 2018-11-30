@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d6953d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thống đốc (cổ xưa)"
+        }
+      ],
+      "mobileId": 62957,
+      "phonetic": "そち",
+      "related_words": {
+        "word": [
+          "元帥",
+          "総帥"
+        ]
+      },
+      "word": "帥"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77bd2f32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "leader of a fearless tribe"
+        }
+      ],
+      "mobileId": 270587,
+      "phonetic": "たける",
+      "word": "梟帥"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d76a80",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cầm (lấy) sáng kiến"
+        }
+      ],
+      "mobileId": 62988,
+      "phonetic": "そちさき",
+      "related_words": {
+        "word": [
+          "先",
+          "帥"
+        ]
+      },
+      "word": "帥先"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f99ca1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chief of bandits"
+        }
+      ],
+      "mobileId": 264254,
+      "phonetic": "きょすい",
+      "word": "渠帥"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de4ede5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Shisui Faction (of the LDP)"
+        }
+      ],
+      "mobileId": 222528,
+      "phonetic": "しすいかい",
+      "word": "志帥会"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

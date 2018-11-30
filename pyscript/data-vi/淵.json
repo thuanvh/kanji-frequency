@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fe2c90a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "悲しみの深い淵に沈んでいる",
+              "mean": "Chìm ngập trong khổ đau.",
+              "transcription": "かなしみのふかいふちにしずんでいる"
+            },
+            {
+              "content": "忘却の淵に沈む",
+              "mean": "Chìm vào quên lãng.",
+              "transcription": "ぼうきゃくのふちにしずむ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Bể nước sâu; vực thẳm"
+        }
+      ],
+      "mobileId": 188667,
+      "opposite_word": [
+        "瀬"
+      ],
+      "phonetic": "ふち",
+      "related_words": {
+        "word": [
+          "深淵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "淵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "裂け目",
+                "割れ目",
+                "渓間",
+                "谷間",
+                "割目"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "淵"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d4702d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bottom depths (of water), abyss"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "depths (of something), bottom"
+        },
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "completely, thoroughly, fully"
+        }
+      ],
+      "mobileId": 279556,
+      "phonetic": "えんてい",
+      "word": "淵底"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e1235e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "type of imperial banquet held during the Heian period and later"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "being dead drunk, being very drunk"
+        }
+      ],
+      "mobileId": 263459,
+      "phonetic": "えんすい えんずい",
+      "word": "淵酔"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801339b1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ga"
+        },
+        {
+          "examples": [
+            {
+              "content": "大阪駅で５時に待ち合わせましょう。",
+              "mean": "Chúng ta sẽ gặp nhau vào lúc 5 giờ tại ga Osaka nhé. .",
+              "transcription": "おおさかえきでごじにまちあわせましょう。"
+            }
+          ],
+          "kind": "n",
+          "mean": "nhà ga"
+        }
+      ],
+      "mobileId": 42629,
+      "phonetic": "えき",
+      "related_words": {
+        "word": [
+          "駅員",
+          "駅弁",
+          "終着駅",
+          "駅伝",
+          "乗車駅",
+          "駅名",
+          "各駅",
+          "駅長",
+          "駅舎",
+          "地下鉄の駅"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "駅",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "停車場"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "駅"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04e67af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bus station, bus terminal"
+        }
+      ],
+      "mobileId": 283469,
+      "phonetic": "じどうしゃえき",
+      "word": "自動車駅"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada3ddb3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ga đến ."
+        }
+      ],
+      "mobileId": 77973,
+      "phonetic": "とうちゃくえき",
+      "word": "到着駅"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d44a22f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ga giữa đường"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ga trung gian ."
+        }
+      ],
+      "mobileId": 142579,
+      "phonetic": "ちゅうかんえき",
+      "related_words": {
+        "word": [
+          "中",
+          "間",
+          "駅",
+          "中間"
+        ]
+      },
+      "word": "中間駅"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b83f03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "official during the ritsuryo period who was allowed to use the state-provided stables and horses"
+        }
+      ],
+      "mobileId": 262167,
+      "phonetic": "えきし うまやづかい はゆまづかい",
+      "word": "駅使"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04970e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "close to a station"
+        }
+      ],
+      "mobileId": 283317,
+      "phonetic": "えきちか",
+      "word": "駅近"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddf8eb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự giao hàng (của) chuyên chở tới một nhà ga"
+        }
+      ],
+      "mobileId": 16840,
+      "phonetic": "えきとめ",
+      "word": "駅止め"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddf994c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự giao hàng (của) chuyên chở tới một nhà ga"
+        }
+      ],
+      "mobileId": 16841,
+      "phonetic": "えきとめ",
+      "word": "駅留め"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa773cd6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ga chuyển tiếp"
+        },
+        {
+          "examples": [
+            {
+              "content": "急行列車通過駅",
+              "mean": "Ga không dừng của tàu tốc hành",
+              "transcription": "きゅうこうれっしゃつうかえき"
+            }
+          ],
+          "kind": "n",
+          "mean": "ga mà tàu không dừng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ga quá cảnh ."
+        }
+      ],
+      "mobileId": 108672,
+      "phonetic": "つうかえき",
+      "related_words": {
+        "word": [
+          "駅",
+          "通",
+          "通過"
+        ]
+      },
+      "word": "通過駅"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef81177",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ga chuyển tàu"
+        }
+      ],
+      "mobileId": 118937,
+      "phonetic": "のりかええき",
+      "word": "乗り換え駅"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6723d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "gear, speed (as in 4 speed automatic transmission and such)"
+        }
+      ],
+      "mobileId": 218414,
+      "opposite_word": [
+        "遅"
+      ],
+      "phonetic": "そく",
+      "word": "速"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682072d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhanh làm việc;(thông minh) chiến công"
+        }
+      ],
+      "mobileId": 1031,
+      "phonetic": "はやぎょう",
+      "word": "速業"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6896dd5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vận tốc tính theo phút"
+        }
+      ],
+      "mobileId": 4786,
+      "phonetic": "ぶんそく",
+      "word": "分速"
+    },
+    {
+      "_id": "432518852de0a80625d585a982789e41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "quick drying (properties)"
+        }
+      ],
+      "mobileId": 235438,
+      "phonetic": "そっかんせい",
+      "word": "速乾性"
+    },
+    {
+      "_id": "432518852de0a80625d585a98278a4c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "quick drying"
+        }
+      ],
+      "mobileId": 235439,
+      "phonetic": "そっかん",
+      "word": "速乾"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b071cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "final velocity"
+        }
+      ],
+      "mobileId": 270187,
+      "phonetic": "しゅうそく",
+      "word": "終速"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7750458",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chóng tàn ."
+        }
+      ],
+      "mobileId": 108690,
+      "phonetic": "はやすぎる",
+      "word": "速すぎる"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e983772",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Tốc độ bền."
+        }
+      ],
+      "mobileId": 115893,
+      "phonetic": "とう そく",
+      "word": "等速"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d1501d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tăng tốc đọc"
+        }
+      ],
+      "mobileId": 62783,
+      "phonetic": "",
+      "word": "速読"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa774f734",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "材料（中）を光が通り抜ける速さ",
+              "mean": "Tốc độ xuyên qua vật chất của ánh sáng.",
+              "transcription": "ざいりょう（なか）をひかりがとおりぬけるはやさ"
+            },
+            {
+              "content": "時速180マイルくらいかなあ。この電車は時速40マイルくらいだから...新幹線は、この電車の4倍以上の速さだよ！",
+              "mean": "Cỡ phải đến 180 dặm/h đấy nhỉ. Con tàu này chạy khoảng 40dặm/h, tàu Shinkansen có tốc độ nhanh gấp hơn 4 lần con tàu này. .",
+              "transcription": "じそく180マイルくらいかなあ。このでんしゃはじそく40マイルくらいだから...しんかんせんは、このでんしゃの4ばいいじょうのはやさだよ！"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự nhanh chóng; sự mau lẹ"
+        }
+      ],
+      "mobileId": 108689,
+      "phonetic": "はやさ",
+      "synsets": [
+        {
+          "base_form": "速さ",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "速力度",
+                "速度",
+                "速力",
+                "スピード"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "速度",
+                "スピード"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ペース",
+                "歩み",
+                "速度",
+                "歩",
+                "スピード",
+                "進度"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "速さ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

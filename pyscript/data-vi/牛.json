@@ -1,0 +1,227 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a2891e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bò"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼は牛を６０頭飼っている。",
+              "mean": "Ông ta nuôi 60 con bò. .",
+              "transcription": "かれはうしをろくぜろとうかっている。"
+            }
+          ],
+          "kind": "n",
+          "mean": "con bò"
+        }
+      ],
+      "mobileId": 171046,
+      "phonetic": "うし",
+      "related_words": {
+        "word": [
+          "牛乳",
+          "牛肉",
+          "雄牛",
+          "牡牛座",
+          "子牛",
+          "水牛",
+          "闘牛",
+          "和牛",
+          "乳牛",
+          "牛蒡"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "牛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "牛肉",
+                "ビーフ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雌牛"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雄"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "牛"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a949beb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "aurochs, urus (extinct ancestor of the modern cow, Bos taurus)"
+        }
+      ],
+      "mobileId": 228147,
+      "phonetic": "げんぎゅう",
+      "word": "原牛"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca013b900",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "raging bull, ferocious bull"
+        }
+      ],
+      "mobileId": 281586,
+      "phonetic": "もうぎゅう",
+      "word": "猛牛"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e832ef5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bò thiến cúng thần"
+        }
+      ],
+      "mobileId": 35124,
+      "phonetic": "",
+      "word": "犠牛"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c6b88c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gnu, wildebeest"
+        }
+      ],
+      "mobileId": 213254,
+      "phonetic": "うしかもしか",
+      "word": "牛羚羊"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a299750",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bò cái ."
+        }
+      ],
+      "mobileId": 171063,
+      "opposite_word": [
+        "牝牛"
+      ],
+      "phonetic": "おうし",
+      "related_words": {
+        "word": [
+          "牛",
+          "牡",
+          "牡牛座"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "牡牛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "雌牛"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "牡牛"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf53683",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "con bò đực"
+        }
+      ],
+      "mobileId": 17543,
+      "opposite_word": [
+        "雌牛"
+      ],
+      "phonetic": "おうし",
+      "related_words": {
+        "word": [
+          "牛",
+          "雄"
+        ]
+      },
+      "word": "雄牛"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af414cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ox warble fly (Hypoderma bovis)"
+        }
+      ],
+      "mobileId": 231241,
+      "phonetic": "うしばえ ウシバエ",
+      "word": "牛蠅"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a746d64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mountain anoa (Bubalus quarlesi)"
+        }
+      ],
+      "mobileId": 227120,
+      "phonetic": "やますいぎゅう",
+      "word": "山水牛"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83913cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sừng bò, sừng trâu"
+        }
+      ],
+      "mobileId": 35320,
+      "phonetic": "うしかく",
+      "related_words": {
+        "word": [
+          "角",
+          "牛"
+        ]
+      },
+      "word": "牛角"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

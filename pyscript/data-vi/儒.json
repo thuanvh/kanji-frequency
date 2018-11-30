@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dd886d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đạo Khổng; người theo đạo Khổng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "học bổng Trung Quốc ."
+        }
+      ],
+      "mobileId": 145135,
+      "phonetic": "じゅ",
+      "related_words": {
+        "word": [
+          "儒教"
+        ]
+      },
+      "word": "儒"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1070a4417",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc chôn sống những người theo Nho học (thời Tần thủy Hoàng) ."
+        }
+      ],
+      "mobileId": 52056,
+      "phonetic": "こうじゅ",
+      "word": "坑儒"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d61352d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giáo viên; người có học"
+        }
+      ],
+      "mobileId": 148808,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "師",
+          "儒"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "師儒",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "学究",
+                "学者",
+                "学習者"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "師儒"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952033be",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cá nược; con lợn biển"
+        }
+      ],
+      "mobileId": 57129,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "儒"
+        ]
+      },
+      "word": "儒良"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

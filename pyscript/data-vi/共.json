@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada01b9db",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "私の視力は両目共に1.0です",
+              "mean": "Thị lực của tôi cả hai mắt cùng là 1.0.",
+              "transcription": "わたしのしりょくはりょうめどもに1 . 0です"
+            },
+            {
+              "content": "私共が思っていた価格より、少々高めなよう",
+              "mean": "Mức giá đó đã cao hơn một chút so với mức chúng tôi đã nghĩ .",
+              "transcription": "わたしどもがおもっていたかかくより、しょうしょうたかめなよう"
+            }
+          ],
+          "kind": "suf",
+          "mean": "sự cùng nhau"
+        }
+      ],
+      "mobileId": 76944,
+      "phonetic": "ども",
+      "related_words": {
+        "word": [
+          "公共",
+          "共に",
+          "共感",
+          "共和国",
+          "共産主義",
+          "公共料金",
+          "中華人民共和国",
+          "共振",
+          "公共の",
+          "共演"
+        ]
+      },
+      "word": "共"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8033805",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "liên doanh"
+        }
+      ],
+      "mobileId": 33586,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "共"
+        ]
+      },
+      "word": "共営"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca044e99d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "by both oneself and others"
+        }
+      ],
+      "mobileId": 283181,
+      "phonetic": "じたとも",
+      "word": "自他共"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80e17cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "(sinh học); tác động kép; cùng tác động; cùng hoạt động"
+        }
+      ],
+      "mobileId": 33945,
+      "phonetic": "",
+      "word": "共働"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e813eb4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự hợp tác"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự cộng tác, sự cộng tác với địch"
+        }
+      ],
+      "mobileId": 34132,
+      "phonetic": "ともりょく",
+      "word": "共力"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da9018b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "comitative"
+        }
+      ],
+      "mobileId": 220558,
+      "phonetic": "きょうかく",
+      "word": "共格"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8132aa6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồng dịch giả"
+        }
+      ],
+      "mobileId": 34106,
+      "phonetic": "きょうやくしゃ",
+      "word": "共訳者"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ed37c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "các thứ; quan trọng"
+        }
+      ],
+      "mobileId": 41108,
+      "phonetic": "ことども",
+      "related_words": {
+        "word": [
+          "共",
+          "事"
+        ]
+      },
+      "word": "事共"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900edd50e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(trong câu phủ định) hoàn toàn khộng\r\n\r\nrất, hoàn toàn"
+        }
+      ],
+      "mobileId": 118080,
+      "phonetic": "なにども",
+      "related_words": {
+        "word": [
+          "何",
+          "共"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "何共",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "完全に",
+                "すっかり",
+                "丸で",
+                "全く"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "何共"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dac59f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "joint work (art, music, etc.)"
+        }
+      ],
+      "mobileId": 220662,
+      "phonetic": "きょうさくきょく",
+      "word": "共作曲"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

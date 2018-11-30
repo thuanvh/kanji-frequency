@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68575c78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vt",
+          "mean": "tới sự xoay vòng; tới sự quay tròn; để kéo vi ô lông với; tới cách viết thay đổi"
+        }
+      ],
+      "mobileId": 2790,
+      "phonetic": "ひねくる",
+      "synsets": [
+        {
+          "base_form": "捻くる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "折り曲げる",
+                "捻る",
+                "曲げる",
+                "捩じ曲げる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "捻くる"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68576992",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "tới sự vặn; tới sự xoay vòng"
+        }
+      ],
+      "mobileId": 2792,
+      "phonetic": "ひねくりまわす",
+      "related_words": {
+        "word": [
+          "回",
+          "回す"
+        ]
+      },
+      "word": "捻くり回す"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0351c17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crepitus, crepitation"
+        }
+      ],
+      "mobileId": 282658,
+      "phonetic": "ねんぱつおん",
+      "word": "捻髪音"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

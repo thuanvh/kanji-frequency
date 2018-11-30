@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568010081a0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "青々とした牧草地の馬が田園詩の一こまのようだった",
+              "mean": "một con ngựa trên đồng cỏ xanh tạo nên khung cảnh đồng quê thanh bình.",
+              "transcription": "あおあおとしたぼくそうちのうまがでんえんしのひとこまのようだった"
+            }
+          ],
+          "kind": "n, adj-no, adj-na",
+          "mean": "màu xanh"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no, adj-na",
+          "mean": "màu xanh lơ ."
+        }
+      ],
+      "mobileId": 41722,
+      "phonetic": "あお",
+      "related_words": {
+        "word": [
+          "青い",
+          "青春",
+          "青い鳥",
+          "青空",
+          "青年",
+          "刺青",
+          "青色",
+          "青銅",
+          "青少年",
+          "青白い"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "青",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "青色"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "青信号"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "青"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09eef6c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fenqing, leftist Chinese youth (usu. nationalistic)"
+        }
+      ],
+      "mobileId": 286027,
+      "phonetic": "ふんせい",
+      "word": "憤青"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0094b2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "maple tree not yet turned red"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kasane color combination - green at front and russet behind"
+        }
+      ],
+      "mobileId": 281259,
+      "phonetic": "あおもみじ",
+      "word": "青紅葉"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9580eb19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "xám xịt"
+        }
+      ],
+      "mobileId": 60193,
+      "phonetic": "あおあいいろ",
+      "related_words": {
+        "word": [
+          "青",
+          "色",
+          "藍",
+          "藍色"
+        ]
+      },
+      "word": "青藍色"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c098c2e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blue team"
+        }
+      ],
+      "mobileId": 211745,
+      "phonetic": "あおぐみ",
+      "word": "青組"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97c1ae7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dark indigo tinged with brighter blue"
+        }
+      ],
+      "mobileId": 276693,
+      "phonetic": "あおかち",
+      "word": "青褐"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7742bfe7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ramie fibre (fiber)"
+        }
+      ],
+      "mobileId": 266615,
+      "phonetic": "あおそ",
+      "word": "青麻"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a356b5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Spanish fly (Lytta vesicatoria)"
+        }
+      ],
+      "mobileId": 225126,
+      "phonetic": "あおはんみょう",
+      "word": "青斑猫"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda240d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xăm"
+        }
+      ],
+      "mobileId": 14940,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "青"
+        ]
+      },
+      "word": "剳青"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680103e630",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bèo tấm ."
+        }
+      ],
+      "mobileId": 41791,
+      "phonetic": "あおうきくさ",
+      "word": "青萍"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

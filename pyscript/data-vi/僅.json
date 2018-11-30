@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e824f343",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một nhỏ bé; số lượng nhỏ"
+        }
+      ],
+      "mobileId": 34679,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "僅か",
+          "僅少",
+          "僅差"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "僅",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "少量",
+                "小量"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "僅"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8271fa0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "đơn thuần; không nhiều hơn"
+        }
+      ],
+      "mobileId": 34746,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "々",
+          "僅"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "僅々",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "啻に",
+                "単に",
+                "僅僅",
+                "ただ",
+                "たった",
+                "唯唯",
+                "只只",
+                "高々"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "僅々"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

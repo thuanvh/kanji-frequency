@@ -1,0 +1,268 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280274695cf",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "若者",
+              "mean": "người trẻ, giới trẻ",
+              "transcription": "わかもの"
+            },
+            {
+              "content": "学者",
+              "mean": "học giả .",
+              "transcription": "がくしゃ"
+            }
+          ],
+          "kind": "n",
+          "mean": "người; kẻ"
+        }
+      ],
+      "mobileId": 30287,
+      "phonetic": "もの",
+      "related_words": {
+        "word": [
+          "担当者",
+          "作成者",
+          "忍者",
+          "責任者",
+          "管理者",
+          "配偶者",
+          "参加者",
+          "勇者",
+          "加入者",
+          "技術者"
+        ]
+      },
+      "word": "者"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68289366",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giám khảo ((của) những cuộc thi văn học)"
+        }
+      ],
+      "mobileId": 1308,
+      "phonetic": "はんしゃ",
+      "related_words": {
+        "word": [
+          "者",
+          "判"
+        ]
+      },
+      "word": "判者"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684897c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người sao, người chép lại, người bắt chước"
+        }
+      ],
+      "mobileId": 2344,
+      "phonetic": "ひっきしゃ",
+      "word": "筆記者"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cd8e93",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lang thang; sống lang thang, vẩn vơ; vô định, kẻ lang thang nay đây mai đó"
+        }
+      ],
+      "mobileId": 6560,
+      "phonetic": "ほうろうしゃ",
+      "related_words": {
+        "word": [
+          "者",
+          "放浪"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "放浪者",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "浮浪者"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "渡り鳥",
+                "渡り者",
+                "流れ者"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "浮浪者",
+                "ドリフター",
+                "渡り者",
+                "流れ者",
+                "バガボンド"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "放浪者"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6899e9d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "rũ xuống; lazybones"
+        }
+      ],
+      "mobileId": 4884,
+      "phonetic": "ぶしょうしゃ",
+      "related_words": {
+        "word": [
+          "者",
+          "精",
+          "不精"
+        ]
+      },
+      "word": "不精者"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a5e3d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà bào chế, người pha chế thuốc"
+        }
+      ],
+      "mobileId": 5272,
+      "phonetic": "ぶんぱいしゃ",
+      "related_words": {
+        "word": [
+          "分",
+          "者",
+          "分配"
+        ]
+      },
+      "word": "分配者"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a8794c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà chiến thuật"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà chiến lược"
+        }
+      ],
+      "mobileId": 5366,
+      "phonetic": "へいがくしゃ",
+      "related_words": {
+        "word": [
+          "者",
+          "兵",
+          "学者"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "兵学者",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "軍師",
+                "兵法家",
+                "策士",
+                "兵家"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "軍師",
+                "兵法家",
+                "兵家"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "兵学者"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027e0c2bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "huấn lệnh viên ."
+        }
+      ],
+      "mobileId": 32947,
+      "phonetic": "くんれんしゃ",
+      "word": "訓練者"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8038c4d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Bạn diễn"
+        }
+      ],
+      "mobileId": 33597,
+      "phonetic": "きょうえんしゃ",
+      "related_words": {
+        "word": [
+          "者",
+          "共",
+          "共演"
+        ]
+      },
+      "word": "共演者"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80798f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẻ xúi giục, kẻ xúi bẩy; người thủ mưu"
+        }
+      ],
+      "mobileId": 33737,
+      "phonetic": "きょうさしゃ",
+      "related_words": {
+        "word": [
+          "者"
+        ]
+      },
+      "word": "教唆者"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

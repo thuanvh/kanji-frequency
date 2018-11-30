@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6dcfc6b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "never, by no means"
+        }
+      ],
+      "mobileId": 221842,
+      "phonetic": "ゆめ",
+      "word": "努"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dcfceb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "certainly, absolutely"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(not even) a little bit"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "diligently"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dreams"
+        }
+      ],
+      "mobileId": 221843,
+      "phonetic": "ゆめゆめ",
+      "word": "努努"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

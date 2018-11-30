@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a98202a83d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, ctr",
+          "mean": "beat"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mora"
+        }
+      ],
+      "mobileId": 231723,
+      "phonetic": "はく",
+      "word": "拍"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680784fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "sự đập; tiếng đạp, sự rung, sự rung động, sự rộn ràng"
+        }
+      ],
+      "mobileId": 241,
+      "phonetic": "はくどう",
+      "word": "拍動"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7987e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unaccented beat"
+        }
+      ],
+      "mobileId": 251946,
+      "phonetic": "じゃくはく",
+      "word": "弱拍"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e797b9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "accented beat"
+        }
+      ],
+      "mobileId": 251945,
+      "phonetic": "きょうはく",
+      "word": "強拍"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6806fa65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đếm (của) những tiếng đập trong âm nhạc"
+        }
+      ],
+      "mobileId": 218,
+      "phonetic": "はくすう",
+      "related_words": {
+        "word": [
+          "数"
+        ]
+      },
+      "word": "拍数"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74a6fac0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Đếm phách ."
+        }
+      ],
+      "mobileId": 99907,
+      "phonetic": "はくをかぞえる",
+      "word": "拍を数える"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

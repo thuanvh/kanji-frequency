@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da5b658",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự than phiền chính"
+        }
+      ],
+      "mobileId": 150981,
+      "phonetic": "しゅ そ",
+      "related_words": {
+        "word": [
+          "主"
+        ]
+      },
+      "word": "主訴"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0daa86e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đưa ra tòa"
+        }
+      ],
+      "mobileId": 151135,
+      "phonetic": "",
+      "word": "出訴"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77be48c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "test case"
+        }
+      ],
+      "mobileId": 270618,
+      "phonetic": "しそ",
+      "word": "試訴"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0daa9952",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quy chế (của) limitations"
+        }
+      ],
+      "mobileId": 151138,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "期限",
+          "法",
+          "期"
+        ]
+      },
+      "word": "出訴期限法"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ee66c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuyết ."
+        }
+      ],
+      "mobileId": 110739,
+      "phonetic": "ゆき",
+      "related_words": {
+        "word": [
+          "粉雪",
+          "吹雪",
+          "雪だるま",
+          "雪崩",
+          "花吹雪",
+          "雪国",
+          "大雪",
+          "小雪",
+          "雪女",
+          "雪合戦"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "雪",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "スノー",
+                "積雪"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "大雪",
+                "降雪"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "雪"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00d2902",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "breaking and removing frozen snow to expose the ground"
+        }
+      ],
+      "mobileId": 281385,
+      "phonetic": "ゆきわり",
+      "word": "雪割り"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed958a3e50",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quạt - theo dõi chim chích"
+        }
+      ],
+      "mobileId": 60489,
+      "phonetic": "ゆきか",
+      "word": "雪下"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8beaac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giày ống hoặc giày đi tuyết (bện bằng rơm)"
+        }
+      ],
+      "mobileId": 73249,
+      "phonetic": "ゆきくつ",
+      "word": "雪沓"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8c62de",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thân thiện hơn (của) tuyết"
+        }
+      ],
+      "mobileId": 73269,
+      "phonetic": "ゆきとけ",
+      "word": "雪融け"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8cd396",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuyết rơi sự mù"
+        }
+      ],
+      "mobileId": 73287,
+      "phonetic": "ゆきめ",
+      "word": "雪目"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8d1304",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuyết rơi tránh né; snowbreak"
+        }
+      ],
+      "mobileId": 73294,
+      "phonetic": "ゆきのけ",
+      "word": "雪除け"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900efec66b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự bài tiết, sự thải ra, chất bài tiết"
+        }
+      ],
+      "mobileId": 119148,
+      "phonetic": "はいゆき",
+      "word": "排雪"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98df66f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unexpectedly strong snowstorm (for the region, etc.), sudden snowstorm"
+        }
+      ],
+      "mobileId": 277265,
+      "phonetic": "ゲリラゆき",
+      "word": "ゲリラ雪"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f737b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "silver-glittering snow"
+        }
+      ],
+      "mobileId": 280670,
+      "phonetic": "ぎんせつ",
+      "word": "銀雪"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

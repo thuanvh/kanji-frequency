@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd4b11e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mì sợi"
+        }
+      ],
+      "mobileId": 71168,
+      "phonetic": "めん",
+      "related_words": {
+        "word": [
+          "麺類",
+          "素麺",
+          "麺棒"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "麺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ヌードル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "麺"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca013f8b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fried noodles"
+        }
+      ],
+      "mobileId": 281592,
+      "phonetic": "ジャーメン",
+      "word": "炸麺"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cb5946",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "noodles"
+        }
+      ],
+      "mobileId": 213402,
+      "phonetic": "めんす",
+      "word": "麺子"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde1a2ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những mì sợi lạnh (trong kiểu tiếng triều tiên)"
+        }
+      ],
+      "mobileId": 75967,
+      "phonetic": "れいめん",
+      "related_words": {
+        "word": [
+          "麺",
+          "冷"
+        ]
+      },
+      "word": "冷麺"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be33d10d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mì sợi bữa ăn nhẹ"
+        }
+      ],
+      "mobileId": 90937,
+      "phonetic": "スナックめん",
+      "word": "スナック麺"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d2ca32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "instant noodles (sold in a soft plastic packaging, as opposed to cup noodles)"
+        }
+      ],
+      "mobileId": 279505,
+      "phonetic": "ふくろめん",
+      "word": "袋麺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a752649",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soup of soumen noodles and various ingredients in a soy sauce broth"
+        }
+      ],
+      "mobileId": 227141,
+      "phonetic": "にゅうめん",
+      "word": "煮麺"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca013e6a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chow mein, fried noodles"
+        }
+      ],
+      "mobileId": 281590,
+      "phonetic": "チャーメン チャオミエン チャオミェン",
+      "word": "炒麺"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4cd087",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "mì ăn liền mua trong cốc, chén mì"
+        }
+      ],
+      "mobileId": 217543,
+      "phonetic": "カップめん",
+      "related_words": {
+        "word": [
+          "麺",
+          "カップ"
+        ]
+      },
+      "word": "カップ麺"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a8c448",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thick noodles, thick pasta"
+        }
+      ],
+      "mobileId": 269932,
+      "phonetic": "ふとめん",
+      "word": "太麺"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

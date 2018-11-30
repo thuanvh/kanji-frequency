@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c7b151",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "idiot, dummy, slow person"
+        }
+      ],
+      "mobileId": 262673,
+      "opposite_word": [
+        "冷"
+      ],
+      "phonetic": "ぬく",
+      "word": "温"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee994ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ấm áp; ấm cúng; âm ấp (thức ăn)"
+        }
+      ],
+      "mobileId": 118477,
+      "phonetic": "ぬるぬる",
+      "synsets": [
+        {
+          "base_form": "温温",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "楽に",
+                "温々"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "温温"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193273475",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước thải nhiệt; nước làm hạ nhiệt"
+        }
+      ],
+      "mobileId": 19181,
+      "phonetic": "ぬるはいすい",
+      "word": "温排水"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef957f00e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "type of sōmen made without added oil, specialty of Miyagi prefecture, usu. eaten in broth, esp. warm in winter"
+        }
+      ],
+      "mobileId": 275546,
+      "phonetic": "うーめん ううめん うんめん",
+      "word": "温麺"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193200b59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nóng nén(ép)"
+        }
+      ],
+      "mobileId": 18952,
+      "phonetic": "ぬるあんぽう",
+      "related_words": {
+        "word": [
+          "法"
+        ]
+      },
+      "word": "温罨法"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee9942a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "1. ấm áp\r\n2. (nghĩa bóng) ấm cúng, ấm áp, dễ chịu"
+        }
+      ],
+      "mobileId": 118476,
+      "phonetic": "あつし々",
+      "synsets": [
+        {
+          "base_form": "温々",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "楽に",
+                "温温"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "温々"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94f402d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "warming words, kind words"
+        }
+      ],
+      "mobileId": 275274,
+      "phonetic": "おんげん",
+      "word": "温言"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77eaad7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blood heat"
+        }
+      ],
+      "mobileId": 272083,
+      "phonetic": "ちおん",
+      "word": "血温"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a90e6ebb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-f",
+          "mean": "freezing temperature, chilling temperature"
+        }
+      ],
+      "mobileId": 256767,
+      "phonetic": "ひょうおん",
+      "word": "氷温"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c775af72f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hot dish (e.g. at a restaurant)"
+        }
+      ],
+      "mobileId": 267385,
+      "phonetic": "おんせい",
+      "word": "温製"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

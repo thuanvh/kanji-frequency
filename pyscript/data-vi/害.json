@@ -1,0 +1,267 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107880daa",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "干ばつは作物に大きな害を与えた。",
+              "mean": "Hạn hán rất có hại cho cây trồng.",
+              "transcription": "かんばつはさくもつにおおきながいをあたえた。"
+            },
+            {
+              "content": "薬は飲みすぎると害がある。",
+              "mean": "Uống nhiều thuốc quá là có hại.",
+              "transcription": "くすりはのみすぎるとがいがある。"
+            }
+          ],
+          "kind": "n",
+          "mean": "hại; cái hại"
+        }
+      ],
+      "mobileId": 54157,
+      "opposite_word": [
+        "益",
+        "利"
+      ],
+      "phonetic": "がい",
+      "related_words": {
+        "word": [
+          "障害",
+          "被害者",
+          "災害",
+          "身体障害者",
+          "損害賠償",
+          "障害物",
+          "被害",
+          "公害",
+          "加害者",
+          "自然災害"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "害",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "害毒",
+                "傷",
+                "損傷",
+                "傷痍",
+                "害悪",
+                "負傷",
+                "危害",
+                "傷創",
+                "傷害",
+                "怪我"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "厄難",
+                "ダメージ",
+                "損傷",
+                "害悪",
+                "損害",
+                "禍害",
+                "危害",
+                "傷害",
+                "毀損",
+                "厄",
+                "弊害",
+                "不都合"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "故障",
+                "雑音",
+                "足枷",
+                "支障",
+                "干渉",
+                "荷物",
+                "障害",
+                "口出し",
+                "足かせ",
+                "邪魔物",
+                "瘤",
+                "重荷",
+                "荷",
+                "口だし",
+                "妨げ",
+                "邪魔",
+                "荷厄介",
+                "差し支え",
+                "癌",
+                "妨害",
+                "差し障り",
+                "横槍"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "困り者",
+                "邪魔",
+                "人泣かせ",
+                "厄介者"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "害"
+    },
+    {
+      "_id": "432518852de0a80625d585a98253b8c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "earthquake damage"
+        }
+      ],
+      "mobileId": 234282,
+      "phonetic": "しんがい",
+      "word": "震害"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be0d7ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "harmful fish (e.g. non-native and prolific, etc.)"
+        }
+      ],
+      "mobileId": 247025,
+      "phonetic": "がいぎょ",
+      "word": "害魚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9dc8e29",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "ô nhiễm ánh sáng"
+        }
+      ],
+      "mobileId": 279817,
+      "phonetic": "こうがい ひかりがい",
+      "word": "光害"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a27175",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "damages inflicted by monkeys (on crops, etc.)"
+        }
+      ],
+      "mobileId": 286142,
+      "phonetic": "えんがい さるがい",
+      "word": "猿害"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e55397",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "làm hại; giết; sự phá hủy ở (tại) những bàn tay (của) những người phản loạn"
+        }
+      ],
+      "mobileId": 63430,
+      "phonetic": "ぞくがい",
+      "word": "賊害"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dc9ec6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fraud"
+        },
+        {
+          "examples": null,
+          "kind": "vs",
+          "mean": "to defraud"
+        }
+      ],
+      "mobileId": 263326,
+      "phonetic": "さがい",
+      "related_words": {
+        "word": [
+          "害"
+        ]
+      },
+      "word": "詐害"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685d16ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thiệt hại mùa màng do mưa đá"
+        }
+      ],
+      "mobileId": 2970,
+      "phonetic": "",
+      "word": "雹害"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ba7892",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính hiểm độc, ác tâm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chu vi, ngoại vi, ngoại biên"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vùng phụ cận, vùng xung quanh, môi trường xung quanh"
+        }
+      ],
+      "mobileId": 23828,
+      "phonetic": "がいい",
+      "word": "害意"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cef29e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hư hại do chuột, thiệt hại do chuột"
+        }
+      ],
+      "mobileId": 62708,
+      "phonetic": "ねずみがい",
+      "related_words": {
+        "word": [
+          "鼠",
+          "害"
+        ]
+      },
+      "word": "鼠害"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

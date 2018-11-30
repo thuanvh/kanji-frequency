@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e0decae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "house of parliament (congress, diet, etc.)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "graduate school, postgraduate school"
+        },
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "institution (often medical), institutional building, government office"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sub-temple, minor temple building, temple, cloister"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "imperial palace"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "title bestowed on empresses, princesses, etc."
+        },
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "former (esp. of emperors, daimyos, etc.), late"
+        }
+      ],
+      "mobileId": 248446,
+      "phonetic": "いん",
+      "word": "院"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934190c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viện khoa học"
+        }
+      ],
+      "mobileId": 20009,
+      "phonetic": "かがくいん",
+      "related_words": {
+        "word": [
+          "科"
+        ]
+      },
+      "word": "科学院"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107ab12bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nữ tu viện; nhà tu kín ."
+        }
+      ],
+      "mobileId": 54791,
+      "phonetic": "にそういん",
+      "word": "尼僧院"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821f5fd5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Institute of Divinities (1940-1946)"
+        }
+      ],
+      "mobileId": 232620,
+      "phonetic": "じんぎいん",
+      "word": "神祇院"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d081908",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ex -e mperor gotoba"
+        }
+      ],
+      "mobileId": 146005,
+      "phonetic": "ごとばいん",
+      "word": "後鳥羽院"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d698d83",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sub-temple"
+        }
+      ],
+      "mobileId": 218488,
+      "phonetic": "しいん",
+      "word": "子院"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94795be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "osteopathic clinic"
+        }
+      ],
+      "mobileId": 258581,
+      "phonetic": "せいこついん",
+      "word": "整骨院"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bfb910",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sân"
+        }
+      ],
+      "mobileId": 6114,
+      "phonetic": "ほういん",
+      "word": "法院"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568012c6654",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viện dưỡng lão; nhà dưỡng lão ."
+        }
+      ],
+      "mobileId": 42507,
+      "phonetic": "ようろういん",
+      "synsets": [
+        {
+          "base_form": "養老院",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "老人ホーム",
+                "療養所",
+                "養護ホーム"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "養老院"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a507c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Viện nguyên lão (cơ quan lập pháp thành lập sau thời Minh Trị và bị bãi bỏ vào năm thứ 43 thời Minh Trị ở Nhật Bản) ; thượng nghị viện (La Mã)"
+        }
+      ],
+      "mobileId": 38779,
+      "phonetic": "げんろういん",
+      "related_words": {
+        "word": [
+          "元"
+        ]
+      },
+      "word": "元老院"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3b3283",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-pn",
+          "mean": "chao ôi"
+        },
+        {
+          "examples": null,
+          "kind": "adj-pn",
+          "mean": "một cách đáng tiếc, thật đáng tiếc là"
+        }
+      ],
+      "mobileId": 11684,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "可"
+        ]
+      },
+      "word": "可惜"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b72487",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "valuing one's body and life, holding one's life dear"
+        }
+      ],
+      "mobileId": 212743,
+      "phonetic": "あたらしんみょう",
+      "word": "可惜身命"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7eded7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính keo kiệt, tính bủn xỉn"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người keo kiệt, người bủn xỉn"
+        }
+      ],
+      "mobileId": 13816,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "文",
+          "一"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "一文惜み",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "守銭奴",
+                "吝嗇",
+                "吝ちん坊",
+                "握り屋",
+                "悋嗇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "けち",
+                "吝ちん"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "一文惜み"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

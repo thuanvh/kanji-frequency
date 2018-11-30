@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef2fda4",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "râu ngọn (ở quả cây họ lúa)"
+        }
+      ],
+      "mobileId": 118778,
+      "phonetic": "すすき",
+      "word": "芒"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d44834b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sal mirabilis, mirabilite, sodium sulfate decahydrate, sodium sulphate decahydrate"
+        }
+      ],
+      "mobileId": 217282,
+      "phonetic": "ぼうしょう",
+      "word": "芒硝"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0fea6af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mango (Mangifera indica)"
+        }
+      ],
+      "mobileId": 206828,
+      "phonetic": "マンゴー",
+      "word": "芒果"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5d1f8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "\"grain in ear\" solar term (approx. June 6, when awns begin to grow on grains)"
+        }
+      ],
+      "mobileId": 226382,
+      "phonetic": "ぼうしゅ",
+      "word": "芒種"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9296046",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hot spring rich in sodium sulfate, sodium sulfate spring"
+        }
+      ],
+      "mobileId": 274094,
+      "phonetic": "ぼうしょうせん",
+      "word": "芒硝泉"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef918f185",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hexagram"
+        }
+      ],
+      "mobileId": 273573,
+      "phonetic": "ろくぼうせい りくぼうせい",
+      "word": "六芒星"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d62dce3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "五芒星形",
+              "mean": "ngôi sao hình năm cánh .",
+              "transcription": "ごすすきぼしがた"
+            }
+          ],
+          "kind": "n",
+          "mean": "Ngôi sao năm cánh"
+        }
+      ],
+      "mobileId": 143171,
+      "phonetic": "ごぼうせい",
+      "related_words": {
+        "word": [
+          "星",
+          "五"
+        ]
+      },
+      "word": "五芒星"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d561401",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pentagram (as used in divination, etc.)"
+        }
+      ],
+      "mobileId": 217855,
+      "phonetic": "ごぼうせい",
+      "related_words": {
+        "word": [
+          "星",
+          "五"
+        ]
+      },
+      "word": "五芒星"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

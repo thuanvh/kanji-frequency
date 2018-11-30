@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adad9a8a9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼は唾を飛ばしながら喋り続けた.",
+              "mean": "Anh ta cứ tiếp tục vừa nói vừa văng nước bọt ra ngoài.",
+              "transcription": "かれはつばをとばしながらしゃべりつづけた."
+            },
+            {
+              "content": "人によっては、教会の中で唾を吐くことはいけないと思いながら、祭壇のものを盗む者がいる。",
+              "mean": "Có một số người luôn ý thức được là không được nhổ nước bọt trong nhà thờ nhưng lại ăn trộm các vật thờ cúng trên bàn thờ.",
+              "transcription": "ひとによっては、きょうかいのなかでつばをはくことはいけないとおもいながら、さいだんのものをぬすむものがいる。"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "nước bọt; nước dãi; đờm"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "nước miếng ."
+        }
+      ],
+      "mobileId": 80456,
+      "phonetic": "つば",
+      "related_words": {
+        "word": [
+          "唾液"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "唾",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "つば",
+                "唾液"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "痰",
+                "喀痰",
+                "唾液"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "唾"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a656e32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spittoon"
+        }
+      ],
+      "mobileId": 226628,
+      "phonetic": "だこ",
+      "word": "唾壷"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a9be6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na, adj-no",
+          "mean": "fake, counterfeit"
+        }
+      ],
+      "mobileId": 212297,
+      "phonetic": "まゆつば",
+      "word": "眉唾"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f81b63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sputum, phlegm"
+        }
+      ],
+      "mobileId": 264204,
+      "phonetic": "たんつば",
+      "word": "痰唾"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0138fe6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vi",
+          "mean": "to spit"
+        }
+      ],
+      "mobileId": 189775,
+      "phonetic": "つばする",
+      "word": "唾する"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9337aeb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k",
+          "mean": "to spit"
+        }
+      ],
+      "mobileId": 257931,
+      "phonetic": "つばく つはく",
+      "word": "唾く"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef972b3f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "to spit"
+        }
+      ],
+      "mobileId": 276389,
+      "phonetic": "つばをはく",
+      "word": "唾を吐く"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c05337e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "to be disgusted with, to loathe"
+        }
+      ],
+      "mobileId": 209523,
+      "phonetic": "むしずがはしる",
+      "word": "虫唾が走る"
+    },
+    {
+      "_id": "432518852de0a80625d585a982675f6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, vs-s",
+          "mean": "to piss in the wind, to harm oneself in an attempt to harm someone else, to spit into the sky"
+        }
+      ],
+      "mobileId": 234900,
+      "phonetic": "てんにつばする",
+      "word": "天に唾する"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773d435f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "to call dibs, to establish a claim, to spit on something (thus preventing others from taking it)"
+        }
+      ],
+      "mobileId": 266441,
+      "phonetic": "つばをつける",
+      "word": "唾を付ける"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

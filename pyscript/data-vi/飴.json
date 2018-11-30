@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680129f98d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あめとむちを用いた外交",
+              "mean": "chính sách ngoại giao vừa cương vừa nhu",
+              "transcription": "あめとむちをもちいたがいこう"
+            },
+            {
+              "content": "営業チームには、あめとむちの動機付けが必要だ",
+              "mean": "cần vừa thưởng vừa phạt để tạo động lực cho đội bán hàng",
+              "transcription": "えいぎょうチームには、あめとむちのどうきづけがひつようだ"
+            },
+            {
+              "content": "あめとむちとをうまく使い分ける",
+              "mean": "sử dụng thích hợp công cụ vừa đấm vừa xoa, vừa thưởng vừa phạt, vừa cương vừa nhu",
+              "transcription": "あめとむちとをうまくつかいわける"
+            },
+            {
+              "content": "（人）をあめとむちでもっと働かせる",
+              "mean": "vừa khiển trách vừa khen ngời để khuyến khích người khác làm việc hăng say hơn",
+              "transcription": "（ひと）をあめとむちでもっとはたらかせる"
+            },
+            {
+              "content": "1袋のあめ",
+              "mean": "một túi kẹo",
+              "transcription": "1ふくろのあめ"
+            },
+            {
+              "content": "家に着くまで待てる？今何も食べるものないのよ。あ、ここに飴がある。飴なめなよ",
+              "mean": "Em có đợi được cho đến khi về nhà không. Bây giờ, ta chẳng có gì ăn cả. À, có kẹo đây rồi. Em ngậm kẹo nhé .",
+              "transcription": "いえにつくまでまてる？いまなにもたべるものないのよ。あ、ここにあめがある。あめなめなよ"
+            }
+          ],
+          "kind": "n",
+          "mean": "kẹo; kẹo ngậm"
+        }
+      ],
+      "mobileId": 42462,
+      "phonetic": "あめ",
+      "related_words": {
+        "word": [
+          "飴玉",
+          "綿飴"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "飴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "キャンディ",
+                "飴玉",
+                "キャンデー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボンボン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "狐"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "飴"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef998b69f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chilled syrup, soft drink of malt syrup mixed with boiling water, ginger juice, grated ginger, sometimes sprinkled with cinnamon (used as a refreshing summer drink, similar to ginger ale)"
+        }
+      ],
+      "mobileId": 277612,
+      "phonetic": "ひやしあめ",
+      "word": "冷やし飴"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d08d50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thick malt syrup poured into boiling water and sprinkled with cinnamon (used as a refreshing summer drink)"
+        }
+      ],
+      "mobileId": 262943,
+      "phonetic": "あめゆ",
+      "word": "飴湯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b54761",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "candy vendor (esp. an Edo-period candy vendor who sold candy while walking around playing the flute or another musical instrument), candy vender"
+        }
+      ],
+      "mobileId": 262078,
+      "phonetic": "あめうり",
+      "word": "飴売り"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4b344b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẹo có hình dạng động vật hoặc người"
+        }
+      ],
+      "mobileId": 12193,
+      "phonetic": "あめざいく",
+      "word": "飴細工"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da41bed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "type of soft Japanese confectionery made with rice flour (somewhat similar to Turkish delight)"
+        }
+      ],
+      "mobileId": 220389,
+      "phonetic": "ぎゅうひあめ",
+      "word": "求肥飴"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4b55bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cho nước đường (nước màu) vào thức ăn"
+        }
+      ],
+      "mobileId": 12199,
+      "phonetic": "あめに",
+      "word": "飴煮"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d307f71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mứt kẹo; kẹo làm từ gạo"
+        }
+      ],
+      "mobileId": 147264,
+      "phonetic": "さらしあめ",
+      "word": "晒し飴"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4b42cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẹo viên"
+        }
+      ],
+      "mobileId": 12195,
+      "phonetic": "あめだま",
+      "related_words": {
+        "word": [
+          "玉",
+          "飴"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "飴玉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "飴",
+                "キャンディ",
+                "キャンデー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "飴玉"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4b92ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nước - người trượt băng (sâu bọ); bước dài nước"
+        }
+      ],
+      "mobileId": 12209,
+      "phonetic": "あめぼう",
+      "word": "飴坊"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

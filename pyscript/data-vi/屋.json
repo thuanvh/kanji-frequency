@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d497cf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "(something) shop"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "somebody who sells (something) or works as (something)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "somebody with a (certain) personality trait"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "house"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "roof"
+        }
+      ],
+      "mobileId": 217438,
+      "phonetic": "や",
+      "word": "屋"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd301651",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhà trống; nhà bỏ không"
+        }
+      ],
+      "mobileId": 11325,
+      "phonetic": "あきや",
+      "word": "空き屋"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3b9f77",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người may mắn (tại thương trường hay sòng bạc)\r\nngười đánh tốt trong một ngày thi đấu may mắn (dã cầu)\r\nkẻ giả vờ cố ý đụng xe để tống tiền sửa xe\r\nnói chệch của từ \" tiệm hớt tóc\""
+        }
+      ],
+      "mobileId": 11699,
+      "phonetic": "あたりや",
+      "word": "当たり屋"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6835a93b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thợ hàn chì"
+        }
+      ],
+      "mobileId": 1745,
+      "phonetic": "ばんきんや",
+      "related_words": {
+        "word": [
+          "金",
+          "板",
+          "板金"
+        ]
+      },
+      "word": "板金屋"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdca769e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phần không nhờn, cặn, khu nhà ổ chuột, đi tìm hiểu tình hình sinh hoạt của nhân dân ở các khu ổ chuột"
+        }
+      ],
+      "mobileId": 16190,
+      "phonetic": "うらや",
+      "related_words": {
+        "word": [
+          "裏"
+        ]
+      },
+      "word": "裏屋"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b4f2be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ra hiệu nhà sản xuất"
+        }
+      ],
+      "mobileId": 23651,
+      "phonetic": "かんばんや",
+      "related_words": {
+        "word": [
+          "板",
+          "看板"
+        ]
+      },
+      "word": "看板屋"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9510a1e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhân viên văn phòng; thư ký"
+        }
+      ],
+      "mobileId": 56647,
+      "phonetic": "じむや",
+      "word": "事務屋"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95568045",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cửa hàng bán sushi, quán sushi; người bán sushi"
+        }
+      ],
+      "mobileId": 58850,
+      "phonetic": "すしや",
+      "word": "鮨屋"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f2f1a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa hàng tạp hóa; sundries cất giữ"
+        }
+      ],
+      "mobileId": 41292,
+      "phonetic": "こまものや",
+      "word": "小間物屋"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adacb6281",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa hàng bán các trang phục truyền thống (của Nhật) ."
+        }
+      ],
+      "mobileId": 80190,
+      "phonetic": "ごふくや",
+      "related_words": {
+        "word": [
+          "服",
+          "呉服"
+        ]
+      },
+      "word": "呉服屋"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a7cb15a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "＿時A発B行きの列車の座席を予約する",
+              "mean": "Đặt chỗ trên chuyến tàu rời đi từ địa điểm A đến địa điểm B tại ...",
+              "transcription": "＿ときAはつBいきのれっしゃのざせきをよやくする"
+            },
+            {
+              "content": "A発B宛の口頭メッセージを伝える",
+              "mean": "Chuyển nội dung một tin nhắn bằng lời của người A đến người B.",
+              "transcription": "AはつBあてのこうとうメッセージをつたえる"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "phát"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "sự xuất phát ."
+        }
+      ],
+      "mobileId": 172345,
+      "opposite_word": [
+        "着"
+      ],
+      "phonetic": "はつ",
+      "related_words": {
+        "word": [
+          "出発",
+          "開発",
+          "発行",
+          "発表",
+          "発売日",
+          "発生",
+          "発見",
+          "発注",
+          "発音",
+          "発送"
+        ]
+      },
+      "word": "発"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9b4c80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công cụ cách shield (phóng tên lửa)"
+        }
+      ],
+      "mobileId": 73752,
+      "phonetic": "",
+      "word": "溶発"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95e53fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "second train to depart, following train, next train"
+        }
+      ],
+      "mobileId": 275747,
+      "phonetic": "じはつ",
+      "word": "次発"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95e5dfe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "third train to depart (from now)"
+        }
+      ],
+      "mobileId": 275748,
+      "phonetic": "じじはつ",
+      "word": "次々発"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d13e6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "green dragon tile"
+        }
+      ],
+      "mobileId": 279450,
+      "phonetic": "リューファ",
+      "word": "緑発"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a810a27",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quyền phát ngôn ."
+        }
+      ],
+      "mobileId": 172405,
+      "phonetic": "はつけんげん",
+      "word": "発権限"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681200a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sắp đặt (nguyên liệu); đặt một thứ tự"
+        }
+      ],
+      "mobileId": 586,
+      "phonetic": "",
+      "word": "発註"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8c4abd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một phát bắn; một vòng (thi đấu) một sự tích nạp"
+        }
+      ],
+      "mobileId": 14242,
+      "phonetic": "いちはつ",
+      "related_words": {
+        "word": [
+          "一",
+          "発"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "一発",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一撃",
+                "打撃",
+                "命中",
+                "ヒット",
+                "当たり"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "一発"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8629041",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự xảy ra cùng lúc; sự phát sinh cùng lúc"
+        }
+      ],
+      "mobileId": 36661,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "発"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "倶発",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "合致",
+                "同感"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "併発"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "倶発"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f53387",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "deciding to embrace Buddhism, deciding to seek enlightenment, seeking to have religious awakening"
+        }
+      ],
+      "mobileId": 214771,
+      "phonetic": "はつぼだいしん",
+      "word": "発菩提心"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

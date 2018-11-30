@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada956ca5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "心に傷を負った患者の取り扱い",
+              "mean": "trông nom bệnh nhân bị chấn thương",
+              "transcription": "こころにきずをおったかんじゃのとりあつかい"
+            },
+            {
+              "content": "内外の投資家に対する平等な取り扱い",
+              "mean": "công bằng trong việc đối đãi với nhà đầu tư trong và ngoài nước",
+              "transcription": "ないがいのとうしかにたいするびょうどうなとりあつかい"
+            }
+          ],
+          "kind": "n",
+          "mean": "đãi ngộ; đối đãi; trông nom; săn sóc"
+        },
+        {
+          "examples": [
+            {
+              "content": "機密情報の取り扱い",
+              "mean": "sử dụng những thông tin bí mật",
+              "transcription": "きみつじょうほうのとりあつかい"
+            },
+            {
+              "content": "遺伝子組み換え食品の取り扱い",
+              "mean": "sử dụng những loại thức ăn biến đổi gene",
+              "transcription": "いでんしくみかえしょくひんのとりあつかい"
+            }
+          ],
+          "kind": "n",
+          "mean": "sử dụng"
+        },
+        {
+          "examples": [
+            {
+              "content": "温室効果ガスの除去の取り扱い",
+              "mean": "kỹ thuật loại bỏ hiệu ứng nhà kính",
+              "transcription": "おんしつこうかガスのじょきょのとりあつかい"
+            },
+            {
+              "content": "〜の正しい取り扱い",
+              "mean": "thao tác đúng trong ~",
+              "transcription": "〜のただしいとりあつかい"
+            }
+          ],
+          "kind": "n",
+          "mean": "thao tác; kỹ thuật"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thao túng ."
+        }
+      ],
+      "mobileId": 79425,
+      "phonetic": "とりあつかい",
+      "word": "取り扱"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d04399",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tố cáo; làm mất uy tín; tới lambast; tới sự lạm dụng"
+        }
+      ],
+      "mobileId": 40170,
+      "phonetic": "",
+      "word": "扱下ろす"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d06446",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để làm việc là người nào đó quá nhiều"
+        }
+      ],
+      "mobileId": 40173,
+      "phonetic": "",
+      "word": "扱使う"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3eb7a4d5",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Telegraphic transfer request form. điện chuyển tiền"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "でんしんあつかいふりこみいらいしょ",
+      "word": "電信扱振込依頼書"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

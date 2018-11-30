@@ -1,0 +1,251 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e86abd79",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nghiêng; có khuynh hướng"
+        }
+      ],
+      "mobileId": 36924,
+      "phonetic": "",
+      "word": "傾"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8722cf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "rót; gạn; chắt; đổ nghiêng (chất lỏng)"
+        }
+      ],
+      "mobileId": 37165,
+      "phonetic": "",
+      "word": "傾瀉"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96b05e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drowsiness, somnolence, somnolentia, fatigue, lethargy"
+        }
+      ],
+      "mobileId": 276147,
+      "phonetic": "けいみん",
+      "word": "傾眠"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7728f772",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nasty (i.e. nastic movement of a plant)"
+        }
+      ],
+      "mobileId": 265789,
+      "phonetic": "けいせい",
+      "word": "傾性"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8788cb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inclining, sự nghiêng, sự cúi, dốc; độ nghiêng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(địa lý, ddịa chất) độ kinh"
+        }
+      ],
+      "mobileId": 37372,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "度"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "傾度",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "勾配",
+                "傾角",
+                "傾き",
+                "傾斜",
+                "傾斜角"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "下地",
+                "偏り",
+                "傾角",
+                "傾向",
+                "了見",
+                "傾き",
+                "傾斜"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "傾度"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b09ce3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "nghiêng về phía trước"
+        }
+      ],
+      "mobileId": 61722,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "前"
+        ]
+      },
+      "word": "前傾"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86c2de4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inclining, sự nghiêng, sự cúi, dốc; độ nghiêng"
+        }
+      ],
+      "mobileId": 36966,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "角"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "傾角",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "勾配",
+                "傾度",
+                "傾き",
+                "傾斜",
+                "傾斜角"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "下地",
+                "偏り",
+                "傾度",
+                "傾向",
+                "了見",
+                "傾き",
+                "傾斜"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "傾角"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed2bb98",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bị nghiêng, lở (tuyết, đất)"
+        }
+      ],
+      "mobileId": 117768,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "傾れる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "傾げる",
+                "傾ける",
+                "傾ぐ"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "傾れる"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b3376d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sloping, slope"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rundown of glaze on a piece of china"
+        }
+      ],
+      "mobileId": 270273,
+      "phonetic": "なだれ",
+      "word": "傾れ"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8798d25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "úp mặt xuống"
+        }
+      ],
+      "mobileId": 37406,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "傾覆",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "転覆"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "傾覆"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

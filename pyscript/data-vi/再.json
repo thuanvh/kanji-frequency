@@ -1,0 +1,226 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada17ef18",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "トラベラーズチェックを再発行する。",
+              "mean": "Cấp trở lại séc du lịch.",
+              "transcription": "トラベラーズチェックをさいはっこうする。"
+            },
+            {
+              "content": "再調査",
+              "mean": "tái điều tra",
+              "transcription": "さいちょうさ"
+            },
+            {
+              "content": "再軍備",
+              "mean": "tái vũ trang, tái quân bị .",
+              "transcription": "さいぐんび"
+            }
+          ],
+          "kind": "pref",
+          "mean": "tái; lại một lần nữa"
+        }
+      ],
+      "mobileId": 77272,
+      "phonetic": "さい",
+      "related_words": {
+        "word": [
+          "再生",
+          "再起動",
+          "再び",
+          "再構築",
+          "再度",
+          "再確認",
+          "再開",
+          "再生する",
+          "再現",
+          "再検討"
+        ]
+      },
+      "word": "再"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada18adc2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiểm tra lại ."
+        }
+      ],
+      "mobileId": 77289,
+      "phonetic": "さいけんさ",
+      "related_words": {
+        "word": [
+          "検査",
+          "再"
+        ]
+      },
+      "word": "再検査"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada18b0ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đơn hàng lặp lại ."
+        }
+      ],
+      "mobileId": 77290,
+      "phonetic": "さいちゅうもん",
+      "related_words": {
+        "word": [
+          "文",
+          "注文",
+          "再",
+          "注"
+        ]
+      },
+      "word": "再注文"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada1904bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đánh giá lại ."
+        }
+      ],
+      "mobileId": 77300,
+      "phonetic": "さいひょうか",
+      "related_words": {
+        "word": [
+          "評価",
+          "再",
+          "価",
+          "評"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "再評価",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "再吟味",
+                "見直し"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "再評価"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada190de8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buổi thi lại"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phúc khảo ."
+        }
+      ],
+      "mobileId": 77301,
+      "phonetic": "さいしけん",
+      "related_words": {
+        "word": [
+          "試験",
+          "再"
+        ]
+      },
+      "word": "再試験"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b663fe2",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "tái sử dụng"
+        }
+      ],
+      "mobileId": 243112,
+      "phonetic": "さいしよう",
+      "word": "再使用"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b66697a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "redeclaration"
+        }
+      ],
+      "mobileId": 243119,
+      "phonetic": "さいせんげん",
+      "word": "再宣言"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b667a7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "retransmission"
+        }
+      ],
+      "mobileId": 243121,
+      "phonetic": "さいそうしん",
+      "related_words": {
+        "word": [
+          "送信",
+          "再",
+          "信"
+        ]
+      },
+      "word": "再送信"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef986e7a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "rebuilding, reconstructing, reorganizing"
+        }
+      ],
+      "mobileId": 277037,
+      "phonetic": "さいこう",
+      "word": "再構"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0fc432",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phục hồi chức vị"
+        }
+      ],
+      "mobileId": 146246,
+      "phonetic": "さいつとむ",
+      "related_words": {
+        "word": [
+          "再"
+        ]
+      },
+      "word": "再勤"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

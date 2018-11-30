@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280279c284b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nụ; nụ hoa ."
+        }
+      ],
+      "mobileId": 31826,
+      "phonetic": "つぼみ",
+      "synsets": [
+        {
+          "base_form": "蕾",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "花芽"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "新芽",
+                "芽生え",
+                "芽",
+                "双葉",
+                "二葉"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蕾"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a950529e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flower bud"
+        }
+      ],
+      "mobileId": 258864,
+      "phonetic": "からい",
+      "word": "花蕾"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd2584af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nếm mùi những chồi nụ"
+        }
+      ],
+      "mobileId": 70000,
+      "phonetic": "み らい",
+      "word": "味蕾"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9089428",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bud stage (tooth)"
+        }
+      ],
+      "mobileId": 273037,
+      "phonetic": "らいじょうき",
+      "word": "蕾状期"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

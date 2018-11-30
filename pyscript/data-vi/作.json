@@ -1,0 +1,231 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dab2400",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "công việc; sự làm ruộng"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "sự chế tác ."
+        }
+      ],
+      "mobileId": 144357,
+      "phonetic": "さく",
+      "related_words": {
+        "word": [
+          "作成",
+          "作品",
+          "作成者",
+          "試作",
+          "操作",
+          "作業",
+          "製作",
+          "動作",
+          "作る",
+          "制作"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "作",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "作品",
+                "創作"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "作業",
+                "書籍",
+                "力作",
+                "本",
+                "作品",
+                "芝居",
+                "著書",
+                "労作",
+                "著",
+                "創作",
+                "著作",
+                "制作"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "生産",
+                "製造",
+                "出産",
+                "産出",
+                "工作",
+                "プロダクション",
+                "製作",
+                "制作"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "作"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef922be2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "porcelain making, ceramics making, pottery making"
+        }
+      ],
+      "mobileId": 273876,
+      "phonetic": "さくとう",
+      "word": "作陶"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef967eebb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "most recent work (e.g. book, film, etc.), latest work, latest offering"
+        }
+      ],
+      "mobileId": 276053,
+      "phonetic": "さいしんさく",
+      "word": "最新作"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2309d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vụ mùa màng tốt"
+        }
+      ],
+      "mobileId": 146836,
+      "phonetic": "さくあたり",
+      "related_words": {
+        "word": [
+          "作",
+          "当たり"
+        ]
+      },
+      "word": "作当たり"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca094941e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "operation order"
+        }
+      ],
+      "mobileId": 285700,
+      "phonetic": "さくめい",
+      "word": "作命"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7438aa5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiệt tác ."
+        }
+      ],
+      "mobileId": 98319,
+      "phonetic": "かいさく",
+      "related_words": {
+        "word": [
+          "作"
+        ]
+      },
+      "word": "快作"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e2b5a20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiệt tác, tác phẩm lớn"
+        }
+      ],
+      "mobileId": 112417,
+      "phonetic": "だいひょうさく",
+      "related_words": {
+        "word": [
+          "表",
+          "代",
+          "作"
+        ]
+      },
+      "word": "代表作"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f749fa0c3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "kẻ ngốc nghếch; ngố tàu; con bò đội nón"
+        }
+      ],
+      "mobileId": 99799,
+      "phonetic": "ぬけさく",
+      "word": "抜け作"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d74e10",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Tác phẩm mới,công việc đầu tiên"
+        }
+      ],
+      "mobileId": 279657,
+      "phonetic": "デビューさく",
+      "word": "デビュー作"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dd22dbb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tác phẩm đầu tay"
+        }
+      ],
+      "mobileId": 152443,
+      "phonetic": "しょじょさく",
+      "related_words": {
+        "word": [
+          "女",
+          "処女",
+          "作"
+        ]
+      },
+      "word": "処女作"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027fa9537",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "だれがしたと君は思うか.",
+              "mean": "Anh nghĩ ai đã làm chuyện đó?",
+              "transcription": "だれがしたときみはおもうか."
+            },
+            {
+              "content": "だれに招待状を送るのか一覧表を見せて.",
+              "mean": "Đưa tôi xem danh sách anh gửi giấy mời tới những ai nào! .",
+              "transcription": "だれにしょうたいじょうをおくるのかいちらんひょうをみせて."
+            }
+          ],
+          "kind": "pn, adj-no",
+          "mean": "hậu tố tính từ cho một người"
+        }
+      ],
+      "mobileId": 33371,
+      "phonetic": "だれ",
+      "related_words": {
+        "word": [
+          "誰か",
+          "誰も",
+          "誰でも"
+        ]
+      },
+      "word": "誰"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1d169f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn",
+          "mean": "so-and-so"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "who?, which people?"
+        }
+      ],
+      "mobileId": 216039,
+      "phonetic": "だれだれ",
+      "word": "誰誰"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa22759",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "mọi người"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "không có ai (với động từ phủ định)"
+        }
+      ],
+      "mobileId": 228588,
+      "phonetic": "だれしも",
+      "word": "誰しも"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03fb910",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "meaningless, pointless"
+        }
+      ],
+      "mobileId": 283008,
+      "phonetic": "だれとく",
+      "word": "誰得"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027fa95bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn",
+          "mean": "ai đó; một ai đó"
+        }
+      ],
+      "mobileId": 33372,
+      "phonetic": "だれか",
+      "related_words": {
+        "word": [
+          "誰"
+        ]
+      },
+      "word": "誰か"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e343741",
+      "means": [
+        {
+          "examples": null,
+          "kind": "conj",
+          "mean": "mọi người, tất cả mọi người, ai ai; mỗi người"
+        },
+        {
+          "examples": null,
+          "kind": "conj",
+          "mean": "người nào, ai, bất cứ người nào, bất cứ ai"
+        }
+      ],
+      "mobileId": 112694,
+      "phonetic": "だれも",
+      "related_words": {
+        "word": [
+          "誰"
+        ]
+      },
+      "word": "誰も"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770903be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn",
+          "mean": "whichever person (indefinite pronoun), everyone, every person, all"
+        }
+      ],
+      "mobileId": 264748,
+      "phonetic": "たれびと",
+      "word": "誰人"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02bd2df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn, adj-no",
+          "mean": "a certain someone, Mr So-and-so"
+        }
+      ],
+      "mobileId": 208260,
+      "phonetic": "だれそれ",
+      "word": "誰それ"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e341f45",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(đại từ) người nào đó; người này người nọ"
+        }
+      ],
+      "mobileId": 112691,
+      "phonetic": "だれぼう",
+      "related_words": {
+        "word": [
+          "誰",
+          "某"
+        ]
+      },
+      "word": "誰某"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bddd635",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp",
+          "mean": "Cốp pha"
+        }
+      ],
+      "mobileId": 246923,
+      "phonetic": "だれひとりとして",
+      "word": "誰一人として"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

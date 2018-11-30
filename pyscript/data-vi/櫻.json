@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f801be6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anh đào ."
+        }
+      ],
+      "mobileId": 187004,
+      "phonetic": "さくら",
+      "synsets": [
+        {
+          "base_form": "櫻",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "桜"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "櫻"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

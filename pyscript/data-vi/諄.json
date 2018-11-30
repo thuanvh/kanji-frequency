@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027ff087f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "くどいスピーチ",
+              "mean": "bài phát biểu dài dòng",
+              "transcription": "くどいスピーチ"
+            },
+            {
+              "content": "くどいほどの弁明",
+              "mean": "sự biện minh dài dòng",
+              "transcription": "くどいほどのべんめい"
+            },
+            {
+              "content": "くどいほど〜する",
+              "mean": "làm việc gì đến mức dài dòng",
+              "transcription": "くどいほど〜する"
+            },
+            {
+              "content": "くどい小言",
+              "mean": "những lời rao giảng dài dòng (lặp đi lặp lại đến buồn tẻ)",
+              "transcription": "くどいこごと"
+            },
+            {
+              "content": "くどいスピーチ",
+              "mean": "bài phát biểu dài dòng",
+              "transcription": "くどいスピーチ"
+            }
+          ],
+          "kind": "adj-i",
+          "mean": "dài dòng (văn chương); lắm lời; đa ngôn; lặp đi lặp lại"
+        },
+        {
+          "examples": [
+            {
+              "content": "説明はくどくならないように気をつけなさい.",
+              "mean": "Xin hãy để ý đừng để cho lời giải thích dài dòng quá",
+              "transcription": "せつめいはくどくならないようにきをつけなさい."
+            },
+            {
+              "content": "くどいようですが, それでは 7 時に必ず来て下さい.",
+              "mean": "Xin lỗi vì đã nói dai nhưng xin hãy đến lúc 7 giờ",
+              "transcription": "くどいようですが,それでは7じにかならずきてください."
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "adj-i",
+          "mean": "đòi dai; nhũng nhiễu"
+        },
+        {
+          "examples": [
+            {
+              "content": "くどいぞ",
+              "mean": "hãy chú ý đến hơi thở!",
+              "transcription": "くどいぞ"
+            },
+            {
+              "content": "くどいにおい",
+              "mean": "nặng mùi .",
+              "transcription": "くどいにおい"
+            }
+          ],
+          "kind": "adj-i",
+          "mean": "nặng (mùi)"
+        }
+      ],
+      "mobileId": 33452,
+      "phonetic": "くどい",
+      "synsets": [
+        {
+          "base_form": "諄い",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "毒々しい",
+                "どぎつい",
+                "けばけばしい",
+                "派手",
+                "あくどい"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "諄い"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

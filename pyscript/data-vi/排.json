@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a3e3ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "anti-"
+        }
+      ],
+      "mobileId": 286183,
+      "phonetic": "はい",
+      "word": "排"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900efa602d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự thải khói ra; khói thải ra, khói tỏa ra (từ ống khói nhà máy ...)"
+        }
+      ],
+      "mobileId": 119006,
+      "phonetic": "はいけむり",
+      "word": "排煙"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef913402e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "germ discharge"
+        }
+      ],
+      "mobileId": 273391,
+      "phonetic": "はいきん",
+      "word": "排菌"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af1b786",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "paixiao (ancient Chinese bamboo panpipes)"
+        }
+      ],
+      "mobileId": 231169,
+      "phonetic": "はいしょう",
+      "word": "排簫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e245ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shark fin"
+        }
+      ],
+      "mobileId": 271806,
+      "phonetic": "パイチー",
+      "word": "排翅"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900efec66b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự bài tiết, sự thải ra, chất bài tiết"
+        }
+      ],
+      "mobileId": 119148,
+      "phonetic": "はいゆき",
+      "word": "排雪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77665575",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "paper output (e.g. of printers), paper ejection"
+        }
+      ],
+      "mobileId": 267766,
+      "phonetic": "はいし",
+      "related_words": {
+        "word": [
+          "紙"
+        ]
+      },
+      "word": "排紙"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74be1eeb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "排液管を通して脳の中の余分な体液を排出する",
+              "mean": "Loại bỏ dịch thừa trong não qua một ống thoát dịch.",
+              "transcription": "はいえきかんをとおしてのうのなかのよぶんなたいえきをはいしゅつする"
+            },
+            {
+              "content": "圧を軽減するために排液チューブを脳に設置する",
+              "mean": "Đặt một ống tiêu nước vào trong não để làm giảm áp suất. .",
+              "transcription": "圧をけいげんするためにはいえきチューブをのうにせっちする"
+            }
+          ],
+          "kind": "n",
+          "mean": "hệ thống thoát nước; hệ thống tiêu nước"
+        }
+      ],
+      "mobileId": 100265,
+      "phonetic": "はいえき",
+      "related_words": {
+        "word": [
+          "液"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "排液",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "汚水",
+                "下水"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "排液"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90b026b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese-style spare ribs (esp. pork, also beef and lamb), breaded and fried"
+        }
+      ],
+      "mobileId": 273118,
+      "phonetic": "パイクー",
+      "word": "排骨"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3d7a4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự loại trừ"
+        }
+      ],
+      "mobileId": 11760,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "圧排",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "除外",
+                "排他",
+                "排除"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "圧排"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

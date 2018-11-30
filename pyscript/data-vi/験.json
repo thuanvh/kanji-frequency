@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dda94e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(1) đánh dấu;(2) ký hiệu;(3) bằng chứng"
+        }
+      ],
+      "mobileId": 152703,
+      "phonetic": "けん",
+      "word": "験"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a970e0cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "superstition, acting superstitiously (for good luck)"
+        }
+      ],
+      "mobileId": 259912,
+      "phonetic": "げんかつぎ",
+      "word": "験担ぎ"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801378ce9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đơn hàng (đặt) thử ."
+        }
+      ],
+      "mobileId": 42681,
+      "phonetic": "しるしてきちゅうもん",
+      "word": "験的注文"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e73024f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "transcendental philosophy"
+        }
+      ],
+      "mobileId": 251729,
+      "phonetic": "せんけんてつがく",
+      "word": "先験哲学"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959882c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuyết tiên nghiệm"
+        }
+      ],
+      "mobileId": 60959,
+      "phonetic": "せんけんろん",
+      "related_words": {
+        "word": [
+          "先"
+        ]
+      },
+      "word": "先験論"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

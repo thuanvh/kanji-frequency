@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adae1957e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "＿日間国家的に喪に服すことを宣言する",
+              "mean": "tuyên bố mặc đồ tang ~ ngày quốc tang .",
+              "transcription": "＿にちかんこっかてきにもにふくすことをせんげんする"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "quần áo tang; đồ tang"
+        }
+      ],
+      "mobileId": 80643,
+      "phonetic": "も",
+      "related_words": {
+        "word": [
+          "喪失",
+          "喪服",
+          "喪中",
+          "喪主"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "喪",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "追悼",
+                "喪中",
+                "弔い",
+                "弔意",
+                "弔慰",
+                "忌中",
+                "永訣",
+                "死別"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "喪"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c1eb30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "những tang lễ và những liên hoan"
+        }
+      ],
+      "mobileId": 62282,
+      "phonetic": "もさい",
+      "related_words": {
+        "word": [
+          "祭",
+          "喪"
+        ]
+      },
+      "word": "喪祭"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96547eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unpopular man, man who isn't well-liked by women"
+        }
+      ],
+      "mobileId": 275967,
+      "phonetic": "もおとこ もお もだん",
+      "word": "喪男"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9674cd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unpopular woman, woman who isn't well-liked by men"
+        }
+      ],
+      "mobileId": 276031,
+      "phonetic": "もじょ もおんな",
+      "word": "喪女"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0dab59f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "forgetting one's serious objectives by becoming engrossed in trivial pursuits, being distracted by trivial objects and losing sight of one's original goal"
+        }
+      ],
+      "mobileId": 213912,
+      "phonetic": "がんぶつそうし",
+      "word": "玩物喪志"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

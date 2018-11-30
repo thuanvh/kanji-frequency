@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68682b53",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đau yếu; bệnh hoạn, bệnh, sự buồn nôn; sự nôn mửa"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh, bệnh tật"
+        }
+      ],
+      "mobileId": 3313,
+      "phonetic": "",
+      "word": "病患"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8bb8eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "animal under treatment, patient (referring to pets)"
+        }
+      ],
+      "mobileId": 227861,
+      "phonetic": "かんちく",
+      "word": "患畜"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b398f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự lo lắng, phiền toái khi gặp khó khăn; nỗi ưu phiền, nỗi khổ sở"
+        }
+      ],
+      "mobileId": 23606,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "難"
+        ]
+      },
+      "word": "患難"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0ddf2115",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh nhân mới"
+        }
+      ],
+      "mobileId": 152862,
+      "phonetic": "",
+      "word": "新患"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6ed83c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drug addict"
+        }
+      ],
+      "mobileId": 218647,
+      "phonetic": "ペイかん",
+      "word": "ペイ患"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

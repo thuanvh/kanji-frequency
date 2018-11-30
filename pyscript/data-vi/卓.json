@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada6b4459",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "卓をたたく",
+              "mean": "Đập bàn",
+              "transcription": "たくをたたく"
+            },
+            {
+              "content": "卓を囲む",
+              "mean": "Ngồi quanh bàn tròn",
+              "transcription": "たくをかこむ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái bàn"
+        }
+      ],
+      "mobileId": 78786,
+      "phonetic": "たく",
+      "related_words": {
+        "word": [
+          "電卓",
+          "卓球",
+          "食卓",
+          "卓上",
+          "卓越",
+          "円卓"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "卓",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "台",
+                "スタンド",
+                "台座",
+                "座"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "机",
+                "テーブル",
+                "卓子",
+                "几"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "テーブル",
+                "卓子"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "卓"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c09aff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "altar (esp. Christian)"
+        }
+      ],
+      "mobileId": 213049,
+      "phonetic": "せいたく",
+      "word": "聖卓"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107ef3cf0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bàn thấp ."
+        }
+      ],
+      "mobileId": 55841,
+      "phonetic": "ざたく",
+      "word": "座卓"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ff062d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nét chữ đẹp; bài văn hay, tác phẩm văn học xuất sắc"
+        }
+      ],
+      "mobileId": 64258,
+      "phonetic": "たくひつ",
+      "related_words": {
+        "word": [
+          "筆",
+          "卓"
+        ]
+      },
+      "word": "卓筆"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b871dba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(operator) console"
+        }
+      ],
+      "mobileId": 244152,
+      "phonetic": "せいぎょたく",
+      "word": "制御卓"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b85967",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "excellence, superiority"
+        }
+      ],
+      "mobileId": 262171,
+      "phonetic": "たくいつ",
+      "word": "卓逸"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0bfc43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phòng họp đầy người dự; nhà hát đấy người xem"
+        }
+      ],
+      "mobileId": 69172,
+      "phonetic": "まんたく",
+      "word": "満卓"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b8f1c0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(operator) console"
+        }
+      ],
+      "mobileId": 244407,
+      "phonetic": "そうさたく",
+      "word": "操作卓"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef976cb0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tabletop incense burner"
+        }
+      ],
+      "mobileId": 276524,
+      "phonetic": "しょくこうろ",
+      "word": "卓香炉"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95136f8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tấm bảng mahjong"
+        }
+      ],
+      "mobileId": 56734,
+      "phonetic": "すずめたく",
+      "word": "雀卓"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

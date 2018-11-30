@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dcb473f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "conj, int",
+          "mean": "nào"
+        },
+        {
+          "examples": null,
+          "kind": "conj, int",
+          "mean": "trên hết"
+        },
+        {
+          "examples": null,
+          "kind": "conj, int",
+          "mean": "仕事はさておき:công việc là trên hết"
+        },
+        {
+          "examples": null,
+          "kind": "conj, int",
+          "mean": "何はさておき:trước hết, trên hết"
+        },
+        {
+          "examples": null,
+          "kind": "conj, int",
+          "mean": "và bây giờ; và sau đây ."
+        }
+      ],
+      "mobileId": 144929,
+      "phonetic": "さて",
+      "word": "偖"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

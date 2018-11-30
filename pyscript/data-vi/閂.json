@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7c5cbaf",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "閂の掛かったドア",
+              "mean": "cửa đã cài then (chốt)",
+              "transcription": "閂のかかったドア"
+            },
+            {
+              "content": "閂を差した窓",
+              "mean": "cửa sổ đã gài chốt",
+              "transcription": "閂をさしたまど"
+            }
+          ],
+          "kind": "n",
+          "mean": "chốt; then"
+        }
+      ],
+      "mobileId": 110073,
+      "phonetic": "かんぬき",
+      "word": "閂"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8ee211",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reinforcing \"bolt\" stitch across the bottom of a seam"
+        }
+      ],
+      "mobileId": 219693,
+      "phonetic": "かんぬきどめ",
+      "word": "閂止め"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

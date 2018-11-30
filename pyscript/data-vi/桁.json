@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f5deb3b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "下位桁",
+              "mean": "Con số ở hàng chữ số thấp hơn",
+              "transcription": "かいけた"
+            },
+            {
+              "content": "最初の桁",
+              "mean": "chữ số đầu tiên",
+              "transcription": "さいしょのけた"
+            },
+            {
+              "content": "〜の各桁",
+              "mean": "Mỗi chữ số của ~",
+              "transcription": "〜のかくけた"
+            },
+            {
+              "content": "ある数の有効桁",
+              "mean": "Những con số ý nghĩa của một số nào đó",
+              "transcription": "あるかずのゆうこうけた"
+            },
+            {
+              "content": "クレジット・カード番号の最後の＿桁",
+              "mean": "chữ số ~ cuối cùng của số thẻ tín dụng .",
+              "transcription": "クレジット・カードばんごうのさいごの＿けた"
+            }
+          ],
+          "kind": "n",
+          "mean": "nhịp cầu; bi bàn tính; ký tự; chữ số"
+        }
+      ],
+      "mobileId": 186530,
+      "phonetic": "けた",
+      "related_words": {
+        "word": [
+          "一桁",
+          "二桁",
+          "井桁"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "桁",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "トラバース",
+                "横木"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "桁"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87df181",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cầu có rầm bắt ngang qua"
+        }
+      ],
+      "mobileId": 37538,
+      "phonetic": "けたきょう",
+      "related_words": {
+        "word": [
+          "桁",
+          "橋"
+        ]
+      },
+      "word": "桁橋"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0afe6f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "number of digits or characters"
+        }
+      ],
+      "mobileId": 212500,
+      "phonetic": "けたすう",
+      "word": "桁数"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fa3b95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "purlin (structural beam in a roof), purline"
+        }
+      ],
+      "mobileId": 264275,
+      "phonetic": "もやげた",
+      "word": "母屋桁"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab07b16",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "dầm chính"
+        }
+      ],
+      "mobileId": 229046,
+      "phonetic": "しゅげた",
+      "word": "主桁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca063c1d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yardarm"
+        }
+      ],
+      "mobileId": 284160,
+      "phonetic": "こうたん",
+      "word": "桁端"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bcbf7b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "significant digit"
+        }
+      ],
+      "mobileId": 246339,
+      "phonetic": "ゆうこうけた",
+      "word": "有効桁"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b606fc",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Khổ giới hạn của cầu"
+        }
+      ],
+      "mobileId": 270366,
+      "phonetic": "けたした",
+      "word": "桁下"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd11ce88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số ba chữ số; hàng trăm  cột"
+        }
+      ],
+      "mobileId": 69358,
+      "phonetic": "さんけた",
+      "related_words": {
+        "word": [
+          "桁",
+          "三"
+        ]
+      },
+      "word": "三桁"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda04621",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số bốn chữ số; thousands  cột"
+        }
+      ],
+      "mobileId": 73911,
+      "phonetic": "よんけた",
+      "related_words": {
+        "word": [
+          "桁",
+          "四"
+        ]
+      },
+      "word": "四桁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

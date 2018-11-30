@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19386098b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con bọ ngựa"
+        }
+      ],
+      "mobileId": 22188,
+      "phonetic": "",
+      "word": "螳螂"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9ad5d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "môn võ Đường Lang Quyền, có chiêu thức mô phỏng hoạt động hai chân trước của con bọ ngựa"
+        }
+      ],
+      "mobileId": 115979,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "拳"
+        ]
+      },
+      "word": "螳螂拳"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9913f9",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "bọ ngựa"
+        }
+      ],
+      "mobileId": 228289,
+      "phonetic": "かまきりもどき カマキリモドキ",
+      "word": "擬螳螂"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

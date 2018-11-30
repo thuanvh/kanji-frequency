@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e85b278b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chán ngắt nói; sự lặp lại; sự than phiền"
+        }
+      ],
+      "mobileId": 36430,
+      "phonetic": "くげん",
+      "synsets": [
+        {
+          "base_form": "繰言",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "繰り言",
+                "反覆",
+                "二言",
+                "重複",
+                "反復"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "繰言"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c037f50d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Chuyển, chuyển sang"
+        }
+      ],
+      "mobileId": 208636,
+      "phonetic": "くりいれ",
+      "word": "繰入"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

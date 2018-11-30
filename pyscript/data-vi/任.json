@@ -1,0 +1,320 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d8ea7f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhiệm vụ"
+        },
+        {
+          "examples": [
+            {
+              "content": "任が重い",
+              "mean": "trách nhiệm to lớn .",
+              "transcription": "にんがおもい"
+            }
+          ],
+          "kind": "n",
+          "mean": "trách nhiệm"
+        }
+      ],
+      "mobileId": 143914,
+      "opposite_word": [
+        "免"
+      ],
+      "phonetic": "にん",
+      "related_words": {
+        "word": [
+          "任意",
+          "責任者",
+          "責任",
+          "主任",
+          "委任状",
+          "任せる",
+          "任務",
+          "最高経営責任者",
+          "就任",
+          "専任"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "任",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "タスク",
+                "仕事",
+                "作業",
+                "課業",
+                "業務",
+                "勤め",
+                "役",
+                "職務",
+                "課題",
+                "任務",
+                "役目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仕事",
+                "役",
+                "職務",
+                "任務",
+                "役目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "責務",
+                "勤め",
+                "役",
+                "職務",
+                "役割",
+                "任務",
+                "役目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "タスク",
+                "事業",
+                "プロジェクト",
+                "課題",
+                "任務"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "アサインメント",
+                "職務",
+                "任務"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "義務",
+                "責務",
+                "義理",
+                "責任",
+                "債務",
+                "任務"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "任期"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "任"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6f0f40",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "specially appointed, appointed temporarily for a specific task"
+        }
+      ],
+      "mobileId": 226943,
+      "phonetic": "とくにん",
+      "word": "特任"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d8f9ed1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nhiệm chức ."
+        }
+      ],
+      "mobileId": 143936,
+      "phonetic": "にんしょく",
+      "word": "任職"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5903d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chỉ định đế quốc"
+        }
+      ],
+      "mobileId": 113882,
+      "phonetic": "みことのりにん",
+      "related_words": {
+        "word": [
+          "任"
+        ]
+      },
+      "word": "勅任"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d8ebf8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vz",
+          "mean": "nhậm chức ."
+        }
+      ],
+      "mobileId": 143916,
+      "opposite_word": [
+        "免ずる"
+      ],
+      "phonetic": "にんずる",
+      "related_words": {
+        "word": [
+          "任"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "任ずる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "充てる",
+                "振る",
+                "任じる",
+                "当てる",
+                "割り振る",
+                "割り付ける",
+                "割り当てる",
+                "宛てがう"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "任じる",
+                "命ずる",
+                "命じる"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "任じる"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仰せ付ける",
+                "託する",
+                "就ける",
+                "言付ける",
+                "任じる",
+                "言い付ける",
+                "命ずる",
+                "命じる"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "課する",
+                "割付る",
+                "充てる",
+                "振る",
+                "任じる",
+                "当てる",
+                "割り振る",
+                "割り付ける",
+                "割り当てる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "任ずる"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee8e369",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "được giải tỏa khỏi một có cái trụ"
+        }
+      ],
+      "mobileId": 118454,
+      "phonetic": "にんをとかれる",
+      "word": "任を解かれる"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee8d396",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "đảm trách nhiệm vụ, đảm nhiệm"
+        }
+      ],
+      "mobileId": 118451,
+      "phonetic": "にんにあたる",
+      "word": "任に当たる"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0867082",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "to be equal to the task, to be up to the job, to be capable of filling the post"
+        }
+      ],
+      "mobileId": 285237,
+      "phonetic": "にんにたえる",
+      "word": "任に堪える"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee8ee10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "hoàn thành nhiệm vụ"
+        }
+      ],
+      "mobileId": 118455,
+      "phonetic": "にんをはたす",
+      "word": "任を果たす"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a10f30c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bộ không bộ ."
+        }
+      ],
+      "mobileId": 170571,
+      "phonetic": "むにんしょう",
+      "word": "無任省"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

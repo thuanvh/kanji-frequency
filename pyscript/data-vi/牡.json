@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19305c2c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "con đực (động vật)"
+        }
+      ],
+      "mobileId": 18077,
+      "opposite_word": [
+        "牝"
+      ],
+      "phonetic": "おす",
+      "related_words": {
+        "word": [
+          "牡羊座",
+          "牡丹",
+          "牡牛座",
+          "牡蠣",
+          "牡牛",
+          "牡羊",
+          "牡鹿"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "牡",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "雄"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "牡"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a299750",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bò cái ."
+        }
+      ],
+      "mobileId": 171063,
+      "opposite_word": [
+        "牝牛"
+      ],
+      "phonetic": "おうし",
+      "related_words": {
+        "word": [
+          "牛",
+          "牡",
+          "牡牛座"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "牡牛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "雌牛"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "牡牛"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193093509",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "con mèo"
+        }
+      ],
+      "mobileId": 18201,
+      "phonetic": "おすねこ",
+      "word": "牡猫"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193136487",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhồi nhét"
+        }
+      ],
+      "mobileId": 18539,
+      "phonetic": "おすひつじ",
+      "related_words": {
+        "word": [
+          "羊",
+          "牡",
+          "牡羊座"
+        ]
+      },
+      "word": "牡羊"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19325a075",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vươn; gà trống"
+        }
+      ],
+      "mobileId": 19125,
+      "phonetic": "おすとり",
+      "word": "牡鳥"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19325a688",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vươn; gà trống"
+        }
+      ],
+      "mobileId": 19126,
+      "phonetic": "おすにわとり",
+      "word": "牡鶏"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19313737e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chòm sao Bạch dương"
+        }
+      ],
+      "mobileId": 18540,
+      "phonetic": "おすひつじざ",
+      "related_words": {
+        "word": [
+          "羊",
+          "座",
+          "牡",
+          "牡羊"
+        ]
+      },
+      "word": "牡羊座"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a29938e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bò con cái ."
+        }
+      ],
+      "mobileId": 171062,
+      "phonetic": "おこうし",
+      "word": "牡子牛"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf55746",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chòm sao Kim ngưu"
+        }
+      ],
+      "mobileId": 17547,
+      "phonetic": "お うしざ",
+      "related_words": {
+        "word": [
+          "牛",
+          "座",
+          "牡牛",
+          "牡"
+        ]
+      },
+      "word": "牡牛座"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

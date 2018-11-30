@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802778a72f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tàu; thuyền ."
+        }
+      ],
+      "mobileId": 31176,
+      "phonetic": "ふね",
+      "related_words": {
+        "word": [
+          "箱舟",
+          "方舟",
+          "小舟"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "舟",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "船",
+                "シップ",
+                "船舶"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "舟艇",
+                "ボート",
+                "小舟"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "舟艇",
+                "船",
+                "船舶"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "舟"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06ceb8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "boat festival, festival with portable shrines carried on boats"
+        }
+      ],
+      "mobileId": 284448,
+      "phonetic": "ふなまつり",
+      "word": "舟祭り"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97690fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Falkland steamer duck (Tachyeres brachypterus)"
+        }
+      ],
+      "mobileId": 276517,
+      "phonetic": "ふながも フナガモ",
+      "word": "舟鴨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3c1669",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "boat race betting ticket"
+        }
+      ],
+      "mobileId": 225332,
+      "phonetic": "ふなけん しゅうけん",
+      "word": "舟券"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f38c5d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unidentified craft said to have washed ashore in Ibaraki Prefecture during the Edo period (sometimes alleged to have been a UFO)"
+        }
+      ],
+      "mobileId": 264050,
+      "phonetic": "うつろぶね",
+      "word": "虚舟"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68885131",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "món sushi bày trên đĩa hình thuyền nhỏ"
+        }
+      ],
+      "mobileId": 4341,
+      "phonetic": "ふな もり",
+      "word": "舟盛り"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0317d37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dugout canoe"
+        }
+      ],
+      "mobileId": 208440,
+      "phonetic": "くりふね くりぶね",
+      "word": "刳り舟"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7aa19a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuyền đánh cá ."
+        }
+      ],
+      "mobileId": 109577,
+      "phonetic": "つりぶね",
+      "word": "釣り舟"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d18fa9a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "boat to transport mud"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(fictional) boat made of (dried) mud"
+        }
+      ],
+      "mobileId": 215901,
+      "phonetic": "どろぶね",
+      "word": "泥舟"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6887ba70",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "boatbuilder"
+        }
+      ],
+      "mobileId": 4322,
+      "phonetic": "ふなだいく",
+      "word": "舟大工"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

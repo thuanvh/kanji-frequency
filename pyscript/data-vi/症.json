@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a787bf4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n-suf",
+          "mean": "bệnh; chứng ."
+        }
+      ],
+      "mobileId": 172280,
+      "phonetic": "しょう",
+      "related_words": {
+        "word": [
+          "花粉症",
+          "症状",
+          "症候群",
+          "炎症",
+          "拒食症",
+          "不眠症",
+          "自覚症状",
+          "後遺症",
+          "合併症",
+          "自閉症"
+        ]
+      },
+      "word": "症"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027584051",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh sỏi mật ."
+        }
+      ],
+      "mobileId": 30572,
+      "phonetic": "たんせきしょう",
+      "word": "胆石症"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a60dbcb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "silicosis"
+        }
+      ],
+      "mobileId": 226486,
+      "phonetic": "けいはいしょう",
+      "word": "珪肺症"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89c7289",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chứng loạn ảo"
+        }
+      ],
+      "mobileId": 38501,
+      "phonetic": "げんかくしょう",
+      "word": "幻覚症"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b2cfe8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cầm (lấy) một sự quay; phát triển vào trong"
+        }
+      ],
+      "mobileId": 5701,
+      "phonetic": "へんしょう",
+      "related_words": {
+        "word": [
+          "変",
+          "症"
+        ]
+      },
+      "word": "変症"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193610386",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "binge eating"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chứng ăn quá nhiều"
+        }
+      ],
+      "mobileId": 20998,
+      "phonetic": "かしょくしょう",
+      "related_words": {
+        "word": [
+          "食",
+          "症",
+          "過食"
+        ]
+      },
+      "word": "過食症"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6730b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mastopathy"
+        }
+      ],
+      "mobileId": 251368,
+      "phonetic": "にゅうせんしょう",
+      "word": "乳腺症"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e975ec2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yusho (disease caused by PCB ingestion)"
+        }
+      ],
+      "mobileId": 252917,
+      "phonetic": "ゆしょう",
+      "word": "油症"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69abd8685",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chứng xơ cứng ."
+        }
+      ],
+      "mobileId": 173424,
+      "phonetic": "こうかしょう",
+      "word": "硬化症"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770df214",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "schizophrenia"
+        }
+      ],
+      "mobileId": 264904,
+      "phonetic": "ぶんれつしょう",
+      "word": "分裂症"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

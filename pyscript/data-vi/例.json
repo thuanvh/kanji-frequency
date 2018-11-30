@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dafbbb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thí dụ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tỷ dụ"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-pref, adj-no",
+          "mean": "ví dụ ."
+        }
+      ],
+      "mobileId": 144450,
+      "phonetic": "れい",
+      "related_words": {
+        "word": [
+          "例えば",
+          "事例",
+          "例外",
+          "凡例",
+          "実施例",
+          "例え",
+          "実例",
+          "例文",
+          "比例",
+          "具体例"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "例",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "実例",
+                "代表",
+                "事例"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "実例",
+                "事例",
+                "ケース",
+                "案件",
+                "出来事",
+                "件",
+                "事件",
+                "場合"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "好例",
+                "師範",
+                "見本",
+                "手本",
+                "模範",
+                "儀範",
+                "儀型",
+                "儀形",
+                "儀表"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "例"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df594f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền lệ"
+        }
+      ],
+      "mobileId": 153576,
+      "opposite_word": [
+        "古例"
+      ],
+      "phonetic": "しんれい",
+      "word": "新例"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dda3238",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reported case (instance)"
+        }
+      ],
+      "mobileId": 222172,
+      "phonetic": "ほうこくれい",
+      "word": "報告例"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a924e1ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "illustration (using an example)"
+        }
+      ],
+      "mobileId": 257452,
+      "phonetic": "れいせつ",
+      "word": "例説"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939708bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ví dụ tốt"
+        }
+      ],
+      "mobileId": 22713,
+      "phonetic": "けいれい",
+      "related_words": {
+        "word": [
+          "例",
+          "佳"
+        ]
+      },
+      "word": "佳例"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9507f073",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ví dụ (của) sự thực hiện (những bằng sáng chế)"
+        }
+      ],
+      "mobileId": 56372,
+      "phonetic": "じっしれい",
+      "related_words": {
+        "word": [
+          "実施",
+          "例",
+          "実"
+        ]
+      },
+      "word": "実施例"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9538a00f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ví dụ ở trên, ví dụ đưa ra ở phần trên"
+        }
+      ],
+      "mobileId": 57882,
+      "phonetic": "うえれい",
+      "related_words": {
+        "word": [
+          "上",
+          "例"
+        ]
+      },
+      "word": "上例"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd9b042",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "case of infection"
+        }
+      ],
+      "mobileId": 222151,
+      "phonetic": "かんせんれい",
+      "word": "感染例"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afb0190",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ví dụ ."
+        }
+      ],
+      "mobileId": 174439,
+      "phonetic": "はんれい",
+      "related_words": {
+        "word": [
+          "例"
+        ]
+      },
+      "word": "範例"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b9162e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xem xét những tiền lệ cũ (già)"
+        }
+      ],
+      "mobileId": 23788,
+      "phonetic": "かんれい",
+      "related_words": {
+        "word": [
+          "例",
+          "勘"
+        ]
+      },
+      "word": "勘例"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d45eb53",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "(nth) power"
+        },
+        {
+          "examples": null,
+          "kind": "ctr",
+          "mean": "counter for vehicles"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "multiplication"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Buddha's teachings"
+        }
+      ],
+      "mobileId": 217322,
+      "opposite_word": [
+        "除"
+      ],
+      "phonetic": "じょう",
+      "word": "乗"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00b8021",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v5s, vt",
+          "mean": "Cho lên ( thuyền )"
+        }
+      ],
+      "mobileId": 189509,
+      "phonetic": "のす",
+      "word": "乗す"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6836fece",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền tối cao, chủ quyền"
+        }
+      ],
+      "mobileId": 1791,
+      "phonetic": "まんじょう",
+      "related_words": {
+        "word": [
+          "万"
+        ]
+      },
+      "word": "万乗"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0f226f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ekayana (doctrine that only one teaching, usu. the Lotus Sutra, can lead to enlightenment)"
+        }
+      ],
+      "mobileId": 248486,
+      "phonetic": "いちじょう",
+      "word": "一乗"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b882bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một sức mạnh (math)"
+        }
+      ],
+      "mobileId": 5900,
+      "phonetic": "べきじょう",
+      "word": "冪乗"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef84d8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quan tâm; sự nhiệt tình"
+        }
+      ],
+      "mobileId": 118944,
+      "phonetic": "のき",
+      "word": "乗気"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef87a3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảm giác khi đi trên xe"
+        }
+      ],
+      "mobileId": 118950,
+      "phonetic": "じょうごこち",
+      "related_words": {
+        "word": [
+          "心",
+          "地",
+          "心地"
+        ]
+      },
+      "word": "乗心地"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3bb5b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự thăm hỏi, sự thăm viếng, đang thăm, thăm viếng"
+        }
+      ],
+      "mobileId": 147631,
+      "phonetic": "さんじょう",
+      "related_words": {
+        "word": [
+          "三"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "三乗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "立方"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "三乗"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d45de4e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "(nth) root"
+        }
+      ],
+      "mobileId": 217321,
+      "phonetic": "じょうこん",
+      "word": "乗根"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19330c168",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(toán học) giai thừa"
+        }
+      ],
+      "mobileId": 19471,
+      "phonetic": "かいじょう",
+      "word": "階乗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

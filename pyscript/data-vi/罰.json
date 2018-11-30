@@ -1,0 +1,279 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280273a18e2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）を受けるべき罰から逃れさせる",
+              "mean": "né tránh khỏi sự trừng phạt từ ~",
+              "transcription": "（ひと）をうけるべきばちからのがれさせる"
+            },
+            {
+              "content": "最近の親は、常日ごろの振る舞いを子どもに教えるのに、罰したり褒めたりしようとしがちだ",
+              "mean": "Các bậc phụ huynh ngày nay có khuynh hướng vừa dậy dỗ con cái mình về cách cư xử hàng ngày nhưng cũng phải vừa phạt vừa khuyến khích chúng.",
+              "transcription": "さいきんのおやは、つねひごろのふるまいをこどもにおしえるのに、ばっしたりほめたりしようとしがちだ"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "sự phạt; sự trừng phạt"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "tội ."
+        }
+      ],
+      "mobileId": 30053,
+      "opposite_word": [
+        "賞"
+      ],
+      "phonetic": "ばつ",
+      "related_words": {
+        "word": [
+          "罰金",
+          "罰する",
+          "天罰",
+          "懲罰",
+          "賞罰",
+          "罰則",
+          "罰当たり",
+          "処罰"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "罰",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "処刑",
+                "懲罰",
+                "戒め",
+                "仕置",
+                "罪科",
+                "制裁",
+                "処罰",
+                "懲戒",
+                "天誅",
+                "処分",
+                "刑戮",
+                "刑罰",
+                "成敗",
+                "ペナルティー",
+                "懲らしめ",
+                "天罰"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "罰"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802739f9a5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "聖書の教えに沿った罰",
+              "mean": "Sự trừng phạt được dạy trong kinh thánh.",
+              "transcription": "せいしょのおしえにそったばち"
+            },
+            {
+              "content": "悪行に課せられる刑事罰",
+              "mean": "Hình phạt cho những tội ác.",
+              "transcription": "あくぎょうにかせられるけいじばつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự báo ứng"
+        },
+        {
+          "examples": [
+            {
+              "content": "両親は時に子どもを罰しなければならない",
+              "mean": "Đôi khi các bậc phụ huynh cũng phải phạt con cái.",
+              "transcription": "りょうしんはときにこどもをばっしなければならない"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự trừng phạt; sự phạt"
+        }
+      ],
+      "mobileId": 30052,
+      "opposite_word": [
+        "賞"
+      ],
+      "phonetic": "ばち",
+      "related_words": {
+        "word": [
+          "罰金",
+          "罰する",
+          "天罰",
+          "懲罰",
+          "賞罰",
+          "罰則",
+          "罰当たり",
+          "処罰"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "罰",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "処刑",
+                "懲罰",
+                "戒め",
+                "仕置",
+                "罪科",
+                "制裁",
+                "処罰",
+                "懲戒",
+                "天誅",
+                "処分",
+                "刑戮",
+                "刑罰",
+                "成敗",
+                "ペナルティー",
+                "懲らしめ",
+                "天罰"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "罰"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d683ee5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "game played as a form of punishment by the loser of a contest"
+        }
+      ],
+      "mobileId": 218445,
+      "phonetic": "ばつゲーム",
+      "related_words": {
+        "word": [
+          "ゲーム",
+          "罰"
+        ]
+      },
+      "word": "罰ゲーム"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef985a373",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "criminal punishment, criminal penalty"
+        }
+      ],
+      "mobileId": 276999,
+      "phonetic": "けいじばつ",
+      "word": "刑事罰"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561eb2da28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "punishment, discipline"
+        }
+      ],
+      "mobileId": 253843,
+      "phonetic": "かばつ",
+      "word": "科罰"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684ae8b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trừng phạt không thể tránh được"
+        }
+      ],
+      "mobileId": 2414,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "罰"
+        ]
+      },
+      "word": "必罰"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0313ac6",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Ly Hôn"
+        }
+      ],
+      "mobileId": 200213,
+      "phonetic": "ばついち バツいち バツイチ",
+      "word": "罰一"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ff6a2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trừng phạt vĩnh cửu"
+        }
+      ],
+      "mobileId": 41701,
+      "phonetic": "こうばつ",
+      "related_words": {
+        "word": [
+          "罰",
+          "劫"
+        ]
+      },
+      "word": "劫罰"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca021caea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "punishment room, penal cell"
+        }
+      ],
+      "mobileId": 282031,
+      "phonetic": "ばっしつ",
+      "word": "罰室"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6834390d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "phạt (một trẻ em, vân vân.)"
+        }
+      ],
+      "mobileId": 1699,
+      "phonetic": "ばちをあたえる",
+      "word": "罰を与える"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8250914",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lệnh cấm (e.g. trên (về) việc hút thuốc); sự ngăn cấm"
+        }
+      ],
+      "mobileId": 34681,
+      "phonetic": "きん",
+      "word": "禁"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fccf3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "prohibition"
+        }
+      ],
+      "mobileId": 264357,
+      "phonetic": "きんあつ",
+      "word": "禁遏"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8293da2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đặt (của) sự giam cầm"
+        }
+      ],
+      "mobileId": 34818,
+      "phonetic": "きんしょ",
+      "related_words": {
+        "word": [
+          "所"
+        ]
+      },
+      "word": "禁所"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82c8b2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cấm sao chép, cấm đăng tải lại (bài viết, hình ảnh ...)"
+        }
+      ],
+      "mobileId": 34926,
+      "phonetic": "きんてんさい",
+      "word": "禁転載"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aef02c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "banned from access (e.g. from a web forum, etc.)"
+        }
+      ],
+      "mobileId": 231081,
+      "phonetic": "アクきん",
+      "word": "アク禁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0215887",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "solitary confinement"
+        }
+      ],
+      "mobileId": 282018,
+      "phonetic": "へいきん",
+      "word": "屏禁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca004fa40",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ban on maritime activities during China's Ming and Qing dynasties"
+        }
+      ],
+      "mobileId": 281113,
+      "phonetic": "かいきん",
+      "word": "海禁"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d32f10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "banishment, being forbidden to enter"
+        }
+      ],
+      "mobileId": 271311,
+      "phonetic": "できん",
+      "word": "出禁"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82f70dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự tiết dục; sự kiềm chế tình cảm"
+        }
+      ],
+      "mobileId": 35014,
+      "phonetic": "きんよく",
+      "word": "禁慾"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02c24d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "charm, incantation, spell, magic formula"
+        }
+      ],
+      "mobileId": 282360,
+      "phonetic": "きんじゅ",
+      "word": "禁呪"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

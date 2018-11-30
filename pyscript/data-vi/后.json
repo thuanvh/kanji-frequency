@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adac44cc7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hoàng hậu; nữ hoàng ."
+        }
+      ],
+      "mobileId": 80084,
+      "phonetic": "きさき",
+      "related_words": {
+        "word": [
+          "皇后",
+          "午后"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "后",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "皇后陛下",
+                "皇后",
+                "クィーン",
+                "王妃",
+                "后妃"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "女帝",
+                "中宮",
+                "エンプレス",
+                "皇后"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "后"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ee357d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hoàng thái hậu (mẹ của nữ hoàng, vua đang trị vì)"
+        }
+      ],
+      "mobileId": 63712,
+      "phonetic": "ふとしきさき",
+      "word": "太后"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08c4945",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "queen"
+        }
+      ],
+      "mobileId": 211349,
+      "phonetic": "おうこう",
+      "word": "王后"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770cb04a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "women's pavilion (of the inner Heian palace)"
+        }
+      ],
+      "mobileId": 264859,
+      "phonetic": "きさきまち きさいまち",
+      "word": "后町"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ad9e5d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hậu cung"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cung, điện; lâu đài, chỗ ở chính thức, quán ăn trang trí loè loẹt, tiệm rượu trang trí loè loẹt"
+        }
+      ],
+      "mobileId": 39040,
+      "phonetic": "きさきみや",
+      "related_words": {
+        "word": [
+          "后"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "后宮",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ハレム",
+                "内廷"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "館",
+                "パレス",
+                "御殿",
+                "御所",
+                "王宮",
+                "宮殿",
+                "殿",
+                "九天"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "后宮"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10742a46f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thiên hậu ."
+        }
+      ],
+      "mobileId": 52934,
+      "phonetic": "てんこう",
+      "related_words": {
+        "word": [
+          "天",
+          "后"
+        ]
+      },
+      "word": "天后"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08c51b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Her Majesty the Queen"
+        }
+      ],
+      "mobileId": 211350,
+      "phonetic": "おうこうへいか",
+      "word": "王后陛下"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e9ca756",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "từ hy thái hậu ( trung quốc )"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "せいたいごう( 西太后"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

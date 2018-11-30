@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a296d17",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chó cái ."
+        }
+      ],
+      "mobileId": 171058,
+      "phonetic": "めすいぬ",
+      "related_words": {
+        "word": [
+          "犬"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "牝犬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "雌犬",
+                "雌"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "牝犬"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa3b27b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "doe (female deer)"
+        }
+      ],
+      "mobileId": 228634,
+      "phonetic": "めじか めしか めか めが",
+      "word": "牝鹿"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd443142",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "con bò cái"
+        }
+      ],
+      "mobileId": 70959,
+      "opposite_word": [
+        "牡牛"
+      ],
+      "phonetic": "めすうし",
+      "related_words": {
+        "word": [
+          "牛"
+        ]
+      },
+      "word": "牝牛"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd4e4040",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gà mái, đàn bà, tất cả bận rộn, lăng xăng rối rít"
+        }
+      ],
+      "mobileId": 71274,
+      "phonetic": "めすとり",
+      "word": "牝鳥"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a298099",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Gà mái ."
+        }
+      ],
+      "mobileId": 171060,
+      "phonetic": "ひんけい",
+      "word": "牝鷄"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e773010",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để giao cấu (những động vật); tới bạn"
+        }
+      ],
+      "mobileId": 114825,
+      "phonetic": "",
+      "word": "遊牝む"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

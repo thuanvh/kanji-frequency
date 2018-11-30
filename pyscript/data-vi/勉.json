@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ac6bbe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "without studying"
+        }
+      ],
+      "mobileId": 278218,
+      "phonetic": "むべん",
+      "word": "無勉"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c9ce57",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một nô lệ; một sự nghiền"
+        }
+      ],
+      "mobileId": 24312,
+      "phonetic": "がりつとむ",
+      "word": "我利勉"
+    },
+    {
+      "_id": "0648f34b5f8df91f4f81a793f9a7a8e0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "がり勉タイプ",
+              "mean": "loại học gạo",
+              "transcription": "がりつとむタイプ"
+            },
+            {
+              "content": "課外活動をしないがり勉",
+              "mean": "học gạo, chẳng biết gì ngoài sách vở",
+              "transcription": "かがいかつどうをしないがりつとむ"
+            },
+            {
+              "content": "がり勉学生",
+              "mean": "Học sinh học gạo .",
+              "transcription": "がりべんがくせい"
+            }
+          ],
+          "kind": "n",
+          "mean": "học sinh học gạo; kẻ học gạo"
+        }
+      ],
+      "mobileId": 10043,
+      "phonetic": "がりべん",
+      "related_words": {
+        "word": [
+          "がり"
+        ]
+      },
+      "word": "がり勉"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ac79d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "studying hard, cramming"
+        }
+      ],
+      "mobileId": 278219,
+      "phonetic": "もうべん",
+      "word": "猛勉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abe05aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "leaving all your textbooks, etc., at school"
+        }
+      ],
+      "mobileId": 229494,
+      "phonetic": "おきべん",
+      "word": "置き勉"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801516458",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự cần mẫn ."
+        }
+      ],
+      "mobileId": 43175,
+      "phonetic": "びんべん",
+      "word": "黽勉"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca037d940",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp",
+          "mean": "không học gì cả"
+        }
+      ],
+      "mobileId": 282752,
+      "phonetic": "ノーべん",
+      "word": "ノー勉"
+    },
+    {
+      "_id": "0648f34b5f8df91f4f81a793f9a7b03b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜をがり勉する",
+              "mean": "Học gạo cái gì... .",
+              "transcription": "〜をがりつとむする"
+            }
+          ],
+          "kind": "vs",
+          "mean": "học gạo"
+        }
+      ],
+      "mobileId": 10044,
+      "phonetic": "がりべんする",
+      "related_words": {
+        "word": [
+          "する",
+          "がり",
+          "がり勉"
+        ]
+      },
+      "word": "がり勉する"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d40b26ff",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Học cho kì kiểm tra (ngôn ngữ của giới trẻ). Viết tắt của テスト勉強"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "テスべん",
+      "word": "テス勉"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

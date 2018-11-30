@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107d442c5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "平屋根",
+              "mean": "nóc nhà mái bằng",
+              "transcription": "ひらやね"
+            }
+          ],
+          "kind": "n",
+          "mean": "bằng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phiến diện"
+        },
+        {
+          "examples": [
+            {
+              "content": "平教師",
+              "mean": "giáo viên phổ thông .",
+              "transcription": "ひらきょうし"
+            }
+          ],
+          "kind": "n",
+          "mean": "phổ thông"
+        }
+      ],
+      "mobileId": 55439,
+      "phonetic": "ひら",
+      "related_words": {
+        "word": [
+          "平面",
+          "平和",
+          "平面図",
+          "平均",
+          "平日",
+          "水平",
+          "公平",
+          "太平洋",
+          "平均値",
+          "平行"
+        ]
+      },
+      "word": "平"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ac9668",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mức; bình thường"
+        }
+      ],
+      "mobileId": 5497,
+      "phonetic": "ひらたいら",
+      "related_words": {
+        "word": [
+          "平"
+        ]
+      },
+      "word": "平平"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6861537a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nằm ngang ném đá vào cối xay bàn tay"
+        }
+      ],
+      "mobileId": 3108,
+      "phonetic": "ひらうす",
+      "related_words": {
+        "word": [
+          "平",
+          "臼"
+        ]
+      },
+      "word": "平臼"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68aab19e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bàn tay cột buồm; lính thủy chung"
+        }
+      ],
+      "mobileId": 5437,
+      "phonetic": "ひらすいふ",
+      "word": "平水夫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a504a89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"wa\" radical at top (radical 14)"
+        }
+      ],
+      "mobileId": 225992,
+      "phonetic": "ひらかんむり",
+      "word": "平冠"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107d8cb81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tay áo rộng ."
+        }
+      ],
+      "mobileId": 55513,
+      "phonetic": "ひらそで",
+      "related_words": {
+        "word": [
+          "平",
+          "袖"
+        ]
+      },
+      "word": "平袖"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ed1490",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ptilophora subcostata (species of red alga)"
+        }
+      ],
+      "mobileId": 280340,
+      "phonetic": "ひらくさ ヒラクサ",
+      "word": "平草"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3fd6c7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "nhân viên cấp thấp nhất"
+        }
+      ],
+      "mobileId": 217140,
+      "phonetic": "ひらしゃいん",
+      "word": "平社員"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77556fe5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wrapping cloth"
+        }
+      ],
+      "mobileId": 267208,
+      "phonetic": "ひらづつみ",
+      "word": "平包み"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c3aedc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sewing elastic, flat bands of elastic for sewing in cuffs, etc."
+        }
+      ],
+      "mobileId": 262538,
+      "phonetic": "ひらゴム",
+      "related_words": {
+        "word": [
+          "ゴム",
+          "平"
+        ]
+      },
+      "word": "平ゴム"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb92b25",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ở trong"
+        }
+      ],
+      "mobileId": 15660,
+      "phonetic": "うら",
+      "word": "裡"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08fd584",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, adj-no",
+          "mean": "behind closed doors, behind-the-scenes, (under the veil of) secrecy"
+        }
+      ],
+      "mobileId": 211468,
+      "phonetic": "ひみつり",
+      "word": "秘密裡"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd537f72",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tối tăm; ngầm; bí mật"
+        }
+      ],
+      "mobileId": 12459,
+      "phonetic": "あんあんうら",
+      "word": "暗暗裡"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed956aa307",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự thành công, sự thắng lợi, người thành công, người thành đạt ; thí sinh trúng tuyển, (từ hiếm, nghĩa hiếm) kết quả"
+        }
+      ],
+      "mobileId": 59494,
+      "phonetic": "せいこううら",
+      "related_words": {
+        "word": [
+          "成功"
+        ]
+      },
+      "word": "成功裡"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

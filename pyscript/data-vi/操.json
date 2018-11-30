@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74d6cb94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "danh dự"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bền lòng; niềm tin"
+        },
+        {
+          "examples": [
+            {
+              "content": "操を守る",
+              "mean": "giữ trinh tiết .",
+              "transcription": "みさおをまもる"
+            }
+          ],
+          "kind": "n",
+          "mean": "trinh tiết"
+        }
+      ],
+      "mobileId": 100660,
+      "phonetic": "みさお",
+      "related_words": {
+        "word": [
+          "操作",
+          "体操",
+          "操作する",
+          "新体操",
+          "遠隔操作",
+          "操る",
+          "操縦",
+          "操縦する",
+          "操業",
+          "操り"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "操",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "貞節",
+                "善",
+                "純潔",
+                "貞淑",
+                "節操",
+                "貞操"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "貞節",
+                "実",
+                "忠誠",
+                "律儀",
+                "操守",
+                "信",
+                "節操",
+                "信実",
+                "真実性",
+                "信義",
+                "誠",
+                "忠義",
+                "丹心",
+                "忠実"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "操"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4c22f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "diễn rối"
+        }
+      ],
+      "mobileId": 12227,
+      "phonetic": "みさおじょうるり",
+      "word": "操浄瑠璃"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96a6e87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "manipulation techniques (e.g. puppets), handling techniques"
+        }
+      ],
+      "mobileId": 259702,
+      "phonetic": "そうほう",
+      "word": "操法"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d416811c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Điều hướng, dẫn hướng, lái"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "そうこう",
+      "word": "操向"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd12da2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "dính chặt vào một có những nguyên lý; để giữ gìn một có sự trong sạch"
+        }
+      ],
+      "mobileId": 69392,
+      "phonetic": "みさおをまもる",
+      "word": "操を守る"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2f7291",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "form of muscular or movement therapy developed by Keizo Hashimoto"
+        }
+      ],
+      "mobileId": 249553,
+      "phonetic": "そうたいほう",
+      "word": "操体法"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

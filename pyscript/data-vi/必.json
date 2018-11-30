@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04cc75b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "tất yếu"
+        }
+      ],
+      "mobileId": 283415,
+      "phonetic": "ひつ",
+      "word": "必"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6849e96e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhất định điều trị"
+        }
+      ],
+      "mobileId": 2381,
+      "phonetic": "",
+      "word": "必治"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684ae93e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tính có chết, loài người, số người chết, số tử vong, tỷ lệ người chết, bằng tuổi sống của các lứa tuổi"
+        }
+      ],
+      "mobileId": 2415,
+      "opposite_word": [
+        "不滅"
+      ],
+      "phonetic": "",
+      "word": "必滅"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68498304",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giáp giới suy sụp, mục nát, hoặc sụp đổ"
+        }
+      ],
+      "mobileId": 2369,
+      "phonetic": "",
+      "word": "必衰"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a11a9d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "certain fulfilment"
+        }
+      ],
+      "mobileId": 223966,
+      "phonetic": "ひったつ",
+      "word": "必達"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04c99ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "must-eat"
+        }
+      ],
+      "mobileId": 283409,
+      "phonetic": "ひっしょく",
+      "word": "必食"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684ae8b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trừng phạt không thể tránh được"
+        }
+      ],
+      "mobileId": 2414,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "罰"
+        ]
+      },
+      "word": "必罰"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ec88d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "mandatory requirements (e.g. qualifications, administrative structures, etc.)"
+        }
+      ],
+      "mobileId": 280324,
+      "phonetic": "ひっち",
+      "word": "必置"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6faf3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "certain defeat"
+        }
+      ],
+      "mobileId": 218678,
+      "phonetic": "ひっぱい",
+      "word": "必敗"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6849f1b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhu cầu được bảo đảm để điều trị"
+        }
+      ],
+      "mobileId": 2382,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "薬"
+        ]
+      },
+      "word": "必治薬"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

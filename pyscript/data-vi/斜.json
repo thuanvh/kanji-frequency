@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5319ec",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-no, n",
+          "mean": "đường chéo"
+        }
+      ],
+      "mobileId": 217752,
+      "phonetic": "はす しゃ",
+      "word": "斜"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8d2bbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tháp nghiêng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "front of (the main building of) shrine"
+        }
+      ],
+      "mobileId": 150202,
+      "phonetic": "しゃ とう",
+      "related_words": {
+        "word": [
+          "塔"
+        ]
+      },
+      "word": "斜塔"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8945bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "chứng vẹo cổ, chim vẹo cổ"
+        }
+      ],
+      "mobileId": 150090,
+      "phonetic": "",
+      "word": "斜頸"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a97e7b6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oblique case"
+        }
+      ],
+      "mobileId": 260339,
+      "phonetic": "しゃかく",
+      "word": "斜格"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a34db32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "plagioclase feldspar"
+        }
+      ],
+      "mobileId": 225103,
+      "phonetic": "しゃちょうせき",
+      "word": "斜長石"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97bece8",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Sắp xếp xen kẽ. Dạng như xếp gạch xây tường."
+        }
+      ],
+      "mobileId": 276687,
+      "phonetic": "しゃれつ",
+      "word": "斜列"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d877f06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xiên đi lăng trụ"
+        }
+      ],
+      "mobileId": 150033,
+      "phonetic": "はすかくちゅう",
+      "related_words": {
+        "word": [
+          "角",
+          "柱"
+        ]
+      },
+      "word": "斜角柱"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e8adf82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rhombus, rhomb, diamond (geometrical shape)"
+        }
+      ],
+      "mobileId": 252509,
+      "phonetic": "しゃほうけい",
+      "word": "斜方形"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561eabad19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "italic"
+        }
+      ],
+      "mobileId": 253618,
+      "phonetic": "しゃじ",
+      "word": "斜字"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b27388",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nghiêng; sự lệch"
+        }
+      ],
+      "mobileId": 5690,
+      "phonetic": "へんはす",
+      "related_words": {
+        "word": [
+          "偏"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "偏斜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "狂い",
+                "偏り",
+                "偏差",
+                "逸脱"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "偏斜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

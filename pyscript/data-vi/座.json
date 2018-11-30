@@ -1,0 +1,251 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107ef295d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "みんなが黙っていると座が持たない。",
+              "mean": "Nếu mọi người im lặng thì không khí sẽ như một đám tang.",
+              "transcription": "みんながだまっているとざがもたない。"
+            },
+            {
+              "content": "あいつがいると座がしらける。",
+              "mean": "Cứ có mặt anh ta là không khí bị phá hỏng.",
+              "transcription": "あいつがいるとざがしらける。"
+            },
+            {
+              "content": "政権の座につく。",
+              "mean": "có một chỗ trong chính quyền.",
+              "transcription": "せいけんのざにつく。"
+            },
+            {
+              "content": "座を外す",
+              "mean": "rời chỗ ngồi .",
+              "transcription": "ざをはずす"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "chỗ ngồi; địa vị; không khí; cung (trong bói toán)"
+        }
+      ],
+      "mobileId": 55836,
+      "phonetic": "ざ",
+      "related_words": {
+        "word": [
+          "座標",
+          "講座",
+          "星座",
+          "口座",
+          "座る",
+          "射手座",
+          "当座",
+          "銀座",
+          "座席",
+          "山羊座"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "座",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "台",
+                "スタンド",
+                "台座",
+                "卓"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "席",
+                "蓆",
+                "シート",
+                "議席",
+                "客席",
+                "居敷",
+                "座席",
+                "腰掛け",
+                "せき",
+                "椅子",
+                "倚子"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "座"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a94d7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chòm sao bọ cạp ."
+        }
+      ],
+      "mobileId": 32081,
+      "phonetic": "さそりざ",
+      "related_words": {
+        "word": [
+          "座",
+          "蠍"
+        ]
+      },
+      "word": "蠍座"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a699a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phụ canis (chòm sao)"
+        }
+      ],
+      "mobileId": 38821,
+      "phonetic": "こいぬざ",
+      "word": "小犬座"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca061c255",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "seat (of chair, bench, etc.), seat base"
+        }
+      ],
+      "mobileId": 284099,
+      "phonetic": "ざぶ",
+      "word": "座部"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937db077",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bệnh ung thư, ung nhọt, những cái xấu xa, hạ chí tuyến"
+        }
+      ],
+      "mobileId": 21921,
+      "phonetic": "かにざ",
+      "related_words": {
+        "word": [
+          "座",
+          "蟹"
+        ]
+      },
+      "word": "蟹座"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde9228e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đồng loã (tội phạm); sự dính dáng; sự liên can"
+        }
+      ],
+      "mobileId": 17152,
+      "phonetic": "えんざ",
+      "word": "縁座"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107cc86c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ngai vàng ."
+        }
+      ],
+      "mobileId": 55311,
+      "phonetic": "ていざ",
+      "related_words": {
+        "word": [
+          "座",
+          "帝"
+        ]
+      },
+      "word": "帝座"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952c1b95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quy tắc (ngôi sao)"
+        }
+      ],
+      "mobileId": 57495,
+      "phonetic": "じょうぎざ",
+      "word": "定規座"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955f0dde",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "aikido ngồi bảo vệ"
+        }
+      ],
+      "mobileId": 59119,
+      "phonetic": "ざわざ",
+      "related_words": {
+        "word": [
+          "技",
+          "座"
+        ]
+      },
+      "word": "座技"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1074a691e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "天秤座は常にバランスと調和を優先し、行動していき ます",
+              "mean": "Sinh cung Thiên Bình thường rất giỏi giữ cân bằng với mọi thứ rồi hành động.",
+              "transcription": "てんびんざはつねにバランスとちょうわをゆうせんし、こうどうしていきます"
+            },
+            {
+              "content": "天秤座生まれの人",
+              "mean": "người sinh ra ở cung Thiên Bình",
+              "transcription": "てんびんざうまれのひと"
+            },
+            {
+              "content": "天秤座生まれの人",
+              "mean": "người sinh ra ở cung Thiên Bình",
+              "transcription": "てんびんざうまれのひと"
+            }
+          ],
+          "kind": "n",
+          "mean": "cung Thiên Bình"
+        }
+      ],
+      "mobileId": 53063,
+      "phonetic": "てんびんざ",
+      "related_words": {
+        "word": [
+          "天",
+          "座",
+          "秤"
+        ]
+      },
+      "word": "天秤座"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

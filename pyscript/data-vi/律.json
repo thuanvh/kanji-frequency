@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f741b4af0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "民主主義を黄金律として扱う",
+              "mean": "Xem chủ nghĩa dân chủ là nguyên tắc vàng. .",
+              "transcription": "みんしゅしゅぎをおうごんりつとしてあつかう"
+            }
+          ],
+          "kind": "n",
+          "mean": "lời răn dạy; nguyên tắc"
+        }
+      ],
+      "mobileId": 97865,
+      "phonetic": "りつ",
+      "related_words": {
+        "word": [
+          "法律",
+          "旋律",
+          "規律",
+          "自律神経",
+          "一律",
+          "自律",
+          "調律",
+          "法律上",
+          "律儀",
+          "二律背反"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "律",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "法令",
+                "規程",
+                "格",
+                "戒律",
+                "原則",
+                "規定",
+                "準則",
+                "掟",
+                "規格",
+                "定規",
+                "会則",
+                "典則",
+                "規律",
+                "定め",
+                "法則",
+                "規準",
+                "規則",
+                "ルール",
+                "本則",
+                "規制",
+                "法"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "律"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820f3331",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ritsu scale (anhemitonic pentatonic scale primarily used in gagaku: re, mi, so, la, ti)"
+        }
+      ],
+      "mobileId": 232133,
+      "phonetic": "りつおんかい",
+      "word": "律音階"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed957e8035",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pháp luật viết hoặc theo luật"
+        }
+      ],
+      "mobileId": 60114,
+      "opposite_word": [
+        "不文律"
+      ],
+      "phonetic": "せいぶんりつ",
+      "word": "成文律"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d668dcc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Quy luật tự nhiên.+ Là một tập hợp các quy tắc tự nhiên đặt ra đối với con người và do đó không bao giờ thay đổi được."
+        }
+      ],
+      "mobileId": 148993,
+      "phonetic": "しぜんりつ",
+      "word": "自然律"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87b0db9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "luật hình sự"
+        }
+      ],
+      "mobileId": 37451,
+      "phonetic": "けいりつ",
+      "related_words": {
+        "word": [
+          "刑",
+          "律"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "刑律",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "刑法"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "刑律"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc398ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "câu thơ, thơ; bài thơ, đoạn thơ, chapter, làm thơ, diễn tả bằng thơ"
+        }
+      ],
+      "mobileId": 75059,
+      "phonetic": "りつぶん",
+      "word": "律文"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc3bd53",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "âm chuẩn"
+        }
+      ],
+      "mobileId": 75063,
+      "phonetic": "りつりょ",
+      "word": "律呂"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e129b27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "law of contradiction (logic)"
+        }
+      ],
+      "mobileId": 248596,
+      "phonetic": "むじゅんりつ",
+      "word": "矛盾律"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a8ecb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính khí (âm nhạc); bằng nhau (hoặc thậm chí) tính khí"
+        }
+      ],
+      "mobileId": 5383,
+      "phonetic": "へいきんりつ",
+      "related_words": {
+        "word": [
+          "平均",
+          "平",
+          "律"
+        ]
+      },
+      "word": "平均律"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca075a011",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phase rule"
+        }
+      ],
+      "mobileId": 284725,
+      "phonetic": "そうりつ",
+      "word": "相律"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

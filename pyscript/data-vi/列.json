@@ -1,0 +1,266 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada36d8ca",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "一様収束する連続関数列",
+              "mean": "Dãy số liên tiếp không thay đổi",
+              "transcription": "いちようしゅうそくするれんぞくせきすうれつ"
+            },
+            {
+              "content": "いろいろな行楽地からの帰りで絶え間なく続く車の列",
+              "mean": "Một hàng xe đi không nghỉ từ khu nghỉ mát về",
+              "transcription": "いろいろなこうらくちからのかえりでたえまなくつづくくるまのれつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "hàng; dãy"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thứ bậc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thứ bực ."
+        }
+      ],
+      "mobileId": 77846,
+      "phonetic": "れつ",
+      "related_words": {
+        "word": [
+          "配列",
+          "整列",
+          "文字列",
+          "時系列",
+          "行列",
+          "列車",
+          "系列",
+          "並列",
+          "直列",
+          "列挙"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "列",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "線路",
+                "行列",
+                "筋",
+                "伍",
+                "行",
+                "路線",
+                "ライン",
+                "線"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コラム",
+                "カラム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "配列"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "線路",
+                "行列",
+                "筋",
+                "伍",
+                "行",
+                "路線",
+                "ライン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "連なり",
+                "並び"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "行列",
+                "並び",
+                "ライン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "列"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed958213df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mảng; hàng - lên trên; diễu hành"
+        }
+      ],
+      "mobileId": 60226,
+      "phonetic": "ひとしれつ",
+      "related_words": {
+        "word": [
+          "列"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "斉列",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "行列",
+                "行進",
+                "整列"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "斉列"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee71f87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hai hàng"
+        }
+      ],
+      "mobileId": 118399,
+      "phonetic": "にれつ",
+      "related_words": {
+        "word": [
+          "列",
+          "二"
+        ]
+      },
+      "word": "二列"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b96d618",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unit string"
+        }
+      ],
+      "mobileId": 244657,
+      "phonetic": "たんいれつ",
+      "word": "単位列"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bcde1a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "random number sequence"
+        }
+      ],
+      "mobileId": 246398,
+      "phonetic": "らんすうれつ",
+      "word": "乱数列"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bd050c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "column number"
+        }
+      ],
+      "mobileId": 246481,
+      "phonetic": "れつばんごう",
+      "related_words": {
+        "word": [
+          "番号",
+          "列",
+          "号"
+        ]
+      },
+      "word": "列番号"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a94c000",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "homologous series"
+        }
+      ],
+      "mobileId": 228152,
+      "phonetic": "どうぞくれつ",
+      "word": "同族列"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a569fc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "lined up in a row"
+        }
+      ],
+      "mobileId": 226182,
+      "phonetic": "ろれつ",
+      "word": "臚列"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97bece8",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Sắp xếp xen kẽ. Dạng như xếp gạch xây tường."
+        }
+      ],
+      "mobileId": 276687,
+      "phonetic": "しゃれつ",
+      "word": "斜列"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bd05993",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "string variable"
+        }
+      ],
+      "mobileId": 246482,
+      "phonetic": "れつへんすう",
+      "word": "列変数"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

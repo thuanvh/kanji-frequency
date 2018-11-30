@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3acaf1f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "geisha"
+        }
+      ],
+      "mobileId": 229902,
+      "phonetic": "ぎ",
+      "word": "妓"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9155e05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "favored geisha, beloved geisha, geisha somebody is showing favor to"
+        }
+      ],
+      "mobileId": 273454,
+      "phonetic": "あいぎ",
+      "related_words": {
+        "word": [
+          "愛"
+        ]
+      },
+      "word": "愛妓"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c140aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "geisha, woman who entertains (e.g. by playing the shamisen) for her living"
+        }
+      ],
+      "mobileId": 262455,
+      "phonetic": "げんぎ",
+      "word": "絃妓"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c8da13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "child geisha, geisha apprentice"
+        }
+      ],
+      "mobileId": 262712,
+      "phonetic": "すうぎ",
+      "word": "雛妓"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c03bc4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brothel"
+        }
+      ],
+      "mobileId": 262422,
+      "phonetic": "ぎいん",
+      "word": "妓院"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c13c5d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "woman who earns her living by entertaining with song, dance and playing the shamisen, geisha who sings at parties"
+        }
+      ],
+      "mobileId": 262454,
+      "phonetic": "かぎ",
+      "word": "歌妓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e671e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "most thrilling relationships for a man (another man's wife, a maidservant, a mistress, a prostitute, and finally his own wife)"
+        }
+      ],
+      "mobileId": 271947,
+      "phonetic": "いっとうにひさんしょうしぎごさい",
+      "word": "一盗二婢三妾四妓五妻"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

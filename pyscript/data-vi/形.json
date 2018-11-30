@@ -1,0 +1,250 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f7413601a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "渦巻き形",
+              "mean": "hình cuộn",
+              "transcription": "うずまきがた"
+            },
+            {
+              "content": "はっきりした形",
+              "mean": "hình dạng rõ ràng",
+              "transcription": "はっきりしたかたち"
+            },
+            {
+              "content": "いす形",
+              "mean": "hình chiếc ghế .",
+              "transcription": "いすがた"
+            }
+          ],
+          "kind": "n",
+          "mean": "hình dáng; kiểu"
+        }
+      ],
+      "mobileId": 97756,
+      "opposite_word": [
+        "影"
+      ],
+      "phonetic": "かたち",
+      "related_words": {
+        "word": [
+          "形式",
+          "人形",
+          "形状",
+          "形態",
+          "円形",
+          "変形",
+          "整形",
+          "四角形",
+          "無形固定資産",
+          "有形固定資産"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "形",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "象",
+                "体形",
+                "形態",
+                "外見",
+                "像",
+                "容体",
+                "格好",
+                "姿態",
+                "形状",
+                "外形",
+                "恰好",
+                "姿",
+                "体裁",
+                "形容",
+                "態",
+                "形象",
+                "容姿"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "格好",
+                "恰好",
+                "体裁",
+                "体",
+                "形式"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "型",
+                "形態",
+                "形状",
+                "外形",
+                "フォーム"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "形"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936cc45c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới mẫu (dạng); tới hình dạng; để làm; tới đất xốp; tới xây dựng lên trên"
+        }
+      ],
+      "mobileId": 21384,
+      "phonetic": "かたちつくる",
+      "word": "形造る"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936d356f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới mô hình trên (về); để làm trong hình dạng (của); đại diện; tới mẫu sau; tượng trưng cho; mô phỏng"
+        }
+      ],
+      "mobileId": 21402,
+      "phonetic": "かたちどる",
+      "word": "形どる"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19378c538",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thể giả định (ngữ pháp)"
+        }
+      ],
+      "mobileId": 21762,
+      "phonetic": "かていがた",
+      "related_words": {
+        "word": [
+          "仮",
+          "形",
+          "仮定"
+        ]
+      },
+      "word": "仮定形"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca055450a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "fish-shaped, fish-like, pisciform"
+        }
+      ],
+      "mobileId": 283697,
+      "phonetic": "ぎょけい",
+      "word": "魚形"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801321ddc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "馬蹄形断面",
+              "mean": "Mặt cắt hình móng ngựa.",
+              "transcription": "ばていがただんめん"
+            },
+            {
+              "content": "馬蹄形磁石",
+              "mean": "Nam châm hình móng ngựa .",
+              "transcription": "ばていがたじしゃく"
+            }
+          ],
+          "kind": "n",
+          "mean": "hình móng ngựa"
+        }
+      ],
+      "mobileId": 42607,
+      "phonetic": "ばていけい",
+      "word": "馬蹄形"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8890414",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "thanh gươm hình thành"
+        }
+      ],
+      "mobileId": 37875,
+      "phonetic": "けんがた",
+      "related_words": {
+        "word": [
+          "形",
+          "剣"
+        ]
+      },
+      "word": "剣形"
+    },
+    {
+      "_id": "432518852de0a80625d585a98261c4e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fine pattern"
+        }
+      ],
+      "mobileId": 234727,
+      "phonetic": "ささらがた",
+      "word": "細形"
+    },
+    {
+      "_id": "432518852de0a80625d585a98244876f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "perfect tense"
+        }
+      ],
+      "mobileId": 233799,
+      "phonetic": "かんりょうけい",
+      "word": "完了形"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95dd7566",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm cong hình dạng"
+        }
+      ],
+      "mobileId": 63186,
+      "phonetic": "そりがた",
+      "related_words": {
+        "word": [
+          "形",
+          "反",
+          "反り"
+        ]
+      },
+      "word": "反り形"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

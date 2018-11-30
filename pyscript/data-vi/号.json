@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adab27ee6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ヒカリ号の１，２号車は禁煙車です。",
+              "mean": "Toa tàu số 1, 2 của tàu Hikari là toa không hút thuốc.",
+              "transcription": "ヒカリごうのいち，にごうしゃはきんえんしゃです。"
+            },
+            {
+              "content": "博士号を取る",
+              "mean": "lấy bằng tiến sĩ",
+              "transcription": "はかせごうをとる"
+            },
+            {
+              "content": "雑誌｢科学｣の５月号",
+              "mean": "Số tháng 5 của tạp chí \"Khoa học\"",
+              "transcription": "ざっし「かがく」のごがつごう"
+            },
+            {
+              "content": "｢ハンバーガー・エイジ｣の創刊号",
+              "mean": "Số đầu tiên của báo \"Hamburger Age\" .",
+              "transcription": "「 ハンバーガー・エイジ 」のそうかんごう"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "thứ; số"
+        }
+      ],
+      "mobileId": 79779,
+      "phonetic": "ごう",
+      "related_words": {
+        "word": [
+          "郵便番号",
+          "電話番号",
+          "番号",
+          "暗号化",
+          "記号",
+          "信号",
+          "暗号",
+          "整理番号",
+          "符号",
+          "信号機"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "号",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "サイズ",
+                "号数"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "号"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04e9cca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Imperial surname, title borne by a prince of the blood as a head of a house"
+        }
+      ],
+      "mobileId": 283476,
+      "phonetic": "みやごう",
+      "word": "宮号"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada750e7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "học vị tiến sỹ"
+        }
+      ],
+      "mobileId": 78938,
+      "phonetic": "はかせごう",
+      "related_words": {
+        "word": [
+          "博士",
+          "博",
+          "号",
+          "士"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "博士号",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドクター"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "博士号"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada751c63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bằng tiến sĩ ."
+        }
+      ],
+      "mobileId": 78939,
+      "phonetic": "はくしごう",
+      "related_words": {
+        "word": [
+          "博士",
+          "博",
+          "号",
+          "士"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "博士号",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドクター"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "博士号"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e54ad75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(âm nhạc) khóa chữ ký"
+        }
+      ],
+      "mobileId": 113742,
+      "phonetic": "ちょうごう",
+      "word": "調号"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9f07e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đặc biệt được mở rộng (cái cản) phát hành"
+        }
+      ],
+      "mobileId": 116125,
+      "phonetic": "とくだいごう",
+      "word": "特大号"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d3b2aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "yell, roar, howl"
+        }
+      ],
+      "mobileId": 279535,
+      "phonetic": "ほうごう",
+      "word": "咆号"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e882e334",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số bị thiếu (tạp chí)"
+        }
+      ],
+      "mobileId": 37685,
+      "phonetic": "けつごう",
+      "word": "欠号"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca082a31a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "last issue (of a magazine, etc. which has suspended publication), final issue"
+        }
+      ],
+      "mobileId": 285114,
+      "phonetic": "きゅうかんごう",
+      "word": "休刊号"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953a241a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bộ phận toán học ký tên"
+        }
+      ],
+      "mobileId": 57927,
+      "phonetic": "じょごう",
+      "word": "除号"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

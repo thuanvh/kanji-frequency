@@ -1,0 +1,205 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aecf415",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "魔法の力のおかげで彼女はその巨大な竜を倒すことができた",
+              "mean": "Nhờ có sức mạnh ma thuật cô ta đã hạ gục con rồng khổng lồ.",
+              "transcription": "まほうのちからのおかげでかのじょはそのきょだいなりゅうをたおすことができた"
+            },
+            {
+              "content": "私たちが到着したとき、城の竜は隠れていた",
+              "mean": "Những con rồng trong lâu đài đã trốn mất khi chúng tôi tới nơi. .",
+              "transcription": "わたしたちがとうちゃくしたとき、しろのりゅうはかくれていた"
+            }
+          ],
+          "kind": "n",
+          "mean": "rồng"
+        }
+      ],
+      "mobileId": 174205,
+      "phonetic": "りゅう",
+      "related_words": {
+        "word": [
+          "竜巻",
+          "飛竜",
+          "画竜点睛",
+          "土竜",
+          "竜宮",
+          "竜骨",
+          "竜胆",
+          "竜虎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "竜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドラゴン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "竜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0802ca7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "iguanadon"
+        }
+      ],
+      "mobileId": 285041,
+      "phonetic": "きんりゅう",
+      "word": "禽竜"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ac828f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brontosaurus, apatosaurus (dinosaur)"
+        }
+      ],
+      "mobileId": 212387,
+      "phonetic": "らいりゅう",
+      "related_words": {
+        "word": [
+          "雷",
+          "竜"
+        ]
+      },
+      "word": "雷竜"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cee2d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "guardian dragon"
+        }
+      ],
+      "mobileId": 213519,
+      "phonetic": "しゅごりゅう",
+      "word": "守護竜"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc7c3c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xe của vua"
+        }
+      ],
+      "mobileId": 75186,
+      "phonetic": "りゅうしゃ",
+      "related_words": {
+        "word": [
+          "車",
+          "竜"
+        ]
+      },
+      "word": "竜車"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dac16e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "plesiosaur"
+        }
+      ],
+      "mobileId": 220655,
+      "phonetic": "くびながりゅう",
+      "word": "首長竜"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab5deb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "imperial carriage"
+        }
+      ],
+      "mobileId": 229216,
+      "phonetic": "りょうが りゅうが",
+      "word": "竜駕"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a555217",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blue dragon"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Azure Dragon (god said to rule over the eastern heavens)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "seven mansions (Chinese constellations) of the eastern heavens"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "large horse with a bluish-leaden coat"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "shape of an old pine tree"
+        }
+      ],
+      "mobileId": 226142,
+      "phonetic": "そうりょう そうりゅう",
+      "word": "蒼竜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08018a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drawn dragon, painted dragon"
+        }
+      ],
+      "mobileId": 285039,
+      "phonetic": "がりょう がりゅう",
+      "word": "画竜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca080352c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mizuchi, mythical dragon-like beast"
+        }
+      ],
+      "mobileId": 285043,
+      "phonetic": "きゅうりょう",
+      "word": "虬竜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

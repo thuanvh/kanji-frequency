@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a6de583",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜に畝を作る",
+              "mean": "Tạo luống cây cho ~",
+              "transcription": "〜にうねをつくる"
+            }
+          ],
+          "kind": "n",
+          "mean": "luống cây; luống"
+        },
+        {
+          "examples": [
+            {
+              "content": "畝織りのネクタイ",
+              "mean": "Cà vạt có sọc gân .",
+              "transcription": "うねおりのネクタイ"
+            }
+          ],
+          "kind": "n",
+          "mean": "sườn"
+        }
+      ],
+      "mobileId": 172122,
+      "phonetic": "うね",
+      "word": "畝"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a6de648",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, obs",
+          "mean": "100 mét vuông ."
+        }
+      ],
+      "mobileId": 172123,
+      "phonetic": "せ",
+      "word": "畝"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02b1d4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wave motion, undulation, winding, heaving sea, swell, roller"
+        }
+      ],
+      "mobileId": 200021,
+      "phonetic": "うねり",
+      "word": "畝ねり"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e21ed78",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thóc giải quyết; canh tác"
+        }
+      ],
+      "mobileId": 112114,
+      "phonetic": "たうね",
+      "word": "田畝"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc399dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "vải có kẻ sọc"
+        }
+      ],
+      "mobileId": 15985,
+      "phonetic": "うねおり",
+      "word": "畝織り"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc39a3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "xây dựng cho gạo - lĩnh vực những đỉnh"
+        }
+      ],
+      "mobileId": 15986,
+      "phonetic": "うねだて",
+      "related_words": {
+        "word": [
+          "畝"
+        ]
+      },
+      "word": "畝立て"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc3a42c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cày những đỉnh"
+        }
+      ],
+      "mobileId": 15987,
+      "phonetic": "うねみぞ",
+      "related_words": {
+        "word": [
+          "溝",
+          "畝"
+        ]
+      },
+      "word": "畝溝"
+    },
+    {
+      "_id": "432518852de0a80625d585a9827920b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ridged whale meat used to make whale \"bacon\""
+        }
+      ],
+      "mobileId": 235455,
+      "phonetic": "うねす",
+      "word": "畝須"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a565eeb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ridges of and paths between fields"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "countryside, civilian"
+        }
+      ],
+      "mobileId": 226176,
+      "phonetic": "ろうほ",
+      "word": "壟畝"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c002922d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "to wind (of a road, etc.), to meander, to twist"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to undulate, to surge, to swell, to roll, to billow"
+        }
+      ],
+      "mobileId": 189210,
+      "phonetic": "うねる",
+      "word": "畝る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

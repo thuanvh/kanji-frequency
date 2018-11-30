@@ -1,0 +1,225 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d464b39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-f",
+          "mean": "strong, hard, manly"
+        }
+      ],
+      "mobileId": 217333,
+      "opposite_word": [
+        "柔"
+      ],
+      "phonetic": "ごう",
+      "word": "剛"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8faee0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự dũng cảm và tính quyết định"
+        }
+      ],
+      "mobileId": 41548,
+      "phonetic": "つよしはて",
+      "word": "剛果"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada44b33f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự can đảm; sự cứng rắn; can đảm; cứng rắn ."
+        }
+      ],
+      "mobileId": 78115,
+      "phonetic": "ごうき",
+      "related_words": {
+        "word": [
+          "気"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "剛気",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "勇力",
+                "勇猛",
+                "胆力",
+                "剛勇",
+                "勇",
+                "勇気",
+                "度胸",
+                "根性",
+                "豪勇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "剛気"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdde11b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trở nên lạnh (tôi luyện)"
+        }
+      ],
+      "mobileId": 75859,
+      "phonetic": "ひやつよし",
+      "related_words": {
+        "word": [
+          "冷"
+        ]
+      },
+      "word": "冷剛"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada0ac718",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼は内剛外柔の人です.",
+              "mean": "Anh ấy là người nội nhu ngoại cương .",
+              "transcription": "かれはうちごうがいやわらのひとです."
+            }
+          ],
+          "kind": "n",
+          "mean": "nội nhu ngoại cương"
+        }
+      ],
+      "mobileId": 77061,
+      "phonetic": "ないごう",
+      "word": "内剛"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada44a90b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính bướng bỉnh ."
+        }
+      ],
+      "mobileId": 78114,
+      "phonetic": "ごうじょう",
+      "related_words": {
+        "word": [
+          "情"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "剛情",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "業突張り",
+                "強情",
+                "意地っ張り"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "剛情"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8073abf",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người kỳ cựu; nhà vô địch; người khoẻ mạnh cứng cáp"
+        }
+      ],
+      "mobileId": 33724,
+      "phonetic": "つよつよし",
+      "word": "強剛"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8fb5bd8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sức mạnh; sự vững chắc"
+        }
+      ],
+      "mobileId": 41565,
+      "phonetic": "つよしきょう",
+      "related_words": {
+        "word": [
+          "強"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "剛強",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "下渋り",
+                "恒心",
+                "不動",
+                "保ち合い"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "剛強"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8faced6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự can đảm và sự hèn nhát"
+        }
+      ],
+      "mobileId": 41543,
+      "phonetic": "つよしおく",
+      "related_words": {
+        "word": [
+          "臆"
+        ]
+      },
+      "word": "剛臆"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d463f04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "strong fast ball"
+        }
+      ],
+      "mobileId": 217332,
+      "phonetic": "ごうそっきゅう",
+      "word": "剛速球"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af46d66",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜に対するご質問・ご意見等がありましたら是非お聞かせ下さい",
+              "mean": "Hãy liên hệ ngay với chúng tôi nếu như bạn có những câu hỏi hay bình luận gì mà bạn quan tâm",
+              "transcription": "〜にたいするごしつもん・ごいけんとうがありましたらぜひおきかせください"
+            },
+            {
+              "content": "高齢者では心機能等が低下していることが多く、過度の血圧低下や徐脈等が起こりやすい",
+              "mean": "Những bệnh nhân nhiều tuổi dường như bị loạn nhịp tim, và bị dẫn tới bệnh cao huyết áp và các bệnh về tim mạch khác .",
+              "transcription": "こうれいしゃではこころきのうとうがていかしていることがおおく、かどのけつあつていかやじょみゃくとうがおこりやすい"
+            }
+          ],
+          "kind": "prt",
+          "mean": "Vân vân"
+        }
+      ],
+      "mobileId": 174332,
+      "phonetic": "など",
+      "related_words": {
+        "word": [
+          "高等学校",
+          "等々",
+          "平等",
+          "等しい",
+          "等級",
+          "同等",
+          "等身大",
+          "等等",
+          "上等",
+          "一等兵"
+        ]
+      },
+      "word": "等"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af5837d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Vân vân ."
+        }
+      ],
+      "mobileId": 174351,
+      "phonetic": "などなど",
+      "related_words": {
+        "word": [
+          "等"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "等等",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "等々"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "等等"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0aae53a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn",
+          "mean": "ye, you"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "me, I, us, we"
+        }
+      ],
+      "mobileId": 286414,
+      "phonetic": "うぬら わいら なむだち なむたち",
+      "word": "汝等"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca091f0f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "last place (game, race, lottery, etc.)"
+        }
+      ],
+      "mobileId": 285613,
+      "phonetic": "まっとう",
+      "word": "末等"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1076ac58f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Trẻ con; con ."
+        }
+      ],
+      "mobileId": 53679,
+      "phonetic": "こら",
+      "related_words": {
+        "word": [
+          "子",
+          "等"
+        ]
+      },
+      "word": "子等"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0228beb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "first-class, first-rank, A1, the most, the best"
+        }
+      ],
+      "mobileId": 207951,
+      "phonetic": "いっとう",
+      "word": "１等"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be064237",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chúng tôi, chúng ta"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chúng tôi, chúng ta, chúng mình"
+        }
+      ],
+      "mobileId": 89510,
+      "phonetic": "われとう",
+      "word": "吾等"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf34cac",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chúng tôi, chúng ta"
+        }
+      ],
+      "mobileId": 17476,
+      "phonetic": "おれとう",
+      "word": "俺等"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935393c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồ gia dụng và các đồ tương tự"
+        }
+      ],
+      "mobileId": 20571,
+      "phonetic": "かぐとう",
+      "word": "家具等"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8be2594",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "sự giáng cấp, sự giáng chức, sự hạ tầng công tác; sự bị giáng cấp, sự bị giáng chức, sự bị hạ tầng công tác, sự cho xuống lớp; sự bị cho xuống lớp"
+        }
+      ],
+      "mobileId": 39583,
+      "phonetic": "くだとう",
+      "word": "降等"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

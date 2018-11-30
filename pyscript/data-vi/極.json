@@ -1,0 +1,289 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f6cc96a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "レイは新しい車にとても(極) 満足している",
+              "mean": "Rey rất (vô cùng, cực, cực kỳ) thỏa mãn với chiếc xe ô tô mới.",
+              "transcription": "レイはあたらしいくるまにとても(きょく)まんぞくしている"
+            },
+            {
+              "content": "私はその映画を極好きだった",
+              "mean": "Tôi rất (vô cùng, cực, cực kỳ) thích bộ phim đó",
+              "transcription": "わたしはそのえいがをごくすきだった"
+            }
+          ],
+          "kind": "adv",
+          "mean": "rất; vô cùng; cực; cực kỳ"
+        },
+        {
+          "examples": [
+            {
+              "content": "苦痛と悲惨の極",
+              "mean": "Trạng thái ở mức độ cao (mức độ quá) của sự bi thảm và đau khổ.",
+              "transcription": "くつうとひさんのきょく"
+            },
+            {
+              "content": "興奮の極",
+              "mean": "Trạng thái ở mức độ cao (mức độ quá) của sự hưng phấn",
+              "transcription": "こうふんのきょく"
+            }
+          ],
+          "kind": "adv",
+          "mean": "trạng thái ở mức độ cao; mức độ quá"
+        }
+      ],
+      "mobileId": 186760,
+      "phonetic": "ごく",
+      "related_words": {
+        "word": [
+          "積極的",
+          "究極",
+          "積極的に",
+          "電極",
+          "究極の",
+          "南極",
+          "極秘",
+          "極上",
+          "北極",
+          "北極星"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "極",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "極めて",
+                "頗る",
+                "殊の外",
+                "非常に",
+                "思い切り",
+                "良く",
+                "最も",
+                "とても",
+                "重々に",
+                "能く",
+                "めきめき",
+                "随分",
+                "よく",
+                "至って",
+                "中中",
+                "めっきり",
+                "誠に",
+                "至極",
+                "大変",
+                "大層",
+                "きわめて",
+                "善く",
+                "中々",
+                "余程",
+                "重重に",
+                "かなり",
+                "ひどく",
+                "甚く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "最も"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "極めて",
+                "頗る",
+                "非常に",
+                "最も",
+                "とても",
+                "一方ならず",
+                "至極",
+                "大変",
+                "甚だ",
+                "大層",
+                "きわめて",
+                "ひどく",
+                "甚く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "極めて",
+                "頗る",
+                "根っから",
+                "いっそ",
+                "非常に",
+                "思い切り",
+                "正しく",
+                "実は",
+                "最も",
+                "とても",
+                "真に",
+                "随分",
+                "大して",
+                "とっても",
+                "めっきり",
+                "そう",
+                "たっぷり",
+                "誠に",
+                "余り",
+                "現に",
+                "その実",
+                "実際に",
+                "至極",
+                "いかにも",
+                "真",
+                "大変",
+                "甚だ",
+                "大層",
+                "きわめて",
+                "余程",
+                "余っ程"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "極"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8168f8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhiệt độ rất thấp"
+        }
+      ],
+      "mobileId": 34218,
+      "phonetic": "ごくていおん",
+      "word": "極低温"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e817705a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dòng biển bắc [nam] cực"
+        }
+      ],
+      "mobileId": 34246,
+      "phonetic": "きょくりゅう",
+      "word": "極流"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193d7e134",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khủng hoảng; cơn khủng hoảng, ; sự lên cơn"
+        }
+      ],
+      "mobileId": 24744,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "極"
+        ]
+      },
+      "word": "危極"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a3b9f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "absolute secrecy"
+        }
+      ],
+      "mobileId": 286179,
+      "phonetic": "ごくみつ",
+      "word": "極密"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d5ba30a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lưỡng cực ."
+        }
+      ],
+      "mobileId": 143019,
+      "phonetic": "にきょく",
+      "word": "二極"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d028dfc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chính nhỏ"
+        }
+      ],
+      "mobileId": 145831,
+      "phonetic": "ごくちいさい",
+      "word": "極小さい"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d02cb0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bí mật cao, chụp lên bí mật"
+        }
+      ],
+      "mobileId": 145838,
+      "phonetic": "きょくない",
+      "word": "極内"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4a1d9e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "monopole, singular pole, unipole"
+        }
+      ],
+      "mobileId": 250414,
+      "phonetic": "いっきょく",
+      "word": "一極"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f6dd84c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "北の磁極域",
+              "mean": "vùng cực có từ tính ở phía bắc .",
+              "transcription": "きたのじきょくいき"
+            }
+          ],
+          "kind": "n",
+          "mean": "vùng cực"
+        }
+      ],
+      "mobileId": 186767,
+      "phonetic": "きょく ち",
+      "word": "極域"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

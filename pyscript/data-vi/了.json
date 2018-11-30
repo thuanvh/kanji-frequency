@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d514463",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự kết thúc; sự hoàn thành; sự hiểu ."
+        }
+      ],
+      "mobileId": 142825,
+      "phonetic": "りょう",
+      "related_words": {
+        "word": [
+          "了解",
+          "完了",
+          "終了",
+          "正常終了",
+          "了承",
+          "完了した",
+          "魅了",
+          "修了",
+          "魅了する",
+          "修了証書"
+        ]
+      },
+      "word": "了"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e884262d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hoàn thành, sự làm xong, sự làm cho hoàn toàn, sự làm cho đầy đủ"
+        }
+      ],
+      "mobileId": 37719,
+      "phonetic": "ゆいりょう",
+      "word": "結了"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0b5e8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hiểu rõ, sự nhận thấy rõ, sự nhận thức rõ, sự nhận biết rõ"
+        }
+      ],
+      "mobileId": 146114,
+      "phonetic": "さとるりょう",
+      "word": "悟了"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e18ee38",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "OK with corrections"
+        }
+      ],
+      "mobileId": 248816,
+      "phonetic": "せきりょう",
+      "word": "責了"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdcaf0b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hiểu biết"
+        }
+      ],
+      "mobileId": 75276,
+      "phonetic": "りょうさとし",
+      "related_words": {
+        "word": [
+          "了"
+        ]
+      },
+      "word": "了覚"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdcf4eba",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự ghi nhận; sự hiểu"
+        }
+      ],
+      "mobileId": 75409,
+      "phonetic": "りょうと",
+      "related_words": {
+        "word": [
+          "と",
+          "了"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "了と",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "認定",
+                "御了承",
+                "認識",
+                "認知",
+                "告白",
+                "謝辞",
+                "承認"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "了と"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90b922d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "winning"
+        }
+      ],
+      "mobileId": 273138,
+      "phonetic": "ホーラ",
+      "word": "和了"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dec593",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "vulgarization, refined thing becoming vulgar"
+        }
+      ],
+      "mobileId": 263389,
+      "phonetic": "ぞくりょう",
+      "word": "俗了"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dda3d54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chấm dứt vị trí trò chơi"
+        }
+      ],
+      "mobileId": 152690,
+      "phonetic": "ゆびりょうず",
+      "word": "指了図"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

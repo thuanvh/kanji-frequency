@@ -1,0 +1,446 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f742d91b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bụng dạ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hồn vía"
+        },
+        {
+          "examples": [
+            {
+              "content": "（人）が栄誉を得るに至った忠誠心",
+              "mean": "lòng trung thành mang lại cho ta danh vọng.",
+              "transcription": "（ひと）がえいよをえるにいたったちゅうせいしん"
+            },
+            {
+              "content": "最も大きな財産は、わずかなもので満足できる心。",
+              "mean": "Tài sản lớn nhất đó là một tấm lòng thỏa mãn với những điều dù là nhỏ bé.",
+              "transcription": "もっともおおきなざいさんは、わずかなものでまんぞくできるこころ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "trái tim; tim; tấm lòng; đáy lòng; tâm hồn"
+        }
+      ],
+      "mobileId": 98139,
+      "opposite_word": [
+        "身"
+      ],
+      "phonetic": "こころ",
+      "related_words": {
+        "word": [
+          "安心",
+          "心配",
+          "中心",
+          "心臓",
+          "初心者",
+          "心理学",
+          "心から",
+          "関心",
+          "好奇心",
+          "無関心"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "心",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "腹",
+                "五臓六腑",
+                "肝",
+                "内懐",
+                "魂",
+                "ハート",
+                "内心",
+                "心髄",
+                "胸三寸",
+                "胸",
+                "懐"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ソウル",
+                "魂",
+                "心霊",
+                "霊",
+                "魂魄",
+                "霊魂",
+                "精神"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "肝",
+                "魂",
+                "マインド",
+                "神",
+                "心霊",
+                "胆玉",
+                "スピリット",
+                "霊",
+                "精神"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "含意",
+                "考え",
+                "気",
+                "旨",
+                "意",
+                "趣意",
+                "意味",
+                "意図",
+                "趣旨",
+                "主旨",
+                "作意",
+                "意思",
+                "魂胆"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コア",
+                "核心",
+                "仲核",
+                "中心",
+                "核",
+                "真ん中",
+                "芯",
+                "真中"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "心臓",
+                "ハツ",
+                "ハート"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "知力",
+                "知性",
+                "頭脳",
+                "ブレーン",
+                "頭",
+                "精神"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "心"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f742d9731",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cốt lõi; tâm ."
+        }
+      ],
+      "mobileId": 98140,
+      "opposite_word": [
+        "身"
+      ],
+      "phonetic": "しん",
+      "related_words": {
+        "word": [
+          "安心",
+          "心配",
+          "中心",
+          "心臓",
+          "初心者",
+          "心理学",
+          "心から",
+          "関心",
+          "好奇心",
+          "無関心"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "心",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "腹",
+                "五臓六腑",
+                "肝",
+                "内懐",
+                "魂",
+                "ハート",
+                "内心",
+                "心髄",
+                "胸三寸",
+                "胸",
+                "懐"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ソウル",
+                "魂",
+                "心霊",
+                "霊",
+                "魂魄",
+                "霊魂",
+                "精神"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "肝",
+                "魂",
+                "マインド",
+                "神",
+                "心霊",
+                "胆玉",
+                "スピリット",
+                "霊",
+                "精神"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "含意",
+                "考え",
+                "気",
+                "旨",
+                "意",
+                "趣意",
+                "意味",
+                "意図",
+                "趣旨",
+                "主旨",
+                "作意",
+                "意思",
+                "魂胆"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コア",
+                "核心",
+                "仲核",
+                "中心",
+                "核",
+                "真ん中",
+                "芯",
+                "真中"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "心臓",
+                "ハツ",
+                "ハート"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "知力",
+                "知性",
+                "頭脳",
+                "ブレーン",
+                "頭",
+                "精神"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "心"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8da28e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảm thấy ấm lòng, cảm thấy ấm áp"
+        }
+      ],
+      "mobileId": 40504,
+      "phonetic": "こころあたたまる",
+      "word": "心暖まる"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8e74583",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tinh thần hy sinh quên mình"
+        }
+      ],
+      "mobileId": 40916,
+      "phonetic": "こっきしん",
+      "related_words": {
+        "word": [
+          "心",
+          "己",
+          "克己"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "克己心",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "意力",
+                "意志",
+                "意思"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "克己心"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8899ca6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tinh thần (của) sự nghiên cứu (sự điều tra);(có) một tâm trí tìm tòi"
+        }
+      ],
+      "mobileId": 37897,
+      "phonetic": "けんきゅうしん",
+      "word": "研究心"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6f043d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trái với đạo lý"
+        }
+      ],
+      "mobileId": 13330,
+      "phonetic": "いしん",
+      "word": "違心"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68872f9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính điềm tĩnh, tính bình tĩnh; tính không hề bối rối, tính không hề nao núng"
+        }
+      ],
+      "mobileId": 4302,
+      "phonetic": "ふどうしん",
+      "related_words": {
+        "word": [
+          "心",
+          "動",
+          "不動"
+        ]
+      },
+      "word": "不動心"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9937f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người mới bước vào nghề, người mới nhập đạo"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người tập việc; người mới học, người chưa có kinh nghiệm, tín đồ mới, người mới tu"
+        }
+      ],
+      "mobileId": 14651,
+      "phonetic": "いまみちこころ",
+      "related_words": {
+        "word": [
+          "今",
+          "道",
+          "心"
+        ]
+      },
+      "word": "今道心"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22111553",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "探求心をあげる人はたくさんいます。",
+              "mean": "Người thích tìm tòi thì có rất nhiều",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Tính tìm tòi, học hỏi"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "たんきゅうしん",
+      "word": "探求心"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193d8fa7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tinh thần tập thể, tinh thần của toàn thể nhà máy"
+        }
+      ],
+      "mobileId": 24775,
+      "phonetic": "きぎょうしん",
+      "related_words": {
+        "word": [
+          "心",
+          "企業",
+          "業"
+        ]
+      },
+      "word": "企業心"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

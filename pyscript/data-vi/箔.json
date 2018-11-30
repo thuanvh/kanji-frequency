@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09b30af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "foil, (gold, etc.) leaf"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "prestige"
+        }
+      ],
+      "mobileId": 211834,
+      "phonetic": "はく",
+      "word": "箔"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96cbe0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "impressed (glued) gold or silver foil on traditional Japanese fabric"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "type of noh costume"
+        }
+      ],
+      "mobileId": 259773,
+      "phonetic": "すりはく",
+      "word": "摺箔"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebe5446",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tương phản đồng (được sử dụng trong sự bọc sắt đồng)"
+        }
+      ],
+      "mobileId": 117123,
+      "phonetic": "どうはく",
+      "related_words": {
+        "word": [
+          "銅"
+        ]
+      },
+      "word": "銅箔"
+    },
+    {
+      "_id": "ac12816c3281c52ce90ba353b6c473d9",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "lá nhôm"
+        }
+      ],
+      "mobileId": 133554,
+      "phonetic": "アルミはく",
+      "word": "アルミ箔"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee93276",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghề thêu và sự tương phản hoặc mạ vàng"
+        }
+      ],
+      "mobileId": 118462,
+      "phonetic": "ぬいはく",
+      "word": "縫い箔"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680857a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đóng bánh bột"
+        }
+      ],
+      "mobileId": 267,
+      "phonetic": "はくりょくこ",
+      "related_words": {
+        "word": [
+          "力",
+          "粉"
+        ]
+      },
+      "word": "箔力粉"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09b2bf7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "to increase in value, to gain prestige"
+        }
+      ],
+      "mobileId": 211833,
+      "phonetic": "はくがつく",
+      "word": "箔が付く"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7723c0eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "to give something weight, to give something dignity"
+        }
+      ],
+      "mobileId": 265622,
+      "phonetic": "はくをつける",
+      "word": "箔を付ける"
+    },
+    {
+      "_id": "ac12816c3281c52ce90ba353b6c3cc92",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "アルミ箔を敷いた",
+              "mean": "lát bằng nhôm .",
+              "transcription": "アルミはくをしいた"
+            },
+            {
+              "content": "アルミ箔を敷いた",
+              "mean": "lát bằng nhôm .",
+              "transcription": "アルミはくをしいた"
+            }
+          ],
+          "kind": "n",
+          "mean": "lá nhôm"
+        }
+      ],
+      "mobileId": 133542,
+      "phonetic": "アルミ箔",
+      "word": "アルミはく"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

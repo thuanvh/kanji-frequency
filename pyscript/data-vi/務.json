@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a87d87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhiệm vụ quan trọng nhất"
+        }
+      ],
+      "mobileId": 61468,
+      "phonetic": "さきつとむ",
+      "related_words": {
+        "word": [
+          "先"
+        ]
+      },
+      "word": "先務"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c6b4e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhiệm vụ giáo dục; quan hệ giáo dục"
+        }
+      ],
+      "mobileId": 39860,
+      "phonetic": "こうつとむ",
+      "word": "校務"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d137203",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "litigation"
+        }
+      ],
+      "mobileId": 215728,
+      "phonetic": "しょうむ",
+      "word": "訟務"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c6d3b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghiệp vụ ngân hàng; sự làm việc văn phòng, sự tiến hành công việc"
+        }
+      ],
+      "mobileId": 39862,
+      "phonetic": "くだりつとむ",
+      "word": "行務"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bee66d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prison"
+        }
+      ],
+      "mobileId": 247444,
+      "phonetic": "むしょ ムショ",
+      "word": "務所"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93fa7f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "worldly affairs, public affairs"
+        }
+      ],
+      "mobileId": 258327,
+      "phonetic": "せいむ せむ",
+      "word": "世務"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774212e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "family affairs, family business"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "steward in charge of the affairs of a samurai family (middle ages)"
+        }
+      ],
+      "mobileId": 266592,
+      "phonetic": "かむ",
+      "word": "家務"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aef5e58",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "forestry"
+        }
+      ],
+      "mobileId": 231090,
+      "phonetic": "りんむ",
+      "word": "林務"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03dda6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "unilaterality (e.g. of a contract), one-sidedness (e.g. of a treaty)"
+        }
+      ],
+      "mobileId": 282951,
+      "opposite_word": [
+        "双務"
+      ],
+      "phonetic": "へんむ",
+      "word": "片務"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a88a0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dịch vụ"
+        }
+      ],
+      "mobileId": 61469,
+      "phonetic": "せんつとむ",
+      "related_words": {
+        "word": [
+          "戦"
+        ]
+      },
+      "word": "戦務"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

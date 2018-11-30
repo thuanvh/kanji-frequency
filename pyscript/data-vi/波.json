@@ -1,0 +1,242 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fc1f9f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "làn sóng"
+        },
+        {
+          "examples": [
+            {
+              "content": "老いの波",
+              "mean": "vết nhăn của người già",
+              "transcription": "おいのなみ"
+            }
+          ],
+          "kind": "n",
+          "mean": "nhăn (da)"
+        },
+        {
+          "examples": [
+            {
+              "content": "波が高い",
+              "mean": "sóng to",
+              "transcription": "なみがたかい"
+            }
+          ],
+          "kind": "n",
+          "mean": "sóng"
+        },
+        {
+          "examples": [
+            {
+              "content": "音の波",
+              "mean": "sóng âm thanh",
+              "transcription": "おとのなみ"
+            }
+          ],
+          "kind": "n",
+          "mean": "sóng (điện)"
+        },
+        {
+          "examples": [
+            {
+              "content": "時代の波",
+              "mean": "trào lưu thời đại",
+              "transcription": "じだいのなみ"
+            }
+          ],
+          "kind": "n",
+          "mean": "trào lưu"
+        }
+      ],
+      "mobileId": 188104,
+      "phonetic": "なみ",
+      "related_words": {
+        "word": [
+          "周波数",
+          "電波",
+          "波形",
+          "津波",
+          "波動",
+          "波紋",
+          "波長",
+          "正弦波",
+          "高周波",
+          "低周波"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "波",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "波動"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "浦波"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "波"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aedd2de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese bird cherry (Prunus grayana)"
+        }
+      ],
+      "mobileId": 231043,
+      "phonetic": "ははか",
+      "word": "波波迦"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a567c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhiều cơn sóng ùa tới"
+        }
+      ],
+      "mobileId": 61367,
+      "phonetic": "せんぱばんぱ",
+      "related_words": {
+        "word": [
+          "万",
+          "千",
+          "波"
+        ]
+      },
+      "word": "千波万波"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68149d95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sóng to, sóng cao"
+        }
+      ],
+      "mobileId": 669,
+      "phonetic": "は とう",
+      "word": "波濤"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3f663b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sóng áp suất, sóng sinh ra do sự giãn nở của khối lưu chất"
+        }
+      ],
+      "mobileId": 11819,
+      "phonetic": "あつりょくは",
+      "word": "圧力波"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fe8ded",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trường học cũ (già); kiểu cũ (già); những người bảo thủ"
+        }
+      ],
+      "mobileId": 25989,
+      "phonetic": "きゅうなみ",
+      "related_words": {
+        "word": [
+          "波"
+        ]
+      },
+      "word": "旧波"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0376bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "P-wave (e.g. of earthquake), primary wave"
+        }
+      ],
+      "mobileId": 223514,
+      "phonetic": "ピーは",
+      "word": "Ｐ波"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca006e3ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "breaker, breaking wave, broken sea"
+        }
+      ],
+      "mobileId": 281171,
+      "phonetic": "くだけなみ",
+      "word": "砕け波"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed956a0454",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sóng hình sin"
+        }
+      ],
+      "mobileId": 59477,
+      "phonetic": "せいげんは",
+      "related_words": {
+        "word": [
+          "正",
+          "波",
+          "弦"
+        ]
+      },
+      "word": "正弦波"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0e3053",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sóng dọc"
+        }
+      ],
+      "mobileId": 111482,
+      "opposite_word": [
+        "横波"
+      ],
+      "phonetic": "たては",
+      "related_words": {
+        "word": [
+          "縦",
+          "波"
+        ]
+      },
+      "word": "縦波"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5c8d68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "genus"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "generic"
+        }
+      ],
+      "mobileId": 226367,
+      "phonetic": "ぞく",
+      "word": "属"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689a61b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gán cho những mục(khu vực); bộ phận"
+        }
+      ],
+      "mobileId": 4901,
+      "phonetic": "ぶぞく",
+      "word": "部属"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e5ae5d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khác nhau chung"
+        }
+      ],
+      "mobileId": 63441,
+      "phonetic": "ぞくさ",
+      "word": "属差"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9412b4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Homo, genus of humans"
+        }
+      ],
+      "mobileId": 274842,
+      "phonetic": "ヒトぞく",
+      "word": "ヒト属"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef957c307",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pinus, genus of pine trees"
+        }
+      ],
+      "mobileId": 275540,
+      "phonetic": "マツぞく",
+      "word": "マツ属"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e79c44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(sinh vật học) tên giống"
+        }
+      ],
+      "mobileId": 63500,
+      "phonetic": "ぞくめい",
+      "related_words": {
+        "word": [
+          "名"
+        ]
+      },
+      "word": "属名"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a995e045",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "provincia, province of ancient Rome"
+        }
+      ],
+      "mobileId": 261070,
+      "phonetic": "ぞくしゅう",
+      "word": "属州"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a3c096",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ribes (genus of flowering plants, including the edible currants)"
+        }
+      ],
+      "mobileId": 261511,
+      "phonetic": "スグリぞく",
+      "word": "スグリ属"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a7eaf2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Panthera (genus of the cat family Felidae containing tigers, lions, jaguars, and leopards)"
+        }
+      ],
+      "mobileId": 261643,
+      "phonetic": "ヒョウぞく",
+      "word": "ヒョウ属"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e7d2c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một người cấp dưới (quan chức)"
+        }
+      ],
+      "mobileId": 63506,
+      "phonetic": "",
+      "word": "属吏"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7126009",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "長田氏が一代で財を成した。",
+              "mean": "Ông Osada đã tích cóp được một tài sản lớn trong cả cuộc đời. .",
+              "transcription": "ながたしがいちだいでざいをなした。"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "tài sản"
+        }
+      ],
+      "mobileId": 106987,
+      "phonetic": "ざい",
+      "related_words": {
+        "word": [
+          "財布",
+          "財団法人",
+          "財務",
+          "財産",
+          "財政",
+          "財閥",
+          "財団",
+          "文化財",
+          "財源",
+          "財宝"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "財",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "資産",
+                "財貨",
+                "富",
+                "フォーチュン",
+                "財産"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "家蔵",
+                "財産"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "珍重",
+                "宝物",
+                "財宝",
+                "什宝",
+                "秘蔵",
+                "富",
+                "重宝",
+                "重器",
+                "貴重品",
+                "宝",
+                "什物",
+                "秘宝"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "財"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a281867",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "private goods"
+        }
+      ],
+      "mobileId": 224707,
+      "phonetic": "してきざい",
+      "word": "私的財"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2ac068",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "superior goods"
+        }
+      ],
+      "mobileId": 224800,
+      "phonetic": "じょうきゅうざい",
+      "word": "上級財"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2e434d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "free goods"
+        }
+      ],
+      "mobileId": 224902,
+      "phonetic": "じゆうざい",
+      "word": "自由財"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed956c6503",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người sản xuất có hàng hóa"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anti-acid preparation"
+        }
+      ],
+      "mobileId": 59544,
+      "opposite_word": [
+        "消費財"
+      ],
+      "phonetic": "せいさんざい",
+      "word": "生産財"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a280b08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "collective goods (i.e. goods or services such as parks, highways, etc. which could be supplied privately, but are usually provided by the government)"
+        }
+      ],
+      "mobileId": 224706,
+      "phonetic": "しゅうごうざい",
+      "word": "集合財"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2abeae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inferior goods (i.e. goods for which demand decreases when consumer's income increases)"
+        }
+      ],
+      "mobileId": 224799,
+      "phonetic": "かきゅうざい",
+      "word": "下級財"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2f3950",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "intermediate goods"
+        }
+      ],
+      "mobileId": 224929,
+      "phonetic": "ちゅうかんざい",
+      "word": "中間財"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3fc63b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuộc tính người trí thức; ip"
+        }
+      ],
+      "mobileId": 113067,
+      "phonetic": "ちざい",
+      "word": "知財"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ae3c8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tài sản công"
+        }
+      ],
+      "mobileId": 39062,
+      "phonetic": "こうきょうざい",
+      "word": "公共財"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

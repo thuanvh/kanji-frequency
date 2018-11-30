@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef93fcd6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "charm, talisman, amulet"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tally"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sign, mark, note"
+        }
+      ],
+      "mobileId": 274802,
+      "phonetic": "ふ",
+      "word": "符"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b0dda9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dấu cảm, dấu chấm than"
+        }
+      ],
+      "mobileId": 23523,
+      "phonetic": "かんたんふ",
+      "word": "感歎符"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd4c10c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nuông chiều"
+        }
+      ],
+      "mobileId": 71196,
+      "phonetic": "めんざいふ",
+      "related_words": {
+        "word": [
+          "罪",
+          "免"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "免罪符",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "寛大"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "免罪符"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74028fd8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngoặc kép ."
+        }
+      ],
+      "mobileId": 97553,
+      "phonetic": "いんようふ",
+      "related_words": {
+        "word": [
+          "用",
+          "引用"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "引用符",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "クォーテーションマーク"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "引用符"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74694659",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dấu chấm than ."
+        }
+      ],
+      "mobileId": 98978,
+      "phonetic": "かんたんふ",
+      "related_words": {
+        "word": [
+          "感嘆"
+        ]
+      },
+      "word": "感嘆符"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9453474",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tone mark, mark placed in one of the four corners of a hanzi to show the tone in Chinese"
+        }
+      ],
+      "mobileId": 274965,
+      "phonetic": "しょうふ",
+      "word": "声符"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0bff1e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "part of a kanji for which the role is primarily to represent the meaning (as opposed to the pronunciation)"
+        }
+      ],
+      "mobileId": 248373,
+      "phonetic": "いふ",
+      "word": "意符"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7749799c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "reselling train tickets on the black market"
+        }
+      ],
+      "mobileId": 266826,
+      "phonetic": "ぷうばい",
+      "word": "符売"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8004f36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dấu lặng (trong âm nhạc)"
+        }
+      ],
+      "mobileId": 33485,
+      "phonetic": "きゅうふ",
+      "related_words": {
+        "word": [
+          "休"
+        ]
+      },
+      "word": "休符"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bbe4256",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "separator"
+        }
+      ],
+      "mobileId": 245912,
+      "phonetic": "ぶんりふ",
+      "word": "分離符"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

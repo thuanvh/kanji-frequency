@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107086c0b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "サンフランシスコの町は坂が多い。",
+              "mean": "San Francisco có nhiều dốc.",
+              "transcription": "サンフランシスコのまちはさかがおおい。"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái dốc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dốc ."
+        }
+      ],
+      "mobileId": 52035,
+      "phonetic": "さか",
+      "related_words": {
+        "word": [
+          "坂道",
+          "上り坂",
+          "下り坂"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "坂",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "スロープ",
+                "勾配",
+                "斜面",
+                "傾斜面",
+                "傾斜"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "勾配",
+                "斜面"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "坂"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3ea82625",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Quá giang"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "だんごうざか",
+      "word": "談合坂"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d20d26c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường dốc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngày càng tăng lên; đi lên ."
+        }
+      ],
+      "mobileId": 141870,
+      "opposite_word": [
+        "下り坂"
+      ],
+      "phonetic": "のぼりざか",
+      "related_words": {
+        "word": [
+          "上",
+          "坂",
+          "上り"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "上り坂",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "上り"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "上り坂"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77cd0097",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gentle slope"
+        }
+      ],
+      "mobileId": 271093,
+      "phonetic": "だらだらざか",
+      "word": "だらだら坂"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107087e47",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đổ dốc ."
+        }
+      ],
+      "mobileId": 52038,
+      "phonetic": "さかをさげる",
+      "word": "坂を下げる"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107087dbb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xuống dốc ."
+        }
+      ],
+      "mobileId": 52037,
+      "phonetic": "さかをさがる",
+      "word": "坂を下がる"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d1e413d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "để đi xuống dốc; để đi xuống một dốc"
+        }
+      ],
+      "mobileId": 146698,
+      "phonetic": "さかをおりる",
+      "word": "坂を下りる"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f744099a7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "急な坂を走り下る",
+              "mean": "Chạy xuống con dốc nguy hiểm",
+              "transcription": "きゅうなさかをはしりくだる"
+            },
+            {
+              "content": "急な坂道を登る",
+              "mean": "Leo lên con dốc hiểm trở",
+              "transcription": "きゅうなさかみちをのぼる"
+            },
+            {
+              "content": "その車は急な坂道を上るだけの馬力がなかった",
+              "mean": "Chiếc xe ô tô đó không đủ mã lực để leo lên dốc cao .",
+              "transcription": "そのくるまはきゅうなさかみちをのぼるだけのばりきがなかった"
+            }
+          ],
+          "kind": "exp",
+          "mean": "con dốc hiểm trở; con dốc nguy hiểm; dốc hiểm trở; dốc nguy hiểm; dốc cao"
+        }
+      ],
+      "mobileId": 98417,
+      "phonetic": "きゅうなさか",
+      "related_words": {
+        "word": [
+          "坂",
+          "急",
+          "急な"
+        ]
+      },
+      "word": "急な坂"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107087487",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lên dốc ."
+        }
+      ],
+      "mobileId": 52036,
+      "phonetic": "さかをあげる",
+      "word": "坂を上げる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

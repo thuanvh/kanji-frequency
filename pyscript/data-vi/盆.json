@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a9142e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mâm; khay ."
+        }
+      ],
+      "mobileId": 172703,
+      "phonetic": "ぼん",
+      "related_words": {
+        "word": [
+          "お盆",
+          "盆踊り",
+          "覆水盆に返らず",
+          "盆栽",
+          "盆地"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "盆",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "お盆",
+                "トレー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一錠"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "盆"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935fb342",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái khay đựng bánh kẹo"
+        }
+      ],
+      "mobileId": 20957,
+      "phonetic": "かしぼん",
+      "word": "菓子盆"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f13672",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liên hoan bon"
+        }
+      ],
+      "mobileId": 7688,
+      "phonetic": "ぼんまつり",
+      "related_words": {
+        "word": [
+          "祭り",
+          "祭",
+          "盆"
+        ]
+      },
+      "word": "盆祭り"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7779cb4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "electrophorus"
+        }
+      ],
+      "mobileId": 268393,
+      "phonetic": "でんきぼん",
+      "word": "電気盆"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193398f9f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chậu"
+        }
+      ],
+      "mobileId": 19762,
+      "phonetic": "うみぼん",
+      "word": "海盆"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e123875",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái khay thuốc lá"
+        }
+      ],
+      "mobileId": 111613,
+      "phonetic": "たばこぼん",
+      "word": "煙草盆"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19314e021",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "liên hoan đèn lồng"
+        }
+      ],
+      "mobileId": 18591,
+      "phonetic": "ごぼん",
+      "related_words": {
+        "word": [
+          "盆"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "お盆",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "盆",
+                "トレー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "御盆"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd081ad0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái khay tròn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reciter's book"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "complete set of books"
+        }
+      ],
+      "mobileId": 69049,
+      "phonetic": "えんぼん",
+      "related_words": {
+        "word": [
+          "円",
+          "盆"
+        ]
+      },
+      "word": "円盆"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef921202b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "plum bonsai"
+        }
+      ],
+      "mobileId": 273828,
+      "phonetic": "ぼんばい",
+      "word": "盆梅"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9107187",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mortar (for grinding)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mortar-shaped container"
+        }
+      ],
+      "mobileId": 273298,
+      "phonetic": "らいぼん",
+      "word": "擂盆"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca015a49c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blowout (oil well, gas field, etc.)"
+        }
+      ],
+      "mobileId": 281646,
+      "phonetic": "ぼうふん",
+      "word": "暴噴"
+    },
+    {
+      "_id": "03097fc4fb705e7bf53b2e7edb07753d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "dung nham, nham thạch"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ふんせき",
+      "word": "噴石"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771409f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "direct-injection diesel engine"
+        }
+      ],
+      "mobileId": 265102,
+      "phonetic": "ちょくふんディーゼル",
+      "word": "直噴ディーゼル"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7713f69b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "direct fuel-injection engine"
+        }
+      ],
+      "mobileId": 265100,
+      "phonetic": "ちょくふんエンジン",
+      "word": "直噴エンジン"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

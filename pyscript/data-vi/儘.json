@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dd8e30f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "prt",
+          "mean": "như nguyên; sự vẫn như cũ; sự vẫn y nguyên ."
+        }
+      ],
+      "mobileId": 145145,
+      "phonetic": "まま",
+      "related_words": {
+        "word": [
+          "我儘"
+        ]
+      },
+      "word": "儘"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afa5257",
+      "means": [
+        {
+          "examples": null,
+          "kind": "int",
+          "mean": "whatever, never mind, I don't care, the hell with it"
+        }
+      ],
+      "mobileId": 231444,
+      "phonetic": "ままよ",
+      "word": "儘よ"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0418ca6",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp",
+          "mean": "như thế này"
+        }
+      ],
+      "mobileId": 208948,
+      "phonetic": "このまま",
+      "word": "この儘"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada064ba6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼女は部屋をめちゃくちゃにして、そのまま部屋で出かけた",
+              "mean": "cô ấy làm lộn tung căn nhà lên rồi để nó như thế mà đi",
+              "transcription": "かのじょはへやをめちゃくちゃにして、そのままへやででかけた"
+            }
+          ],
+          "kind": "adj-no",
+          "mean": "không thay đổi; như vốn dĩ; để nó như thế; để nguyên"
+        }
+      ],
+      "mobileId": 77000,
+      "phonetic": "そのまま",
+      "related_words": {
+        "word": [
+          "の",
+          "儘",
+          "其の"
+        ]
+      },
+      "word": "其の儘"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193182256",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự việc theo ý muốn"
+        }
+      ],
+      "mobileId": 18689,
+      "phonetic": "",
+      "word": "思う儘"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7479b72d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "ích kỷ ."
+        }
+      ],
+      "mobileId": 99199,
+      "phonetic": "わがまま",
+      "word": "我が儘"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e008acd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "as (e.g. \"do as one is told\", \"as we age we gain wisdom\"), wherever (e.g. \"wherever my fancy took me\")"
+        }
+      ],
+      "mobileId": 248022,
+      "phonetic": "ままに",
+      "word": "儘に"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f03b55",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thích làm theo ý mình, ích kỷ"
+        }
+      ],
+      "mobileId": 25549,
+      "phonetic": "",
+      "word": "気儘"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed950fb59e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "selfish(ness)"
+        }
+      ],
+      "mobileId": 56620,
+      "phonetic": "",
+      "word": "自儘"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f0520f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(như) hiện thời, tình trạng hiện thời"
+        }
+      ],
+      "mobileId": 41204,
+      "phonetic": "",
+      "word": "此の儘"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d133305",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "American-Korean"
+        }
+      ],
+      "mobileId": 215717,
+      "phonetic": "べいかん",
+      "word": "米韓"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d108b92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "China and Korea"
+        }
+      ],
+      "mobileId": 215624,
+      "phonetic": "ちゅうかん",
+      "word": "中韓"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f0c90e8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "そうね、日韓で協力してこのイベントを主催しているから、ファンも協力するかもしれないわ。",
+              "mean": "Nam Triều Tiên và Nhật Bản cùng hợp tác đăng cai sự kiện, những người hâm mô cũng sẽ hợp tác với nhau",
+              "transcription": "そうね、にちかんできょうりょくしてこのイベントをしゅさいしているから、ファンもきょうりょくするかもしれないわ。"
+            },
+            {
+              "content": "原子炉熱流動・安全などの研究・開発に関する日韓2国間会議",
+              "mean": "Hội nghị hai nước Nhật-Hàn về nghiên cứu phát triển an toàn lưu chuyển lò phản ứng nguyên tử .",
+              "transcription": "げんしろねつりゅうどう・あんぜんなどのけんきゅう・かいはつにかんするにちかん2こくかんかいぎ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Nhật Hàn"
+        }
+      ],
+      "mobileId": 185132,
+      "phonetic": "にっかん",
+      "related_words": {
+        "word": [
+          "日"
+        ]
+      },
+      "word": "日韓"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19390833a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người Triều Tiên (cách gọi lịch sự)"
+        }
+      ],
+      "mobileId": 22518,
+      "phonetic": "かんじん",
+      "related_words": {
+        "word": [
+          "人"
+        ]
+      },
+      "word": "韓人"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d34ca31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "korea"
+        }
+      ],
+      "mobileId": 147417,
+      "phonetic": "さんかん",
+      "related_words": {
+        "word": [
+          "三"
+        ]
+      },
+      "word": "三韓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7789d8e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hanbok (traditional Korean dress)"
+        }
+      ],
+      "mobileId": 268928,
+      "phonetic": "かんふく かんぷく ハンボッ",
+      "word": "韓服"
+    },
+    {
+      "_id": "432518852de0a80625d585a982091bbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hatred of things Korean (by Japanese)"
+        }
+      ],
+      "mobileId": 231933,
+      "phonetic": "けんかん",
+      "word": "嫌韓"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9aaecd5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Korean (language)"
+        }
+      ],
+      "mobileId": 278161,
+      "phonetic": "かんご",
+      "related_words": {
+        "word": [
+          "語"
+        ]
+      },
+      "word": "韓語"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9bfb8e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "going to South Korea, moving to South Korea"
+        }
+      ],
+      "mobileId": 278870,
+      "phonetic": "とかん",
+      "word": "渡韓"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4cb4be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Korea-Japan"
+        }
+      ],
+      "mobileId": 217540,
+      "phonetic": "かんにち",
+      "word": "韓日"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

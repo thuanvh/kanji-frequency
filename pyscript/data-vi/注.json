@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fc569a1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "本に注をつける",
+              "mean": "Thêm chú thích vào cho quyển sách.",
+              "transcription": "ほんにちゅうをつける"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "chú (viết tắt của chú thích)"
+        }
+      ],
+      "mobileId": 188160,
+      "phonetic": "ちゅう",
+      "related_words": {
+        "word": [
+          "注意",
+          "注意事項",
+          "注意する",
+          "注文",
+          "受注",
+          "発注",
+          "外注",
+          "注目",
+          "注意点",
+          "注釈"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "注",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "注解",
+                "注釈",
+                "付記",
+                "注記",
+                "付注"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "注解"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "注"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a56eaf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "men"
+        }
+      ],
+      "mobileId": 5255,
+      "phonetic": "ぶんちゅう",
+      "related_words": {
+        "word": [
+          "分",
+          "注"
+        ]
+      },
+      "word": "分注"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9532e91b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tiêm vào tĩnh mạch"
+        }
+      ],
+      "mobileId": 57712,
+      "phonetic": "せいちゅう",
+      "related_words": {
+        "word": [
+          "注"
+        ]
+      },
+      "word": "静注"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e51e3f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trình bày chi tiết bình luận"
+        }
+      ],
+      "mobileId": 113646,
+      "phonetic": "ちゅううと",
+      "word": "注疎"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a3d04f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "notes, comment, remark, annotation"
+        }
+      ],
+      "mobileId": 286181,
+      "phonetic": "そちゅう",
+      "word": "疏注"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d70aa6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sách có chú giải của nhiều nhà bình luận"
+        }
+      ],
+      "mobileId": 149301,
+      "phonetic": "しゅうちゅう",
+      "word": "集注"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fc6db3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giấy đặt hàng ."
+        }
+      ],
+      "mobileId": 188192,
+      "phonetic": "ちゅうもんしょ",
+      "related_words": {
+        "word": [
+          "文",
+          "注文",
+          "注"
+        ]
+      },
+      "word": "注文書"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bb6e51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hiệu chú"
+        }
+      ],
+      "mobileId": 39494,
+      "phonetic": "こうちゅう",
+      "word": "校注"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda8b274",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những ghi chú ở lề; những chú giải"
+        }
+      ],
+      "mobileId": 74196,
+      "phonetic": "よはくちゅう",
+      "related_words": {
+        "word": [
+          "白",
+          "注",
+          "余白",
+          "余"
+        ]
+      },
+      "word": "余白注"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c046d585",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "detailed commentary, copious notes"
+        }
+      ],
+      "mobileId": 209117,
+      "phonetic": "しょうちゅう",
+      "word": "詳注"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

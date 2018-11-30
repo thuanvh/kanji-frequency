@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a0597a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "lửa ."
+        }
+      ],
+      "mobileId": 170376,
+      "opposite_word": [
+        "水"
+      ],
+      "phonetic": "ひ",
+      "related_words": {
+        "word": [
+          "火曜日",
+          "花火",
+          "火星",
+          "火山",
+          "引火点",
+          "火曜",
+          "火災",
+          "火事",
+          "火葬",
+          "消火器"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "火",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "火事",
+                "火難",
+                "火災"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ファイア",
+                "焔",
+                "炎"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "火"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a89659",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ánh sáng đom đóm ."
+        }
+      ],
+      "mobileId": 32063,
+      "phonetic": "けいか",
+      "related_words": {
+        "word": [
+          "火"
+        ]
+      },
+      "word": "螢火"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193017672",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cháy bùng đốt cháy"
+        }
+      ],
+      "mobileId": 17929,
+      "phonetic": "おきひ",
+      "related_words": {
+        "word": [
+          "火"
+        ]
+      },
+      "word": "燠火"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19394ea85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự vay mượn đốt cháy; mượn lửa"
+        }
+      ],
+      "mobileId": 22652,
+      "phonetic": "かりひ",
+      "related_words": {
+        "word": [
+          "火",
+          "借り",
+          "借"
+        ]
+      },
+      "word": "借り火"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca035a4f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Carybdeidae Tamoya (species of venomous box jellyfish)"
+        }
+      ],
+      "mobileId": 282676,
+      "phonetic": "ひくらげ ヒクラゲ",
+      "word": "火水母"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91efc3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cooking over the fire of an unclean home or a home in mourning, food prepared over the fire of an unclean home or a home in mourning"
+        }
+      ],
+      "mobileId": 273767,
+      "phonetic": "あいび",
+      "word": "合い火"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a08e452",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ánh sáng ."
+        }
+      ],
+      "mobileId": 170434,
+      "phonetic": "ともしび",
+      "word": "灯し火"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a979b8e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flame of an oil lamp"
+        }
+      ],
+      "mobileId": 260185,
+      "phonetic": "あぶらび",
+      "word": "油火"
+    },
+    {
+      "_id": "622cc39a952b667c2efb0cae5ef8b020",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Lửa ngược ( lửa xông ngược lại bình khí) -> nguy hiểm"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ぎゃっか",
+      "word": "逆火"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abc5c08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Monday and Tuesday"
+        }
+      ],
+      "mobileId": 229433,
+      "phonetic": "げつか",
+      "word": "月火"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

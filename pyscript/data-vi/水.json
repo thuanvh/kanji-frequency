@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fa8e788",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "水収支法",
+              "mean": "phương pháp bình thông nhau",
+              "transcription": "みずしゅうしほう"
+            },
+            {
+              "content": "馬に水を与える",
+              "mean": "cho ngựa uống nước",
+              "transcription": "うまにみずをあたえる"
+            },
+            {
+              "content": "植木に水をやる",
+              "mean": "tưới nước cho cây (tưới cây)",
+              "transcription": "うえきにみずをやる"
+            },
+            {
+              "content": "庭に水をまく",
+              "mean": "tưới nước cho vườn",
+              "transcription": "にわにみずをまく"
+            },
+            {
+              "content": "その水は汚すぎて飲めない",
+              "mean": "nước đó bẩn nên không uống được .",
+              "transcription": "そのみずはきたなすぎてのめない"
+            }
+          ],
+          "kind": "n",
+          "mean": "nước"
+        }
+      ],
+      "mobileId": 187681,
+      "opposite_word": [
+        "火",
+        "湯"
+      ],
+      "phonetic": "みず",
+      "related_words": {
+        "word": [
+          "水曜日",
+          "水着",
+          "防水",
+          "香水",
+          "水平",
+          "水色",
+          "炭水化物",
+          "洪水",
+          "水筒",
+          "水泳"
+        ]
+      },
+      "word": "水"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68656147",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giáp mặt nước thơm"
+        }
+      ],
+      "mobileId": 3234,
+      "phonetic": "びがんすい",
+      "word": "美顔水"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e815e3d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dòng chảy uốn khúc"
+        }
+      ],
+      "mobileId": 34198,
+      "phonetic": "きょくすい",
+      "related_words": {
+        "word": [
+          "水",
+          "曲"
+        ]
+      },
+      "word": "曲水"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802784f27c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nước để ươm giống cây ."
+        }
+      ],
+      "mobileId": 31455,
+      "phonetic": "なわみず",
+      "word": "苗水"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdadb189",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước dùng để uống, nước uống được"
+        }
+      ],
+      "mobileId": 15312,
+      "phonetic": "いんようすい",
+      "word": "飲用水"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cb8be9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "có nước"
+        }
+      ],
+      "mobileId": 24367,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "水"
+        ]
+      },
+      "word": "含水"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801295829",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜で暮らす人々に安全な飲料水を供給する",
+              "mean": "cung cấp nước sạch cho người dân sống ở...",
+              "transcription": "〜でくらすひとびとにあんぜんないんりょうすいをきょうきゅうする"
+            },
+            {
+              "content": "飲料水の不足を解決する",
+              "mean": "giải quyết tình trạng thiếu nước sạch",
+              "transcription": "いんりょうすいのふそくをかいけつする"
+            },
+            {
+              "content": "飲料水の汚染を減らす",
+              "mean": "giảm sự ô nhiễm nguồn nước uống",
+              "transcription": "いんりょうすいのおせんをへらす"
+            },
+            {
+              "content": "飲料水には不純物が混じっていてはならない",
+              "mean": "nước uống phải được tinh khiết, không được có tạp chất",
+              "transcription": "いんりょうすいにはふじゅんぶつがまじっていてはならない"
+            },
+            {
+              "content": "ペットボトルに入った飲料水",
+              "mean": "nước uống đóng chai .",
+              "transcription": "ペットボトルにはいったいんりょうすい"
+            }
+          ],
+          "kind": "n",
+          "mean": "nước uống"
+        }
+      ],
+      "mobileId": 42455,
+      "phonetic": "いんりょうすい",
+      "related_words": {
+        "word": [
+          "水",
+          "料",
+          "飲料",
+          "清涼飲料水"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "飲料水",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "上水",
+                "飲水",
+                "飲み水"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "飲料水"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107c74c90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tưới nước ."
+        }
+      ],
+      "mobileId": 55194,
+      "phonetic": "さしみず",
+      "word": "差し水"
+    },
+    {
+      "_id": "32266b33d424da615075e0dca7d892fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ứ ."
+        }
+      ],
+      "mobileId": 48322,
+      "phonetic": "たまりみず",
+      "related_words": {
+        "word": [
+          "水"
+        ]
+      },
+      "word": "たまり水"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953889fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước cất"
+        }
+      ],
+      "mobileId": 57878,
+      "phonetic": "じょうりゅうすい",
+      "related_words": {
+        "word": [
+          "水",
+          "蒸留"
+        ]
+      },
+      "word": "蒸留水"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

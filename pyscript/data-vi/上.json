@@ -1,0 +1,443 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1f5e8a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "道理の〜では彼の態度が認められない。",
+              "mean": "về mặt đạo lý thì thái độ của anh ta là không chấp nhận được",
+              "transcription": "どうりの〜ではかれのたいどがみとめられない。"
+            }
+          ],
+          "kind": "n",
+          "mean": "về mặt"
+        }
+      ],
+      "mobileId": 141844,
+      "opposite_word": [
+        "下"
+      ],
+      "phonetic": "かみ",
+      "related_words": {
+        "word": [
+          "売上",
+          "上手",
+          "同上",
+          "上がる",
+          "上下",
+          "上記",
+          "その上",
+          "地上",
+          "向上",
+          "上司"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "上",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "年長",
+                "年長者",
+                "上長",
+                "先輩"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "上面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "行政府",
+                "官憲",
+                "政府",
+                "体制",
+                "御上",
+                "官庁",
+                "当局",
+                "省庁",
+                "公儀"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "上"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1f4bb1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "机の〜に本があります",
+              "mean": "có quyển sách ở trên bàn .",
+              "transcription": "つくえの〜にほんがあります"
+            }
+          ],
+          "kind": "n, adj-no, n-adv, n-suf",
+          "mean": "trên; mặt trên; trên đỉnh"
+        },
+        {
+          "examples": [
+            {
+              "content": "〜着（うわぎ）",
+              "mean": "áo khoác ngoàiTHƯỢNG",
+              "transcription": "〜き（うわぎ ）"
+            }
+          ],
+          "kind": "n, adj-no, n-adv, n-suf",
+          "mean": "bên ngoài"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼女の日本語は私より〜だ",
+              "mean": "tiếng Nhật của cô ấy giỏi hơn của tôi",
+              "transcription": "かのじょのにほんごはわたしより〜だ"
+            },
+            {
+              "content": "彼女は私より二つ〜だ",
+              "mean": "cô ấy hơn tôi 2 tuổi",
+              "transcription": "かのじょはわたしよりふたつ〜だ"
+            }
+          ],
+          "kind": "n, adj-no, n-adv, n-suf",
+          "mean": "nhiều hơn; giỏi hơn; phía trên"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no, n-adv, n-suf",
+          "mean": "ở trên"
+        },
+        {
+          "examples": [
+            {
+              "content": "調べた〜で返事する",
+              "mean": "sau khi điều tra sẽ trả lời",
+              "transcription": "しらべた〜でへんじする"
+            }
+          ],
+          "kind": "n, adj-no, n-adv, n-suf",
+          "mean": "sau khi...; căn cứ vào"
+        }
+      ],
+      "mobileId": 141843,
+      "opposite_word": [
+        "下"
+      ],
+      "phonetic": "うえ",
+      "related_words": {
+        "word": [
+          "売上",
+          "上手",
+          "同上",
+          "上がる",
+          "上下",
+          "上記",
+          "その上",
+          "地上",
+          "向上",
+          "上司"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "上",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "年長",
+                "年長者",
+                "上長",
+                "先輩"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "上面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "行政府",
+                "官憲",
+                "政府",
+                "体制",
+                "御上",
+                "官庁",
+                "当局",
+                "省庁",
+                "公儀"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "上"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1f6c56",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "安い〜においしい料理",
+              "mean": "món ăn rẻ mà lại ngonTHƯỢNG",
+              "transcription": "やすい〜においしいりょうり"
+            }
+          ],
+          "kind": "pref",
+          "mean": "hơn nữa"
+        },
+        {
+          "examples": [
+            {
+              "content": "年上",
+              "mean": "già hơn, nhiều tuổi hơn",
+              "transcription": "としうえ"
+            }
+          ],
+          "kind": "suf",
+          "mean": "hơn tuổi; già hơn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người có địa vị cao quý; nơi cao quý; trên."
+        }
+      ],
+      "mobileId": 141845,
+      "opposite_word": [
+        "下"
+      ],
+      "phonetic": "じょう",
+      "related_words": {
+        "word": [
+          "売上",
+          "上手",
+          "同上",
+          "上がる",
+          "上下",
+          "上記",
+          "その上",
+          "地上",
+          "向上",
+          "上司"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "上",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "年長",
+                "年長者",
+                "上長",
+                "先輩"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "上面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "行政府",
+                "官憲",
+                "政府",
+                "体制",
+                "御上",
+                "官庁",
+                "当局",
+                "省庁",
+                "公儀"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "上"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a08b9d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, adv-to",
+          "mean": "higher and higher"
+        }
+      ],
+      "mobileId": 223679,
+      "phonetic": "うえへうえへ",
+      "word": "上へ上へ"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd42ae15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anh(em) trai già(cũ) hơn"
+        }
+      ],
+      "mobileId": 11926,
+      "phonetic": "あにじょう",
+      "related_words": {
+        "word": [
+          "上",
+          "兄"
+        ]
+      },
+      "word": "兄上"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddab02e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vệ sinh, hợp vệ sinh"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vệ sinh"
+        }
+      ],
+      "mobileId": 16682,
+      "phonetic": "えいせいじょう",
+      "word": "衛生上"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcf31b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "ném cao; âm điệu cao"
+        }
+      ],
+      "mobileId": 16327,
+      "phonetic": "うわちょうし",
+      "related_words": {
+        "word": [
+          "上",
+          "子",
+          "調子"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "上調子",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "高音",
+                "ハイピッチ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "上調子"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd0f8b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "răng trên, răng hàm trên"
+        }
+      ],
+      "mobileId": 16379,
+      "phonetic": "うえは",
+      "related_words": {
+        "word": [
+          "上",
+          "歯"
+        ]
+      },
+      "word": "上歯"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd15cb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(1) tiền huê hồng ;(2) thuế thông hành"
+        }
+      ],
+      "mobileId": 16391,
+      "phonetic": "うえまい",
+      "related_words": {
+        "word": [
+          "上",
+          "米"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "上米",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "稲",
+                "白米",
+                "米飯",
+                "米穀",
+                "供米",
+                "舎利",
+                "米",
+                "御飯",
+                "飯",
+                "ライス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "上米"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193428168",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "theo quan điểm hóa học"
+        }
+      ],
+      "mobileId": 20038,
+      "phonetic": "かがくじょう",
+      "word": "化学上"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

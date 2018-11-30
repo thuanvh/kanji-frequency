@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2e418a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuốc nhuộm thiên thảo"
+        }
+      ],
+      "mobileId": 11274,
+      "phonetic": "あかね",
+      "related_words": {
+        "word": [
+          "茜色"
+        ]
+      },
+      "word": "茜"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef942e7f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yellow-winged darter (Sympetrum flaveolum)"
+        }
+      ],
+      "mobileId": 274904,
+      "phonetic": "えぞあかね エゾアカネ",
+      "word": "蝦夷茜"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3c7b48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "var. of red dragonfly (Sympetrum frequens)"
+        }
+      ],
+      "mobileId": 217034,
+      "phonetic": "あきあかね アキアカネ",
+      "word": "秋茜"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2e4de6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bầu trời rực sáng (ánh hồng)"
+        }
+      ],
+      "mobileId": 11276,
+      "phonetic": "あかねさすそら",
+      "related_words": {
+        "word": [
+          "空",
+          "差",
+          "茜",
+          "差す"
+        ]
+      },
+      "word": "茜差す空"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2e55b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bầu trời rực sáng"
+        }
+      ],
+      "mobileId": 11277,
+      "phonetic": "あかねさすそら",
+      "word": "茜さす空"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2e5bec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rễ cây thiên thảo (có sắc đỏ, được dùng thuốc nhuộm)"
+        }
+      ],
+      "mobileId": 11278,
+      "phonetic": "あかねのね",
+      "word": "茜の根"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,242 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107739a6b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "それはおまえが孫だからだよ。パパが悪いことした時、おばあちゃんはパパを押し入れに閉じ込めたもんだよ。",
+              "mean": "Đó là vì con là cháu yêu của bà đấy. Còn khi bố làm việc gì xấu bà thường nhốt bố vào trong phòng.",
+              "transcription": "それはおまえがまごだからだよ。パパがわるいことしたとき、おばあちゃんはパパをおしいれにとじこめたもんだよ。"
+            },
+            {
+              "content": "ハルは、息子を孫からしばらく解放してあげることができて、喜んでいた",
+              "mean": "Hal vui mừng vì có thể giải phóng khỏi đứa cháu của con trai mình được một lúc.",
+              "transcription": "ハルは、むすこをまごからしばらくかいほうしてあげることができて、よろこんでいた"
+            }
+          ],
+          "kind": "n",
+          "mean": "cháu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con cháu ."
+        }
+      ],
+      "mobileId": 53806,
+      "opposite_word": [
+        "祖父",
+        "祖母"
+      ],
+      "phonetic": "まご",
+      "related_words": {
+        "word": [
+          "子孫",
+          "孫娘",
+          "孫息子",
+          "曾孫"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "孫",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "令孫",
+                "お孫さん"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "孫"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9504d7ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trẻ con và grandchildren; những con cháu"
+        }
+      ],
+      "mobileId": 56267,
+      "phonetic": "こまご",
+      "related_words": {
+        "word": [
+          "孫",
+          "児"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "児孫",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "末末",
+                "子孫"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "末裔",
+                "後裔",
+                "末流",
+                "末々",
+                "末末",
+                "後胤",
+                "子孫"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "後裔",
+                "末々",
+                "末末",
+                "後生",
+                "後胤",
+                "後世",
+                "子孫"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "児孫"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f2b5a06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chắt ."
+        }
+      ],
+      "mobileId": 185648,
+      "phonetic": "ひまご",
+      "related_words": {
+        "word": [
+          "孫"
+        ]
+      },
+      "word": "曽孫"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf6a488",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vương tôn công tử; cháu trai của Hoàng thất"
+        }
+      ],
+      "mobileId": 17587,
+      "phonetic": "おうまご",
+      "word": "王孫"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10773ae41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cháu trai ."
+        }
+      ],
+      "mobileId": 53808,
+      "phonetic": "まごむすこ",
+      "related_words": {
+        "word": [
+          "子",
+          "息子",
+          "孫",
+          "息"
+        ]
+      },
+      "word": "孫息子"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824b1a7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "great-great-great-great-great-great-grandchild"
+        }
+      ],
+      "mobileId": 234003,
+      "phonetic": "うんそん",
+      "word": "雲孫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c775ceeb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sub-sub contractor"
+        }
+      ],
+      "mobileId": 267454,
+      "phonetic": "まごうけ",
+      "word": "孫請け"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f2b3eb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chắt"
+        }
+      ],
+      "mobileId": 185645,
+      "phonetic": "そうそん, そう そん",
+      "related_words": {
+        "word": [
+          "孫"
+        ]
+      },
+      "word": "曽孫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af43168",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grandchild"
+        }
+      ],
+      "mobileId": 231245,
+      "phonetic": "まごさん",
+      "word": "孫さん"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824962ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "great-great-great-grandchild"
+        }
+      ],
+      "mobileId": 233952,
+      "phonetic": "らいそん",
+      "word": "来孫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

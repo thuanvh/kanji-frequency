@@ -1,0 +1,402 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada5615d0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "勘に頼って行動する",
+              "mean": "hành động theo cảm tính",
+              "transcription": "かんにたよってこうどうする"
+            },
+            {
+              "content": "私は勘に従い、とある新しいコンピュータ会社の株を1000株買った",
+              "mean": "tôi đã dựa vào linh cảm của mình và mua 1000 cổ phiếu của một công ty máy tính mới toe",
+              "transcription": "わたしはかんにしたがい、とあるあたらしいコンピュータかいしゃのかぶを1000かぶかった"
+            },
+            {
+              "content": "長いブランクで勘が鈍る",
+              "mean": "Mất đi giác quan thứ sáu do một khoảng thời gian dài không hoạt động",
+              "transcription": "ながいブランクでかんがにぶる"
+            },
+            {
+              "content": "外国語に対する勘がいい",
+              "mean": "có khiếu học tiếng nước ngoài tốt",
+              "transcription": "がいこくごにたいするかんがいい"
+            },
+            {
+              "content": "優れた商売上の勘",
+              "mean": "Linh cảm kinh doanh tốt",
+              "transcription": "すぐれたしょうばいじょうのかん"
+            },
+            {
+              "content": "何が正しくて何が間違っているかという自分の勘",
+              "mean": "Linh cảm của bản thân để nhận biết việc nào đúng việc nào sai",
+              "transcription": "なにがただしくてなにがまちがっているかというじぶんのかん"
+            }
+          ],
+          "kind": "n",
+          "mean": "trực giác; giác quan thứ sáu; cảm tính; linh cảm"
+        }
+      ],
+      "mobileId": 78420,
+      "phonetic": "かん",
+      "related_words": {
+        "word": [
+          "勘定",
+          "勘違い",
+          "勘合",
+          "割り勘",
+          "勘弁",
+          "勘案",
+          "仮勘定",
+          "勘定書",
+          "勘弁する",
+          "勘定日"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勘",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "訳",
+                "念",
+                "意味",
+                "センス",
+                "検出",
+                "感性",
+                "感覚",
+                "事理",
+                "観念"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "予感",
+                "疑惑",
+                "直感",
+                "直覚",
+                "疑り",
+                "疑念",
+                "疑",
+                "懐疑",
+                "疑心",
+                "疑い",
+                "直観",
+                "嫌疑",
+                "予覚"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "第六感"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "第六感",
+                "直感",
+                "直覚",
+                "六感",
+                "直観"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "勘"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ad2371",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mắng mỏ cho một lỗi"
+        }
+      ],
+      "mobileId": 23405,
+      "phonetic": "かんせめ",
+      "word": "勘責"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a21ec4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự điều tra nghiên cứu"
+        }
+      ],
+      "mobileId": 23062,
+      "phonetic": "かんけん",
+      "related_words": {
+        "word": [
+          "勘"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勘検",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "査察",
+                "リサーチ",
+                "査問",
+                "探索",
+                "審査",
+                "踏査",
+                "取り調べ",
+                "追究",
+                "究明",
+                "考査",
+                "詮索",
+                "追求",
+                "考証",
+                "吟味",
+                "捜査",
+                "調べ",
+                "追及",
+                "検討",
+                "検察",
+                "取調",
+                "調査",
+                "捜索",
+                "勘査",
+                "査定"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "勘検"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada56c6e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chịu đựng; sự kiên nhẫn ."
+        }
+      ],
+      "mobileId": 78427,
+      "phonetic": "かんにん",
+      "word": "勘忍"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a1e6ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự khảo sát và quyết định"
+        }
+      ],
+      "mobileId": 23052,
+      "phonetic": "かんけっ",
+      "related_words": {
+        "word": [
+          "勘"
+        ]
+      },
+      "word": "勘決"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a4be0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khảo sát"
+        }
+      ],
+      "mobileId": 23147,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "勘"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勘査",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "査察",
+                "リサーチ",
+                "査問",
+                "探索",
+                "審査",
+                "勘検",
+                "踏査",
+                "取り調べ",
+                "追究",
+                "究明",
+                "考査",
+                "詮索",
+                "追求",
+                "考証",
+                "吟味",
+                "捜査",
+                "調べ",
+                "追及",
+                "検討",
+                "検察",
+                "取調",
+                "調査",
+                "捜索",
+                "査定"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "勘査"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a83c0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "báo cáo sự khảo sát cẩn thận sau"
+        }
+      ],
+      "mobileId": 23257,
+      "phonetic": "かんすすむ",
+      "related_words": {
+        "word": [
+          "勘"
+        ]
+      },
+      "word": "勘進"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b21f9f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới kẻ khả nghi; tới cảm giác(nghĩa) (sự nguy hiểm); tới sự ngửi"
+        }
+      ],
+      "mobileId": 23557,
+      "phonetic": "かんつく",
+      "related_words": {
+        "word": [
+          "付",
+          "付く",
+          "勘"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勘付く",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "感づく",
+                "感じる",
+                "憶える",
+                "見い出す",
+                "見出す",
+                "感付く",
+                "知る",
+                "察する",
+                "わかる",
+                "分る",
+                "感じ取る",
+                "思う",
+                "見受ける",
+                "勘づく",
+                "覚える",
+                "想う"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "捕らえる",
+                "感づく",
+                "感付く",
+                "察する",
+                "気が付く",
+                "分る",
+                "感じ取る",
+                "捕える",
+                "勘づく",
+                "見て取る",
+                "気付く",
+                "気がつく",
+                "判る",
+                "見抜く",
+                "悟る"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "勘付く"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a82d3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khảo sát cẩn thận"
+        }
+      ],
+      "mobileId": 23256,
+      "phonetic": "かんしん",
+      "related_words": {
+        "word": [
+          "勘"
+        ]
+      },
+      "word": "勘審"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b45707",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tài giỏi, giỏi giang, thành thạo, chuyên gia, người tài giỏi, người thành thạo"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khéo tay; tài giỏi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảm thấy hài lòng, cảm thấy vừa ý; thoả mãn"
+        }
+      ],
+      "mobileId": 23629,
+      "phonetic": "かんのう",
+      "word": "勘能"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

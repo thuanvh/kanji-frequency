@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cddc1675",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "diễn viên"
+        }
+      ],
+      "mobileId": 75802,
+      "phonetic": "",
+      "word": "伶"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde1b191",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "diễn viên"
+        }
+      ],
+      "mobileId": 75969,
+      "phonetic": "",
+      "word": "伶優"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde1cf5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "sự lanh lợi, sự thông minh, sự tài giỏi, sự thần tình, sự tài tình"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "sự thông minh, sự minh mẫn, sự khôn ngoan, sự sắc sảo"
+        }
+      ],
+      "mobileId": 75973,
+      "phonetic": "",
+      "word": "伶俐"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cddca7b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhạc sĩ sân"
+        }
+      ],
+      "mobileId": 75818,
+      "phonetic": "",
+      "word": "伶官"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

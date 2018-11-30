@@ -1,0 +1,243 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027536f83",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "肩がこってパンパンだ",
+              "mean": "vai quá cứng",
+              "transcription": "かたがこってパンパンだ"
+            },
+            {
+              "content": "私は肩から下がまひしている",
+              "mean": "tôi bị tê từ phần vai trở xuống",
+              "transcription": "わたしはかたからしたがまひしている"
+            },
+            {
+              "content": "肩から〜を後ろに抜く",
+              "mean": "hất ra sau vai",
+              "transcription": "かたから〜をうしろにぬく"
+            },
+            {
+              "content": "筋肉の盛り上がった肩",
+              "mean": "vai có cơ bắp nổi lên cuồn cuộn",
+              "transcription": "きんにくのもりあがったかた"
+            },
+            {
+              "content": "たくましい肩",
+              "mean": "vai săn chắc",
+              "transcription": "たくましいかた"
+            }
+          ],
+          "kind": "n",
+          "mean": "vai; bờ vai"
+        }
+      ],
+      "mobileId": 30509,
+      "phonetic": "かた",
+      "related_words": {
+        "word": [
+          "肩幅",
+          "肩書き",
+          "肩凝り",
+          "肩甲骨",
+          "肩書",
+          "肩巾",
+          "肩車",
+          "路肩",
+          "肩身",
+          "肩章"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "肩",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ショルダー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "肩部",
+                "肩先",
+                "ショルダー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "肩"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9070bc1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shoulder joint"
+        }
+      ],
+      "mobileId": 272991,
+      "phonetic": "かたかんせつ",
+      "word": "肩関節"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936c0802",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xương vai"
+        }
+      ],
+      "mobileId": 21360,
+      "phonetic": "けんこうこつ",
+      "related_words": {
+        "word": [
+          "骨",
+          "肩",
+          "甲"
+        ]
+      },
+      "word": "肩甲骨"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936c9a43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "vỗ nhẹ trên (về) vai; yêu cầu để từ chức"
+        }
+      ],
+      "mobileId": 21380,
+      "phonetic": "かたたたき",
+      "related_words": {
+        "word": [
+          "肩"
+        ]
+      },
+      "word": "肩たたき"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9ef618",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shoulder roast (e.g. of lamb)"
+        }
+      ],
+      "mobileId": 228477,
+      "phonetic": "かたロース",
+      "word": "肩ロース"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b20b43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "both shoulders"
+        }
+      ],
+      "mobileId": 261976,
+      "phonetic": "りょうかた りょうけん",
+      "word": "両肩"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936b446a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tiếp quản; chuyển nhượng lại; gánh vác gánh nặng thay ai; sự thừa nhiệm; sự đổi vai, khiêng thay"
+        }
+      ],
+      "mobileId": 21337,
+      "phonetic": "かたがわり",
+      "word": "肩替わり"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936d8a90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "khởi động; lắc lắc vai (khởi động trước khi thi đấu)"
+        }
+      ],
+      "mobileId": 21411,
+      "phonetic": "かたならし",
+      "word": "肩慣らし"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936efe58",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "để (thì) (đứng) cùng nhau, một cánh tay ngang qua (kẻ) khác có vai"
+        }
+      ],
+      "mobileId": 21459,
+      "phonetic": "かたよせる",
+      "word": "肩寄せる"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802754d1bd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "肩部から裾にかけてグッとクッとすぼまる形",
+              "mean": "Đường cong vòng từ vai xuống dưới vạt áo",
+              "transcription": "かたぶからすそにかけてグッとクッとすぼまるかたち"
+            },
+            {
+              "content": "肩部の半径",
+              "mean": "Chiều rộng của vai .",
+              "transcription": "かたぶのはんけい"
+            }
+          ],
+          "kind": "n",
+          "mean": "vai"
+        }
+      ],
+      "mobileId": 30526,
+      "phonetic": "けんぶ",
+      "related_words": {
+        "word": [
+          "部",
+          "肩"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "肩部",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "肩先",
+                "肩",
+                "ショルダー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "肩部"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

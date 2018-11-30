@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027089757",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đỏ thẫm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "son ."
+        }
+      ],
+      "mobileId": 29225,
+      "opposite_word": [
+        "白"
+      ],
+      "phonetic": "べに",
+      "related_words": {
+        "word": [
+          "紅葉",
+          "紅茶",
+          "真紅",
+          "深紅",
+          "口紅",
+          "紅白",
+          "淡紅色",
+          "紅花",
+          "百日紅",
+          "頬紅"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "紅",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "口紅",
+                "棒紅",
+                "リップスティック",
+                "ルージュ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "頬紅",
+                "ルージュ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "紅"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280270888c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu đỏ"
+        }
+      ],
+      "mobileId": 29224,
+      "opposite_word": [
+        "白"
+      ],
+      "phonetic": "くれない",
+      "related_words": {
+        "word": [
+          "紅葉",
+          "紅茶",
+          "真紅",
+          "深紅",
+          "口紅",
+          "紅白",
+          "淡紅色",
+          "紅花",
+          "百日紅",
+          "頬紅"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "紅",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "口紅",
+                "棒紅",
+                "リップスティック",
+                "ルージュ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "頬紅",
+                "ルージュ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "紅"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825570d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "water pepper (Polygonum hydropiper forma purpurascens)"
+        }
+      ],
+      "mobileId": 234334,
+      "phonetic": "べにたで",
+      "word": "紅蓼"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef956ec59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "brownish-red"
+        }
+      ],
+      "mobileId": 275510,
+      "phonetic": "こうかっしょく",
+      "word": "紅褐色"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9154218",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lipstick that actors put on their earlobes, cheeks and corners of eyes"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lipstick discreetly put on the earlobes or the corners of the eyes (by women)"
+        }
+      ],
+      "mobileId": 273451,
+      "phonetic": "あいきょうべに",
+      "word": "愛敬紅"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ae5717",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Monascus purpureus (species of mold), ang-khak"
+        }
+      ],
+      "mobileId": 278282,
+      "phonetic": "べにこうじ ベニコウジ",
+      "word": "紅麹"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf9d319",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red taro stems, red aroid"
+        }
+      ],
+      "mobileId": 247805,
+      "phonetic": "くれないずいき",
+      "word": "紅ずいき"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5b1ac0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "blue and red, azure and crimson"
+        }
+      ],
+      "mobileId": 250973,
+      "phonetic": "そうこう",
+      "word": "蒼紅"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6cf7a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mangrove forest"
+        }
+      ],
+      "mobileId": 251549,
+      "phonetic": "こうじゅりん",
+      "word": "紅樹林"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb5ffe6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu hồng nhạt; màu đỏ nhạt"
+        }
+      ],
+      "mobileId": 15562,
+      "phonetic": "うすきくれない",
+      "related_words": {
+        "word": [
+          "紅",
+          "薄"
+        ]
+      },
+      "word": "薄紅"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

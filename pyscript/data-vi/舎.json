@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802776e898",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chuồng"
+        },
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "nhà ở"
+        },
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "xá ."
+        }
+      ],
+      "mobileId": 31149,
+      "phonetic": "しゃ",
+      "related_words": {
+        "word": [
+          "田舎",
+          "田舎者",
+          "校舎",
+          "宿舎",
+          "庁舎",
+          "寄宿舎",
+          "厩舎",
+          "田舎娘",
+          "学舎",
+          "兵舎"
+        ]
+      },
+      "word": "舎"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0791d68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chemistry"
+        }
+      ],
+      "mobileId": 284831,
+      "phonetic": "セイミ セーミ",
+      "word": "舎密"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fab41ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chuồng trâu ."
+        }
+      ],
+      "mobileId": 187743,
+      "phonetic": "すいぎゅうしゃ",
+      "word": "水牛舎"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8159c83",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "văn phòng; tòa nhà văn phòng"
+        }
+      ],
+      "mobileId": 34188,
+      "phonetic": "つぼねしゃ",
+      "word": "局舎"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7cb200",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the building (physical structure) of a kindergarten, children's daycare centre or pre-school"
+        }
+      ],
+      "mobileId": 252049,
+      "phonetic": "えんしゃ",
+      "word": "園舎"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7711b21a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "court ladies' residence (in the inner Heian Palace)"
+        }
+      ],
+      "mobileId": 265027,
+      "phonetic": "ひぎょうしゃ",
+      "word": "飛香舎"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08329be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rustic bathhouse (esp. at onsen)"
+        }
+      ],
+      "mobileId": 285129,
+      "phonetic": "よくしゃ",
+      "word": "浴舎"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107f35646",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kho thóc ."
+        }
+      ],
+      "mobileId": 55914,
+      "phonetic": "きゅうしゃ",
+      "word": "廏舎"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8c6ad6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dinh thự"
+        }
+      ],
+      "mobileId": 150178,
+      "phonetic": "しゃたく",
+      "related_words": {
+        "word": [
+          "宅",
+          "舎"
+        ]
+      },
+      "word": "舎宅"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e828dec0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chuồng [lồng] chim; chuồng gà"
+        }
+      ],
+      "mobileId": 34808,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "舎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "禽舎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鳥屋",
+                "鶏舎"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "禽舎"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

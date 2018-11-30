@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8ad3fe8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái cân"
+        }
+      ],
+      "mobileId": 39026,
+      "phonetic": "",
+      "word": "衡器"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93b5a0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "avoirdupois system"
+        }
+      ],
+      "mobileId": 258191,
+      "phonetic": "じょうこう",
+      "word": "常衡"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01a17b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "weighing, measuring volume, quantifying"
+        }
+      ],
+      "mobileId": 281792,
+      "phonetic": "こうりょう",
+      "word": "衡量"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db60d11",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "troy weight (e.g. troy ounce, troy pound)"
+        }
+      ],
+      "mobileId": 220998,
+      "phonetic": "きんこう",
+      "word": "金衡"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5ec67f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Saikou era (854.11.30-857.2.21)"
+        }
+      ],
+      "mobileId": 218143,
+      "phonetic": "さいこう",
+      "word": "斉衡"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db6096b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "troy weight (e.g. troy ounce, troy pound)"
+        }
+      ],
+      "mobileId": 220997,
+      "phonetic": "トロイこう",
+      "word": "トロイ衡"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d16365",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "avoirdupois ounce"
+        }
+      ],
+      "mobileId": 262967,
+      "phonetic": "じょうこうオンス",
+      "word": "常衡オンス"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

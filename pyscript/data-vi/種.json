@@ -1,0 +1,359 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad62e06",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Eメールを受信時に種々のフォルダに振り分ける",
+              "mean": "Khi nhận được mail, chúng sẽ chuyển đến những folder khác nhau",
+              "transcription": "Eメールをじゅしんじにしゅじゅのフォルダにふりわける"
+            },
+            {
+              "content": "彼は種々さまざまなものに興味を持っている。",
+              "mean": "Anh ta quan tâm đến rất nhiều thứ khác nhau .",
+              "transcription": "かれはしゅじゅさまざまなものにきょうみをもっている。"
+            }
+          ],
+          "kind": "n",
+          "mean": "hạt; hạt giống; thể loại; nhiều thứ"
+        }
+      ],
+      "mobileId": 173895,
+      "phonetic": "たね",
+      "related_words": {
+        "word": [
+          "種類",
+          "業種",
+          "種別",
+          "機種",
+          "種族",
+          "各種",
+          "予防接種",
+          "品種",
+          "車種",
+          "人種差別"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "種",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "実",
+                "種物",
+                "種子"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "元",
+                "素材",
+                "材料",
+                "ねた"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "精液"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "種子"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "階級",
+                "種族",
+                "科目",
+                "種類",
+                "カテゴリ",
+                "部門",
+                "目",
+                "クラス",
+                "種別",
+                "カテゴリー",
+                "分類",
+                "部",
+                "種目",
+                "部類",
+                "範疇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "穀粒"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "実",
+                "種子"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "様式",
+                "種類",
+                "型",
+                "形態",
+                "ジャンル",
+                "タイプ",
+                "部類",
+                "類型",
+                "類"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "種"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad624cb",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n, n-suf",
+          "mean": "chủng, loại, hạt"
+        }
+      ],
+      "mobileId": 173894,
+      "phonetic": "しゅ",
+      "related_words": {
+        "word": [
+          "種類",
+          "業種",
+          "種別",
+          "機種",
+          "種族",
+          "各種",
+          "予防接種",
+          "品種",
+          "車種",
+          "人種差別"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "種",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "実",
+                "種物",
+                "種子"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "元",
+                "素材",
+                "材料",
+                "ねた"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "精液"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "種子"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "階級",
+                "種族",
+                "科目",
+                "種類",
+                "カテゴリ",
+                "部門",
+                "目",
+                "クラス",
+                "種別",
+                "カテゴリー",
+                "分類",
+                "部",
+                "種目",
+                "部類",
+                "範疇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "穀粒"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "実",
+                "種子"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "様式",
+                "種類",
+                "型",
+                "形態",
+                "ジャンル",
+                "タイプ",
+                "部類",
+                "類型",
+                "類"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "種"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5d1f8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "\"grain in ear\" solar term (approx. June 6, when awns begin to grow on grains)"
+        }
+      ],
+      "mobileId": 226382,
+      "phonetic": "ぼうしゅ",
+      "word": "芒種"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e10bdf6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự gieo hạt"
+        }
+      ],
+      "mobileId": 111562,
+      "phonetic": "たねおろし",
+      "word": "種下ろし"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef919907d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ring species"
+        }
+      ],
+      "mobileId": 273590,
+      "phonetic": "りんじょうしゅ",
+      "word": "輪状種"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91a2d11",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fossil species"
+        }
+      ],
+      "mobileId": 273609,
+      "phonetic": "かせきしゅ",
+      "word": "化石種"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b8c86c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "linetype"
+        }
+      ],
+      "mobileId": 244327,
+      "phonetic": "せんしゅ",
+      "related_words": {
+        "word": [
+          "線",
+          "種"
+        ]
+      },
+      "word": "線種"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d18ab5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những tiền đồng nông nghiệp"
+        }
+      ],
+      "mobileId": 146532,
+      "phonetic": "さいばいしゅ",
+      "related_words": {
+        "word": [
+          "種",
+          "栽培",
+          "栽"
+        ]
+      },
+      "word": "栽培種"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd15571",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "được giới thiệu (không có nguồn gốc) loài, loài xâm lấn."
+        }
+      ],
+      "mobileId": 221892,
+      "opposite_word": [
+        "在来種"
+      ],
+      "phonetic": "がいらいしゅ",
+      "word": "外来種"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92160c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soup ingredients (esp. seafood, tofu, egg)"
+        }
+      ],
+      "mobileId": 257346,
+      "phonetic": "わんだね",
+      "word": "椀種"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

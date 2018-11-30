@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d47d7ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kingdom"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "erathem (rock layer corresponding to the era in which it was deposited)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "partition of land"
+        },
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "the world of (some category)"
+        }
+      ],
+      "mobileId": 217386,
+      "phonetic": "かい",
+      "word": "界"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80272e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giới giáo dục"
+        }
+      ],
+      "mobileId": 33564,
+      "phonetic": "きょういくかい",
+      "word": "教育界"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83f4d75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đắp bờ thế giới"
+        }
+      ],
+      "mobileId": 35522,
+      "phonetic": "ぎんこうかい",
+      "word": "銀行界"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a10ead",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thế giới hiện tượng"
+        }
+      ],
+      "mobileId": 38655,
+      "phonetic": "げんしょうかい",
+      "word": "現象界"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952a37d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thần thánh ở mặt đất; thuần khiết hạ cánh"
+        }
+      ],
+      "mobileId": 57441,
+      "phonetic": "きよしかい",
+      "word": "浄界"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107c224f4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "工業界の第一人者",
+              "mean": "người số một trong giới công nghiệp",
+              "transcription": "こうぎょうかいのだいいちにんしゃ"
+            },
+            {
+              "content": "工業界の元老",
+              "mean": "người lâu năm (cây đa cây đề) trong giới công nghiệp",
+              "transcription": "こうぎょうかいのげんろう"
+            },
+            {
+              "content": "工業界の大立て者",
+              "mean": "người lãnh đạo giới công nghiệp .",
+              "transcription": "こうぎょうかいのおおだてもの"
+            }
+          ],
+          "kind": "n",
+          "mean": "giới công nghiệp"
+        }
+      ],
+      "mobileId": 55114,
+      "phonetic": "こうぎょうかい",
+      "word": "工業界"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74fd5027",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "báo giới ."
+        }
+      ],
+      "mobileId": 101282,
+      "phonetic": "しんぶんかい",
+      "word": "新聞界"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74157fab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giới điêu khắc ."
+        }
+      ],
+      "mobileId": 97789,
+      "phonetic": "ちょうこくかい",
+      "related_words": {
+        "word": [
+          "彫刻",
+          "刻"
+        ]
+      },
+      "word": "彫刻界"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e39e2e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ranh giới; địa giới"
+        }
+      ],
+      "mobileId": 112881,
+      "phonetic": "ちかい",
+      "word": "地界"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c65797",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sumo world, sumo wrestling community"
+        }
+      ],
+      "mobileId": 279092,
+      "phonetic": "すもうかい",
+      "word": "相撲界"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

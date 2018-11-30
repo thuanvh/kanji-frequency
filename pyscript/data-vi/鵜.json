@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdae4d0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim cốc, người tham lam"
+        }
+      ],
+      "mobileId": 15330,
+      "phonetic": "う",
+      "related_words": {
+        "word": [
+          "鵜呑み"
+        ]
+      },
+      "word": "鵜"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09aba92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "short-winged cormorant"
+        }
+      ],
+      "mobileId": 211818,
+      "phonetic": "こばねう",
+      "word": "小羽鵜"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af030b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese cormorant (Phalacrocorax capillatus), Temminck's cormorant"
+        }
+      ],
+      "mobileId": 231121,
+      "phonetic": "うみう ウミウ",
+      "word": "海鵜"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af03e9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "great cormorant (Phalacrocorax carbo)"
+        }
+      ],
+      "mobileId": 231122,
+      "phonetic": "かわう カワウ",
+      "word": "川鵜"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93604b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pelagic cormorant (Phalacrocorax pelagicus)"
+        }
+      ],
+      "mobileId": 274490,
+      "phonetic": "ひめう ヒメウ",
+      "word": "姫鵜"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef935fef7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "European shag (Phalacrocorax aristotelis), common shag, shag"
+        }
+      ],
+      "mobileId": 274489,
+      "phonetic": "ヨーロッパひめう ヨーロッパヒメウ",
+      "word": "ヨーロッパ姫鵜"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1e7f33",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "monarch birch (Betula maximowicziana), Japanese birch"
+        }
+      ],
+      "mobileId": 216083,
+      "phonetic": "うだいかんば ウダイカンバ",
+      "word": "鵜松明樺"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be1c42ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim cốc không bay được; chim cốc galapagos"
+        }
+      ],
+      "mobileId": 90185,
+      "phonetic": "ガラパゴスおばう",
+      "word": "ガラパゴス小羽鵜"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d1039c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red-faced cormorant (Phalacrocorax urile), red-faced shag, violet shag"
+        }
+      ],
+      "mobileId": 279443,
+      "phonetic": "ちしまうがらす チシマウガラス",
+      "word": "千島鵜烏"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

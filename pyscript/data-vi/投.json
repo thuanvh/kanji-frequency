@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0501dbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pitching ability"
+        },
+        {
+          "examples": null,
+          "kind": "suf, ctr",
+          "mean": "counter for pitches"
+        }
+      ],
+      "mobileId": 209425,
+      "phonetic": "とう",
+      "word": "投"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7498e1f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kỹ thuật ném; đòn ném (sumô , judo) ."
+        }
+      ],
+      "mobileId": 99711,
+      "phonetic": "なげわざ",
+      "word": "投技"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a99993df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "interjection"
+        }
+      ],
+      "mobileId": 261196,
+      "phonetic": "かんとう",
+      "word": "間投"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193368f47",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "Ném bóng tốt."
+        }
+      ],
+      "mobileId": 19667,
+      "phonetic": "かいとう",
+      "word": "快投"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a2d027",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khởi động đá lát đường"
+        }
+      ],
+      "mobileId": 61288,
+      "phonetic": "せんとう",
+      "related_words": {
+        "word": [
+          "先"
+        ]
+      },
+      "word": "先投"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7783f37b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "striped jewfish (Stereolepis doederleini)"
+        }
+      ],
+      "mobileId": 268734,
+      "phonetic": "いしなぎ イシナギ",
+      "word": "石投"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e997621",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những đá lát đường bay"
+        }
+      ],
+      "mobileId": 115936,
+      "phonetic": "とうひ",
+      "word": "投飛"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c30a5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "dropping a bomb, bomb drop"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slingstone"
+        }
+      ],
+      "mobileId": 262516,
+      "phonetic": "とうだん",
+      "word": "投弾"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd31cc87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cú ném may rủi trong dã cầu"
+        }
+      ],
+      "mobileId": 11384,
+      "phonetic": "あくとう",
+      "word": "悪投"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8908088",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ném tốt"
+        }
+      ],
+      "mobileId": 38118,
+      "phonetic": "けんとう",
+      "related_words": {
+        "word": [
+          "健"
+        ]
+      },
+      "word": "健投"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

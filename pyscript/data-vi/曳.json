@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd5a5b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kéo lên; kéo"
+        }
+      ],
+      "mobileId": 16530,
+      "phonetic": "",
+      "word": "曳曳"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683efa43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người kéo xe; phu xe"
+        }
+      ],
+      "mobileId": 2043,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "子"
+        ]
+      },
+      "word": "曳子"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd5a3f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kéo lên; kéo"
+        }
+      ],
+      "mobileId": 16529,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "々"
+        ]
+      },
+      "word": "曳々"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd60aad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viên đạn người truy nguyên"
+        }
+      ],
+      "mobileId": 16545,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "火",
+          "弾"
+        ]
+      },
+      "word": "曳火弾"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

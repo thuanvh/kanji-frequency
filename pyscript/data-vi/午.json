@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada67691c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "午後3時30分から6時30分のテレビ放送帯",
+              "mean": "chương trình truyền hình dài sáu tiếng rưỡi bắt đầu từ ba giờ rưỡi chiều.",
+              "transcription": "ごご3じ30ふんから6じ30ぶんのテレビほうそうたい"
+            },
+            {
+              "content": "使用者は女子労働者に午後10時から午前5時までの深夜労働をさせてはならない",
+              "mean": "Người sử dụng lao động không được phép bắt lao động nữ làm việc khuya từ mười giờ đêm đến năm giờ sáng",
+              "transcription": "しようしゃはじょしろうどうしゃにごご10じからごぜん5じまでのしんやろうどうをさせてはならない"
+            }
+          ],
+          "kind": "n",
+          "mean": "Ngọ (chi)"
+        }
+      ],
+      "mobileId": 78687,
+      "phonetic": "うま",
+      "word": "午"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada67d833",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "私は午年ですよ",
+              "mean": "tôi tuổi ngựa (sinh năm ngựa) .",
+              "transcription": "わたしはうまねんですよ"
+            }
+          ],
+          "kind": "n",
+          "mean": "năm Ngọ; tuổi ngựa"
+        }
+      ],
+      "mobileId": 78693,
+      "phonetic": "うまどし",
+      "related_words": {
+        "word": [
+          "年"
+        ]
+      },
+      "word": "午年"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d6f3f2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Buổi trưa ."
+        }
+      ],
+      "mobileId": 143323,
+      "phonetic": "ていご",
+      "synsets": [
+        {
+          "base_form": "亭午",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "真昼",
+                "午刻",
+                "昼",
+                "正午"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "亭午"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b9745a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nineteenth of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 262208,
+      "phonetic": "みずのえうま じんご",
+      "word": "壬午"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9deeeed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lunch"
+        }
+      ],
+      "mobileId": 263394,
+      "phonetic": "ごはん",
+      "word": "午飯"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68625c59",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sau buổi trưa; quá trưa"
+        }
+      ],
+      "mobileId": 3146,
+      "phonetic": "うますぎ",
+      "related_words": {
+        "word": [
+          "過ぎ"
+        ]
+      },
+      "word": "午過ぎ"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d03e100",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trưa, buổi trưa"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sau này, về sau, sau đấy, rồi thì"
+        }
+      ],
+      "mobileId": 145872,
+      "phonetic": "うまこく",
+      "related_words": {
+        "word": [
+          "刻"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "午刻",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "真昼",
+                "昼",
+                "正午",
+                "亭午"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "午刻"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bab7b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "55th of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 262244,
+      "phonetic": "つちのえうま ぼご",
+      "word": "戊午"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e484601",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Năm bính ngọ (năm tính theo âm lịch)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ひのえうま",
+      "word": "午丙"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b91291",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "31st of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 262193,
+      "phonetic": "きのえうま こうご",
+      "word": "甲午"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

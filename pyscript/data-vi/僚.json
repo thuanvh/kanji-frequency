@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cdca4db3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "viên chức; đồng nghiệp"
+        }
+      ],
+      "mobileId": 75261,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "同僚",
+          "官僚",
+          "閣僚",
+          "官僚主義",
+          "僚友"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "僚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "伴",
+                "同侶",
+                "交友",
+                "侶",
+                "コンパニオン",
+                "仲間",
+                "連れ",
+                "相手",
+                "傍輩",
+                "同士",
+                "供人",
+                "伴侶",
+                "侶伴",
+                "同伴者",
+                "お供"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "僚"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77905ecb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "public servant, government official"
+        }
+      ],
+      "mobileId": 269144,
+      "phonetic": "りりょう",
+      "word": "吏僚"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68343619",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thấp - xếp hạng viên chức"
+        }
+      ],
+      "mobileId": 1697,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "末",
+          "僚"
+        ]
+      },
+      "word": "末僚"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdcb7df4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đội bay phe ta"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cool air"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fishing season"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "seeking the bizarre"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(a) measure for volume"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hunting season"
+        }
+      ],
+      "mobileId": 75293,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "機",
+          "僚"
+        ]
+      },
+      "word": "僚機"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

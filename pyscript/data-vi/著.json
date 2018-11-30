@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e469f46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngược cho những yêu cầu (của) quần áo; đến ở (tại).."
+        }
+      ],
+      "mobileId": 113292,
+      "phonetic": "ちょ",
+      "related_words": {
+        "word": [
+          "著作権",
+          "著者",
+          "顕著",
+          "著しい",
+          "著作",
+          "著書",
+          "著名",
+          "著しく",
+          "原著",
+          "著名な"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "著",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "巻",
+                "書籍",
+                "書物",
+                "図書",
+                "本",
+                "書誌",
+                "教科書",
+                "著書",
+                "ブック",
+                "著作",
+                "単行本"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "資料",
+                "書物",
+                "文章",
+                "文書",
+                "著作",
+                "著述"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "作業",
+                "作",
+                "書籍",
+                "力作",
+                "本",
+                "作品",
+                "芝居",
+                "著書",
+                "労作",
+                "創作",
+                "著作",
+                "制作"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "著"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9643e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(cái) đính kèm; sự gắn chặt vào; tính ngoan cường"
+        }
+      ],
+      "mobileId": 150491,
+      "phonetic": "としる",
+      "related_words": {
+        "word": [
+          "著"
+        ]
+      },
+      "word": "執著"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d66f570",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fringed iris (Iris japonica), Japanese iris"
+        }
+      ],
+      "mobileId": 218408,
+      "phonetic": "しゃが シャガ",
+      "word": "著莪"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90f01c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small book"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "my book"
+        }
+      ],
+      "mobileId": 273246,
+      "phonetic": "しょうちょ",
+      "word": "小著"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c772996eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "good book"
+        }
+      ],
+      "mobileId": 265808,
+      "phonetic": "こうちょ",
+      "word": "好著"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c02e50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "writings on many different topics"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "book that cannot be classified in any category"
+        }
+      ],
+      "mobileId": 262420,
+      "phonetic": "ざっちょ",
+      "word": "雑著"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027980cb2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "本名（で著わした本）",
+              "mean": "sách viết đề tên thật (không phải bút danh) .",
+              "transcription": "ほんみょう（でしるわしたほん）"
+            }
+          ],
+          "kind": "v5s",
+          "mean": "viết; xuất bản"
+        }
+      ],
+      "mobileId": 31741,
+      "phonetic": "あらわす",
+      "word": "著わす"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280279868e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "Sự rõ ràng; sự sáng sủa ."
+        }
+      ],
+      "mobileId": 31753,
+      "phonetic": "ちょめい",
+      "word": "著明"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c879b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồng tác giả"
+        }
+      ],
+      "mobileId": 24265,
+      "phonetic": "ごうちょ",
+      "related_words": {
+        "word": [
+          "著"
+        ]
+      },
+      "word": "合著"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b60489",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trong cùng chương này.; sự công bố nêu trên"
+        }
+      ],
+      "mobileId": 61887,
+      "phonetic": "ぜん ちょ",
+      "word": "前著"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

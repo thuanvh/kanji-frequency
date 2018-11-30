@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aaf0b47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "calf (of the leg)"
+        }
+      ],
+      "mobileId": 228996,
+      "phonetic": "こむら こぶら",
+      "word": "腓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fe5a1e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "calf muscle"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "sural"
+        }
+      ],
+      "mobileId": 272708,
+      "phonetic": "ひふく",
+      "word": "腓腹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b508e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sural nerve, short saphenous nerve, nervus suralis"
+        }
+      ],
+      "mobileId": 278504,
+      "phonetic": "ひふくしんけい",
+      "word": "腓腹神経"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

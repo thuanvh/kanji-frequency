@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68af00d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những núi xanh lục"
+        }
+      ],
+      "mobileId": 5571,
+      "phonetic": "へきやま",
+      "related_words": {
+        "word": [
+          "山"
+        ]
+      },
+      "word": "碧山"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2cc435",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xanh da trời; xanh lục\r\ncòn xanh; thiếu kinh nghiệm"
+        }
+      ],
+      "mobileId": 11222,
+      "phonetic": "へきい",
+      "word": "碧い"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e21c898",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xanh đỏ"
+        }
+      ],
+      "mobileId": 112107,
+      "phonetic": "たんあおい",
+      "related_words": {
+        "word": [
+          "丹"
+        ]
+      },
+      "word": "丹碧"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d650081",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "green, emerald"
+        }
+      ],
+      "mobileId": 218346,
+      "phonetic": "へきしょく",
+      "word": "碧色"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

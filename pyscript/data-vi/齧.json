@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e63c742",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rodent"
+        }
+      ],
+      "mobileId": 251256,
+      "phonetic": "げっし",
+      "word": "齧歯"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e899bcb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "bộ gặm nhấm, làm mòn mỏi, loài gặm nhấm"
+        }
+      ],
+      "mobileId": 38421,
+      "phonetic": "かじはるい",
+      "related_words": {
+        "word": [
+          "歯",
+          "類"
+        ]
+      },
+      "word": "齧歯類"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e638df1",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "gặm nhấm động vật"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "loài gặm nhấm"
+        }
+      ],
+      "mobileId": 251247,
+      "phonetic": "げっしどうぶつ",
+      "word": "齧歯動物"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8999a0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giống như chuột; rhodential"
+        }
+      ],
+      "mobileId": 38416,
+      "phonetic": "かじはめ",
+      "word": "齧歯目"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

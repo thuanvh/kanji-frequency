@@ -1,0 +1,302 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adac718a0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "君からメールもらうの好きだな。メールもらうとすごくうれしいです",
+              "mean": "Tôi rất thích nhận được thư của em. Nhận được thư em, bao giờ anh cũng rất vui.",
+              "transcription": "きみからメールもらうのすきだな。メールもらうとすごくうれしいです"
+            },
+            {
+              "content": "君からメールもらうと、一日中ご機嫌なんだ",
+              "mean": "Khi nhận được thư của em, tôi đã sung sướng suốt cả ngày",
+              "transcription": "きみからメールもらうと、いちにちちゅうごきげんなんだ"
+            },
+            {
+              "content": "その間、ここに残って君からの電話を待つことにしよう",
+              "mean": "Trong khoảng thời gian đó, tôi sẽ ở đây và chờ điện thoại của em",
+              "transcription": "そのかん、ここにのこってきみからのでんわをまつことにしよう"
+            },
+            {
+              "content": "ジム君、お誕生日おめでとう！",
+              "mean": "Chúc mừng sinh nhật em, Jim!",
+              "transcription": "ジムくん、おたんじょうびおめでとう！"
+            },
+            {
+              "content": "君、いくつなの？！僕の妹にはなれるかもしれないけど...",
+              "mean": "Em bao nhiêu tuổi rồi? Anh nghĩ em có thể trở thành em của anh ấy nhỉ",
+              "transcription": "きみ、いくつなの？ ！ぼくのいもうとにはなれるかもしれないけど..."
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "pn",
+          "mean": "bạn"
+        }
+      ],
+      "mobileId": 80121,
+      "opposite_word": [
+        "僕",
+        "臣"
+      ],
+      "phonetic": "きみ",
+      "related_words": {
+        "word": [
+          "君の",
+          "暴君",
+          "君主",
+          "姫君",
+          "君達",
+          "主君",
+          "君子",
+          "君臨"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "君",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "殿様",
+                "主",
+                "主人",
+                "君主",
+                "雇い主",
+                "主君",
+                "殿",
+                "マスター"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "帝王",
+                "人君",
+                "君主"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "君"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adac73aa3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "君、ずいぶん疲れているよ。休みを取らないと",
+              "mean": "Em mệt mỏi lắm rồi phải không. Em nên nghỉ đi",
+              "transcription": "きみ、ずいぶんつかれているよ。やすみをとらないと"
+            },
+            {
+              "content": "君、ずいぶん疲れているよ。休みを取らないと",
+              "mean": "Em mệt mỏi lắm rồi phải không. Em nên nghỉ đi",
+              "transcription": "きみ、ずいぶんつかれているよ。やすみをとらないと"
+            },
+            {
+              "content": "君、いくつなの？！僕の妹にはなれるかもしれないけど",
+              "mean": "bạn mấy tuổi nhỉ? Giống như em gái tớ ấy nhỉ.",
+              "transcription": "きみ、いくつなの？ ！ぼくのいもうとにはなれるかもしれないけど"
+            },
+            {
+              "content": "君、あまり努力していないようだね",
+              "mean": "mày làm việc không chăm chỉ lắm đâu nhé .",
+              "transcription": "きみ、あまりどりょくしていないようだね"
+            }
+          ],
+          "kind": "suf",
+          "mean": "cậu; bạn; mày"
+        }
+      ],
+      "mobileId": 80122,
+      "opposite_word": [
+        "僕",
+        "臣"
+      ],
+      "phonetic": "くん",
+      "related_words": {
+        "word": [
+          "君の",
+          "暴君",
+          "君主",
+          "姫君",
+          "君達",
+          "主君",
+          "君子",
+          "君臨"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "君",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "殿様",
+                "主",
+                "主人",
+                "君主",
+                "雇い主",
+                "主君",
+                "殿",
+                "マスター"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "帝王",
+                "人君",
+                "君主"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "君"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681b5ce6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(sự tham khảo lịch sự tới một có sở hữu) sinh thành"
+        }
+      ],
+      "mobileId": 872,
+      "phonetic": "ははくん",
+      "word": "母君"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa8ca40",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "man only used to receive meals from, man who always pays for food"
+        }
+      ],
+      "mobileId": 228797,
+      "phonetic": "メシくん",
+      "word": "メシ君"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953f326a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái thước đo nhân từ"
+        }
+      ],
+      "mobileId": 58101,
+      "opposite_word": [
+        "暴君"
+      ],
+      "phonetic": "ひとしくん",
+      "related_words": {
+        "word": [
+          "君",
+          "仁"
+        ]
+      },
+      "word": "仁君"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cded1d20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(hiếm có) lãnh chúa trẻ; quý tộc trẻ tuổi"
+        }
+      ],
+      "mobileId": 76319,
+      "phonetic": "ろうくん",
+      "word": "郎君"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e34facc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thần thoại chìm (của) korea"
+        }
+      ],
+      "mobileId": 112720,
+      "phonetic": "だんくん",
+      "word": "檀君"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e6bb041",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gái giang hồ, gái điếm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "to prostitute oneself làm đĩ, mãi dâm, bán rẻ (danh dự, tên tuổi, tài năng...)"
+        }
+      ],
+      "mobileId": 114474,
+      "phonetic": "つじくん",
+      "word": "辻君"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd968a3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái thước đo ngu ngốc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "young lord or master"
+        }
+      ],
+      "mobileId": 73591,
+      "phonetic": "いさおくん",
+      "word": "庸君"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dd2fec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "someone else's daughter"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "one's wife"
+        }
+      ],
+      "mobileId": 263342,
+      "phonetic": "めぎみ",
+      "word": "女君"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

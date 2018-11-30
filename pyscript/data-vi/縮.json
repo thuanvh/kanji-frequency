@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e2ea181",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wearing armour (armor)"
+        },
+        {
+          "examples": null,
+          "kind": "suf, ctr",
+          "mean": "counter for suits of armour"
+        }
+      ],
+      "mobileId": 249531,
+      "opposite_word": [
+        "伸"
+      ],
+      "phonetic": "しゅく",
+      "word": "縮"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2eaad2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "one suit of armour (armor)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "wearing armour"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "armoured warrior"
+        }
+      ],
+      "mobileId": 249532,
+      "phonetic": "いっしゅく",
+      "word": "一縮"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef990a6cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frizzled hair, curly hair"
+        }
+      ],
+      "mobileId": 277351,
+      "phonetic": "しゅくもう",
+      "word": "縮毛"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da1c9fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự làm giảm bớt (math)"
+        }
+      ],
+      "mobileId": 150862,
+      "phonetic": "しゅく やく",
+      "related_words": {
+        "word": [
+          "約"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "縮約",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "抄本"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "緊縮",
+                "圧縮",
+                "圧搾",
+                "萎縮",
+                "凝縮",
+                "コントラクション",
+                "委縮",
+                "圧迫性",
+                "収縮",
+                "収斂"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "緊縮",
+                "萎縮",
+                "コントラクション",
+                "委縮",
+                "短縮",
+                "収縮",
+                "収斂"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "縮約"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca089a80b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reducing dependence on nuclear energy"
+        }
+      ],
+      "mobileId": 285341,
+      "phonetic": "しゅくげんぱつ",
+      "word": "縮原発"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd89bfc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "regression (of cancer), involution (of an organ), atrophy"
+        }
+      ],
+      "mobileId": 222117,
+      "phonetic": "たいしゅく",
+      "word": "退縮"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e3dd281",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "スケッチが拡縮できる。",
+              "mean": "bản vẽ co giãn được.",
+              "transcription": "スケッチがかくしゅくできる。"
+            }
+          ],
+          "kind": "",
+          "mean": "co giãn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "かくしゅく",
+      "word": "拡縮"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dcabbbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "spasm"
+        }
+      ],
+      "mobileId": 221685,
+      "phonetic": "れんしゅく",
+      "word": "攣縮"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80906a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "bệnh uốn ván"
+        }
+      ],
+      "mobileId": 33784,
+      "phonetic": "つよちぢみ",
+      "word": "強縮"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca087d7d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "degeneracy"
+        }
+      ],
+      "mobileId": 285284,
+      "phonetic": "しゅくじゅう",
+      "word": "縮重"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

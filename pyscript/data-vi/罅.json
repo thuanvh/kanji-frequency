@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027382a73",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "罅焼き陶器",
+              "mean": "Đồ sứ men rạn",
+              "transcription": "ひびやきとうき"
+            },
+            {
+              "content": "その事件で 2 国間の協力関係にひびが入った.",
+              "mean": "Về vấn đề này thì đã có vết rạn nứt trong mối quan hệ giữa 2 nước .",
+              "transcription": "そのじけんで2こくかんのきょうりょくかんけいにひびがはいった."
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "vết nứt; nứt; vết nứt nẻ; vết rạn nứt"
+        }
+      ],
+      "mobileId": 30017,
+      "phonetic": "ひび",
+      "word": "罅"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280273836fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sứ men rạn ."
+        }
+      ],
+      "mobileId": 30019,
+      "phonetic": "ひびやき",
+      "related_words": {
+        "word": [
+          "焼き"
+        ]
+      },
+      "word": "罅焼き"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c8584f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crack, slit, crevasse, crevice"
+        }
+      ],
+      "mobileId": 262694,
+      "phonetic": "こげき",
+      "word": "罅隙"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680da4fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nổ mở; để bật ra; tới chia ra"
+        }
+      ],
+      "mobileId": 448,
+      "phonetic": "ひびぜる",
+      "synsets": [
+        {
+          "base_form": "罅ぜる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "張り裂ける",
+                "爆ぜる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "罅ぜる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

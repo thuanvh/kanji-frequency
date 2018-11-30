@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9574841",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bubbling spring, gushing spring, fountain"
+        }
+      ],
+      "mobileId": 259096,
+      "phonetic": "ゆうせん",
+      "word": "湧泉"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd845fbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(hiếm có) phun ra (của) nước"
+        }
+      ],
+      "mobileId": 72993,
+      "phonetic": "ゆうすい",
+      "related_words": {
+        "word": [
+          "水"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "湧水",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "清水"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "湧水"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

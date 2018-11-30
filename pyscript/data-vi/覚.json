@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aac3d55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Satori, folklore monster that can read minds"
+        }
+      ],
+      "mobileId": 228901,
+      "phonetic": "さとり サトリ",
+      "word": "覚"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934d374a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đức Phật [Đấng Giác ngộ]; người đã giác ngộ; người giác ngộ người khác"
+        }
+      ],
+      "mobileId": 20377,
+      "phonetic": "さとししゃ",
+      "related_words": {
+        "word": [
+          "者"
+        ]
+      },
+      "word": "覚者"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7744ac85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "awakening, waking up, opening one's eyes"
+        }
+      ],
+      "mobileId": 266676,
+      "phonetic": "せいかく",
+      "word": "醒覚"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19320425b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảm giác về sức nóng"
+        }
+      ],
+      "mobileId": 18961,
+      "phonetic": "ぬるさとし",
+      "word": "温覚"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdcaf0b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hiểu biết"
+        }
+      ],
+      "mobileId": 75276,
+      "phonetic": "りょうさとし",
+      "related_words": {
+        "word": [
+          "了"
+        ]
+      },
+      "word": "了覚"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778e0ee6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kinesthesia, kinaesthesia, sense of movement"
+        }
+      ],
+      "mobileId": 269065,
+      "phonetic": "うんどうかく",
+      "word": "運動覚"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931468fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bản ghi nhớ"
+        }
+      ],
+      "mobileId": 18573,
+      "phonetic": "さとしがき",
+      "word": "覚書き"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7de4fbc9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "光覚受容体部分",
+              "mean": "photoreceptive portion",
+              "transcription": "ひかりさとしじゅようたいぶぶん"
+            }
+          ],
+          "kind": "n",
+          "mean": "cảm giác về ánh sáng"
+        }
+      ],
+      "mobileId": 145320,
+      "phonetic": "こうかく",
+      "word": "光覚"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3c11e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảm giác khi da hoặc một bộ phận của cơ thể bị kéo căng,ấn ép"
+        }
+      ],
+      "mobileId": 11716,
+      "phonetic": "",
+      "word": "圧覚"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0678224",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "muscle sense"
+        }
+      ],
+      "mobileId": 284275,
+      "phonetic": "きんかく",
+      "word": "筋覚"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,232 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1070bc545",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "馬に垣を飛び越えさせる",
+              "mean": "làm cho con ngựa nhảy vượt qua hàng rào",
+              "transcription": "うまにかきをとびこえさせる"
+            },
+            {
+              "content": "垣を壊す",
+              "mean": "phá hủy hàng rào",
+              "transcription": "かきをこわす"
+            }
+          ],
+          "kind": "n",
+          "mean": "hàng rào"
+        }
+      ],
+      "mobileId": 52074,
+      "phonetic": "かき",
+      "related_words": {
+        "word": [
+          "石垣",
+          "垣根",
+          "生垣",
+          "垣間見る"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "垣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "壁",
+                "塀",
+                "隔壁",
+                "障壁",
+                "垣根"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "生け垣",
+                "生垣",
+                "斎垣",
+                "垣根"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "フェンス",
+                "塀",
+                "囲い",
+                "柵",
+                "斎垣",
+                "垣根"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "垣"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95545c5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng rào cây tuyết tùng"
+        }
+      ],
+      "mobileId": 58781,
+      "phonetic": "すぎかき",
+      "word": "杉垣"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771960b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "branch-twined hedge around a field to keep out wild boars and deer"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "abatis"
+        }
+      ],
+      "mobileId": 265282,
+      "phonetic": "ししがき",
+      "word": "鹿垣"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9786ad5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chink (e.g. in fence), gap (e.g. in hedge)"
+        }
+      ],
+      "mobileId": 276581,
+      "phonetic": "かいま",
+      "word": "垣間"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bd47490",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wicker fence"
+        }
+      ],
+      "mobileId": 246616,
+      "phonetic": "あじろがき",
+      "word": "網代垣"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde9dac5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rào đón; tránh né"
+        }
+      ],
+      "mobileId": 17176,
+      "phonetic": "",
+      "word": "垣牆"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00d7216",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "springtime repairing of fences after winter damage"
+        }
+      ],
+      "mobileId": 281393,
+      "phonetic": "かきつくろう",
+      "word": "垣繕う"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c45e8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bamboo fence that resembles a fishing net"
+        }
+      ],
+      "mobileId": 262558,
+      "phonetic": "あぼしがき",
+      "word": "網干垣"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd968a03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng rào gai"
+        }
+      ],
+      "mobileId": 14570,
+      "phonetic": "いばらかき",
+      "word": "茨垣"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd619133",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tránh né xung quanh một miếu thờ"
+        }
+      ],
+      "mobileId": 12907,
+      "phonetic": "ときかき",
+      "related_words": {
+        "word": [
+          "斎",
+          "垣"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "斎垣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "生け垣",
+                "垣",
+                "生垣",
+                "垣根"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "フェンス",
+                "塀",
+                "囲い",
+                "柵",
+                "垣",
+                "垣根"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "斎垣"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

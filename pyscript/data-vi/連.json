@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa776bf29",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "記者連",
+              "mean": "Hội phóng viên .",
+              "transcription": "きしゃれん"
+            }
+          ],
+          "kind": "n",
+          "mean": "nhóm; xê ri"
+        }
+      ],
+      "mobileId": 108716,
+      "phonetic": "れん",
+      "related_words": {
+        "word": [
+          "連結",
+          "連絡先",
+          "関連",
+          "連絡",
+          "連携",
+          "連続",
+          "連番",
+          "関連会社",
+          "連動",
+          "国連"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "連",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一党",
+                "連中",
+                "輩",
+                "仲間",
+                "徒党",
+                "一味",
+                "群れ",
+                "グループ",
+                "徒"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "連"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb23b85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một có những người theo hoặc những người ăn nhờ"
+        }
+      ],
+      "mobileId": 116743,
+      "phonetic": "とりまきれん",
+      "word": "取り巻き連"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77be649e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "commissura, commissurae, commissure"
+        },
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "commissural"
+        }
+      ],
+      "mobileId": 270621,
+      "phonetic": "こうれん",
+      "word": "交連"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22252c41",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "10連勤",
+              "mean": "Làm việc 10 ngày liên tiếp",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Làm việc liên tục nhiều ngày không nghỉ 連続出勤"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "連勤"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5c7e8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(taxonomical) subtribe"
+        }
+      ],
+      "mobileId": 226366,
+      "phonetic": "あれん",
+      "word": "亜連"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08f22f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common soldier"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rank and file (of a political party)"
+        }
+      ],
+      "mobileId": 285519,
+      "phonetic": "じんがされん",
+      "word": "陣笠連"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c052c709",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "repeated events (meetings, drinking sessions, etc.), series of events, streak"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "extended game, successive games"
+        }
+      ],
+      "mobileId": 209507,
+      "phonetic": "れんチャン れんちゃん レンチャン",
+      "word": "連チャン"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c772320af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "commerce and industry association"
+        }
+      ],
+      "mobileId": 265596,
+      "phonetic": "しょうれん",
+      "word": "商連"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9249a95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liaison"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trill"
+        }
+      ],
+      "mobileId": 257444,
+      "phonetic": "れんおん",
+      "word": "連音"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a98a8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bracket win (in horse-racing), bracket quinella"
+        }
+      ],
+      "mobileId": 286368,
+      "phonetic": "わくれん",
+      "word": "枠連"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

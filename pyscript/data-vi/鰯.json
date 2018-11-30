@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801457ed6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鰯のみりん干し",
+              "mean": "cá mòi sấy khô",
+              "transcription": "いわしのみりんほし"
+            },
+            {
+              "content": "鰯油",
+              "mean": "Dầu cá mòi .",
+              "transcription": "いわしゆ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cá mòi"
+        }
+      ],
+      "mobileId": 42936,
+      "phonetic": "いわし",
+      "synsets": [
+        {
+          "base_form": "鰯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "サーディン",
+                "鰮"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鰯"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9063044",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dried, smoked pilchard, shavings from dried, smoked pilchard"
+        }
+      ],
+      "mobileId": 272962,
+      "phonetic": "いわしぶし",
+      "word": "鰯節"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9401fc9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fish cake (made from sardines, used as a fertilizer), sardine meal"
+        }
+      ],
+      "mobileId": 274813,
+      "phonetic": "いわしかす",
+      "word": "鰯滓"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c66444",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sei whale (Balaenoptera borealis)"
+        }
+      ],
+      "mobileId": 213244,
+      "phonetic": "いわしくじら イワシクジラ",
+      "word": "鰯鯨"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a908747e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hawaiian ladyfish (Elops hawaiensis)"
+        }
+      ],
+      "mobileId": 256589,
+      "phonetic": "からいわし カライワシ",
+      "word": "唐鰯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9087df0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bonefish (Albula vulpes), banana fish, ladyfish"
+        }
+      ],
+      "mobileId": 256590,
+      "phonetic": "そといわし ソトイワシ",
+      "word": "外鰯"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95a5b43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clupanodonic acid"
+        }
+      ],
+      "mobileId": 275627,
+      "phonetic": "いわしさん",
+      "word": "鰯酸"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7783d2c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "attenuated spider fish (Bathypterois atricolor)"
+        }
+      ],
+      "mobileId": 268729,
+      "phonetic": "いとひきいわし イトヒキイワシ",
+      "word": "糸引鰯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a908802e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lantern fish (any fish of family Myctophidae, esp. Watase's lanternfish, Diaphus watasei)"
+        }
+      ],
+      "mobileId": 256591,
+      "phonetic": "はだかいわし ハダカイワシ",
+      "word": "裸鰯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93d2f03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pilchard oil, sardine oil"
+        }
+      ],
+      "mobileId": 258251,
+      "phonetic": "いわしゆ",
+      "word": "鰯油"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,305 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74ce61d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n, n-suf",
+          "mean": "lỗ ."
+        }
+      ],
+      "mobileId": 100523,
+      "opposite_word": [
+        "得"
+      ],
+      "phonetic": "そん",
+      "related_words": {
+        "word": [
+          "破損",
+          "損失",
+          "損害賠償",
+          "損益",
+          "損傷",
+          "損害保険",
+          "欠損",
+          "損害",
+          "損なう",
+          "損保"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "損",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "マイナス",
+                "ロス",
+                "損失",
+                "赤字",
+                "欠損"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "損"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f2ba12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự mất mát (của) vật chất (trong shogi)"
+        }
+      ],
+      "mobileId": 41284,
+      "phonetic": "こまそん",
+      "word": "駒損"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e122d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhân tố (hệ số) mất mát"
+        }
+      ],
+      "mobileId": 63298,
+      "phonetic": "そんりつ",
+      "word": "損率"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cddf1140",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự mất mát kích thích"
+        }
+      ],
+      "mobileId": 75886,
+      "phonetic": "れいじそん",
+      "word": "励磁損"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74ce8a53",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "美観を損う",
+              "mean": "làm tổn hại đến mỹ quan",
+              "transcription": "びかんをそんう"
+            },
+            {
+              "content": "この街では景観を損う建物の建築は禁止されている.",
+              "mean": "Ở thành phố này người ta cấm việc xây dựng những công trình làm ảnh hưởng đến cảnh quan.",
+              "transcription": "このまちではけいかんをそんうたてもののけんちくはきんしされている."
+            }
+          ],
+          "kind": "v5u",
+          "mean": "làm hại; làm tổn hại; làm đau; làm bị thương"
+        },
+        {
+          "examples": [
+            {
+              "content": "皆がその問題を解き損った.",
+              "mean": "Mọi người đều thất bại trong việc giải quyết vấn đề đó.",
+              "transcription": "みながそのもんだいをときそんった."
+            },
+            {
+              "content": "社会的な責任を果たしそこなう",
+              "mean": "Thất bại trong việc thực hiện nghĩa vụ xã hội.",
+              "transcription": "しゃかいてきなせきにんをはたしそこなう"
+            }
+          ],
+          "kind": "v5u",
+          "mean": "thất bại trong việc gì"
+        }
+      ],
+      "mobileId": 100524,
+      "phonetic": "そこなう",
+      "related_words": {
+        "word": [
+          "損"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "損う",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "危める",
+                "傷つける",
+                "損なう",
+                "傷付ける",
+                "害する"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "損なう",
+                "損じる",
+                "損ねる",
+                "痛める",
+                "傷める",
+                "害する"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "傷つける",
+                "損なう",
+                "傷付ける",
+                "損じる",
+                "損ねる",
+                "痛める",
+                "害する"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "傷つける",
+                "損なう",
+                "傷付ける",
+                "損じる",
+                "損ねる",
+                "害する"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "傷つける",
+                "損なう",
+                "傷付ける",
+                "損じる",
+                "害する"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "損なう"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "傷つける",
+                "損なう",
+                "傷付ける",
+                "損じる",
+                "傷める",
+                "害する"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "削ぐ",
+                "損なう",
+                "弱める"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "損なう",
+                "弱める"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "損う"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9735944",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "injury caused by a second party, damage caused by another person"
+        }
+      ],
+      "mobileId": 276411,
+      "opposite_word": [
+        "自損"
+      ],
+      "phonetic": "たそん",
+      "word": "他損"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e13efa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự mất mát hiện thời"
+        }
+      ],
+      "mobileId": 63301,
+      "phonetic": "そんりゅう",
+      "word": "損流"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a176203",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hư hại do cháy ."
+        }
+      ],
+      "mobileId": 170741,
+      "phonetic": "やけそん",
+      "word": "焼け損"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7761019b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "paper loss, appraisal loss, loss resulting from revised valuation"
+        }
+      ],
+      "mobileId": 267591,
+      "phonetic": "ひょうかそん",
+      "word": "評価損"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689c3461",
+      "means": [
+        {
+          "kind": "n",
+          "mean": "thiệt hại vật chất(i.e. như từ một sự cố)"
+        }
+      ],
+      "mobileId": 4955,
+      "phonetic": "ぶっ そん",
+      "related_words": {
+        "word": [
+          "物",
+          "損"
+        ]
+      },
+      "word": "物損"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

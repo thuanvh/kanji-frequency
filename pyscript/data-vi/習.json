@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a949bb78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gentle breeze"
+        }
+      ],
+      "mobileId": 258652,
+      "phonetic": "しゅうしゅう",
+      "word": "習習"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dbc3441",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đọc đi đọc lại"
+        }
+      ],
+      "mobileId": 151721,
+      "phonetic": "",
+      "word": "誦習"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95004515",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuần hoàn xem lại"
+        }
+      ],
+      "mobileId": 56119,
+      "phonetic": "",
+      "word": "時習"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda44cbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cũ (già) còn lại những phong tục"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "preparation for lesson"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lingering odor"
+        }
+      ],
+      "mobileId": 74044,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "余"
+        ]
+      },
+      "word": "余習"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94a4dc7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(careful, diligent, intensive) practice or exercises"
+        }
+      ],
+      "mobileId": 258671,
+      "phonetic": "せいしゅう",
+      "word": "精習"
+    },
+    {
+      "_id": "432518852de0a80625d585a982319194",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "speed learning, intensive learning"
+        }
+      ],
+      "mobileId": 233196,
+      "phonetic": "そくしゅう",
+      "word": "速習"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdee0d7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thói xấu; tật xấu; tập quán xấu"
+        }
+      ],
+      "mobileId": 76348,
+      "phonetic": "",
+      "word": "陋習"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b42ce3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "morning studies, studying before school"
+        }
+      ],
+      "mobileId": 270306,
+      "phonetic": "あさがく",
+      "word": "朝習"
+    },
+    {
+      "_id": "432518852de0a80625d585a982213cb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Shinshu-kyo (sect of Shinto)"
+        }
+      ],
+      "mobileId": 232678,
+      "phonetic": "しんしゅうきょう",
+      "word": "神習教"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

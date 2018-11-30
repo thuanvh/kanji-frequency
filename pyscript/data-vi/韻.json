@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568010f1f21",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この詩は韻を踏んでいる。",
+              "mean": "Bài thơ này có vần điệu. .",
+              "transcription": "このしはいんをふんでいる。"
+            }
+          ],
+          "kind": "n",
+          "mean": "vần điệu"
+        }
+      ],
+      "mobileId": 42009,
+      "phonetic": "いん",
+      "related_words": {
+        "word": [
+          "余韻",
+          "音韻"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "韻",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "脚韻",
+                "ライム"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "韻"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdacf086",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chung cuộc"
+        }
+      ],
+      "mobileId": 15293,
+      "phonetic": "いんはは",
+      "word": "韻母"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd99146",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trùng âm, vần ép, sự tương ứng một phần"
+        }
+      ],
+      "mobileId": 75721,
+      "phonetic": "るいいん",
+      "related_words": {
+        "word": [
+          "類",
+          "韻"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "類韻",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "半諧音"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "類韻"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d55a38c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yunwei (secondary vowel or consonant following the primary vowel of a Chinese character)"
+        }
+      ],
+      "mobileId": 217844,
+      "phonetic": "いんび",
+      "word": "韻尾"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90938fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sad (of music or words, etc)"
+        }
+      ],
+      "mobileId": 273056,
+      "phonetic": "あいいん",
+      "word": "哀韻"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90c5ba4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "Chinese poem, poem, rhyme"
+        }
+      ],
+      "mobileId": 273161,
+      "phonetic": "ほういん",
+      "word": "芳韻"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d55a8b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "qieyun (ancient Chinese dictionary arranged by rhyme, displaying characters' meanings and representing their pronunciation with fanqie)"
+        }
+      ],
+      "mobileId": 217845,
+      "phonetic": "せついん",
+      "word": "切韻"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdadff30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5m",
+          "mean": "làm cho vần"
+        }
+      ],
+      "mobileId": 15321,
+      "phonetic": "いんをふむ",
+      "word": "韻を踏む"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

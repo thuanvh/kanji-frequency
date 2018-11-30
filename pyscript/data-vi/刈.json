@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939146bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cắt; cái kẹp; sự xén; thu hoạch; lựa chiều; xén bớt"
+        }
+      ],
+      "mobileId": 22543,
+      "phonetic": "かり",
+      "word": "刈"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19391cc74",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gặt hái"
+        }
+      ],
+      "mobileId": 22557,
+      "phonetic": "かりいり",
+      "word": "刈入"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0f20f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "weeding (prior to tree-planting)"
+        }
+      ],
+      "mobileId": 248485,
+      "phonetic": "かりはらい",
+      "word": "刈払い"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19330a9e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "loại bỏ; cắt ra khỏi; bĩu môi"
+        }
+      ],
+      "mobileId": 19469,
+      "phonetic": "かりじょ",
+      "word": "刈除"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfcc727",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đánh máy (của) sự tung trong võ juđô"
+        }
+      ],
+      "mobileId": 17780,
+      "phonetic": "だいそとかり",
+      "related_words": {
+        "word": [
+          "大",
+          "外"
+        ]
+      },
+      "word": "大外刈"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0f121b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "weed whacker"
+        }
+      ],
+      "mobileId": 248484,
+      "phonetic": "かりはらいき",
+      "word": "刈払い機"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

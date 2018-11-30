@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b23ef8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pleasant smell, aroma, fragrance, scent"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pleasant-smelling vegetation"
+        }
+      ],
+      "mobileId": 270243,
+      "phonetic": "くん",
+      "word": "薫"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85f2eb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "ảnh hưởng đức tính của"
+        }
+      ],
+      "mobileId": 36553,
+      "phonetic": "かおるか",
+      "word": "薫化"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0317e86",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "burning incense without making its source obvious, pleasant smell coming from an unknown location"
+        }
+      ],
+      "mobileId": 282532,
+      "phonetic": "そらだき",
+      "word": "空薫"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda01872",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chần chừ mùi"
+        }
+      ],
+      "mobileId": 73906,
+      "phonetic": "よかおる",
+      "related_words": {
+        "word": [
+          "余"
+        ]
+      },
+      "word": "余薫"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e854b16c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thơm ngát hút thuốc"
+        }
+      ],
+      "mobileId": 36212,
+      "phonetic": "かおるけむり",
+      "word": "薫煙"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85fa73f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự hun khói, sự xông khói, sự phun khói (để tẩy uế, trừ sâu...)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự hút thuốc; hành động hút thuốc, thói quen hút thuốc"
+        }
+      ],
+      "mobileId": 36570,
+      "phonetic": "",
+      "word": "薫蒸"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c013f07f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vt",
+          "mean": "to burn (usu. incense)"
+        }
+      ],
+      "mobileId": 189784,
+      "phonetic": "たく",
+      "word": "薫く"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02906c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "to be fragrant"
+        }
+      ],
+      "mobileId": 190484,
+      "phonetic": "くんじる",
+      "word": "薫じる"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da534e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mixture of frangrant woods, etc. used for making incense"
+        }
+      ],
+      "mobileId": 220422,
+      "phonetic": "たきもの",
+      "word": "薫き物"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85fb573",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hun khói, sự xông khói, sự phun khói (để tẩy uế, trừ sâu...)"
+        }
+      ],
+      "mobileId": 36571,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "毒",
+          "消毒"
+        ]
+      },
+      "word": "薫蒸消毒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

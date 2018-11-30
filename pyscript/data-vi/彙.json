@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ccdd99",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kind, sort, type"
+        }
+      ],
+      "mobileId": 279304,
+      "phonetic": "い",
+      "word": "彙"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ae6156",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mountain mass, small mountain range, group of mountains that are not part of a large mountain range"
+        }
+      ],
+      "mobileId": 261860,
+      "phonetic": "さんい",
+      "word": "山彙"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e092dfa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "same kind or class, classification"
+        }
+      ],
+      "mobileId": 248293,
+      "phonetic": "いるい",
+      "word": "彙類"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

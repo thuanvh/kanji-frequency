@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95029e45",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chiều theo (kẻ) khác"
+        }
+      ],
+      "mobileId": 56203,
+      "phonetic": "じゆずる",
+      "word": "辞譲"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d6bd31f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sự nhượng bộ; sự thỏa hiệp; nhượng bộ; thỏa hiệp ."
+        }
+      ],
+      "mobileId": 143290,
+      "phonetic": "こうじょう",
+      "synsets": [
+        {
+          "base_form": "交譲",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "譲歩",
+                "互譲",
+                "妥協",
+                "折り合い",
+                "折衷"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "交譲"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b2225ae7f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "進路の前方に障害物がある時の避譲",
+              "mean": "Nhường đường khi trước đường có vật cản",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Nhường, Tránh"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ひじょう",
+      "word": "避譲"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952befdd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự an toàn (của) (thuế quan) những sự nhượng bộ"
+        }
+      ],
+      "mobileId": 57488,
+      "phonetic": "ゆずるもとのほしょう",
+      "word": "譲許の保障"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952bf26d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chương trình (của) (thuế quan) những sự nhượng bộ"
+        }
+      ],
+      "mobileId": 57489,
+      "phonetic": "ゆずるもとひょう",
+      "word": "譲許表"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ae3e4e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ràng buộc thuế quan"
+        }
+      ],
+      "mobileId": 23443,
+      "phonetic": "かんぜいゆずるもと",
+      "word": "関税譲許"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

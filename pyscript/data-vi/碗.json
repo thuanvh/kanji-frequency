@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69abeb18f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bát"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chén ."
+        }
+      ],
+      "mobileId": 173447,
+      "phonetic": "わん",
+      "related_words": {
+        "word": [
+          "茶碗",
+          "茶碗蒸し"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "碗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボール",
+                "丼",
+                "鉢",
+                "椀",
+                "ボウル",
+                "丼鉢"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "碗"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568012711a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bát ăn ."
+        }
+      ],
+      "mobileId": 42426,
+      "phonetic": "しょくわん",
+      "word": "食碗"
+    },
+    {
+      "_id": "332167954327f6e41c4a167bfec26004",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "お茶碗に御飯まだ残ってるじゃないの。全部食べちゃいなさい。",
+              "mean": "vẫn còn để thừa cơm trong bát đấy. Ăn hết đi.",
+              "transcription": "おちゃわんにごはんまだのこってるじゃないの。ぜんぶたべちゃいなさい。"
+            },
+            {
+              "content": "お茶碗にご飯粒残したら駄目",
+              "mean": "không được bỏ mứa cơm đâu đấy (không ăn hết để thừa lại trong bát)",
+              "transcription": "おちゃわんにごめしつぶのこしたらだめ"
+            },
+            {
+              "content": "六角碗",
+              "mean": "bát lục giác",
+              "transcription": "ろっかくわん"
+            },
+            {
+              "content": "八角碗",
+              "mean": "bát có hình bát giác (bát tám cạnh)",
+              "transcription": "はっかくわん"
+            },
+            {
+              "content": "吸い物碗",
+              "mean": "bát ăn súp",
+              "transcription": "すいものわん"
+            },
+            {
+              "content": "丸碗",
+              "mean": "bát tròn",
+              "transcription": "まるわん"
+            },
+            {
+              "content": "お碗形の窪地",
+              "mean": "Chỗ lõm xuống có hình chiếc bát .",
+              "transcription": "おわんがたのくぼち"
+            }
+          ],
+          "kind": "n",
+          "mean": "bát đựng nước tương; bát; chén (theo cách gọi của người Nam Bộ)"
+        }
+      ],
+      "mobileId": 51197,
+      "phonetic": "おわん",
+      "related_words": {
+        "word": [
+          "碗"
+        ]
+      },
+      "word": "お碗"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931ff011",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cái bát trong miso - shiru nào được phục vụ"
+        }
+      ],
+      "mobileId": 18949,
+      "phonetic": "ごわん",
+      "word": "御碗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

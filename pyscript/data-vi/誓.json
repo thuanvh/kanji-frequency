@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e83545f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự thề ẩu; lời thề ẩu, sự khai man trước toà; lời khai man trước toà, sự phản bội lời thề"
+        }
+      ],
+      "mobileId": 35201,
+      "phonetic": "にせちかい",
+      "related_words": {
+        "word": [
+          "偽"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "偽誓",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "偽証"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "偽誓"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

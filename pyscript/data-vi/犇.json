@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a35bc3b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この重大な時期に責任をひしひしと感じる",
+              "mean": "cảm thấy có trách nhiệm rõ ràng trong giờ phút trọng đại. .",
+              "transcription": "このじゅうだいなじきにせきにんをひしひしとかんじる"
+            }
+          ],
+          "kind": "adv",
+          "mean": "một cách sâu sắc; một cách rõ ràng"
+        }
+      ],
+      "mobileId": 171255,
+      "phonetic": "ひしひし",
+      "word": "犇犇"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac6961a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "tightly, firmly, fast"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sharply, keenly"
+        }
+      ],
+      "mobileId": 229760,
+      "phonetic": "ひしと",
+      "word": "犇と"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00d347c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v5k, vi",
+          "mean": "kêu la, đám đông"
+        }
+      ],
+      "mobileId": 189564,
+      "phonetic": "ひしめく",
+      "word": "犇く"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

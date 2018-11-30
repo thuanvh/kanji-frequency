@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef99b01fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "pity, compassion, sympathizing"
+        }
+      ],
+      "mobileId": 277679,
+      "phonetic": "びんりょう",
+      "word": "憫諒"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adad3fb5d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "哀憫の情",
+              "mean": "cảm giác thương xót .",
+              "transcription": "哀憫のじょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "Sự thương xót; thương xót"
+        }
+      ],
+      "mobileId": 80354,
+      "phonetic": "あいびん",
+      "synsets": [
+        {
+          "base_form": "哀憫",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "容赦",
+                "哀憐",
+                "哀愍",
+                "恩情",
+                "情け"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仁恵",
+                "慈悲",
+                "哀憐",
+                "哀愍",
+                "慈心",
+                "情け"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "同情心",
+                "哀れみ",
+                "慈悲",
+                "同情",
+                "哀愍",
+                "情",
+                "人情",
+                "恩情",
+                "思いやり",
+                "情け"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "哀れみ",
+                "慈悲",
+                "同情",
+                "不愍",
+                "哀憐",
+                "不憫",
+                "哀愍",
+                "情",
+                "情け"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "哀憫"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

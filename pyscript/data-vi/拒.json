@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e818a7cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "từ chối lời mời"
+        }
+      ],
+      "mobileId": 34284,
+      "phonetic": "",
+      "word": "拒食"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db249cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blocking communications (from a phone number or an e-mail address)"
+        }
+      ],
+      "mobileId": 220872,
+      "phonetic": "ちゃっきょ",
+      "word": "着拒"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e818b3ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chứng biếng ăn, chứng chán ăn"
+        }
+      ],
+      "mobileId": 34286,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "食",
+          "症"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "拒食症",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "アノレクシア"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "拒食症"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

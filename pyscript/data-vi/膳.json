@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ae9731",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bảng (nhỏ); cái khay; ăn"
+        }
+      ],
+      "mobileId": 61660,
+      "phonetic": "ぜん",
+      "synsets": [
+        {
+          "base_form": "膳",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "テーブル",
+                "時刻表",
+                "料理",
+                "食料",
+                "食事"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "食卓"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "膳"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193319517",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái khay (dựng thức ăn dọn lên)"
+        }
+      ],
+      "mobileId": 19498,
+      "phonetic": "かいせきぜん",
+      "related_words": {
+        "word": [
+          "会",
+          "席",
+          "膳",
+          "会席"
+        ]
+      },
+      "word": "会席膳"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0829500",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "individual dining table"
+        }
+      ],
+      "mobileId": 285111,
+      "phonetic": "めいめいぜん",
+      "word": "銘銘膳"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0383039",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clearing up leftover food and dishes"
+        }
+      ],
+      "mobileId": 282770,
+      "phonetic": "さげぜん",
+      "word": "下膳"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9890947",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "uncommon and delicious meal"
+        }
+      ],
+      "mobileId": 260672,
+      "phonetic": "ちんぜん",
+      "word": "珍膳"
+    },
+    {
+      "_id": "332167954327f6e41c4a167bfec55dc8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "お膳立をする",
+              "mean": "Làm khay bốn chân.",
+              "transcription": "おぜんりつをする"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "khay bốn chân; mâm bốn chân"
+        }
+      ],
+      "mobileId": 51231,
+      "phonetic": "おぜん",
+      "word": "お膳"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a8d879",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "placing a meal in front of one"
+        }
+      ],
+      "mobileId": 212266,
+      "phonetic": "あげぜん",
+      "word": "上げ膳"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92951d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tray of traditional Japanese food"
+        }
+      ],
+      "mobileId": 274092,
+      "phonetic": "わしょくぜん",
+      "word": "和食膳"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7a2ea7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một bát; một tô (cơm); một đôi (đũa)"
+        }
+      ],
+      "mobileId": 13673,
+      "phonetic": "いちぜん",
+      "related_words": {
+        "word": [
+          "一",
+          "膳"
+        ]
+      },
+      "word": "一膳"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6def7779",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rudely reaching over one's serving tray to grab food behind it with one's chopsticks"
+        }
+      ],
+      "mobileId": 222865,
+      "phonetic": "ぜんごし",
+      "word": "膳越し"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9d6e2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sleeping quarters, bedroom (mainly refers to one used by a married couple)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "inner room, inner sanctum"
+        }
+      ],
+      "mobileId": 228430,
+      "phonetic": "ねや",
+      "word": "閨"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774299c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bedroom entrance, bedroom"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "home, family life, household, conjugal relationship"
+        }
+      ],
+      "mobileId": 266608,
+      "phonetic": "けいもん",
+      "word": "閨門"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5cfcd6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sexual intercourse, lovemaking"
+        }
+      ],
+      "mobileId": 226379,
+      "phonetic": "ねやごと",
+      "word": "閨事"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8727c8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người phụ nữ khuê tú; người phụ nữ được giáo dục kỹ lưỡng"
+        }
+      ],
+      "mobileId": 37175,
+      "phonetic": "ねやしゅう",
+      "word": "閨秀"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7d1d4e6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "閨閥政治",
+              "mean": "Chính trị thị tộc .",
+              "transcription": "ねやばつせいじ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Thị tộc"
+        }
+      ],
+      "mobileId": 110221,
+      "phonetic": "けいばつ",
+      "related_words": {
+        "word": [
+          "閥"
+        ]
+      },
+      "word": "閨閥"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7d1bc1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Phòng ngủ ."
+        }
+      ],
+      "mobileId": 110220,
+      "phonetic": "けいぼう",
+      "word": "閨房"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bf1b48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sleeping quarters, bedroom"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "woman's living room, woman"
+        }
+      ],
+      "mobileId": 262385,
+      "phonetic": "けいこう",
+      "word": "閨閤"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771c17a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "bedroom of a forsaken woman"
+        }
+      ],
+      "mobileId": 265374,
+      "phonetic": "はんじょがねや はんじょがけい",
+      "word": "班女が閨"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8728d0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "họa sĩ phụ nữ (đã hoàn thành)"
+        }
+      ],
+      "mobileId": 37177,
+      "phonetic": "ねやしゅうがか",
+      "word": "閨秀画家"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8729048",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà văn phụ nữ"
+        }
+      ],
+      "mobileId": 37178,
+      "phonetic": "ねやしゅうさくか",
+      "word": "閨秀作家"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

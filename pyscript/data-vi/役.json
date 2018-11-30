@@ -1,0 +1,386 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f7416e4e1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "役を行う",
+              "mean": "tiến hành chiến tranh.",
+              "transcription": "やくをおこなう"
+            }
+          ],
+          "kind": "n",
+          "mean": "chiến tranh; cuộc chiến; chiến dịch"
+        }
+      ],
+      "mobileId": 97807,
+      "phonetic": "えき",
+      "related_words": {
+        "word": [
+          "役職",
+          "市役所",
+          "役に立つ",
+          "役割",
+          "役員",
+          "監査役",
+          "役所",
+          "取締役会",
+          "役立つ",
+          "主役"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "役",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "戦",
+                "軍"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "責め",
+                "義務",
+                "責務",
+                "勤め",
+                "責任",
+                "役目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "タスク",
+                "仕事",
+                "作業",
+                "課業",
+                "業務",
+                "勤め",
+                "職務",
+                "課題",
+                "任",
+                "任務",
+                "役目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仕事",
+                "職務",
+                "任",
+                "任務",
+                "役目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "役柄",
+                "職務",
+                "役割",
+                "役目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "キャスティング"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "責務",
+                "勤め",
+                "職務",
+                "役割",
+                "任",
+                "任務",
+                "役目"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "役"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7417170c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "giá trị hoặc lợi ích; tính hữu ích"
+        },
+        {
+          "examples": [
+            {
+              "content": "あの方は何の役を務めているのですか",
+              "mean": "ông kia làm việc ở đâu",
+              "transcription": "あのほうはなにのやくをつとめているのですか"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "sự phục vụ; sự làm việc"
+        },
+        {
+          "examples": [
+            {
+              "content": "一人二役を演る",
+              "mean": "một người đóng hai vai",
+              "transcription": "いちにんにやくを演る"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "vai trò; vai diễn"
+        },
+        {
+          "examples": [
+            {
+              "content": "役を退く",
+              "mean": "từ chức .",
+              "transcription": "やくをしりぞく"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "vị trí; chức vụ"
+        }
+      ],
+      "mobileId": 97808,
+      "phonetic": "やく",
+      "related_words": {
+        "word": [
+          "役職",
+          "市役所",
+          "役に立つ",
+          "役割",
+          "役員",
+          "監査役",
+          "役所",
+          "取締役会",
+          "役立つ",
+          "主役"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "役",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "戦",
+                "軍"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "責め",
+                "義務",
+                "責務",
+                "勤め",
+                "責任",
+                "役目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "タスク",
+                "仕事",
+                "作業",
+                "課業",
+                "業務",
+                "勤め",
+                "職務",
+                "課題",
+                "任",
+                "任務",
+                "役目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仕事",
+                "職務",
+                "任",
+                "任務",
+                "役目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "役柄",
+                "職務",
+                "役割",
+                "役目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "キャスティング"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "責務",
+                "勤め",
+                "職務",
+                "役割",
+                "任",
+                "任務",
+                "役目"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "役"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937f409f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiêm thêm công việc nữa"
+        }
+      ],
+      "mobileId": 21972,
+      "phonetic": "かねやく",
+      "word": "兼ね役"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938534ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những người bắt mà làm cho ấm những đá lát đường trong bullpen (bóng chày)"
+        }
+      ],
+      "mobileId": 22162,
+      "phonetic": "かべやく",
+      "word": "壁役"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938c8a76",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc làm thêm tạm thời"
+        }
+      ],
+      "mobileId": 22389,
+      "phonetic": "かやく",
+      "word": "加役"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9592b3a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người điều đình, người dàn xếp"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người quản lý, quản đốc, giám đốc; người trông nom; người nội trợ"
+        }
+      ],
+      "mobileId": 60774,
+      "phonetic": "せわやく",
+      "word": "世話役"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a9637c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cựu cái trụ; cựu kẻ chiếm đóng (của) cái trụ"
+        }
+      ],
+      "mobileId": 61498,
+      "phonetic": "さきやく",
+      "related_words": {
+        "word": [
+          "先",
+          "役"
+        ]
+      },
+      "word": "先役"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107dcfd27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vai trò của người lớn tuổi ."
+        }
+      ],
+      "mobileId": 55577,
+      "phonetic": "としよりやく",
+      "related_words": {
+        "word": [
+          "年",
+          "役",
+          "年寄り"
+        ]
+      },
+      "word": "年寄り役"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5036e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vị trí có lợi"
+        }
+      ],
+      "mobileId": 71333,
+      "phonetic": "もうけやく",
+      "related_words": {
+        "word": [
+          "役",
+          "儲け",
+          "儲"
+        ]
+      },
+      "word": "儲け役"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9313582",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "study (for a role), preparation for a part (in a play, etc.)"
+        }
+      ],
+      "mobileId": 274339,
+      "phonetic": "やくづくり",
+      "word": "役作り"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

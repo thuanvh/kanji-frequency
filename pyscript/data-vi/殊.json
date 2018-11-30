@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e83ad16f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự kiện"
+        }
+      ],
+      "mobileId": 35379,
+      "phonetic": "くだりこと",
+      "related_words": {
+        "word": [
+          "行"
+        ]
+      },
+      "word": "行殊"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da2672e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phân biệt service(s)"
+        }
+      ],
+      "mobileId": 150881,
+      "phonetic": "ことこう",
+      "word": "殊功"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f94c9be",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この冬は殊のほか寒い.",
+              "mean": "Mùa đông này lạnh một cách khác thường.",
+              "transcription": "このふゆはことのほかさむい."
+            },
+            {
+              "content": "それを聞いて彼は殊のほか喜んだ.",
+              "mean": "Khi nghe điều đó, anh ta vui mừng khác thường. .",
+              "transcription": "それをきいてかれはことのほかよろこんだ."
+            }
+          ],
+          "kind": "adv",
+          "mean": "cực kỳ; khác thường"
+        }
+      ],
+      "mobileId": 187355,
+      "phonetic": "ことのほか",
+      "related_words": {
+        "word": [
+          "の",
+          "外"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "殊の外",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "極めて",
+                "頗る",
+                "非常に",
+                "思い切り",
+                "良く",
+                "最も",
+                "とても",
+                "重々に",
+                "能く",
+                "めきめき",
+                "随分",
+                "よく",
+                "至って",
+                "中中",
+                "めっきり",
+                "極",
+                "誠に",
+                "至極",
+                "大変",
+                "大層",
+                "きわめて",
+                "善く",
+                "中々",
+                "余程",
+                "重重に",
+                "かなり",
+                "ひどく",
+                "甚く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "殊の他",
+                "殊に",
+                "人一倍",
+                "至極"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "殊の他",
+                "非常に",
+                "一方ならず",
+                "大変",
+                "一際",
+                "著しく",
+                "特に"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一向",
+                "可也",
+                "随分",
+                "丸で",
+                "とっても",
+                "可成",
+                "実際に",
+                "全く",
+                "余程",
+                "余っ程"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "殊の外"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ed6e83",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quá chừng, cực kỳ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cá biệt, khác thường"
+        }
+      ],
+      "mobileId": 41116,
+      "phonetic": "ことのほか",
+      "related_words": {
+        "word": [
+          "の"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "殊の他",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "殊の外",
+                "殊に",
+                "人一倍",
+                "至極"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "殊の外",
+                "非常に",
+                "一方ならず",
+                "大変",
+                "一際",
+                "著しく",
+                "特に"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "殊の他"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

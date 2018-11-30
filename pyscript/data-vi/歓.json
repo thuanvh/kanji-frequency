@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d566b0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "joy, enjoyment, delight, pleasure"
+        }
+      ],
+      "mobileId": 217866,
+      "opposite_word": [
+        "哀"
+      ],
+      "phonetic": "かん",
+      "word": "歓"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f5a0a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "niềm vui cũ, chuyện vui xưa"
+        }
+      ],
+      "mobileId": 25706,
+      "phonetic": "",
+      "word": "旧歓"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a497f2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv-to, adj-t",
+          "mean": "delighted, overjoyed"
+        }
+      ],
+      "mobileId": 225770,
+      "phonetic": "かんぜん",
+      "word": "歓然"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c0f7e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-pref",
+          "mean": "new members (e.g. club), new students, freshman"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "event to welcome new students, club members, etc. (e.g. welcome party)"
+        }
+      ],
+      "mobileId": 213062,
+      "phonetic": "しんかん",
+      "word": "新歓"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d9d0a93",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "great joy, jubilation, exultation"
+        }
+      ],
+      "mobileId": 220155,
+      "phonetic": "かんてんきち",
+      "word": "歓天喜地"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b9f533",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "vui vẻ tới một có nội dung những trái tim"
+        }
+      ],
+      "mobileId": 23813,
+      "phonetic": "",
+      "word": "歓を尽くす"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c0fe28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "welcome party for new students, club members, etc."
+        }
+      ],
+      "mobileId": 213063,
+      "phonetic": "しんかんコンパ",
+      "word": "新歓コンパ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

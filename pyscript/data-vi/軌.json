@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d4168778",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Xe bán tải bánh xích, xe half-track"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "はんそうきしゃ",
+      "word": "半装軌車"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95babaa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "road-rail vehicle (vehicle which can travel both on railroad tracks and normal roads)"
+        }
+      ],
+      "mobileId": 259243,
+      "phonetic": "きりくしゃ",
+      "word": "軌陸車"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

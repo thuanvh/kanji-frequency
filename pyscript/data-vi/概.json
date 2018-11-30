@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e0cd533",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "グラフの概形",
+              "mean": "Hình dạng chung của biểu đồ",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Hình dạng khái quát, hình dạng sơ lược, hình dạng đại khái, hình dạng chung chung"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "がいけい",
+      "word": "概形"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94f4999",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "summary, summarization, general remarks, abstract, epitome"
+        }
+      ],
+      "mobileId": 275275,
+      "phonetic": "がいげん",
+      "word": "概言"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193bf84c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quy tắc chung; nguyên lý chung"
+        }
+      ],
+      "mobileId": 23980,
+      "phonetic": "がいそく",
+      "word": "概則"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c05d26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "beautiful scenery, splendid landscape, magnificent view"
+        }
+      ],
+      "mobileId": 262426,
+      "phonetic": "しょうがい",
+      "word": "勝概"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193be99fa",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Đồng hồ sinh học"
+        }
+      ],
+      "mobileId": 23951,
+      "phonetic": "がいびリズム",
+      "word": "概日リズム"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db81d42",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhìn thích một người chỉ huy"
+        }
+      ],
+      "mobileId": 151579,
+      "phonetic": "しょうぐんのがいがある",
+      "word": "将軍の概が有る"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

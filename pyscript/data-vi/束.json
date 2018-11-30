@@ -1,0 +1,209 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f46ae20",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ポケットにささったペンの束",
+              "mean": "Bó nhiều bút lại và cho vào túi.",
+              "transcription": "ポケットにささったペンのたば"
+            },
+            {
+              "content": "束になって掛かる",
+              "mean": "bó thành cuộn và treo lên. .",
+              "transcription": "たばになってかかる"
+            }
+          ],
+          "kind": "n, n-suf, ctr",
+          "mean": "bó; búi; cuộn"
+        }
+      ],
+      "mobileId": 186148,
+      "phonetic": "たば",
+      "related_words": {
+        "word": [
+          "約束",
+          "拘束",
+          "約束する",
+          "束縛",
+          "花束",
+          "結束",
+          "不束",
+          "収束",
+          "束ねる",
+          "束の間"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "束",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "束ね",
+                "包み物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "小包",
+                "束ね",
+                "パック",
+                "小包み",
+                "包み物",
+                "包み"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "束"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9590b826",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bó, chùm, tập"
+        }
+      ],
+      "mobileId": 60708,
+      "phonetic": "せんいたば",
+      "word": "繊維束"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9590b62d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bó, chùm, tập"
+        }
+      ],
+      "mobileId": 60707,
+      "phonetic": "せんいたば",
+      "word": "線維束"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d3ece62",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "高中性子束原子炉",
+              "mean": "lò phản ứng nguyên tử có dòng Notron cao",
+              "transcription": "こうちゅうせいしたばげんしろ"
+            },
+            {
+              "content": "慣用中性子束密度",
+              "mean": "mật độ chuyển động của dòng nơtron quy ước .",
+              "transcription": "かんようちゅうせいしたばみつど"
+            }
+          ],
+          "kind": "n",
+          "mean": "Dòng nơtron"
+        }
+      ],
+      "mobileId": 142467,
+      "phonetic": "ちゅうせいしそく",
+      "word": "中性子束"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770d7696",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bamboo bundle"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bamboo shield used for defending against projectiles in battle"
+        }
+      ],
+      "mobileId": 264889,
+      "phonetic": "たけたば",
+      "word": "竹束"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a659f78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bundle of hair, hair tuft"
+        }
+      ],
+      "mobileId": 226634,
+      "phonetic": "けたば",
+      "word": "毛束"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b920a24",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bundle index"
+        }
+      ],
+      "mobileId": 244500,
+      "phonetic": "たばしひょう",
+      "word": "束指標"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8901ff",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n, adj-no",
+          "mean": "một bó; một nắm"
+        }
+      ],
+      "mobileId": 14136,
+      "phonetic": "いちたば,いっ そく",
+      "related_words": {
+        "word": [
+          "一",
+          "束"
+        ]
+      },
+      "word": "一束"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca067652e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vascular bundle"
+        }
+      ],
+      "mobileId": 284269,
+      "phonetic": "かんそく",
+      "word": "管束"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07089a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bundle of straw, sheaf"
+        }
+      ],
+      "mobileId": 284566,
+      "phonetic": "わらたば",
+      "word": "藁束"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

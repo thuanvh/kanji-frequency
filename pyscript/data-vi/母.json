@@ -1,0 +1,227 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f9a01b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "má"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mẹ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thân mẫu ."
+        }
+      ],
+      "mobileId": 187447,
+      "opposite_word": [
+        "父"
+      ],
+      "phonetic": "はは",
+      "related_words": {
+        "word": [
+          "お母さん",
+          "母乳",
+          "母親",
+          "叔母",
+          "母の日",
+          "分母",
+          "祖母",
+          "義母",
+          "母国語",
+          "母子"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "母",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "お母さん"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "実母",
+                "お母様",
+                "女親",
+                "母親",
+                "慈母",
+                "お母さん",
+                "お袋",
+                "母上"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ママ",
+                "お母さん",
+                "お袋"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "母"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ef9489",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "đê chắn sóng, nốt ruồi, chuột chũi, mù tịt"
+        }
+      ],
+      "mobileId": 7641,
+      "phonetic": "ははむら",
+      "related_words": {
+        "word": [
+          "母",
+          "斑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "母斑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "痣",
+                "黶"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "母斑"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae98ad0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "population mean"
+        }
+      ],
+      "mobileId": 230907,
+      "phonetic": "ぼへいきん",
+      "word": "母平均"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca057b7aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "homeworld, home planet, mother planet"
+        }
+      ],
+      "mobileId": 283781,
+      "phonetic": "ぼせい",
+      "word": "母星"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9536a00b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "men; bột nở"
+        }
+      ],
+      "mobileId": 57823,
+      "phonetic": "",
+      "word": "醸母"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e45cde",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mother"
+        }
+      ],
+      "mobileId": 271874,
+      "phonetic": "おもとじ ははとじ あもとじ",
+      "word": "母刀自"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d99ca9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mother"
+        }
+      ],
+      "mobileId": 263220,
+      "phonetic": "あぼ あも",
+      "word": "阿母"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68eae01f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người mẹ đã mất, người mẹ quá cố"
+        }
+      ],
+      "mobileId": 7483,
+      "opposite_word": [
+        "亡父"
+      ],
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "母"
+        ]
+      },
+      "word": "亡母"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ed986d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Vật liệu kim loại được hàn hoặc cắt."
+        }
+      ],
+      "mobileId": 7574,
+      "phonetic": "ぼ ざい",
+      "word": "母材"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3e34e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "godmother, (religious) sponsor"
+        }
+      ],
+      "mobileId": 225407,
+      "phonetic": "きょうぼ",
+      "word": "教母"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

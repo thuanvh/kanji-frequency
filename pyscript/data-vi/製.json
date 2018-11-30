@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027bd5117",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "アメリカ製というだけで日本の消費者が高額な支払いをするとは思えません。",
+              "mean": "Tôi không nghĩ rằng người tiêu dùng Nhật Bản sẽ trả một khoản tiền lớn chỉ bởi vì sản phẩm đó được sản xuất tại Mỹ.",
+              "transcription": "アメリカせいというだけでにっぽんのしょうひしゃがこうがくなしはらいをするとはおもえません。"
+            },
+            {
+              "content": "その製品は日本の市場に根付いていたので、ずっと日本製だと思い込んでいた。",
+              "mean": "Tôi luôn nghĩ sản phẩm đó là hàng Nhật vì nó đã bám rễ khá lâu tại thị trường Nhật bản.",
+              "transcription": "そのせいひんはにっぽんのしじょうにねついていたので、ずっとにっぽんせいだとおもいこんでいた。"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "chế"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "sự chế tạo; sự chế ra ."
+        }
+      ],
+      "mobileId": 32409,
+      "phonetic": "せい",
+      "related_words": {
+        "word": [
+          "製品",
+          "製作",
+          "製造",
+          "日本製",
+          "製作者",
+          "新製品",
+          "製造者",
+          "製作する",
+          "電気製品",
+          "複製"
+        ]
+      },
+      "word": "製"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0631542",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "in-house production"
+        }
+      ],
+      "mobileId": 284138,
+      "opposite_word": [
+        "外注"
+      ],
+      "phonetic": "ないせい",
+      "related_words": {
+        "word": [
+          "製"
+        ]
+      },
+      "word": "内製"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed957fa3de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mì sợi làm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "new field"
+        }
+      ],
+      "mobileId": 60152,
+      "phonetic": "せいめん",
+      "word": "製麺"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebb5c45",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm (của) đồng"
+        }
+      ],
+      "mobileId": 117029,
+      "phonetic": "どうせい",
+      "word": "銅製"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8bef4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "công ty được sản xuất"
+        }
+      ],
+      "mobileId": 150166,
+      "phonetic": "しゃせい",
+      "word": "社製"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a972fe4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "stone, made of stone"
+        }
+      ],
+      "mobileId": 259979,
+      "phonetic": "せきせい",
+      "word": "石製"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a999fce0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "leather, leather-bound, leathern"
+        }
+      ],
+      "mobileId": 261209,
+      "phonetic": "かわせい",
+      "related_words": {
+        "word": [
+          "製",
+          "革"
+        ]
+      },
+      "word": "革製"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeb5624",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "bằng chì; xám xịt như chì; nặng như chì, nặng nề"
+        }
+      ],
+      "mobileId": 17223,
+      "phonetic": "なまりせい",
+      "word": "鉛製"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab9efb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "re-drawing up (of family register), re-establishment"
+        }
+      ],
+      "mobileId": 229347,
+      "phonetic": "かいせい",
+      "word": "改製"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a7b6ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lưỡng kim ."
+        }
+      ],
+      "mobileId": 109533,
+      "phonetic": "きんぎんせい",
+      "word": "金銀製"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

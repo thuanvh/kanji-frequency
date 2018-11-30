@@ -1,0 +1,256 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1078546f4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "電車の客",
+              "mean": "khách đi xe",
+              "transcription": "でんしゃのきゃく"
+            },
+            {
+              "content": "客を招く",
+              "mean": "chiêu đãi khách .",
+              "transcription": "きゃくをまねく"
+            }
+          ],
+          "kind": "n",
+          "mean": "người khách; khách"
+        }
+      ],
+      "mobileId": 54115,
+      "opposite_word": [
+        "主"
+      ],
+      "phonetic": "きゃく",
+      "related_words": {
+        "word": [
+          "顧客",
+          "お客様",
+          "お客さん",
+          "客観的",
+          "接客",
+          "観光客",
+          "観客",
+          "乗客",
+          "客室",
+          "来客"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "客",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "お客さん",
+                "来客"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "賓客",
+                "来遊者",
+                "訪問客",
+                "お客さん",
+                "訪客",
+                "観光客",
+                "来観者",
+                "お客様",
+                "来客",
+                "来訪者",
+                "ビジター"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "お客さん",
+                "訪客",
+                "来客"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "得意",
+                "クライアント",
+                "お客さん",
+                "取引先",
+                "顧客",
+                "取り引き先",
+                "お客様",
+                "買手",
+                "得意先",
+                "買い手"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "賓客",
+                "来賓",
+                "お客さん",
+                "訪客",
+                "お客様",
+                "ゲスト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "乗手",
+                "旅客",
+                "乗客",
+                "パッセンジャー",
+                "乗り手"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "客"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c19ff3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà văn; người trang nhã; tài tử"
+        }
+      ],
+      "mobileId": 24048,
+      "phonetic": "まさきゃく",
+      "related_words": {
+        "word": [
+          "客"
+        ]
+      },
+      "word": "雅客"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b5ad53",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "last guest (tea ceremony), third guest of honour (honor), guest who sits in the seat furthest from the host and assists in various ways"
+        }
+      ],
+      "mobileId": 286784,
+      "phonetic": "まっきゃく",
+      "word": "末客"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107fa4e35",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người gọi điện chia buồn ."
+        }
+      ],
+      "mobileId": 56020,
+      "phonetic": "ちょうもんきゃく",
+      "word": "弔問客"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0212a2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "drawing in customers, attracting an audience, luring customers"
+        }
+      ],
+      "mobileId": 282010,
+      "phonetic": "ゆうきゃく",
+      "word": "誘客"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9594559c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đày ải người"
+        }
+      ],
+      "mobileId": 60823,
+      "phonetic": "",
+      "word": "遷客"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c36f8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shopper"
+        }
+      ],
+      "mobileId": 213146,
+      "phonetic": "かいものきゃく",
+      "word": "買い物客"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd21eb4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một người đến thăm tới một ốm hoặc làm cực khổ người"
+        }
+      ],
+      "mobileId": 69884,
+      "phonetic": "みまいきゃく",
+      "word": "見舞い客"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9e21d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khách hàng, gã, anh chàng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khách hàng (của luật sư, cửa hàng...)"
+        }
+      ],
+      "mobileId": 116093,
+      "phonetic": "とくいきゃく",
+      "word": "得意客"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf9ef30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "guest (esp. hotel)"
+        }
+      ],
+      "mobileId": 247807,
+      "phonetic": "しゅくはくきゃく",
+      "related_words": {
+        "word": [
+          "宿泊",
+          "客",
+          "宿"
+        ]
+      },
+      "word": "宿泊客"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

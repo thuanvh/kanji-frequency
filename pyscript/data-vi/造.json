@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02230c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "reconstructing (shrine, temple, etc.), altering"
+        }
+      ],
+      "mobileId": 282045,
+      "phonetic": "ぞうたい",
+      "word": "造替"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e107d88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "megapode (any bird of family Megapodiidae, incl. brush turkeys and mallee fowl), mound builder"
+        }
+      ],
+      "mobileId": 248525,
+      "phonetic": "つかつくり ツカツクリ",
+      "word": "塚造"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d62726",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đúc (nặn); làm mẫu"
+        }
+      ],
+      "mobileId": 62941,
+      "phonetic": "",
+      "word": "塑造"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2ae2e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "style of shrine architecture based on that of Ise Jingu"
+        }
+      ],
+      "mobileId": 249411,
+      "phonetic": "しんめいづくり",
+      "word": "神明造"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac1f432",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Cấu trúc, cấu tạo thép"
+        }
+      ],
+      "mobileId": 229618,
+      "phonetic": "てっこつぞう",
+      "related_words": {
+        "word": [
+          "骨",
+          "鉄",
+          "鉄骨"
+        ]
+      },
+      "word": "鉄骨造"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac1f4d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "steel construction"
+        }
+      ],
+      "mobileId": 229619,
+      "phonetic": "エスぞう",
+      "word": "Ｓ造"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c772a08a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "making Buddhist images, implements, etc."
+        }
+      ],
+      "mobileId": 265823,
+      "phonetic": "ぞうぶつ",
+      "word": "造仏"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac1e623",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Cấu tạo bê thông cốt thép"
+        }
+      ],
+      "mobileId": 229617,
+      "phonetic": "てっきんコンクリートぞう",
+      "word": "鉄筋コンクリート造"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b36c38",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mạng (giàn) làm việc"
+        }
+      ],
+      "mobileId": 39228,
+      "phonetic": "こうしみやつこ",
+      "word": "格子造"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9210104",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tool for scrubbing wood to give it texture, traditionally made of dried grass bound together by hemp cord"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "scrubbing wood to give it texture"
+        }
+      ],
+      "mobileId": 273825,
+      "phonetic": "うづくり",
+      "word": "浮造"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

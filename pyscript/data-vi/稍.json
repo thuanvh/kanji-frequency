@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad4827f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "やや真実に近い.",
+              "mean": "Hơi thật một chút/ gần như sự thật",
+              "transcription": "ややしんじつにちかい."
+            },
+            {
+              "content": "今日はややいいようです.",
+              "mean": "Hôm nay có vẻ khá rồi đấy",
+              "transcription": "きょうはややいいようです."
+            }
+          ],
+          "kind": "adv, adj-f",
+          "mean": "một chút; một ít; hơi hơi; có phần; hơi"
+        }
+      ],
+      "mobileId": 173850,
+      "phonetic": "やや",
+      "synsets": [
+        {
+          "base_form": "稍",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一寸",
+                "幾分",
+                "多少",
+                "心持ち"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一寸",
+                "幾分",
+                "若干",
+                "ちっとも",
+                "多少",
+                "やや",
+                "心持ち",
+                "ちょっと",
+                "ぽつぽつ"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "稍"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08fd1c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "slightly heavy (esp. horse-racing track)"
+        }
+      ],
+      "mobileId": 211467,
+      "phonetic": "ややおも",
+      "word": "稍重"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6522fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "a little while later, for a little while, some time later, for some time"
+        }
+      ],
+      "mobileId": 226617,
+      "phonetic": "ややあって",
+      "word": "稍あって"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

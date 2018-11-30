@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a244ab",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "số, lần, phiên"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "lượt"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "xem, bảo vệ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bout, match"
+        }
+      ],
+      "mobileId": 212055,
+      "phonetic": "ばん",
+      "word": "番"
+    },
+    {
+      "_id": "f2d618ceb0702f781ec83b7d4f507d99",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Đếm lượt order"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ばん",
+      "word": "番"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e898c84f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngón chân bảo vệ trên (về) những cái còng; người gác cửa giày dép"
+        }
+      ],
+      "mobileId": 38394,
+      "phonetic": "げたばん",
+      "related_words": {
+        "word": [
+          "下",
+          "下駄",
+          "駄"
+        ]
+      },
+      "word": "下駄番"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04a1337",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "person who holds the purse strings, person who minds the cash, safe keeper, treasurer"
+        }
+      ],
+      "mobileId": 283335,
+      "phonetic": "きんこばん",
+      "word": "金庫番"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09428b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "keeping an eye on people's belongings (so they don't get stolen)"
+        }
+      ],
+      "mobileId": 285687,
+      "phonetic": "にもつばん",
+      "word": "荷物番"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c034b384",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "alternating, taking turns"
+        }
+      ],
+      "mobileId": 208540,
+      "phonetic": "かわりばん",
+      "word": "代わり番"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e20fccd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "thuộc tính (mà) một sự nối tiếp ghi số (gói, thông báo, vân vân.)"
+        }
+      ],
+      "mobileId": 112072,
+      "phonetic": "さぐばん",
+      "word": "探番"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3faa3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thứ ba, một phần ba, người thứ ba; vật thứ ba; ngày mồng ba, quãng ba; âm ba, một phần sáu mươi của giây"
+        }
+      ],
+      "mobileId": 147756,
+      "phonetic": "さんばん",
+      "related_words": {
+        "word": [
+          "三"
+        ]
+      },
+      "word": "三番"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bdefad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "food tray (used in the food industry)"
+        }
+      ],
+      "mobileId": 262349,
+      "phonetic": "ばんじゅう",
+      "word": "番重"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688ba75d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gatekeeper; chéo qua bảo vệ"
+        }
+      ],
+      "mobileId": 4448,
+      "phonetic": "ふみきりばん",
+      "word": "踏切番"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e6ccafb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới chứng chuột rút; để bị chuột rút; tới hợp đồng"
+        }
+      ],
+      "mobileId": 114513,
+      "phonetic": "",
+      "word": "痙る"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e379422",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lockjaw, trismus"
+        }
+      ],
+      "mobileId": 249806,
+      "phonetic": "こうけい",
+      "word": "咬痙"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777d7273",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spasmolysis"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "spasmolytic, antispasmodic, anticonvulsive"
+        }
+      ],
+      "mobileId": 268524,
+      "phonetic": "ちんけい",
+      "word": "鎮痙"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d163fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spastic paralysis"
+        }
+      ],
+      "mobileId": 271250,
+      "phonetic": "けいせいまひ",
+      "word": "痙性麻痺"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777d65b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "antispasmodic drug, spasmolytic drug, anticonvulsant drug"
+        }
+      ],
+      "mobileId": 268522,
+      "phonetic": "ちんけいやく",
+      "word": "鎮痙薬"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d147a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "familial spastic paraplegia"
+        }
+      ],
+      "mobileId": 271247,
+      "phonetic": "かぞくせいけいせいたいまひ",
+      "word": "家族性痙性対麻痺"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

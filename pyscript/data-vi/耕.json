@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9825e0a79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giving up government service and engaging in agriculture"
+        }
+      ],
+      "mobileId": 234604,
+      "phonetic": "たいこう",
+      "word": "退耕"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771954f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "plowing right after the autumn harvest"
+        }
+      ],
+      "mobileId": 265278,
+      "phonetic": "しゅうこう",
+      "word": "秋耕"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b03af9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những dụng cụ làm nông"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "farm implements"
+        }
+      ],
+      "mobileId": 39124,
+      "phonetic": "こうぐ",
+      "related_words": {
+        "word": [
+          "具"
+        ]
+      },
+      "word": "耕具"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027476494",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "作物を耕種する",
+              "mean": "Gieo trồng hoa màu",
+              "transcription": "さくもつをこうしゅする"
+            },
+            {
+              "content": "彼らは荒地を開墾し、たくさんの野菜を耕種する",
+              "mean": "Họ đã trồng rất nhiều rau trên đất khai hoang .",
+              "transcription": "かれらはあれちをかいこんし、たくさんのやさいをこうしゅする"
+            }
+          ],
+          "kind": "n",
+          "mean": "việc gieo trồng; gieo trồng; trồng"
+        }
+      ],
+      "mobileId": 30305,
+      "phonetic": "こうしゅ",
+      "word": "耕種"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9548f5b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "thuật trồng cây trong nước"
+        }
+      ],
+      "mobileId": 58419,
+      "phonetic": "みずこう",
+      "word": "水耕"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e82dca4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "畑を耕す",
+              "mean": "Cuốc ruộng",
+              "transcription": ""
+            }
+          ],
+          "kind": "",
+          "mean": "Cuốc"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "たがやす",
+      "word": "耕やす"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a97a3243",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "nghệ thuật nói"
+        }
+      ],
+      "mobileId": 260203,
+      "phonetic": "ぜっこう",
+      "word": "舌耕"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a78f12",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Thủy canh"
+        }
+      ],
+      "mobileId": 269892,
+      "phonetic": "すいこうさいばい",
+      "word": "水耕栽培"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05bb5b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hydroponic plantation"
+        }
+      ],
+      "mobileId": 283913,
+      "phonetic": "すいこうのうえん",
+      "word": "水耕農園"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e52650",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "no-till farming"
+        }
+      ],
+      "mobileId": 263582,
+      "phonetic": "ふこうきさいばい",
+      "word": "不耕起栽培"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

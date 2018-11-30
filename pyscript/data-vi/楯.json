@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0b6ee2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "shield; uốn cong; giá trưng huy chương; cái cớ"
+        }
+      ],
+      "mobileId": 111393,
+      "phonetic": "たて",
+      "word": "楯"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0de26b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chống đối"
+        }
+      ],
+      "mobileId": 111471,
+      "phonetic": "たてつく",
+      "related_words": {
+        "word": [
+          "つく"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "楯つく",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "闘う",
+                "逆らう",
+                "反する",
+                "戦う",
+                "歯向かう",
+                "争う",
+                "刃向かう"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "立ち向かう",
+                "逆らう",
+                "諍う",
+                "歯向かう",
+                "争う",
+                "向かう",
+                "刃向かう",
+                "向う"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "楯つく"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822c0c21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "placoid scale"
+        }
+      ],
+      "mobileId": 233029,
+      "phonetic": "じゅんりん",
+      "word": "楯鱗"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5c488a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "shield tầm thường (của) tối cao (của) chúng ta khống chế"
+        }
+      ],
+      "mobileId": 148651,
+      "phonetic": "みにくのごたて",
+      "word": "醜の御楯"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c772bf890",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shield volcano"
+        }
+      ],
+      "mobileId": 265892,
+      "phonetic": "たてじょうかざん",
+      "word": "楯状火山"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

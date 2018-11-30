@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4cc6f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đào ngũ; sự bất thường; nhược điểm"
+        }
+      ],
+      "mobileId": 12252,
+      "phonetic": "きず",
+      "related_words": {
+        "word": [
+          "瑕疵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "瑕",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "創痍",
+                "傷",
+                "傷口",
+                "傷痍",
+                "傷創",
+                "怪我",
+                "創傷"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "傷",
+                "瑕疵"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "傷",
+                "汚点",
+                "襤褸",
+                "短所",
+                "難",
+                "不備",
+                "粗",
+                "悪目",
+                "瑕疵",
+                "欠点",
+                "欠陥",
+                "難点",
+                "デメリット",
+                "穴"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "瑕"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5091e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm hư hỏng; sự bất thường; đào ngũ"
+        }
+      ],
+      "mobileId": 148294,
+      "phonetic": "きずきず",
+      "word": "疵瑕"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e14d029",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "sự bất thường trong tinh thể; bay trong thuốc mỡ"
+        }
+      ],
+      "mobileId": 111700,
+      "phonetic": "たまにきず",
+      "word": "玉に瑕"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

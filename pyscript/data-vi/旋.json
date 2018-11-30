@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9598f4b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "polarimetric"
+        }
+      ],
+      "mobileId": 60973,
+      "phonetic": "",
+      "word": "旋光"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820e43cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese seven-tone gagaku scale (corresponding to: so, la, ti, do, re, mi, fa), similar to Mixolydian mode"
+        }
+      ],
+      "mobileId": 232099,
+      "phonetic": "りょせん",
+      "word": "呂旋"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824ee054",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tonfa (traditional Okinawan weapon similar to a nightstick)"
+        }
+      ],
+      "mobileId": 234126,
+      "phonetic": "とんふあ トンファー トイファー",
+      "word": "旋棍"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95943c9a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự quay, sự xoay vòng, sự luân phiên"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vòng, tua, sự xoay vòng, cuộc cách mạng"
+        }
+      ],
+      "mobileId": 60820,
+      "phonetic": "",
+      "word": "旋廻"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959da8a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(thùng súng) vơ vét"
+        }
+      ],
+      "mobileId": 61129,
+      "phonetic": "",
+      "word": "旋条"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc27423",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một thể thức (trong gagaku)"
+        }
+      ],
+      "mobileId": 75025,
+      "phonetic": "",
+      "word": "律旋"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959a526c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xoay (trên (về) một máy tiện)"
+        }
+      ],
+      "mobileId": 61018,
+      "phonetic": "せんさく",
+      "word": "旋削"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9599d38e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phân tích polarimetric"
+        }
+      ],
+      "mobileId": 60999,
+      "phonetic": "",
+      "word": "旋光分析"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95994f32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "câu (của) sự quay"
+        }
+      ],
+      "mobileId": 60985,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "光",
+          "角"
+        ]
+      },
+      "word": "旋光角"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95999e67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quay, máy quay; máy in quay, chỗ đường vòng  roundabout, traffic, circle)"
+        }
+      ],
+      "mobileId": 60993,
+      "phonetic": "",
+      "word": "旋光性"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

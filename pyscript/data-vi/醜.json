@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77015855",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ugliness"
+        }
+      ],
+      "mobileId": 264500,
+      "opposite_word": [
+        "美"
+      ],
+      "phonetic": "しゅう",
+      "word": "醜"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d065ab9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hideous face"
+        }
+      ],
+      "mobileId": 215305,
+      "phonetic": "しゅうぼう",
+      "word": "醜貌"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09eff00",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "monstrous, hideous, ugly, bizarre"
+        }
+      ],
+      "mobileId": 211960,
+      "phonetic": "しゅうかい",
+      "word": "醜怪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77473e1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "swear word, dirty word"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "coprolalia"
+        }
+      ],
+      "mobileId": 266750,
+      "phonetic": "しゅうご",
+      "word": "醜語"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7702d3aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "beauty and ugliness"
+        }
+      ],
+      "mobileId": 264551,
+      "phonetic": "けんしゅう",
+      "word": "妍醜"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5c488a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "shield tầm thường (của) tối cao (của) chúng ta khống chế"
+        }
+      ],
+      "mobileId": 148651,
+      "phonetic": "みにくのごたて",
+      "word": "醜の御楯"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77475f0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coprolalia, uncontrollable use of obscene language"
+        }
+      ],
+      "mobileId": 266755,
+      "phonetic": "しゅうごしょう",
+      "word": "醜語症"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9abfb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "tính mặt mày xấu xí và vẻ đẹp"
+        }
+      ],
+      "mobileId": 150635,
+      "phonetic": "みにくとよし",
+      "word": "醜と美"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

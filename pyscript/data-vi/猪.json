@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a3f6034",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "heo rừng"
+        },
+        {
+          "examples": [
+            {
+              "content": "あなたは猪の肉を食べたことがある?",
+              "mean": "Bạn đã bao giờ ăn thịt lợn rừng chưa?",
+              "transcription": "あなたはいのししのにくをたべたことがある?"
+            },
+            {
+              "content": "これらの猪は、ベーコンやポークチョップになる予定だ",
+              "mean": "Những con lợn rừng này sẽ được chế biến thành món thịt lợn muối xông khói và món sườn",
+              "transcription": "これらのいのししは、ベーコンやポークチョップになるよていだ"
+            }
+          ],
+          "kind": "n",
+          "mean": "lợn rừng"
+        }
+      ],
+      "mobileId": 171418,
+      "phonetic": "いのしし",
+      "related_words": {
+        "word": [
+          "猪突猛進",
+          "猪口"
+        ]
+      },
+      "word": "猪"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193981974",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con lợn bụi cây"
+        }
+      ],
+      "mobileId": 22745,
+      "phonetic": "かわいのしし",
+      "word": "河猪"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a2242b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red river hog (Potamochoerus porcus), bush pig"
+        }
+      ],
+      "mobileId": 277903,
+      "phonetic": "あかかわいのしし アカカワイノシシ",
+      "word": "赤川猪"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa3ad88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hunting (of animals such as boar, deer, etc.)"
+        }
+      ],
+      "mobileId": 228633,
+      "phonetic": "ししがり",
+      "word": "猪狩り"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa3c621",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "peccary"
+        }
+      ],
+      "mobileId": 228637,
+      "phonetic": "へそいのしし ヘソイノシシ",
+      "word": "臍猪"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9397ff5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pygmy hog (Porcula salvania)"
+        }
+      ],
+      "mobileId": 274610,
+      "phonetic": "こびといのしし コビトイノシシ",
+      "word": "小人猪"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9eb8d27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "boar meat hot pot, boar stew"
+        }
+      ],
+      "mobileId": 280297,
+      "phonetic": "ししなべ いのししなべ",
+      "word": "猪鍋"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d864b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "umbrella polypore sclerotium (used as a diuretic, antipyretic, and antitussive in traditional Chinese medicine)"
+        }
+      ],
+      "mobileId": 271508,
+      "phonetic": "ちょれい チョレイ",
+      "word": "猪苓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77688219",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "day of the boar in the tenth month"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mochi eaten on the day of the boar (esp. at the time of the boar)"
+        }
+      ],
+      "mobileId": 267837,
+      "phonetic": "げんちょ",
+      "word": "玄猪"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93ff906",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reckless courage comparable to that of a wild board"
+        }
+      ],
+      "mobileId": 258337,
+      "phonetic": "ちょゆう",
+      "word": "猪勇"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

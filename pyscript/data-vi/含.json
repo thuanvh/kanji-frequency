@@ -1,0 +1,177 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a664809",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "oil impregnation, oil-bearing, oil-containing"
+        }
+      ],
+      "mobileId": 226653,
+      "phonetic": "がんゆ",
+      "word": "含油"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ce774f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vỉa dầu, địa tầng chứa dầu"
+        }
+      ],
+      "mobileId": 24456,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "層",
+          "油"
+        ]
+      },
+      "word": "含油層"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cb8be9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "có nước"
+        }
+      ],
+      "mobileId": 24367,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "水"
+        ]
+      },
+      "word": "含水"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cda7c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "bọc đường nội dung"
+        }
+      ],
+      "mobileId": 24432,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "糖"
+        ]
+      },
+      "word": "含糖"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ce8a3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bằng lòng"
+        }
+      ],
+      "mobileId": 24460,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "量"
+        ]
+      },
+      "word": "含量"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cb8e02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hydrat, Hyddrat hoá, thuỷ hợp"
+        }
+      ],
+      "mobileId": 24368,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "水",
+          "物",
+          "化合物",
+          "含水"
+        ]
+      },
+      "word": "含水化合物"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22202361",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "平衡含水率は約15％である。",
+              "mean": "Độ ẩm thăng bằng là khoảng 15%.",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Độ ẩm thăng bằng ( vật liệu gỗ )"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "へいこうがんすいりつ",
+      "word": "平衡含水率"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a66396e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oil shale"
+        }
+      ],
+      "mobileId": 226652,
+      "phonetic": "がんゆけつがん",
+      "word": "含油頁岩"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a664d19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oil-retaining bearing"
+        }
+      ],
+      "mobileId": 226654,
+      "phonetic": "がんゆじくうけ",
+      "word": "含油軸受け"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cdc024",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bọc đường nội dung"
+        }
+      ],
+      "mobileId": 24434,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "量",
+          "糖"
+        ]
+      },
+      "word": "含糖量"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

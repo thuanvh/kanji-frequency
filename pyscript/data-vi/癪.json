@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a7c8267",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "sự co thắt; co thắt ."
+        }
+      ],
+      "mobileId": 172341,
+      "phonetic": "しゃく",
+      "synsets": [
+        {
+          "base_form": "癪",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "いらだち",
+                "いらだたしさ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "癪"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a68f25",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phù hợp với (của) sự giận dữ; tâm tính; nổi xung\r\npháo"
+        }
+      ],
+      "mobileId": 23209,
+      "phonetic": "かんしゃくだま",
+      "word": "疳癪玉"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d88a90d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm cáu, kích thích, điều làm cái, chất kích thích"
+        }
+      ],
+      "mobileId": 150072,
+      "phonetic": "しゃくのたね",
+      "word": "癪の種"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d889fe5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chọc tức"
+        }
+      ],
+      "mobileId": 150070,
+      "phonetic": "しゃくにさわる",
+      "related_words": {
+        "word": [
+          "に",
+          "触る"
+        ]
+      },
+      "word": "癪に触る"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d889c3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "chọc tức"
+        }
+      ],
+      "mobileId": 150069,
+      "phonetic": "しゃくにさわる",
+      "related_words": {
+        "word": [
+          "に",
+          "さわる"
+        ]
+      },
+      "word": "癪にさわる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

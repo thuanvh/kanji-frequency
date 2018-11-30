@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e83c3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "sự tạp nham; tạp nham ."
+        }
+      ],
+      "mobileId": 110610,
+      "opposite_word": [
+        "純"
+      ],
+      "phonetic": "ざつ",
+      "related_words": {
+        "word": [
+          "複雑",
+          "雑誌",
+          "雑貨",
+          "複雑な",
+          "混雑",
+          "雑用",
+          "雑費",
+          "雑談",
+          "雑草",
+          "雑記"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "雑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "杜撰",
+                "散漫",
+                "ぞんざい",
+                "杜漏",
+                "だらしない"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "雑"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef947ab0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "variety meat, offal, scrap meat"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "meat other than pork, beef or poultry (e.g. horsemeat, etc.)"
+        }
+      ],
+      "mobileId": 275036,
+      "phonetic": "ざつにく",
+      "word": "雑肉"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d499322",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thu nhập lặt vặt"
+        }
+      ],
+      "mobileId": 148073,
+      "phonetic": "ざつしょとく",
+      "word": "雑所得"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d2dba97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chop suey"
+        }
+      ],
+      "mobileId": 216565,
+      "phonetic": "ちゃぷすい チャプスイ",
+      "word": "雑砕"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6c9d3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miscellaneous recyclable paper, recyclable paper other than old newspapers and carton boxes"
+        }
+      ],
+      "mobileId": 226860,
+      "phonetic": "ざつがみ",
+      "word": "雑紙"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db2eab6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "off-flavor, bitterness or other unpleasant taste that detracts from the flavour of a drink"
+        }
+      ],
+      "mobileId": 220887,
+      "phonetic": "ざつみ",
+      "word": "雑味"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774868bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "popular music"
+        }
+      ],
+      "mobileId": 266788,
+      "phonetic": "ざつがく",
+      "word": "雑楽"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b68df2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miscellaneous time, incidental time"
+        }
+      ],
+      "mobileId": 243207,
+      "phonetic": "ざつじかん",
+      "word": "雑時間"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c02e50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "writings on many different topics"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "book that cannot be classified in any category"
+        }
+      ],
+      "mobileId": 262420,
+      "phonetic": "ざっちょ",
+      "word": "雑著"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b220a4105",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "chi phí khác"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ざつ",
+      "word": "雑料"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

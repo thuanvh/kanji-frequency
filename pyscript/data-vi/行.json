@@ -1,0 +1,221 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027abcc31",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "１０ページの下から３行目をご覧ください。",
+              "mean": "Xin hãy xem dòng thứ 3 từ dưới lên của trang 10.",
+              "transcription": "いちぜろページのしたからさんこうめをごらんください。"
+            },
+            {
+              "content": "２０ページの１０行目から読んでください。",
+              "mean": "Hãy đọc từ dòng thứ 10 của trang 20.",
+              "transcription": "にぜろページのいちぜろこうめからよんでください。"
+            }
+          ],
+          "kind": "n",
+          "mean": "dòng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng ."
+        }
+      ],
+      "mobileId": 32117,
+      "phonetic": "ぎょう",
+      "related_words": {
+        "word": [
+          "発行",
+          "実行",
+          "移行",
+          "飛行機",
+          "流行",
+          "旅行",
+          "改行",
+          "銀行",
+          "行く",
+          "行動"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "行",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "線路",
+                "行列",
+                "筋",
+                "伍",
+                "路線",
+                "ライン",
+                "列",
+                "線"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "営み",
+                "行為",
+                "行い",
+                "行動",
+                "活動"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "線路",
+                "行列",
+                "筋",
+                "伍",
+                "路線",
+                "ライン",
+                "列"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "行"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83b72ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những đặc tính semicursive"
+        }
+      ],
+      "mobileId": 35403,
+      "phonetic": "くだりたい",
+      "word": "行体"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83b8daf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giữa đường"
+        }
+      ],
+      "mobileId": 35408,
+      "phonetic": "くだりちゅう",
+      "word": "行中"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83bff32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chèo vectơ"
+        }
+      ],
+      "mobileId": 35423,
+      "phonetic": "くだりベクトル",
+      "related_words": {
+        "word": [
+          "行"
+        ]
+      },
+      "word": "行ベクトル"
+    },
+    {
+      "_id": "432518852de0a80625d585a982c6e33b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "status line"
+        }
+      ],
+      "mobileId": 237981,
+      "phonetic": "ステータスぎょう",
+      "word": "ステータス行"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74234b59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đi bộ ."
+        }
+      ],
+      "mobileId": 97965,
+      "phonetic": "とこう",
+      "word": "徒行"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae46f92e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phân loại cho động từ tiếng nhật với từ điển hình thành sự kết thúc bên trong  yu"
+        }
+      ],
+      "mobileId": 129617,
+      "phonetic": "ヤゆき",
+      "word": "ヤ行"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b623585",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "line spacing"
+        }
+      ],
+      "mobileId": 242985,
+      "phonetic": "ぎょうかんかく",
+      "word": "行間隔"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b6280a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "line number"
+        }
+      ],
+      "mobileId": 242995,
+      "phonetic": "ぎょうばんごう",
+      "related_words": {
+        "word": [
+          "行",
+          "番号",
+          "号"
+        ]
+      },
+      "word": "行番号"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83aebcd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số lượng tin tính theo dòng, số tiền trả tính theo dòng"
+        }
+      ],
+      "mobileId": 35381,
+      "phonetic": "ぎょうすう",
+      "word": "行数"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

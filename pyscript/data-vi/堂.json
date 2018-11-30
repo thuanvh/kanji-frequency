@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02d0350",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf, n-pref",
+          "mean": "temple, shrine, hall"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "prefix to building meaning \"magnificent\""
+        }
+      ],
+      "mobileId": 208299,
+      "phonetic": "どう",
+      "word": "堂"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde09089",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quý gia (kính ngữ chỉ nhà của người khác); lệnh đường (kính ngữ dùng gọi mẹ của người khác)"
+        }
+      ],
+      "mobileId": 75934,
+      "phonetic": "りょうどう",
+      "related_words": {
+        "word": [
+          "令"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "令堂",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "居",
+                "居所",
+                "住み処",
+                "館",
+                "家宅",
+                "宿",
+                "戸",
+                "人屋",
+                "住居",
+                "家屋",
+                "人家",
+                "住宅",
+                "住家",
+                "家",
+                "住みか"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "令堂"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94b36b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eye bags, periorbital puffiness"
+        }
+      ],
+      "mobileId": 275151,
+      "phonetic": "るいどう",
+      "word": "涙堂"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef960718e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "father, male parent"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "father's room"
+        }
+      ],
+      "mobileId": 275808,
+      "phonetic": "ちんどう",
+      "word": "椿堂"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd960c98",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà nguyện nơi đặt bài vị (trong chùa)"
+        }
+      ],
+      "mobileId": 14556,
+      "phonetic": "いはいどう",
+      "related_words": {
+        "word": [
+          "位",
+          "位牌"
+        ]
+      },
+      "word": "位牌堂"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777bedf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "being served food outside the meditation hall (at a Zen temple)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "serving food, food served"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "begging, beggar"
+        }
+      ],
+      "mobileId": 268468,
+      "phonetic": "ほいとう ほいと",
+      "word": "陪堂"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774a216b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mother"
+        }
+      ],
+      "mobileId": 266848,
+      "phonetic": "けんどう",
+      "word": "萱堂"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdf3ca2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tòa nhà lục giác"
+        }
+      ],
+      "mobileId": 76539,
+      "phonetic": "ろっかくどう",
+      "related_words": {
+        "word": [
+          "角",
+          "六",
+          "六角"
+        ]
+      },
+      "word": "六角堂"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d72aed4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "temple hall commemorating its founding or its founder"
+        }
+      ],
+      "mobileId": 218782,
+      "phonetic": "かいさんどう",
+      "word": "開山堂"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ac2f4b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đền thờ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà nguyện ."
+        }
+      ],
+      "mobileId": 173515,
+      "phonetic": "れいはいどう",
+      "related_words": {
+        "word": [
+          "礼",
+          "礼拝"
+        ]
+      },
+      "word": "礼拝堂"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

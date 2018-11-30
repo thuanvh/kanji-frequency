@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f2b3eb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chắt"
+        }
+      ],
+      "mobileId": 185645,
+      "phonetic": "そうそん, そう そん",
+      "related_words": {
+        "word": [
+          "孫"
+        ]
+      },
+      "word": "曽孫"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f2b5a06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chắt ."
+        }
+      ],
+      "mobileId": 185648,
+      "phonetic": "ひまご",
+      "related_words": {
+        "word": [
+          "孫"
+        ]
+      },
+      "word": "曽孫"
+    },
+    {
+      "_id": "432518852de0a80625d585a98219e6c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "great-grandparents"
+        }
+      ],
+      "mobileId": 232457,
+      "phonetic": "そうそふぼ",
+      "word": "曽祖父母"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f2b43a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chắt"
+        }
+      ],
+      "mobileId": 185646,
+      "phonetic": "ひいまご",
+      "related_words": {
+        "word": [
+          "孫"
+        ]
+      },
+      "word": "曽孫"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f2b5056",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chắt"
+        }
+      ],
+      "mobileId": 185647,
+      "phonetic": "ひこ",
+      "related_words": {
+        "word": [
+          "孫"
+        ]
+      },
+      "word": "曽孫"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027ea06e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiếu chỉ; mệnh lệnh của thiên hoàng ."
+        }
+      ],
+      "mobileId": 33107,
+      "phonetic": "みことのり",
+      "word": "詔"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9888444",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "imperial command"
+        }
+      ],
+      "mobileId": 260655,
+      "phonetic": "しょうめい",
+      "word": "詔命"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc8b0a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sắc lệnh đế quốc"
+        }
+      ],
+      "mobileId": 152129,
+      "phonetic": "みことのりれい",
+      "word": "詔令"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

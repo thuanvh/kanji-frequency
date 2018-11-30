@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd6b3651",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giàn, đoạn đầu đài; sự chết chém; sự bị tử hình, bắc giàn ; đỡ bằng giàn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tháp nhỏ, tháp pháo, ụ rêvonve"
+        }
+      ],
+      "mobileId": 72178,
+      "phonetic": "ろ",
+      "synsets": [
+        {
+          "base_form": "櫓",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "支柱",
+                "コラム",
+                "塔",
+                "柱",
+                "円柱",
+                "タワー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "楼閣",
+                "塔",
+                "台",
+                "タワー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "櫓"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5dc265",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "watchtower"
+        }
+      ],
+      "mobileId": 71756,
+      "phonetic": "ものみろ",
+      "word": "物見櫓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a0cd3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "observation tower, scout tower"
+        }
+      ],
+      "mobileId": 269663,
+      "phonetic": "みせやぐら",
+      "word": "見櫓"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af95af3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fulcrum peg (fitted into the cavity in an oar as part of a traditional oarlock)"
+        }
+      ],
+      "mobileId": 231407,
+      "phonetic": "ろぐい",
+      "word": "櫓杭"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afb9153",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sculls and paddles"
+        }
+      ],
+      "mobileId": 231493,
+      "phonetic": "ろかい",
+      "word": "櫓櫂"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de6e309",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inner thigh throw"
+        }
+      ],
+      "mobileId": 222589,
+      "phonetic": "やぐらなげ",
+      "word": "櫓投げ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3d5789",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giết mổ súc vật"
+        }
+      ],
+      "mobileId": 112989,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "畜殺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "屠殺"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "畜殺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8bb8eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "animal under treatment, patient (referring to pets)"
+        }
+      ],
+      "mobileId": 227861,
+      "phonetic": "かんちく",
+      "word": "患畜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0221ef7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small mammal, small animal"
+        }
+      ],
+      "mobileId": 282043,
+      "phonetic": "しょうちく",
+      "word": "小畜"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3d477b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con chó con vật cưng"
+        }
+      ],
+      "mobileId": 112987,
+      "phonetic": "",
+      "word": "畜犬"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b221f5d7a",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "lò mổ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ちくじょう",
+      "word": "畜場"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3d57d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lò mổ, lò sát sinh"
+        }
+      ],
+      "mobileId": 112990,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "場"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "畜殺場",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "屠殺場"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "畜殺場"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3d4cea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bám sát thuế"
+        }
+      ],
+      "mobileId": 112988,
+      "phonetic": "",
+      "word": "畜犬税"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9998df8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese person"
+        }
+      ],
+      "mobileId": 277637,
+      "phonetic": "しなちく シナちく",
+      "word": "支那畜"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e90809e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "electric gramophone"
+        }
+      ],
+      "mobileId": 115639,
+      "phonetic": "",
+      "word": "電気畜音機"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4eefcf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abattoir, slaughterhouse"
+        }
+      ],
+      "mobileId": 217614,
+      "phonetic": "とちくじょう",
+      "word": "屠畜場"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

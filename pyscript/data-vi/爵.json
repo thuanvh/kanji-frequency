@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9820c2e36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jue (ancient 3-legged Chinese wine pitcher, usu. made of bronze)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "peerage (hereditary title bestowed by the emperor)"
+        }
+      ],
+      "mobileId": 232036,
+      "phonetic": "しゃく さく",
+      "word": "爵"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820c281c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "five ranks of nobility (duke, marquis, count, viscount, baron)"
+        }
+      ],
+      "mobileId": 232035,
+      "phonetic": "ごしゃく",
+      "word": "五爵"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02a0d95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "enfeoffment (incl. bestowal of government post and court rank)"
+        }
+      ],
+      "mobileId": 282287,
+      "phonetic": "ほうしゃく",
+      "word": "封爵"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

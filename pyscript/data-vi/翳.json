@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9824b28f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "large fan-shaped object held by an attendant and used to conceal the face of a noble, etc."
+        }
+      ],
+      "mobileId": 234005,
+      "phonetic": "さしは さしば えい は",
+      "word": "翳"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936462d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự mù một phần; thị lực mờ đi; mắt mờ đi"
+        }
+      ],
+      "mobileId": 21116,
+      "phonetic": "かげめ",
+      "word": "翳目"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7a0cfd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "degenerative eye disorder caused by cloudiness in front of the pupil"
+        }
+      ],
+      "mobileId": 227292,
+      "phonetic": "うわひ",
+      "word": "上翳"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9029b73",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Chói mắt"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ambush, troops in ambush"
+        }
+      ],
+      "mobileId": 272842,
+      "phonetic": "まぶし",
+      "word": "射翳"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688fe1b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự vung vảy (thanh gươm) qua cái đầu (của) ai đó"
+        }
+      ],
+      "mobileId": 4564,
+      "phonetic": "ふりかげざす",
+      "related_words": {
+        "word": [
+          "振り"
+        ]
+      },
+      "word": "振り翳ざす"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

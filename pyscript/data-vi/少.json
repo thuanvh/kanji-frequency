@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a336f94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "small, little, few"
+        }
+      ],
+      "mobileId": 225061,
+      "opposite_word": [
+        "多",
+        "老"
+      ],
+      "phonetic": "しょう",
+      "word": "少"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db4216d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ân huệ nhỏ, đặt ân nhỏ"
+        }
+      ],
+      "mobileId": 151449,
+      "phonetic": "しょうおん",
+      "related_words": {
+        "word": [
+          "恩"
+        ]
+      },
+      "word": "少恩"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95115068",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "puniness; thanh niên"
+        }
+      ],
+      "mobileId": 56673,
+      "phonetic": "じゃくすくな",
+      "related_words": {
+        "word": [
+          "弱"
+        ]
+      },
+      "word": "弱少"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0844290",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "small number of people"
+        }
+      ],
+      "mobileId": 211099,
+      "phonetic": "しょうにんずう しょうにんず",
+      "word": "少人数"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dba4a2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(mọc) lên phát sinh; trẻ con"
+        }
+      ],
+      "mobileId": 151658,
+      "phonetic": "しょうこくみん",
+      "related_words": {
+        "word": [
+          "国",
+          "国民",
+          "民"
+        ]
+      },
+      "word": "少国民"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7700c4e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "young female servant"
+        }
+      ],
+      "mobileId": 264480,
+      "phonetic": "しょうひ",
+      "word": "少婢"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19360af7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "rất ít"
+        }
+      ],
+      "mobileId": 20985,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "寡"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "寡少",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "貧弱",
+                "乏しい",
+                "薄い",
+                "不十分",
+                "貧しい"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "寡少"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95553bb3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "sự khan hiếm, sự thiếu thốn, sự khó tìm"
+        }
+      ],
+      "mobileId": 58807,
+      "phonetic": "しょうなげ",
+      "word": "少なげ"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04180d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "advanced juvenile training school, special reformatory, juvenile hall for grave offenders"
+        }
+      ],
+      "mobileId": 283066,
+      "phonetic": "とくしょう",
+      "word": "特少"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc89d95",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "shaolin (ở trung quốc)"
+        }
+      ],
+      "mobileId": 152127,
+      "phonetic": "しょうはやし",
+      "word": "少林"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

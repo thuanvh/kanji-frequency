@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9821b1e9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "anthology (of poetry, etc.), compilation, collection, selection"
+        }
+      ],
+      "mobileId": 232489,
+      "phonetic": "せん",
+      "word": "撰"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ab0e43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "biên tập; soạn thảo; viết"
+        }
+      ],
+      "mobileId": 61549,
+      "phonetic": "せんろく",
+      "word": "撰録"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a3110fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự lựa chọn đặc biệt ."
+        }
+      ],
+      "mobileId": 171188,
+      "phonetic": "とくせん",
+      "word": "特撰"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193adc3f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự biên soạn chính phủ"
+        }
+      ],
+      "mobileId": 23425,
+      "phonetic": "かんせん",
+      "word": "官撰"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d97120f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biên dịch"
+        }
+      ],
+      "mobileId": 150522,
+      "phonetic": "おさむせん",
+      "word": "修撰"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

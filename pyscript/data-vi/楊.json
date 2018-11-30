@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd73aeca",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cây liễu; trở thành thon nhỏ"
+        }
+      ],
+      "mobileId": 72439,
+      "phonetic": "",
+      "word": "楊"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954e5cb0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây liễu rủ cành"
+        }
+      ],
+      "mobileId": 58592,
+      "phonetic": "",
+      "word": "垂楊"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adcb3bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hu poplar, Populus euphratica"
+        }
+      ],
+      "mobileId": 230503,
+      "phonetic": "こようじゅ",
+      "word": "胡楊樹"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,177 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdde59dc",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "thiết lập"
+        },
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "luật dân sự"
+        }
+      ],
+      "mobileId": 16796,
+      "opposite_word": [
+        "難"
+      ],
+      "phonetic": "えき",
+      "word": "易"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdde9e9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tôi ching; yi jing(quyển) sách (của) những sự thay đổi"
+        }
+      ],
+      "mobileId": 16807,
+      "phonetic": "えきけい",
+      "word": "易経"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d903221",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đoán, sự tiên đoán; sự bói toán, lời đoán đúng, lời đoán giỏi; sự đoán tài"
+        }
+      ],
+      "mobileId": 150305,
+      "phonetic": "しゅうえき",
+      "related_words": {
+        "word": [
+          "周"
+        ]
+      },
+      "word": "周易"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6deea5cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the death of a scholar"
+        }
+      ],
+      "mobileId": 222836,
+      "phonetic": "えきさく",
+      "word": "易簀"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af7dc85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "three methods of Chinese divination (Lian Shan of the Xia period, Gui Cang of the Yin period and Zhou Yi of the Zhou period)"
+        }
+      ],
+      "mobileId": 231355,
+      "phonetic": "さんえき",
+      "word": "三易"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f13c468",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thuật bói toán; lời bói toán ."
+        }
+      ],
+      "mobileId": 185261,
+      "phonetic": "えきだん",
+      "word": "易断"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd92e5ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính chuyển động, tính di động; tính lưu động, tính hay thay đổi, tính dễ biến đổi, tính biến đổi nhanh"
+        }
+      ],
+      "mobileId": 14456,
+      "phonetic": "えきどうど",
+      "related_words": {
+        "word": [
+          "度",
+          "動"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "易動度",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "機動力",
+                "可動性",
+                "快速"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "易動度"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde03969",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "xem quẻ, xem bói"
+        }
+      ],
+      "mobileId": 16862,
+      "phonetic": "えきをみる",
+      "word": "易を見る"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd615e90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "thỏa hiệp"
+        }
+      ],
+      "mobileId": 12901,
+      "phonetic": "えきかんせんせい",
+      "related_words": {
+        "word": [
+          "性",
+          "感染"
+        ]
+      },
+      "word": "易感染性"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9e4077",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5m",
+          "mean": "để theo đuổi từ dễ đến khó"
+        }
+      ],
+      "mobileId": 14811,
+      "phonetic": "えきよりなんへすすむ",
+      "word": "易より難へ進む"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

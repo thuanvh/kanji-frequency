@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e89160d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mẫu sặc sỡ"
+        }
+      ],
+      "mobileId": 38149,
+      "phonetic": "あやぶん",
+      "word": "絢文"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4c431e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vải Đa- mát, tơ lụa Đa- mát"
+        }
+      ],
+      "mobileId": 12231,
+      "phonetic": "あやどんす",
+      "related_words": {
+        "word": [
+          "子"
+        ]
+      },
+      "word": "絢緞子"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

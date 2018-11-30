@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa70c136e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "heo"
+        },
+        {
+          "examples": [
+            {
+              "content": "豚にブーブー唸り声以外の何を期待するというのか。",
+              "mean": "Mày mong chờ gì từ con lợn ngoài tiếng kêu ủn ỉn hả? .",
+              "transcription": "ぶたにブーブーうなりごえいがいのなにをきたいするというのか。"
+            }
+          ],
+          "kind": "n",
+          "mean": "lợn"
+        }
+      ],
+      "mobileId": 106898,
+      "phonetic": "ぶた",
+      "related_words": {
+        "word": [
+          "豚肉",
+          "酢豚",
+          "焼き豚",
+          "河豚",
+          "海豚",
+          "豚カツ",
+          "養豚"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "豚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ポーク",
+                "豚肉"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "豚"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3acceb50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pig and dog"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dullard, halfwit"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "my child"
+        }
+      ],
+      "mobileId": 229981,
+      "phonetic": "とんけん",
+      "word": "豚犬"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa70cc810",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chân giò lợn ."
+        }
+      ],
+      "mobileId": 106906,
+      "phonetic": "とんそく",
+      "related_words": {
+        "word": [
+          "足",
+          "豚"
+        ]
+      },
+      "word": "豚足"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e6c70db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "aardvark (orycteropus)"
+        }
+      ],
+      "mobileId": 114499,
+      "phonetic": "どぶた",
+      "related_words": {
+        "word": [
+          "豚",
+          "土"
+        ]
+      },
+      "word": "土豚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94ea90a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Okinawan pig breed"
+        }
+      ],
+      "mobileId": 275255,
+      "phonetic": "しまぶた シマウヮー",
+      "word": "島豚"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f8ed06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fatty pork (from cheek, neck or shoulder)"
+        }
+      ],
+      "mobileId": 272535,
+      "phonetic": "とんトロ とんとろ",
+      "word": "豚トロ"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a856a7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lard, pig fat"
+        }
+      ],
+      "mobileId": 227661,
+      "phonetic": "とんし",
+      "word": "豚脂"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d39e19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pork loin, pork roast"
+        }
+      ],
+      "mobileId": 279533,
+      "phonetic": "ぶたロース",
+      "word": "豚ロース"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e97799",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "white pig"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "white person"
+        }
+      ],
+      "mobileId": 280226,
+      "phonetic": "しろぶた",
+      "word": "白豚"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0d01bc",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Lợn cái/ heo cái"
+        }
+      ],
+      "mobileId": 223821,
+      "phonetic": "めぶた",
+      "word": "雌豚"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

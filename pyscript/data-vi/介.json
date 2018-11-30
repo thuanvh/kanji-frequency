@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193289368",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bóc vỏ; loài sò hến; hiện thân bên trong giữa; sự điều đình; dự vào"
+        }
+      ],
+      "mobileId": 19223,
+      "phonetic": "かい",
+      "related_words": {
+        "word": [
+          "自己紹介",
+          "紹介",
+          "紹介する",
+          "介護",
+          "仲介",
+          "紹介者",
+          "介して",
+          "厄介",
+          "介入",
+          "魚介類"
+        ]
+      },
+      "word": "介"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193296409",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vỏ sò, vỏ ốc"
+        }
+      ],
+      "mobileId": 19252,
+      "phonetic": "かいから",
+      "related_words": {
+        "word": [
+          "介",
+          "殻"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "介殻",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "甲",
+                "甲羅",
+                "シェル",
+                "甲殻",
+                "殻",
+                "貝殻",
+                "貝"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "介殻"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df6de3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tai ngoài, chỗ lồi ra như dái tai, tâm nhĩ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự làm tan rã, sự làm rã ra, sự phân huỷ"
+        }
+      ],
+      "mobileId": 153623,
+      "phonetic": "じ かい",
+      "word": "耳介"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933830b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chăm sóc bệnh nhân"
+        }
+      ],
+      "mobileId": 19723,
+      "phonetic": "かいびょう",
+      "related_words": {
+        "word": [
+          "介",
+          "病"
+        ]
+      },
+      "word": "介病"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a02688c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "medial, final-head (glide before the center vowel in Chinese)"
+        }
+      ],
+      "mobileId": 223481,
+      "phonetic": "かいおん",
+      "word": "介音"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933bd276",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con cá và loài sò hến"
+        }
+      ],
+      "mobileId": 19843,
+      "phonetic": "かいうろこ",
+      "related_words": {
+        "word": [
+          "介",
+          "鱗"
+        ]
+      },
+      "word": "介鱗"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d7dfc9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Vỏ cứng ."
+        }
+      ],
+      "mobileId": 143594,
+      "phonetic": "かいこう",
+      "related_words": {
+        "word": [
+          "甲",
+          "介"
+        ]
+      },
+      "word": "介甲"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933b52ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mang một trứng (biol)"
+        }
+      ],
+      "mobileId": 19822,
+      "phonetic": "かいたまご",
+      "related_words": {
+        "word": [
+          "卵",
+          "介"
+        ]
+      },
+      "word": "介卵"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed958a66bf",
+      "means": [
+        {
+          "examples": "",
+          "kind": "adj-na, n",
+          "mean": "giao thoa sớm"
+        }
+      ],
+      "mobileId": 60496,
+      "phonetic": "せっ かい",
+      "related_words": {
+        "word": [
+          "介",
+          "節"
+        ]
+      },
+      "word": "節介"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778a401b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chinook salmon (Oncorhynchus tshawytscha), king salmon, tyee salmon, Columbia River salmon, black salmon, chub salmon, hook bill salmon, winter salmon, spring salmon, quinnat salmon, blackmouth"
+        }
+      ],
+      "mobileId": 268945,
+      "phonetic": "ますのすけ マスノスケ",
+      "word": "鱒の介"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

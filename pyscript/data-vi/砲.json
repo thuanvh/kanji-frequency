@@ -1,0 +1,232 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ab96b20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "súng thần công; pháo ."
+        }
+      ],
+      "mobileId": 173367,
+      "phonetic": "ほう",
+      "related_words": {
+        "word": [
+          "大砲",
+          "鉄砲",
+          "水鉄砲",
+          "砲撃",
+          "発砲",
+          "砲弾",
+          "自走砲",
+          "迫撃砲",
+          "無鉄砲",
+          "砲手"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "砲",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "大砲",
+                "火砲",
+                "重砲"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "砲"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cd5f7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nguồn pin"
+        }
+      ],
+      "mobileId": 6554,
+      "phonetic": "ほうれつ",
+      "word": "砲列"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e48b4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phơi pháo binh phòng thủ"
+        }
+      ],
+      "mobileId": 7276,
+      "phonetic": "ぼうくうほう",
+      "related_words": {
+        "word": [
+          "空",
+          "砲"
+        ]
+      },
+      "word": "防空砲"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568013b8cf8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "高射砲集団",
+              "mean": "đại đội pháo cao xạ",
+              "transcription": "こうしゃほうしゅうだん"
+            },
+            {
+              "content": "彼らは敵から奪った高射砲を修理する",
+              "mean": "Họ sửa chữa súng phòng không (pháo cao xạ) cướp được từ kẻ kịch .",
+              "transcription": "かれらはてきからうばったこうしゃほうをしゅうりする"
+            }
+          ],
+          "kind": "n",
+          "mean": "pháo cao xạ; súng phòng không"
+        }
+      ],
+      "mobileId": 42760,
+      "phonetic": "こうしゃほう",
+      "related_words": {
+        "word": [
+          "砲"
+        ]
+      },
+      "word": "高射砲"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90d47fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gun mount, gun carriage"
+        }
+      ],
+      "mobileId": 273193,
+      "phonetic": "ほうか",
+      "word": "砲架"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680658d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vữa, hồ, cối giã, súng cối, trát vữa vào, nã súng cối vào"
+        }
+      ],
+      "mobileId": 197,
+      "phonetic": "はくげきほう",
+      "related_words": {
+        "word": [
+          "撃",
+          "砲"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "迫撃砲",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "榴弾砲",
+                "臼砲",
+                "曲射砲"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "迫撃砲"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8159dc2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pháo bức kích, súng bắn đạn trái phá"
+        }
+      ],
+      "mobileId": 34189,
+      "phonetic": "きょくしゃほう",
+      "related_words": {
+        "word": [
+          "曲",
+          "砲"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "曲射砲",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "迫撃砲",
+                "榴弾砲",
+                "臼砲"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "曲射砲"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0aac2b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cannon"
+        }
+      ],
+      "mobileId": 212333,
+      "phonetic": "キャノンほう",
+      "word": "キャノン砲"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90ce073",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "roar of a cannon"
+        }
+      ],
+      "mobileId": 273177,
+      "phonetic": "ほうおん",
+      "word": "砲音"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7219a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "assault gun"
+        }
+      ],
+      "mobileId": 251700,
+      "phonetic": "とつげきほう",
+      "word": "突撃砲"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

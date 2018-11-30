@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9139201",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anti-microbial, antifungal, antimicrobe"
+        }
+      ],
+      "mobileId": 273402,
+      "phonetic": "ぼうきん",
+      "word": "防菌"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a39e043",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "protection from smoke, anti-smoke"
+        }
+      ],
+      "mobileId": 225261,
+      "phonetic": "ぼうえん",
+      "word": "防煙"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e9c856",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thư ký (của) bảo vệ"
+        }
+      ],
+      "mobileId": 7444,
+      "phonetic": "ぼうちょうかん",
+      "related_words": {
+        "word": [
+          "長",
+          "長官"
+        ]
+      },
+      "word": "防長官"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e043d95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mold prevention, mildew prevention"
+        }
+      ],
+      "mobileId": 248137,
+      "phonetic": "ぼうカビ ぼうかび ぼうばい",
+      "word": "防カビ"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0972ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "watertight, waterproof"
+        }
+      ],
+      "mobileId": 215397,
+      "phonetic": "ぼうしん",
+      "word": "防浸"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77912908",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frontier defences, frontier defenses"
+        }
+      ],
+      "mobileId": 269167,
+      "phonetic": "へんぼう",
+      "word": "辺防"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773bda71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "stab-proof, knife-proof"
+        }
+      ],
+      "mobileId": 266395,
+      "phonetic": "ぼうじん",
+      "word": "防刃"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08c867f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "rainproof, treated against drops of water penetrating"
+        }
+      ],
+      "mobileId": 211357,
+      "phonetic": "ぼうてき",
+      "word": "防滴"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e89142f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "防爆仕様",
+              "mean": "Cách ngăn chặn thiệt hại của vụ nổ",
+              "transcription": "ぼうばくし よう"
+            }
+          ],
+          "kind": "n",
+          "mean": "Ngăn chặn thiệt hại của vụ nổ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ぼうばく",
+      "word": "防爆"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9adef0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "protection against rain, rainproof, raintight"
+        }
+      ],
+      "mobileId": 278267,
+      "phonetic": "ぼうう",
+      "word": "防雨"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

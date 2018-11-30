@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f011b63",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "暴走族",
+              "mean": "Nhón đua xe tốc độ",
+              "transcription": "ぼうそうぞく"
+            },
+            {
+              "content": "kパラメーターの指数分布族",
+              "mean": "Họ phân bố số mũ của thông số k. .",
+              "transcription": "kパラメーターのしすうぶんぷぞく"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "tộc; họ; nhóm"
+        }
+      ],
+      "mobileId": 184894,
+      "phonetic": "ぞく",
+      "related_words": {
+        "word": [
+          "家族",
+          "民族",
+          "種族",
+          "水族館",
+          "貴族",
+          "大家族",
+          "一族",
+          "親族",
+          "核家族",
+          "部族"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "族",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "眷族",
+                "一門",
+                "血族",
+                "一族",
+                "家筋",
+                "家系",
+                "家門"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "眷族",
+                "クラン",
+                "一門",
+                "親類",
+                "血族",
+                "一族",
+                "閥族",
+                "家門",
+                "親族"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "族"
+    },
+    {
+      "_id": "432518852de0a80625d585a98200bd47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "divine being, inhabitant of heaven"
+        }
+      ],
+      "mobileId": 231664,
+      "phonetic": "しんぞく",
+      "word": "神族"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef948e026",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Mongolian people"
+        }
+      ],
+      "mobileId": 275076,
+      "phonetic": "モンゴルぞく",
+      "word": "モンゴル族"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf43961",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Zulu tribe"
+        }
+      ],
+      "mobileId": 247632,
+      "phonetic": "ズールーぞく",
+      "word": "ズールー族"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df38d93",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những con cú đêm"
+        }
+      ],
+      "mobileId": 153511,
+      "phonetic": "しんやぞく",
+      "word": "深夜族"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e9ff170",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "beatniks"
+        }
+      ],
+      "mobileId": 253209,
+      "phonetic": "ビートぞく",
+      "word": "ビート族"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1c5b4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hui (Islamic ethnic minority group of China)"
+        }
+      ],
+      "mobileId": 224320,
+      "phonetic": "かいぞく",
+      "related_words": {
+        "word": [
+          "回",
+          "族"
+        ]
+      },
+      "word": "回族"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac854b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Khoi (people), Khoikhoi, Khoi-khoin"
+        }
+      ],
+      "mobileId": 229812,
+      "phonetic": "コイぞく",
+      "word": "コイ族"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac89964",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Semites"
+        }
+      ],
+      "mobileId": 229822,
+      "phonetic": "セムぞく",
+      "word": "セム族"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac8a717",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tamil (people)"
+        }
+      ],
+      "mobileId": 229823,
+      "phonetic": "タミルぞく",
+      "word": "タミル族"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

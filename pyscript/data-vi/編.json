@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b07d04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "sự biên soạn; soạn thảo; hoàn thành bài thơ(quyển) sách; chia ra (của) (quyển) sách"
+        }
+      ],
+      "mobileId": 5630,
+      "phonetic": "へん",
+      "related_words": {
+        "word": [
+          "編集",
+          "編集する",
+          "編集者",
+          "編曲",
+          "編集部",
+          "前編",
+          "編成",
+          "後編",
+          "編隊",
+          "再編成"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "編",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "巻",
+                "書籍",
+                "書物",
+                "本",
+                "ボリューム",
+                "冊"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "編"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f284ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "knitted fabric, crocheted fabric"
+        }
+      ],
+      "mobileId": 280516,
+      "phonetic": "あみじ",
+      "word": "編地"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bc55d15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "auxiliary part"
+        }
+      ],
+      "mobileId": 246131,
+      "phonetic": "ほそくへん",
+      "word": "補足編"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd97ce30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sách khâu lại, đóng lại bằng dây da (thư tịch cổ)"
+        }
+      ],
+      "mobileId": 14607,
+      "phonetic": "",
+      "word": "韋編"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d7fcfa1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bạn (chị, em gái) thể tích (tới); sự tiếp tục (tới)"
+        }
+      ],
+      "mobileId": 149780,
+      "phonetic": "しまいへん",
+      "word": "姉妹編"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a130430",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "food radical (in kanji)"
+        }
+      ],
+      "mobileId": 224012,
+      "phonetic": "しょくへん",
+      "word": "食編"
+    },
+    {
+      "_id": "432518852de0a80625d585a9823f3fae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bianzhong (ancient Chinese musical instrument; bronze bells set in a wooden frame, played with a mallet)"
+        }
+      ],
+      "mobileId": 233626,
+      "phonetic": "へんしょう",
+      "word": "編鐘"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda2093f",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "(phim, movie) xem trước; duyệt xem trước"
+        }
+      ],
+      "mobileId": 73963,
+      "phonetic": "よこくへん",
+      "word": "予告編"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8e3375",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mảnh ((của) nghệ thuật thơ)"
+        }
+      ],
+      "mobileId": 14301,
+      "phonetic": "いちへん",
+      "word": "一編"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a21e6d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hồi kết"
+        }
+      ],
+      "mobileId": 23061,
+      "phonetic": "かんけつへん",
+      "related_words": {
+        "word": [
+          "編",
+          "完結"
+        ]
+      },
+      "word": "完結編"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

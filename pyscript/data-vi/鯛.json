@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801442f61",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá hồng ."
+        }
+      ],
+      "mobileId": 42919,
+      "phonetic": "たい",
+      "related_words": {
+        "word": [
+          "金目鯛"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鯛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "タイ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鯛"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f693f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "câu cá - bánh đa theo khuôn làm đầy sự bế tắc đậu"
+        }
+      ],
+      "mobileId": 63995,
+      "phonetic": "たいやき",
+      "related_words": {
+        "word": [
+          "鯛",
+          "焼き"
+        ]
+      },
+      "word": "鯛焼き"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dfb2e51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(adult male) Asian sheepshead wrasse (Semicossyphus reticulatus)"
+        }
+      ],
+      "mobileId": 223249,
+      "phonetic": "こぶだい",
+      "word": "瘤鯛"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7799532f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vertical-striped cardinalfish (Apogon lineatus), Indian perch, coral fish"
+        }
+      ],
+      "mobileId": 269424,
+      "phonetic": "てんじくだい テンジクダイ",
+      "word": "天竺鯛"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a49e705",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red sea bream (Pagellus bogaraveo)"
+        }
+      ],
+      "mobileId": 225781,
+      "phonetic": "スペインだい スペインダイ",
+      "word": "スペイン鯛"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e63eda4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "John Dory (Zeus faber)"
+        }
+      ],
+      "mobileId": 251260,
+      "phonetic": "まとうだい マトウダイ",
+      "word": "的鯛"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e9d86ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scalpel sawtail (Prionurus scalprum, species of tang found from Japan to Taiwan)"
+        }
+      ],
+      "mobileId": 253129,
+      "phonetic": "にざだい にざだひ ニザダイ",
+      "word": "仁座鯛"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a98d0bc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pearl-spot chromis (Chromis notata, species of damselfish found in southern Japan, Ryukyu Islands, Taiwan, and China)"
+        }
+      ],
+      "mobileId": 260791,
+      "phonetic": "すずめだい スズメダイ",
+      "word": "雀鯛"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4a104d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "star snapper (species of fish, Lutjanus stellatus)"
+        }
+      ],
+      "mobileId": 225786,
+      "phonetic": "ふえだい フエダイ",
+      "word": "笛鯛"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dfb32e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Asian sheepshead wrasse (Semicossyphus reticulatus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "scarbreast tuskfin (Choerodon azurio)"
+        }
+      ],
+      "mobileId": 223250,
+      "phonetic": "かんだい",
+      "word": "寒鯛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

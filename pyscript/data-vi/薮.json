@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280279f699e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bụi cây ."
+        }
+      ],
+      "mobileId": 31904,
+      "phonetic": "やぶ",
+      "word": "薮"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770b83e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "holiday granted to servants on the 16th of the first and seventh months"
+        }
+      ],
+      "mobileId": 264824,
+      "phonetic": "やぶいり",
+      "word": "薮入り"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd7b685b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cung mê, đường rối, trạng thái rắc rối phức tạp, đường dẫn, ; tai trong"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cung mê; đường rồi, trạng thái hỗn độn, trạng thái rối rắm"
+        }
+      ],
+      "mobileId": 72679,
+      "phonetic": "やはたのやぶしらず",
+      "related_words": {
+        "word": [
+          "の",
+          "八"
+        ]
+      },
+      "word": "八幡の薮知らず"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd74fa7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "đừng làm điều gì thừa thãi, nó sẽ gây tai họa"
+        }
+      ],
+      "mobileId": 72477,
+      "phonetic": "やぶをつついてへびをだす",
+      "word": "薮をつついて蛇を出す"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

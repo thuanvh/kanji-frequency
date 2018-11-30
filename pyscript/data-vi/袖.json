@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b67ada",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ống tay áo"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tay áo ."
+        }
+      ],
+      "mobileId": 32289,
+      "phonetic": "そで",
+      "related_words": {
+        "word": [
+          "半袖",
+          "長袖",
+          "袖口",
+          "振袖",
+          "七分袖"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "袖",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "スリーブ",
+                "袂"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウィング",
+                "ウイング",
+                "舞台裏"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "袖"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d8775f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "áo không có tay, áo ba lỗ"
+        }
+      ],
+      "mobileId": 63020,
+      "phonetic": "そでなし",
+      "related_words": {
+        "word": [
+          "無し",
+          "無",
+          "袖"
+        ]
+      },
+      "word": "袖無し"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0394334",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "projecting signboard, side signboard, signboard projecting from a building"
+        }
+      ],
+      "mobileId": 282802,
+      "phonetic": "そでかんばん",
+      "word": "袖看板"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107d8cb81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tay áo rộng ."
+        }
+      ],
+      "mobileId": 55513,
+      "phonetic": "ひらそで",
+      "related_words": {
+        "word": [
+          "平",
+          "袖"
+        ]
+      },
+      "word": "平袖"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770ac8a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kimono with completely attached sleeves (i.e. lacking an opening on the side under the armpit)"
+        }
+      ],
+      "mobileId": 264802,
+      "phonetic": "つめそで",
+      "word": "詰め袖"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d84d6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lỗ áo để xỏ cánh tay vào"
+        }
+      ],
+      "mobileId": 63016,
+      "phonetic": "そでくり",
+      "word": "袖刳り"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef976d0ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "portable incense burner (ball-shaped and carried in one's clothes)"
+        }
+      ],
+      "mobileId": 276525,
+      "phonetic": "そでごうろ",
+      "word": "袖香炉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7701417f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one sleeve"
+        }
+      ],
+      "mobileId": 264497,
+      "phonetic": "かたそで",
+      "word": "片袖"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a5195c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tay áo tròn và ngắn của áo kimônô"
+        }
+      ],
+      "mobileId": 38781,
+      "phonetic": "げんろくそで",
+      "word": "元禄袖"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77619e20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "puffed-up sleeves"
+        }
+      ],
+      "mobileId": 267612,
+      "phonetic": "ちょうちんそで",
+      "word": "提灯袖"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

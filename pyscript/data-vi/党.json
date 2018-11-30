@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7de85c67",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "民主党",
+              "mean": "đảng dân chủ",
+              "transcription": "みんしゅとう"
+            },
+            {
+              "content": "共産党",
+              "mean": "đảng cộng sản",
+              "transcription": "きょうさんとう"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "Đảng (chính trị)"
+        }
+      ],
+      "mobileId": 145369,
+      "phonetic": "とう",
+      "related_words": {
+        "word": [
+          "民主党",
+          "自由民主党",
+          "政党",
+          "野党",
+          "与党",
+          "悪党",
+          "甘党",
+          "党利",
+          "党首",
+          "社会党"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "党",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "公党",
+                "政党",
+                "パーティー",
+                "党派",
+                "パルタイ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "連合",
+                "リーグ",
+                "聯合",
+                "同盟",
+                "連盟",
+                "協会"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一党",
+                "閥",
+                "派閥",
+                "連中",
+                "門閥",
+                "一群れ",
+                "閥族",
+                "派",
+                "徒党",
+                "会派",
+                "同人",
+                "党派",
+                "暴力団",
+                "徒",
+                "朋党"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "党"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68752389",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự trả lời, sự đáp lại, sự hưởng ứng, sự phản ứng lại; vận động phản ứng lại, responsory"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "câu trả lời, lời đáp, trả lời, đáp lại"
+        }
+      ],
+      "mobileId": 3733,
+      "phonetic": "ふくとう",
+      "word": "復党"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf73ea9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đảng được nhà vua hậu thuẩn, ủng hộ; vương đảng"
+        }
+      ],
+      "mobileId": 17605,
+      "phonetic": "おうとう",
+      "word": "王党"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9569c07d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chính đảng trong sức mạnh"
+        }
+      ],
+      "mobileId": 59469,
+      "phonetic": "せいけんとう",
+      "word": "政権党"
+    },
+    {
+      "_id": "b561b13ae6751b79ec119ece470f9afb",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "đảng viên"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "とうしゃ",
+      "word": "党者"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1171e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "party leaders, party executive"
+        }
+      ],
+      "mobileId": 215655,
+      "phonetic": "とうしゅのう",
+      "word": "党首脳"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d503b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "leading members of a party, party executive, party leadership, senior party members"
+        }
+      ],
+      "mobileId": 271378,
+      "phonetic": "とうかんぶ",
+      "word": "党幹部"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dc278c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "party position, party post"
+        }
+      ],
+      "mobileId": 263310,
+      "phonetic": "とうしょく",
+      "word": "党職"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e0a2fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những người đế quốc chủ nghĩa"
+        }
+      ],
+      "mobileId": 63283,
+      "phonetic": "そんのうとう",
+      "related_words": {
+        "word": [
+          "王",
+          "尊",
+          "党"
+        ]
+      },
+      "word": "尊王党"
+    },
+    {
+      "_id": "432518852de0a80625d585a98278fae4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "left-wing party, party of the left"
+        }
+      ],
+      "mobileId": 235451,
+      "phonetic": "さよくとう",
+      "word": "左翼党"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

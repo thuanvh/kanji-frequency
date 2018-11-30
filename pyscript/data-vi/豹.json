@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa70f4cf0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "báo"
+        },
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Con báo"
+        }
+      ],
+      "mobileId": 106949,
+      "phonetic": "ひょう",
+      "related_words": {
+        "word": [
+          "海豹",
+          "豹変"
+        ]
+      },
+      "word": "豹"
+    },
+    {
+      "_id": "ac12816c3281c52ce90ba353b6b7c370",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "黒豹",
+              "mean": "báo đen",
+              "transcription": "くろひょう"
+            },
+            {
+              "content": "黒豹",
+              "mean": "báo đen",
+              "transcription": "くろひょう"
+            },
+            {
+              "content": "雌豹",
+              "mean": "báo cái .",
+              "transcription": "めすひょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "báo đốm Mỹ"
+        }
+      ],
+      "mobileId": 133386,
+      "phonetic": "アメリカひょう",
+      "related_words": {
+        "word": [
+          "アメリカ",
+          "豹"
+        ]
+      },
+      "word": "アメリカ豹"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a992390a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clouded leopard (Neofelis nebulosa)"
+        }
+      ],
+      "mobileId": 260959,
+      "phonetic": "うんぴょう ウンピョウ",
+      "word": "雲豹"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014feee2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Con báo đen; báo đen ."
+        }
+      ],
+      "mobileId": 43139,
+      "phonetic": "くろひょう",
+      "word": "黒豹"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b77a07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hyoubi, one of the eight gods of the koyomi"
+        }
+      ],
+      "mobileId": 262143,
+      "phonetic": "ひょうび",
+      "word": "豹尾"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04e1067",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Indian leopard (Panthera pardus fusca)"
+        }
+      ],
+      "mobileId": 283457,
+      "phonetic": "インドひょう インドヒョウ",
+      "word": "インド豹"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e56aa5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Weddell seal (Leptonychotes weddellii)"
+        }
+      ],
+      "mobileId": 250816,
+      "phonetic": "ウェッデルあざらし ウェッデルアザラシ",
+      "word": "ウェッデル海豹"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1de940",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "leopard seal (Hydrurga leptonyx)"
+        }
+      ],
+      "mobileId": 224366,
+      "phonetic": "ひょうあざらし ヒョウアザラシ",
+      "word": "豹海豹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93ca727",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Amur leopard (Panthera pardus orientalis)"
+        }
+      ],
+      "mobileId": 274708,
+      "phonetic": "アムールひょう アムールヒョウ",
+      "word": "アムール豹"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e632fb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snow leopard (Panthera uncia), ounce"
+        }
+      ],
+      "mobileId": 251235,
+      "phonetic": "ゆきひょう ユキヒョウ",
+      "word": "雪豹"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

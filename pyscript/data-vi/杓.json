@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d87f1aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái môi (để múc)"
+        }
+      ],
+      "mobileId": 150047,
+      "phonetic": "しゃく",
+      "word": "杓"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7d36fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "curlew (any bird of genus Numenius)"
+        }
+      ],
+      "mobileId": 227394,
+      "phonetic": "しゃくしぎ シャクシギ",
+      "word": "杓鴫"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822b8154",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "to be concaved, to have a concave shape"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to be crooked (chin)"
+        }
+      ],
+      "mobileId": 233012,
+      "phonetic": "しゃくれる",
+      "word": "杓れる"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7d36ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Eurasian curlew (Numenius arquata)"
+        }
+      ],
+      "mobileId": 227393,
+      "phonetic": "だいしゃくしぎ ダイシャクシギ",
+      "word": "大杓鷸"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7d1e60",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "whimbrel (species of curlew, Numenius phaeopus)"
+        }
+      ],
+      "mobileId": 227390,
+      "phonetic": "ちゅうしゃくしぎ チュウシャクシギ",
+      "word": "中杓鷸"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7d2f0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "long-billed curlew (Numenius americanus)"
+        }
+      ],
+      "mobileId": 227392,
+      "phonetic": "アメリカだいしゃくしぎ アメリカダイシャクシギ",
+      "word": "アメリカ大杓鷸"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

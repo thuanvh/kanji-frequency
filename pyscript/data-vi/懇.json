@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0476f20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "repeated, earnest, kind"
+        }
+      ],
+      "mobileId": 209135,
+      "phonetic": "こんこん",
+      "word": "懇懇"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b77c8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xung quanh hội nghị về giá gạo bảng"
+        }
+      ],
+      "mobileId": 5866,
+      "phonetic": "べいこん",
+      "word": "米懇"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

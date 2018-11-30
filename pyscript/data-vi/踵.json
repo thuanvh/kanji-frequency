@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa73eefa5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ひび割れした踵",
+              "mean": "gót chân nứt nẻ .",
+              "transcription": "ひびわれしたかかと"
+            }
+          ],
+          "kind": "n",
+          "mean": "gót chân; gót"
+        }
+      ],
+      "mobileId": 107705,
+      "opposite_word": [
+        "爪先"
+      ],
+      "phonetic": "かかと",
+      "synsets": [
+        {
+          "base_form": "踵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ヒール"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "踵"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e67a5fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "calcaneus, calcaneum, heel bone"
+        }
+      ],
+      "mobileId": 251384,
+      "phonetic": "しょうこつ",
+      "word": "踵骨"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d82747e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp, v5s",
+          "mean": "Quay gót trở về"
+        }
+      ],
+      "mobileId": 219279,
+      "phonetic": "きびすをかえす くびすをかえす",
+      "word": "踵を返す"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

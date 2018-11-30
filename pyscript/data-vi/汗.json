@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fb13c2c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼は汗びっしょりだ。",
+              "mean": "Anh ấy người ướt đẫm mồ hôi.",
+              "transcription": "かれはあせびっしょりだ。"
+            },
+            {
+              "content": "大汗",
+              "mean": "mồ hôi hột",
+              "transcription": "だいあせ"
+            },
+            {
+              "content": "〜を流れ落ちる汗",
+              "mean": "mồ hôi túa ra",
+              "transcription": "〜をながれおちるあせ"
+            },
+            {
+              "content": "汗かきの人",
+              "mean": "người nhiều mồ hôi .",
+              "transcription": "あせかきのひと"
+            }
+          ],
+          "kind": "n",
+          "mean": "mồ hôi"
+        }
+      ],
+      "mobileId": 187850,
+      "phonetic": "あせ",
+      "related_words": {
+        "word": [
+          "汗をかく",
+          "発汗",
+          "冷や汗",
+          "汗疹",
+          "汗顔",
+          "冷汗"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "汗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "スエット"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "汗"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd38f2ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "có mùi mồ hôi"
+        }
+      ],
+      "mobileId": 11610,
+      "phonetic": "あせくさい",
+      "word": "汗臭い"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b55677",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(written) history"
+        }
+      ],
+      "mobileId": 286772,
+      "phonetic": "かんせい",
+      "word": "汗青"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0558366",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khanate"
+        }
+      ],
+      "mobileId": 283707,
+      "phonetic": "かんこく",
+      "word": "汗国"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568015383f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mồ hôi mũi ."
+        }
+      ],
+      "mobileId": 43222,
+      "phonetic": "はなあせ",
+      "related_words": {
+        "word": [
+          "汗",
+          "鼻"
+        ]
+      },
+      "word": "鼻汗"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d6faf7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "absorbing sweat"
+        }
+      ],
+      "mobileId": 271451,
+      "phonetic": "きゅうかん",
+      "word": "吸汗"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e0b645",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sweat caused by fear, stress, etc."
+        }
+      ],
+      "mobileId": 271762,
+      "phonetic": "なまあせ",
+      "word": "生汗"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93bd7bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dyshidrosis, pompholyx, athlete's foot"
+        }
+      ],
+      "mobileId": 274686,
+      "phonetic": "かんぽう",
+      "word": "汗疱"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d547604",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ancient Japanese sweat-absorbent summer garment"
+        }
+      ],
+      "mobileId": 217804,
+      "phonetic": "かざみ",
+      "word": "汗衫"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e3272a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "heavy sweating, a great deal of sweat"
+        }
+      ],
+      "mobileId": 249650,
+      "phonetic": "おおあせ",
+      "word": "大汗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

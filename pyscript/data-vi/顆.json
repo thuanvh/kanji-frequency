@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d7a3577",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "condyle"
+        },
+        {
+          "examples": null,
+          "kind": "ctr",
+          "mean": "counter for grains and small spheres"
+        }
+      ],
+      "mobileId": 219026,
+      "phonetic": "か",
+      "word": "顆"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93c9ce6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Condylarthra, extinct order of mammals"
+        }
+      ],
+      "mobileId": 274707,
+      "phonetic": "かせつもく",
+      "word": "顆節目"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db6bb70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stamp, seal"
+        }
+      ],
+      "mobileId": 221021,
+      "phonetic": "いんか",
+      "word": "印顆"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

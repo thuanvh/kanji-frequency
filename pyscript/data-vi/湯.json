@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fefe22a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "もうお湯が冷たくなってきてるでしょ。体が冷える前に出てきなさい。",
+              "mean": "Nuớc đang lạnh đi đấy, bạn phải ra khỏi nước trước khi bị cảm lạnh. .",
+              "transcription": "もうおゆがつめたくなってきてるでしょ。からだがひえるまえにでてきなさい。"
+            }
+          ],
+          "kind": "n",
+          "mean": "nước sôi"
+        }
+      ],
+      "mobileId": 188887,
+      "opposite_word": [
+        "水"
+      ],
+      "phonetic": "ゆ",
+      "related_words": {
+        "word": [
+          "給湯器",
+          "銭湯",
+          "お湯",
+          "給湯",
+          "熱湯",
+          "湯豆腐",
+          "湯気",
+          "湯沸かし器",
+          "湯船",
+          "白湯"
+        ]
+      },
+      "word": "湯"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d29c420",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(sự thêm (của)) nóng rót nước"
+        }
+      ],
+      "mobileId": 147051,
+      "phonetic": "さしゆ",
+      "word": "差し湯"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e037a8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "an offering of tea and hot water made to Buddha or the spirit of the deceased"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "a tea infusion, tea and hot water"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tea ceremony"
+        }
+      ],
+      "mobileId": 248113,
+      "phonetic": "ちゃとう",
+      "word": "茶湯"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778f1e89",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Quần áo mặc sau tắm"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Cơm nấu hai lần (Cho người ốm)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "scoop for removing bilge water"
+        }
+      ],
+      "mobileId": 269099,
+      "phonetic": "ゆとり",
+      "word": "湯取り"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d08d50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thick malt syrup poured into boiling water and sprinkled with cinnamon (used as a refreshing summer drink)"
+        }
+      ],
+      "mobileId": 262943,
+      "phonetic": "あめゆ",
+      "word": "飴湯"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684c15a2",
+      "means": [
+        {
+          "kind": "n",
+          "mean": "Suối nước nóng không nổi tiếng, suối nước nóng bí mật không cho ai biết"
+        }
+      ],
+      "mobileId": 2451,
+      "phonetic": "ひ とう",
+      "related_words": {
+        "word": [
+          "湯"
+        ]
+      },
+      "word": "秘湯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92635f7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "thăm suối nước nóng"
+        }
+      ],
+      "mobileId": 257492,
+      "phonetic": "ゆめぐり",
+      "word": "湯めぐり"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19326e47f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phòng tắm dành cho nữ"
+        }
+      ],
+      "mobileId": 19170,
+      "phonetic": "じょゆ",
+      "related_words": {
+        "word": [
+          "女",
+          "湯"
+        ]
+      },
+      "word": "女湯"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193006f82",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thùng (của) sạch rót nước (trong một tắm cái nhà)"
+        }
+      ],
+      "mobileId": 17896,
+      "phonetic": "おかゆ",
+      "word": "岡湯"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6f9f74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "top-grade Chinese soup stock"
+        }
+      ],
+      "mobileId": 226960,
+      "phonetic": "シャンタン",
+      "word": "上湯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

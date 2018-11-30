@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d05014",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pleasantry, joke, tomfoolery"
+        }
+      ],
+      "mobileId": 279419,
+      "phonetic": "あじゃら あじゃれ あざれ",
+      "word": "戯"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada42fce0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự vuốt ve kích thích trước khi giao hợp ."
+        }
+      ],
+      "mobileId": 78079,
+      "phonetic": "ぜんぎ",
+      "related_words": {
+        "word": [
+          "前"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "前戯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "刺激",
+                "呼び水",
+                "刺衝",
+                "刺戟",
+                "振起",
+                "興奮"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "前戯"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94e8455",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "jocular name, jocular term, humoristic nickname"
+        }
+      ],
+      "mobileId": 275251,
+      "phonetic": "ぎしょう",
+      "word": "戯称"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4a8251",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s",
+          "mean": "tới sự trao đổi nói đùa"
+        }
+      ],
+      "mobileId": 148108,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "交わす"
+        ]
+      },
+      "word": "戯交わす"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e833f0fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự giả mạo (chữ ký, giấy tờ...), cái giả mạo; giấy tờ giả mạo; chữ ký giả mạo"
+        }
+      ],
+      "mobileId": 35155,
+      "phonetic": "",
+      "word": "戯書"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e836cb52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "văn hài hước"
+        }
+      ],
+      "mobileId": 35248,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "文"
+        ]
+      },
+      "word": "戯文"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771bc98c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "something written for fun, calligraphy written for entertainment"
+        }
+      ],
+      "mobileId": 265366,
+      "phonetic": "ざれがき",
+      "word": "戯書き"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00c351e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "to be playful, to gambol, to be amused (with something), to play, to sport, to frolic, to joke"
+        }
+      ],
+      "mobileId": 189533,
+      "phonetic": "たわむる",
+      "word": "戯る"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951345b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "tới sự gọi cho những lời nói đùa"
+        }
+      ],
+      "mobileId": 56728,
+      "phonetic": "じゃらかす",
+      "word": "戯かす"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95dab5f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "tới những trò chơi ác trò chơi; để được làm hỏng"
+        }
+      ],
+      "mobileId": 63099,
+      "phonetic": "",
+      "word": "戯える"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

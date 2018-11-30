@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19359c63a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vt",
+          "mean": "đổ lỗi cho, lấy lí do"
+        }
+      ],
+      "mobileId": 20776,
+      "phonetic": "たくつける",
+      "related_words": {
+        "word": [
+          "つける"
+        ]
+      },
+      "word": "託つける"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95fe6346",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viện cớ; lời xin lỗi; sự biện hộ"
+        }
+      ],
+      "mobileId": 64241,
+      "phonetic": "たくげん",
+      "word": "託言"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d071d92",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chán ngắt nói; vô lễ nói; được lặp đi lặp lại nói; lời nói hỗn xược; sự phát biểu kiêu căng"
+        }
+      ],
+      "mobileId": 145974,
+      "phonetic": "ごたく",
+      "word": "ご託"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

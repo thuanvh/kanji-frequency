@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cdd97784",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơ sở (bóng chày)"
+        }
+      ],
+      "mobileId": 75718,
+      "phonetic": "るい",
+      "related_words": {
+        "word": [
+          "二塁手",
+          "三塁手"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "塁",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "堅塁",
+                "城",
+                "城郭",
+                "本塁",
+                "要塞",
+                "砦",
+                "堡塁"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "要塞",
+                "砦",
+                "堡塁"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "塁"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df56fa1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tiến tới (tới cơ sở tiếp theo)"
+        }
+      ],
+      "mobileId": 153572,
+      "phonetic": "すすむるい",
+      "word": "進塁"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9538936f",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "pháo đài, là pháo đài của; bảo vệ"
+        }
+      ],
+      "mobileId": 57880,
+      "phonetic": "じょう るい",
+      "word": "城塁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08b1649",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "total bases"
+        }
+      ],
+      "mobileId": 285389,
+      "phonetic": "るいだすう",
+      "word": "塁打数"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cde568",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đặt cơ sở chạy"
+        }
+      ],
+      "mobileId": 62673,
+      "phonetic": "はしるい",
+      "word": "走塁"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eca51d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công việc đào đắp, công sự đào đắp bằng đất"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đê; đường đắp cao"
+        }
+      ],
+      "mobileId": 117499,
+      "phonetic": "どるい",
+      "related_words": {
+        "word": [
+          "土",
+          "塁"
+        ]
+      },
+      "word": "土塁"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c9b397",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stone fort"
+        }
+      ],
+      "mobileId": 262739,
+      "phonetic": "せきるい",
+      "word": "石塁"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cddb5423",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "để bảo vệ một pháo đài"
+        }
+      ],
+      "mobileId": 75777,
+      "phonetic": "るいをまもる",
+      "word": "塁を守る"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cddad607",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "để đi tới đầu tiên"
+        }
+      ],
+      "mobileId": 75762,
+      "phonetic": "るいにでる",
+      "word": "塁に出る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

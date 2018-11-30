@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b99b96",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "金属製の料理鍋",
+              "mean": "Nồi nấu bằng kim loại",
+              "transcription": "きんぞくせいのりょうりなべ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái chảo; chảo; xoong"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chõ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nồi ."
+        }
+      ],
+      "mobileId": 109860,
+      "phonetic": "なべ",
+      "related_words": {
+        "word": [
+          "圧力鍋",
+          "土鍋",
+          "鍋物",
+          "ちゃんこ鍋",
+          "平鍋"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鍋",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "平鍋"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鍋"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd34fec3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái chảo mà có thể được sử dụng mà không có nước"
+        }
+      ],
+      "mobileId": 70485,
+      "phonetic": "むすいなべ",
+      "word": "無水鍋"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74cb536f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chảo sâu lòng ."
+        }
+      ],
+      "mobileId": 100471,
+      "phonetic": "あげなべ",
+      "word": "揚げ鍋"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6ddda322",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "person in charge of cooking and serving hotpot dish"
+        }
+      ],
+      "mobileId": 222277,
+      "phonetic": "なべぶぎょう",
+      "word": "鍋奉行"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b1fdd5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "iron pot, iron pan"
+        }
+      ],
+      "mobileId": 270234,
+      "phonetic": "てつなべ",
+      "word": "鉄鍋"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93a6593",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stockpot"
+        }
+      ],
+      "mobileId": 258155,
+      "phonetic": "ずんどうなべ",
+      "word": "寸胴鍋"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3f5863",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nồi áp suất"
+        }
+      ],
+      "mobileId": 11818,
+      "phonetic": "あつりょくなべ",
+      "related_words": {
+        "word": [
+          "力",
+          "圧力",
+          "鍋"
+        ]
+      },
+      "word": "圧力鍋"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a445fdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "agemono nabe, thick pot for deep frying"
+        }
+      ],
+      "mobileId": 225618,
+      "phonetic": "あげものなべ",
+      "word": "揚げ物鍋"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a88d45c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hot pot stew made with offal, vegetables and (often) miso"
+        }
+      ],
+      "mobileId": 227769,
+      "phonetic": "もつなべ",
+      "related_words": {
+        "word": [
+          "鍋"
+        ]
+      },
+      "word": "もつ鍋"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8c8ef6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lắp kính món ăn món thịt hầm đồ gốm"
+        }
+      ],
+      "mobileId": 73279,
+      "phonetic": "ゆきひらなべ",
+      "word": "行平鍋"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a960bf0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "đĩa; khay ."
+        }
+      ],
+      "mobileId": 172766,
+      "phonetic": "ばん",
+      "related_words": {
+        "word": [
+          "制御盤",
+          "基盤",
+          "旋盤",
+          "羅針盤",
+          "廃盤",
+          "骨盤",
+          "研削盤",
+          "吸盤",
+          "地盤",
+          "鍵盤"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "盤",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "大皿",
+                "皿"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "皿",
+                "ディスク",
+                "円盤"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボード"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "盤"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027df591b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bàn toán ."
+        }
+      ],
+      "mobileId": 32918,
+      "phonetic": "けいさんばん",
+      "word": "計算盤"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd573322",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mặt số; mặt số đồng hồ; bộ phím số điện thoại hay máy tính"
+        }
+      ],
+      "mobileId": 71547,
+      "phonetic": "もじばん",
+      "word": "文字盤"
+    },
+    {
+      "_id": "f61fc88c4ffea55446c27e6690d4f72d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bàn ép ."
+        }
+      ],
+      "mobileId": 183637,
+      "phonetic": "ぷれすばん",
+      "word": "プレス盤"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddee319",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tinh thể chất lỏng (màn hình) bảng"
+        }
+      ],
+      "mobileId": 16814,
+      "phonetic": "えきしょうばん",
+      "word": "液晶盤"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8000e58",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái bát cũ (già) (đĩa cứng); sự ghi cũ (già) (âm nhạc)"
+        }
+      ],
+      "mobileId": 33477,
+      "phonetic": "きゅうばん",
+      "related_words": {
+        "word": [
+          "盤"
+        ]
+      },
+      "word": "旧盤"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820d6418",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(in Japan) 10th note of the ancient chromatic scale (approx. B)"
+        }
+      ],
+      "mobileId": 232072,
+      "phonetic": "ばんしき",
+      "word": "盤渉"
+    },
+    {
+      "_id": "432518852de0a80625d585a98271b2aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "surface plate"
+        }
+      ],
+      "mobileId": 235216,
+      "phonetic": "じょうばん",
+      "word": "定盤"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be40cd8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chạm vào máy"
+        }
+      ],
+      "mobileId": 91350,
+      "phonetic": "ブローチばん",
+      "word": "ブローチ盤"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bdd10c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bus tie (electrical)"
+        }
+      ],
+      "mobileId": 246893,
+      "phonetic": "れんらくばん",
+      "word": "連絡盤"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

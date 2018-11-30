@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa779c56c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "tuần ."
+        }
+      ],
+      "mobileId": 108771,
+      "phonetic": "しゅう",
+      "related_words": {
+        "word": [
+          "先週",
+          "来週",
+          "今週",
+          "週末",
+          "一週間",
+          "再来週",
+          "週間",
+          "毎週",
+          "今週中",
+          "二週間"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "週",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウィーク"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウィーク",
+                "週間"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "週"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b2239a991",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "週まつはパーテイーへ行きます。",
+              "mean": "Cuối tuần tôi đi ăn tiệc.",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Cuối tuần"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "しゅうまつ",
+      "word": "週まつ"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aca4c20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "weekly ideas, weekly thoughts, ideas brought forth at the conclusion of a week"
+        }
+      ],
+      "mobileId": 229878,
+      "phonetic": "しゅうあん",
+      "word": "週案"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95222b1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuần lễ thụ hình"
+        }
+      ],
+      "mobileId": 57193,
+      "phonetic": "じゅなんしゅう",
+      "word": "受難週"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed956e3397",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuần thánh"
+        }
+      ],
+      "mobileId": 59606,
+      "phonetic": "きよししゅう",
+      "related_words": {
+        "word": [
+          "週"
+        ]
+      },
+      "word": "聖週"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959ef75d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "tuần trước kéo dài"
+        }
+      ],
+      "mobileId": 61176,
+      "phonetic": "さきざきしゅう",
+      "word": "先先週"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bd03c73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "calendar week"
+        }
+      ],
+      "mobileId": 246476,
+      "phonetic": "れきしゅう",
+      "word": "暦週"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9e61f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một tuần nay; đã được một tuần; tuần trước"
+        }
+      ],
+      "mobileId": 150742,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "週"
+        ]
+      },
+      "word": "週齡"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c772314fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "weekly"
+        }
+      ],
+      "mobileId": 265595,
+      "phonetic": "しゅうじ",
+      "related_words": {
+        "word": [
+          "次",
+          "週"
+        ]
+      },
+      "word": "週次"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0359fdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "the week after next"
+        }
+      ],
+      "mobileId": 282675,
+      "phonetic": "じじしゅう",
+      "word": "次々週"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

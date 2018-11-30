@@ -1,0 +1,299 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d47160e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "feelings, thoughts"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "meaning"
+        }
+      ],
+      "mobileId": 217360,
+      "phonetic": "い",
+      "related_words": {
+        "word": [
+          "注意",
+          "任意",
+          "注意事項",
+          "注意する",
+          "同意する",
+          "意味",
+          "用意",
+          "同意",
+          "意見",
+          "得意"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "意",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "気",
+                "気持ち",
+                "想い",
+                "情",
+                "意気",
+                "思い"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "辞意",
+                "意義",
+                "語意",
+                "意味"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "意味"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "含意",
+                "考え",
+                "気",
+                "旨",
+                "心",
+                "趣意",
+                "意味",
+                "意図",
+                "趣旨",
+                "主旨",
+                "作意",
+                "意思",
+                "魂胆"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "意義",
+                "趣意",
+                "要旨",
+                "意味",
+                "趣旨",
+                "主旨",
+                "内容",
+                "意味合い"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "意"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd963e83",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không bị kiềm chế, không có gì ngăn cản, mặc sức"
+        }
+      ],
+      "mobileId": 14564,
+      "phonetic": "いば",
+      "related_words": {
+        "word": [
+          "馬",
+          "意"
+        ]
+      },
+      "word": "意馬"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0957015",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "regard, consideration, thoughtfulness"
+        }
+      ],
+      "mobileId": 211640,
+      "phonetic": "はいい",
+      "related_words": {
+        "word": [
+          "意"
+        ]
+      },
+      "word": "配意"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8fbb4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dư luận, công luận"
+        }
+      ],
+      "mobileId": 150290,
+      "phonetic": "しゅうい",
+      "word": "衆意"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cf7acb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "signs of autumn, appearance of autumn"
+        }
+      ],
+      "mobileId": 262911,
+      "phonetic": "しゅうい",
+      "word": "秋意"
+    },
+    {
+      "_id": "f2d618ceb0702f781ec83b7d4f50f429",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "[A] は何の 意昧ですか",
+              "mean": "[A] có nghĩa là gì vậy ?"
+            }
+          ],
+          "kind": "",
+          "mean": "ý nghĩa"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "いくら",
+      "word": "意昧"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f3feea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "hoà bình; sự thanh bình"
+        }
+      ],
+      "mobileId": 25665,
+      "phonetic": "きゅうい",
+      "related_words": {
+        "word": [
+          "意",
+          "休"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "休意",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "安泰",
+                "佚",
+                "安らぎ",
+                "泰平",
+                "平和条約",
+                "講和",
+                "太平",
+                "安穏",
+                "平和",
+                "ピース",
+                "和平",
+                "平安"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "休意"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8025e71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự nhấn mạnh;  sự nhấn giọng, tầm quan trọng, sự bối rối, sự rõ nét"
+        }
+      ],
+      "mobileId": 33560,
+      "phonetic": "つよい",
+      "related_words": {
+        "word": [
+          "強",
+          "意"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "強意",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "アクセント"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "強意"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a573e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cách thức cổ xưa; tình cảm thời xưa"
+        }
+      ],
+      "mobileId": 38790,
+      "phonetic": "こい",
+      "related_words": {
+        "word": [
+          "古",
+          "意"
+        ]
+      },
+      "word": "古意"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95de669f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ý tưởng (của) bạn"
+        }
+      ],
+      "mobileId": 63217,
+      "phonetic": "みことい",
+      "related_words": {
+        "word": [
+          "意",
+          "尊"
+        ]
+      },
+      "word": "尊意"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

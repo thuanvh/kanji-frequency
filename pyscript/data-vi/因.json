@@ -1,0 +1,284 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adaef5c70",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "客観的決定因",
+              "mean": "Nguyên nhân quyết định mang tính khách quan",
+              "transcription": "きゃっかんてきけっていいん"
+            },
+            {
+              "content": "〜の重要な決定因",
+              "mean": "Nguyên nhân quyết định mang tính quan trọng của ~",
+              "transcription": "〜のじゅうようなけっていいん"
+            },
+            {
+              "content": "インターネット普及の遅れの主要因",
+              "mean": "Nguyên nhân chủ yếu của việc chậm trễ trong việc phổ cập Internet .",
+              "transcription": "インターネットふきゅうのおくれのしゅよういん"
+            }
+          ],
+          "kind": "n",
+          "mean": "nguyên nhân"
+        }
+      ],
+      "mobileId": 80815,
+      "opposite_word": [
+        "果"
+      ],
+      "phonetic": "いん",
+      "related_words": {
+        "word": [
+          "原因",
+          "要因",
+          "因果関係",
+          "原因不明",
+          "因みに",
+          "起因",
+          "原因調査",
+          "因子",
+          "死因",
+          "因縁"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "因",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "元",
+                "誘因",
+                "原因",
+                "素因"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "要素",
+                "ファクター",
+                "要因",
+                "素因",
+                "因子",
+                "エレメント"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "因"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c16d52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mô típ nghệ thuật"
+        }
+      ],
+      "mobileId": 24041,
+      "phonetic": "がいん",
+      "related_words": {
+        "word": [
+          "画",
+          "因"
+        ]
+      },
+      "word": "画因"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cfcfa6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nguyên nhân khởi đầu (cho một sự việc, sự kiện)"
+        }
+      ],
+      "mobileId": 24495,
+      "phonetic": "もといん",
+      "word": "基因"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92b7349",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "formal cause"
+        }
+      ],
+      "mobileId": 257661,
+      "phonetic": "けいそういん",
+      "word": "形相因"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92b73b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "material cause"
+        }
+      ],
+      "mobileId": 257662,
+      "phonetic": "しつりょういん",
+      "word": "質料因"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92b7d50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "efficient cause"
+        }
+      ],
+      "mobileId": 257663,
+      "phonetic": "どうりょくいん",
+      "word": "動力因"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92b84cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "efficient cause"
+        }
+      ],
+      "mobileId": 257664,
+      "phonetic": "さよういん",
+      "word": "作用因"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933c92e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "<CHTRị> Hạ nghị viện"
+        }
+      ],
+      "mobileId": 19866,
+      "opposite_word": [
+        "福因"
+      ],
+      "phonetic": "わざわいいん",
+      "related_words": {
+        "word": [
+          "因"
+        ]
+      },
+      "word": "禍因"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8faba74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghiệp"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự uống rượu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hống hách"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buộc, ép buộc, cưỡng bức, kháng từ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "<THGT> huênh hoang, tự đề cao, tự khẳng định"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bắng sức mạnh, bằng vũ lực, sinh động; đầy sức thuyết phục"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiêu căng, hống hách; độc đoán, chuyên chế; vũ đoán"
+        }
+      ],
+      "mobileId": 41541,
+      "opposite_word": [
+        "業果"
+      ],
+      "phonetic": "ごういん",
+      "related_words": {
+        "word": [
+          "業",
+          "因"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "業因",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "縁",
+                "天命",
+                "業"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "業因"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95142408",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nguyên nhân gián tiếp, nguyên nhân thứ yếu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reserves"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "recruits"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "draftees"
+        }
+      ],
+      "mobileId": 56754,
+      "opposite_word": [
+        "主因"
+      ],
+      "phonetic": "",
+      "word": "従因"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

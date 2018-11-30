@@ -1,0 +1,217 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7defd570",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "全＿巻の小説",
+              "mean": "Cuốn tiểu thuyết có toàn bộ là ~ tập.",
+              "transcription": "ぜん＿まきのしょうせつ"
+            },
+            {
+              "content": "この辞書は全2巻です",
+              "mean": "Từ điển này có toàn bộ là 2 cuốn",
+              "transcription": "このじしょはぜん2かんです"
+            }
+          ],
+          "kind": "n",
+          "mean": "toàn bộ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toàn; tất cả ."
+        }
+      ],
+      "mobileId": 145549,
+      "opposite_word": [
+        "個"
+      ],
+      "phonetic": "ぜん",
+      "related_words": {
+        "word": [
+          "全体",
+          "完全",
+          "全部",
+          "全国",
+          "全て",
+          "安全",
+          "全角",
+          "保全",
+          "全般",
+          "完全に"
+        ]
+      },
+      "word": "全"
+    },
+    {
+      "_id": "16c7b63f0c2a9b0c234e2b367afa38fd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "全璧に美しい形の目",
+              "mean": "Đôi mắt xinh đẹp vô ngần"
+            }
+          ],
+          "kind": "",
+          "mean": "Hoàn hảo, hoàn mỹ vô khuyết"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ぜんぺき",
+      "word": "全璧"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07e531a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "full wig, whole wig"
+        }
+      ],
+      "mobileId": 284984,
+      "phonetic": "ぜんかつら",
+      "word": "全かつら"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0928a8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "complete, whole, perfect, entire"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "safe"
+        }
+      ],
+      "mobileId": 285637,
+      "phonetic": "まったい またい",
+      "word": "全い"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95afa688",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toàn bộ bờ sông"
+        }
+      ],
+      "mobileId": 61693,
+      "phonetic": "ぜんきし",
+      "related_words": {
+        "word": [
+          "全",
+          "岸"
+        ]
+      },
+      "word": "全岸"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b2e5c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một có toàn bộ cuộc sống"
+        }
+      ],
+      "mobileId": 61790,
+      "phonetic": "ぜんしょうがい",
+      "related_words": {
+        "word": [
+          "生",
+          "全",
+          "生涯"
+        ]
+      },
+      "word": "全生涯"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b5336a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toàn bộ lực lượng ((của) những người lính)"
+        }
+      ],
+      "mobileId": 61862,
+      "phonetic": "ぜんたい",
+      "related_words": {
+        "word": [
+          "全"
+        ]
+      },
+      "word": "全隊"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b5e26e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toàn bộ thế giới; mọi thứ hạ cánh"
+        }
+      ],
+      "mobileId": 61879,
+      "phonetic": "ぜんち",
+      "related_words": {
+        "word": [
+          "地",
+          "全"
+        ]
+      },
+      "word": "全地"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b6024f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toàn bộ vùng"
+        }
+      ],
+      "mobileId": 61886,
+      "phonetic": "ぜんちほう",
+      "related_words": {
+        "word": [
+          "方",
+          "地",
+          "全",
+          "地方"
+        ]
+      },
+      "word": "全地方"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b66ec7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toàn bộ thủ phủ"
+        }
+      ],
+      "mobileId": 61901,
+      "phonetic": "ぜんと",
+      "related_words": {
+        "word": [
+          "全",
+          "都"
+        ]
+      },
+      "word": "全都"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

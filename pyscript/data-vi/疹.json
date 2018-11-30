@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd68adc7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chứng phát ban do thuốc (do dị ứng thuốc ...)"
+        }
+      ],
+      "mobileId": 72100,
+      "phonetic": "",
+      "word": "薬疹"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c4e616",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh mụn rộp; bỏng rộp"
+        }
+      ],
+      "mobileId": 6278,
+      "phonetic": "",
+      "word": "疱疹"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f9cf3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mụn nhọt"
+        }
+      ],
+      "mobileId": 25842,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "丘"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "丘疹",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "吹出物",
+                "出来物",
+                "吹き出物"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "丘疹"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dca44b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rash, eruption"
+        }
+      ],
+      "mobileId": 221674,
+      "phonetic": "ひしん",
+      "word": "皮疹"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e81ab65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pityriasis"
+        }
+      ],
+      "mobileId": 252208,
+      "phonetic": "ひこうしん",
+      "word": "粃糠疹"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada5d4841",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bệnh ecpet mảng tròn (y) ."
+        }
+      ],
+      "mobileId": 78529,
+      "phonetic": "ふっこうしん",
+      "related_words": {
+        "word": [
+          "行"
+        ]
+      },
+      "word": "匐行疹"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c49fcc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh hecpet môi"
+        }
+      ],
+      "mobileId": 39795,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "口",
+          "辺",
+          "単純",
+          "単",
+          "疱疹"
+        ]
+      },
+      "word": "口辺単純疱疹"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777c5f60",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "intertrigo"
+        }
+      ],
+      "mobileId": 268488,
+      "phonetic": "かんさつしん",
+      "word": "間擦疹"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f57e8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pityriasis rosea Gibert"
+        }
+      ],
+      "mobileId": 272419,
+      "phonetic": "ジベルばらいろひこうしん",
+      "word": "ジベルばら色粃糠疹"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6fe9ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, suf",
+          "mean": "record, transcript"
+        }
+      ],
+      "mobileId": 218689,
+      "phonetic": "ろく",
+      "word": "録"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802782f55e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sách dùng cho khách du lịch ."
+        }
+      ],
+      "mobileId": 31430,
+      "phonetic": "ほうめいろく",
+      "related_words": {
+        "word": [
+          "名"
+        ]
+      },
+      "word": "芳名録"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ab0e43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "biên tập; soạn thảo; viết"
+        }
+      ],
+      "mobileId": 61549,
+      "phonetic": "せんろく",
+      "word": "撰録"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cddbb739",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ghi không được quan tâm (video, âm thanh)"
+        }
+      ],
+      "mobileId": 75787,
+      "phonetic": "るすろく",
+      "word": "留守録"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aec7725",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v1",
+          "mean": "được ghi lại (âm thanh, v.v.)"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "có thể ghi lại"
+        }
+      ],
+      "mobileId": 231001,
+      "phonetic": "とれる",
+      "word": "録れる"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89ede00",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản ghi chép lời nói và công trạng; hồi ký; tự truyện"
+        }
+      ],
+      "mobileId": 38578,
+      "phonetic": "げんこうろく",
+      "word": "言行録"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8afe809",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản ghi chép bài giảng"
+        }
+      ],
+      "mobileId": 39111,
+      "phonetic": "こうぎろく",
+      "word": "講義録"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d6eabd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản ghi tốc ký"
+        }
+      ],
+      "mobileId": 62968,
+      "phonetic": "そっきろく",
+      "word": "速記録"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0dc6ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngẫu nhiên bình luận"
+        }
+      ],
+      "mobileId": 69227,
+      "phonetic": "",
+      "word": "漫録"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c13f25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(được ghi) người đàn ông - trên (về) - - phỏng vấn đường phố"
+        }
+      ],
+      "mobileId": 24036,
+      "phonetic": "まちろく",
+      "word": "街録"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

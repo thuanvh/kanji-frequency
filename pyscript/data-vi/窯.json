@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ae954b6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "パン焼き窯",
+              "mean": "lò nướng bánh mì .",
+              "transcription": "ぱんやきかま"
+            }
+          ],
+          "kind": "n",
+          "mean": "lò; lò nung"
+        }
+      ],
+      "mobileId": 174139,
+      "phonetic": "かま",
+      "related_words": {
+        "word": [
+          "窯業"
+        ]
+      },
+      "word": "窯"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ab5b724",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lò vôi ."
+        }
+      ],
+      "mobileId": 173301,
+      "phonetic": "いしばいかま",
+      "word": "石灰窯"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938662ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "dỡ đồ gốm ra khỏi lò nung"
+        }
+      ],
+      "mobileId": 22197,
+      "phonetic": "かまだし",
+      "related_words": {
+        "word": [
+          "出し",
+          "窯"
+        ]
+      },
+      "word": "窯出し"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b7be5b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lò gốm sứ của cung đình"
+        }
+      ],
+      "mobileId": 23741,
+      "phonetic": "かんかま",
+      "word": "官窯"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d3e967",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "charcoal kiln"
+        }
+      ],
+      "mobileId": 279541,
+      "phonetic": "すみやきがま",
+      "word": "炭焼き窯"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef985786a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "deformation during firing (ceramics), color variation during firing"
+        }
+      ],
+      "mobileId": 276992,
+      "phonetic": "ようへん",
+      "word": "窯変"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c13ea8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oven, kiln"
+        }
+      ],
+      "mobileId": 213069,
+      "phonetic": "やきがま",
+      "word": "焼き窯"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be39ba82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lò đường hầm"
+        }
+      ],
+      "mobileId": 91130,
+      "phonetic": "トンネルかま",
+      "word": "トンネル窯"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ae9763d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lò gốm ."
+        }
+      ],
+      "mobileId": 174142,
+      "phonetic": "かまろ",
+      "word": "窯炉"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4200eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiểu lò cổ xưa đào trong vách núi"
+        }
+      ],
+      "mobileId": 11907,
+      "phonetic": "あなかま",
+      "word": "穴窯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

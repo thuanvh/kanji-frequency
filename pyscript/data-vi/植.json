@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dccac9a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "trồng cây cỏ"
+        }
+      ],
+      "mobileId": 152254,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "栽"
+        ]
+      },
+      "word": "植栽"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c028097c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2w-s, vt",
+          "mean": "to plant, to grow"
+        }
+      ],
+      "mobileId": 190451,
+      "phonetic": "うう",
+      "word": "植う"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdaefc7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gieo trồng"
+        }
+      ],
+      "mobileId": 15352,
+      "phonetic": "うえづけ",
+      "related_words": {
+        "word": [
+          "付"
+        ]
+      },
+      "word": "植付"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf0a97a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "enthesis"
+        }
+      ],
+      "mobileId": 247516,
+      "phonetic": "まいしょく",
+      "word": "埋植"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778b92c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mixed planting"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mixed typesetting"
+        }
+      ],
+      "mobileId": 268990,
+      "phonetic": "こんしょく",
+      "word": "混植"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802784f238",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cấy mạ ."
+        }
+      ],
+      "mobileId": 31454,
+      "phonetic": "なわうをえる",
+      "word": "苗植をえる"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

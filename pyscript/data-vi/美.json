@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280273bdea3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "đẹp; đẹp đẽ; mỹ"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "sự tốt đẹp; vẻ đẹp; vẻ đẹp đẽ; cái đẹp; cái Mỹ ."
+        }
+      ],
+      "mobileId": 30090,
+      "opposite_word": [
+        "醜"
+      ],
+      "phonetic": "び",
+      "related_words": {
+        "word": [
+          "美しい",
+          "美少女",
+          "美味しい",
+          "美人",
+          "美術館",
+          "美しさ",
+          "美容",
+          "美術",
+          "美女",
+          "賛美"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "美",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "美しさ",
+                "ビューティー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "美"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e871fa28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vẻ đẹp hình thức"
+        }
+      ],
+      "mobileId": 37155,
+      "phonetic": "けいしきび",
+      "word": "形式美"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280273d4365",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quần áo đẹp ."
+        }
+      ],
+      "mobileId": 30120,
+      "phonetic": "びふく",
+      "word": "美服"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824b8332",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "beautiful"
+        }
+      ],
+      "mobileId": 234016,
+      "phonetic": "うっつい",
+      "word": "美い"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97a29b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "functional beauty, beauty of function, simplicity and elegance of design"
+        }
+      ],
+      "mobileId": 276634,
+      "phonetic": "きのうび",
+      "word": "機能美"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e72c7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "beauty of content (as opposed to form), substantial beauty"
+        }
+      ],
+      "mobileId": 271974,
+      "phonetic": "ないようび",
+      "word": "内容美"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bb77b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "poetic beauty, beauty of a poem"
+        }
+      ],
+      "mobileId": 262266,
+      "phonetic": "しび",
+      "word": "詩美"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6865a679",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảng đẹp (có phong cảnh đẹp)"
+        }
+      ],
+      "mobileId": 3242,
+      "phonetic": "よしみなと",
+      "related_words": {
+        "word": [
+          "美",
+          "港"
+        ]
+      },
+      "word": "美港"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280273e143f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tóc đẹp ."
+        }
+      ],
+      "mobileId": 30148,
+      "phonetic": "びはつ",
+      "word": "美髪"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8161b77",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nét đẹp do những đường cong tạo ra; nét đẹp từ những đường cong trên cơ thể phụ nữ"
+        }
+      ],
+      "mobileId": 34204,
+      "phonetic": "きょくせんび",
+      "related_words": {
+        "word": [
+          "曲",
+          "美",
+          "線",
+          "曲線"
+        ]
+      },
+      "word": "曲線美"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

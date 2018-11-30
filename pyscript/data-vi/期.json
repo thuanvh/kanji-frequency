@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f3b648d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "成長時（期）",
+              "mean": "thời kì tăng trưởng",
+              "transcription": "せいちょうじ（き）"
+            },
+            {
+              "content": "変革の時（期）",
+              "mean": "thời kì cải cách",
+              "transcription": "へんかくのとき（き）"
+            },
+            {
+              "content": "衰退（期)",
+              "mean": "thời kì suy vong",
+              "transcription": "すいたい（き)"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "kì; thời gian"
+        }
+      ],
+      "mobileId": 185910,
+      "phonetic": "き",
+      "related_words": {
+        "word": [
+          "納期",
+          "初期化",
+          "期間",
+          "有効期限",
+          "初期値",
+          "期日",
+          "期待する",
+          "期限",
+          "初期設定",
+          "初期"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "期",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "期間",
+                "ターム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "スパン",
+                "時代",
+                "期間",
+                "ピリオド",
+                "時期",
+                "時間",
+                "年代",
+                "会期"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "とき",
+                "時代",
+                "時",
+                "時期",
+                "折",
+                "時間",
+                "タイム"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "期"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193734fe6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mùa khô, mùa hạn; thời kỳ khô hạn"
+        }
+      ],
+      "mobileId": 21594,
+      "opposite_word": [
+        "豊水期"
+      ],
+      "phonetic": "かっすいき",
+      "word": "渇水期"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193385afc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự lại sức, sự hồi phục, thời kỳ dưỡng bệnh"
+        }
+      ],
+      "mobileId": 19728,
+      "phonetic": "かいふくき",
+      "word": "回復期"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0044bae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-adv, n",
+          "mean": "at times of many visitors, busy times"
+        }
+      ],
+      "mobileId": 281093,
+      "phonetic": "たきゃくき",
+      "word": "多客期"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9522375d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thời kỳ tiết sữa"
+        }
+      ],
+      "mobileId": 57196,
+      "phonetic": "じゅにゅうき",
+      "word": "授乳期"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e881fc5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc đóng băng hoặc sương giá dạn dày"
+        }
+      ],
+      "mobileId": 37660,
+      "phonetic": "けっぴょうき",
+      "word": "結氷期"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88f7162",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giai đoạn suy nhược"
+        }
+      ],
+      "mobileId": 38085,
+      "phonetic": "けんたいき",
+      "related_words": {
+        "word": [
+          "期"
+        ]
+      },
+      "word": "倦怠期"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822fc9ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "now (with the nuance of 'the last moment'), this late in the game"
+        }
+      ],
+      "mobileId": 233137,
+      "phonetic": "このご",
+      "word": "この期"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c68c8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bắt đầu"
+        }
+      ],
+      "mobileId": 62425,
+      "phonetic": "そうそうき",
+      "word": "草創期"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc47b6c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thời kỳ cai sữa"
+        }
+      ],
+      "mobileId": 75084,
+      "phonetic": "りにゅうき",
+      "word": "離乳期"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

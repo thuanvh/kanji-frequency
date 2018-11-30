@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9170f18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "self-propagation, self-fertilization, selfing"
+        }
+      ],
+      "mobileId": 273512,
+      "phonetic": "じしょく",
+      "word": "自殖"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9500d1a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tái sản xuất những số lớn bên trong; nhân lên"
+        }
+      ],
+      "mobileId": 56138,
+      "phonetic": "",
+      "word": "滋殖"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b223237e9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ネズミはどんどん繫殖する",
+              "mean": "chuột sinh sôi nảy nở rất nhanh",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "phồng thực,nhân giống"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "はんしょくする",
+      "word": "繫殖する"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9170338",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inbreeding depression"
+        }
+      ],
+      "mobileId": 273511,
+      "phonetic": "じしょくじゃくせい",
+      "word": "自殖弱勢"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

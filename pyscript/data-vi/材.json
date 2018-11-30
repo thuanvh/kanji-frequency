@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4780bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, suf",
+          "mean": "wood, lumber, timber"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "man of talent"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(raw) material, ingredients"
+        }
+      ],
+      "mobileId": 217375,
+      "phonetic": "ざい",
+      "word": "材"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193af4d85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gỗ khô"
+        }
+      ],
+      "mobileId": 23473,
+      "phonetic": "かんそうざい",
+      "related_words": {
+        "word": [
+          "乾燥",
+          "乾"
+        ]
+      },
+      "word": "乾燥材"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be02f9e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chia ra từng phần khúc gỗ; chia ra từng phần gỗ làm nhà"
+        }
+      ],
+      "mobileId": 89398,
+      "phonetic": "わりざい",
+      "related_words": {
+        "word": [
+          "割",
+          "割り"
+        ]
+      },
+      "word": "割り材"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd97acd7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dung môi"
+        }
+      ],
+      "mobileId": 73629,
+      "phonetic": "",
+      "word": "溶材"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da53b4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sweet-smelling wood"
+        }
+      ],
+      "mobileId": 220423,
+      "phonetic": "こうぼく",
+      "word": "香材"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d021a0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cross member, crosspiece"
+        }
+      ],
+      "mobileId": 215181,
+      "phonetic": "よこざい",
+      "word": "横材"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a10a32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "product, commodity, merchandise"
+        }
+      ],
+      "mobileId": 261430,
+      "phonetic": "しょうざい",
+      "related_words": {
+        "word": [
+          "商"
+        ]
+      },
+      "word": "商材"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81e2514",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây gỗ bào đồng"
+        }
+      ],
+      "mobileId": 34462,
+      "phonetic": "きりざい",
+      "word": "桐材"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a26f1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người điều tiết"
+        }
+      ],
+      "mobileId": 38698,
+      "phonetic": "げんそくざい",
+      "word": "減速材"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9554856d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây gỗ thông tuyết"
+        }
+      ],
+      "mobileId": 58786,
+      "phonetic": "すぎざい",
+      "related_words": {
+        "word": [
+          "杉"
+        ]
+      },
+      "word": "杉材"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,203 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7560f65",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "農を従事する",
+              "mean": "làm nông nghiệp .",
+              "transcription": "のうをじゅうじする"
+            }
+          ],
+          "kind": "n",
+          "mean": "nông nghiệp"
+        }
+      ],
+      "mobileId": 108130,
+      "phonetic": "のう",
+      "related_words": {
+        "word": [
+          "農業",
+          "農家",
+          "農場",
+          "農薬",
+          "農村",
+          "農園",
+          "農夫",
+          "農民",
+          "農産物",
+          "農地"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "農",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "農学",
+                "農業",
+                "農耕",
+                "アグリカルチャー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "農林",
+                "耕作",
+                "農業",
+                "畜産",
+                "農耕",
+                "アグリカルチャー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "農"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b44aae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khuyến nông"
+        }
+      ],
+      "mobileId": 23627,
+      "phonetic": "すすむのう",
+      "related_words": {
+        "word": [
+          "農"
+        ]
+      },
+      "word": "勧農"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa756b05d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nông dân (nữ) ."
+        }
+      ],
+      "mobileId": 108151,
+      "opposite_word": [
+        "農夫"
+      ],
+      "phonetic": "のうふ",
+      "word": "農婦"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774ef40f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "agricultural high school"
+        }
+      ],
+      "mobileId": 267000,
+      "phonetic": "のうこう",
+      "word": "農高"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682b8c83",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự phản tác dụng, sự phản ứng lại, phản ứng, sự phản động, sự phản công, sự đánh trả lại"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự trả lời, sự đáp lại, sự hưởng ứng, sự phản ứng lại; vận động phản ứng lại, responsory"
+        }
+      ],
+      "mobileId": 1414,
+      "phonetic": "はんのう",
+      "related_words": {
+        "word": [
+          "半",
+          "農"
+        ]
+      },
+      "word": "半農"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0273e2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Shennong, mythical king of ancient China"
+        }
+      ],
+      "mobileId": 282198,
+      "phonetic": "しんのう",
+      "word": "神農"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c093d334",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "agricultural and fishing industries"
+        }
+      ],
+      "mobileId": 211587,
+      "phonetic": "のうぎょぎょう",
+      "word": "農漁業"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef16882",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trường nông nghiệp"
+        }
+      ],
+      "mobileId": 118729,
+      "phonetic": "のうがっこう",
+      "word": "農学校"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef29ed8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gieo trồng và chăn nuôi"
+        }
+      ],
+      "mobileId": 118764,
+      "phonetic": "のうまき",
+      "word": "農牧"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e28c082",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ministry of Agriculture and Commerce (Meiji-Taisho)"
+        }
+      ],
+      "mobileId": 249336,
+      "phonetic": "のうしょうむしょう",
+      "word": "農商務省"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

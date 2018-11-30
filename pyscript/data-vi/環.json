@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a51df49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vòng ."
+        }
+      ],
+      "mobileId": 171678,
+      "phonetic": "わ",
+      "related_words": {
+        "word": [
+          "環境",
+          "循環",
+          "悪循環",
+          "環状",
+          "循環する",
+          "環境変化",
+          "市場環境",
+          "光環",
+          "環境事業",
+          "金環食"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "環",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "輪",
+                "ループ",
+                "環状"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "輪",
+                "車輪",
+                "車",
+                "ホイール"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "輪",
+                "リング",
+                "環状",
+                "円環"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "環"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd910482",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(ngón tay) reo"
+        }
+      ],
+      "mobileId": 73418,
+      "phonetic": "ゆびたまき",
+      "related_words": {
+        "word": [
+          "指",
+          "環"
+        ]
+      },
+      "word": "指環"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bff9ff6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fairy ring, mushroom ring"
+        }
+      ],
+      "mobileId": 247996,
+      "phonetic": "きんかん",
+      "word": "菌環"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07eacf7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "heterocycle"
+        }
+      ],
+      "mobileId": 284993,
+      "phonetic": "ふくそかん",
+      "word": "複素環"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9565b5c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chu kỳ cuộc sống"
+        }
+      ],
+      "mobileId": 59345,
+      "phonetic": "せいかつたまき",
+      "word": "生活環"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6796bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "atlas vertebra"
+        }
+      ],
+      "mobileId": 251380,
+      "phonetic": "かんつい",
+      "word": "環椎"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95d31bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quotient ring"
+        }
+      ],
+      "mobileId": 259294,
+      "phonetic": "しょうかん",
+      "word": "商環"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde6d046",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-na, n",
+          "mean": "Một vòng tròn kết nối"
+        }
+      ],
+      "mobileId": 17067,
+      "phonetic": "えん かん",
+      "related_words": {
+        "word": [
+          "円",
+          "環"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "円環",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "輪",
+                "リング",
+                "環",
+                "環状"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "円環"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939d2579",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cyclization"
+        }
+      ],
+      "mobileId": 22911,
+      "phonetic": "たまきか",
+      "word": "環化"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a5afa5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngón nhẫn, ngón áp út"
+        }
+      ],
+      "mobileId": 23184,
+      "phonetic": "かんゆび",
+      "word": "環指"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

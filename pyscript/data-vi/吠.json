@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6ec088",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Vaishya, Vaisya (member of India's merchant-and-farmer caste)"
+        }
+      ],
+      "mobileId": 226933,
+      "phonetic": "バイシャ ヴァイシャ",
+      "word": "吠舎"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ce416f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sủa; hú; rống; gào; kêu khóc"
+        }
+      ],
+      "mobileId": 6582,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "吠る",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "吠える"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "吠える",
+                "鳴く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "吠える",
+                "唸る",
+                "嘯く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "吠える",
+                "唸る"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "吠える",
+                "喚く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "吠える",
+                "叫く",
+                "喚く",
+                "怒鳴る"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "吠る"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7c66a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "beryl"
+        }
+      ],
+      "mobileId": 227369,
+      "phonetic": "べいるり",
+      "word": "吠瑠璃"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e20713d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common muntjac (species of barking deer, Muntiacus muntjak), Indian muntjac"
+        }
+      ],
+      "mobileId": 249069,
+      "phonetic": "ほえじか ホエジカ",
+      "word": "吠鹿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aada512",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "howler monkey"
+        }
+      ],
+      "mobileId": 228942,
+      "phonetic": "ほえざる ホエザル",
+      "word": "吠猿"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b2eb6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mantled howler (Alouatta palliata), golden-mantled howling monkey"
+        }
+      ],
+      "mobileId": 278434,
+      "phonetic": "マントほえざる マントホエザル",
+      "word": "マント吠猿"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b2e299",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Coiba Island howler (Alouatta coibensis)"
+        }
+      ],
+      "mobileId": 278433,
+      "phonetic": "コイバほえざる コイバホエザル",
+      "word": "コイバ吠猿"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8073f02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "khóc to tiếng"
+        }
+      ],
+      "mobileId": 33725,
+      "phonetic": "",
+      "word": "叫号"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9150729",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "crying loudly with sadness"
+        }
+      ],
+      "mobileId": 273444,
+      "phonetic": "あいきょう",
+      "word": "哀叫"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be017479",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kêu; kêu la"
+        }
+      ],
+      "mobileId": 89345,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "叫く",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "呼ぶ",
+                "泣き喚く",
+                "叫ぶ",
+                "呻く",
+                "嘯く",
+                "どなる",
+                "喚く",
+                "怒鳴る",
+                "わめく"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "吠える",
+                "叫ぶ",
+                "嘯く",
+                "どなる",
+                "喚く",
+                "振り立てる",
+                "怒鳴る",
+                "わめく",
+                "張り上げる"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "吠える",
+                "吠る",
+                "喚く",
+                "怒鳴る"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "叫ぶ",
+                "騒ぐ",
+                "喚く"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "叫く"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e804fc02",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hét; hét lên"
+        }
+      ],
+      "mobileId": 33641,
+      "phonetic": "さけん",
+      "word": "叫換"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9769542",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "horned screamer (Anhima cornuta)"
+        }
+      ],
+      "mobileId": 276518,
+      "phonetic": "つのさけびどり ツノサケビドリ",
+      "word": "角叫鳥"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

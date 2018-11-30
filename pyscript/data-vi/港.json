@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757feea6d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảng ."
+        }
+      ],
+      "mobileId": 188865,
+      "phonetic": "みなと",
+      "related_words": {
+        "word": [
+          "香港",
+          "空港",
+          "出港",
+          "入港",
+          "漁港",
+          "港町",
+          "開港",
+          "国際空港",
+          "寄港"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "港",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "海港",
+                "港湾",
+                "ハーバー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "港"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada29b0af",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảng đi ."
+        }
+      ],
+      "mobileId": 77643,
+      "phonetic": "しゅっぱつこう",
+      "word": "出発港"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8dde09",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một export(ing) cảng"
+        }
+      ],
+      "mobileId": 73319,
+      "phonetic": "ゆしゅつこう",
+      "word": "輸出港"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7744839",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảng thông quan ."
+        }
+      ],
+      "mobileId": 108680,
+      "phonetic": "つうかんこう",
+      "word": "通関港"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa79428c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảng lánh nạn ."
+        }
+      ],
+      "mobileId": 109177,
+      "phonetic": "ひなんこう",
+      "word": "避難港"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d44a038",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảng giữa đường ."
+        }
+      ],
+      "mobileId": 142578,
+      "phonetic": "ちゅうかんこう",
+      "word": "中間港"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280277249c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảng tự do ."
+        }
+      ],
+      "mobileId": 31051,
+      "phonetic": "じゆうこう",
+      "word": "自由港"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027917a94",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảng dỡ ."
+        }
+      ],
+      "mobileId": 31628,
+      "phonetic": "にあげこう",
+      "word": "荷揚港"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107481aba",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "天然港としては世界でもっとも重要な港のひとつである。",
+              "mean": "trên thế giới cảng tự nhiên là một trong các cảng được coi là rất quan trọng .",
+              "transcription": "てんねんみなととしてはせかいでもっともじゅうようなみなとのひとつである。"
+            }
+          ],
+          "kind": "n",
+          "mean": "Bến cảng tự nhiên"
+        }
+      ],
+      "mobileId": 53018,
+      "phonetic": "てんねんこう",
+      "related_words": {
+        "word": [
+          "天",
+          "港",
+          "天然"
+        ]
+      },
+      "word": "天然港"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cfacdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Harbour Ward (e.g. in Tokyo)"
+        }
+      ],
+      "mobileId": 213544,
+      "phonetic": "みなとく",
+      "related_words": {
+        "word": [
+          "区",
+          "港"
+        ]
+      },
+      "word": "港区"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0c304c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "extravagance, luxury"
+        }
+      ],
+      "mobileId": 215495,
+      "phonetic": "ぜい",
+      "word": "贅"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0126f6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vt",
+          "mean": "to say more than necessary"
+        }
+      ],
+      "mobileId": 189741,
+      "phonetic": "ぜいする",
+      "word": "贅する"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e81d9a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wart, verruca"
+        }
+      ],
+      "mobileId": 252215,
+      "phonetic": "ゆうぜい",
+      "word": "疣贅"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7769d8e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "plantar wart"
+        }
+      ],
+      "mobileId": 267881,
+      "phonetic": "そくていゆうぜい",
+      "word": "足底疣贅"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad20730",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cán cân"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cân; cái cân"
+        },
+        {
+          "examples": [
+            {
+              "content": "秤にかける",
+              "mean": "lấy thăng bằng .",
+              "transcription": "はかりにかける"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự thăng bằng"
+        }
+      ],
+      "mobileId": 173821,
+      "phonetic": "はかり",
+      "related_words": {
+        "word": [
+          "天秤",
+          "天秤座"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "秤",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "看貫"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "御釣り",
+                "バランス",
+                "均衡",
+                "差し引き",
+                "平衡"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "秤"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae5e472",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "torsion balance"
+        }
+      ],
+      "mobileId": 230795,
+      "phonetic": "ねじればかり",
+      "word": "ねじれ秤"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de5d447",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oscillation of a heavenly body, libration"
+        }
+      ],
+      "mobileId": 222560,
+      "phonetic": "ひょうどう",
+      "word": "秤動"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d874836",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spring balance, spring scale, pull tension gauge"
+        }
+      ],
+      "mobileId": 219442,
+      "phonetic": "ばねばかり",
+      "word": "発条秤"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae5da7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "torsion balance"
+        }
+      ],
+      "mobileId": 230794,
+      "phonetic": "ねじりばかり",
+      "word": "ねじり秤"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f96d57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "large beam balance, weighbeam"
+        }
+      ],
+      "mobileId": 280744,
+      "phonetic": "ちぎばかり ちきり ちぎり ちぎ ちき",
+      "word": "杠秤"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c050a615",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "to weigh on a scale"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to weigh up options, to compare pros and cons"
+        }
+      ],
+      "mobileId": 209444,
+      "phonetic": "はかりにかける",
+      "word": "秤にかける"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04a712e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "explaining an idea, exposition, explanation"
+        }
+      ],
+      "mobileId": 283347,
+      "phonetic": "せつじゅつ",
+      "word": "説述"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da4518f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vị từ và phụ thuộc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "surgical operation"
+        }
+      ],
+      "mobileId": 150939,
+      "phonetic": "しゅじゅつ",
+      "word": "主述"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e0ebc1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "đã nói ở trên, đã nói đến trước đây"
+        }
+      ],
+      "mobileId": 25030,
+      "phonetic": "すんでじゅつ",
+      "word": "既述"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9521ef16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xác nhận (ngữ pháp)"
+        }
+      ],
+      "mobileId": 57183,
+      "phonetic": "じゅつぶ",
+      "related_words": {
+        "word": [
+          "部"
+        ]
+      },
+      "word": "述部"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77964912",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "discourse, expression of thoughts, ideas, etc."
+        }
+      ],
+      "mobileId": 269326,
+      "phonetic": "げんじゅつ",
+      "word": "言述"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeaa4d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "thuyết trình"
+        }
+      ],
+      "mobileId": 17202,
+      "phonetic": "",
+      "word": "演述"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0342419",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "(making a) statement"
+        }
+      ],
+      "mobileId": 282621,
+      "phonetic": "しんじゅつ",
+      "word": "申述"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959e83ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phát biểu những giáo viên (giải thích)"
+        }
+      ],
+      "mobileId": 61163,
+      "phonetic": "せんせいのじゅつ",
+      "word": "先生の述"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de72dad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, vs-i",
+          "mean": "để làm một sự phát biểu (trước một sân)"
+        }
+      ],
+      "mobileId": 153125,
+      "phonetic": "さるじゅつをする",
+      "word": "申述をする"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77da75e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "apophasis"
+        }
+      ],
+      "mobileId": 271571,
+      "phonetic": "ようひいんじゅつ",
+      "word": "陽否陰述"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6f9545",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inscription"
+        }
+      ],
+      "mobileId": 218674,
+      "phonetic": "めい",
+      "word": "銘"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a69df84",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "famous winery, famous brewery"
+        }
+      ],
+      "mobileId": 226771,
+      "phonetic": "めいじょう",
+      "word": "銘醸"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c016ca94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vt",
+          "mean": "to stamp, to engrave, to inscribe"
+        }
+      ],
+      "mobileId": 189877,
+      "phonetic": "めいする",
+      "word": "銘する"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4a44d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khẩu hiệu bàn"
+        }
+      ],
+      "mobileId": 148098,
+      "phonetic": "ざゆうめい",
+      "related_words": {
+        "word": [
+          "右",
+          "座"
+        ]
+      },
+      "word": "座右銘"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68edde78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đặt tên (của) nhà văn (của) một mộ chí mộ chí, được khắc sau mộ chí"
+        }
+      ],
+      "mobileId": 7581,
+      "phonetic": "ぼしめい",
+      "word": "墓誌銘"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e6708f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "memorization"
+        }
+      ],
+      "mobileId": 280126,
+      "phonetic": "きめい",
+      "word": "記銘"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9aa9fcf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flag used at funerals showing the name and rank of the deceased"
+        }
+      ],
+      "mobileId": 278153,
+      "phonetic": "めいき",
+      "word": "銘旗"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a925b8b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "name of a tea blend"
+        }
+      ],
+      "mobileId": 257479,
+      "phonetic": "ちゃめい",
+      "word": "茶銘"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd44174a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5m",
+          "mean": "để khắc một chữ khắc"
+        }
+      ],
+      "mobileId": 70956,
+      "phonetic": "めいをきざむ",
+      "word": "銘を刻む"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e58623",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inscription on the bathtub of King Tang (\"If you can renovate yourself one day, then you can do so every day, and keep doing so day after day.\")"
+        }
+      ],
+      "mobileId": 263598,
+      "phonetic": "とうのばんめい",
+      "word": "湯の盤銘"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

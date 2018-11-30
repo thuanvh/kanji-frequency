@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568014aa637",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "丘陵地の麓",
+              "mean": "Tận cùng của dãy núi",
+              "transcription": "きゅうりょうちのふもと"
+            },
+            {
+              "content": "ここからは山が麓までよく見える.",
+              "mean": "Từ đây tôi có thể nhìn rõ đến tận chân núi .",
+              "transcription": "ここからはやまがふもとまでよくみえる."
+            }
+          ],
+          "kind": "n",
+          "mean": "chân núi"
+        }
+      ],
+      "mobileId": 43027,
+      "opposite_word": [
+        "頂上",
+        "頂",
+        "山頂"
+      ],
+      "phonetic": "ふもと",
+      "word": "麓"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c53595",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chân núi; chân núi Phú Sĩ"
+        }
+      ],
+      "mobileId": 24164,
+      "phonetic": "たけふもと",
+      "word": "岳麓"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,267 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1071760b2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "アルカリ金属塩",
+              "mean": "muối kim loại kiềm",
+              "transcription": "アルカリきんぞくしお"
+            },
+            {
+              "content": "アミン塩",
+              "mean": "muối amin",
+              "transcription": "アミンしお"
+            },
+            {
+              "content": "塩、コショウ、にんにくだけでその食材の風味が引き出せます",
+              "mean": "chỉ cần muối, hạt tiêu và tỏi là có thể tạo mùi vị cho món ăn đó",
+              "transcription": "しお、コショウ、にんにくだけでそのしょくざいのふうみがひきだせます"
+            }
+          ],
+          "kind": "n",
+          "mean": "muối"
+        }
+      ],
+      "mobileId": 52258,
+      "phonetic": "しお",
+      "related_words": {
+        "word": [
+          "塩素",
+          "塩酸",
+          "塩化ビニール",
+          "食塩",
+          "塩水",
+          "塩基",
+          "塩分",
+          "塩化",
+          "岩塩",
+          "塩害"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "塩",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "食塩",
+                "塩気",
+                "塩類"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "塩分",
+                "鹹味",
+                "塩気"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "塩類"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "塩"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1071765ac",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "塩は料理の作りに欠かせないものです",
+              "mean": "Muối là thứ không thể thiếu được trong chế biến món ăn .",
+              "transcription": "しおはりょうりのつくりにかかせないものです"
+            }
+          ],
+          "kind": "n",
+          "mean": "muối"
+        }
+      ],
+      "mobileId": 52259,
+      "phonetic": "しお",
+      "related_words": {
+        "word": [
+          "塩素",
+          "塩酸",
+          "塩化ビニール",
+          "食塩",
+          "塩水",
+          "塩基",
+          "塩分",
+          "塩化",
+          "岩塩",
+          "塩害"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "塩",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "食塩",
+                "塩気",
+                "塩類"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "塩分",
+                "鹹味",
+                "塩気"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "塩類"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "塩"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0abfcf9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flower-shaped baked salt"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sea salt crystals"
+        }
+      ],
+      "mobileId": 286458,
+      "phonetic": "はなじお",
+      "word": "花塩"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0ac09d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "covering in salt"
+        }
+      ],
+      "mobileId": 286459,
+      "phonetic": "ごうじお ごうしお",
+      "word": "強塩"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10747e83c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "現在日本で充られている天然塩のなかには岩塩と自然海塩がある",
+              "mean": "Muối tự nhiên ở Nhật hiện nay bao gồm hai loại là muối đá và muối từ nước biển",
+              "transcription": "げんざいにっぽんでたかしられているてんねんしおのなかにはがんえんとしぜんうみしおがある"
+            },
+            {
+              "content": "中国、イタリア、オーストラリア産の天然塩のメーカー",
+              "mean": "Trung Quốc, Italia, Australia là nơi sản xuất muối tự nhiên .",
+              "transcription": "ちゅうごく、イタリア、オーストラリアさんのてんねんしおのメーカー"
+            }
+          ],
+          "kind": "n",
+          "mean": "Muối tự nhiên"
+        }
+      ],
+      "mobileId": 53016,
+      "phonetic": "てんねねん",
+      "word": "天然塩"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95af151",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "well-balanced vinegar"
+        }
+      ],
+      "mobileId": 275643,
+      "phonetic": "あんばいず",
+      "word": "塩梅酢"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9fd7957",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "salted, with salt"
+        }
+      ],
+      "mobileId": 280873,
+      "phonetic": "ゆうえん",
+      "word": "有塩"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4f627a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ướp muối câu cá"
+        }
+      ],
+      "mobileId": 148256,
+      "phonetic": "しおぎょ",
+      "word": "塩魚"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4fc229",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nấu (luộc) bằng nước muối; thức ăn [món ăn] được nấu bằng nước muối"
+        }
+      ],
+      "mobileId": 148270,
+      "phonetic": "しおに",
+      "related_words": {
+        "word": [
+          "塩"
+        ]
+      },
+      "word": "塩煮"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e39f468",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "salt bridge"
+        }
+      ],
+      "mobileId": 249877,
+      "phonetic": "えんきょう",
+      "word": "塩橋"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

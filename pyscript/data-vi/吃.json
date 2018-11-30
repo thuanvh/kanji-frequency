@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d15fa0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "said when taking a tile discarded by the player to one's left to form a chow"
+        }
+      ],
+      "mobileId": 279454,
+      "phonetic": "チー",
+      "word": "吃"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adab36239",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự nấc ."
+        }
+      ],
+      "mobileId": 79801,
+      "phonetic": "しゃっくり",
+      "word": "吃逆"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e67aa8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gấp, cần kíp, khẩn cấp, cấp bách, khẩn nài, năn nỉ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự gấp rút, sự cần kíp, sự khẩn cấp, sự cấp bách, sự khẩn nài, sự năn nỉ"
+        }
+      ],
+      "mobileId": 25213,
+      "phonetic": "",
+      "word": "吃緊"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

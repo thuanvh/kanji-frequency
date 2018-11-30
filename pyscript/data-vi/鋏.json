@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b62e7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kéo; cái kéo ."
+        }
+      ],
+      "mobileId": 109796,
+      "phonetic": "はさみ",
+      "synsets": [
+        {
+          "base_form": "鋏",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "はさみ",
+                "剪刀"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鋏"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bdeda2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kitchen scissors"
+        }
+      ],
+      "mobileId": 262348,
+      "phonetic": "りょうりばさみ",
+      "word": "料理鋏"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280270c843a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cặp giấy ."
+        }
+      ],
+      "mobileId": 29312,
+      "phonetic": "かみはさみ",
+      "word": "紙鋏"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9695e52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thinning scissors, thinning shears"
+        }
+      ],
+      "mobileId": 259674,
+      "phonetic": "すきばさみ",
+      "word": "梳き鋏"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c048b817",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "earwig"
+        }
+      ],
+      "mobileId": 209175,
+      "phonetic": "はさみむし ハサミムシ",
+      "word": "鋏虫"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a1ee50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xén bớt những sự xén"
+        }
+      ],
+      "mobileId": 61261,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "鋏",
+          "剪定"
+        ]
+      },
+      "word": "剪定鋏"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a49fed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "final cut severing a wrestler's top-knot in his retirement ceremony"
+        }
+      ],
+      "mobileId": 212128,
+      "phonetic": "とめばさみ",
+      "word": "止め鋏"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e45844e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chelicera, mouthparts of chelicerates (including arachnids)"
+        }
+      ],
+      "mobileId": 250262,
+      "phonetic": "きょうかく",
+      "word": "鋏角"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932deaa7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phát vé sự đục lỗ"
+        }
+      ],
+      "mobileId": 19389,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "札",
+          "改札",
+          "鋏"
+        ]
+      },
+      "word": "改札鋏"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0b4a69",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hedge clippers"
+        }
+      ],
+      "mobileId": 223760,
+      "phonetic": "かりこみばさみ",
+      "word": "刈り込み鋏"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

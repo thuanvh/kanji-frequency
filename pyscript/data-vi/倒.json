@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95adb207",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự kích động tột bậc; tiếng cười sidesplitting"
+        }
+      ],
+      "mobileId": 61634,
+      "phonetic": "",
+      "word": "絶倒"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e06457",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "(hiếm có) quay lộn ngược"
+        }
+      ],
+      "mobileId": 7146,
+      "phonetic": "",
+      "word": "翻倒"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc470a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái chết đầu đường xó chợ ."
+        }
+      ],
+      "mobileId": 144824,
+      "phonetic": "とうし",
+      "related_words": {
+        "word": [
+          "死"
+        ]
+      },
+      "word": "倒死"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d921af",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự rơi; tới sự sụp đổ; tới giọt; tới sự gãy xuống; tới xúc xắc; để thua kém tới; tới không có cảm giác rơi; để bị đổ nát; để có một món nợ khó đòi"
+        }
+      ],
+      "mobileId": 40465,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "倒ける",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "死ぬ",
+                "無くなる",
+                "亡くなる",
+                "卒する",
+                "逝く",
+                "転ける",
+                "事切れる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "倒ける"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d79fcd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự ngất choáng"
+        }
+      ],
+      "mobileId": 62995,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "率"
+        ]
+      },
+      "word": "率倒"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e986bbc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đảo ngược hình ảnh"
+        }
+      ],
+      "mobileId": 115898,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "像"
+        ]
+      },
+      "word": "倒像"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d1d525e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm hại thứ tự"
+        }
+      ],
+      "mobileId": 146666,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "事"
+        ]
+      },
+      "word": "倒事"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8363ea2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(quyền thuật) kỹ thuật đo ván (tko)"
+        }
+      ],
+      "mobileId": 35232,
+      "phonetic": "",
+      "word": "技倒"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0296f36",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v2r-s, vi",
+          "mean": "rơi, chết, bị đánh bại"
+        }
+      ],
+      "mobileId": 190500,
+      "phonetic": "たおる",
+      "word": "倒る"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc44978",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc đọc tiếng Trung theo thứ tự tiếng Nhật ."
+        }
+      ],
+      "mobileId": 144821,
+      "phonetic": "とうく",
+      "word": "倒句"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

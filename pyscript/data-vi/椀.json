@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f657f83",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bát Nhật; bát gỗ ."
+        }
+      ],
+      "mobileId": 186659,
+      "phonetic": "わん",
+      "synsets": [
+        {
+          "base_form": "椀",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボール",
+                "くぼみ",
+                "鉢",
+                "ボウル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボール",
+                "碗",
+                "丼",
+                "鉢",
+                "ボウル",
+                "丼鉢"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "椀"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a069dcb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small metal bowl"
+        }
+      ],
+      "mobileId": 223611,
+      "phonetic": "かなまり かなわん",
+      "word": "金椀"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09000d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dish served in a lacquered bowl"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "celebratory banquet"
+        }
+      ],
+      "mobileId": 285550,
+      "phonetic": "おうばん",
+      "word": "椀飯"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0ddbc5b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tô xúp"
+        }
+      ],
+      "mobileId": 152745,
+      "phonetic": "しるわん",
+      "word": "汁椀"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92160c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soup ingredients (esp. seafood, tofu, egg)"
+        }
+      ],
+      "mobileId": 257346,
+      "phonetic": "わんだね",
+      "word": "椀種"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0409510",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bowl-shaped, dome-shaped"
+        }
+      ],
+      "mobileId": 283031,
+      "phonetic": "わんがた",
+      "word": "椀形"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5bd1d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bowl used for serving rice"
+        }
+      ],
+      "mobileId": 250995,
+      "phonetic": "めしわん",
+      "word": "飯椀"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6deccb6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soup served at the end of a traditional Japanese dinner, last soup served in a Kaiseki course (often miso soup)"
+        }
+      ],
+      "mobileId": 222778,
+      "phonetic": "とめわん",
+      "word": "止め椀"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f658f4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5g",
+          "mean": "hái; vặt ."
+        }
+      ],
+      "mobileId": 186660,
+      "phonetic": "もぐ",
+      "related_words": {
+        "word": [
+          "椀"
+        ]
+      },
+      "word": "椀ぐ"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd548a97",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự nhổ ra khỏi; tới sự lựa chọn; tới sự gãy hoặc nước mắt ra khỏi"
+        }
+      ],
+      "mobileId": 71465,
+      "phonetic": "わんぎとる",
+      "word": "椀ぎ取る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

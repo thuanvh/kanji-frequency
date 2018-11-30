@@ -1,0 +1,145 @@
+{
+  "data": [
+    {
+      "_id": "12be0047dfdec669605e1a2b2227d3a5",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Suất bình thường"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ちゅうもり",
+      "word": "中盛"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01a4fa6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "warm soba noodles (esp. for dipping, either served after being boiled, or cooled and then rewarmed)"
+        }
+      ],
+      "mobileId": 281800,
+      "phonetic": "あつもり",
+      "word": "熱盛"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e6c058e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Thường, cỡ bình thường, suất trung bình không to không nhỏ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "なみもり",
+      "word": "並盛"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0ca545",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "extra large portion (e.g. with rice dishes)"
+        }
+      ],
+      "mobileId": 248396,
+      "phonetic": "とくもり",
+      "word": "特盛"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa70ecafa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự xa hoa; sự nguy nga; xa hoa; nguy nga ."
+        }
+      ],
+      "mobileId": 106942,
+      "phonetic": "ごうせい",
+      "related_words": {
+        "word": [
+          "豪"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "豪盛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "贅沢",
+                "華奢",
+                "栄華",
+                "奢侈",
+                "侈",
+                "富裕",
+                "栄耀",
+                "豪奢"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "壮麗",
+                "豪華",
+                "壮観",
+                "豪奢"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "豪盛"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99b70be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "climax, peak"
+        }
+      ],
+      "mobileId": 277694,
+      "phonetic": "きょくせい",
+      "word": "極盛"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b63e71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "might, mighty"
+        }
+      ],
+      "mobileId": 262108,
+      "phonetic": "きょうせい ごうじょう",
+      "word": "強盛"
+    },
+    {
+      "_id": "432518852de0a80625d585a98261914e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the pain brought on by the five skandha"
+        }
+      ],
+      "mobileId": 234720,
+      "phonetic": "ごおんじょうく",
+      "word": "五陰盛苦"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

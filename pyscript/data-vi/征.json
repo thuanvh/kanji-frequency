@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9105c9e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "coming from far away to participate in a game, war, etc."
+        }
+      ],
+      "mobileId": 273295,
+      "phonetic": "らいせい",
+      "word": "来征"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95cdd0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "military expedition led in person by the emperor"
+        }
+      ],
+      "mobileId": 259282,
+      "phonetic": "しんせい",
+      "word": "親征"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca040d2c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "conquest, subjugation, overcoming, controlling"
+        }
+      ],
+      "mobileId": 283040,
+      "phonetic": "せいあつ",
+      "word": "征圧"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d148cd2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ủng hộ cuộc thám hiểm trừng phạt"
+        }
+      ],
+      "mobileId": 146396,
+      "phonetic": "さいせい",
+      "related_words": {
+        "word": [
+          "再"
+        ]
+      },
+      "word": "再征"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dd7521",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "attacking Russia"
+        }
+      ],
+      "mobileId": 263351,
+      "phonetic": "せいろ",
+      "word": "征露"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95622cc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chinh chiến đánh nhau với quân man di mọi rợ"
+        }
+      ],
+      "mobileId": 59226,
+      "phonetic": "せいえびす",
+      "word": "征夷"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7c07d0f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "長征ロケット",
+              "mean": "Tên lửa tầm xa",
+              "transcription": "ちょうただしロケット"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "sự trường chinh"
+        }
+      ],
+      "mobileId": 109979,
+      "phonetic": "ちょうせい",
+      "word": "長征"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0b6ecc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k",
+          "mean": "to conquer, to subjugate"
+        }
+      ],
+      "mobileId": 215467,
+      "phonetic": "ゆく",
+      "word": "征く"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8f4004",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "policy of conquering Korea by military force"
+        }
+      ],
+      "mobileId": 219705,
+      "phonetic": "せいかんろん",
+      "word": "征韓論"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada70ac2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nam chinh Bắc phạt ."
+        }
+      ],
+      "mobileId": 78858,
+      "phonetic": "なんせいほくばつ",
+      "related_words": {
+        "word": [
+          "北",
+          "南",
+          "伐"
+        ]
+      },
+      "word": "南征北伐"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

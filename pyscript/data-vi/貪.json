@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e18139d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thèm muốn"
+        }
+      ],
+      "mobileId": 111799,
+      "phonetic": "むさぼ",
+      "related_words": {
+        "word": [
+          "貪欲",
+          "貪る",
+          "貪食"
+        ]
+      },
+      "word": "貪"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c1b13a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "avariciousness and inhumanity"
+        }
+      ],
+      "mobileId": 262473,
+      "phonetic": "たんれい どんれい",
+      "word": "貪戻"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab19292",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "attachment, craving"
+        }
+      ],
+      "mobileId": 229078,
+      "phonetic": "とんあい とんない どんあい",
+      "word": "貪愛"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e189f39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính tham lam, tính tham ăn, thói háu ăn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hối lộ, sự tham nhũng, sự mục nát, sự thối nát, sự sửa đổi làm sai lạc (bài văn, ngôn ngữ...)"
+        }
+      ],
+      "mobileId": 111814,
+      "phonetic": "むさぼきたな",
+      "related_words": {
+        "word": [
+          "貪"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "貪汚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "腐敗",
+                "汚職",
+                "贈収賄",
+                "贈賄",
+                "悪徳",
+                "黄白",
+                "汚濁",
+                "収賄"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "業突張り",
+                "欲張り",
+                "貪慾",
+                "強欲",
+                "貪欲",
+                "貪婪"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "腐敗",
+                "汚職",
+                "堕落",
+                "贈収賄",
+                "贈賄",
+                "悪徳",
+                "黄白",
+                "汚濁",
+                "収賄"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "不徳",
+                "腐敗",
+                "汚職",
+                "堕落",
+                "頽廃",
+                "贈収賄",
+                "贈賄",
+                "悪徳",
+                "黄白",
+                "自堕落",
+                "退廃",
+                "汚濁",
+                "収賄"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "貪汚"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d30932",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "corrupt government official"
+        }
+      ],
+      "mobileId": 213656,
+      "phonetic": "たんかんおり どんかんおり",
+      "word": "貪官汚吏"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a7a504",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the three kilesas that poison the heart of man (greed, hatred and delusion)"
+        }
+      ],
+      "mobileId": 269896,
+      "phonetic": "とんじんち",
+      "word": "貪瞋痴"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

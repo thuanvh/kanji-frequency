@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adbfb42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oblate spheroid"
+        }
+      ],
+      "mobileId": 230479,
+      "phonetic": "へんきゅう",
+      "word": "扁球"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b3c63f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đá da trời, màu xanh da trời"
+        }
+      ],
+      "mobileId": 5733,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "青",
+          "石"
+        ]
+      },
+      "word": "扁青石"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b693fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rời bỏ và radicals phải(đúng)"
+        }
+      ],
+      "mobileId": 5829,
+      "phonetic": "",
+      "word": "扁旁"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e42dd98",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nail (e.g. fingernail, toenail)"
+        }
+      ],
+      "mobileId": 250181,
+      "phonetic": "ひらづめ",
+      "word": "扁爪"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b59622",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "quả hạnh, hạch hạnh, vật hình quả hạnh"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "câu trả lời, lời đáp, trả lời, đáp lại"
+        }
+      ],
+      "mobileId": 5795,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "桃",
+          "扁桃腺",
+          "扁桃腺炎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "扁桃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "アーモンド"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "扁桃"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cce827",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lentil (Lens culinaris, Lens esculenta)"
+        }
+      ],
+      "mobileId": 213457,
+      "phonetic": "ひらまめ ヒラマメ",
+      "word": "扁豆"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd9b526",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flat shape"
+        }
+      ],
+      "mobileId": 222153,
+      "phonetic": "へんけい",
+      "word": "扁形"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b5a245",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dầu hạnh nhân"
+        }
+      ],
+      "mobileId": 5797,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "桃",
+          "油",
+          "扁桃"
+        ]
+      },
+      "word": "扁桃油"
+    },
+    {
+      "_id": "432518852de0a80625d585a98239aa4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "peritonsillar abscess, quinsy"
+        }
+      ],
+      "mobileId": 233451,
+      "phonetic": "へんとうしゅういのうよう",
+      "word": "扁桃周囲膿瘍"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd9b954",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flatworm, platyhelminth"
+        }
+      ],
+      "mobileId": 222154,
+      "phonetic": "へんけいどうぶつ",
+      "word": "扁形動物"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

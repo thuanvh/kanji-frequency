@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fb98410",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "今ごろ船は九十九里沖にいるはずだ。",
+              "mean": "Lúc này chắc chắn con thuyền đang ở ngoài khơi đảo Kujukuri.",
+              "transcription": "いまごろせんはくじゅうくりおきにいるはずだ。"
+            },
+            {
+              "content": "彼は３キロ沖まで泳いだ。",
+              "mean": "Anh ta bơi ra khơi 3 km. .",
+              "transcription": "かれはさんキロおきまでおよいだ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "biển khơi; khơi"
+        }
+      ],
+      "mobileId": 187959,
+      "opposite_word": [
+        "磯",
+        "礒",
+        "岸"
+      ],
+      "phonetic": "おき",
+      "word": "沖"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193010a87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự câu cá ngoài khơi"
+        }
+      ],
+      "mobileId": 17916,
+      "phonetic": "おきひとし",
+      "related_words": {
+        "word": [
+          "沖"
+        ]
+      },
+      "word": "沖釣"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e51a1ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bồi tích, đất bồi, đất phù sa"
+        }
+      ],
+      "mobileId": 113639,
+      "phonetic": "おきせきそう",
+      "related_words": {
+        "word": [
+          "層",
+          "積",
+          "沖"
+        ]
+      },
+      "word": "沖積層"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef964361b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "euphemisms used by superstitious sailors (e.g. calling sardines \"sundries\", whales \"Ebisu\", etc.)"
+        }
+      ],
+      "mobileId": 275925,
+      "opposite_word": [
+        "山言葉"
+      ],
+      "phonetic": "おきことば",
+      "word": "沖言葉"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be5206b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s",
+          "mean": "to rise up into the air, to ascend into the sky"
+        }
+      ],
+      "mobileId": 247157,
+      "phonetic": "ちゅうする",
+      "word": "沖する"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a510817",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small fish sliced open and pickled in a mixture of vinegar, sake, and salt"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "seafood pickled in soy (esp. squid)"
+        }
+      ],
+      "mobileId": 226013,
+      "phonetic": "おきづけ",
+      "word": "沖漬け"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4e3e40",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "false killer whale (Pseudorca crassidens)"
+        }
+      ],
+      "mobileId": 217593,
+      "phonetic": "おきごんどう オキゴンドウ",
+      "word": "沖巨頭"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c772e40aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "warty frog shell (Bursa bufonia dunkeri)"
+        }
+      ],
+      "mobileId": 265966,
+      "phonetic": "おきにし オキニシ",
+      "word": "沖螺"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0d98bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "krill, euphasiid (any species in the family Euphausiacea)"
+        }
+      ],
+      "mobileId": 215533,
+      "phonetic": "おきあみ オキアミ",
+      "word": "沖醤蝦"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778489e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bluntnose lizardfish (Trachinocephalus myops), snakefish"
+        }
+      ],
+      "mobileId": 268757,
+      "phonetic": "おきえそ オキエソ",
+      "word": "沖鱛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,203 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280275ed66f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hông"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nách ."
+        }
+      ],
+      "mobileId": 30679,
+      "opposite_word": [
+        "シテ",
+        "為手",
+        "仕手"
+      ],
+      "phonetic": "わき",
+      "related_words": {
+        "word": [
+          "脇役",
+          "脇差",
+          "脇腹"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "脇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "枝道",
+                "横道",
+                "迂路",
+                "余談",
+                "バイパス",
+                "回り道",
+                "横筋",
+                "脱線",
+                "逸脱"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "辺",
+                "傍ら",
+                "袂",
+                "傍",
+                "側ら",
+                "側",
+                "側辺",
+                "横"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "脇"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdfbe37f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mảnh phụ trong noh chơi"
+        }
+      ],
+      "mobileId": 76787,
+      "phonetic": "わきのう",
+      "word": "脇能"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77aa48ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "downstage left pillar (on a noh stage), by which the supporting actor introduces himself"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "doorjamb, jambe, jamb"
+        }
+      ],
+      "mobileId": 269988,
+      "phonetic": "わきばしら",
+      "word": "脇柱"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77aa8661",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "second verse (in a linked series of poems)"
+        }
+      ],
+      "mobileId": 269997,
+      "phonetic": "わきく",
+      "word": "脇句"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ab115d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "side seating (to stage right in noh)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "centerstage right (noh)"
+        }
+      ],
+      "mobileId": 270010,
+      "phonetic": "わきじょうめん ワキしょうめん",
+      "word": "脇正面"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd22c22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hai bên"
+        }
+      ],
+      "mobileId": 75492,
+      "phonetic": "りょうわき",
+      "related_words": {
+        "word": [
+          "脇"
+        ]
+      },
+      "word": "両脇"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d12f445",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "right armpit, right side"
+        }
+      ],
+      "mobileId": 215707,
+      "phonetic": "みぎわき",
+      "word": "右脇"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b6da2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sides of the chest"
+        }
+      ],
+      "mobileId": 270390,
+      "phonetic": "むなわき",
+      "word": "胸脇"
+    },
+    {
+      "_id": "432518852de0a80625d585a98276ca22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drawer unit (next to a desk), return"
+        }
+      ],
+      "mobileId": 235379,
+      "phonetic": "わきづくえ",
+      "word": "脇机"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d6eb63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ditch next to railway track"
+        }
+      ],
+      "mobileId": 279645,
+      "phonetic": "せんろわき",
+      "word": "線路脇"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

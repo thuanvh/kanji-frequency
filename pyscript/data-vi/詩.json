@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027ed844a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thi"
+        },
+        {
+          "examples": [
+            {
+              "content": "愛と死について書かれた崇高な詩",
+              "mean": "Bài thơ thăng hoa về tình yêu và cái chết",
+              "transcription": "あいとしについてかかれたすうこうなし"
+            },
+            {
+              "content": "スペンサー詩体で書かれた詩",
+              "mean": "Thơ trong các đoạn thơ tứ tuyệt Spenserian .",
+              "transcription": "スペンサーしたいでかかれたし"
+            }
+          ],
+          "kind": "n",
+          "mean": "thơ"
+        }
+      ],
+      "mobileId": 33169,
+      "phonetic": "し",
+      "related_words": {
+        "word": [
+          "詩人",
+          "吟遊詩人",
+          "叙情詩",
+          "叙事詩",
+          "詩集",
+          "作詩",
+          "詩歌",
+          "詩吟"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "詩",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "詠歌",
+                "韻文",
+                "作歌",
+                "ポエム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "詩句",
+                "韻文",
+                "詩歌",
+                "バース"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "詩句",
+                "韻文",
+                "ポエトリー",
+                "詩歌"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "詩情",
+                "ポエトリー",
+                "詩歌"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "詩"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6087f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảm hứng thơ ca, tâm hồn thơ ca"
+        }
+      ],
+      "mobileId": 148784,
+      "phonetic": "ししん",
+      "word": "詩心"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d988326",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "admired poem"
+        }
+      ],
+      "mobileId": 219998,
+      "phonetic": "しょうし",
+      "word": "頌詩"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82b70f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bài thơ kiểu hiện đại"
+        }
+      ],
+      "mobileId": 34887,
+      "phonetic": "きんたいし",
+      "word": "近体詩"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d6ca58",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ứng khẩu bài thơ"
+        }
+      ],
+      "mobileId": 62965,
+      "phonetic": "そっきょうし",
+      "word": "即興詩"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5c842c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "răng nanh, răng nọc, chân răng, cái chuôi, mồi"
+        }
+      ],
+      "mobileId": 148657,
+      "phonetic": "したましい",
+      "word": "詩魂"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db240ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một có người bạn trong nghệ thuật thơ"
+        }
+      ],
+      "mobileId": 151385,
+      "phonetic": "しとも",
+      "word": "詩友"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96d78c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "poetization"
+        }
+      ],
+      "mobileId": 259798,
+      "phonetic": "しか",
+      "word": "詩化"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ae49cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bài thơ du dương"
+        }
+      ],
+      "mobileId": 39063,
+      "phonetic": "こうきょうし",
+      "word": "交響詩"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95286521",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "câu thơ tự do"
+        }
+      ],
+      "mobileId": 57388,
+      "opposite_word": [
+        "定型詩",
+        "定形詩"
+      ],
+      "phonetic": "じゆうし",
+      "word": "自由詩"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

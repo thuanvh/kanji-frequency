@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d491fbb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "address (e.g. opening or closing remarks), speech, words"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ci (Chinese literary form)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ancillary word"
+        }
+      ],
+      "mobileId": 217424,
+      "phonetic": "じ",
+      "word": "辞"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af81c47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "commentary (on any of the 64 hexagrams in the Book of Changes)"
+        }
+      ],
+      "mobileId": 231365,
+      "phonetic": "かじ",
+      "word": "卦辞"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95029e45",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chiều theo (kẻ) khác"
+        }
+      ],
+      "mobileId": 56203,
+      "phonetic": "じゆずる",
+      "word": "辞譲"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d43090",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lời tạm biệt, lời chia tay"
+        }
+      ],
+      "mobileId": 40295,
+      "phonetic": "つげじ",
+      "word": "告辞"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d41e7c2d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "nhận chức (khi được nhận vào làm ở công ty)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "じれい",
+      "word": "辞命"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08bad5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "classifier (in Japanese and Chinese linguistics)"
+        }
+      ],
+      "mobileId": 285408,
+      "phonetic": "ぶんるいじ",
+      "word": "分類辞"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953df2e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từ điển, có tính chất từ điển, có tính chất sách vở"
+        }
+      ],
+      "mobileId": 58055,
+      "phonetic": "じりん",
+      "word": "辞林"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02ad819",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "suffix"
+        }
+      ],
+      "mobileId": 208229,
+      "phonetic": "せつびじ",
+      "related_words": {
+        "word": [
+          "尾",
+          "接尾"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "接尾辞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "語尾"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "接尾辞"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77449efa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "words of parting, farewells, goodbyes"
+        }
+      ],
+      "mobileId": 266674,
+      "phonetic": "けつじ",
+      "word": "訣辞"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af819c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "commentary (on any of the 384 lines of the hexagrams in the Book of Changes)"
+        }
+      ],
+      "mobileId": 231364,
+      "phonetic": "こうじ",
+      "word": "爻辞"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935cc6d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự trang trí; sự sắp đặt"
+        }
+      ],
+      "mobileId": 20866,
+      "phonetic": "かざりづけ",
+      "related_words": {
+        "word": [
+          "付"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "飾付",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "装具",
+                "修飾",
+                "装飾",
+                "飾り",
+                "オーナメント",
+                "置物",
+                "模様",
+                "粉飾",
+                "化粧",
+                "デコレーション",
+                "飾り付け"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "修飾",
+                "装飾",
+                "勲章",
+                "飾り付け"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "飾付"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7fdf403",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（クリスマス）ツリーの電飾をともしてクリスマスを祝う",
+              "mean": "Bật đèn trang trí trên cây thông Noel để chúc mừng Giáng sinh. .",
+              "transcription": "（クリスマス）ツリーのでんかざりをともしてクリスマスをいわう"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự chiếu sáng trang trí"
+        }
+      ],
+      "mobileId": 110988,
+      "phonetic": "でんしょく",
+      "word": "電飾"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821067b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "illumination (e.g. of a manuscript)"
+        }
+      ],
+      "mobileId": 232165,
+      "phonetic": "さいしょく",
+      "word": "彩飾"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fffc454",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hoa mỹ; sự khoa trương ."
+        }
+      ],
+      "mobileId": 189153,
+      "phonetic": "じゅんしょく",
+      "word": "潤飾"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9464f7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "aiguillette (ornamental braided cord)"
+        }
+      ],
+      "mobileId": 258540,
+      "phonetic": "しょくしょ しょくちょ",
+      "word": "飾緒"
+    },
+    {
+      "_id": "432518852de0a80625d585a982106910",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "illuminated manuscript"
+        }
+      ],
+      "mobileId": 232166,
+      "phonetic": "さいしょくしゃほん",
+      "word": "彩飾写本"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ca752c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Raggiana bird-of-paradise (Paradisaea raggiana), Count Raggi's bird-of-paradise"
+        }
+      ],
+      "mobileId": 279232,
+      "phonetic": "あかかざりふうちょう アカカザリフウチョウ",
+      "word": "赤飾風鳥"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3affdda5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Collar of the Supreme Order of the Chrysanthemum"
+        }
+      ],
+      "mobileId": 231634,
+      "phonetic": "だいくんいきっかしょうくびかざり",
+      "word": "大勲位菊花章頸飾"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

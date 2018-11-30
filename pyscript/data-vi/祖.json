@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95bb833c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tổ tiên; ông cha; tổ tiên"
+        }
+      ],
+      "mobileId": 62070,
+      "phonetic": "そ",
+      "word": "祖"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f054c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Mazu, Chinese goddess of the sea"
+        }
+      ],
+      "mobileId": 280449,
+      "phonetic": "まそ",
+      "word": "媽祖"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ac58a5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vải bố ."
+        }
+      ],
+      "mobileId": 173573,
+      "phonetic": "そぎれ",
+      "word": "祖布"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebbbced",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự có cùng tổ tiên"
+        }
+      ],
+      "mobileId": 117042,
+      "phonetic": "どうそ",
+      "related_words": {
+        "word": [
+          "同"
+        ]
+      },
+      "word": "同祖"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d280ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đầu tiên; vật đầu tiên; mẫu đầu tiên, nguyên mẫu"
+        }
+      ],
+      "mobileId": 62819,
+      "phonetic": "そがた",
+      "related_words": {
+        "word": [
+          "型"
+        ]
+      },
+      "word": "祖型"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5b653f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the first generation of a family, school (of thought) or religious sect"
+        }
+      ],
+      "mobileId": 218028,
+      "phonetic": "しょそ",
+      "word": "初祖"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6c6ed5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "true ancestor"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "var. of vampire (in fiction)"
+        }
+      ],
+      "mobileId": 251532,
+      "phonetic": "しんそ",
+      "word": "真祖"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6f9c36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ancestor of a feudal lord"
+        }
+      ],
+      "mobileId": 251631,
+      "phonetic": "はんそ",
+      "word": "藩祖"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9543f8a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tổ tiên"
+        }
+      ],
+      "mobileId": 58252,
+      "phonetic": "ひとそ",
+      "related_words": {
+        "word": [
+          "人"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "人祖",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "先祖",
+                "太祖",
+                "祖先"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "人祖"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10749f9c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nữ thần Mặt trời tổ tiên ."
+        }
+      ],
+      "mobileId": 53056,
+      "phonetic": "てんそ",
+      "word": "天祖"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

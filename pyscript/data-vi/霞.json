@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ff2014",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "霞か雲か分からない",
+              "mean": "không biết là sương hay là mây .",
+              "transcription": "かすみかくもかわからない"
+            }
+          ],
+          "kind": "n",
+          "mean": "sương mù; màn che"
+        }
+      ],
+      "mobileId": 111019,
+      "opposite_word": [
+        "霧"
+      ],
+      "phonetic": "かすみ",
+      "related_words": {
+        "word": [
+          "霞む"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "霞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "フォグ",
+                "煙霧",
+                "霧",
+                "靄"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "煙霧",
+                "霧",
+                "靄"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "霧",
+                "靄",
+                "ミスト"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "霞"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1ed80c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Korean hill cherry (Prunus verecunda)"
+        }
+      ],
+      "mobileId": 216094,
+      "phonetic": "かすみざくら カスミザクラ",
+      "word": "霞桜"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936460b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cây hà thảo; cỏ hà thảo"
+        }
+      ],
+      "mobileId": 21115,
+      "phonetic": "かすみくさ",
+      "word": "霞草"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9550f79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evening breeze, evening mist"
+        }
+      ],
+      "mobileId": 259014,
+      "opposite_word": [
+        "朝霞"
+      ],
+      "phonetic": "ゆうがすみ",
+      "word": "夕霞"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193644fea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hà thạch (một loại khoáng sản có chứa Natri và Canxi ...)"
+        }
+      ],
+      "mobileId": 21112,
+      "phonetic": "かすみせき",
+      "word": "霞石"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0b5b84",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crimson mist, crimson-tinted clouds (e.g. at sunset)"
+        }
+      ],
+      "mobileId": 248355,
+      "phonetic": "こうか",
+      "word": "紅霞"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193646be9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5u",
+          "mean": "tới sống trên (về) không khí"
+        }
+      ],
+      "mobileId": 21117,
+      "phonetic": "かすみをくう",
+      "word": "霞を食う"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9efb3d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clouded salamander (Hynobius nebulosus)"
+        }
+      ],
+      "mobileId": 280431,
+      "phonetic": "かすみさんしょううお カスミサンショウウオ",
+      "word": "霞山椒魚"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

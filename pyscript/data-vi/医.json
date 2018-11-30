@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada64591b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "その国で最も高い評価を受けている精神科医",
+              "mean": "bác sĩ khoa tâm thần được đánh giá cao nhất tại đất nước này",
+              "transcription": "そのくにでもっともたかいひょうかをうけているせいしんかい"
+            },
+            {
+              "content": "ライセンスを受けている自営の精神科医",
+              "mean": "Nhận giấy phép độc lập kinh doanh về khoa chữa bệnh tâm thần .",
+              "transcription": "ライセンスをうけているじえいのせいしんかい"
+            },
+            {
+              "content": "家庭医",
+              "mean": "Bác sĩ gia đình .",
+              "transcription": "かていい"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "y; y học; y tế; bác sĩ"
+        }
+      ],
+      "mobileId": 78623,
+      "phonetic": "い",
+      "related_words": {
+        "word": [
+          "歯医者",
+          "医療",
+          "医者",
+          "医師",
+          "医療機関",
+          "医薬品",
+          "医学",
+          "医学博士",
+          "歯科医院",
+          "医療法人"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "医",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "医術",
+                "医学",
+                "医道",
+                "刀圭"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "医術",
+                "医業"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドクトル",
+                "医員",
+                "薬師",
+                "医師",
+                "医者",
+                "医家",
+                "医伯",
+                "内科医",
+                "国手",
+                "開業医",
+                "ドクター"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "医"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19378a06f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thầy thuốc gia đình"
+        }
+      ],
+      "mobileId": 21756,
+      "phonetic": "かていい",
+      "word": "家庭医"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c75bc1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bác sĩ ở trường học"
+        }
+      ],
+      "mobileId": 24234,
+      "phonetic": "がっこうい",
+      "word": "学校医"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8946064",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà phẫu thuật, bác sĩ phẫu thuật, sĩ quan quân y; thầy thuốc quân y"
+        }
+      ],
+      "mobileId": 38244,
+      "phonetic": "げかい",
+      "related_words": {
+        "word": [
+          "外",
+          "科",
+          "医"
+        ]
+      },
+      "word": "外科医"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280277e2b13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lương y ."
+        }
+      ],
+      "mobileId": 31322,
+      "phonetic": "りょうい",
+      "word": "良医"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e30f688",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người phá thai"
+        }
+      ],
+      "mobileId": 112591,
+      "phonetic": "だたいい",
+      "related_words": {
+        "word": [
+          "医",
+          "堕",
+          "堕胎"
+        ]
+      },
+      "word": "堕胎医"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e49e8ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "y học tiếng trung hoa"
+        }
+      ],
+      "mobileId": 113400,
+      "phonetic": "ちゅうい",
+      "related_words": {
+        "word": [
+          "中",
+          "医"
+        ]
+      },
+      "word": "中医"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a610f6d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "日本産婦人科医会",
+              "mean": "Hiệp hội y sĩ sản phụ khoa .",
+              "transcription": "にっぽんさんふじんかいかい"
+            }
+          ],
+          "kind": "n",
+          "mean": "khoa sản"
+        }
+      ],
+      "mobileId": 171924,
+      "phonetic": "さんふじんかい",
+      "related_words": {
+        "word": [
+          "人",
+          "科",
+          "医"
+        ]
+      },
+      "word": "産婦人科医"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd961db0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiến sĩ y khoa"
+        }
+      ],
+      "mobileId": 14558,
+      "phonetic": "いはく",
+      "related_words": {
+        "word": [
+          "博",
+          "医"
+        ]
+      },
+      "word": "医博"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d11836",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đốc tơ bảo hiểm"
+        }
+      ],
+      "mobileId": 6673,
+      "phonetic": "ほけんい",
+      "related_words": {
+        "word": [
+          "保険",
+          "保",
+          "医"
+        ]
+      },
+      "word": "保険医"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

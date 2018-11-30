@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4fbe98",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "lulled into peacefulness, comforted and consoled"
+        }
+      ],
+      "mobileId": 225975,
+      "phonetic": "すいぶ ずいぶ",
+      "word": "綏撫"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed420a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sạch sẽ quét; giết vài với một thanh gươm quét"
+        }
+      ],
+      "mobileId": 117812,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "切",
+          "切り"
+        ]
+      },
+      "word": "撫切り"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0403337",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "weaselsnout (Lagotis glauca)"
+        }
+      ],
+      "mobileId": 283021,
+      "phonetic": "うるっぷそう ウルップそう ウルップソウ",
+      "word": "得撫草"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

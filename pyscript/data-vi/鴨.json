@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680148d258",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "孵化鴨卵",
+              "mean": "trứng vịt có phôi (đã thụ tinh)",
+              "transcription": "ふかかもたまご"
+            },
+            {
+              "content": "野鴨の群れ",
+              "mean": "một bầy vịt trời",
+              "transcription": "のかものむれ"
+            },
+            {
+              "content": "鴨のロースト",
+              "mean": "món vịt quay",
+              "transcription": "かものロースト"
+            },
+            {
+              "content": "鴨猟",
+              "mean": "săn vịt trời .",
+              "transcription": "かもりょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "vịt rừng; vịt trời; kẻ ngốc nghếch dễ bị đánh lừa"
+        }
+      ],
+      "mobileId": 42995,
+      "phonetic": "かも",
+      "related_words": {
+        "word": [
+          "家鴨",
+          "鴨居"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鴨",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "家鴨"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鴨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7cd8e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "greater scaup (species of diving duck, Aythya marila)"
+        }
+      ],
+      "mobileId": 227384,
+      "phonetic": "すずがも スズガモ",
+      "word": "鈴鴨"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822497c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common shelduck (Tadorna tadorna)"
+        }
+      ],
+      "mobileId": 232781,
+      "phonetic": "つくしがも ツクシガモ",
+      "word": "筑紫鴨"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97690fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Falkland steamer duck (Tachyeres brachypterus)"
+        }
+      ],
+      "mobileId": 276517,
+      "phonetic": "ふながも フナガモ",
+      "word": "舟鴨"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e276fe6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "along comes a sucker just begging to be parted from his money"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "double stroke of good luck, Perfect timing!, How convenient (for you to show up)!"
+        }
+      ],
+      "mobileId": 249293,
+      "phonetic": "かもねぎ かもネギ",
+      "word": "鴨葱"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c010c3b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vt",
+          "mean": "to easily defeat, to eat (one's opponent) alive"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to bilk, to swindle, to dupe"
+        }
+      ],
+      "mobileId": 189679,
+      "phonetic": "かもる カモる",
+      "word": "鴨る"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04fe6da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "long-tailed duck (Clangula hyemalis), old-squaw, hareld, old injun, oldwife"
+        }
+      ],
+      "mobileId": 283520,
+      "phonetic": "こおりがも コオリガモ",
+      "word": "氷鴨"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7d456f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "desirable prey, easy game, easy mark, easy prey, easy target"
+        }
+      ],
+      "mobileId": 252069,
+      "phonetic": "いいかも いいカモ",
+      "word": "いい鴨"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19396717c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vịt đốm"
+        }
+      ],
+      "mobileId": 22694,
+      "phonetic": "けいかも",
+      "word": "軽鴨"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822ad9b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Baikal teal (species of dabbling duck, Anas formosa)"
+        }
+      ],
+      "mobileId": 232990,
+      "phonetic": "ともえがも トモエガモ",
+      "word": "巴鴨"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

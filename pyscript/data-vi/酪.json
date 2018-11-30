@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cdb5339f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "(hoá học) a-xít bu-ty-ríc"
+        }
+      ],
+      "mobileId": 74597,
+      "phonetic": "",
+      "word": "酪酸"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa79d3990",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sản phẩm chế biến từ bơ sữa ."
+        }
+      ],
+      "mobileId": 109328,
+      "phonetic": "らくせいひん",
+      "related_words": {
+        "word": [
+          "製品",
+          "品",
+          "製"
+        ]
+      },
+      "word": "酪製品"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9119f86",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "milk"
+        }
+      ],
+      "mobileId": 273332,
+      "phonetic": "らくしょう",
+      "word": "酪漿"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef911db74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "casein"
+        }
+      ],
+      "mobileId": 273338,
+      "phonetic": "らくそ",
+      "word": "酪素"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9116189",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "butyric acid producing bacillus (Clostridium butyricum)"
+        }
+      ],
+      "mobileId": 273324,
+      "phonetic": "らくさんきん ラクサンキン",
+      "word": "酪酸菌"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e3877a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gamma-aminobutyric acid (GABA)"
+        }
+      ],
+      "mobileId": 249831,
+      "phonetic": "ガンマアミノらくさん",
+      "word": "γアミノ酪酸"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e38c3d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "indolebutyric acid"
+        }
+      ],
+      "mobileId": 249839,
+      "phonetic": "インドールらくさん",
+      "word": "インドール酪酸"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

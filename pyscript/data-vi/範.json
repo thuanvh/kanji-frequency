@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6824bf56",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ví dụ; làm mẫu"
+        }
+      ],
+      "mobileId": 1176,
+      "phonetic": "はん",
+      "word": "範"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83685c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền lệ; làm mẫu"
+        }
+      ],
+      "mobileId": 35240,
+      "phonetic": "ぎはん",
+      "related_words": {
+        "word": [
+          "儀"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "儀範",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "好例",
+                "師範",
+                "見本",
+                "手本",
+                "模範",
+                "儀型",
+                "儀形",
+                "儀表",
+                "例"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "師範",
+                "見本",
+                "手本",
+                "模範",
+                "亀鑑",
+                "師表",
+                "儀表"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "儀範"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a959176d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fencing master of the top rank"
+        }
+      ],
+      "mobileId": 259146,
+      "phonetic": "はんし",
+      "word": "範士"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afb0190",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ví dụ ."
+        }
+      ],
+      "mobileId": 174439,
+      "phonetic": "はんれい",
+      "related_words": {
+        "word": [
+          "例"
+        ]
+      },
+      "word": "範例"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9165dd2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "paradigm"
+        }
+      ],
+      "mobileId": 257009,
+      "phonetic": "はんれつ",
+      "word": "範列"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682f1b49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "đưa cho một ví dụ"
+        }
+      ],
+      "mobileId": 1524,
+      "phonetic": "はんをたれる",
+      "word": "範を垂れる"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9166759",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "paradigmatic relation"
+        }
+      ],
+      "mobileId": 257010,
+      "phonetic": "はんれつかんけい",
+      "word": "範列関係"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

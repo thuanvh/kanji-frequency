@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1071059d7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "堀を巡らした城",
+              "mean": "thành có hào bao quanh",
+              "transcription": "ほりをめぐらしたしろ"
+            },
+            {
+              "content": "〜を堀で取り囲む",
+              "mean": "Quây kín _ bằng hàng rào. .",
+              "transcription": "〜をほりでとりかこむ"
+            }
+          ],
+          "kind": "n",
+          "mean": "hào (vây quanh thanh trì...); kênh đào"
+        }
+      ],
+      "mobileId": 52147,
+      "phonetic": "ほり",
+      "related_words": {
+        "word": [
+          "堀川"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "堀",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "水路",
+                "堀川",
+                "堀割",
+                "仲介物",
+                "チャネル",
+                "海峡",
+                "導管",
+                "運河"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "水路",
+                "堀川",
+                "堀割",
+                "運河"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "堀割",
+                "溝"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "堀"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9917bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tưới đào hào"
+        }
+      ],
+      "mobileId": 73680,
+      "phonetic": "ようすいほり",
+      "word": "用水堀"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3eac1e6e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Kênh mương, hào"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "Ohori",
+      "word": "お堀"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d1a7d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ascending trench or pathway cut into a naturally-occurring slope"
+        }
+      ],
+      "mobileId": 271258,
+      "phonetic": "たてぼり",
+      "word": "竪堀"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d1b046",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "man-made water channel (e.g. round a castle), artificial trench, moat"
+        }
+      ],
+      "mobileId": 271259,
+      "phonetic": "ほりきり",
+      "word": "堀切り"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68dcd86a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s",
+          "mean": "tới sự đào lên trên messily"
+        }
+      ],
+      "mobileId": 7029,
+      "phonetic": "ほりちらす",
+      "related_words": {
+        "word": [
+          "堀",
+          "散らす"
+        ]
+      },
+      "word": "堀散らす"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68dd3695",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kênh đào; thủy đạo; đào hào"
+        }
+      ],
+      "mobileId": 7043,
+      "phonetic": "ほりわり",
+      "word": "堀割り"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68dcfffb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ủng hộ (của) một hào"
+        }
+      ],
+      "mobileId": 7036,
+      "phonetic": "ほりただし",
+      "word": "堀端"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68dc9ed9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự đào lên trên; tới sự quay lên trên; tới nước mắt lên trên"
+        }
+      ],
+      "mobileId": 7023,
+      "phonetic": "ほりりかえす",
+      "word": "堀り返す"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68dce969",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đào, khai quật"
+        }
+      ],
+      "mobileId": 7033,
+      "phonetic": "ほりりぬく",
+      "word": "堀り抜く"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

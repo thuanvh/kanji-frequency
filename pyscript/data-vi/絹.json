@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027248e74",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "海辺では髪はいつも絹のように柔らだ",
+              "mean": "lúc ở bãi biển, tóc của bạn lúc nào cũng mềm như lụa",
+              "transcription": "うみべではかみはいつもきぬのようにやわらだ"
+            },
+            {
+              "content": "肌が絹のようだ",
+              "mean": "da mượt như lụa",
+              "transcription": "はだがきぬのようだ"
+            },
+            {
+              "content": "防水絹",
+              "mean": "lụa không thấm nước",
+              "transcription": "ぼうすいきぬ"
+            },
+            {
+              "content": "植物絹",
+              "mean": "lụa dệt từ tơ thực vật",
+              "transcription": "しょくぶつきぬ"
+            },
+            {
+              "content": "滑らかな絹",
+              "mean": "lụa bóng như xa tanh",
+              "transcription": "なめらかなきぬ"
+            },
+            {
+              "content": "ふるい絹",
+              "mean": "mảnh lụa cổ",
+              "transcription": "ふるいきぬ"
+            },
+            {
+              "content": "1反の絹",
+              "mean": "một mảnh lụa .",
+              "transcription": "1たんのきぬ"
+            }
+          ],
+          "kind": "n",
+          "mean": "lụa; vải lụa"
+        }
+      ],
+      "mobileId": 29694,
+      "phonetic": "きぬ",
+      "synsets": [
+        {
+          "base_form": "絹",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "シルク",
+                "絹地",
+                "絹布"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "絹"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca069f95d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rustling sound of silk cloth, scroop"
+        }
+      ],
+      "mobileId": 284355,
+      "phonetic": "きぬなり",
+      "word": "絹鳴り"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef949945a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "silky inner covering at the tip of a bamboo shoot"
+        }
+      ],
+      "mobileId": 275098,
+      "phonetic": "きぬかわ",
+      "word": "絹皮"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027254be4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dệt tơ lụa ."
+        }
+      ],
+      "mobileId": 29702,
+      "phonetic": "きぬおりぶつ",
+      "word": "絹織り物"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802730e482",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tơ bóng ."
+        }
+      ],
+      "mobileId": 29890,
+      "phonetic": "ねりぎぬ",
+      "word": "練り絹"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2b0213",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lawn orchid, soldier's orchid (Zeuxine strateumatica)"
+        }
+      ],
+      "mobileId": 224810,
+      "phonetic": "きぬらん",
+      "word": "絹蘭"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7709c282",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "silk fixed lantern"
+        }
+      ],
+      "mobileId": 264774,
+      "phonetic": "きぬあんどん",
+      "word": "絹行灯"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa5978e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common marmoset (Callithrix (Callithrix) jacchus)"
+        }
+      ],
+      "mobileId": 228693,
+      "phonetic": "きぬざる キヌザル",
+      "word": "絹猿"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027252c82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tranh lụa ."
+        }
+      ],
+      "mobileId": 29700,
+      "phonetic": "きぬえ",
+      "word": "絹絵"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e52103c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sericite"
+        }
+      ],
+      "mobileId": 250668,
+      "phonetic": "きぬうんも",
+      "word": "絹雲母"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

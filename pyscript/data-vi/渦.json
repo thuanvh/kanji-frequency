@@ -1,0 +1,217 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757feba55a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼女は争いの渦に巻き込まれてしまった。",
+              "mean": "Cô ta bị xoáy vào cuộc tranh luận.",
+              "transcription": "かのじょはあらそいのうずにまきこまれてしまった。"
+            },
+            {
+              "content": "風に木の葉は小さく渦を巻いた。",
+              "mean": "Gió cuốn lá cây thành những cơn lốc lá nhỏ.",
+              "transcription": "かぜにこのははちいさくうずをまいた。"
+            },
+            {
+              "content": "漁船は大きな渦に巻き込まれた。",
+              "mean": "Con thuyền đánh cá bị xoáy vào xoáy nước lớn. .",
+              "transcription": "ぎょせんはおおきなうずにまきこまれた。"
+            }
+          ],
+          "kind": "n",
+          "mean": "xoáy"
+        }
+      ],
+      "mobileId": 188826,
+      "phonetic": "うず",
+      "related_words": {
+        "word": [
+          "渦潮",
+          "渦巻",
+          "渦巻く",
+          "渦流",
+          "渦中"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "渦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "渦動",
+                "渦巻"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "渦巻",
+                "螺旋"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "渦状",
+                "渦巻"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "渦"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adde426",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cold vortex"
+        }
+      ],
+      "mobileId": 230544,
+      "phonetic": "かんれいうず",
+      "word": "寒冷渦"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779005e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "optical vortex"
+        }
+      ],
+      "mobileId": 269126,
+      "phonetic": "ひかりうず",
+      "word": "光渦"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193679b82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường xoắn ốc"
+        }
+      ],
+      "mobileId": 21220,
+      "phonetic": "うずせん",
+      "word": "渦線"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef971a1ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "polar vortex, polar cell"
+        }
+      ],
+      "mobileId": 276357,
+      "phonetic": "きょくうず きょくか",
+      "word": "極渦"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fec4032",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "渦流を含む空気流",
+              "mean": "dòng không khí xoáy",
+              "transcription": "うずりゅうをふくむくうきりゅう"
+            },
+            {
+              "content": "自由渦流れ",
+              "mean": "Dòng xoáy tự do",
+              "transcription": "じゆううずながれ"
+            },
+            {
+              "content": "渦流現象",
+              "mean": "Hiện tượng xoáy",
+              "transcription": "うずりゅうげんしょう"
+            },
+            {
+              "content": "渦流試験",
+              "mean": "Thử nghiệm xoáy",
+              "transcription": "うずりゅうしけん"
+            }
+          ],
+          "kind": "n",
+          "mean": "dòng xoáy; xoáy"
+        }
+      ],
+      "mobileId": 188831,
+      "phonetic": "かりゅう",
+      "related_words": {
+        "word": [
+          "流",
+          "渦"
+        ]
+      },
+      "word": "渦流"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938d6303",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơn bão có gió lốc xoáy"
+        }
+      ],
+      "mobileId": 22420,
+      "phonetic": "うずかみなり",
+      "word": "渦雷"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a4a707",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eddy current (elec.)"
+        }
+      ],
+      "mobileId": 286206,
+      "phonetic": "うずでんりゅう",
+      "word": "渦電流"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0bbf03d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vortex filament, vortex line"
+        }
+      ],
+      "mobileId": 286995,
+      "phonetic": "うずいと",
+      "word": "渦糸"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9574bd22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xoáy nước (của) sự xung đột chính trị"
+        }
+      ],
+      "mobileId": 59801,
+      "phonetic": "せいそうのうず",
+      "word": "政争の渦"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

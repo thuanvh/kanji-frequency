@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c079bcd9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thailand"
+        }
+      ],
+      "mobileId": 210758,
+      "phonetic": "たい タイ",
+      "word": "泰"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5efa37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Shoutai era (898.4.26-901.7.15)"
+        }
+      ],
+      "mobileId": 218149,
+      "phonetic": "しょうたい",
+      "word": "昌泰"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95eec8fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thailand"
+        }
+      ],
+      "mobileId": 63734,
+      "phonetic": "たいこく",
+      "related_words": {
+        "word": [
+          "国"
+        ]
+      },
+      "word": "泰国"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0ad5b3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japan-Thailand, Japan and Thailand"
+        }
+      ],
+      "mobileId": 286499,
+      "phonetic": "にったい",
+      "word": "日泰"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95eee988",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Người Thái, Tiếng Thái, Thái Lan"
+        }
+      ],
+      "mobileId": 63741,
+      "phonetic": "たいご",
+      "word": "泰語"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f3593c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "những quan hệ với thailand"
+        }
+      ],
+      "mobileId": 63890,
+      "phonetic": "たいたいかんけい",
+      "word": "対泰関係"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

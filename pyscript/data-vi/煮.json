@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca005beb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "simmered with, cooked with"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "boiling, boiled dish"
+        }
+      ],
+      "mobileId": 281135,
+      "phonetic": "に",
+      "word": "煮"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4f4d68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "món ăn gồm có đầu và xương cá nấu với nước xốt tương"
+        }
+      ],
+      "mobileId": 12320,
+      "phonetic": "ほぼに",
+      "word": "粗煮"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a309d7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "freshly brewed, aromatic tea"
+        }
+      ],
+      "mobileId": 224969,
+      "phonetic": "にばな",
+      "word": "煮端"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd77206e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thịt bò sôi với nước xốt nước tương, g và đường"
+        }
+      ],
+      "mobileId": 72544,
+      "phonetic": "やまとに",
+      "word": "大和煮"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee2bf70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "tới sự sôi xuống; tới đoạn trích"
+        }
+      ],
+      "mobileId": 118260,
+      "phonetic": "にだす",
+      "related_words": {
+        "word": [
+          "出す"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "煮出す",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "炒る",
+                "煎る",
+                "煎じ詰める",
+                "煎りつく",
+                "減らす"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "煮出す"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a6c2ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "beef sinew stewed in miso and mirin"
+        }
+      ],
+      "mobileId": 269865,
+      "phonetic": "どてに",
+      "word": "土手煮"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a752649",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soup of soumen noodles and various ingredients in a soy sauce broth"
+        }
+      ],
+      "mobileId": 227141,
+      "phonetic": "にゅうめん",
+      "word": "煮麺"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00178b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "egg boiled, peeled, and steeped in soy sauce marinade"
+        }
+      ],
+      "mobileId": 280997,
+      "phonetic": "にたまご",
+      "word": "煮玉子"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca058fbbe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fry-simmering, cooking by first briefly deep-frying, then simmering in broth"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "fry-simmered food, fried food in broth"
+        }
+      ],
+      "mobileId": 283818,
+      "phonetic": "あげに",
+      "word": "揚げ煮"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0ab4684",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chicken stew with taro, carrot, burdock, etc."
+        }
+      ],
+      "mobileId": 286431,
+      "phonetic": "がめに",
+      "word": "がめ煮"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

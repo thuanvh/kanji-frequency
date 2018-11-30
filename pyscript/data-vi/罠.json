@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027386780",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼は陰謀によって罠にかけられ、老後の蓄えを失った",
+              "mean": "Anh ta bị mắc bẫy vào một âm mưu và đã mất hết tài sản tiết kiệm cho tuổi già",
+              "transcription": "かれはいんぼうによってわなにかけられ、ろうごのたくわえをうしなった"
+            },
+            {
+              "content": "警察は次のときにはその強盗を罠にかけたいと思った",
+              "mean": "Cảnh sát nghĩ là muốn đặt bẫy tên tội phạm vào lần sau .",
+              "transcription": "けいさつはつぎのときにはそのごうとうをわなにかけたいとおもった"
+            }
+          ],
+          "kind": "n",
+          "mean": "bẫy; cái bẫy"
+        }
+      ],
+      "mobileId": 30021,
+      "phonetic": "わな",
+      "synsets": [
+        {
+          "base_form": "罠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "偽計",
+                "策略",
+                "悪計",
+                "謀略",
+                "たくらみ",
+                "企み",
+                "謀",
+                "詭謀",
+                "落とし穴",
+                "策謀",
+                "悪巧み",
+                "奸計",
+                "マヌーバー",
+                "企て",
+                "術策",
+                "詭計"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "計略",
+                "網",
+                "謀略",
+                "トラップ",
+                "落とし穴",
+                "囮",
+                "陥穽"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "トラップ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "罠"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dced6ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snare"
+        }
+      ],
+      "mobileId": 221814,
+      "phonetic": "わなみ",
+      "word": "罠網"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027386ce3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "mắc bẫy ."
+        }
+      ],
+      "mobileId": 30022,
+      "phonetic": "わなにかかる",
+      "word": "罠にかかる"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be0045e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bị bắt trong một cái bẫy"
+        }
+      ],
+      "mobileId": 89306,
+      "phonetic": "わなにかかる",
+      "word": "罠に掛かる"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027386e64",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đánh bẫy ."
+        }
+      ],
+      "mobileId": 30023,
+      "phonetic": "びんにかける",
+      "word": "罠にかける"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

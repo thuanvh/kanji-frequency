@@ -1,0 +1,260 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027e721f0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ぎこちない言い訳",
+              "mean": "lý do (lời xin lỗi) vụng về",
+              "transcription": "ぎこちないいいわけ"
+            },
+            {
+              "content": "いつもの言い訳",
+              "mean": "lý do muôn thủa .",
+              "transcription": "いつものいいわけ"
+            }
+          ],
+          "kind": "n",
+          "mean": "lý do; nguyên nhân"
+        }
+      ],
+      "mobileId": 33038,
+      "phonetic": "わけ",
+      "related_words": {
+        "word": [
+          "翻訳",
+          "通訳",
+          "内訳",
+          "仕訳",
+          "言い訳",
+          "翻訳者",
+          "申し訳",
+          "英訳",
+          "訳す",
+          "日本語訳"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "訳",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "念",
+                "意味",
+                "センス",
+                "検出",
+                "感性",
+                "勘",
+                "感覚",
+                "事理",
+                "観念"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "理由",
+                "道理"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "由縁",
+                "原由",
+                "理窟",
+                "事由",
+                "所為",
+                "理屈",
+                "理由",
+                "道理",
+                "由来",
+                "筋合い",
+                "筋合",
+                "根拠",
+                "謂れ",
+                "由",
+                "所以"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "事由",
+                "所為",
+                "理屈",
+                "理由",
+                "筋合い",
+                "筋合",
+                "根拠",
+                "事情",
+                "由",
+                "所以"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "訳"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdfcdd86",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dễ; dễ dàng"
+        }
+      ],
+      "mobileId": 76820,
+      "phonetic": "わけない",
+      "word": "訳ない"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6bf1d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản dịch sơ lược; bản dịch tạm"
+        }
+      ],
+      "mobileId": 149153,
+      "phonetic": "したやく",
+      "word": "下訳"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f44a6a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "biên dịch ."
+        }
+      ],
+      "mobileId": 186106,
+      "phonetic": "ぼんやく",
+      "related_words": {
+        "word": [
+          "訳",
+          "翻訳者",
+          "翻訳家",
+          "機械翻訳"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "翻訳",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "トランスレーション",
+                "訳書",
+                "講読"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "本訳"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22301365",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "用語解訳",
+              "mean": "",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "diễn giải"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "かいやく",
+      "word": "解訳"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c052dafa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "easily, without difficulty"
+        }
+      ],
+      "mobileId": 209509,
+      "phonetic": "わけなく",
+      "word": "訳なく"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adaa76aa0",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "dịch theo kiểu khẩu ngữ"
+        }
+      ],
+      "mobileId": 79651,
+      "phonetic": "こうごやく",
+      "word": "口語訳"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e525cf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "poor translation, clumsy translation"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "my translation"
+        }
+      ],
+      "mobileId": 250678,
+      "phonetic": "せつやく",
+      "word": "拙訳"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a01cdb3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "translation from a foreign language into Japanese"
+        }
+      ],
+      "mobileId": 223463,
+      "phonetic": "こくやく",
+      "word": "国訳"
+    },
+    {
+      "_id": "432518852de0a80625d585a982732738",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "free translation, liberal translation"
+        }
+      ],
+      "mobileId": 235265,
+      "phonetic": "じゆうやく",
+      "word": "自由訳"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

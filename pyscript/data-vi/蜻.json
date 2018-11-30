@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af4cd31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "darner (any dragonfly of family Aeshnidae), devil's darning needle"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dragonfly (esp. a large one)"
+        }
+      ],
+      "mobileId": 231261,
+      "phonetic": "やんま ヤンマ",
+      "word": "蜻蜒"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af4d55d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lesser emperor (species of dragonfly, Anax parthenope)"
+        }
+      ],
+      "mobileId": 231263,
+      "phonetic": "ぎんやんま ギンヤンマ",
+      "word": "銀蜻蜓"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af4d8fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sinictinogomphus clavatus (species of clubtail dragonfly)"
+        }
+      ],
+      "mobileId": 231264,
+      "phonetic": "うちわやんま ウチワヤンマ",
+      "word": "団扇蜻蜓"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00862bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "holding, gripping"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grip (sword, gun, etc.), hilt, handle"
+        }
+      ],
+      "mobileId": 281231,
+      "phonetic": "あくは",
+      "word": "握把"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd76125f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhúm, người khó chịu, việc khó chịu"
+        }
+      ],
+      "mobileId": 13542,
+      "phonetic": "いちにぎ",
+      "word": "一握"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd323c47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một loại rìu đẽo bằng tay của thời kỳ đồ đá"
+        }
+      ],
+      "mobileId": 11397,
+      "phonetic": "にぎおの",
+      "related_words": {
+        "word": [
+          "斧"
+        ]
+      },
+      "word": "握斧"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d422a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(a statesman making) extraordinary efforts to find and employ capable persons (persons of great wisdom)"
+        }
+      ],
+      "mobileId": 213693,
+      "phonetic": "あくはつとほ",
+      "word": "握髪吐哺"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

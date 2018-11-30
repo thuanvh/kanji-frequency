@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f7ae5ae",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "その木樽の容量は30ガロンです",
+              "mean": "Dung tích chứa của cái thùng gỗ ấy là 30 garon.",
+              "transcription": "そのきたるのようりょうは30ガロンです"
+            },
+            {
+              "content": "貯蔵樽の内部を仕上げるための道具",
+              "mean": "Dụng cụ để hoàn thiện phần trong của thùng chứa .",
+              "transcription": "ちょぞうたるのないぶをしあげるためのどうぐ"
+            }
+          ],
+          "kind": "n",
+          "mean": "thùng"
+        }
+      ],
+      "mobileId": 186944,
+      "phonetic": "たる",
+      "word": "樽"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e056f46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oil barrel, oil cask"
+        }
+      ],
+      "mobileId": 248183,
+      "phonetic": "あぶらたる ゆそん",
+      "word": "油樽"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561eae91da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miso barrel"
+        }
+      ],
+      "mobileId": 253706,
+      "phonetic": "みそだる",
+      "word": "味噌樽"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d0e734",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sake that has been kept in a wooden cask, cask sake, barreled sake"
+        }
+      ],
+      "mobileId": 262954,
+      "phonetic": "たるざけ そんしゅ",
+      "word": "樽酒"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f80e2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red and black lacquered sake cask with horn-like handles, used for ceremonies"
+        }
+      ],
+      "mobileId": 264203,
+      "phonetic": "えだる",
+      "word": "柄樽"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f3d1644",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thùng gỗ ."
+        }
+      ],
+      "mobileId": 185933,
+      "phonetic": "きのたる",
+      "word": "木の樽"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e174c2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trung gian (của) một thùng; căng phồng (của) một thùng tô nô"
+        }
+      ],
+      "mobileId": 111777,
+      "phonetic": "たるのはら",
+      "word": "樽の腹"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

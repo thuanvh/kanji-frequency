@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e82e1b1e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tới gần tương lai"
+        }
+      ],
+      "mobileId": 34970,
+      "phonetic": "きんみらい",
+      "related_words": {
+        "word": [
+          "未来",
+          "来",
+          "未"
+        ]
+      },
+      "word": "近未来"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e071e30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the modern era, present day"
+        }
+      ],
+      "mobileId": 248231,
+      "phonetic": "きんげんだい",
+      "word": "近現代"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e825a7f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quan hệ huyết thống gần, người có quan hệ huyết thống gần, bà con gần; (sinh học) mối quan hệ gần giữa các loài"
+        }
+      ],
+      "mobileId": 34698,
+      "opposite_word": [
+        "遠縁"
+      ],
+      "phonetic": "きんえん",
+      "related_words": {
+        "word": [
+          "縁"
+        ]
+      },
+      "word": "近縁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04970e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "close to a station"
+        }
+      ],
+      "mobileId": 283317,
+      "phonetic": "えきちか",
+      "word": "駅近"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3a8a32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ gần, nơi gần đây, vùng lân cận, khu lân cận"
+        }
+      ],
+      "mobileId": 112903,
+      "phonetic": "ちか ば",
+      "word": "近場"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fedf5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự gần; sự gần kề; sớm; gần bên cạnh"
+        }
+      ],
+      "mobileId": 8119,
+      "phonetic": "まこん",
+      "word": "真近"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3a9f9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phím rút gọn, phím tắt"
+        }
+      ],
+      "mobileId": 112906,
+      "phonetic": "きんみち",
+      "synsets": [
+        {
+          "base_form": "近路",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "抜道",
+                "近道",
+                "抜け道",
+                "捷径"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "近路"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f2f14a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "familiarity, closeness"
+        }
+      ],
+      "mobileId": 264032,
+      "phonetic": "じっきん",
+      "word": "昵近"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779eaf6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "proximal"
+        }
+      ],
+      "mobileId": 269592,
+      "phonetic": "きんい",
+      "related_words": {
+        "word": [
+          "位"
+        ]
+      },
+      "word": "近位"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae273ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "near point (closest point at which an object can be brought into focus by the eye)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "periapsis"
+        }
+      ],
+      "mobileId": 230688,
+      "phonetic": "きんてん",
+      "word": "近点"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568010a7270",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "じょうぶな靴",
+              "mean": "giày chắc chắn",
+              "transcription": "じょうぶなくつ"
+            },
+            {
+              "content": "かかとの低い靴",
+              "mean": "giày đế thấp",
+              "transcription": "かかとのひくいくつ"
+            },
+            {
+              "content": "＿サイズの靴",
+              "mean": "giày có kích thước ~",
+              "transcription": "＿サイズのくつ"
+            },
+            {
+              "content": "（人）に合う靴",
+              "mean": "giày hợp với ai",
+              "transcription": "（ひと）にあうくつ"
+            },
+            {
+              "content": "あつらえた靴",
+              "mean": "giày đặt thuê làm",
+              "transcription": "あつらえたくつ"
+            },
+            {
+              "content": "木靴",
+              "mean": "giày gỗ .",
+              "transcription": "きぐつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "giày; dép; guốc"
+        }
+      ],
+      "mobileId": 41950,
+      "phonetic": "くつ",
+      "related_words": {
+        "word": [
+          "靴下",
+          "靴底",
+          "靴屋",
+          "靴磨き",
+          "靴紐",
+          "革靴",
+          "上靴"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "靴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "履物",
+                "履き物",
+                "下足"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "靴"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8513b4e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đặt nơi một có thể loại bỏ giày (của) ai đó"
+        }
+      ],
+      "mobileId": 36100,
+      "phonetic": "くつぬぎ",
+      "word": "靴脱ぎ"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010b1459",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bao đựng giầy ."
+        }
+      ],
+      "mobileId": 41959,
+      "phonetic": "くついれ",
+      "word": "靴入れ"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c093df9f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "women's shoes"
+        }
+      ],
+      "mobileId": 211589,
+      "phonetic": "ふじんぐつ",
+      "word": "婦人靴"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c025b14f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shoelace, bootlace"
+        }
+      ],
+      "mobileId": 208060,
+      "phonetic": "くつひも",
+      "related_words": {
+        "word": [
+          "靴",
+          "ひも"
+        ]
+      },
+      "word": "靴ひも"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90d145f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ankle strap (for fastening a shoe)"
+        }
+      ],
+      "mobileId": 273185,
+      "phonetic": "かたい",
+      "word": "靴帯"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be6303e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ski boots"
+        }
+      ],
+      "mobileId": 247192,
+      "phonetic": "スキーくつ",
+      "word": "スキー靴"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689d38f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhảy giày"
+        }
+      ],
+      "mobileId": 4992,
+      "phonetic": "ぶとうくつ",
+      "word": "舞踏靴"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85158ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lift) /'ʃu:lift/, cái bót"
+        }
+      ],
+      "mobileId": 36105,
+      "phonetic": "くつへら",
+      "related_words": {
+        "word": [
+          "靴",
+          "箆"
+        ]
+      },
+      "word": "靴箆"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e851849f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giày quét"
+        }
+      ],
+      "mobileId": 36112,
+      "phonetic": "くつブラシ",
+      "word": "靴ブラシ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682c5752",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phân số phức"
+        }
+      ],
+      "mobileId": 1437,
+      "phonetic": "しげるぶんすう",
+      "word": "繁分数"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d7cac0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bắn văng lên; cành nhỏ"
+        }
+      ],
+      "mobileId": 149682,
+      "phonetic": "しげるふき",
+      "word": "繁吹き"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6829e008",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "truyền thống (unsimplified) hình thành (của) tiếng trung hoa những đặc tính"
+        }
+      ],
+      "mobileId": 1352,
+      "phonetic": "はんたい じ",
+      "related_words": {
+        "word": [
+          "体",
+          "字"
+        ]
+      },
+      "word": "繁体字"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b680921",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "peak traffic period"
+        }
+      ],
+      "mobileId": 243174,
+      "phonetic": "さいぱんトラヒックとき",
+      "word": "最繁トラヒック時"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b6816ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "busy hour, busy period"
+        }
+      ],
+      "mobileId": 243175,
+      "phonetic": "さいぱんせいじ",
+      "word": "最繁正時"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

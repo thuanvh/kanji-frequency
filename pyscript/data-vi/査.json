@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a4be0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khảo sát"
+        }
+      ],
+      "mobileId": 23147,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "勘"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勘査",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "査察",
+                "リサーチ",
+                "査問",
+                "探索",
+                "審査",
+                "勘検",
+                "踏査",
+                "取り調べ",
+                "追究",
+                "究明",
+                "考査",
+                "詮索",
+                "追求",
+                "考証",
+                "吟味",
+                "捜査",
+                "調べ",
+                "追及",
+                "検討",
+                "検察",
+                "取調",
+                "調査",
+                "捜索",
+                "査定"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "勘査"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a9c2de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tax inspection division"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tax inspector, tax dick"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tax inspection"
+        }
+      ],
+      "mobileId": 278125,
+      "phonetic": "マルさ まるさ マルサ",
+      "word": "マル査"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00747c7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "kiểm tra thực địa, truy cập trang web (kiểm toán viên, kế toán viên, v.v.)"
+        }
+      ],
+      "mobileId": 281184,
+      "phonetic": "おうさ",
+      "word": "往査"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0c6f96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "to examine in full detail"
+        }
+      ],
+      "mobileId": 248390,
+      "phonetic": "しょうさ",
+      "word": "詳査"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a78d3ae",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "肛門と直腸を観察することによって痔核を診断する",
+              "mean": "Chuẩn đoán bệnh trĩ bằng cách kiểm tra hậu môn và trực tràng",
+              "transcription": "こうもんとちょくちょうをかんさつすることによってじかくをしんだんする"
+            },
+            {
+              "content": "彼が痔になったなんて考えたくない。",
+              "mean": "Tôi không muốn nghĩ rằng anh ta lại bị bệnh trĩ",
+              "transcription": "かれがじになったなんてかんがえたくない。"
+            }
+          ],
+          "kind": "n",
+          "mean": "bệnh trĩ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trĩ ."
+        }
+      ],
+      "mobileId": 172285,
+      "phonetic": "じ",
+      "word": "痔"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02873c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anal fistula"
+        }
+      ],
+      "mobileId": 208146,
+      "phonetic": "じろう",
+      "word": "痔ろう"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04a0a09",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hemorrhoids, haemorrhoids, blind piles"
+        }
+      ],
+      "mobileId": 209220,
+      "phonetic": "いぼじ",
+      "word": "いぼ痔"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada335060",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh trĩ chảy máu ."
+        }
+      ],
+      "mobileId": 77804,
+      "phonetic": "きれじ",
+      "word": "切れ痔"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a9cbd6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "nịnh hót ai bằng cách mút mủ từ mụt nhọt và liếm trĩ của người đó (!!!)"
+        }
+      ],
+      "mobileId": 61509,
+      "phonetic": "",
+      "word": "吮癰舐痔"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c031021d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anal fistula, bleeding hemorrhoids"
+        }
+      ],
+      "mobileId": 208422,
+      "phonetic": "きれじ",
+      "word": "裂れ痔"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

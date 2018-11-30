@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e27f4fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "warming up sake, warmed sake"
+        }
+      ],
+      "mobileId": 249310,
+      "phonetic": "かん",
+      "word": "燗"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b33836",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nồi, vò ... dùng hâm nóng rượu"
+        }
+      ],
+      "mobileId": 23594,
+      "phonetic": "かんとっくり",
+      "word": "燗徳利"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90d93c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sake warmed to human body temperature (approx. 37 degrees C)"
+        }
+      ],
+      "mobileId": 273202,
+      "phonetic": "ひとはだかん",
+      "word": "人肌燗"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e27f27e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "to warm up sake"
+        }
+      ],
+      "mobileId": 249309,
+      "phonetic": "かんをつける",
+      "word": "燗をつける"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

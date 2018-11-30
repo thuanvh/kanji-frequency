@@ -1,0 +1,205 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107ba9560",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "con sông"
+        },
+        {
+          "examples": [
+            {
+              "content": "その川は渦巻きがあります",
+              "mean": "Dòng sông kia có rất nhiều dòng xoáy",
+              "transcription": "そのかわはうずまきがあります"
+            },
+            {
+              "content": "（人）の家のすぐそばをある川",
+              "mean": "Con sông nằm ngay bên cạnh nhà (ai đó)",
+              "transcription": "（ひと）のいえのすぐそばをあるかわ"
+            },
+            {
+              "content": "昨日の大きい雨で水かさを増した川（の流れ)",
+              "mean": "mực nước sông đã dâng lên do trận mưa lớn ngày hôm qua",
+              "transcription": "きのうのおおきいあめでみずかさをましたかわ（のながれ)"
+            }
+          ],
+          "kind": "n",
+          "mean": "sông"
+        }
+      ],
+      "mobileId": 55013,
+      "phonetic": "かわ",
+      "related_words": {
+        "word": [
+          "天の川",
+          "小川",
+          "川上",
+          "河川",
+          "川沿い",
+          "山川",
+          "川柳",
+          "川岸",
+          "川原",
+          "谷川"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "川",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "河",
+                "大河",
+                "谷川",
+                "滝川"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "川"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107bce1cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá sông ."
+        }
+      ],
+      "mobileId": 55048,
+      "phonetic": "かわざかな",
+      "related_words": {
+        "word": [
+          "川",
+          "魚"
+        ]
+      },
+      "word": "川魚"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821b7c9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese water shrew (Chimarrogale platycephala)"
+        }
+      ],
+      "mobileId": 232502,
+      "phonetic": "かわねずみ カワネズミ",
+      "word": "川鼠"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d563937",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "river fishing"
+        }
+      ],
+      "mobileId": 217861,
+      "phonetic": "かわづり",
+      "word": "川釣り"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107bc5658",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "川蝦網を引っ張る",
+              "mean": "Kéo vó tôm sông.",
+              "transcription": "かわえびもうをひっぱる"
+            },
+            {
+              "content": "川蝦のかわは茶色です",
+              "mean": "Vỏ tôm sông có màu nâu nhạt .",
+              "transcription": "かわえびのかわはちゃいろです"
+            }
+          ],
+          "kind": "n",
+          "mean": "Tôm sông"
+        }
+      ],
+      "mobileId": 55040,
+      "phonetic": "かわえび",
+      "word": "川蝦"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1074cde5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sông Tenryu ."
+        }
+      ],
+      "mobileId": 53117,
+      "phonetic": "てんりゅうかわ",
+      "word": "天龍川"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c48fb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "river which often overflows its banks"
+        }
+      ],
+      "mobileId": 213179,
+      "phonetic": "あばれがわ",
+      "word": "暴れ川"
+    },
+    {
+      "_id": "432518852de0a80625d585a982623f2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Batrachospermum gelatinosum (species of red alga)"
+        }
+      ],
+      "mobileId": 234741,
+      "phonetic": "かわもずく カワモズク",
+      "word": "川水雲"
+    },
+    {
+      "_id": "f61fc88c4ffea55446c27e6690362b32",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hằng hà ."
+        }
+      ],
+      "mobileId": 180089,
+      "phonetic": "がんじすかわ",
+      "word": "ガンジス川"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aede270",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sandbank in a river"
+        }
+      ],
+      "mobileId": 231046,
+      "phonetic": "かわす",
+      "word": "川洲"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

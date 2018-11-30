@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dbad07e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "Pamfơlê, cuốn sách nhỏ"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cuốn sách nhỏ"
+        }
+      ],
+      "mobileId": 151679,
+      "phonetic": "",
+      "word": "詳察"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc0fa72",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chú thích chi tiết"
+        }
+      ],
+      "mobileId": 151870,
+      "phonetic": "",
+      "word": "詳註"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c046d585",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "detailed commentary, copious notes"
+        }
+      ],
+      "mobileId": 209117,
+      "phonetic": "しょうちゅう",
+      "word": "詳注"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0c6f96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "to examine in full detail"
+        }
+      ],
+      "mobileId": 248390,
+      "phonetic": "しょうさ",
+      "word": "詳査"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

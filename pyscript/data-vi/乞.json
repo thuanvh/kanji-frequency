@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef98e352b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "going on an alms round (for food), going begging (for food), going to ask for alms of food, pindacara"
+        }
+      ],
+      "mobileId": 277274,
+      "phonetic": "ぎょうこつ",
+      "word": "行乞"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afb2a15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bhikkhu (fully ordained Buddhist monk)"
+        }
+      ],
+      "mobileId": 231478,
+      "phonetic": "こっし",
+      "word": "乞士"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b1efae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "với những lời khen ngợi (của) tác giả"
+        }
+      ],
+      "mobileId": 39179,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "評"
+        ]
+      },
+      "word": "乞高評"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd959944",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cầu xin cứu mạng; cầu trời phật cho được sống trường thọ"
+        }
+      ],
+      "mobileId": 14541,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "命"
+        ]
+      },
+      "word": "命乞"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a6d96e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chú rể mà được yêu bởi cô dâu (của) anh ấy"
+        }
+      ],
+      "mobileId": 38827,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "婿"
+        ]
+      },
+      "word": "乞婿"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22205a36",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Kẻ ăn xin, ăn mày, người khất thực"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ものこう",
+      "word": "物乞"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

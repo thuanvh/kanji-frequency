@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68223cfe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khâu; châm cứu"
+        }
+      ],
+      "mobileId": 1090,
+      "phonetic": "",
+      "word": "鍼"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6822e695",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuật châm cứu"
+        }
+      ],
+      "mobileId": 1112,
+      "phonetic": "",
+      "word": "鍼治療"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de65c9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuật châm cứu"
+        }
+      ],
+      "mobileId": 153100,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "鍼"
+        ]
+      },
+      "word": "鍼治"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de7120f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuật châm cứu"
+        }
+      ],
+      "mobileId": 153123,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "術",
+          "鍼"
+        ]
+      },
+      "word": "鍼術"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a91c0170",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anesthesia by acupuncture"
+        }
+      ],
+      "mobileId": 257179,
+      "phonetic": "はりますい",
+      "word": "鍼麻酔"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a91c06b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acupuncturist"
+        }
+      ],
+      "mobileId": 257180,
+      "phonetic": "はりし",
+      "word": "鍼師"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7bb95ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Người châm cứu; chuyên gia châm cứu ."
+        }
+      ],
+      "mobileId": 109891,
+      "phonetic": "はりい",
+      "word": "鍼医"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a91bfab9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acupuncture therapy"
+        }
+      ],
+      "mobileId": 257177,
+      "phonetic": "はりりょうほう",
+      "word": "鍼療法"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7bba5e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "châm cứu ."
+        }
+      ],
+      "mobileId": 109892,
+      "phonetic": "しんきゅう",
+      "word": "鍼灸"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99f3d96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acupuncture and moxibustion clinic"
+        }
+      ],
+      "mobileId": 277815,
+      "phonetic": "しんきゅういん",
+      "word": "鍼灸院"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

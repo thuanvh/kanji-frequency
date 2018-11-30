@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d154401",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "multiplication (e.g. of frequencies)"
+        }
+      ],
+      "mobileId": 215779,
+      "phonetic": "ていばい",
+      "word": "逓倍"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e79c88b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "máy giảm thế"
+        }
+      ],
+      "mobileId": 114908,
+      "phonetic": "",
+      "word": "逓降変圧器"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d154438",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "multiplier (e.g. frequency)"
+        }
+      ],
+      "mobileId": 215780,
+      "phonetic": "ていばいき",
+      "word": "逓倍器"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d155359",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frequency multiplier"
+        }
+      ],
+      "mobileId": 215781,
+      "phonetic": "しゅうはすうていばいき",
+      "word": "周波数逓倍器"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

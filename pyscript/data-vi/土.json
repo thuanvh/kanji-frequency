@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adafd74eb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "火山灰質粘性土",
+              "mean": "đất sét dính ở gần vùng núi lửa",
+              "transcription": "かざんばいしつねんせいど"
+            },
+            {
+              "content": "岩のように固い土",
+              "mean": "đất cằn sỏi đá .",
+              "transcription": "いわのようにかたいど"
+            }
+          ],
+          "kind": "n",
+          "mean": "đất"
+        }
+      ],
+      "mobileId": 81090,
+      "phonetic": "つち",
+      "related_words": {
+        "word": [
+          "土曜日",
+          "お土産",
+          "土産",
+          "土地",
+          "土曜",
+          "土木",
+          "土台",
+          "粘土",
+          "土星",
+          "土壌"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "土",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "大地",
+                "地球"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "土壌",
+                "土地"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "大地",
+                "グランド",
+                "地",
+                "グラウンド",
+                "ランド",
+                "地面",
+                "土壌",
+                "地べた",
+                "土地",
+                "地所",
+                "アース"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "大地",
+                "泥",
+                "地",
+                "地面",
+                "土壌",
+                "土地"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "土壌"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "土"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdba57b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "earthgod"
+        }
+      ],
+      "mobileId": 15699,
+      "phonetic": "どしん",
+      "word": "土神"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07b6853",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "great burdock sold covered with soil"
+        }
+      ],
+      "mobileId": 284891,
+      "phonetic": "つちごぼう つちゴボウ",
+      "word": "土ごぼう"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec19856",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lớn; mênh mông; địa ngục (của) nhiều"
+        }
+      ],
+      "mobileId": 117228,
+      "phonetic": "どえらい",
+      "word": "土偉い"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec613dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự xếp đặt"
+        }
+      ],
+      "mobileId": 117368,
+      "phonetic": "どこんじょう",
+      "word": "土根性"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90a541c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "keeping soil in good condition"
+        }
+      ],
+      "mobileId": 273091,
+      "phonetic": "つちづくり",
+      "word": "土作り"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e099ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "type of circular or square earth building built from the 12th century in Fujian, China"
+        }
+      ],
+      "mobileId": 279947,
+      "phonetic": "どろう",
+      "word": "土楼"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e9d0f05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "barometer earthstar (Astraeus hygrometricus)"
+        }
+      ],
+      "mobileId": 253111,
+      "phonetic": "つちぐり ツチグリ",
+      "word": "土栗"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d227f63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acid soil"
+        }
+      ],
+      "mobileId": 216210,
+      "phonetic": "さんせいど",
+      "word": "酸性土"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da5bb22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "making things out of dirt (for fun)"
+        }
+      ],
+      "mobileId": 220445,
+      "phonetic": "つちあそび",
+      "word": "土遊び"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

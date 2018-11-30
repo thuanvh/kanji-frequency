@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa038d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "The Lord's Prayer"
+        }
+      ],
+      "mobileId": 228522,
+      "phonetic": "しゅとうぶん",
+      "word": "主祷文"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a988ed57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "book of hours (devotional book popular in the Middle Ages)"
+        }
+      ],
+      "mobileId": 260669,
+      "phonetic": "じとうしょ",
+      "word": "時祷書"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6dc7142a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "num",
+          "mean": "10^44, hundred tredecillion"
+        }
+      ],
+      "mobileId": 221563,
+      "phonetic": "さい",
+      "word": "載"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f7b55f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "trộn lẫn tải"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "root crops"
+        }
+      ],
+      "mobileId": 41437,
+      "phonetic": "",
+      "word": "混載"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a1f3a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "xuất bản phần gần chia ra (e.g. trong một tạp chí)"
+        }
+      ],
+      "mobileId": 5140,
+      "phonetic": "ぶんの",
+      "related_words": {
+        "word": [
+          "分"
+        ]
+      },
+      "word": "分載"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d161f82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ăn than"
+        }
+      ],
+      "mobileId": 146447,
+      "phonetic": "のすみ",
+      "related_words": {
+        "word": [
+          "炭"
+        ]
+      },
+      "word": "載炭"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0d0254",
+      "means": [
+        {
+          "kind": "n, vs",
+          "mean": "tải trọng"
+        }
+      ],
+      "mobileId": 146164,
+      "phonetic": "さいか",
+      "word": "載荷"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d14e9cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự chất hàng (lên xe, tàu), hàng chở (trên xe, sự nạp đạn"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "gạch vụn bỏ đi, đá vụn bỏ đi, sỏi; cuội, (địa lý, địa chất) sa khoáng mảnh vụn"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự khai thác đá, công việc khai thác đá"
+        }
+      ],
+      "mobileId": 146410,
+      "phonetic": "のせき",
+      "related_words": {
+        "word": [
+          "積"
+        ]
+      },
+      "word": "載積"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9eb1ad9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "laying across to form a bridge"
+        }
+      ],
+      "mobileId": 280286,
+      "phonetic": "さいか",
+      "word": "載架"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952d9fe5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bắt làm quá sức sự căng thẳng"
+        }
+      ],
+      "mobileId": 57541,
+      "phonetic": "",
+      "word": "上載圧"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3ea07f9c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "tải trọng phụ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "じょうさいかじゅう",
+      "word": "上載荷重"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e3f8490",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "consolidator (shipping, freight, etc.)"
+        }
+      ],
+      "mobileId": 250060,
+      "phonetic": "こんさいぎょうしゃ",
+      "word": "混載業者"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

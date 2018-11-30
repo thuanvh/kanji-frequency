@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e180c1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nỗi đau buồn, nỗi sầu khổ, nỗi thương tiếc, gặp tai hoạ; thất bại"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tiếng thở dài, thở dài, ước ao, khát khao, rì rào"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự than khóc, lời than van"
+        }
+      ],
+      "mobileId": 111798,
+      "phonetic": "",
+      "word": "歎"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1bc525",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự hâm mộ"
+        }
+      ],
+      "mobileId": 111913,
+      "phonetic": "",
+      "word": "歎賞"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc08613",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khóc trong sự đau"
+        }
+      ],
+      "mobileId": 151855,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "傷"
+        ]
+      },
+      "word": "傷歎"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f86e497",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nỗi đau ."
+        }
+      ],
+      "mobileId": 187122,
+      "phonetic": "なげき",
+      "word": "歎き"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d99b66b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự than khóc, lời than van"
+        }
+      ],
+      "mobileId": 150599,
+      "phonetic": "",
+      "word": "愁歎"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1c6533",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "để đau buồn; tới lời than vãn; tới tiếng thở dài trong sự hâm mộ"
+        }
+      ],
+      "mobileId": 111934,
+      "phonetic": "",
+      "word": "歎じる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

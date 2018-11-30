@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a7a9f00",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh ỉa chảy; bệnh tiêu chảy [y học]"
+        },
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "lý"
+        }
+      ],
+      "mobileId": 172313,
+      "phonetic": "り",
+      "related_words": {
+        "word": [
+          "下痢",
+          "赤痢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "痢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "下り",
+                "下痢"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "痢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

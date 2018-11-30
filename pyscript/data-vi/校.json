@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f568a56",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "将校",
+              "mean": "(tướng hiệu) sỹ quan",
+              "transcription": "しょうこう"
+            },
+            {
+              "content": "学校",
+              "mean": "trường học",
+              "transcription": "がっこう"
+            }
+          ],
+          "kind": "suf",
+          "mean": "hiệu; trường học; dấu hiệu"
+        }
+      ],
+      "mobileId": 186431,
+      "phonetic": "こう",
+      "related_words": {
+        "word": [
+          "小学校",
+          "高校",
+          "学校",
+          "出身校",
+          "校正",
+          "中学校",
+          "高校生",
+          "校長",
+          "高等学校",
+          "予備校"
+        ]
+      },
+      "word": "校"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c07afbf7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "our school, my school"
+        }
+      ],
+      "mobileId": 210798,
+      "phonetic": "わがこう",
+      "word": "我が校"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef01bf0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc đọc và sửa bản in thử lần cuối cùng"
+        }
+      ],
+      "mobileId": 118686,
+      "phonetic": "ねんこう",
+      "related_words": {
+        "word": [
+          "校",
+          "念"
+        ]
+      },
+      "word": "念校"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf7069d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "leaving school (due to transfer)"
+        }
+      ],
+      "mobileId": 247718,
+      "phonetic": "きょこう",
+      "word": "去校"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f58e98",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "training school, vocational school"
+        }
+      ],
+      "mobileId": 280614,
+      "phonetic": "ようせいこう",
+      "word": "養成校"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af9ab0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "private school that allows students to advance from one stage of education to the next, often kindergarten to university, without taking entrance exams en route, \"escalator school\""
+        }
+      ],
+      "mobileId": 231420,
+      "phonetic": "エスカレーターこう エスカレータこう",
+      "word": "エスカレーター校"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bb6e51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hiệu chú"
+        }
+      ],
+      "mobileId": 39494,
+      "phonetic": "こうちゅう",
+      "word": "校注"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bb724c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bản hiệu chỉnh và chú giải"
+        }
+      ],
+      "mobileId": 39495,
+      "phonetic": "",
+      "word": "校註"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b98002",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "combined school (e.g. junior high and high school)"
+        }
+      ],
+      "mobileId": 278661,
+      "phonetic": "いっかんこう",
+      "word": "一貫校"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d37942a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chứng minh (thứ) ba"
+        }
+      ],
+      "mobileId": 147496,
+      "phonetic": "さんこう",
+      "related_words": {
+        "word": [
+          "三",
+          "校"
+        ]
+      },
+      "word": "三校"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

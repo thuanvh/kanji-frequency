@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f6537fe",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "こんもりと茂った森",
+              "mean": "những khu rừng rậm rạp",
+              "transcription": "こんもりとしげったもり"
+            },
+            {
+              "content": "高温多湿の気候でのみ生育する森",
+              "mean": "rừng chỉ phát triển ở nơi có khí hậu nóng và độ ẩm cao",
+              "transcription": "こうおんたしつのきこうでのみせいいくするもり"
+            }
+          ],
+          "kind": "n",
+          "mean": "rừng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rừng rú ."
+        }
+      ],
+      "mobileId": 186652,
+      "phonetic": "もり",
+      "related_words": {
+        "word": [
+          "森林",
+          "森羅万象",
+          "森林火災"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "森",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "森林",
+                "林"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "森林",
+                "林",
+                "ラフォーレ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "森"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9c26d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "woodlark (Lullula arborea)"
+        }
+      ],
+      "mobileId": 228397,
+      "phonetic": "もりひばり モリヒバリ",
+      "word": "森雲雀"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0869c7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "standing close together"
+        }
+      ],
+      "mobileId": 285242,
+      "phonetic": "しんりつ",
+      "word": "森立"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9941f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "forest green tree frog (Rhacophorus arboreus)"
+        }
+      ],
+      "mobileId": 228300,
+      "phonetic": "もりあおがえる モリアオガエル",
+      "word": "森青蛙"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7792a5e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cirsium dipsacolepis (perennial plant of the thistle family)"
+        }
+      ],
+      "mobileId": 269218,
+      "phonetic": "もりあざみ モリアザミ",
+      "word": "森薊"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9397713",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giant forest hog (Hylochoerus meinertzhageni)"
+        }
+      ],
+      "mobileId": 274609,
+      "phonetic": "もりいのしし モリイノシシ",
+      "word": "森猪"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91fba03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fashion style for young women invoking a soft, forest-like feeling"
+        }
+      ],
+      "mobileId": 273791,
+      "phonetic": "もりガール",
+      "related_words": {
+        "word": [
+          "森",
+          "ガール"
+        ]
+      },
+      "word": "森ガール"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd61904d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sâu trong rừng"
+        }
+      ],
+      "mobileId": 71878,
+      "phonetic": "もりのおく",
+      "word": "森の奥"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5c0312",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lùm cây (của) miếu thờ làng"
+        }
+      ],
+      "mobileId": 113979,
+      "phonetic": "ちんじゅのもり",
+      "word": "鎮守の森"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac12e2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sleeping Beauty (ballet)"
+        }
+      ],
+      "mobileId": 229593,
+      "phonetic": "ねむれるもりのびじょ",
+      "related_words": {
+        "word": [
+          "の",
+          "女",
+          "森",
+          "美",
+          "美女"
+        ]
+      },
+      "word": "眠れる森の美女"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

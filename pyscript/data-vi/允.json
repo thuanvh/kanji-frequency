@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cda64ba1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính thành thật, tính thật thà, tính ngay thật, tính chân thành, tính thành khẩn"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giấy phép, sự cho phép[pə'mit], cho phép, thừa nhận"
+        }
+      ],
+      "mobileId": 15062,
+      "phonetic": "まこと",
+      "word": "允"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdabd5bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "được diễn tả bằng thơ trong những nghệ thuật quân đội và văn học"
+        }
+      ],
+      "mobileId": 15251,
+      "phonetic": "まことぶんまことたけ",
+      "word": "允文允武"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda78d7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự lịch sự; thành thật"
+        }
+      ],
+      "mobileId": 15100,
+      "phonetic": "まこときょう",
+      "word": "允恭"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db37241",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đồng ý; sự công nhận; thỏa thuận"
+        }
+      ],
+      "mobileId": 151428,
+      "phonetic": "しょう いん",
+      "related_words": {
+        "word": [
+          "允"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "承允",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "申し合わせ",
+                "合意",
+                "規約",
+                "調和",
+                "承引",
+                "取決",
+                "取り決め",
+                "アグリーメント",
+                "納得",
+                "協定",
+                "賛成",
+                "契約",
+                "一致",
+                "合点",
+                "合致",
+                "承知の幕",
+                "約定",
+                "議定",
+                "同感",
+                "申合せ",
+                "承認",
+                "約束"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "申し合わせ",
+                "合意",
+                "規約",
+                "調和",
+                "承引",
+                "取決",
+                "取り決め",
+                "アグリーメント",
+                "納得",
+                "協定",
+                "賛成",
+                "契約",
+                "一致",
+                "合点",
+                "承知",
+                "合致",
+                "承知の幕",
+                "約定",
+                "議定",
+                "承諾",
+                "同意",
+                "同感",
+                "申合せ",
+                "承認",
+                "約束"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "納得",
+                "合点",
+                "承知",
+                "許諾",
+                "承諾",
+                "同意",
+                "了解",
+                "承認",
+                "諒承"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "承允"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

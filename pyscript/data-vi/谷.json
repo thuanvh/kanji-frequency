@@ -1,0 +1,205 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa70ab4e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khe"
+        },
+        {
+          "examples": [
+            {
+              "content": "山を越え谷を越えて",
+              "mean": "Lên núi, xuống thung lũng.",
+              "transcription": "やまをこえたにをこえて"
+            },
+            {
+              "content": "両側の切り立った谷",
+              "mean": "Thung lũng nằm giữa hai vách núi. .",
+              "transcription": "りょうがわのきりたったたに"
+            }
+          ],
+          "kind": "n",
+          "mean": "thung lũng"
+        }
+      ],
+      "mobileId": 106876,
+      "opposite_word": [
+        "山"
+      ],
+      "phonetic": "たに",
+      "related_words": {
+        "word": [
+          "渓谷",
+          "谷間",
+          "谷口",
+          "谷川",
+          "谷底"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "谷",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "山峡",
+                "渓谷",
+                "渓間",
+                "谷間"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "沢",
+                "谷間"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "谷"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1b55bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cirque, corrie, cwm"
+        }
+      ],
+      "mobileId": 224285,
+      "phonetic": "けんこく",
+      "word": "圏谷"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77309c9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fault valley"
+        }
+      ],
+      "mobileId": 266037,
+      "phonetic": "だんそうこく",
+      "word": "断層谷"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a729118",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Weigela hortensis (species of deciduous shrub in the honeysuckle family)"
+        }
+      ],
+      "mobileId": 227060,
+      "phonetic": "たにうつぎ タニウツギ",
+      "word": "谷空木"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa70ace38",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "山頂と谷底",
+              "mean": "Đỉnh núi và đáy vực.",
+              "transcription": "さんちょうとたにそこ"
+            },
+            {
+              "content": "谷底を浸食する",
+              "mean": "Xói mòn lớp đáy thung lũng . .",
+              "transcription": "たにそこをしんしょくする"
+            }
+          ],
+          "kind": "n",
+          "mean": "đáy khe"
+        }
+      ],
+      "mobileId": 106879,
+      "phonetic": "たにそこ",
+      "related_words": {
+        "word": [
+          "谷",
+          "底"
+        ]
+      },
+      "word": "谷底"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a63649c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"valley\" radical at left"
+        }
+      ],
+      "mobileId": 226567,
+      "phonetic": "たにへん",
+      "word": "谷偏"
+    },
+    {
+      "_id": "432518852de0a80625d585a98255b09a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese toad (Bufo japonicus)"
+        }
+      ],
+      "mobileId": 234345,
+      "phonetic": "たにぐく",
+      "word": "谷蟆"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193355274",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thung lũng dưới mặt biển"
+        }
+      ],
+      "mobileId": 19626,
+      "phonetic": "かいていたに",
+      "word": "海底谷"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca092a227",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "valley glacier"
+        }
+      ],
+      "mobileId": 285640,
+      "phonetic": "たにひょうが",
+      "word": "谷氷河"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f3c68d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "miếu ((của) cái trán)"
+        }
+      ],
+      "mobileId": 41314,
+      "phonetic": "",
+      "word": "蟀谷"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

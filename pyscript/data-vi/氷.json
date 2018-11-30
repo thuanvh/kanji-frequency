@@ -1,0 +1,251 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fad8c8a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "コンクリートのように硬い氷",
+              "mean": "đá cứng giống bê tông",
+              "transcription": "コンクリートのようにかたいこおり"
+            },
+            {
+              "content": "とけかかっている氷",
+              "mean": "đá đang tan",
+              "transcription": "とけかかっているこおり"
+            },
+            {
+              "content": "しっかりと張った氷",
+              "mean": "đá già",
+              "transcription": "しっかりとはったこおり"
+            }
+          ],
+          "kind": "n",
+          "mean": "đá (ăn)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước đá"
+        }
+      ],
+      "mobileId": 187792,
+      "phonetic": "こおり",
+      "related_words": {
+        "word": [
+          "氷河",
+          "月下氷人",
+          "氷結",
+          "氷山",
+          "流氷",
+          "氷柱",
+          "氷輪",
+          "氷雨",
+          "氷河期",
+          "樹氷"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "氷",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "アイス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "フラッペ",
+                "アイス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "氷"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fad9672",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "スケートができるほど氷が固く張っている.",
+              "mean": "Băng đủ rắn để trượt",
+              "transcription": "スケートができるほどこおりがかたくはっている."
+            },
+            {
+              "content": "夜は氷が張るだろう.",
+              "mean": "Thời tiết tối nay giá lạnh/ Tối nay như thể bị đóng băng",
+              "transcription": "よるはこおりがはるだろう."
+            }
+          ],
+          "kind": "n",
+          "mean": "băng"
+        }
+      ],
+      "mobileId": 187793,
+      "phonetic": "ひ",
+      "related_words": {
+        "word": [
+          "氷河",
+          "月下氷人",
+          "氷結",
+          "氷山",
+          "流氷",
+          "氷柱",
+          "氷輪",
+          "氷雨",
+          "氷河期",
+          "樹氷"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "氷",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "アイス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "フラッペ",
+                "アイス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "氷"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685db9e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(hóa học) axit axetic băng"
+        }
+      ],
+      "mobileId": 2994,
+      "phonetic": "こおりさくさん",
+      "related_words": {
+        "word": [
+          "氷",
+          "酢",
+          "酸",
+          "酢酸"
+        ]
+      },
+      "word": "氷酢酸"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ce6993",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đánh nhẹ xuống trong nước đá"
+        }
+      ],
+      "mobileId": 40106,
+      "phonetic": "こおりづけ",
+      "word": "氷漬け"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ce9ed2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bán nước đá; cửa hàng bán nước đá, tiệm bán nước đá; quán giải khát (bán đá lạnh, si rô đá bào ...); người quán giải khát (bán đá lạnh, si rô đá bào ...)"
+        }
+      ],
+      "mobileId": 40114,
+      "phonetic": "こおりや",
+      "related_words": {
+        "word": [
+          "氷"
+        ]
+      },
+      "word": "氷屋"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04fe6da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "long-tailed duck (Clangula hyemalis), old-squaw, hareld, old injun, oldwife"
+        }
+      ],
+      "mobileId": 283520,
+      "phonetic": "こおりがも コオリガモ",
+      "word": "氷鴨"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b2ec91",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "ice resurfacing, resurfacing a skating rink"
+        }
+      ],
+      "mobileId": 286697,
+      "phonetic": "せいひょう",
+      "word": "整氷"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825fc3f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ice shelf"
+        }
+      ],
+      "mobileId": 234662,
+      "phonetic": "たなごおり",
+      "word": "棚氷"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3eb3a476",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Không đá ( đồ uống ko bỏ đá )"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "こおりぬき",
+      "word": "氷抜き"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90383c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "melting ice"
+        }
+      ],
+      "mobileId": 272871,
+      "phonetic": "ゆうひょう",
+      "word": "融氷"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

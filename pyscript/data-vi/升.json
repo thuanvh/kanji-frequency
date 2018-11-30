@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada674fda",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "人と友達になる前に、二人で升一杯の塩を食べなさい。／友達選びは、時間をかけて慎重に。",
+              "mean": "Hai người trước khi thành bạn thì phải ăn hết chỗ muối này/ thời gian sẽ trả lời chọn bạn đúng hay sai.",
+              "transcription": "ひととともだちになるまえに、ににんでますいちはいのしおをたべなさい。 ／ともだちえらびは、じかんをかけてしんちょうに。"
+            },
+            {
+              "content": "一升の3月のほこり",
+              "mean": "Lượng rác tập trung của 3 tháng",
+              "transcription": "いちしょうの3つきのほこり"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "thăng"
+        }
+      ],
+      "mobileId": 78686,
+      "phonetic": "ます",
+      "synsets": [
+        {
+          "base_form": "升",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "桟敷",
+                "ボックス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "升"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df2cd16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "alcohol (esp. sake) served in a small wooden box, alcohol (esp. sake) sold in a small wooden box"
+        }
+      ],
+      "mobileId": 222976,
+      "phonetic": "ますざけ",
+      "word": "升酒"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a938b6b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "square framing (in a house, temple, screen, etc.)"
+        }
+      ],
+      "mobileId": 258094,
+      "phonetic": "ますぐみ",
+      "word": "升組"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fb6988",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đánh bốc (cái ghế)"
+        }
+      ],
+      "mobileId": 8011,
+      "phonetic": "ますせき",
+      "word": "升席"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d0ac3ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một thăng"
+        }
+      ],
+      "mobileId": 141570,
+      "phonetic": "いっしょう",
+      "word": "一升"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df2cd5b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "selling something by the boxful (in a wooden masu box)"
+        }
+      ],
+      "mobileId": 222977,
+      "phonetic": "ますうり",
+      "word": "升売り"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dbf5329",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(mọc) lên lên trên"
+        }
+      ],
+      "mobileId": 151819,
+      "phonetic": "",
+      "word": "升遷"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770600e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "break and run out in billiards (9 ball, 8 ball, etc.)."
+        }
+      ],
+      "mobileId": 264655,
+      "phonetic": "ますわり マスワリ",
+      "word": "升割"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab5fc4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "false anemone (Anemonopsis macrophylla)"
+        }
+      ],
+      "mobileId": 229219,
+      "phonetic": "れんげしょうま レンゲショウマ",
+      "word": "蓮華升麻"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

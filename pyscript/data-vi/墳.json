@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdef0e57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đất chôn cất; đất mộ"
+        }
+      ],
+      "mobileId": 17335,
+      "opposite_word": [
+        "方墳"
+      ],
+      "phonetic": "えんふん",
+      "related_words": {
+        "word": [
+          "円"
+        ]
+      },
+      "word": "円墳"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d6330c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "burial mound with square flat base and round top"
+        }
+      ],
+      "mobileId": 263120,
+      "phonetic": "じょうえんかほうふん",
+      "word": "上円下方墳"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

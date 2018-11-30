@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb899e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiệc tùng; yến tiệc"
+        }
+      ],
+      "mobileId": 15645,
+      "phonetic": "うたげ",
+      "related_words": {
+        "word": [
+          "宴会",
+          "披露宴",
+          "結婚披露宴",
+          "饗宴",
+          "酒宴"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "宴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "会",
+                "パーティー",
+                "集い",
+                "宴会",
+                "集まり"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "宴"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdefe443",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tiệc mừng, tiệc vui, yến tiệc"
+        }
+      ],
+      "mobileId": 17363,
+      "phonetic": "",
+      "word": "宴遊"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933e12eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yến tiệc vui nhộn; bữa tiệc để chúc mừng"
+        }
+      ],
+      "mobileId": 19906,
+      "phonetic": "けいえん",
+      "related_words": {
+        "word": [
+          "佳",
+          "宴"
+        ]
+      },
+      "word": "佳宴"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a23753",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đón tiếp ân cần phe (đảng)"
+        }
+      ],
+      "mobileId": 23065,
+      "phonetic": "かんげいえん",
+      "word": "歓迎宴"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d40a89fd",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Tiệc rựu chỉ có nữ tham gia"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "遊宴"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada0d17a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bữa tiệc giữa những người thân trong cung điện ."
+        }
+      ],
+      "mobileId": 77099,
+      "phonetic": "ないえん",
+      "related_words": {
+        "word": [
+          "宴"
+        ]
+      },
+      "word": "内宴"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05cec9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "revelry, tumultuous party, wild party, uproarious banquet"
+        }
+      ],
+      "mobileId": 283949,
+      "phonetic": "きょうえん",
+      "word": "狂宴"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f742702e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngự yến ."
+        }
+      ],
+      "mobileId": 98019,
+      "phonetic": "ぎょえん",
+      "word": "御宴"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77614a44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tea gathering"
+        }
+      ],
+      "mobileId": 267602,
+      "phonetic": "さえん",
+      "word": "茶宴"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7763b344",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "parting party, divorce party"
+        }
+      ],
+      "mobileId": 267677,
+      "phonetic": "りえん",
+      "word": "離宴"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

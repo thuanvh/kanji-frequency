@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69acb1f2b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "福の神",
+              "mean": "phúc thần",
+              "transcription": "ふくのかみ"
+            }
+          ],
+          "kind": "n",
+          "mean": "hạnh phúc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phúc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phước ."
+        }
+      ],
+      "mobileId": 173684,
+      "opposite_word": [
+        "禍",
+        "災い"
+      ],
+      "phonetic": "ふく",
+      "related_words": {
+        "word": [
+          "幸福",
+          "祝福",
+          "福祉",
+          "社会福祉",
+          "至福",
+          "福音",
+          "幸福な",
+          "裕福",
+          "裕福な",
+          "七福神"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "福",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "幸運",
+                "好運",
+                "幸",
+                "僥倖",
+                "好機",
+                "盛運",
+                "仕合わせ",
+                "幸せ",
+                "吉",
+                "倖",
+                "多幸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "幸福",
+                "果報",
+                "幸",
+                "仕合わせ",
+                "幸せ",
+                "幸い",
+                "倖"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "福"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc4f6b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự sung sướng, hạnh phúc, câu nói khéo chọn; thành ngữ khéo chọn; từ dùng rất đắt, (từ cổ, nghĩa cổ) sự may mắn"
+        }
+      ],
+      "mobileId": 75100,
+      "phonetic": "りふく",
+      "word": "利福"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e1e4799",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "beatification"
+        }
+      ],
+      "mobileId": 248992,
+      "phonetic": "れっぷく",
+      "word": "列福"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681037be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phúc âm"
+        }
+      ],
+      "mobileId": 528,
+      "phonetic": "はちふく",
+      "related_words": {
+        "word": [
+          "八",
+          "福"
+        ]
+      },
+      "word": "八福"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f77591",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "happiness and comfort, happiness and peace"
+        }
+      ],
+      "mobileId": 264184,
+      "phonetic": "ふくらく",
+      "word": "福楽"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6877301d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chơi tương tự  ghim cái đuôi trên (về) con lừa"
+        }
+      ],
+      "mobileId": 3792,
+      "phonetic": "ふくわらい",
+      "word": "福笑い"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c21b9a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lucky grass"
+        }
+      ],
+      "mobileId": 213101,
+      "phonetic": "さきくさ",
+      "word": "福草"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd28f0f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phúc lợi quốc gia"
+        }
+      ],
+      "mobileId": 70108,
+      "phonetic": "みんふく",
+      "related_words": {
+        "word": [
+          "福",
+          "民"
+        ]
+      },
+      "word": "民福"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d9c412",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "visiting Fukuoka, coming to Fukuoka"
+        }
+      ],
+      "mobileId": 279731,
+      "phonetic": "らいふく",
+      "word": "来福"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d87f1e1",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "may mắn quyến rũ, cái gì đó khuyến khích hoặc mời may mắn"
+        }
+      ],
+      "mobileId": 219469,
+      "phonetic": "しょうふく",
+      "word": "招福"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

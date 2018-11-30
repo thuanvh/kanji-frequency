@@ -1,0 +1,379 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adad4e2ea",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "品がない",
+              "mean": "hạ lưu",
+              "transcription": "しながない"
+            }
+          ],
+          "kind": "n",
+          "mean": "phong độ"
+        },
+        {
+          "examples": [
+            {
+              "content": "品を落とさず値上げもしないのは見事だ.",
+              "mean": "Điều nổi bật là luôn giữ chất lượng cao và giá thành thấp",
+              "transcription": "しなをおとさずねあげもしないのはみごとだ."
+            },
+            {
+              "content": "これはそれより品が落ちる.",
+              "mean": "Cái này kém chất lượng hơn cái kia./ Cái này không chất lượng bằng cái kia.",
+              "transcription": "これはそれよりしながおちる."
+            }
+          ],
+          "kind": "n",
+          "mean": "quy cách sản phẩm"
+        },
+        {
+          "examples": [
+            {
+              "content": "あの店は品数が多いが碌(ろく)な物はない.",
+              "mean": "Cửa hàng đó có rất nhiều hàng hóa nhưng chúng đều kém chất lượng .",
+              "transcription": "あのみせはしなかずがおおいがろく(ろく)なものはない."
+            }
+          ],
+          "kind": "n",
+          "mean": "vật phẩm; hàng hoá"
+        }
+      ],
+      "mobileId": 80365,
+      "phonetic": "ひん",
+      "related_words": {
+        "word": [
+          "商品",
+          "作品",
+          "製品",
+          "部品",
+          "品質管理",
+          "付属品",
+          "納品",
+          "品名",
+          "品質",
+          "消耗品"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "品",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "物件",
+                "物",
+                "物品",
+                "品物",
+                "代物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "品位",
+                "値打ち",
+                "面目",
+                "威厳",
+                "体面",
+                "貫禄",
+                "高位",
+                "品格",
+                "威風",
+                "尊厳",
+                "威儀",
+                "偉容"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "物",
+                "物品",
+                "品物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "品位",
+                "自尊心",
+                "気品",
+                "貫禄",
+                "品格",
+                "自尊",
+                "威信",
+                "尊厳",
+                "プライド",
+                "沽券",
+                "見識"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "科目",
+                "事項",
+                "項目",
+                "品目",
+                "種目",
+                "アイテム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "品位",
+                "気品"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "品"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adad4beef",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あらゆる品",
+              "mean": "tất cả hàng hóa",
+              "transcription": "あらゆるしな"
+            },
+            {
+              "content": "文化遺産の品々",
+              "mean": "vật phẩm thuộc di sản văn hóa",
+              "transcription": "ぶんかいさんのしなじな"
+            }
+          ],
+          "kind": "n",
+          "mean": "phẩm vật; đồ vật; hàng hóa"
+        }
+      ],
+      "mobileId": 80364,
+      "phonetic": "しな",
+      "related_words": {
+        "word": [
+          "商品",
+          "作品",
+          "製品",
+          "部品",
+          "品質管理",
+          "付属品",
+          "納品",
+          "品名",
+          "品質",
+          "消耗品"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "品",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "物件",
+                "物",
+                "物品",
+                "品物",
+                "代物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "品位",
+                "値打ち",
+                "面目",
+                "威厳",
+                "体面",
+                "貫禄",
+                "高位",
+                "品格",
+                "威風",
+                "尊厳",
+                "威儀",
+                "偉容"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "物",
+                "物品",
+                "品物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "品位",
+                "自尊心",
+                "気品",
+                "貫禄",
+                "品格",
+                "自尊",
+                "威信",
+                "尊厳",
+                "プライド",
+                "沽券",
+                "見識"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "科目",
+                "事項",
+                "項目",
+                "品目",
+                "種目",
+                "アイテム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "品位",
+                "気品"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "品"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d776da8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhiều mục (bài báo)"
+        }
+      ],
+      "mobileId": 149512,
+      "phonetic": "しなひん",
+      "related_words": {
+        "word": [
+          "品"
+        ]
+      },
+      "word": "品品"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6813d964",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phát minh"
+        }
+      ],
+      "mobileId": 649,
+      "phonetic": "はつめいひん",
+      "related_words": {
+        "word": [
+          "品",
+          "発",
+          "発明"
+        ]
+      },
+      "word": "発明品"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6820b71c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những mục (bài báo) sắp đặt (của) hoặc bán ra khỏi bởi chính phủ"
+        }
+      ],
+      "mobileId": 1039,
+      "phonetic": "はらいさげひん",
+      "word": "払い下げ品"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82a8d72",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng cấm"
+        }
+      ],
+      "mobileId": 34856,
+      "phonetic": "きんせいひん",
+      "word": "禁制品"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82f4511",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự buôn lậu (hàng hóa)"
+        }
+      ],
+      "mobileId": 35010,
+      "phonetic": "きんゆひん",
+      "word": "禁輸品"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a725db3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "piece of evidence, evidence"
+        }
+      ],
+      "mobileId": 227053,
+      "phonetic": "しょうこひん",
+      "word": "証拠品"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939f9b4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng hóa chính phủ cấp"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fluorescent light bulb"
+        }
+      ],
+      "mobileId": 22979,
+      "phonetic": "かんきゅうひん",
+      "word": "官給品"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193d27106",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng đạt tiêu chuẩn, hàng đúng quy cách"
+        }
+      ],
+      "mobileId": 24571,
+      "phonetic": "きかくひん",
+      "word": "規格品"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

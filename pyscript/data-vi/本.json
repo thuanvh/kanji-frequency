@@ -1,0 +1,525 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f422b43",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この習慣の本は...",
+              "mean": "nguồn gốc của tập quán này là... .",
+              "transcription": "このしゅうかんのほんは..."
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "nguồn; nguồn gốc; căn nguyên"
+        }
+      ],
+      "mobileId": 186043,
+      "opposite_word": [
+        "末",
+        "支"
+      ],
+      "phonetic": "もと",
+      "related_words": {
+        "word": [
+          "日本人",
+          "日本語",
+          "日本",
+          "本社",
+          "本文",
+          "本当",
+          "基本",
+          "本日",
+          "本体",
+          "資本金"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "本",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "巻",
+                "書籍",
+                "書物",
+                "図書",
+                "書誌",
+                "教科書",
+                "著書",
+                "著",
+                "ブック",
+                "著作",
+                "単行本"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "台本",
+                "シナリオ",
+                "脚本",
+                "原作",
+                "スクリプト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "土台",
+                "元",
+                "基本",
+                "基盤",
+                "進数",
+                "基",
+                "基礎",
+                "拠点",
+                "根底",
+                "根拠",
+                "基地",
+                "付け根",
+                "根拠地",
+                "本拠",
+                "本拠地"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "土台",
+                "元",
+                "基本",
+                "基盤",
+                "進数",
+                "基",
+                "基礎",
+                "基数",
+                "拠点",
+                "根底",
+                "根拠",
+                "基地",
+                "付け根",
+                "根拠地",
+                "本拠",
+                "本拠地"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "作業",
+                "作",
+                "書籍",
+                "力作",
+                "作品",
+                "芝居",
+                "著書",
+                "労作",
+                "著",
+                "創作",
+                "著作",
+                "制作"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "巻",
+                "書籍",
+                "書物",
+                "編",
+                "ボリューム",
+                "冊"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "書籍",
+                "書物",
+                "冊子",
+                "図書",
+                "書誌",
+                "ブック"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "本"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f422305",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "三本の傘",
+              "mean": "ba cái ô",
+              "transcription": "さんほんのかさ"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái; chiếc; điếu; bông"
+        },
+        {
+          "examples": [
+            {
+              "content": "その本の題は何ですか.",
+              "mean": "Tiêu đề cuốn sách đó là gì vậy?",
+              "transcription": "そのほんのだいはなにですか."
+            },
+            {
+              "content": "あいにくその本はいま在庫がございません.",
+              "mean": "Không may là bây giờ chúng tôi không có quyển sách này trong kho nữa.",
+              "transcription": "あいにくそのほんはいまざいこがございません."
+            }
+          ],
+          "kind": "n",
+          "mean": "sách"
+        },
+        {
+          "examples": [
+            {
+              "content": "本学年",
+              "mean": "năm học này",
+              "transcription": "ほんがくねん"
+            },
+            {
+              "content": "本日から",
+              "mean": "từ hôm nay",
+              "transcription": "ほんじつから"
+            }
+          ],
+          "kind": "n",
+          "mean": "này; nay"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyển sách"
+        }
+      ],
+      "mobileId": 186042,
+      "opposite_word": [
+        "末",
+        "支"
+      ],
+      "phonetic": "ほん",
+      "related_words": {
+        "word": [
+          "日本人",
+          "日本語",
+          "日本",
+          "本社",
+          "本文",
+          "本当",
+          "基本",
+          "本日",
+          "本体",
+          "資本金"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "本",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "巻",
+                "書籍",
+                "書物",
+                "図書",
+                "書誌",
+                "教科書",
+                "著書",
+                "著",
+                "ブック",
+                "著作",
+                "単行本"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "台本",
+                "シナリオ",
+                "脚本",
+                "原作",
+                "スクリプト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "土台",
+                "元",
+                "基本",
+                "基盤",
+                "進数",
+                "基",
+                "基礎",
+                "拠点",
+                "根底",
+                "根拠",
+                "基地",
+                "付け根",
+                "根拠地",
+                "本拠",
+                "本拠地"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "土台",
+                "元",
+                "基本",
+                "基盤",
+                "進数",
+                "基",
+                "基礎",
+                "基数",
+                "拠点",
+                "根底",
+                "根拠",
+                "基地",
+                "付け根",
+                "根拠地",
+                "本拠",
+                "本拠地"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "作業",
+                "作",
+                "書籍",
+                "力作",
+                "作品",
+                "芝居",
+                "著書",
+                "労作",
+                "著",
+                "創作",
+                "著作",
+                "制作"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "巻",
+                "書籍",
+                "書物",
+                "編",
+                "ボリューム",
+                "冊"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "書籍",
+                "書物",
+                "冊子",
+                "図書",
+                "書誌",
+                "ブック"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "本"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5bbf6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trước đấy; bởi thiên nhiên; từ bắt đầu"
+        }
+      ],
+      "mobileId": 71697,
+      "phonetic": "ほんほん",
+      "word": "本本"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdacfddf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sách được in, sách được xuất bản; ấn bản"
+        }
+      ],
+      "mobileId": 15295,
+      "phonetic": "しるしほん",
+      "related_words": {
+        "word": [
+          "本",
+          "印"
+        ]
+      },
+      "word": "印本"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ddd8f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bóng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chỉ huy, tổng hành dinh"
+        }
+      ],
+      "mobileId": 7064,
+      "phonetic": "ほんかげ",
+      "related_words": {
+        "word": [
+          "本",
+          "影"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "本影",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蔭",
+                "シェード",
+                "影法師",
+                "陰",
+                "日陰",
+                "影",
+                "シャドー",
+                "陰影",
+                "冥暗",
+                "物陰",
+                "陰翳",
+                "冥闇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "本影"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68de4b39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kho chính"
+        }
+      ],
+      "mobileId": 7079,
+      "phonetic": "ほんきんこ",
+      "related_words": {
+        "word": [
+          "本",
+          "金",
+          "金庫"
+        ]
+      },
+      "word": "本金庫"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68de7c10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(ngành in) cách sắp trang"
+        }
+      ],
+      "mobileId": 7086,
+      "phonetic": "ほんくみ",
+      "word": "本組み"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68dec6c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xây dựng lâu dài"
+        }
+      ],
+      "mobileId": 7095,
+      "phonetic": "ほんけんちく",
+      "related_words": {
+        "word": [
+          "本",
+          "建築"
+        ]
+      },
+      "word": "本建築"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e111d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếng nhật vật ngã cái lều"
+        }
+      ],
+      "mobileId": 7164,
+      "phonetic": "ほんばしょ",
+      "related_words": {
+        "word": [
+          "本",
+          "場所",
+          "所",
+          "場"
+        ]
+      },
+      "word": "本場所"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e12082",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giai đoạn chính; nơi công công"
+        }
+      ],
+      "mobileId": 7167,
+      "phonetic": "ほんぶたい",
+      "related_words": {
+        "word": [
+          "本",
+          "台",
+          "舞",
+          "舞台"
+        ]
+      },
+      "word": "本舞台"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

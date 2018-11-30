@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9de341",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rót nước mà đã được sử dụng để rửa gạo"
+        }
+      ],
+      "mobileId": 116083,
+      "phonetic": "みがくじる",
+      "related_words": {
+        "word": [
+          "汁"
+        ]
+      },
+      "word": "磨汁"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef930ff0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "polished surface, facet"
+        }
+      ],
+      "mobileId": 274332,
+      "phonetic": "まめん",
+      "word": "磨面"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f9ca00",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc đánh bóng một có thanh gươm hoặc những tài năng hoặc kiến thức"
+        }
+      ],
+      "mobileId": 7959,
+      "phonetic": "",
+      "word": "磨淬"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ac201a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đá mài ."
+        }
+      ],
+      "mobileId": 173492,
+      "phonetic": "とぎいし",
+      "related_words": {
+        "word": [
+          "石"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "磨石",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "砥石"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "磨石"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fe988a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự giảm ma sát; sự chống ma sát; giảm ma sát; chống ma sát ."
+        }
+      ],
+      "mobileId": 188799,
+      "phonetic": "げんま",
+      "word": "減磨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af2fdaa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Capricorn (10th zodiacal sign), the Goat"
+        }
+      ],
+      "mobileId": 231210,
+      "phonetic": "まかつきゅう",
+      "word": "磨羯宮"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f93ba2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giấy bột mài"
+        }
+      ],
+      "mobileId": 7940,
+      "phonetic": "みがくけんし",
+      "related_words": {
+        "word": [
+          "紙"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "磨研紙",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "磨き紙",
+                "サンドペーパー",
+                "ペーパー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "磨研紙"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fbcc28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm cho gốm sa thạch không cất cánh"
+        }
+      ],
+      "mobileId": 8021,
+      "phonetic": "みがくせいせっき",
+      "word": "磨製石器"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

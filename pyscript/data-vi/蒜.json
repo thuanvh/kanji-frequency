@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027997f19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tỏi ."
+        }
+      ],
+      "mobileId": 31780,
+      "phonetic": "にんにく",
+      "related_words": {
+        "word": [
+          "大蒜"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "蒜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ガーリック"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蒜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

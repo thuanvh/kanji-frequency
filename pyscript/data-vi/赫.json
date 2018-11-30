@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4975d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv-to, adj-t",
+          "mean": "violent and angry"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "shining, glittering, sparkling"
+        }
+      ],
+      "mobileId": 225766,
+      "phonetic": "かくぜん",
+      "word": "赫然"
+    },
+    {
+      "_id": "432518852de0a80625d585a98219c158",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "bright, beaming, brilliant, glowing"
+        }
+      ],
+      "mobileId": 232453,
+      "phonetic": "かくえき かくやく",
+      "word": "赫奕"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

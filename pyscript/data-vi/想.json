@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f745d0c2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quan niệm; ý niệm; ý tưởng; suy nghĩ ."
+        }
+      ],
+      "mobileId": 98824,
+      "phonetic": "そう",
+      "related_words": {
+        "word": [
+          "想い",
+          "感想",
+          "空想",
+          "予想",
+          "妄想",
+          "幻想",
+          "想定",
+          "想像",
+          "理想",
+          "仮想"
+        ]
+      },
+      "word": "想"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9aaaa99",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "delusion, misconception, illusion"
+        }
+      ],
+      "mobileId": 278154,
+      "phonetic": "めいそう",
+      "word": "迷想"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd40adff",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự trầm ngâm; sự ngắm"
+        }
+      ],
+      "mobileId": 70854,
+      "phonetic": "めいそう",
+      "related_words": {
+        "word": [
+          "想",
+          "冥"
+        ]
+      },
+      "word": "冥想"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef911e024",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "coming up with an idea, idea"
+        }
+      ],
+      "mobileId": 273339,
+      "phonetic": "らくそう",
+      "word": "落想"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776de38e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "surmisal, hypothesis, speculation, conjecture, supposition"
+        }
+      ],
+      "mobileId": 268006,
+      "phonetic": "そうさつ",
+      "word": "想察"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e8e1f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự đánh lừa, sự lừa dối, sự lừa bịp, sự lừa gạt; sự bị lừa; sự bị lừa gạt, ảo tưởng, ảo giác"
+        }
+      ],
+      "mobileId": 7420,
+      "phonetic": "めくらそう",
+      "related_words": {
+        "word": [
+          "想",
+          "盲"
+        ]
+      },
+      "word": "盲想"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ce7d5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "tới sự quay (một vấn đề) qua vào một có tâm trí; tới sự suy nghĩ sâu xa"
+        }
+      ],
+      "mobileId": 62692,
+      "phonetic": "そうをねる",
+      "word": "想を練る"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193dd6069",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "deja vu"
+        }
+      ],
+      "mobileId": 24925,
+      "phonetic": "すんでしそう",
+      "related_words": {
+        "word": [
+          "想"
+        ]
+      },
+      "word": "既視想"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e35358",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khúc tuỳ hứng"
+        }
+      ],
+      "mobileId": 25116,
+      "phonetic": "あやぎぬそうきょく",
+      "word": "綺想曲"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77364564",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "to be completely disgusted with, to be absolutely fed up with, to run out of patience with"
+        }
+      ],
+      "mobileId": 266218,
+      "phonetic": "あいそもこそもつきはてる",
+      "word": "愛想も小想も尽き果てる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

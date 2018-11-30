@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a911049",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nứt nẻ ."
+        }
+      ],
+      "mobileId": 172699,
+      "phonetic": "ひび",
+      "word": "皹"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a9109ec",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あかぎれになる",
+              "mean": "Bị nẻ .",
+              "transcription": "あかぎれになる"
+            }
+          ],
+          "kind": "n",
+          "mean": "Vết nứt nẻ; vết mẩn trên da; nứt nẻ chân tay"
+        }
+      ],
+      "mobileId": 172698,
+      "phonetic": "あかぎれ",
+      "word": "皹"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6858608f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để bị nứt nẻ (e.g. da)"
+        }
+      ],
+      "mobileId": 2824,
+      "phonetic": "ひびがきれる",
+      "word": "皹が切れる"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68588bc8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nứt nẻ (những bàn tay)"
+        }
+      ],
+      "mobileId": 2828,
+      "phonetic": "ひびのきれた",
+      "word": "皹の切れた"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

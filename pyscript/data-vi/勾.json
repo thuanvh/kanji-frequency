@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8a6318c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bị cong"
+        }
+      ],
+      "mobileId": 38810,
+      "phonetic": "",
+      "word": "勾"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af104e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "three sides of right triangle (minor cathetus, major cathetus & hypotenuse)"
+        }
+      ],
+      "mobileId": 231148,
+      "phonetic": "こうこげん",
+      "word": "勾股弦"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af0fb2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pythagorean theorem"
+        }
+      ],
+      "mobileId": 231146,
+      "phonetic": "こうこげんのていり",
+      "word": "勾股弦の定理"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

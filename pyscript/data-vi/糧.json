@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0954df2",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "thực phẩm, quy định"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "nuôi dưỡng, nguồn động viên"
+        }
+      ],
+      "mobileId": 211634,
+      "phonetic": "かて, りょう, かりて",
+      "word": "糧"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685883df",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một có hàng ngày bánh mì"
+        }
+      ],
+      "mobileId": 2827,
+      "phonetic": "ひにちのかて",
+      "related_words": {
+        "word": [
+          "日",
+          "の",
+          "日日"
+        ]
+      },
+      "word": "日日の糧"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f742e44bc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）にとって心の糧である",
+              "mean": "Là món ăn tinh thần đối với con người.",
+              "transcription": "（ひと）にとってこころのかてである"
+            },
+            {
+              "content": "社会にとってのしっかりとした心の糧",
+              "mean": "Là món ăn tinh thần bổ ích đối với với xã hội. .",
+              "transcription": "しゃかいにとってのしっかりとしたこころのかて"
+            }
+          ],
+          "kind": "n",
+          "mean": "món ăn tinh thần"
+        }
+      ],
+      "mobileId": 98160,
+      "phonetic": "こころのかて",
+      "related_words": {
+        "word": [
+          "の",
+          "心",
+          "心の"
+        ]
+      },
+      "word": "心の糧"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f02a274",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "日々の糧を稼ぐ",
+              "mean": "kiếm cơm hàng ngày .",
+              "transcription": "ひびのかてをかせぐ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cơm ăn hàng ngày; nhu cầu ngay lập tức"
+        }
+      ],
+      "mobileId": 184916,
+      "phonetic": "ひびのかて",
+      "related_words": {
+        "word": [
+          "日",
+          "の",
+          "日々"
+        ]
+      },
+      "word": "日々の糧"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

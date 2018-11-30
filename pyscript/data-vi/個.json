@@ -1,0 +1,239 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc1c1c6",
+      "means": [
+        {
+          "examples": [],
+          "kind": "ctr",
+          "mean": "cái; chiếc"
+        },
+        {
+          "examples": [
+            {
+              "content": "個人からのデータを収集する",
+              "mean": "Thu thập dữ liệu từ cá nhân",
+              "transcription": "こじんからのデータをしゅうしゅうする"
+            },
+            {
+              "content": "個人あるいは仕事関連のタスクを実行する",
+              "mean": "thực hiện nhiệm vụ liên quan đến cá nhân hoặc công việc",
+              "transcription": "こじんあるいはしごとかんれんのタスクをじっこうする"
+            },
+            {
+              "content": "定収入のある個人",
+              "mean": "Cá nhân có thu nhập thường xuyên",
+              "transcription": "ていしゅうにゅうのあるこじん"
+            },
+            {
+              "content": "個人（種目）で金メダルを獲得する",
+              "mean": "Giành được huy chương vàng ở môn thi cá nhân",
+              "transcription": "こじん（しゅもく）できんめだるをかくとくする"
+            },
+            {
+              "content": "個人（安全）保障",
+              "mean": "Bảo đảm an toàn cho cá nhân",
+              "transcription": "こじん（あんぜん）ほしょう"
+            },
+            {
+              "content": "個人（の）貯蓄",
+              "mean": "Tiết kiệm của cá nhân",
+              "transcription": "こじん（の）ちょちく"
+            },
+            {
+              "content": "個々の出来事に対する個人の反応",
+              "mean": "Phản ứng của cá nhân đối với từng sự kiện mộtCÁ",
+              "transcription": "ここのできごとにたいするこじんのはんのう"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "cá nhân"
+        }
+      ],
+      "mobileId": 144788,
+      "opposite_word": [
+        "全"
+      ],
+      "phonetic": "こ",
+      "related_words": {
+        "word": [
+          "個人",
+          "個別",
+          "個数",
+          "個人情報",
+          "個々",
+          "個性",
+          "個性的",
+          "個人的",
+          "一個",
+          "個別の"
+        ]
+      },
+      "word": "個"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0848539",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adj-no",
+          "mean": "one-by-one, individual"
+        }
+      ],
+      "mobileId": 285172,
+      "phonetic": "いっこいっこ",
+      "word": "一個一個"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0455330",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "individual company, each company"
+        }
+      ],
+      "mobileId": 283193,
+      "phonetic": "こしゃ",
+      "word": "個社"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8174e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "có thể đếm được"
+        }
+      ],
+      "mobileId": 72895,
+      "phonetic": "ゆうげんこ",
+      "related_words": {
+        "word": [
+          "個",
+          "有",
+          "有限"
+        ]
+      },
+      "word": "有限個"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f6dcea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "individual sheet, individual piece"
+        }
+      ],
+      "mobileId": 272465,
+      "phonetic": "こへん",
+      "word": "個片"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a8bb15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "ctr",
+          "mean": "indicates position in a sequence"
+        }
+      ],
+      "mobileId": 278095,
+      "phonetic": "こめ",
+      "word": "個目"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d0984ac",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            },
+            {
+              "content": "りんごを 一個食べます",
+              "mean": "ăn một quả táo",
+              "transcription": "りんごをいちこたべます"
+            },
+            {
+              "content": "一個の石",
+              "mean": "một viên đá",
+              "transcription": "いちこのいし"
+            },
+            {
+              "content": "（人）に氷を一個しゃぶらせる",
+              "mean": "đưa cho ai một cục đá để mút",
+              "transcription": "（ひと）にこおりをいちこしゃぶらせる"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "một cái; một cục; một viên"
+        }
+      ],
+      "mobileId": 141558,
+      "phonetic": "いっこ",
+      "related_words": {
+        "word": [
+          "個",
+          "一"
+        ]
+      },
+      "word": "一個"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a906fd55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "zooid"
+        }
+      ],
+      "mobileId": 256543,
+      "phonetic": "こちゅう",
+      "word": "個虫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776a648c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf, ctr",
+          "mean": "pieces, items"
+        }
+      ],
+      "mobileId": 267898,
+      "phonetic": "こあたり",
+      "word": "個当り"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900edc8231",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bao nhiêu cái"
+        }
+      ],
+      "mobileId": 118050,
+      "phonetic": "なんこ",
+      "related_words": {
+        "word": [
+          "個",
+          "何"
+        ]
+      },
+      "word": "何個"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

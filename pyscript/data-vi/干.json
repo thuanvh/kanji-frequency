@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d2c2a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khô đi"
+        }
+      ],
+      "mobileId": 6729,
+      "opposite_word": [
+        "満"
+      ],
+      "phonetic": "ひ",
+      "word": "干"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107d42d1e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá khô ."
+        }
+      ],
+      "mobileId": 55438,
+      "phonetic": "ひうお",
+      "word": "干魚"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d2dc9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơm khô"
+        }
+      ],
+      "mobileId": 6732,
+      "phonetic": "ひめし",
+      "word": "干飯"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d3482e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ruốc, chuyện súc tích"
+        }
+      ],
+      "mobileId": 6748,
+      "phonetic": "ひにく",
+      "word": "干肉"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d2e425",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm khô tôm"
+        }
+      ],
+      "mobileId": 6734,
+      "phonetic": "ひえび",
+      "word": "干海老"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5d718a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phơi (quần áo); chỗ phơi"
+        }
+      ],
+      "mobileId": 71749,
+      "phonetic": "ものひ",
+      "related_words": {
+        "word": [
+          "物"
+        ]
+      },
+      "word": "物干"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a125b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "drying clothes at night"
+        }
+      ],
+      "mobileId": 269674,
+      "phonetic": "よぼし",
+      "word": "夜干"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107d42343",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "干魚をたき火であぶる",
+              "mean": "Nướng cá khô bằng củi .",
+              "transcription": "ひぎょをたきびであぶる"
+            }
+          ],
+          "kind": "n",
+          "mean": "cá khô"
+        }
+      ],
+      "mobileId": 55437,
+      "phonetic": "かんぎょ",
+      "word": "干魚"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd1b4f67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rút xuống và chảy"
+        }
+      ],
+      "mobileId": 69669,
+      "phonetic": "みちひ",
+      "word": "満ち干"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d38268",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "raisin(s)"
+        }
+      ],
+      "mobileId": 6754,
+      "phonetic": "ひぶどう",
+      "related_words": {
+        "word": [
+          "葡萄"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "干葡萄",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "レーズン",
+                "乾葡萄",
+                "干し葡萄"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "干葡萄"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

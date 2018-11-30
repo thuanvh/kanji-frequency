@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada17cf0f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "tập"
+        }
+      ],
+      "mobileId": 77270,
+      "phonetic": "さつ",
+      "related_words": {
+        "word": [
+          "冊子",
+          "別冊",
+          "小冊子",
+          "冊数",
+          "合冊"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "冊",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "巻",
+                "書籍",
+                "書物",
+                "編",
+                "本",
+                "ボリューム"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "冊"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca029fdc5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bestowing peerage by imperial edict (in ancient China), document bestowing peerage"
+        }
+      ],
+      "mobileId": 282285,
+      "phonetic": "さくほう さっぽう",
+      "word": "冊封"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8563b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một quyển (sách ...)"
+        }
+      ],
+      "mobileId": 14024,
+      "phonetic": "いちさつ",
+      "related_words": {
+        "word": [
+          "一",
+          "冊"
+        ]
+      },
+      "word": "一冊"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954f7487",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vài quyển (sách)"
+        }
+      ],
+      "mobileId": 58626,
+      "phonetic": "すうさつ",
+      "related_words": {
+        "word": [
+          "数",
+          "冊"
+        ]
+      },
+      "word": "数冊"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99b5447",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "notebook, memo pad"
+        }
+      ],
+      "mobileId": 277691,
+      "phonetic": "しゅさつ",
+      "word": "手冊"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c2c731",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "accredited Chinese envoys to neighbouring kingdoms"
+        }
+      ],
+      "mobileId": 278971,
+      "phonetic": "さっぽうし",
+      "word": "冊封使"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d0a011d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một quyển sách ."
+        }
+      ],
+      "mobileId": 141564,
+      "phonetic": "いっさつ（のほん）",
+      "word": "一冊(の本)"
+    },
+    {
+      "_id": "b2e169caae52ec7c9b5cabff7bdb45bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một quyển sách ."
+        }
+      ],
+      "mobileId": 140875,
+      "phonetic": "一冊（の本）",
+      "word": "いっさつ(のほん)"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

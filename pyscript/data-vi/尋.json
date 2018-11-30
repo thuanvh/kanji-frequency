@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08b7f07",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "hiểu được"
+        }
+      ],
+      "mobileId": 211323,
+      "phonetic": "ひろ じん",
+      "word": "尋"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0341579",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "hearing, interrogation"
+        }
+      ],
+      "mobileId": 282620,
+      "phonetic": "しんじん",
+      "word": "審尋"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68370d7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "10000 tìm hiểu; chiều sâu lớn; chiều cao lớn"
+        }
+      ],
+      "mobileId": 1793,
+      "phonetic": "まんひろ",
+      "related_words": {
+        "word": [
+          "万"
+        ]
+      },
+      "word": "万尋"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e97a34b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khảo sát phút (hiếm có); sự điều tra kỹ lưỡng"
+        }
+      ],
+      "mobileId": 115874,
+      "phonetic": "",
+      "word": "討尋"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c027feb0",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v2n-s, vt",
+          "mean": "hỏi, hỏi thăm"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "tìm kiếm, xem xét, điều tra"
+        }
+      ],
+      "mobileId": 190449,
+      "phonetic": "たずぬ たんぬ",
+      "word": "尋ぬ"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca096780b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bottomless ravine, abyss"
+        }
+      ],
+      "mobileId": 285752,
+      "phonetic": "ばんじんのたに",
+      "word": "万尋の谷"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

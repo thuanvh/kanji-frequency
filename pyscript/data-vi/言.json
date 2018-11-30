@@ -1,0 +1,221 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e89b66ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từ; nhận xét; sự phát biểu"
+        }
+      ],
+      "mobileId": 38469,
+      "phonetic": "げん",
+      "word": "言"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68aef830",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vô lý nói"
+        }
+      ],
+      "mobileId": 5569,
+      "phonetic": "へきげん",
+      "related_words": {
+        "word": [
+          "僻"
+        ]
+      },
+      "word": "僻言"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280273b1a72",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Từ ngữ để nhục mạ ."
+        }
+      ],
+      "mobileId": 30069,
+      "phonetic": "ばげん",
+      "word": "罵言"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85b278b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chán ngắt nói; sự lặp lại; sự than phiền"
+        }
+      ],
+      "mobileId": 36430,
+      "phonetic": "くげん",
+      "synsets": [
+        {
+          "base_form": "繰言",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "繰り言",
+                "反覆",
+                "二言",
+                "重複",
+                "反復"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "繰言"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8334b82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lời giả dối, lời nói dối"
+        }
+      ],
+      "mobileId": 35136,
+      "phonetic": "にせげん",
+      "related_words": {
+        "word": [
+          "偽"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "偽言",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "贋造",
+                "捏造",
+                "作り言",
+                "偽り",
+                "虚言",
+                "作り話",
+                "作り事",
+                "嘘",
+                "虚偽"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "空言",
+                "妄言",
+                "偽",
+                "偽り",
+                "虚言",
+                "不実",
+                "嘘",
+                "うそ",
+                "虚偽",
+                "虚"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "偽言"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ed02fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để gửi từ; để gửi một thông báo"
+        }
+      ],
+      "mobileId": 41103,
+      "phonetic": "げんづける",
+      "word": "言づける"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95988f21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giữ từ"
+        }
+      ],
+      "mobileId": 60962,
+      "phonetic": "",
+      "word": "践言"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbe7039",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếng địa phương, phương ngôn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếng lóng, mắng, chửi, rủa, nói lóng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tục ngữ, cách ngôn, điều ai cũng biết; người ai cũng biết, trò chơi tục ngữ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tục ngữ, châm ngôn"
+        }
+      ],
+      "mobileId": 74891,
+      "phonetic": "さとげん",
+      "word": "里言"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de3d534",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "câu thần chú cầu thần (ấn Độ giáo, Phật giáo)"
+        }
+      ],
+      "mobileId": 153019,
+      "phonetic": "まことげん",
+      "word": "眞言"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193582dbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính trầm lặng, tính ít nói; tính dè dặt kín đáo trong lời nói"
+        }
+      ],
+      "mobileId": 20730,
+      "phonetic": "かりげん",
+      "related_words": {
+        "word": [
+          "仮"
+        ]
+      },
+      "word": "仮言"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

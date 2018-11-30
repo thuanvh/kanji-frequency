@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568011b7c44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "loại; chủng loại ."
+        }
+      ],
+      "mobileId": 42207,
+      "phonetic": "るい",
+      "related_words": {
+        "word": [
+          "種類",
+          "分類",
+          "書類",
+          "人類",
+          "分類する",
+          "衣類",
+          "類似",
+          "哺乳類",
+          "爬虫類",
+          "甲殻類"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "類",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "種類",
+                "型",
+                "タイプ",
+                "類型"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "種類",
+                "ジャンル",
+                "部類"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "比",
+                "タイプ",
+                "部類"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "様式",
+                "種類",
+                "型",
+                "形態",
+                "種",
+                "ジャンル",
+                "タイプ",
+                "部類",
+                "類型"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "類"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0205d7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vi",
+          "mean": "to be equal to, to be as good as, to be a match for, to rival"
+        }
+      ],
+      "mobileId": 190196,
+      "phonetic": "たぐいする",
+      "word": "類いする"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d92ada",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "địa y, bệnh liken"
+        }
+      ],
+      "mobileId": 40467,
+      "phonetic": "こけるい",
+      "related_words": {
+        "word": [
+          "類",
+          "苔"
+        ]
+      },
+      "word": "苔類"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f7c802",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "rau dạng củ, như khoai, cà rốt, hành tây"
+        }
+      ],
+      "mobileId": 41440,
+      "opposite_word": [
+        "葉菜類"
+      ],
+      "phonetic": "こんさいるい",
+      "word": "根菜類"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10796c4ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "loại giường ngủ ."
+        }
+      ],
+      "mobileId": 54391,
+      "phonetic": "しんぐるい",
+      "related_words": {
+        "word": [
+          "類",
+          "具",
+          "寝具"
+        ]
+      },
+      "word": "寝具類"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953df8ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phân giống"
+        }
+      ],
+      "mobileId": 58057,
+      "phonetic": "つぎるい",
+      "word": "次類"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9500feab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những từ điển (và những (quyển) sách tương tự)"
+        }
+      ],
+      "mobileId": 56145,
+      "phonetic": "じしょるい",
+      "word": "辞書類"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95bf014e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những chim chạy mau; những đấu thủ chạy đua"
+        }
+      ],
+      "mobileId": 62181,
+      "phonetic": "そうきんるい",
+      "word": "走禽類"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada55a037",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "loài vật ."
+        }
+      ],
+      "mobileId": 78414,
+      "phonetic": "どうぶつるい",
+      "word": "動物類"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d669fca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lớp tự nhiên"
+        }
+      ],
+      "mobileId": 148996,
+      "phonetic": "しぜんるい",
+      "word": "自然類"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

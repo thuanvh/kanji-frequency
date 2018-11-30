@@ -1,0 +1,231 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f7445d0e6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "禁じられた恋",
+              "mean": "Tình yêu bị cấm đoán",
+              "transcription": "きんじられたこい"
+            },
+            {
+              "content": "AとBの間に芽生えはじめている恋",
+              "mean": "Tình yêu bắt đầu nảy sinh giữa A và B",
+              "transcription": "AとBのまにめばえはじめているこい"
+            },
+            {
+              "content": "忍ぶ恋",
+              "mean": "Tình yêu vụng trộm",
+              "transcription": "しのぶこい"
+            },
+            {
+              "content": "甘い恋",
+              "mean": "Tình yêu ngọt ngào.",
+              "transcription": "あまいこい"
+            }
+          ],
+          "kind": "n",
+          "mean": "tình yêu"
+        }
+      ],
+      "mobileId": 98489,
+      "phonetic": "こい",
+      "related_words": {
+        "word": [
+          "恋人",
+          "恋愛",
+          "失恋",
+          "初恋",
+          "恋しい",
+          "恋をする",
+          "恋心",
+          "恋文",
+          "恋しがる",
+          "悲恋"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "恋",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "愛情",
+                "恋愛",
+                "愛"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "恋"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a5d7aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "yêu"
+        }
+      ],
+      "mobileId": 38800,
+      "phonetic": "こいしたう",
+      "word": "恋慕う"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f744789d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cái chết vì tình yêu ."
+        }
+      ],
+      "mobileId": 98513,
+      "phonetic": "こいじに",
+      "related_words": {
+        "word": [
+          "死",
+          "恋"
+        ]
+      },
+      "word": "恋死"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0abf84f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "disappointed love, broken heart, unrequited love, being lovelorn"
+        }
+      ],
+      "mobileId": 286457,
+      "phonetic": "はれん",
+      "word": "破恋"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a6dc75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "câu chuyện tình"
+        }
+      ],
+      "mobileId": 38828,
+      "phonetic": "こいものがたり",
+      "related_words": {
+        "word": [
+          "恋",
+          "物",
+          "語",
+          "物語"
+        ]
+      },
+      "word": "恋物語"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74479bbc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hao gầy vì yêu; héo mòn vì yêu; gầy mòn vì yêu ."
+        }
+      ],
+      "mobileId": 98515,
+      "phonetic": "こいづかれ",
+      "related_words": {
+        "word": [
+          "恋",
+          "疲れ"
+        ]
+      },
+      "word": "恋疲れ"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dba56dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "purely sexual love, highly sexual love"
+        }
+      ],
+      "mobileId": 221135,
+      "phonetic": "エロこい エロコイ",
+      "word": "エロ恋"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a6bb6d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước mắt  tình yêu"
+        }
+      ],
+      "mobileId": 38825,
+      "phonetic": "こいすい",
+      "related_words": {
+        "word": [
+          "水",
+          "恋"
+        ]
+      },
+      "word": "恋水"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74469938",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "恋占いをする",
+              "mean": "Bói tình yêu .",
+              "transcription": "こいうらないをする"
+            }
+          ],
+          "kind": "n",
+          "mean": "Bói tình yêu"
+        }
+      ],
+      "mobileId": 98499,
+      "phonetic": "こいうらない",
+      "related_words": {
+        "word": [
+          "恋",
+          "占い"
+        ]
+      },
+      "word": "恋占い"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7446b4f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Vợ yêu ."
+        }
+      ],
+      "mobileId": 98501,
+      "phonetic": "こいづま",
+      "related_words": {
+        "word": [
+          "恋",
+          "妻"
+        ]
+      },
+      "word": "恋妻"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

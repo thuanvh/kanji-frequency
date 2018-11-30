@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeaa4d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "thuyết trình"
+        }
+      ],
+      "mobileId": 17202,
+      "phonetic": "",
+      "word": "演述"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde8175e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kịch; vở kịch; sự diễn kịch; sự biểu diễn (kịch, thể dục ...)"
+        }
+      ],
+      "mobileId": 17115,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "演戯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "劇",
+                "芝居",
+                "演劇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "プレー",
+                "演奏",
+                "芝居",
+                "演芸",
+                "演技"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "プレー",
+                "芝居",
+                "演技"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "演戯"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e23bffd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "người thay thế cho người khác"
+        }
+      ],
+      "mobileId": 112175,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "代"
+        ]
+      },
+      "word": "代演"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca062d497",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "superb performance, good performance"
+        }
+      ],
+      "mobileId": 284130,
+      "phonetic": "かいえん",
+      "word": "快演"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d880342",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "performance of a noh play, performing a noh play"
+        }
+      ],
+      "mobileId": 219471,
+      "phonetic": "えんのう",
+      "word": "演能"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c017cbcc",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v5r, vt",
+          "mean": "biểu diễn, chơi, hành động"
+        }
+      ],
+      "mobileId": 189911,
+      "phonetic": "やる",
+      "word": "演る"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde7f5b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiết mục biểu diễn"
+        }
+      ],
+      "mobileId": 17109,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "曲"
+        ]
+      },
+      "word": "演曲"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca062cede",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eerie yet strangely fascinating performance"
+        }
+      ],
+      "mobileId": 284128,
+      "phonetic": "かいえん",
+      "word": "怪演"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a9e6c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dumbfounding performance, queer act, performance so bad it's spellbinding"
+        }
+      ],
+      "mobileId": 278130,
+      "phonetic": "めいえん",
+      "word": "迷演"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9786374",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "colour rendering index (color)"
+        }
+      ],
+      "mobileId": 260147,
+      "phonetic": "えんしょくひょうかすう",
+      "word": "演色評価数"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

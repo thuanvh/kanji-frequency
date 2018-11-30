@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a8c4f1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "num",
+          "mean": "một trăm"
+        },
+        {
+          "examples": null,
+          "kind": "num",
+          "mean": "trăm ."
+        }
+      ],
+      "mobileId": 172603,
+      "phonetic": "ひゃく",
+      "related_words": {
+        "word": [
+          "百合",
+          "百科事典",
+          "百貨店",
+          "八百屋",
+          "百鬼夜行",
+          "百円",
+          "数百",
+          "百発百中",
+          "百人一首",
+          "百姓"
+        ]
+      },
+      "word": "百"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685be9d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không thể sai lầm được, không thể sai được; không thể hỏng (phương pháp, thí nghiệm...)"
+        }
+      ],
+      "mobileId": 2933,
+      "phonetic": "ひゃっぱつひゃくちゅう",
+      "related_words": {
+        "word": [
+          "中",
+          "百",
+          "発"
+        ]
+      },
+      "word": "百発百中"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a8ce097",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bách chiến bách thắng ."
+        }
+      ],
+      "mobileId": 172620,
+      "phonetic": "ひゃくせんひゃくしょう",
+      "related_words": {
+        "word": [
+          "百",
+          "戦"
+        ]
+      },
+      "word": "百戦百勝"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0bdae64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "so many men, so many ways, to each one's own, it takes all sorts to make a world"
+        }
+      ],
+      "mobileId": 212945,
+      "phonetic": "ひゃくにんひゃくよう",
+      "word": "百人百様"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685a6cf6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gã - (của) - tất cả - buôn bán"
+        }
+      ],
+      "mobileId": 2890,
+      "phonetic": "ひゃくげい",
+      "related_words": {
+        "word": [
+          "百"
+        ]
+      },
+      "word": "百芸"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cda4ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eight hundred"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "multitude, large number"
+        }
+      ],
+      "mobileId": 213477,
+      "phonetic": "はっぴゃく やお",
+      "word": "八百"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d5ca912",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hai trăm ."
+        }
+      ],
+      "mobileId": 143040,
+      "phonetic": "にひゃく",
+      "related_words": {
+        "word": [
+          "百",
+          "二"
+        ]
+      },
+      "word": "二百"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a8c8828",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Gấp trăm lần ."
+        }
+      ],
+      "mobileId": 172608,
+      "phonetic": "ひゃくばい",
+      "related_words": {
+        "word": [
+          "百",
+          "倍"
+        ]
+      },
+      "word": "百倍"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a8c91f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mười tỷ ."
+        }
+      ],
+      "mobileId": 172609,
+      "phonetic": "ひゃくおく",
+      "related_words": {
+        "word": [
+          "百"
+        ]
+      },
+      "word": "百億"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d40a0eb0",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Đồng giá 100 yên, cửa hàng 100 yên"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ひゃっきん",
+      "word": "百均"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

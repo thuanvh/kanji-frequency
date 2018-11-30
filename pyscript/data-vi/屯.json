@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107b3d7ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một tấn ."
+        }
+      ],
+      "mobileId": 54913,
+      "phonetic": "とん",
+      "related_words": {
+        "word": [
+          "駐屯地"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "屯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "営所",
+                "キャンプ",
+                "幕営",
+                "露営",
+                "軍営",
+                "軍陣",
+                "陣営"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "屯"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddc0672",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ton (dài (lâu), anh)"
+        }
+      ],
+      "mobileId": 16724,
+      "phonetic": "えいたむろ",
+      "word": "英屯"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0299747",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5u, vi",
+          "mean": "to gather in large numbers (of people), to hang out (as a large group)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to assemble (as a military unit or posse), to be quartered (in a particular location)"
+        }
+      ],
+      "mobileId": 190503,
+      "phonetic": "たむろう",
+      "word": "屯う"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0109190",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vi",
+          "mean": "to gather in large numbers (of people), to hang out (as a large group)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to assemble (as a military unit or posse), to be quartered (in a particular location)"
+        }
+      ],
+      "mobileId": 189667,
+      "phonetic": "たむろする とんする",
+      "word": "屯する"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771d2092",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "vice-, sub-"
+        }
+      ],
+      "mobileId": 265406,
+      "phonetic": "ぶんとん",
+      "word": "分屯"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0d8b60",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trọng tải deadweight"
+        }
+      ],
+      "mobileId": 146179,
+      "phonetic": "さいかたむろすう",
+      "related_words": {
+        "word": [
+          "数",
+          "屯"
+        ]
+      },
+      "word": "載貨屯数"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771d10eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vice-camp, sub-camp"
+        }
+      ],
+      "mobileId": 265405,
+      "phonetic": "ぶんとんち",
+      "word": "分屯地"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771d0cc1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sub base, sub-base, minor base"
+        }
+      ],
+      "mobileId": 265404,
+      "phonetic": "ぶんとんきち",
+      "word": "分屯基地"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

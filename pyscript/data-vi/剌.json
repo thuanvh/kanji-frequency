@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d9e5e04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brazil"
+        }
+      ],
+      "mobileId": 144126,
+      "phonetic": "ぶらじる",
+      "word": "伯剌西爾"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4f661d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "arabia"
+        }
+      ],
+      "mobileId": 12323,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "比"
+        ]
+      },
+      "word": "亜剌比亜"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c04ee69a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Australia"
+        }
+      ],
+      "mobileId": 201152,
+      "phonetic": "オーストラリア",
+      "word": "濠太剌利"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a11f7d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Galerina fasciculata (poisonous mushroom)"
+        }
+      ],
+      "mobileId": 223978,
+      "phonetic": "これらたけ コレラタケ",
+      "word": "虎列剌茸"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a14c125",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cholera"
+        }
+      ],
+      "mobileId": 224062,
+      "phonetic": "これら コレラ",
+      "word": "虎列剌"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

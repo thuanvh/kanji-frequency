@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0badc70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "violence, force"
+        }
+      ],
+      "mobileId": 286955,
+      "phonetic": "ぼう",
+      "related_words": {
+        "word": [
+          "暴力",
+          "暴走",
+          "暴れる",
+          "暴行",
+          "暴動",
+          "乱暴",
+          "暴露",
+          "暴君",
+          "暴力団",
+          "暴風"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "暴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "暴力",
+                "暴挙",
+                "暴行"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "荒々しさ",
+                "粗野",
+                "粗",
+                "荒れ",
+                "蛮骨",
+                "伝法"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "暴"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9014be9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yakuza group"
+        }
+      ],
+      "mobileId": 272800,
+      "phonetic": "マルぼう まるぼう マルボウ",
+      "word": "マル暴"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca015a49c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blowout (oil well, gas field, etc.)"
+        }
+      ],
+      "mobileId": 281646,
+      "phonetic": "ぼうふん",
+      "word": "暴噴"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b048c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "racketeering by interceding in civil disputes and threatening the use of violence"
+        }
+      ],
+      "mobileId": 278348,
+      "phonetic": "みんぼう ミンボー",
+      "word": "民暴"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d92136f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "bursts of exertion will fail to bear fruit if interrupted by long periods of idleness"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "strenuous efforts, unless sustained, are to no avail (Mencius)"
+        }
+      ],
+      "mobileId": 219786,
+      "phonetic": "いちばくじっかん",
+      "word": "一暴十寒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

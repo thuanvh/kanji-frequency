@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd6d353b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf, n",
+          "mean": "lâu đài, khu nhà lớn"
+        }
+      ],
+      "mobileId": 72236,
+      "phonetic": "やしき",
+      "related_words": {
+        "word": [
+          "邸宅",
+          "官邸",
+          "別邸",
+          "大使公邸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "邸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "実家",
+                "居",
+                "自宅",
+                "住み処",
+                "アビタシオン",
+                "館",
+                "居住",
+                "邸宅",
+                "家宅",
+                "住",
+                "家作",
+                "住居",
+                "家屋",
+                "住宅",
+                "室",
+                "住家",
+                "住い",
+                "家居",
+                "家",
+                "住まい",
+                "住みか"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "屋敷",
+                "邸宅",
+                "レジデンス",
+                "シャトー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "邸"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb448ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc đến thăm dinh thự của ai đó"
+        }
+      ],
+      "mobileId": 74560,
+      "phonetic": "きてい",
+      "related_words": {
+        "word": [
+          "来",
+          "邸"
+        ]
+      },
+      "word": "来邸"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa79553b6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）の邸内に侵入する",
+              "mean": "xâm phạm cơ ngơi/nhà cửa của ai đó .",
+              "transcription": "（ひと）のやしきないにしんにゅうする"
+            }
+          ],
+          "kind": "n",
+          "mean": "cơ ngơi"
+        }
+      ],
+      "mobileId": 109198,
+      "phonetic": "ていない",
+      "related_words": {
+        "word": [
+          "邸"
+        ]
+      },
+      "word": "邸内"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9e3b54",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lâu đài (của) hoàng tử tokugawa"
+        }
+      ],
+      "mobileId": 116095,
+      "phonetic": "とくがわこうしゃくてい",
+      "word": "徳川公爵邸"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,281 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada45a148",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "副本",
+              "mean": "bản phụ (sách)",
+              "transcription": "ふくほん"
+            },
+            {
+              "content": "正副二通",
+              "mean": "hai phần chính phụ",
+              "transcription": "せいふくにつう"
+            },
+            {
+              "content": "副作用",
+              "mean": "tác dụng phụ .",
+              "transcription": "ふくさよう"
+            }
+          ],
+          "kind": "n, pref",
+          "mean": "phụ; phó"
+        }
+      ],
+      "mobileId": 78130,
+      "opposite_word": [
+        "正"
+      ],
+      "phonetic": "ふく",
+      "related_words": {
+        "word": [
+          "副社長",
+          "副産物",
+          "副作用",
+          "副会長",
+          "副詞",
+          "副業",
+          "副菜",
+          "副腎",
+          "副大統領",
+          "副本"
+        ]
+      },
+      "word": "副"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca037360e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "secondary armament (of a warship), secondary battery, secondary gun"
+        }
+      ],
+      "mobileId": 282734,
+      "phonetic": "ふくほう",
+      "word": "副砲"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6874dbd9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phó thủ tướng"
+        }
+      ],
+      "mobileId": 3722,
+      "phonetic": "ふくそうり",
+      "word": "副総理"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0627b12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "accessory ingredient, secondary ingredient"
+        }
+      ],
+      "mobileId": 284118,
+      "phonetic": "ふくせいぶん",
+      "word": "副成分"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95bbac40",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới yêu cầu; tới sự gặp mặt; thỏa mãn; để kết hôn; hộ tống; để được thêm vào; để được điều chỉnh tới"
+        }
+      ],
+      "mobileId": 62075,
+      "phonetic": "ふくう",
+      "related_words": {
+        "word": [
+          "副"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "副う",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "付く",
+                "くっつく",
+                "伴う",
+                "添う"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "沿う",
+                "添える",
+                "付き随う",
+                "召し連れる",
+                "副える",
+                "従う",
+                "伴う",
+                "添う",
+                "付き添う",
+                "付き従う"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "副う"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada463d5c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "副牧師の職",
+              "mean": "Chức cha phó .",
+              "transcription": "ふくぼくしのしょく"
+            }
+          ],
+          "kind": "n",
+          "mean": "cha phó"
+        }
+      ],
+      "mobileId": 78143,
+      "phonetic": "ふくぼくし",
+      "related_words": {
+        "word": [
+          "副",
+          "師",
+          "牧師"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "副牧師",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "牧師",
+                "代理牧師"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "副牧師"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada466ffb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phó đoàn"
+        },
+        {
+          "examples": [
+            {
+              "content": "その会議では、彼が副社長の代わりを務めた。",
+              "mean": "Anh ấy đóng vai trò đại diện cho phó giám đốc trong cuộc họp đó.",
+              "transcription": "そのかいぎでは、かれがふくしゃちょうのかわりをつとめた。"
+            },
+            {
+              "content": "取締役副社長のポスト",
+              "mean": "Vị trí phó giám đốc điều hành. .",
+              "transcription": "とりしまりやくふくしゃちょうのポスト"
+            }
+          ],
+          "kind": "n",
+          "mean": "phó giám đốc"
+        }
+      ],
+      "mobileId": 78145,
+      "phonetic": "ふくしゃちょう",
+      "related_words": {
+        "word": [
+          "社長",
+          "副",
+          "長",
+          "社"
+        ]
+      },
+      "word": "副社長"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada468cc2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "副神経延髄根",
+              "mean": "Đầu dây thần kinh biên",
+              "transcription": "ふくしんけいえんずいね"
+            },
+            {
+              "content": "副神経リンパ節",
+              "mean": "U máu trắng ở thần kinh biên .",
+              "transcription": "ふくしんけいリンパぶし"
+            }
+          ],
+          "kind": "n",
+          "mean": "thần kinh biên"
+        }
+      ],
+      "mobileId": 78146,
+      "phonetic": "ふくしんけい",
+      "word": "副神経"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68737933",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vecniê tróc vảy"
+        }
+      ],
+      "mobileId": 3679,
+      "phonetic": "ふくしゃく",
+      "related_words": {
+        "word": [
+          "副",
+          "尺"
+        ]
+      },
+      "word": "副尺"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687532a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đọc bổ sung"
+        }
+      ],
+      "mobileId": 3735,
+      "phonetic": "ふくどくほん",
+      "related_words": {
+        "word": [
+          "本",
+          "副"
+        ]
+      },
+      "word": "副読本"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

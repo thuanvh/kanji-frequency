@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b38fae",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "自然銀",
+              "mean": "bạc tự nhiên",
+              "transcription": "しぜんぎん"
+            },
+            {
+              "content": "酸化銀",
+              "mean": "oxít bạc",
+              "transcription": "さんかぎん"
+            },
+            {
+              "content": "工業用銀",
+              "mean": "bạc dùng cho công nghiệp",
+              "transcription": "こうぎょうようぎん"
+            },
+            {
+              "content": "金属銀",
+              "mean": "kim loại bạc",
+              "transcription": "きんぞくぎん"
+            },
+            {
+              "content": "銀貨",
+              "mean": "tiền xu bằng bạc",
+              "transcription": "ぎんか"
+            },
+            {
+              "content": "彼は妻に銀の指輪をあげた",
+              "mean": "anh ta đã tặng vợ một chiếc nhẫn bạc .",
+              "transcription": "かれはつまにぎんのゆびわをあげた"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "bạc"
+        }
+      ],
+      "mobileId": 109745,
+      "phonetic": "ぎん",
+      "related_words": {
+        "word": [
+          "銀行",
+          "銀河",
+          "水銀",
+          "銀行員",
+          "銀色",
+          "銀杏",
+          "銀貨",
+          "銀行業",
+          "銀メッキ",
+          "銀婚式"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "銀",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "銀色",
+                "シルバー",
+                "シルバーグレー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "シルバー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "銀貨"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "銀"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8409529",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chuông bạc; chuông màu bạc"
+        }
+      ],
+      "mobileId": 35569,
+      "phonetic": "ぎんすず",
+      "word": "銀鈴"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b03f7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hiệp hội ngân hàng Nhật Bản"
+        }
+      ],
+      "mobileId": 61710,
+      "phonetic": "ぜんぎん",
+      "word": "全銀"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95fe580b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "takushoku đắp bờ"
+        }
+      ],
+      "mobileId": 64240,
+      "phonetic": "つぶせぎん",
+      "word": "拓銀"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dcf07dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "silver lace, silver braid"
+        }
+      ],
+      "mobileId": 221819,
+      "phonetic": "ぎんモール",
+      "word": "銀モール"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7c0b87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coho salmon (Oncorhynchus kisutsh), silver salmon"
+        }
+      ],
+      "mobileId": 252025,
+      "phonetic": "ぎんざけ ギンザケ",
+      "word": "銀鮭"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777de9f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hard solder, silver solder"
+        }
+      ],
+      "mobileId": 268538,
+      "phonetic": "ぎんろう",
+      "word": "銀鑞"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af3d95f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "large silvery fly"
+        }
+      ],
+      "mobileId": 231236,
+      "phonetic": "ぎんばえ",
+      "word": "銀蝿"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a1316c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "có quyền thế chấp đắp bờ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "emotional chanting or recitation"
+        }
+      ],
+      "mobileId": 23030,
+      "phonetic": "すすむぎん",
+      "word": "勧銀"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01ac605",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "native silver"
+        }
+      ],
+      "mobileId": 281812,
+      "phonetic": "しぜんぎん",
+      "word": "自然銀"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

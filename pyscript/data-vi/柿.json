@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f551a4d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "柿は熟れるにつれ, オレンジ色に変わった",
+              "mean": "quả hồng khi chín sẽ chuyển sang màu da cam",
+              "transcription": "かきはなれるにつれ,おれんじしょくにかわった"
+            },
+            {
+              "content": "柿の実",
+              "mean": "quả hồng ngâm",
+              "transcription": "かきのみ"
+            }
+          ],
+          "kind": "n",
+          "mean": "quả hồng ngâm; cây hồng ngâm; hồng ngâm; hồng (quả)"
+        }
+      ],
+      "mobileId": 186409,
+      "phonetic": "かき",
+      "word": "柿"
+    },
+    {
+      "_id": "432518852de0a80625d585a98201d639",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hachiya (variety of astringent Japanese persimmon)"
+        }
+      ],
+      "mobileId": 231698,
+      "phonetic": "はちやがき",
+      "word": "蜂屋柿"
+    },
+    {
+      "_id": "432518852de0a80625d585a98203fee5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fudegaki (variety of sweet Japanese persimmon)"
+        }
+      ],
+      "mobileId": 231765,
+      "phonetic": "ふでがき ふでかき",
+      "word": "筆柿"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd46afa4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quả hồng ngọt"
+        }
+      ],
+      "mobileId": 12045,
+      "phonetic": "あまかき",
+      "word": "甘柿"
+    },
+    {
+      "_id": "432518852de0a80625d585a98201e1f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fuyu (variety of sweet Japanese persimmon)"
+        }
+      ],
+      "mobileId": 231699,
+      "phonetic": "ふゆうがき",
+      "word": "富有柿"
+    },
+    {
+      "_id": "432518852de0a80625d585a98201efa5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jiro (variety of sweet Japanese persimmon)"
+        }
+      ],
+      "mobileId": 231700,
+      "phonetic": "じろうがき",
+      "word": "次郎柿"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adabe3837",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quả hồng khô ."
+        }
+      ],
+      "mobileId": 79944,
+      "phonetic": "つるしがき",
+      "word": "吊るし柿"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5f6a89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "persimmon (hung to dry), dried persimmon"
+        }
+      ],
+      "mobileId": 251107,
+      "phonetic": "つりがき",
+      "word": "釣り柿"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d92a2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mở (của) một theater mới"
+        }
+      ],
+      "mobileId": 40466,
+      "phonetic": "かきおとし",
+      "word": "柿落とし"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06e977c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fallen red persimmon leaves"
+        }
+      ],
+      "mobileId": 284504,
+      "phonetic": "かきおちば",
+      "word": "柿落葉"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8fa979b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(thì) tự hào"
+        }
+      ],
+      "mobileId": 41536,
+      "phonetic": "",
+      "word": "傲"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8fb5582",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính kiêu ngạo, tính kiêu căng; vẻ ngạo mạn"
+        }
+      ],
+      "mobileId": 41564,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "傲倨",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "尊大",
+                "倨傲",
+                "誇り",
+                "傍若無人",
+                "不遜"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "傲倨"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930523d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để (thì) tự hào"
+        }
+      ],
+      "mobileId": 18059,
+      "phonetic": "",
+      "word": "傲る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e75f504",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự đánh cá, sự câu cá, nghề cá"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự đi câu cá"
+        }
+      ],
+      "mobileId": 114786,
+      "phonetic": "つり",
+      "word": "釣"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193010a87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự câu cá ngoài khơi"
+        }
+      ],
+      "mobileId": 17916,
+      "phonetic": "おきひとし",
+      "related_words": {
+        "word": [
+          "沖"
+        ]
+      },
+      "word": "沖釣"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd729184",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự câu cá ở bờ biển (nhất là ở bãi đá có sóng vỗ)"
+        }
+      ],
+      "mobileId": 13436,
+      "phonetic": "いそひとし",
+      "word": "磯釣"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7aab6e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồ câu cá ."
+        }
+      ],
+      "mobileId": 109594,
+      "phonetic": "つりどうぐ",
+      "related_words": {
+        "word": [
+          "道",
+          "道具",
+          "具"
+        ]
+      },
+      "word": "釣道具"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc649e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "biển câu cá"
+        }
+      ],
+      "mobileId": 16066,
+      "phonetic": "うみつり",
+      "word": "海釣"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fb234e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buildings on the east and west side of the southern pond (in traditional palatial-style architecture)"
+        }
+      ],
+      "mobileId": 264305,
+      "phonetic": "つりどの",
+      "word": "釣殿"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00d0253",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "iron kettle suspended on a chain"
+        }
+      ],
+      "mobileId": 281381,
+      "phonetic": "つりがま",
+      "word": "釣釜"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7aa8f31",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hư hại do cẩu ."
+        }
+      ],
+      "mobileId": 109588,
+      "phonetic": "つりそん",
+      "word": "釣損"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef913226e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "extracting bacteria (from a petri dish, etc.)"
+        }
+      ],
+      "mobileId": 273385,
+      "phonetic": "ちょうきん",
+      "word": "釣菌"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96ce31c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hanging paper lantern"
+        }
+      ],
+      "mobileId": 259778,
+      "phonetic": "つりあんどん",
+      "word": "釣行灯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

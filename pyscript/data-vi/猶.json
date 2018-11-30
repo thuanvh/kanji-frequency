@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd8ec3b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "judea; những người do thái"
+        }
+      ],
+      "mobileId": 73349,
+      "phonetic": "なおふとし",
+      "synsets": [
+        {
+          "base_form": "猶太",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ユダヤ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "猶太"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecd9ac6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adj-i",
+          "mean": "làm dịu tốt hơn"
+        }
+      ],
+      "mobileId": 117604,
+      "phonetic": "なおよい",
+      "word": "猶良い"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4d4a0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "must not be concluded like this, shall not finish like this"
+        }
+      ],
+      "mobileId": 225892,
+      "phonetic": "なおあらじ",
+      "word": "猶あらじ"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecd702f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thêm vào đó, hơn nữa"
+        }
+      ],
+      "mobileId": 117601,
+      "phonetic": "なおのこと",
+      "word": "猶の事"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecd5a79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tuy vậy vẫn còn đôi chút nghi ngờ"
+        }
+      ],
+      "mobileId": 117598,
+      "phonetic": "なおぎもんがそん",
+      "word": "猶疑問が存"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1809d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "Đêm giữa ban ngày ."
+        }
+      ],
+      "mobileId": 185342,
+      "phonetic": "ひるなおくらい",
+      "word": "昼猶暗い"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f097d40",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giả thuyết về người Do thái và Nhật có chung nguồn gốc tổ tiên ."
+        }
+      ],
+      "mobileId": 185080,
+      "phonetic": "にちゆうどうそろん",
+      "word": "日猶同祖論"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bd7d4b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "the last drop makes the cup run over, too much of a good thing, less is more"
+        }
+      ],
+      "mobileId": 246721,
+      "phonetic": "すぎたるはなおおよばざるがごとし",
+      "word": "過ぎたるは猶及ばざるが如し"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

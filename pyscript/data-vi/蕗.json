@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686ee679",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "cúc móng ngựa"
+        }
+      ],
+      "mobileId": 3534,
+      "phonetic": "ふき",
+      "word": "蕗"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdf3a72c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cam thảo"
+        }
+      ],
+      "mobileId": 76535,
+      "phonetic": "ふきくさ",
+      "word": "蕗草"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77255124",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stalks of butterbur boiled in soy sauce"
+        }
+      ],
+      "mobileId": 265672,
+      "phonetic": "きゃらぶき",
+      "word": "伽羅蕗"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ecc32e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wild giant butterbur"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Japanese silverleaf"
+        }
+      ],
+      "mobileId": 272136,
+      "phonetic": "やまぶき",
+      "word": "山蕗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

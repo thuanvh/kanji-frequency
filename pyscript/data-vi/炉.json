@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a0a9a37",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ガスタービン直結高温ガス冷却炉",
+              "mean": "lò làm lạnh khí ga nhiệt độ cao được nối với tua bin",
+              "transcription": "ガスタービンちょっけつこうおんガスれいきゃくろ"
+            }
+          ],
+          "kind": "n",
+          "mean": "lò"
+        }
+      ],
+      "mobileId": 170462,
+      "phonetic": "ろ",
+      "word": "炉"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa74aa805",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "新型転換炉",
+              "mean": "Lò phản ứng kiểu mới .",
+              "transcription": "しんがたてんかんろ"
+            }
+          ],
+          "kind": "n",
+          "mean": "lò phản ứng"
+        }
+      ],
+      "mobileId": 107915,
+      "phonetic": "てんかんろ",
+      "word": "転換炉"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a239974",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "高炉熱風炉の設計はさらに側面燃焼室タイプと中央燃焼室タイプに分類される",
+              "mean": "Thiết kế của lò gió nóng cao tần được chia làm 2 kiểu, kiểu khoang đốt ở cạnh bên và kiểu khoang đốt ở giữa lò.",
+              "transcription": "こうろねっぷうろのせっけいはさらにそくめんねんしょうしつタイプとちゅうおうねんしょうしつタイプにぶんるいされる"
+            },
+            {
+              "content": "起動用熱風炉",
+              "mean": "Lò thổi gió nóng cho máy phát điện .",
+              "transcription": "きどうようねっぷうろ"
+            }
+          ],
+          "kind": "n",
+          "mean": "lò thổi gió nóng"
+        }
+      ],
+      "mobileId": 170944,
+      "phonetic": "ねっぷうろ",
+      "word": "熱風炉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7769517e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "closing of the fireplace in a Zen temple (first day of the 2nd month)"
+        }
+      ],
+      "mobileId": 267865,
+      "phonetic": "へいろ",
+      "word": "閉炉"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a23617",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cupola furnace, cupola"
+        }
+      ],
+      "mobileId": 286133,
+      "phonetic": "ようせんろ",
+      "word": "溶銑炉"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0000a63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hearthfire, ingle, open fire in a fireplace"
+        }
+      ],
+      "mobileId": 280953,
+      "phonetic": "ろか ろび",
+      "word": "炉火"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec0ac18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lò phản ứng hạt nhân để tạo nguồn năng lượng; lò phản ứng hạt nhân dùng sản xuất điện"
+        }
+      ],
+      "mobileId": 117201,
+      "phonetic": "どうりょくろ",
+      "related_words": {
+        "word": [
+          "力",
+          "動",
+          "動力"
+        ]
+      },
+      "word": "動力炉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7709fe9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fireplace or hearth dug into the ground or floor"
+        }
+      ],
+      "mobileId": 264781,
+      "phonetic": "じろ ちろ",
+      "word": "地炉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77694ef9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "first lighting of the hearth in a Zen temple (first day of the 10th or 11th month)"
+        }
+      ],
+      "mobileId": 267864,
+      "phonetic": "かいろ",
+      "word": "開炉"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a247f94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lò đốt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lò lửa ."
+        }
+      ],
+      "mobileId": 170959,
+      "phonetic": "ねんしょうろ",
+      "word": "燃焼炉"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

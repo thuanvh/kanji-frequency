@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d137203",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "litigation"
+        }
+      ],
+      "mobileId": 215728,
+      "phonetic": "しょうむ",
+      "word": "訟務"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc6cbdc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ban kiện tụng ((của) bộ công lý)"
+        }
+      ],
+      "mobileId": 152061,
+      "phonetic": "",
+      "word": "訟務部"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96c1093",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "non-contentious case"
+        }
+      ],
+      "mobileId": 259748,
+      "phonetic": "ひしょうじけん",
+      "word": "非訟事件"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa73af9ce",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "足械は監獄によく作られる",
+              "mean": "xiềng chân thường được sử dụng trong các nhà tù .",
+              "transcription": "あし械はかんごくによくつくられる"
+            }
+          ],
+          "kind": "n",
+          "mean": "Xiềng chân; việc kìm hãm tự do và hành động của người khác"
+        }
+      ],
+      "mobileId": 107648,
+      "phonetic": "あしかせ",
+      "related_words": {
+        "word": [
+          "足"
+        ]
+      },
+      "word": "足械"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

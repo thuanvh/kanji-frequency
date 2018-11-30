@@ -1,0 +1,135 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adaa31c5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sự phát biểu bằng miệng ."
+        }
+      ],
+      "mobileId": 79610,
+      "phonetic": "こうせん",
+      "related_words": {
+        "word": [
+          "口"
+        ]
+      },
+      "word": "口宣"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ff5be3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v4h",
+          "mean": "to say, to be pleased to say (hint of sarcasm)"
+        }
+      ],
+      "mobileId": 215098,
+      "phonetic": "のたまう",
+      "word": "宣ふ"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0398f3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "promo, advertising for a program (TV, radio, etc.), program publicity"
+        }
+      ],
+      "mobileId": 282810,
+      "phonetic": "ばんせん",
+      "word": "番宣"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d74c247",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "time, period"
+        }
+      ],
+      "mobileId": 218849,
+      "phonetic": "じせん",
+      "word": "時宣"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca096db0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-adv",
+          "mean": "according to ..., ... says"
+        }
+      ],
+      "mobileId": 285764,
+      "phonetic": "のたまわく",
+      "word": "宣わく"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5896d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đế quốc ra sắc lệnh"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "compilation for the emperor"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "emperor's literary production"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "imperial nomination"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "straight line"
+        }
+      ],
+      "mobileId": 113870,
+      "phonetic": "みことのりせん",
+      "word": "勅宣"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770ca873",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ladies' pavilion (of the inner Heian Palace)"
+        }
+      ],
+      "mobileId": 264857,
+      "phonetic": "せんようでん せんにょうでん",
+      "word": "宣耀殿"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6f1d2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "to proclaim (e.g. gospel)"
+        }
+      ],
+      "mobileId": 218657,
+      "phonetic": "のべつたえる",
+      "word": "宣べ伝える"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

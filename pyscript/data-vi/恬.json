@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92015f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "nonchalant"
+        }
+      ],
+      "mobileId": 257299,
+      "phonetic": "てん",
+      "word": "恬"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92007b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adv",
+          "mean": "nonchalantly"
+        }
+      ],
+      "mobileId": 257298,
+      "phonetic": "てんとして",
+      "word": "恬として"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568010c089c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Cây hẹ ."
+        }
+      ],
+      "mobileId": 41974,
+      "phonetic": "にら",
+      "word": "韮"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8e6c87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese chive, garlic chive (Allium tuberosum)"
+        }
+      ],
+      "mobileId": 227953,
+      "phonetic": "こみら",
+      "word": "小韮"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010c1147",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cây tỏi tây ."
+        }
+      ],
+      "mobileId": 41975,
+      "phonetic": "にらねぎ",
+      "related_words": {
+        "word": [
+          "葱",
+          "韮"
+        ]
+      },
+      "word": "韮葱"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

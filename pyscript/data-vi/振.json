@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19361cee9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự kích thích"
+        }
+      ],
+      "mobileId": 21023,
+      "phonetic": "かふ",
+      "related_words": {
+        "word": [
+          "加"
+        ]
+      },
+      "word": "加振"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770e141b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tremor (muscular), trembling, shaking"
+        }
+      ],
+      "mobileId": 264907,
+      "phonetic": "しんせん",
+      "word": "振戦"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94edf68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "atmospheric vibration, infrasound (as produced by volcanic activity)"
+        }
+      ],
+      "mobileId": 258815,
+      "phonetic": "くうしん",
+      "word": "空振"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a79da8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "nystagmus (rapid involuntary eye movements)"
+        }
+      ],
+      "mobileId": 227285,
+      "phonetic": "がんしん",
+      "related_words": {
+        "word": [
+          "眼"
+        ]
+      },
+      "word": "眼振"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de4efd3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự cưỡng bức chính xác"
+        }
+      ],
+      "mobileId": 153055,
+      "phonetic": "",
+      "word": "振粛"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d2944fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japan Society for the Promotion of Science, JSPS"
+        }
+      ],
+      "mobileId": 216432,
+      "phonetic": "がくしん",
+      "word": "学振"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776577f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "farming implement"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "small noh accessory"
+        }
+      ],
+      "mobileId": 267739,
+      "phonetic": "えぶり",
+      "word": "柄振"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04e91d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "direct debit, account-to-account transfer"
+        }
+      ],
+      "mobileId": 283475,
+      "phonetic": "こうふり",
+      "word": "口振"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9bda5b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "seiche"
+        }
+      ],
+      "mobileId": 278798,
+      "phonetic": "せいしん",
+      "word": "静振"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e11a13d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "maneuver to shake, flick, or wipe blood off of a sword"
+        }
+      ],
+      "mobileId": 248559,
+      "phonetic": "ちぶり",
+      "word": "血振"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

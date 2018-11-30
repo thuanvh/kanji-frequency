@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280276b1aed",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "膣の背部壁に異常な腫瘍がないか調べる",
+              "mean": "Kiểm tra xem có hay không những cục u bất thường ở phía trong của âm đạo",
+              "transcription": "ちつのはいぶかべにいじょうなしゅようがないかしらべる"
+            },
+            {
+              "content": "膣の開口部を調べるために手袋をした指で陰唇を広げる",
+              "mean": "Để kiểm tra miệng âm đạo, người ta dùng ngón tay đeo găng tay nanh rộng cửa mình ra .",
+              "transcription": "ちつのかいこうぶをしらべるためにてぶくろをしたゆびでかげくちびるをひろげる"
+            }
+          ],
+          "kind": "n",
+          "mean": "âm đạo"
+        }
+      ],
+      "mobileId": 30892,
+      "phonetic": "ちつ",
+      "related_words": {
+        "word": [
+          "膣炎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "膣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ワギナ",
+                "おまんこ",
+                "われめちゃん",
+                "まんこ",
+                "腟"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "膣"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4e92a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vaginal tightness, vaginal pressure"
+        }
+      ],
+      "mobileId": 250550,
+      "phonetic": "ちつあつ",
+      "word": "膣圧"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d7ea1eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vaginal secretion (during arousal), vaginal lubricant"
+        }
+      ],
+      "mobileId": 219157,
+      "phonetic": "ちつえき",
+      "word": "膣液"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9af5722",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-no",
+          "mean": "qua ngã âm đạo"
+        }
+      ],
+      "mobileId": 278315,
+      "phonetic": "けいちつ",
+      "word": "経膣"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e57c63c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vaginal wall"
+        }
+      ],
+      "mobileId": 250855,
+      "phonetic": "ちつへき",
+      "word": "膣壁"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e58471c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "vaginal opening"
+        }
+      ],
+      "mobileId": 250868,
+      "phonetic": "ちつこう",
+      "word": "膣口"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a94646",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vaginal cancer"
+        }
+      ],
+      "mobileId": 269952,
+      "phonetic": "ちつがん",
+      "word": "膣がん"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e373926",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vaginitis"
+        }
+      ],
+      "mobileId": 249795,
+      "phonetic": "ちつえん",
+      "related_words": {
+        "word": [
+          "膣",
+          "炎"
+        ]
+      },
+      "word": "膣炎"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fa1b75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vaginal smear"
+        }
+      ],
+      "mobileId": 272574,
+      "phonetic": "ちつこう",
+      "word": "膣垢"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e372ab5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vaginismus, vaginal spasm"
+        }
+      ],
+      "mobileId": 249794,
+      "phonetic": "ちつけいれん",
+      "word": "膣痙攣"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

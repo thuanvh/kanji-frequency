@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a7117b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiếu ."
+        }
+      ],
+      "mobileId": 172174,
+      "phonetic": "たたみ",
+      "related_words": {
+        "word": [
+          "重畳",
+          "石畳",
+          "畳む",
+          "折り畳み",
+          "折り畳む",
+          "畳紙"
+        ]
+      },
+      "word": "畳"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a710f49",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "chiếu"
+        }
+      ],
+      "mobileId": 172173,
+      "phonetic": "じょう",
+      "related_words": {
+        "word": [
+          "重畳",
+          "石畳",
+          "畳む",
+          "折り畳み",
+          "折り畳む",
+          "畳紙"
+        ]
+      },
+      "word": "畳"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d2048da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chỗ ngủ hay chỗ ngồi của khách quí được lót bằng hai tấm thảm ngồi đặt chồng lên nhau ."
+        }
+      ],
+      "mobileId": 141859,
+      "phonetic": "あげだたみ",
+      "related_words": {
+        "word": [
+          "上",
+          "畳"
+        ]
+      },
+      "word": "上げ畳"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d40b828f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Đo theo đơn vị của chiếu tatami, độ rộng bằng 6 tấm tatami"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ろくじょう",
+      "word": "六畳"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95312063",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lập lại"
+        }
+      ],
+      "mobileId": 57654,
+      "phonetic": "たたみせいご",
+      "word": "畳成語"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c1e643",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tatami bed"
+        }
+      ],
+      "mobileId": 278941,
+      "phonetic": "たたみベッド",
+      "word": "畳ベッド"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af073a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "folding ruler, collapsible ruler"
+        }
+      ],
+      "mobileId": 231128,
+      "phonetic": "たたみじゃく たたみものさし",
+      "related_words": {
+        "word": [
+          "畳",
+          "尺"
+        ]
+      },
+      "word": "畳尺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af07f63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "map (or diagram, etc.) folded with a cover on each side"
+        }
+      ],
+      "mobileId": 231129,
+      "phonetic": "たたみもの",
+      "word": "畳物"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd79add7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một chiếu (chiếu Nhật, một loại đơn vị đo lường của Nhật, thường dùng để tính diện tích các phòng)"
+        }
+      ],
+      "mobileId": 13656,
+      "phonetic": "いちじょう",
+      "related_words": {
+        "word": [
+          "一",
+          "畳"
+        ]
+      },
+      "word": "一畳"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952fca15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số nhân, máy nhân, điện kế nhân, người làm cho bội  lên"
+        }
+      ],
+      "mobileId": 57612,
+      "phonetic": "たたみすう",
+      "word": "畳数"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

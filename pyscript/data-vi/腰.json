@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802767b942",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "祖父は年のせいで少し腰が曲がっている。",
+              "mean": "Ông tôi hơi còng một chút do tuổi tác.",
+              "transcription": "そふはとしのせいですこしこしがまがっている。"
+            },
+            {
+              "content": "踊り子たちは音楽に合わせて腰を振った。",
+              "mean": "Các vũ công lắc hông theo nhịp nhạc. .",
+              "transcription": "おどりこたちはおんがくにあわせてこしをふった。"
+            }
+          ],
+          "kind": "n",
+          "mean": "eo lưng; hông"
+        }
+      ],
+      "mobileId": 30828,
+      "phonetic": "こし",
+      "related_words": {
+        "word": [
+          "腰痛",
+          "ぎっくり腰",
+          "腰抜け",
+          "腰部",
+          "腰巻",
+          "腰骨",
+          "腰掛ける",
+          "足腰"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "腰",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ヒップ",
+                "臀部"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "胴回り",
+                "腰部",
+                "ウエストライン",
+                "胴",
+                "ウェスト",
+                "細腰",
+                "ウエスト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "粘度"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "腰"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8dee169",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nếp gấp ở thắt lưng"
+        }
+      ],
+      "mobileId": 40660,
+      "phonetic": "こしあげ",
+      "word": "腰上げ"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8e00b0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vòng eo; số đo vòng eo"
+        }
+      ],
+      "mobileId": 40702,
+      "phonetic": "こしまわり",
+      "word": "腰回り"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd943ccb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phép đo hông"
+        }
+      ],
+      "mobileId": 73522,
+      "phonetic": "",
+      "word": "腰囲"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e273204",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s",
+          "mean": "to dislocate one's back"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to be unable to stand up due to fear or surprise, to lose one's legs"
+        }
+      ],
+      "mobileId": 249285,
+      "phonetic": "こしぬかす",
+      "word": "腰抜かす"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da04b68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wearing one's pants low (so that they hang from the hip rather than the waist), pants worn in such a manner"
+        }
+      ],
+      "mobileId": 220264,
+      "phonetic": "こしパン",
+      "word": "腰パン"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3bbbc3",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "tường phân vùng eo cao, tường ngực"
+        }
+      ],
+      "mobileId": 225315,
+      "phonetic": "こしかべ",
+      "word": "腰壁"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4dffc8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "short-sleeved kimono with a plain white backside"
+        }
+      ],
+      "mobileId": 225916,
+      "phonetic": "こしじろ",
+      "word": "腰白"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04b82d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "strong-backed"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "stubborn, persevering, tenacious"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "viscous, elastic and sticky, chewy"
+        }
+      ],
+      "mobileId": 283378,
+      "phonetic": "こしづよ",
+      "word": "腰強"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8df0b4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "có hình thức cong như cái cung"
+        }
+      ],
+      "mobileId": 40666,
+      "phonetic": "こしおり",
+      "related_words": {
+        "word": [
+          "腰",
+          "折"
+        ]
+      },
+      "word": "腰折"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

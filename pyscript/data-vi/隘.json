@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e288b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đèo ải"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đường hẻm"
+        },
+        {
+          "examples": [
+            {
+              "content": "隘路を打開する",
+              "mean": "Giải quyết những vấn đề trọng yếu",
+              "transcription": "隘路をだかいする"
+            },
+            {
+              "content": "〜における主要な隘路を分析する",
+              "mean": "Phân tích những vấn đề chủ chốt liên quan đến ~ .",
+              "transcription": "〜におけるしゅような隘路をぶんせきする"
+            }
+          ],
+          "kind": "n",
+          "mean": "Đường hẹp; hẻm núi; Nút giao thông thắt cổ chai; vấn đề chủ chốt; vấn đề trọng yếu"
+        }
+      ],
+      "mobileId": 110501,
+      "phonetic": "あいろ",
+      "word": "隘路"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd2494fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bóng tối"
+        }
+      ],
+      "mobileId": 69970,
+      "phonetic": "めい",
+      "related_words": {
+        "word": [
+          "冥王星",
+          "冥界",
+          "冥府",
+          "冥々",
+          "冥土",
+          "冥福",
+          "冥冥"
+        ]
+      },
+      "word": "冥"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd3e09b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tối tăm, bóng tối; sự phân vân"
+        }
+      ],
+      "mobileId": 70772,
+      "phonetic": "めいくら",
+      "related_words": {
+        "word": [
+          "冥"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "冥暗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蔭",
+                "本影",
+                "シェード",
+                "影法師",
+                "陰",
+                "日陰",
+                "影",
+                "シャドー",
+                "陰影",
+                "物陰",
+                "陰翳",
+                "冥闇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "暗がり",
+                "暗黒",
+                "冥闇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "冥暗"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a55a194",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ancient Chinese god of the north (or rain, water, etc.)"
+        }
+      ],
+      "mobileId": 226151,
+      "phonetic": "げんめい",
+      "word": "玄冥"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a69244f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "dim and distant"
+        }
+      ],
+      "mobileId": 226747,
+      "phonetic": "めいばく",
+      "word": "冥漠"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca053fefe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-pr",
+          "mean": "Hades (Greek god), Pluto (Roman god)"
+        }
+      ],
+      "mobileId": 283652,
+      "phonetic": "めいおう",
+      "word": "冥王"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd3e8753",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "âm phủ, âm ty, thế giới bên kia"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clear mirror"
+        }
+      ],
+      "mobileId": 70788,
+      "phonetic": "めいさかい",
+      "word": "冥境"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd40adff",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự trầm ngâm; sự ngắm"
+        }
+      ],
+      "mobileId": 70854,
+      "phonetic": "めいそう",
+      "related_words": {
+        "word": [
+          "想",
+          "冥"
+        ]
+      },
+      "word": "冥想"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd3e0eda",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tối tăm; bóng"
+        }
+      ],
+      "mobileId": 70773,
+      "phonetic": "めいやみ",
+      "related_words": {
+        "word": [
+          "闇",
+          "冥"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "冥闇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蔭",
+                "本影",
+                "シェード",
+                "影法師",
+                "陰",
+                "日陰",
+                "影",
+                "シャドー",
+                "陰影",
+                "冥暗",
+                "物陰",
+                "陰翳"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "暗がり",
+                "暗黒",
+                "冥暗"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "冥闇"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a69115c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hades, underworld, realm of the dead, other world"
+        }
+      ],
+      "mobileId": 226743,
+      "phonetic": "くらきみち",
+      "word": "冥き途"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0300c29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "restitution, compensation for damages"
+        }
+      ],
+      "mobileId": 282486,
+      "phonetic": "そんばい",
+      "word": "損賠"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682ff5c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bảo hiểm tiền nợ"
+        }
+      ],
+      "mobileId": 1555,
+      "phonetic": "ばいせき",
+      "word": "賠責"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed950d450f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bồi thường sự cố xe ô tô hành động"
+        }
+      ],
+      "mobileId": 56542,
+      "phonetic": "",
+      "word": "自賠法"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

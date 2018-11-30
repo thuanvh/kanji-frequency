@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd030e30",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chứng liệt, tình trạng tê liệt"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự tê liệt, làm tê liệt"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tình trạng tê, tình trạng tê cóng, tình trạng tê liệt, tình trạng chết lặng đi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trạng thái sững sờ"
+        }
+      ],
+      "mobileId": 68889,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "痲痺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "麻痺"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "中風",
+                "不随",
+                "麻痺",
+                "中気"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "痺れ感",
+                "麻痺",
+                "痺れ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "痲痺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aebe2ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "electric eel (Electrophorus electricus)"
+        }
+      ],
+      "mobileId": 230983,
+      "phonetic": "しびれうなぎ シビレウナギ",
+      "word": "痺鰻"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9090ff9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "electric catfish (any species of family Malapteruridae, esp. species Malapterurus electricus)"
+        }
+      ],
+      "mobileId": 256608,
+      "phonetic": "しびれなまず シビレナマズ",
+      "word": "痺鯰"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9bee38a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Psilocybe argentipes (species of psychoactive mushroom)"
+        }
+      ],
+      "mobileId": 278841,
+      "phonetic": "ひかげしびれたけ ヒカゲシビレタケ",
+      "word": "日陰痺茸"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

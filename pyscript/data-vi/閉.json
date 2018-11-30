@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77315697",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nasal obstruction"
+        }
+      ],
+      "mobileId": 266062,
+      "phonetic": "びへい",
+      "word": "鼻閉"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a84552",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mạch kín"
+        }
+      ],
+      "mobileId": 5357,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "回",
+          "回路"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "閉回路",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ループ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "閉回路"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a672678",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "stopping, corking, capping, closing"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "disconnecting (e.g. gas supply)"
+        }
+      ],
+      "mobileId": 226684,
+      "phonetic": "へいせん",
+      "word": "閉栓"
+    },
+    {
+      "_id": "432518852de0a80625d585a98232407c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "closed field"
+        }
+      ],
+      "mobileId": 233215,
+      "phonetic": "へいたい",
+      "word": "閉体"
+    },
+    {
+      "_id": "432518852de0a80625d585a982327354",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "closed-interval"
+        }
+      ],
+      "mobileId": 233222,
+      "phonetic": "へいくかん",
+      "word": "閉区間"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d07be02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "closing of post-office or telephone exchange"
+        }
+      ],
+      "mobileId": 215343,
+      "phonetic": "へいきょく",
+      "word": "閉局"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7776b5cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "closing a surgical incision (by suture, etc.)"
+        }
+      ],
+      "mobileId": 268291,
+      "phonetic": "へいそう",
+      "word": "閉創"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ab7e0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đóng kết thúc; bocca chiusa; chấm dứt (của) dụng cụ gió"
+        }
+      ],
+      "mobileId": 5461,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "端"
+        ]
+      },
+      "word": "閉端"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5dac50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "indehiscent fruit (fruit that doesn't open when ripe, i.e. apricot)"
+        }
+      ],
+      "mobileId": 226401,
+      "phonetic": "へいか",
+      "word": "閉果"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bc3018f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "closed (network, e.g.)"
+        }
+      ],
+      "mobileId": 246055,
+      "phonetic": "へいいき",
+      "word": "閉域"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

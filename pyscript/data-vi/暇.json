@@ -1,0 +1,291 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd922168",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "thời gian rảnh rỗi; thì giờ nhàn hạ; sự nghỉ ngơi; sự cáo từ; sự từ giã"
+        }
+      ],
+      "mobileId": 14433,
+      "opposite_word": [
+        "忙しい"
+      ],
+      "phonetic": "ひま",
+      "related_words": {
+        "word": [
+          "休暇",
+          "有給休暇",
+          "暇人",
+          "夏季休暇",
+          "余暇",
+          "暇な時",
+          "暇潰し"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "暇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "休暇",
+                "閑",
+                "余暇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "レジャー",
+                "閑",
+                "余暇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "解任",
+                "免官",
+                "馘首",
+                "首",
+                "免職",
+                "免",
+                "免黜",
+                "解雇",
+                "解職",
+                "罷免",
+                "御免"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "祝祭日",
+                "祭日",
+                "ドンタク",
+                "祝日",
+                "公休日",
+                "休日",
+                "休暇",
+                "節",
+                "記念日",
+                "公休",
+                "休み"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "閑暇",
+                "閑",
+                "余暇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "公暇",
+                "休暇",
+                "賜暇",
+                "休み"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "閑",
+                "余暇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "余暇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "暇"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e855f48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thời gian và công sức; lo lắng"
+        }
+      ],
+      "mobileId": 115276,
+      "phonetic": "てまひま",
+      "word": "手間暇"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef980b7a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unimportant piece of news, news unrelated to major events or pressing social conditions"
+        }
+      ],
+      "mobileId": 276837,
+      "phonetic": "ひまネタ ひまねた ヒマネタ",
+      "word": "暇ネタ"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1ecf17",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rảnh"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rảnh rỗi ."
+        }
+      ],
+      "mobileId": 185472,
+      "phonetic": "ひまな",
+      "related_words": {
+        "word": [
+          "暇"
+        ]
+      },
+      "word": "暇な"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1eda47",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "準備に　〜",
+              "mean": "mất thời gian vào chuẩn bị .",
+              "transcription": "じゅんびに〜"
+            }
+          ],
+          "kind": "v5r",
+          "mean": "mất thời gian"
+        }
+      ],
+      "mobileId": 185474,
+      "phonetic": "ひまどる",
+      "related_words": {
+        "word": [
+          "暇",
+          "取る"
+        ]
+      },
+      "word": "暇取る"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8aacc18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phép nghỉ, cho nghỉ phép"
+        }
+      ],
+      "mobileId": 38949,
+      "phonetic": "おおやけひま",
+      "related_words": {
+        "word": [
+          "暇",
+          "公"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "公暇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "休暇",
+                "賜暇",
+                "暇",
+                "休み"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "公暇"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0925fb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "leaving, going home"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quitting one's job"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "free time, leisure, spare time"
+        }
+      ],
+      "mobileId": 211546,
+      "phonetic": "おいとま",
+      "word": "お暇"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6859632a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(thì) bận rộn; không có thời gian (tự do)"
+        }
+      ],
+      "mobileId": 2853,
+      "phonetic": "ひまがない",
+      "word": "暇が無い"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd923cef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "không có thời gian trống, không có thời gian rảnh"
+        }
+      ],
+      "mobileId": 14436,
+      "phonetic": "ひまもなく",
+      "word": "暇も無く"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08b5425",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "if you are free, if you have time to spare, if not otherwise engaged"
+        }
+      ],
+      "mobileId": 285397,
+      "phonetic": "おひまなら",
+      "word": "お暇なら"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

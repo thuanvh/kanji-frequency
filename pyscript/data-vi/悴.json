@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afa382e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-pref",
+          "mean": "low, poor, scrawny"
+        }
+      ],
+      "mobileId": 231439,
+      "phonetic": "かせ",
+      "word": "悴"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada1efaf4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trở nên hốc hác ."
+        }
+      ],
+      "mobileId": 77424,
+      "phonetic": "ちょうすい",
+      "word": "凋悴"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dbe752a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người điều khiển, người cầm đầu người chỉ huy, sĩ quan chỉ huy, cái vồ lớn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước đái, nước tiểu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đi đái, sự đi tiểu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự làm gầy mòn, sự làm hốc hác, sự gầy mòn, sự hốc hác, sự làm bạc màu; sự bạc màu (đất"
+        }
+      ],
+      "mobileId": 151786,
+      "phonetic": "きずせがれ",
+      "related_words": {
+        "word": [
+          "傷"
+        ]
+      },
+      "word": "傷悴"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

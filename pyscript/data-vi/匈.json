@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e80205f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự náo động, sự rối loạn"
+        }
+      ],
+      "mobileId": 33549,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "匈",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "大騒ぎ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "匈"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada5d3cf9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hungary"
+        }
+      ],
+      "mobileId": 78528,
+      "phonetic": "はんがり",
+      "related_words": {
+        "word": [
+          "牙",
+          "利"
+        ]
+      },
+      "word": "匈牙利"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

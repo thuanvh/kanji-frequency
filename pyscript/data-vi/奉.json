@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95275f9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tuân theo; quan sát; đi theo"
+        }
+      ],
+      "mobileId": 57353,
+      "phonetic": "じゅんたてまつ",
+      "word": "順奉"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c66c41",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chịu; giới thiệu; sự cầm nắm lên trên (bức tranh (của) hoàng đế)"
+        }
+      ],
+      "mobileId": 6327,
+      "phonetic": "たてまつじ",
+      "word": "奉持"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c86d7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "mang ngoài sẽ (của) một có ngài"
+        }
+      ],
+      "mobileId": 6393,
+      "phonetic": "たてまつからだ",
+      "word": "奉体"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9041839",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "serving, attending on someone"
+        }
+      ],
+      "mobileId": 272891,
+      "phonetic": "ほうじ",
+      "word": "奉侍"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c9c0fb",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n, vs",
+          "mean": "đèn lồng votive"
+        }
+      ],
+      "mobileId": 6437,
+      "phonetic": "たてまつあかり",
+      "related_words": {
+        "word": [
+          "灯"
+        ]
+      },
+      "word": "奉灯"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822185ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ise Shrine Offering Association (secular organization formed from Jingu-kyo in 1899; dissolved in 1946)"
+        }
+      ],
+      "mobileId": 232686,
+      "phonetic": "じんぐうほうさいかい",
+      "word": "神宮奉斎会"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e339ffa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "early Japanese Christian"
+        }
+      ],
+      "mobileId": 249690,
+      "phonetic": "ほうきょうにん",
+      "word": "奉教人"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08c1cdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-pref",
+          "mean": "Saint, St., S."
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "sacred, holy, pure"
+        }
+      ],
+      "mobileId": 211341,
+      "phonetic": "せい",
+      "word": "聖"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8e39734",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hiền nhân cổ xưa"
+        }
+      ],
+      "mobileId": 40804,
+      "phonetic": "こきよし",
+      "related_words": {
+        "word": [
+          "古"
+        ]
+      },
+      "word": "古聖"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0141144",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "great doctor, sage physician"
+        }
+      ],
+      "mobileId": 281595,
+      "phonetic": "いせい",
+      "word": "医聖"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3f52b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the Annunciation"
+        }
+      ],
+      "mobileId": 225441,
+      "phonetic": "せいこく",
+      "word": "聖告"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959e5e23",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hiền nhân cổ xưa; confucius"
+        }
+      ],
+      "mobileId": 61155,
+      "phonetic": "さききよし",
+      "related_words": {
+        "word": [
+          "先"
+        ]
+      },
+      "word": "先聖"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c09aff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "altar (esp. Christian)"
+        }
+      ],
+      "mobileId": 213049,
+      "phonetic": "せいたく",
+      "word": "聖卓"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a949e654",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "master swordsman"
+        }
+      ],
+      "mobileId": 258658,
+      "phonetic": "けんせい",
+      "word": "剣聖"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a06abbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sword hilt shaped similar to the handle of a vajra"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "plain, wooden sword hilt (as opposed to those wrapped in sharkskin)"
+        }
+      ],
+      "mobileId": 223612,
+      "phonetic": "ひじりづか",
+      "word": "聖柄"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9d97f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "holy sword, sacred sword"
+        }
+      ],
+      "mobileId": 228437,
+      "phonetic": "せいけん",
+      "related_words": {
+        "word": [
+          "剣"
+        ]
+      },
+      "word": "聖剣"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95796867",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "truyền thống (công giáo)"
+        }
+      ],
+      "mobileId": 59960,
+      "phonetic": "ひじりつたえ",
+      "word": "聖伝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

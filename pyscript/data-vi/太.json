@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b7f57e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n-pref, n",
+          "mean": "béo"
+        },
+        {
+          "examples": [],
+          "kind": "n-pref",
+          "mean": "lớn, tráng lệ, tuyệt vời"
+        }
+      ],
+      "mobileId": 270426,
+      "opposite_word": [
+        "細"
+      ],
+      "phonetic": "ふと",
+      "word": "太"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98721d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wife"
+        }
+      ],
+      "mobileId": 277044,
+      "phonetic": "タイタイ",
+      "word": "太太"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821c5a7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scapulimancy (divination using the cracks in the heated shoulder blade of a deer), scapulomancy, spatulamancy, armomancy"
+        }
+      ],
+      "mobileId": 232527,
+      "phonetic": "ふとまに",
+      "word": "太占"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9056f0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na, adj-no",
+          "mean": "medium thickness, medium width"
+        }
+      ],
+      "mobileId": 272936,
+      "phonetic": "なかぶと ちゅうぶと",
+      "word": "中太"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d533bab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "belly, flanks"
+        }
+      ],
+      "mobileId": 217758,
+      "phonetic": "ふとばら",
+      "word": "太腹"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e7fce4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Grand Protector (lowest of the top three civil positions of the Zhou Dynasty)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Minister of the Right (official in Nara and Heian periods)"
+        }
+      ],
+      "mobileId": 271999,
+      "phonetic": "たいほう たいほ",
+      "word": "太保"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c062bff3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rolling something thickly, something rolled thickly (i.e. a cigar, a thick roll of makizushi, etc.)"
+        }
+      ],
+      "mobileId": 210015,
+      "phonetic": "ふとまき",
+      "related_words": {
+        "word": [
+          "巻",
+          "巻き"
+        ]
+      },
+      "word": "太巻き"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d21a70b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "dạng chùy"
+        }
+      ],
+      "mobileId": 146796,
+      "opposite_word": [
+        "先細"
+      ],
+      "phonetic": "さきふとし",
+      "related_words": {
+        "word": [
+          "先"
+        ]
+      },
+      "word": "先太"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b81f96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "branch of a sacred tree (esp. sakaki) with paper or cotton strips attached (used as a Shinto offering)"
+        }
+      ],
+      "mobileId": 270429,
+      "phonetic": "ふとたまぐし",
+      "word": "太玉串"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f32d49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người sáng lập; tổ tiên; vị hoàng đế đầu tiên sáng lập ra triều đại nào đó"
+        }
+      ],
+      "mobileId": 63882,
+      "phonetic": "ふとしそ",
+      "synsets": [
+        {
+          "base_form": "太祖",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "帝",
+                "帝王",
+                "主上",
+                "エンペラー",
+                "皇帝",
+                "人皇",
+                "上様"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "人祖",
+                "先祖",
+                "祖先"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "太祖"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

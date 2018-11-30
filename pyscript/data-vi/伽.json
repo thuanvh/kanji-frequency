@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9db531",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chăm sóc; hộ lý; chú ý; người phục vụ; người dẫn chương trình"
+        }
+      ],
+      "mobileId": 116079,
+      "phonetic": "とぎ",
+      "related_words": {
+        "word": [
+          "夜伽",
+          "伽藍"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "伽",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "付添い",
+                "お付き",
+                "供",
+                "従者",
+                "付き",
+                "付き添い人",
+                "付人",
+                "供人",
+                "随行",
+                "付き添い",
+                "侍者",
+                "随行員",
+                "付け人",
+                "お供"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "伽"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9dd96f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kịch câm; diễn viên kịch câm, kịch pantomim, ra hiệu kịch câm"
+        }
+      ],
+      "mobileId": 116082,
+      "phonetic": "とぎしばい",
+      "related_words": {
+        "word": [
+          "居",
+          "芝",
+          "芝居",
+          "伽"
+        ]
+      },
+      "word": "伽芝居"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9df509",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "truyện ngắn tiên; truyện ngắn nhà trẻ"
+        }
+      ],
+      "mobileId": 116087,
+      "phonetic": "とぎばなし",
+      "related_words": {
+        "word": [
+          "話",
+          "伽"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "伽話",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "御伽話",
+                "フェアリーテール"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "伽話"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adcd48f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "water offering to Buddha, holy water"
+        }
+      ],
+      "mobileId": 230508,
+      "phonetic": "あか",
+      "word": "閼伽"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95bf20ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tăng già (Phật giáo)"
+        }
+      ],
+      "mobileId": 62186,
+      "phonetic": "そうとぎ",
+      "word": "僧伽"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9deade",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(quyển) sách chuyện hoang đường"
+        }
+      ],
+      "mobileId": 116085,
+      "phonetic": "とぎそうし",
+      "related_words": {
+        "word": [
+          "子",
+          "草",
+          "伽"
+        ]
+      },
+      "word": "伽草子"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

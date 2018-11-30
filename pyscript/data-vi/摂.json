@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed958caac6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "thanh toán; sự cho ăn"
+        }
+      ],
+      "mobileId": 60566,
+      "phonetic": "せっしょく",
+      "related_words": {
+        "word": [
+          "食"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "摂食",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "食べること",
+                "食"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "摂食"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed958cbde3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ăn sự mất trật tự"
+        }
+      ],
+      "mobileId": 60568,
+      "phonetic": "としょくしょうがい",
+      "word": "摂食障害"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

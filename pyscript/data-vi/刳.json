@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a138558",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "harshness, acridity, astringent taste, bitter taste"
+        }
+      ],
+      "mobileId": 224023,
+      "phonetic": "えぐみ",
+      "word": "刳味"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00b6a47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "to be gouged, to be hollowed, to become hollow"
+        }
+      ],
+      "mobileId": 189506,
+      "phonetic": "えぐれる",
+      "word": "刳れる"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0959dfe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "harsh, acrid, pungent, astringent"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "strong-minded, heartless, inconsiderate"
+        },
+        {
+          "examples": null,
+          "kind": "adj-i, int",
+          "mean": "nasty, gross"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "amazing"
+        }
+      ],
+      "mobileId": 211649,
+      "phonetic": "えぐい",
+      "word": "刳い"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85b8626",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khai quật; khoan"
+        }
+      ],
+      "mobileId": 36438,
+      "phonetic": "くつらぬく",
+      "related_words": {
+        "word": [
+          "貫く"
+        ]
+      },
+      "word": "刳貫く"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

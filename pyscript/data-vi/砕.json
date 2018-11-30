@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68319ba5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự làm nổ tung, sự phá bằng thuốc nổ, sự làm tan vỡ (hy vọng, cơ đồ...)"
+        }
+      ],
+      "mobileId": 1610,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "爆砕",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "炸裂",
+                "爆破",
+                "爆発",
+                "破裂",
+                "バースト"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "爆砕"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d2dba97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chop suey"
+        }
+      ],
+      "mobileId": 216565,
+      "phonetic": "ちゃぷすい チャプスイ",
+      "word": "雑砕"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0064678",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-f",
+          "mean": "breaker, breaking wave, spilling breaker, surging breaker, wave breaking"
+        }
+      ],
+      "mobileId": 281152,
+      "phonetic": "さいは",
+      "word": "砕波"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e8acf07",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "塊の肉を切砕してください！",
+              "mean": "Hãy xay nguyễn cục thịt!",
+              "transcription": "かたまりのにくをきりはたしてください！"
+            }
+          ],
+          "kind": "ｎ",
+          "mean": "Sự xay nhuyễn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "きりはた",
+      "word": "切砕"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ace6798",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clastic material"
+        }
+      ],
+      "mobileId": 230036,
+      "phonetic": "さいせつぶつ",
+      "word": "砕屑物"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdde21ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "không quan trọng, tầm thường, đáng khinh, vô nghĩa"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "vặt, thường, không quan trọng"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "không đáng kể, tầm thương, nhỏ mọn; đáng khinh, ti tiện"
+        }
+      ],
+      "mobileId": 75860,
+      "phonetic": "",
+      "word": "零砕"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ace566c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pyroclastic material"
+        }
+      ],
+      "mobileId": 230034,
+      "phonetic": "かさいぶつ",
+      "word": "火砕物"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ace5571",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "volcaniclastic rock"
+        }
+      ],
+      "mobileId": 230033,
+      "phonetic": "かざんさいせつがん",
+      "word": "火山砕屑岩"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935cfe19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những thứ do nham thạch núi lửa phun ra tạo thành"
+        }
+      ],
+      "mobileId": 20874,
+      "phonetic": "",
+      "word": "火山砕屑物"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ab92ed2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "máy nghiền đá ."
+        }
+      ],
+      "mobileId": 173361,
+      "phonetic": "さいがんき",
+      "word": "砕岩機"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adad80549",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "nhà Đường; đời Đường"
+        }
+      ],
+      "mobileId": 80422,
+      "phonetic": "とう",
+      "word": "唐"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938d7738",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cây khoai lang"
+        }
+      ],
+      "mobileId": 22424,
+      "phonetic": "とういも",
+      "word": "唐薯"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e627e13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "apricot (Prunus armeniaca)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Prunus persica var. densa (Chinese variety of peach)"
+        }
+      ],
+      "mobileId": 251208,
+      "phonetic": "からもも カラモモ",
+      "word": "唐桃"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9edcaf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "syphilis"
+        }
+      ],
+      "mobileId": 263868,
+      "phonetic": "とうがさ",
+      "word": "唐瘡"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938d4d91",
+      "means": [
+        {
+          "examples": "",
+          "kind": "",
+          "mean": "(khoai tây, gà) chiên, rán"
+        }
+      ],
+      "mobileId": 22418,
+      "phonetic": "から あげ",
+      "word": "唐揚"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938d54de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "thực phẩm được chiên, rán kỹ"
+        }
+      ],
+      "mobileId": 22419,
+      "phonetic": "とうあげ",
+      "related_words": {
+        "word": [
+          "揚げ"
+        ]
+      },
+      "word": "唐揚げ"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938ff85e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "môn võ caratê"
+        }
+      ],
+      "mobileId": 22503,
+      "phonetic": "とうしゅ",
+      "word": "唐手"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adad85398",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cây gỗ vân sam ."
+        }
+      ],
+      "mobileId": 80429,
+      "phonetic": "とうひ",
+      "word": "唐檜"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e37189a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "deep-fried Chinese pastry (sweetened with jiaogulan)"
+        }
+      ],
+      "mobileId": 249792,
+      "phonetic": "からくだもの とうがし",
+      "word": "唐果物"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7abdd2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Later Tang Dynasty (of China)"
+        }
+      ],
+      "mobileId": 251986,
+      "phonetic": "こうとう ごとう",
+      "word": "後唐"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

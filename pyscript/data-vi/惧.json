@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8330517",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "e sợ; băn khoăn"
+        }
+      ],
+      "mobileId": 35127,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "疑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "疑惧",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "不安",
+                "疑懼",
+                "胸騒ぎ",
+                "不安心"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "疑惧"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

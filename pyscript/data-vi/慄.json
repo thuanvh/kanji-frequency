@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0868d7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tremble, shudder, quiver"
+        }
+      ],
+      "mobileId": 285241,
+      "phonetic": "しんりつ",
+      "word": "震慄"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd336928",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rung chuyển với sự kích động"
+        }
+      ],
+      "mobileId": 70434,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "者",
+          "武者"
+        ]
+      },
+      "word": "武者慄"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc3ee15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm đau nhói lạnh"
+        }
+      ],
+      "mobileId": 75068,
+      "phonetic": "",
+      "word": "慄烈"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d2d203",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "trembling with fear, filled with trepidation"
+        }
+      ],
+      "mobileId": 213649,
+      "phonetic": "せんせんりつりつ",
+      "word": "戦々慄々"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd9be919",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Tường chắn (Một bức tường để xây dựng để ngăn chặn các cạnh của một vách đá hoặc sự sụp đổ.)"
+        }
+      ],
+      "mobileId": 73769,
+      "phonetic": "ようかべ",
+      "word": "擁壁"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d2994d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "embrace, hug"
+        }
+      ],
+      "mobileId": 263001,
+      "phonetic": "あいよう",
+      "word": "相擁"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

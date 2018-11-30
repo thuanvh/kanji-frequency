@@ -1,0 +1,233 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adab118c7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あなたの席は課長の右です。",
+              "mean": "Chỗ ngồi của anh là ở bên phải trưởng phòng.",
+              "transcription": "あなたのせきはかちょうのみぎです。"
+            }
+          ],
+          "kind": "n",
+          "mean": "bên phải; phía bên phải"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hữu ."
+        }
+      ],
+      "mobileId": 79762,
+      "opposite_word": [
+        "左"
+      ],
+      "phonetic": "みぎ",
+      "related_words": {
+        "word": [
+          "左右",
+          "右側",
+          "座右の銘",
+          "右回り",
+          "右折",
+          "右端",
+          "右翼",
+          "右脳",
+          "右に",
+          "右の"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "右",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "右側"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "右"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd110282",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự viết từ phải sang trái; cách viết từ phải sang trái"
+        }
+      ],
+      "mobileId": 69329,
+      "phonetic": "みぎがき",
+      "word": "右書き"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adab19d3f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "車が右方通行(つうこう)の国",
+              "mean": "Đất nước nơi mà xe cộ đều phải đi lại ở bên phải đường.",
+              "transcription": "くるまがみぎかたつうこう(つうこう)のくに"
+            },
+            {
+              "content": "右方の表面(ひょうめん)",
+              "mean": "Mặt phải của tấm vải",
+              "transcription": "みぎかたのひょうめん(ひょうめん)"
+            },
+            {
+              "content": "〜が右方に動かないようにする",
+              "mean": "sao cho không di chuyển sang bên phải .",
+              "transcription": "〜がみぎかたにうごかないようにする"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "bên phải"
+        }
+      ],
+      "mobileId": 79774,
+      "opposite_word": [
+        "左方"
+      ],
+      "phonetic": "うほう",
+      "related_words": {
+        "word": [
+          "右",
+          "方"
+        ]
+      },
+      "word": "右方"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b380262",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "right shift (bitwise, arithmetic)"
+        }
+      ],
+      "mobileId": 241635,
+      "phonetic": "みぎシフト",
+      "word": "右シフト"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b381265",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "top right corner"
+        }
+      ],
+      "mobileId": 241638,
+      "phonetic": "みぎうえすみ",
+      "word": "右上隅"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdaf68ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lề phải(đúng)"
+        }
+      ],
+      "mobileId": 15366,
+      "phonetic": "みぎえん",
+      "related_words": {
+        "word": [
+          "右",
+          "縁"
+        ]
+      },
+      "word": "右縁"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a98049",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "upper right (corner)"
+        }
+      ],
+      "mobileId": 212288,
+      "phonetic": "うえみぎ",
+      "word": "上右"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd110524",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự thuận tay phải, sự đánh bằng tay phải"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "người thuận tay phải, (thể dục, thể thao) cú đấm phải"
+        }
+      ],
+      "mobileId": 69330,
+      "opposite_word": [
+        "左利き"
+      ],
+      "phonetic": "みぎきき",
+      "related_words": {
+        "word": [
+          "右",
+          "利"
+        ]
+      },
+      "word": "右利き"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd113927",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "theo chiều kim đồng hồ"
+        }
+      ],
+      "mobileId": 69340,
+      "opposite_word": [
+        "左巻き"
+      ],
+      "phonetic": "みぎまき",
+      "word": "右巻き"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd1141a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự quay thuận chiều kim đồng hồ; sự quay về bên phải"
+        }
+      ],
+      "mobileId": 69342,
+      "phonetic": "みぎまわり",
+      "related_words": {
+        "word": [
+          "右",
+          "回",
+          "回り"
+        ]
+      },
+      "word": "右回り"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

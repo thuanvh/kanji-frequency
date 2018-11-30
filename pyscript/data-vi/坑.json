@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e0db60e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "pit (esp. of a mine)"
+        }
+      ],
+      "mobileId": 248439,
+      "phonetic": "こう",
+      "word": "坑"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b192de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lổ khoan để thăm đò tìm khoáng sản"
+        }
+      ],
+      "mobileId": 39164,
+      "phonetic": "こうあな",
+      "word": "鉱坑"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ac7456",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ra khỏi cái hầm"
+        }
+      ],
+      "mobileId": 39003,
+      "opposite_word": [
+        "坑内"
+      ],
+      "phonetic": "あながい",
+      "word": "坑外"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0d577d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đường hầm đào thẳng xuống"
+        }
+      ],
+      "mobileId": 111457,
+      "phonetic": "たてあな",
+      "word": "立て坑"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bcd3bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đáy hầm (ở mỏ)"
+        }
+      ],
+      "mobileId": 39535,
+      "phonetic": "あなそこ",
+      "word": "坑底"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a944c2f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "adit"
+        }
+      ],
+      "mobileId": 258494,
+      "phonetic": "よここう おうこう",
+      "word": "横坑"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932c9def",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đào khai mỏ"
+        }
+      ],
+      "mobileId": 19350,
+      "phonetic": "ひらきあな",
+      "word": "開坑"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1070a4417",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc chôn sống những người theo Nho học (thời Tần thủy Hoàng) ."
+        }
+      ],
+      "mobileId": 52056,
+      "phonetic": "こうじゅ",
+      "word": "坑儒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

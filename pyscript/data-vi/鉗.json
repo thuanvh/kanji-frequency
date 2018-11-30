@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b16366",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "止血鉗子",
+              "mean": "kẹp động mạch",
+              "transcription": "しけつ鉗子"
+            },
+            {
+              "content": "骨鉗子",
+              "mean": "kẹp xương",
+              "transcription": "ほね鉗子"
+            },
+            {
+              "content": "甲状腺鉗子",
+              "mean": "cái panh tuyến giáp",
+              "transcription": "こうじょうせん鉗子"
+            },
+            {
+              "content": "カプセル鉗子",
+              "mean": "kẹp con nhộng",
+              "transcription": "カプセル鉗子"
+            },
+            {
+              "content": "鉗子1丁",
+              "mean": "một đôi kẹp.",
+              "transcription": "鉗子 1ちょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái kẹp; cái panh; kẹp; panh"
+        }
+      ],
+      "mobileId": 109708,
+      "phonetic": "かんし",
+      "related_words": {
+        "word": [
+          "子"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鉗子",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "刺抜き"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鉗子"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a957949f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "artery forceps, hemostatic forceps"
+        }
+      ],
+      "mobileId": 259104,
+      "phonetic": "しけつかんし",
+      "word": "止血鉗子"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

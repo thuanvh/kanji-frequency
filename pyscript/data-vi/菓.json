@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e371e18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fruit"
+        },
+        {
+          "examples": null,
+          "kind": "suf, ctr",
+          "mean": "counter for fruit"
+        }
+      ],
+      "mobileId": 249793,
+      "phonetic": "か",
+      "word": "菓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7766a5f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Christmas cake"
+        }
+      ],
+      "mobileId": 267778,
+      "phonetic": "せいか",
+      "word": "聖菓"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a90f0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unusual candy, rare sweet"
+        }
+      ],
+      "mobileId": 278104,
+      "phonetic": "ちんか",
+      "word": "珍菓"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d4e17f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kẹo sữa ."
+        }
+      ],
+      "mobileId": 142781,
+      "phonetic": "にゅうか",
+      "related_words": {
+        "word": [
+          "乳"
+        ]
+      },
+      "word": "乳菓"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027053b5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bánh trái"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "kẹo ."
+        }
+      ],
+      "mobileId": 29168,
+      "phonetic": "とうか",
+      "word": "糖菓"
+    },
+    {
+      "_id": "432518852de0a80625d585a98245db53",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rice cracker"
+        }
+      ],
+      "mobileId": 233842,
+      "phonetic": "べいか",
+      "related_words": {
+        "word": [
+          "米"
+        ]
+      },
+      "word": "米菓"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

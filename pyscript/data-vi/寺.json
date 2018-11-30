@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1079c8035",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "僧侶は寺で祈とうの間じゅう香をたいていた",
+              "mean": "Các nhà sư thắp hương khi cầu nguyện tại chùa",
+              "transcription": "そうりょはてらできとうのまじゅうこうをたいていた"
+            },
+            {
+              "content": "久しぶりに北鎌倉で降りて、円覚寺、建長寺から鶴ヶ岡八幡宮へと歩いてみようかな。",
+              "mean": "Lâu lắm rồi tôi mới lại đi tàu Kitakamakura, đến thăm chùa Enkaku, chùa Kencho và sau đó là Tsurugaoka Hachimangu .",
+              "transcription": "ひさしぶりにきたかまくらでおりて、えんかくじ、けんちょうじからつるヶおかはちまんぐうへとあるいてみようかな。"
+            }
+          ],
+          "kind": "n",
+          "mean": "chùa"
+        }
+      ],
+      "mobileId": 54487,
+      "phonetic": "てら",
+      "related_words": {
+        "word": [
+          "寺院"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "寺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "叢林",
+                "僧院",
+                "寺院",
+                "僧寺",
+                "仏寺",
+                "神殿",
+                "梵刹"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "博奕宿"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "寺"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771ca03d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one of the six administrators of a Zen temple (in charge of accounting)"
+        }
+      ],
+      "mobileId": 265392,
+      "phonetic": "ふうす",
+      "word": "副寺"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02af865",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "various temples"
+        }
+      ],
+      "mobileId": 282320,
+      "phonetic": "しょじ",
+      "word": "諸寺"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6973fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "temple grounds"
+        }
+      ],
+      "mobileId": 218485,
+      "phonetic": "じいき",
+      "word": "寺域"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771c9139",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one of the six administrators of a Zen temple who substitutes for the chief priest"
+        }
+      ],
+      "mobileId": 265389,
+      "phonetic": "かんす かんず かんじ",
+      "word": "監寺"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771c9fe7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one of the six administrators of a Zen temple"
+        }
+      ],
+      "mobileId": 265391,
+      "phonetic": "つうす",
+      "word": "都寺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a82146f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "incarcerating a criminal in a temple as a form of punishment (popular during the latter Muromachi and Azuchi-Momoyama periods)"
+        }
+      ],
+      "mobileId": 227549,
+      "phonetic": "てらあずけ",
+      "word": "寺預け"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0458bd1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dilapidated temple, temple ruins, abandoned temple"
+        }
+      ],
+      "mobileId": 283199,
+      "phonetic": "あれでら",
+      "word": "荒れ寺"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5b5949",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "entering a temple, visiting a temple"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "joining a temple as a priest or head priest"
+        }
+      ],
+      "mobileId": 218027,
+      "phonetic": "にゅうじ",
+      "word": "入寺"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6f0e22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sub-temple, affiliated temple"
+        }
+      ],
+      "mobileId": 218653,
+      "phonetic": "わきでら",
+      "word": "脇寺"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b16636",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鉛は金属元素の一つで、鉛蓄電池の生産に用いる",
+              "mean": "Chì là 1 nguyên tố kim loại, được sử dụng sản xuất ắc quy .",
+              "transcription": "なまりはきんぞくげんそのひとつで、なまりちくでんちのせいさんにもちいる"
+            }
+          ],
+          "kind": "n",
+          "mean": "chì"
+        }
+      ],
+      "mobileId": 109709,
+      "phonetic": "なまり",
+      "related_words": {
+        "word": [
+          "鉛筆",
+          "亜鉛",
+          "色鉛筆",
+          "鉛筆削り",
+          "黒鉛"
+        ]
+      },
+      "word": "鉛"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94328a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lead tree (lead or zinc in a solution of acetate of lead)"
+        }
+      ],
+      "mobileId": 258442,
+      "phonetic": "えんじゅ",
+      "word": "鉛樹"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde8c6da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một sự dẫn đào mỏ; dẫn dắt những tiền đặt"
+        }
+      ],
+      "mobileId": 17141,
+      "phonetic": "なまりこう",
+      "related_words": {
+        "word": [
+          "鉛"
+        ]
+      },
+      "word": "鉛鉱"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeb5624",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "bằng chì; xám xịt như chì; nặng như chì, nặng nề"
+        }
+      ],
+      "mobileId": 17223,
+      "phonetic": "なまりせい",
+      "word": "鉛製"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeea27f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tấm chì, miếng chì"
+        }
+      ],
+      "mobileId": 17325,
+      "phonetic": "なまりいた",
+      "related_words": {
+        "word": [
+          "板",
+          "鉛"
+        ]
+      },
+      "word": "鉛板"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed753d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dẫn dắt kính(cốc)"
+        }
+      ],
+      "mobileId": 117905,
+      "phonetic": "なまりガラス",
+      "word": "鉛ガラス"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cded1900",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nhiễm độc chì"
+        }
+      ],
+      "mobileId": 17280,
+      "phonetic": "なまりちゅうどく",
+      "related_words": {
+        "word": [
+          "中",
+          "毒",
+          "中毒",
+          "鉛"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鉛中毒",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鉛毒"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鉛中毒"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf39ef2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu vàng tươi"
+        }
+      ],
+      "mobileId": 17487,
+      "phonetic": "きなまり",
+      "related_words": {
+        "word": [
+          "黄",
+          "鉛"
+        ]
+      },
+      "word": "黄鉛"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a606590",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "white powder (lead carbonate) used in the past as face pigment and used in paint more recently"
+        }
+      ],
+      "mobileId": 226471,
+      "phonetic": "えんぷん",
+      "word": "鉛粉"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95afe3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Goulard's extract, subacetate of lead, vinegar of lead"
+        }
+      ],
+      "mobileId": 275644,
+      "phonetic": "えんさく",
+      "word": "鉛酢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

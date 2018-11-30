@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fd1eab0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "青緑色の水の 浦",
+              "mean": "Vịnh nhỏ với làn nước màu xanh lam.",
+              "transcription": "あおりょくしょくのみずのうら"
+            },
+            {
+              "content": "私はその浦までカヌーをこいだ",
+              "mean": "Tôi lái chiếc cano tiến vào vịnh nhỏ",
+              "transcription": "わたしはそのうらまでカヌーをこいだ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái vịnh nhỏ; vịnh nhỏ"
+        }
+      ],
+      "mobileId": 188385,
+      "phonetic": "うら",
+      "synsets": [
+        {
+          "base_form": "浦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "江",
+                "入り江",
+                "潟"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "浦辺",
+                "海岸",
+                "海浜",
+                "海沿い",
+                "湾岸",
+                "海辺",
+                "シーサイド"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "入り江",
+                "潟"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "浦"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc9b687",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người cư trú, sinh sống ven biển (như ngư dân ...)"
+        }
+      ],
+      "mobileId": 16169,
+      "phonetic": "うらじん",
+      "word": "浦人"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdca891c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "indentations ven biển"
+        }
+      ],
+      "mobileId": 16195,
+      "phonetic": "うらきょく",
+      "word": "浦曲"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81732a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cuốn bờ biển (bãi biển)"
+        }
+      ],
+      "mobileId": 34237,
+      "phonetic": "きょくうら",
+      "word": "曲浦"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc8444d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gió thoảng từ biển; gió biển"
+        }
+      ],
+      "mobileId": 16118,
+      "phonetic": "うらふう",
+      "word": "浦風"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0714b18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sea aster (Aster tripolium)"
+        }
+      ],
+      "mobileId": 284591,
+      "phonetic": "うらぎく ウラギク",
+      "word": "浦菊"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04beb7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coastal indentations"
+        }
+      ],
+      "mobileId": 209292,
+      "phonetic": "うらみ うらわ うらま",
+      "word": "浦回"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fd1f83b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "浦波の波があまり高くない",
+              "mean": "sóng biển gần bờ không cao lắm .",
+              "transcription": "うらはのなみがあまりたかくない"
+            }
+          ],
+          "kind": "n",
+          "mean": "sóng bên bờ biển; sóng biển gần bờ"
+        }
+      ],
+      "mobileId": 188386,
+      "phonetic": "うらなみ",
+      "related_words": {
+        "word": [
+          "波",
+          "浦"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "浦波",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "波"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "浦波"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778424c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Papuan black snapper (Lutjanus goldiei)"
+        }
+      ],
+      "mobileId": 268743,
+      "phonetic": "うらうちふえだい ウラウチフエダイ",
+      "word": "浦内笛鯛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

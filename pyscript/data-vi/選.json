@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9592eb4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "sự chọn lọc; sự lựa chọn; sự biên soạn; soạn thảo"
+        }
+      ],
+      "mobileId": 60781,
+      "phonetic": "せん",
+      "word": "選"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685ac20e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf, n",
+          "mean": "một trăm thứ tốt nhất được chọn"
+        }
+      ],
+      "mobileId": 2900,
+      "phonetic": "ひゃくせん",
+      "word": "百選"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778f1c11",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wind winnowing"
+        }
+      ],
+      "mobileId": 269097,
+      "phonetic": "ふうせん",
+      "word": "風選"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c021c374",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vt",
+          "mean": "to choose, to take, to select, to pick out"
+        }
+      ],
+      "mobileId": 190235,
+      "phonetic": "せんする ぜんする",
+      "word": "選する"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdaeef2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhặt và việc chọn"
+        }
+      ],
+      "mobileId": 74401,
+      "phonetic": "せんとり",
+      "word": "選取り"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e58a68c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chỉ định đế quốc"
+        }
+      ],
+      "mobileId": 113872,
+      "phonetic": "みことのりせん",
+      "word": "勅選"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1d5ff9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền bầu cử phổ thông ."
+        }
+      ],
+      "mobileId": 185449,
+      "phonetic": "ふせん",
+      "related_words": {
+        "word": [
+          "普"
+        ]
+      },
+      "word": "普選"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a58fb97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "selecting an auspicious date by looking at the astrological information on the calendar, date selected in such a manner"
+        }
+      ],
+      "mobileId": 226252,
+      "phonetic": "せんじつ",
+      "word": "選日"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd3f4375",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chọn lọc (của) những kiệt tác"
+        }
+      ],
+      "mobileId": 70810,
+      "phonetic": "めいさくせん",
+      "word": "名作選"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3cd2fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự được bầu chọn ba lần"
+        }
+      ],
+      "mobileId": 147668,
+      "phonetic": "さんせん",
+      "related_words": {
+        "word": [
+          "三"
+        ]
+      },
+      "word": "三選"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

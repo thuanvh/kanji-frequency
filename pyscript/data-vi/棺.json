@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939bb758",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hộp chì đựng chất phóng xạ; hộp tráp nhỏ"
+        }
+      ],
+      "mobileId": 22867,
+      "phonetic": "かん",
+      "word": "棺"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f3e158",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "burial urn (often two-storey), funerary urn"
+        }
+      ],
+      "mobileId": 264060,
+      "phonetic": "かめかん",
+      "word": "甕棺"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b3aeb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "để đặt bên trong một hộp chì đựng chất phóng xạ"
+        }
+      ],
+      "mobileId": 23608,
+      "phonetic": "かんにおさめる",
+      "word": "棺に納める"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b9e0de",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đóng nắp quan tài"
+        }
+      ],
+      "mobileId": 23811,
+      "phonetic": "",
+      "word": "棺を掩う"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04cece9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5u",
+          "mean": "to cover a coffin, to die"
+        }
+      ],
+      "mobileId": 209318,
+      "phonetic": "かんをおおう",
+      "word": "棺を覆う"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f6564f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "liệm ."
+        }
+      ],
+      "mobileId": 186657,
+      "phonetic": "ひつぎにいれる",
+      "word": "棺に入れる"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770c05e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "a person's worth is assessed only when their coffin is sealed"
+        }
+      ],
+      "mobileId": 264837,
+      "phonetic": "かんをおおいてことさだまる",
+      "word": "棺を蓋いて事定まる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

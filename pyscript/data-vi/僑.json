@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e801f985",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tạm thời về(ở) nhà"
+        }
+      ],
+      "mobileId": 33546,
+      "phonetic": "",
+      "word": "僑"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e65f18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "overseas Japanese merchant"
+        }
+      ],
+      "mobileId": 271945,
+      "phonetic": "わきょう",
+      "word": "和僑"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e66c03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "association of overseas Japanese merchants"
+        }
+      ],
+      "mobileId": 271946,
+      "phonetic": "わきょうかい",
+      "word": "和僑会"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

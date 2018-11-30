@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8ba702c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "bước xuống diễn đàn, rời khỏi diễn đàn, rời khỏi (bước xuống) bục"
+        }
+      ],
+      "mobileId": 39463,
+      "opposite_word": [
+        "登壇"
+      ],
+      "phonetic": "くだだん",
+      "word": "降壇"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9085298",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "advent, descent (of a god)"
+        }
+      ],
+      "mobileId": 273029,
+      "phonetic": "らいごう らいこう",
+      "word": "来降"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92c2a0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "diving"
+        }
+      ],
+      "mobileId": 274183,
+      "phonetic": "せんこう",
+      "word": "潜降"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8adc33f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự giảm bên trong thanh toán"
+        }
+      ],
+      "mobileId": 39044,
+      "opposite_word": [
+        "昇給"
+      ],
+      "phonetic": "くだきゅう",
+      "related_words": {
+        "word": [
+          "給"
+        ]
+      },
+      "word": "降給"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9aecd03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "going home from kindergarten, coming home from kindergarten"
+        }
+      ],
+      "mobileId": 278297,
+      "phonetic": "こうえん",
+      "word": "降園"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08224c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "downgrading, demotion, degradation, lowering of position (or rank, etc.)"
+        }
+      ],
+      "mobileId": 285101,
+      "opposite_word": [
+        "昇級"
+      ],
+      "phonetic": "こうきゅう",
+      "word": "降級"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8be2594",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "sự giáng cấp, sự giáng chức, sự hạ tầng công tác; sự bị giáng cấp, sự bị giáng chức, sự bị hạ tầng công tác, sự cho xuống lớp; sự bị cho xuống lớp"
+        }
+      ],
+      "mobileId": 39583,
+      "phonetic": "くだとう",
+      "word": "降等"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5704ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "the gods watching over humans from the heavens"
+        }
+      ],
+      "mobileId": 226195,
+      "phonetic": "こうかん",
+      "word": "降鑒"
+    },
+    {
+      "_id": "432518852de0a80625d585a98211bb54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "swimming downstream (to the sea)"
+        }
+      ],
+      "mobileId": 232210,
+      "phonetic": "こうかい",
+      "word": "降海"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7d75c1e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "降神術の集会",
+              "mean": "Cuộc mitting của thuyết duy linh (thuyết thông linh)",
+              "transcription": "くだかみじゅつのしゅうかい"
+            },
+            {
+              "content": "降神術",
+              "mean": "Thuyết duy linh (thuyết thông linh) .",
+              "transcription": "くだかみじゅつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Thuyết duy linh; thuyết thông linh"
+        }
+      ],
+      "mobileId": 110312,
+      "phonetic": "こうしん",
+      "word": "降神"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

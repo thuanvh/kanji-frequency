@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a73b4f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phala (attained state, result)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "enlightenment (as the fruits of one's Buddhist practice)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "fruit"
+        },
+        {
+          "examples": null,
+          "kind": "ctr",
+          "mean": "counter for pieces of fruit"
+        }
+      ],
+      "mobileId": 227095,
+      "opposite_word": [
+        "因"
+      ],
+      "phonetic": "か",
+      "word": "果"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19360e170",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sống bằng hoa quả"
+        }
+      ],
+      "mobileId": 20994,
+      "phonetic": "はてしょく",
+      "related_words": {
+        "word": [
+          "食"
+        ]
+      },
+      "word": "果食"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939d23a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trái cây khô; trái cây sấy khô"
+        }
+      ],
+      "mobileId": 22910,
+      "phonetic": "いぬいはて",
+      "related_words": {
+        "word": [
+          "乾"
+        ]
+      },
+      "word": "乾果"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193af0286",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trái cây khô"
+        }
+      ],
+      "mobileId": 23464,
+      "phonetic": "かんそうはて",
+      "related_words": {
+        "word": [
+          "乾燥",
+          "乾"
+        ]
+      },
+      "word": "乾燥果"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5dbc20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "true fruit (i.e. one that forms from the ovary only)"
+        }
+      ],
+      "mobileId": 226402,
+      "phonetic": "しんか",
+      "word": "真果"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8884f4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "hạt dẻ"
+        }
+      ],
+      "mobileId": 37856,
+      "phonetic": "けんはて",
+      "synsets": [
+        {
+          "base_form": "堅果",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "実",
+                "ナッツ",
+                "木の実",
+                "木ノ実"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "堅果"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02e30af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "simple fruit"
+        }
+      ],
+      "mobileId": 282425,
+      "phonetic": "たんか",
+      "word": "単果"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3c04ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kết quả xấu; (phật giáo) ác quả"
+        }
+      ],
+      "mobileId": 11714,
+      "opposite_word": [
+        "善果"
+      ],
+      "phonetic": "あくはて",
+      "related_words": {
+        "word": [
+          "悪"
+        ]
+      },
+      "word": "悪果"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5dcc12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dehiscent fruit (fruit that opens when ripe, i.e. peas)"
+        }
+      ],
+      "mobileId": 226404,
+      "phonetic": "れっか",
+      "word": "裂果"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02df88b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hesperidium"
+        }
+      ],
+      "mobileId": 282418,
+      "phonetic": "かんか",
+      "word": "柑果"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

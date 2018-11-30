@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95ed653",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lilac (colour), mauve, light purple"
+        }
+      ],
+      "mobileId": 259350,
+      "phonetic": "たんししょく",
+      "word": "淡紫色"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e18a017",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "tái nhợt nhuốm vàng; ánh sáng nhuốm vàng"
+        }
+      ],
+      "mobileId": 111815,
+      "phonetic": "あわきいろ",
+      "related_words": {
+        "word": [
+          "黄色",
+          "色",
+          "黄"
+        ]
+      },
+      "word": "淡黄色"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1909b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu nâu nhạt"
+        }
+      ],
+      "mobileId": 111827,
+      "phonetic": "あわかっしょく",
+      "related_words": {
+        "word": [
+          "色",
+          "褐色"
+        ]
+      },
+      "word": "淡褐色"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e2295d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "màu xanh lục nhẹ"
+        }
+      ],
+      "mobileId": 112136,
+      "phonetic": "あわりょくしょく",
+      "word": "淡緑色"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e32aeee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "light blue, ice blue, sky blue, powder blue"
+        }
+      ],
+      "mobileId": 249658,
+      "phonetic": "たんせいしょく",
+      "word": "淡青色"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fe09bb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "màu hồng ."
+        }
+      ],
+      "mobileId": 188627,
+      "phonetic": "たんせきしょく",
+      "word": "淡赤色"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f21ae1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "not letting oneself puffed up by one's success, maintaining a serene state of mind when one has achieved a great success"
+        }
+      ],
+      "mobileId": 214674,
+      "phonetic": "とくいたんぜん",
+      "word": "得意淡然"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fe04909",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhổ đờm"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ói ."
+        }
+      ],
+      "mobileId": 188622,
+      "phonetic": "たんをはく",
+      "word": "淡を吐く"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

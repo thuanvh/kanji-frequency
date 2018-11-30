@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a734e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con nhím ."
+        }
+      ],
+      "mobileId": 32034,
+      "phonetic": "はりねずみ",
+      "synsets": [
+        {
+          "base_form": "蝟",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "針鼠"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蝟"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

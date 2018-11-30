@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c027b289",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2b-k, vi",
+          "mean": "to apologize, to apologise"
+        }
+      ],
+      "mobileId": 190439,
+      "phonetic": "わぶ",
+      "word": "詫ぶ"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be010f7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xin lỗi, tạ lỗi"
+        }
+      ],
+      "mobileId": 89329,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "詫る",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "謝る",
+                "詫びる",
+                "謝する"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "詫る"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

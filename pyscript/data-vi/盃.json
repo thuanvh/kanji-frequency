@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10749a3ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cúp thưởng của Thiên hoàng ."
+        }
+      ],
+      "mobileId": 53049,
+      "phonetic": "てんぱい",
+      "related_words": {
+        "word": [
+          "天"
+        ]
+      },
+      "word": "天盃"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd156601",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "những tách nước chia tay"
+        }
+      ],
+      "mobileId": 69481,
+      "phonetic": "みずさかずき",
+      "word": "水盃"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cd8ede",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pure double chow, winning hand containing two identical chows (i.e. same numbers and same suit)"
+        }
+      ],
+      "mobileId": 279328,
+      "phonetic": "イーペー",
+      "word": "一盃"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95224d74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nướng, sự sưởi ấm, sự chuốc rượu mừng, sự nâng cốc chúc mừng"
+        }
+      ],
+      "mobileId": 57199,
+      "phonetic": "ことぶきさかずき",
+      "word": "寿盃"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f5106f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cúp lớn"
+        }
+      ],
+      "mobileId": 63943,
+      "phonetic": "だいさかずき",
+      "word": "大盃"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8572d35",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một tổ (của) những cúp mục đích"
+        }
+      ],
+      "mobileId": 36297,
+      "phonetic": "くみさかずき",
+      "word": "組み盃"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b4f8a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nâng cốc (đồ uống) (lit: làm khô kính(cốc))"
+        }
+      ],
+      "mobileId": 23652,
+      "phonetic": "いぬいさかずき",
+      "related_words": {
+        "word": [
+          "乾"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "乾盃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "トースト",
+                "祝杯",
+                "乾杯"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "乾盃"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cd8735",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pure double chow, winning hand containing two identical chows (i.e. same numbers and same suit)"
+        }
+      ],
+      "mobileId": 279327,
+      "phonetic": "イーペーコー",
+      "word": "一盃口"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

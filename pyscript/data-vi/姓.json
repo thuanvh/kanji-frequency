@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10761ae3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "họ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính ."
+        }
+      ],
+      "mobileId": 53495,
+      "opposite_word": [
+        "育ち"
+      ],
+      "phonetic": "せい",
+      "related_words": {
+        "word": [
+          "姓名",
+          "旧姓",
+          "姓氏",
+          "百姓",
+          "同姓",
+          "改姓"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "姓",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "氏",
+                "名字",
+                "苗字"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "姓"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10729aba4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "họ mẹ; họ đằng ngoại; họ đằng nhà ngoại"
+        }
+      ],
+      "mobileId": 52540,
+      "phonetic": "がいせい",
+      "word": "外姓"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822857be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eight hereditary titles (designated by Emperor Tenmu in 684 CE: Mahito, Asomi, Sukune, Imiki, Michinoshi, Omi, Muraji, Inagi)"
+        }
+      ],
+      "mobileId": 232906,
+      "phonetic": "はっせい",
+      "word": "八姓"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e896e552",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người (của) sự sinh tầm thường"
+        }
+      ],
+      "mobileId": 38332,
+      "phonetic": "しもせい",
+      "related_words": {
+        "word": [
+          "姓",
+          "下"
+        ]
+      },
+      "word": "下姓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7724e19c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "low class samurai, who guarded the shogun on outings (Edo period)"
+        }
+      ],
+      "mobileId": 265655,
+      "phonetic": "ちゅうごしょう",
+      "word": "中小姓"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dff0d47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "former surname, original surname"
+        }
+      ],
+      "mobileId": 223369,
+      "phonetic": "げんせい",
+      "word": "元姓"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9566dd4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "để giả thiết một họ mới"
+        }
+      ],
+      "mobileId": 59380,
+      "phonetic": "せいがかわる",
+      "word": "姓が変わる"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822848bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eight hereditary titles (designated by Emperor Tenmu in 684 CE: Mahito, Asomi, Sukune, Imiki, Michinoshi, Omi, Muraji, Inagi)"
+        }
+      ],
+      "mobileId": 232905,
+      "phonetic": "やくさのかばね はっしきのかばね",
+      "word": "八色の姓"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

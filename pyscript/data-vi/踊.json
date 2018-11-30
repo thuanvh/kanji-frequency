@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd9c8c49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "nhảy qua với niềm vui; nhảy quanh"
+        }
+      ],
+      "mobileId": 73789,
+      "phonetic": "おどりおど",
+      "word": "踊躍"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771dcd1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional Japanese dance"
+        }
+      ],
+      "mobileId": 265425,
+      "phonetic": "にほんおどり",
+      "word": "日本踊"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd292099",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người nhảy"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "folk song"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "popular song"
+        }
+      ],
+      "mobileId": 70116,
+      "phonetic": "みんおどり",
+      "word": "民踊"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19310d420",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự lặp lại (của) đặc tính trước đây"
+        }
+      ],
+      "mobileId": 18456,
+      "phonetic": "おどりじ",
+      "word": "踊字"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770752e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dancing on a street corner"
+        }
+      ],
+      "mobileId": 264694,
+      "phonetic": "つじおどり",
+      "word": "辻踊"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

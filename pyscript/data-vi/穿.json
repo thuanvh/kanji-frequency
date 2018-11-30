@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c008334f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vt",
+          "mean": "to dig up, to peck at, to pick (nose, teeth, etc.)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to pry into, to examine, to dredge up"
+        }
+      ],
+      "mobileId": 189392,
+      "phonetic": "ほじる ほじくる",
+      "word": "穿る"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a1b8f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự thâm nhập"
+        }
+      ],
+      "mobileId": 61256,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "通"
+        ]
+      },
+      "word": "穿通"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6b0ace",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quần đùi, quần lót (quần ngắn của đàn ông, con trai)"
+        }
+      ],
+      "mobileId": 149129,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "下"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "下穿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "下穿き",
+                "パンツ",
+                "猿股"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "肌着",
+                "下穿き",
+                "襯衣",
+                "襦袢",
+                "下着"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "下穿"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0bcce81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "constant dripping wears away the stone, little strokes fell great oaks, limited strength, when persistently applied, can accomplish great feats"
+        }
+      ],
+      "mobileId": 212919,
+      "phonetic": "てんてきせんせき",
+      "word": "点滴穿石"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9630205",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese pangolin (Manis pentadactyla)"
+        }
+      ],
+      "mobileId": 275890,
+      "phonetic": "みみせんざんこう ミミセンザンコウ",
+      "word": "耳穿山甲"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00f5c3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "to pick something out (nose, hole, etc.)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to pry (into people's private affairs)"
+        }
+      ],
+      "mobileId": 189627,
+      "phonetic": "ほじくりだす",
+      "word": "穿り出す"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959ac4e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con tê tê"
+        }
+      ],
+      "mobileId": 61033,
+      "phonetic": "せんざん こう",
+      "word": "穿山甲"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3e5a71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r",
+          "mean": "to dig up, to peck at"
+        }
+      ],
+      "mobileId": 217092,
+      "phonetic": "かっぽじる",
+      "word": "掻っ穿る"
+    },
+    {
+      "_id": "edf7f33f53832e93b36c90d5fd0ea68f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "ngoáy mũi"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "はなをほじる",
+      "word": "鼻を穿る"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00f613c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "to dig up, to expose, to disclose"
+        }
+      ],
+      "mobileId": 189628,
+      "phonetic": "ほじくりかえす",
+      "word": "穿り返す"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

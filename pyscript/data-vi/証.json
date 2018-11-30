@@ -1,0 +1,255 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027e881ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Giấy chứng nhận; bằng; bằng chứng ."
+        }
+      ],
+      "mobileId": 33069,
+      "phonetic": "あかし",
+      "related_words": {
+        "word": [
+          "認証",
+          "検証",
+          "保証",
+          "有価証券",
+          "証券",
+          "品質保証",
+          "証明書",
+          "証明",
+          "投資有価証券",
+          "保証金"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "証",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "釈明",
+                "弁疏",
+                "弁明",
+                "弁解"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "裏書",
+                "裏書き",
+                "証拠",
+                "実証",
+                "弁証",
+                "裏付",
+                "裏付け",
+                "証明"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "証拠"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "拠所",
+                "理由",
+                "証拠",
+                "根拠",
+                "裏付",
+                "由",
+                "裏付け",
+                "証明"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "印",
+                "証拠",
+                "裏付",
+                "裏付け",
+                "証明"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "証"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03996c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quality assurance, QA"
+        }
+      ],
+      "mobileId": 282812,
+      "phonetic": "ひんしょう",
+      "word": "品証"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d95b881",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "会員証を持った",
+              "mean": "Đã có thẻ hội viên",
+              "transcription": "かいいんしょうをもった"
+            },
+            {
+              "content": "会員証保有者",
+              "mean": "Người mang thẻ hội viên",
+              "transcription": "かいいんしょうほゆうしゃ"
+            },
+            {
+              "content": "こんにちは。まだ会員証を持っていないので、作れますか？",
+              "mean": "Xin chào. Vì tôi vẫn chưa có thẻ hội viên nên tôi có thể làm một cái được không? .",
+              "transcription": "こんにちは。まだかいいんしょうをもっていないので、つくれますか？"
+            }
+          ],
+          "kind": "n",
+          "mean": "Chứng chỉ hội viên"
+        }
+      ],
+      "mobileId": 144008,
+      "phonetic": "かいいんしょう",
+      "related_words": {
+        "word": [
+          "会員",
+          "会",
+          "証",
+          "員"
+        ]
+      },
+      "word": "会員証"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de556e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bằng chứng, chứng cớ"
+        }
+      ],
+      "mobileId": 153070,
+      "phonetic": "しんしょう",
+      "word": "信証"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cf7092",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chứng chỉ (của) trông nom"
+        }
+      ],
+      "mobileId": 6615,
+      "phonetic": "ほかんしょう",
+      "related_words": {
+        "word": [
+          "保管",
+          "証",
+          "管",
+          "保"
+        ]
+      },
+      "word": "保管証"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81471f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(một) cho phép; giấy phép"
+        }
+      ],
+      "mobileId": 34153,
+      "phonetic": "きょかしょう",
+      "related_words": {
+        "word": [
+          "許可",
+          "可",
+          "証"
+        ]
+      },
+      "word": "許可証"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0977589",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "additional cover, more margin"
+        }
+      ],
+      "mobileId": 285784,
+      "phonetic": "おいしょう",
+      "word": "追証"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824c6b0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(proof of) confirmation"
+        }
+      ],
+      "mobileId": 234046,
+      "phonetic": "かくにんしょう",
+      "word": "確認証"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7790e934",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "giấy thông hành"
+        }
+      ],
+      "mobileId": 269158,
+      "phonetic": "つうこうしょう",
+      "related_words": {
+        "word": [
+          "行",
+          "通",
+          "証"
+        ]
+      },
+      "word": "通行証"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3748fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thẻ chứng nhận bảo quản đồ đạc"
+        }
+      ],
+      "mobileId": 11561,
+      "phonetic": "あずかりしょう",
+      "word": "預かり証"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

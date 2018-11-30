@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7eed7b0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "雨を降らす雲",
+              "mean": "mây làm mưa rơi (mây báo mưa)",
+              "transcription": "あめをふらすくも"
+            },
+            {
+              "content": "〜みたいな雲",
+              "mean": "mây trông giống như là ~",
+              "transcription": "〜みたいなくも"
+            },
+            {
+              "content": "〜の上空を覆う汚染雲",
+              "mean": "mây bị ô nhiễm bao trùm bầu trời",
+              "transcription": "〜のじょうくうをおおうおせんくも"
+            }
+          ],
+          "kind": "n",
+          "mean": "mây"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mây đen ."
+        }
+      ],
+      "mobileId": 110753,
+      "phonetic": "くも",
+      "related_words": {
+        "word": [
+          "雲雀",
+          "星雲",
+          "雲丹",
+          "入道雲",
+          "積乱雲",
+          "雨雲",
+          "雲海",
+          "雲母",
+          "東雲",
+          "風雲"
+        ]
+      },
+      "word": "雲"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8323cbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hoài nghi, sự nghi ngờ"
+        }
+      ],
+      "mobileId": 35101,
+      "phonetic": "うたぐくも",
+      "related_words": {
+        "word": [
+          "雲",
+          "疑"
+        ]
+      },
+      "word": "疑雲"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86b0d8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảnh mây"
+        }
+      ],
+      "mobileId": 36935,
+      "phonetic": "けいくも",
+      "word": "景雲"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0488a5c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "đám mây nấm (từ vụ nổ hạt nhân, v.v.)"
+        }
+      ],
+      "mobileId": 209167,
+      "phonetic": "キノコぐも きのこぐも",
+      "word": "キノコ雲"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae4abdd5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lenticularis"
+        }
+      ],
+      "mobileId": 129732,
+      "phonetic": "レンズくも",
+      "word": "レンズ雲"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7da46679",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đám mây xà thấp ."
+        }
+      ],
+      "mobileId": 144223,
+      "phonetic": "ていうん",
+      "related_words": {
+        "word": [
+          "雲"
+        ]
+      },
+      "word": "低雲"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77cbc094",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "auspicious cloud"
+        }
+      ],
+      "mobileId": 271051,
+      "phonetic": "しょううん",
+      "word": "祥雲"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cf3e34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clouds in midwinter, cold winter clouds"
+        }
+      ],
+      "mobileId": 262904,
+      "phonetic": "かんうん",
+      "word": "寒雲"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e6d5e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cirrus cloud"
+        }
+      ],
+      "mobileId": 263638,
+      "phonetic": "すじぐも",
+      "word": "すじ雲"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcdf3e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đám mây quyền tích"
+        }
+      ],
+      "mobileId": 16290,
+      "phonetic": "うろこくも",
+      "word": "鱗雲"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

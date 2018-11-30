@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9901bdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stillness"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quiet, peacefulness"
+        }
+      ],
+      "mobileId": 277336,
+      "opposite_word": [
+        "動"
+      ],
+      "phonetic": "せい",
+      "word": "静"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9532e91b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tiêm vào tĩnh mạch"
+        }
+      ],
+      "mobileId": 57712,
+      "phonetic": "せいちゅう",
+      "related_words": {
+        "word": [
+          "注"
+        ]
+      },
+      "word": "静注"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef992560d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "static stiffness, static spring rate"
+        }
+      ],
+      "mobileId": 277404,
+      "phonetic": "せいばね",
+      "word": "静ばね"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d6c6ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "low volume, silent"
+        }
+      ],
+      "mobileId": 279640,
+      "phonetic": "せいおん",
+      "word": "静音"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2a3ead",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dead weight, dead load, static load"
+        }
+      ],
+      "mobileId": 224780,
+      "phonetic": "せいかじゅう",
+      "word": "静荷重"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9572a7ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "áp suất thuỷ tĩnh"
+        }
+      ],
+      "mobileId": 59745,
+      "phonetic": "せいすいあつ",
+      "word": "静水圧"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df24fae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "standing"
+        },
+        {
+          "examples": null,
+          "kind": "vs",
+          "mean": "to stand, to leave (e.g. for curd to form, fermentation to occur, etc.)"
+        }
+      ],
+      "mobileId": 222959,
+      "phonetic": "せいち",
+      "word": "静置"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c1329e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "profoundly quiet, serene"
+        }
+      ],
+      "mobileId": 262452,
+      "phonetic": "ゆうせい",
+      "word": "幽静"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0612e88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "static characteristics"
+        }
+      ],
+      "mobileId": 284082,
+      "phonetic": "せいとくせい",
+      "word": "静特性"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0724051",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "static pressure"
+        }
+      ],
+      "mobileId": 284623,
+      "phonetic": "せいあつ",
+      "word": "静圧"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d48622c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bát sứ; bát cơm đầy thức ăn ."
+        }
+      ],
+      "mobileId": 142674,
+      "phonetic": "どんぶり",
+      "related_words": {
+        "word": [
+          "親子丼",
+          "カツ丼",
+          "天丼",
+          "丼物"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "丼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボール",
+                "碗",
+                "鉢",
+                "椀",
+                "ボウル",
+                "丼鉢"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "丼"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc34880",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tô cơm với lương nướng"
+        }
+      ],
+      "mobileId": 15975,
+      "phonetic": "うなぎどんぶり",
+      "related_words": {
+        "word": [
+          "丼",
+          "鰻"
+        ]
+      },
+      "word": "鰻丼"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0183e22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hot rice served with tenkasu and tempura dipping sauce on top"
+        }
+      ],
+      "mobileId": 281735,
+      "phonetic": "たぬきどん",
+      "word": "たぬき丼"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931b0f7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gà và trứng trên (về) gạo; donburi cha mẹ và trẻ em"
+        }
+      ],
+      "mobileId": 18789,
+      "phonetic": "おやこどんぶり",
+      "related_words": {
+        "word": [
+          "子",
+          "親",
+          "親子",
+          "丼"
+        ]
+      },
+      "word": "親子丼"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d68b95b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rice covered with pork and vegetables"
+        }
+      ],
+      "mobileId": 218464,
+      "phonetic": "ぶたどん とんどん",
+      "word": "豚丼"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8395144",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "món ăn gồm cơm với thịt bò"
+        }
+      ],
+      "mobileId": 35329,
+      "phonetic": "うしどんぶり",
+      "related_words": {
+        "word": [
+          "牛",
+          "丼"
+        ]
+      },
+      "word": "牛丼"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecbff07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chơi bóng"
+        }
+      ],
+      "mobileId": 117550,
+      "phonetic": "どんぶりはち",
+      "related_words": {
+        "word": [
+          "丼",
+          "鉢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "丼鉢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボール",
+                "碗",
+                "丼",
+                "鉢",
+                "椀",
+                "ボウル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "丼鉢"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e8077c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "món cơm trộn dấm và cá sống"
+        }
+      ],
+      "mobileId": 115124,
+      "phonetic": "てっかどんぶり",
+      "related_words": {
+        "word": [
+          "火",
+          "鉄",
+          "丼"
+        ]
+      },
+      "word": "鉄火丼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c775b5cdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oyakodon-like dish made with something other than chicken, bowl of rice with cooked meat (esp. beef or pork) and eggs on top"
+        }
+      ],
+      "mobileId": 267400,
+      "phonetic": "たにんどん たにんどんぶり",
+      "word": "他人丼"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e145d6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bon nhanh (của) gạo nghiện rượu với những trứng nhọt"
+        }
+      ],
+      "mobileId": 111687,
+      "phonetic": "たまごどんぶり",
+      "word": "玉子丼"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

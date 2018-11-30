@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd72e859",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người làm thuê chính phủ"
+        }
+      ],
+      "mobileId": 72411,
+      "phonetic": "やとい",
+      "word": "雇"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2bf395",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "end of employment, end of employment contract"
+        }
+      ],
+      "mobileId": 249443,
+      "phonetic": "やといどめ",
+      "word": "雇止め"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

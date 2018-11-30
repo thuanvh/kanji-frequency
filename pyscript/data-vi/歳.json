@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f928849",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "１０歳の男の子",
+              "mean": "Một cậu bé 10 tuổi",
+              "transcription": "いちぜろさいのおとこのこ"
+            },
+            {
+              "content": "お兄さんは何歳ですか？",
+              "mean": "Anh trai cậu bao nhiêu tuổi vậy ?",
+              "transcription": "おにいさんはなんさいですか？"
+            }
+          ],
+          "kind": "suf",
+          "mean": "tuổi"
+        }
+      ],
+      "mobileId": 187301,
+      "phonetic": "さい",
+      "word": "歳"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09482ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "decade (of age), the ...ties"
+        }
+      ],
+      "mobileId": 211608,
+      "phonetic": "さいだい",
+      "word": "歳代"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77012d85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "what age?, how old?"
+        }
+      ],
+      "mobileId": 264494,
+      "phonetic": "いくさい",
+      "word": "幾歳"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b77511",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Saiha, one of the eight gods of the koyomi"
+        }
+      ],
+      "mobileId": 262142,
+      "phonetic": "さいは",
+      "word": "歳破"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8075cef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vụ mùa thất thu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mutual aid"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "joint sponsorship"
+        }
+      ],
+      "mobileId": 33729,
+      "phonetic": "きょうとし",
+      "word": "凶歳"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d147ddb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sao mộc"
+        }
+      ],
+      "mobileId": 146395,
+      "phonetic": "としぼし",
+      "word": "歳星"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af2937b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(phenomenon of) precession of the equinoxes"
+        }
+      ],
+      "mobileId": 231198,
+      "phonetic": "さいさ",
+      "related_words": {
+        "word": [
+          "差"
+        ]
+      },
+      "word": "歳差"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c027522b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "under ... years of age, less than ... years old"
+        }
+      ],
+      "mobileId": 208111,
+      "phonetic": "さいみまん",
+      "word": "歳未満"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900edc9695",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bao nhiêu tuổi?"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "what age?"
+        }
+      ],
+      "mobileId": 118054,
+      "phonetic": "なんさい",
+      "related_words": {
+        "word": [
+          "何"
+        ]
+      },
+      "word": "何歳"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a8d1236",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trăm tuổi ."
+        }
+      ],
+      "mobileId": 172626,
+      "phonetic": "ひゃくさい",
+      "word": "百歳"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

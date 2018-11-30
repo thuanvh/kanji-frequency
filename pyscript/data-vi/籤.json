@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afe1e5f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "くじで 100 万円当たった.",
+              "mean": "Trúng xổ số trị giá 1triệu yên",
+              "transcription": "くじで100まんえんあたった."
+            },
+            {
+              "content": "くじで行く人を決めよう.",
+              "mean": "Hãy quyết định người nào đi bằng rút thăm .",
+              "transcription": "くじでいくひとをきめよう."
+            }
+          ],
+          "kind": "n",
+          "mean": "xổ số"
+        }
+      ],
+      "mobileId": 174479,
+      "phonetic": "くじ",
+      "word": "籤"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a99b9f8f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Cá độ bóng đá, xổ số bóng đá"
+        }
+      ],
+      "mobileId": 261259,
+      "phonetic": "サッカーくじ",
+      "word": "サッカー籤"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f36ae6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thin strip of bamboo"
+        }
+      ],
+      "mobileId": 280544,
+      "phonetic": "たけひご",
+      "word": "竹籤"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afe3752",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "việc chơi xổ số; bốc thăm ."
+        }
+      ],
+      "mobileId": 174481,
+      "phonetic": "くじびき",
+      "related_words": {
+        "word": [
+          "籤"
+        ]
+      },
+      "word": "籤引き"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3b6516",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vé số trúng thưởng"
+        }
+      ],
+      "mobileId": 11690,
+      "phonetic": "あたりくじ",
+      "word": "当たり籤"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77254df0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fortune slip (usu. bought at a shrine)"
+        }
+      ],
+      "mobileId": 265670,
+      "phonetic": "みくじ",
+      "word": "神籤"
+    },
+    {
+      "_id": "332167954327f6e41c4a167bfec32793",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "おみくじ入りクッキー",
+              "mean": "bánh thánh (bánh may mắn)",
+              "transcription": "おみくじいりクッキー"
+            },
+            {
+              "content": "おみくじを引く",
+              "mean": "rút một thẻ bói .",
+              "transcription": "おみくじをひく"
+            }
+          ],
+          "kind": "n",
+          "mean": "thẻ bói"
+        }
+      ],
+      "mobileId": 51207,
+      "phonetic": "おみくじ",
+      "word": "お神籤"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931571e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viết lời tiên tri"
+        }
+      ],
+      "mobileId": 18608,
+      "phonetic": "ごかみくじ",
+      "related_words": {
+        "word": [
+          "神",
+          "御",
+          "籤"
+        ]
+      },
+      "word": "御神籤"
+    },
+    {
+      "_id": "332167954327f6e41c4a167bfe988bdb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "やった〜！初詣のおみくじ大吉！今年はいいことあるゾ〜！",
+              "mean": "may ơi là may, thẻ tre xem bói phán rằng tôi may mắn cực kì. Năm mới này mọi điều tốt đẹp nhất sẽ đến với tôi",
+              "transcription": "やった〜 ！はつもうでのおみくじだいきち！ことしはいいことあるゾ 〜 ！"
+            }
+          ],
+          "kind": "n",
+          "mean": "thẻ tre để xem bói"
+        }
+      ],
+      "mobileId": 50773,
+      "phonetic": "おみくじ",
+      "word": "おみ籤"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afe37ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xổ số ."
+        }
+      ],
+      "mobileId": 174482,
+      "phonetic": "くじびきをする",
+      "word": "籤引きをする"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

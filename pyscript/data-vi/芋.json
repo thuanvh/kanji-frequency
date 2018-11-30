@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280277f4075",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ホカホカの芋",
+              "mean": "Khoai tây ấm nóng",
+              "transcription": "ホカホカのいも"
+            },
+            {
+              "content": "乾燥させた芋",
+              "mean": "Khoai tây sấy khô",
+              "transcription": "かんそうさせたいも"
+            },
+            {
+              "content": "とろろ芋",
+              "mean": "Khoai đã được nạo vỏ .",
+              "transcription": "とろろいも"
+            }
+          ],
+          "kind": "n",
+          "mean": "khoai; khoai tây"
+        }
+      ],
+      "mobileId": 31350,
+      "phonetic": "いも",
+      "related_words": {
+        "word": [
+          "芋虫",
+          "里芋",
+          "山芋",
+          "焼き芋",
+          "じゃが芋",
+          "薩摩芋",
+          "とろろ芋"
+        ]
+      },
+      "word": "芋"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d597f18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Irish Cobbler potato"
+        }
+      ],
+      "mobileId": 217965,
+      "phonetic": "だんしゃくいも",
+      "word": "男爵芋"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9b1794",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "samurai mộc mạc (cục mịch)"
+        }
+      ],
+      "mobileId": 14710,
+      "phonetic": "いもさむらい",
+      "word": "芋侍"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0465684",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jicama (Pachyrhizus erosus), yam bean, Mexican turnip"
+        }
+      ],
+      "mobileId": 283224,
+      "phonetic": "くずいも クズイモ",
+      "word": "葛芋"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02de01e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lesser yam (Dioscorea esculenta)"
+        }
+      ],
+      "mobileId": 282416,
+      "phonetic": "トゲいも トゲイモ",
+      "word": "トゲ芋"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e01e2cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giant elephant ear (species of taro, Colocasia gigantea)"
+        }
+      ],
+      "mobileId": 248061,
+      "phonetic": "はすいも ハスイモ",
+      "word": "蓮芋"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dfbb5b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "candied sweet potato"
+        }
+      ],
+      "mobileId": 223266,
+      "phonetic": "だいがくいも",
+      "word": "大学芋"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c395b5",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Khoai môn,  khoai lang tím"
+        }
+      ],
+      "mobileId": 262535,
+      "phonetic": "むらさきいも ムラサキイモ",
+      "word": "紫芋"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280277f6113",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "芋掘りをする",
+              "mean": "Đào khoai",
+              "transcription": "いもほりをする"
+            },
+            {
+              "content": "今年もまたお芋掘り行くの？",
+              "mean": "năm nay, cậu lại đi đào khoai à?",
+              "transcription": "ことしもまたおいもほりいくの？"
+            },
+            {
+              "content": "〜に芋掘りに行く",
+              "mean": "Đi đến ~ để đào khoai .",
+              "transcription": "〜にいもほりにいく"
+            }
+          ],
+          "kind": "n",
+          "mean": "đào khoai"
+        }
+      ],
+      "mobileId": 31351,
+      "phonetic": "いもほり",
+      "related_words": {
+        "word": [
+          "芋"
+        ]
+      },
+      "word": "芋掘り"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9b534e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẹo bột khoai lang"
+        }
+      ],
+      "mobileId": 14719,
+      "phonetic": "いもようかん",
+      "word": "芋羊羹"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

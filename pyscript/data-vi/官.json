@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939bcc0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dịch vụ chính phủ; chế độ quan liêu"
+        }
+      ],
+      "mobileId": 22871,
+      "opposite_word": [
+        "民"
+      ],
+      "phonetic": "かん",
+      "word": "官"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a959b160",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bureaucrats entertaining bureaucrats using public funds"
+        }
+      ],
+      "mobileId": 259166,
+      "phonetic": "かんかんせったい",
+      "word": "官官接待"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e805f64f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những người dự hội nghị"
+        }
+      ],
+      "mobileId": 33678,
+      "phonetic": "きょうぎかん",
+      "word": "協議官"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87a1905",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bảo vệ nhà tù"
+        }
+      ],
+      "mobileId": 37423,
+      "phonetic": "けいむかん",
+      "related_words": {
+        "word": [
+          "刑"
+        ]
+      },
+      "word": "刑務官"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68be6b1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người được uỷ quyền, uỷ viên hội đồng, người đại biểu chính quyền trung ương (ở tỉnh, khu...), cao uỷ"
+        }
+      ],
+      "mobileId": 6077,
+      "phonetic": "べんむかん",
+      "related_words": {
+        "word": [
+          "弁"
+        ]
+      },
+      "word": "弁務官"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ca269b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người nói hoặc được chọn để nói"
+        }
+      ],
+      "mobileId": 6452,
+      "phonetic": "ほうどうかん",
+      "related_words": {
+        "word": [
+          "道",
+          "報道",
+          "報"
+        ]
+      },
+      "word": "報道官"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d29cf0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sĩ quan phụ tá, sĩ quan hầu cận"
+        }
+      ],
+      "mobileId": 6723,
+      "phonetic": "ほさかん",
+      "related_words": {
+        "word": [
+          "佐",
+          "補佐"
+        ]
+      },
+      "word": "補佐官"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934083a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "viên chức bên trong hỏi giá"
+        }
+      ],
+      "mobileId": 19977,
+      "phonetic": "かかりかん",
+      "related_words": {
+        "word": [
+          "係",
+          "係り"
+        ]
+      },
+      "word": "係り官"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a3803c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chế độ quan liêu hành chính, nghiệp công chức"
+        }
+      ],
+      "mobileId": 23113,
+      "phonetic": "かんこうり",
+      "word": "官公吏"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b1569a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dưới sự quản lý trực tiếp của chính phủ"
+        }
+      ],
+      "mobileId": 23537,
+      "phonetic": "かんち",
+      "word": "官治"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

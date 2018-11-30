@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e26b98f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "bói toán gậy"
+        },
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "đếm, tính toán"
+        }
+      ],
+      "mobileId": 249272,
+      "phonetic": "さん",
+      "word": "算"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86f5c27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái chặn giấy"
+        }
+      ],
+      "mobileId": 37077,
+      "phonetic": "けさん",
+      "word": "卦算"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94ff5c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "checking (e.g. result of calculation)"
+        }
+      ],
+      "mobileId": 258850,
+      "phonetic": "たしかめざん",
+      "word": "確かめ算"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af8071d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sticks used for counting"
+        }
+      ],
+      "mobileId": 231362,
+      "phonetic": "さんちゅう",
+      "word": "算籌"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda556a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tính cộng; phép cộng; sự cộng lại, sự thêm, phần thêm"
+        }
+      ],
+      "mobileId": 74077,
+      "opposite_word": [
+        "減産"
+      ],
+      "phonetic": "よせさん",
+      "synsets": [
+        {
+          "base_form": "寄せ算",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "プラス",
+                "加法",
+                "加算",
+                "足し算",
+                "加え算"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "寄せ算"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bc69ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "study of calculation (ritsuryo period), the way of calculation"
+        }
+      ],
+      "mobileId": 262302,
+      "phonetic": "さんどう",
+      "word": "算道"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6809f2c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": ""
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự vẽ hình, sự in hình"
+        }
+      ],
+      "mobileId": 320,
+      "phonetic": "やぶさん",
+      "word": "破算"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdca7c47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đoán, người tiên đoán, người bói"
+        }
+      ],
+      "mobileId": 16191,
+      "phonetic": "うらないさん",
+      "word": "占算"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af7985d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "longevity celebration (on one's 40th, 50th, 60th, etc. birthday)"
+        }
+      ],
+      "mobileId": 231349,
+      "phonetic": "さんが",
+      "word": "算賀"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdab7bbe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "có những hình đọc to tiếng bởi người khác; sự tính toán bởi bàn tính"
+        }
+      ],
+      "mobileId": 74289,
+      "phonetic": "よみあげさん",
+      "word": "読み上げ算"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

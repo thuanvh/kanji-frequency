@@ -1,0 +1,310 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f8fe04e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bộ; bước ."
+        }
+      ],
+      "mobileId": 187253,
+      "phonetic": "ほ",
+      "related_words": {
+        "word": [
+          "散歩",
+          "歩く",
+          "横断歩道",
+          "進歩",
+          "徒歩",
+          "歩み",
+          "歩いて",
+          "歩行",
+          "一歩一歩",
+          "歩道"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "歩",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "歩み",
+                "歩行"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "歩み",
+                "散策",
+                "歩行",
+                "散歩"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "歩み",
+                "ステップ",
+                "足取り"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ペース",
+                "歩み",
+                "速度",
+                "速さ",
+                "スピード",
+                "進度"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "歩"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f8fd734",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con tốt (cờ tướng)"
+        }
+      ],
+      "mobileId": 187252,
+      "phonetic": "ふ",
+      "related_words": {
+        "word": [
+          "散歩",
+          "歩く",
+          "横断歩道",
+          "進歩",
+          "徒歩",
+          "歩み",
+          "歩いて",
+          "歩行",
+          "一歩一歩",
+          "歩道"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "歩",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "歩み",
+                "歩行"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "歩み",
+                "散策",
+                "歩行",
+                "散歩"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "歩み",
+                "ステップ",
+                "足取り"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ペース",
+                "歩み",
+                "速度",
+                "速さ",
+                "スピード",
+                "進度"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "歩"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bf7cdd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, n-t",
+          "mean": "từng bước từng bước, từng bước một, dần dần"
+        }
+      ],
+      "mobileId": 6107,
+      "phonetic": "ふいちほ",
+      "word": "歩一歩"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d12a7d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bước một"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từng bước ."
+        }
+      ],
+      "mobileId": 141654,
+      "phonetic": "いっぽいっぽ",
+      "related_words": {
+        "word": [
+          "一",
+          "歩"
+        ]
+      },
+      "word": "一歩一歩"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae7fd54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "canter (horse gait)"
+        }
+      ],
+      "mobileId": 230860,
+      "phonetic": "くほ かけあし",
+      "word": "駈歩"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74224daf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đi bộ chầm chậm; sự tản bộ ."
+        }
+      ],
+      "mobileId": 97949,
+      "phonetic": "じょほ",
+      "related_words": {
+        "word": [
+          "歩"
+        ]
+      },
+      "word": "徐歩"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7ed2bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những đối thủ cầm đồ"
+        }
+      ],
+      "mobileId": 115071,
+      "phonetic": "てきふ",
+      "word": "敵歩"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d129b85",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bước"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bước chân"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼はいつも友達を一歩リードしている。",
+              "mean": "Anh ta luôn muốn hơn bạn bè.",
+              "transcription": "かれはいつもともだちをいちほリードしている。"
+            },
+            {
+              "content": "彼はその点に関しては一歩も譲ろうとしなかった。",
+              "mean": "Anh ta kiên quyết không nhượng bộ dù chỉ một bước về điểm đó.",
+              "transcription": "かれはそのてんにかんしてはいちほもゆずろうとしなかった。"
+            },
+            {
+              "content": "一歩一歩進む",
+              "mean": "Tiến từng bước một.",
+              "transcription": "いちほいちほすすむ"
+            },
+            {
+              "content": "一歩先へ進む",
+              "mean": "Tiến xa hơn được một bước. .",
+              "transcription": "いちほさきへすすむ"
+            }
+          ],
+          "kind": "n-adv, n-t",
+          "mean": "một bước"
+        }
+      ],
+      "mobileId": 141653,
+      "phonetic": "いっぽ",
+      "related_words": {
+        "word": [
+          "一",
+          "歩"
+        ]
+      },
+      "word": "一歩"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdbcaab7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(một) tiền thưởng"
+        }
+      ],
+      "mobileId": 15765,
+      "phonetic": "うちふ",
+      "word": "打ち歩"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d3873fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nhịp chân trung bình (tốc độ) ."
+        }
+      ],
+      "mobileId": 142351,
+      "phonetic": "なみあし",
+      "related_words": {
+        "word": [
+          "並",
+          "歩",
+          "並み"
+        ]
+      },
+      "word": "並み歩"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fff4e4f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "タンザン潟",
+              "mean": "phá Tam giang",
+              "transcription": "タンザンかた"
+            },
+            {
+              "content": "ヴェネツィアとその潟",
+              "mean": "thành phố Venice và phá của nó",
+              "transcription": "ヴェネツィアとそのかた"
+            }
+          ],
+          "kind": "n",
+          "mean": "phá"
+        }
+      ],
+      "mobileId": 189146,
+      "phonetic": "かた",
+      "related_words": {
+        "word": [
+          "干潟"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "潟",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "浦",
+                "江",
+                "入り江"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "浦",
+                "入り江"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "潟"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ebdcd1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "Vịnh Naniwa"
+        }
+      ],
+      "mobileId": 110692,
+      "phonetic": "なにわがた",
+      "word": "難波潟"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be7310f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Camellia sasanqua 'Akasigata' (cultivar of Christmas camellia)"
+        }
+      ],
+      "mobileId": 247221,
+      "phonetic": "あかしがた アカシガタ",
+      "word": "明石潟"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9584549e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(địa lý, ddịa chất) phá"
+        }
+      ],
+      "mobileId": 60301,
+      "phonetic": "かたこ",
+      "word": "潟湖"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027f3c56c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "語／分",
+              "mean": "Từ /phút",
+              "transcription": "かたり／ぶん"
+            },
+            {
+              "content": "語／秒",
+              "mean": "Từ /giây",
+              "transcription": "かたり／びょう"
+            },
+            {
+              "content": "混同しやすい（語）",
+              "mean": "Từ dễ nhầm lẫn",
+              "transcription": "こんどうしやすい（かたり）"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "ngôn ngữ; từ"
+        }
+      ],
+      "mobileId": 33299,
+      "phonetic": "ご",
+      "related_words": {
+        "word": [
+          "英語",
+          "日本語",
+          "言語",
+          "ドイツ語",
+          "国語",
+          "ロシア語",
+          "スペイン語",
+          "物語",
+          "韓国語",
+          "用語"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "語",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "語り手",
+                "ナレーター",
+                "読み手",
+                "語り"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "単語",
+                "言葉",
+                "ワード"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "語"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b77f57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếng Anh giọng Mỹ"
+        }
+      ],
+      "mobileId": 5867,
+      "phonetic": "べいご",
+      "related_words": {
+        "word": [
+          "語",
+          "米"
+        ]
+      },
+      "word": "米語"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7203d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lời hứa danh dự"
+        }
+      ],
+      "mobileId": 13419,
+      "phonetic": "いそうご",
+      "word": "位相語"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680d538f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Từ hợp thành, từ phát sinh (gồm 2 từ tố trở lên hợp thành, phân thành hai loại)"
+        }
+      ],
+      "mobileId": 435,
+      "phonetic": "はせいご",
+      "related_words": {
+        "word": [
+          "生",
+          "語",
+          "派生",
+          "派"
+        ]
+      },
+      "word": "派生語"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a01b91e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Javanese (language)"
+        }
+      ],
+      "mobileId": 223460,
+      "phonetic": "ジャワご",
+      "word": "ジャワ語"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280276f802c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếng mẹ đẻ ."
+        }
+      ],
+      "mobileId": 30983,
+      "opposite_word": [
+        "外国語",
+        "他国語"
+      ],
+      "phonetic": "じこくご",
+      "related_words": {
+        "word": [
+          "国",
+          "語",
+          "国語"
+        ]
+      },
+      "word": "自国語"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a92b86f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Albanian (language)"
+        }
+      ],
+      "mobileId": 228087,
+      "phonetic": "アルバニアご",
+      "related_words": {
+        "word": [
+          "語",
+          "アルバニア"
+        ]
+      },
+      "word": "アルバニア語"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab0366d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hangul language (improper neologism for the Korean language)"
+        }
+      ],
+      "mobileId": 229036,
+      "phonetic": "ハングルご",
+      "word": "ハングル語"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3accb4a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pejorative term, derogatory word, invective"
+        }
+      ],
+      "mobileId": 229971,
+      "phonetic": "けいべつご",
+      "word": "軽蔑語"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193eb3ad6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từ khoá"
+        }
+      ],
+      "mobileId": 25366,
+      "phonetic": "きのうご",
+      "related_words": {
+        "word": [
+          "機能",
+          "語",
+          "機",
+          "能"
+        ]
+      },
+      "word": "機能語"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

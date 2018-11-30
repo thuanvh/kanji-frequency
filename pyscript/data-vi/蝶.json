@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a76d99",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bướm ."
+        }
+      ],
+      "mobileId": 32037,
+      "phonetic": "ちょう",
+      "related_words": {
+        "word": [
+          "蝶々",
+          "蝶番",
+          "蝴蝶",
+          "蝶蝶"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "蝶",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蝴蝶",
+                "蝶蝶",
+                "バタフライ",
+                "蝶々"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蝶"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a7c5f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trai ngọc ."
+        }
+      ],
+      "mobileId": 32045,
+      "phonetic": "ちょうがい",
+      "word": "蝶貝"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0987993",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "skipper butterfly"
+        }
+      ],
+      "mobileId": 211737,
+      "phonetic": "せせりちょう セセリチョウ",
+      "word": "せせり蝶"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a83d252",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eastern pale clouded yellow (butterfly, Colias erate)"
+        }
+      ],
+      "mobileId": 227609,
+      "phonetic": "おつねんちょう オツネンチョウ",
+      "word": "越年蝶"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e921a8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "peacock butterfly (Inachis io), European peacock"
+        }
+      ],
+      "mobileId": 252752,
+      "phonetic": "くじゃくちょう クジャクチョウ",
+      "word": "孔雀蝶"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9608533",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "raccoon butterflyfish (Chaetodon lunula), moon butterflyfish"
+        }
+      ],
+      "mobileId": 259403,
+      "phonetic": "ちょうはん チョウハン",
+      "word": "蝶斑"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568013c0592",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bươm bướm ở núi cao ."
+        }
+      ],
+      "mobileId": 42770,
+      "phonetic": "こうざんちょう",
+      "word": "高山蝶"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be13346",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "national butterfly"
+        }
+      ],
+      "mobileId": 247038,
+      "phonetic": "こくちょう",
+      "word": "国蝶"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771e3447",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "large grass yellow (species of butterfly, Eurema hecabe), common grass yellow"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "yellow butterfly"
+        }
+      ],
+      "mobileId": 265437,
+      "phonetic": "きちょう キチョウ",
+      "word": "黄蝶"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8968ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sunset morpho (butterfly, Morpho hecuba)"
+        }
+      ],
+      "mobileId": 227787,
+      "phonetic": "たいようちょう タイヨウチョウ",
+      "word": "太陽蝶"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

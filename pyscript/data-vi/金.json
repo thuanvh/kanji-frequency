@@ -1,0 +1,383 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a37985",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "金購入",
+              "mean": "mua vàng",
+              "transcription": "きむこうにゅう"
+            },
+            {
+              "content": "母は私に金の指輪をくれた",
+              "mean": "mẹ tôi tặng cho tôi một chiếc nhẫn vàng",
+              "transcription": "はははわたしにきんのゆびわをくれた"
+            },
+            {
+              "content": "沈黙は金",
+              "mean": "sự im lặng là vàng .",
+              "transcription": "ちんもくはきん"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "tiền; vàng"
+        }
+      ],
+      "mobileId": 109489,
+      "phonetic": "きん",
+      "related_words": {
+        "word": [
+          "金額",
+          "代金引換",
+          "金型",
+          "送金",
+          "料金",
+          "入金",
+          "資本金",
+          "お金",
+          "売掛金",
+          "金曜日"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "金",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "貨幣",
+                "金銭",
+                "硬貨",
+                "お金"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "金銭",
+                "金銀",
+                "実弾",
+                "キャッシュ",
+                "現金"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "金属",
+                "メタル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "お金"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "丸",
+                "黄金",
+                "金銭",
+                "黄白",
+                "ゲル",
+                "お金",
+                "足"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "金"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a35fb0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "容易に手に入れた金は容易に出ていく",
+              "mean": "những đồng tiền kiếm được dễ dàng thì cũng sẽ ra đi nhanh chóng",
+              "transcription": "よういにてにいれたきんはよういにでていく"
+            }
+          ],
+          "kind": "n",
+          "mean": "tiền; đồng tiền"
+        },
+        {
+          "examples": [
+            {
+              "content": "遺族給付（金）",
+              "mean": "tiền trợ cấp cho thân nhân",
+              "transcription": "いぞくきゅうふ（きん）"
+            },
+            {
+              "content": "寄付（金）",
+              "mean": "tiền ủng hộ (tiền từ thiện)",
+              "transcription": "きふ（きん）"
+            },
+            {
+              "content": "期限経過貸付（金）",
+              "mean": "tiền đặt cọc quá hạn",
+              "transcription": "きげんけいかかしつけ（きん）"
+            },
+            {
+              "content": "担保貸付（金)",
+              "mean": "tiền thế chấp, đặt cọc",
+              "transcription": "たんぽかしつけ（きむ)"
+            },
+            {
+              "content": "金（色）恐怖（症）",
+              "mean": "bệnh sợ vàng (màu vàng)",
+              "transcription": "きむ（いろ）きょうふ（しょう）"
+            }
+          ],
+          "kind": "n",
+          "mean": "vàng; tiền"
+        }
+      ],
+      "mobileId": 109488,
+      "phonetic": "かね",
+      "related_words": {
+        "word": [
+          "金額",
+          "代金引換",
+          "金型",
+          "送金",
+          "料金",
+          "入金",
+          "資本金",
+          "お金",
+          "売掛金",
+          "金曜日"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "金",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "貨幣",
+                "金銭",
+                "硬貨",
+                "お金"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "金銭",
+                "金銀",
+                "実弾",
+                "キャッシュ",
+                "現金"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "金属",
+                "メタル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "お金"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "丸",
+                "黄金",
+                "金銭",
+                "黄白",
+                "ゲル",
+                "お金",
+                "足"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "金"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8286cdd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tìm kiếm vàng"
+        }
+      ],
+      "mobileId": 34793,
+      "phonetic": "きんさがし",
+      "related_words": {
+        "word": [
+          "金"
+        ]
+      },
+      "word": "金探し"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82e828c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vàng hoặc những bức thư mạ vàng"
+        }
+      ],
+      "mobileId": 34984,
+      "phonetic": "きむもじ",
+      "word": "金文字"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8494667",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số tiền không đáng kể; số tiền nhỏ mọn"
+        }
+      ],
+      "mobileId": 35849,
+      "phonetic": "くされきん",
+      "word": "腐れ金"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87a4783",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "sự trả tiền cọc"
+        }
+      ],
+      "mobileId": 37429,
+      "phonetic": "けいやくきん",
+      "related_words": {
+        "word": [
+          "金",
+          "契約",
+          "約"
+        ]
+      },
+      "word": "契約金"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568012c5991",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lương hưu trí ."
+        }
+      ],
+      "mobileId": 42506,
+      "phonetic": "ようろうきん",
+      "word": "養老金"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd739a87",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kim loại tấm, kim loại lá"
+        }
+      ],
+      "mobileId": 13468,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "金"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鈑金",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "延べ金",
+                "延金",
+                "板金"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鈑金"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd376eeb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền mà người thuê nhà buộc lòng phải trả cho chủ nhà trước khi vào ở"
+        }
+      ],
+      "mobileId": 11567,
+      "phonetic": "あづけきん",
+      "related_words": {
+        "word": [
+          "金",
+          "預け"
+        ]
+      },
+      "word": "預け金"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9d1d48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền phạt do vi phạm hợp đồng"
+        }
+      ],
+      "mobileId": 14773,
+      "phonetic": "いやくきん",
+      "related_words": {
+        "word": [
+          "金",
+          "約",
+          "違約"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "違約金",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "刑戮",
+                "ペナルティー",
+                "罰金"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "違約金"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,512 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adac7e4a7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あなたはタバコを吸いますか。いいえ、私は吸いません",
+              "mean": "bạn có hút thuốc không? Không tôi không hút thuốc",
+              "transcription": "あなたはタバコをすいますか。いいえ、わたしはすいません"
+            }
+          ],
+          "kind": "n",
+          "mean": "không"
+        }
+      ],
+      "mobileId": 80132,
+      "opposite_word": [
+        "可",
+        "然り",
+        "応"
+      ],
+      "phonetic": "いいえ",
+      "related_words": {
+        "word": [
+          "否！",
+          "否定",
+          "可否",
+          "拒否",
+          "否定する",
+          "否認",
+          "合否",
+          "否定的",
+          "賛否両論",
+          "否！",
+          "安否"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "否",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ノー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "打ち消し",
+                "否定",
+                "打消"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "打ち消し",
+                "否定",
+                "匪",
+                "打消"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "否決",
+                "打ち消し",
+                "否定",
+                "打消"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "否"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adac809d5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "真実か否か",
+              "mean": "có phải sự thật hay là không?",
+              "transcription": "しんじつかいなか"
+            },
+            {
+              "content": "申し出に対して受けるか否か",
+              "mean": "có chấp nhận đơn khiếu nại hay không?",
+              "transcription": "もうしでにたいしてうけるかいなか"
+            },
+            {
+              "content": "〜だろうか否かと考える",
+              "mean": "Nghĩ có phải là ~ hay là không",
+              "transcription": "〜だろうかいなかとかんがえる"
+            },
+            {
+              "content": "良いか否か",
+              "mean": "Có tốt hay không?",
+              "transcription": "よいかいなか"
+            }
+          ],
+          "kind": "n, int, uk",
+          "mean": "không"
+        }
+      ],
+      "mobileId": 80133,
+      "opposite_word": [
+        "可",
+        "然り",
+        "応"
+      ],
+      "phonetic": "いえ",
+      "related_words": {
+        "word": [
+          "否！",
+          "否定",
+          "可否",
+          "拒否",
+          "否定する",
+          "否認",
+          "合否",
+          "否定的",
+          "賛否両論",
+          "否！",
+          "安否"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "否",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ノー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "打ち消し",
+                "否定",
+                "打消"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "打ち消し",
+                "否定",
+                "匪",
+                "打消"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "否決",
+                "打ち消し",
+                "否定",
+                "打消"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "否"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adac81e4c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "賛成か否か",
+              "mean": "tán thành hay không tán thành",
+              "transcription": "さんせいかいなか"
+            }
+          ],
+          "kind": "n, int, uk",
+          "mean": "chẳng đúng; không"
+        }
+      ],
+      "mobileId": 80134,
+      "opposite_word": [
+        "可",
+        "然り",
+        "応"
+      ],
+      "phonetic": "いな",
+      "related_words": {
+        "word": [
+          "否！",
+          "否定",
+          "可否",
+          "拒否",
+          "否定する",
+          "否認",
+          "合否",
+          "否定的",
+          "賛否両論",
+          "否！",
+          "安否"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "否",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ノー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "打ち消し",
+                "否定",
+                "打消"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "打ち消し",
+                "否定",
+                "匪",
+                "打消"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "否決",
+                "打ち消し",
+                "否定",
+                "打消"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "否"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adac8277a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phủ định ."
+        }
+      ],
+      "mobileId": 80135,
+      "opposite_word": [
+        "可",
+        "然り",
+        "応"
+      ],
+      "phonetic": "ひ",
+      "related_words": {
+        "word": [
+          "否！",
+          "否定",
+          "可否",
+          "拒否",
+          "否定する",
+          "否認",
+          "合否",
+          "否定的",
+          "賛否両論",
+          "否！",
+          "安否"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "否",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ノー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "打ち消し",
+                "否定",
+                "打消"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "打ち消し",
+                "否定",
+                "匪",
+                "打消"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "否決",
+                "打ち消し",
+                "否定",
+                "打消"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "否"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adac84339",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "否否そんなわけではない",
+              "mean": "không phải như thế",
+              "transcription": "いないなそんなわけではない"
+            }
+          ],
+          "kind": "int, uk",
+          "mean": "không; không phải là"
+        },
+        {
+          "examples": [
+            {
+              "content": "否否ながらち地層承知した",
+              "mean": "trả lời một cách gượng gạo .",
+              "transcription": "いないなながらちちそうしょうちした"
+            }
+          ],
+          "kind": "int, uk",
+          "mean": "miễn cưỡng; gượng gạo"
+        }
+      ],
+      "mobileId": 80136,
+      "phonetic": "いやいや",
+      "related_words": {
+        "word": [
+          "否"
+        ]
+      },
+      "word": "否否"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9cc09f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "miễn cưỡng; bất đắc dự, không tự nguyện, không sẵn lòng, trơ trơ, khó bảo, khó làm"
+        }
+      ],
+      "mobileId": 14763,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "否",
+          "乍"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "否否乍ら",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "止むを得ず",
+                "否々乍ら",
+                "不承不承",
+                "仕方無く",
+                "仕方無しに",
+                "渋渋",
+                "嫌々",
+                "渋々",
+                "嫌嫌"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "否否乍ら"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683a3b88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự rủi ro, sự bất hạnh, điều không may, điều hoạ, hoạ vô đơn chí"
+        }
+      ],
+      "mobileId": 1888,
+      "opposite_word": [
+        "好運",
+        "幸運"
+      ],
+      "phonetic": "いなうん",
+      "related_words": {
+        "word": [
+          "否",
+          "運"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "否運",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "災難",
+                "不運",
+                "不遇",
+                "数奇",
+                "不幸",
+                "不仕合わせ",
+                "厄",
+                "不幸せ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "災難",
+                "不運",
+                "悪運",
+                "難",
+                "不幸",
+                "悲運"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "否運"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9b6a66",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "cần thiết hoặc không cần thiết; tự chọn (những đồ dùng)"
+        }
+      ],
+      "mobileId": 73755,
+      "phonetic": "よういな",
+      "word": "要否"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5738e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the good and bad"
+        }
+      ],
+      "mobileId": 226199,
+      "phonetic": "ぞうひ",
+      "word": "臧否"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89130ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "điều kiện sức khỏe, tìng trạng sức khỏe"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "erection of monument"
+        }
+      ],
+      "mobileId": 38143,
+      "phonetic": "けんいな",
+      "related_words": {
+        "word": [
+          "否",
+          "健"
+        ]
+      },
+      "word": "健否"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

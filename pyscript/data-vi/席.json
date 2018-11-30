@@ -1,0 +1,255 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107cd54eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ ngồi ."
+        }
+      ],
+      "mobileId": 55329,
+      "phonetic": "せき",
+      "related_words": {
+        "word": [
+          "出席",
+          "欠席",
+          "満席",
+          "出席者",
+          "指定席",
+          "自由席",
+          "座席",
+          "出席する",
+          "助手席",
+          "運転席"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "席",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "シート",
+                "座席",
+                "腰掛け",
+                "椅子"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "蓆",
+                "シート",
+                "議席",
+                "客席",
+                "居敷",
+                "座席",
+                "腰掛け",
+                "座",
+                "せき",
+                "椅子",
+                "倚子"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "機会",
+                "行事"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "位地",
+                "身分",
+                "位",
+                "地位",
+                "立場",
+                "境"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "席"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b778a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ghế bị cáo ."
+        }
+      ],
+      "mobileId": 32303,
+      "phonetic": "ひこくせき",
+      "word": "被告席"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e9dd91",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đến thăm có phòng triển lãm tranh; những cái ghế cho quần chúng"
+        }
+      ],
+      "mobileId": 7447,
+      "phonetic": "ぼうちょうせき",
+      "related_words": {
+        "word": [
+          "席",
+          "傍",
+          "傍聴"
+        ]
+      },
+      "word": "傍聴席"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb46e03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ghế dành cho khách mời"
+        }
+      ],
+      "mobileId": 74567,
+      "phonetic": "らいひんせき",
+      "related_words": {
+        "word": [
+          "来",
+          "席",
+          "来賓"
+        ]
+      },
+      "word": "来賓席"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea00b10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái ghế đặc biệt"
+        }
+      ],
+      "mobileId": 116157,
+      "phonetic": "とくべつせき",
+      "word": "特別席"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e73b96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ ngồi được hút thuốc, ghế được hút thuốc"
+        }
+      ],
+      "mobileId": 25237,
+      "phonetic": "きつえんせき",
+      "word": "喫煙席"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027d02e6a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "答えを見いだすために観客席にぶらりとやって来る",
+              "mean": "Đi xung quanh khu vực khán đài để tìm ra câu trả lời.",
+              "transcription": "こたえをみいだすためにかんきゃくせきにぶらりとやってくる"
+            },
+            {
+              "content": "観客席に入る",
+              "mean": "Vào ghế ngồi",
+              "transcription": "かんきゃくせきにはいる"
+            },
+            {
+              "content": "舞台から観客席に飛び降りる",
+              "mean": "Nhảy từ sân khấu xuống khu vực ghế khán giả",
+              "transcription": "ぶたいからかんきゃくせきにとびおりる"
+            },
+            {
+              "content": "観客席はその神童が演奏する最初のコンサートを見る人で超満員だった",
+              "mean": "Khán đài đã đầy kín người đến xem buổi diễn tấu hòa nhạc đầu tiên của cậu bé thần đồng đó",
+              "transcription": "かんきゃくせきはそのしんどうがえんそうするさいしょのコンサートをみるひとでちょうまんいんだった"
+            },
+            {
+              "content": "スタジアム式観客席",
+              "mean": "Khán đài kiểu sân vận động .",
+              "transcription": "スタジアムしきかんきゃくせき"
+            }
+          ],
+          "kind": "n",
+          "mean": "khán đài; ghế khán giả"
+        }
+      ],
+      "mobileId": 32743,
+      "phonetic": "かんきゃくせき",
+      "related_words": {
+        "word": [
+          "客",
+          "席",
+          "観客",
+          "観"
+        ]
+      },
+      "word": "観客席"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0987aae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "remaining seats (on plane, bus, etc.)"
+        }
+      ],
+      "mobileId": 285823,
+      "phonetic": "ざんせき",
+      "word": "残席"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0af1907",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "seating allocation (conference, banquet, etc.)"
+        }
+      ],
+      "mobileId": 286552,
+      "phonetic": "はいせき",
+      "word": "配席"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4f8156",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "moving to new seats, moving to new desks"
+        }
+      ],
+      "mobileId": 250582,
+      "phonetic": "せきがえ",
+      "related_words": {
+        "word": [
+          "席",
+          "替え"
+        ]
+      },
+      "word": "席替え"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

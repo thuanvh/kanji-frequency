@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280276c7fb0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "膵（臓）癌の遺伝子",
+              "mean": "Ung thư nội tạng di truyền",
+              "transcription": "膵 （ 臓 ）がんのいでんし"
+            },
+            {
+              "content": "膵（臓）癌による死亡",
+              "mean": "Chết do ung thư nội tạng .",
+              "transcription": "膵 （ 臓 ）がんによるしぼう"
+            }
+          ],
+          "kind": "n",
+          "mean": "nội tạng; phủ tạng"
+        }
+      ],
+      "mobileId": 30912,
+      "phonetic": "ぞう",
+      "related_words": {
+        "word": [
+          "心臓",
+          "肝臓",
+          "内臓",
+          "腎臓",
+          "心臓病",
+          "臓器移植",
+          "膵臓",
+          "脾臓",
+          "臓器",
+          "心臓の鼓動"
+        ]
+      },
+      "word": "臓"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

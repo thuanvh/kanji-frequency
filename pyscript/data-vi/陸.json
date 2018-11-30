@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7dd6120",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "陸・海・空軍",
+              "mean": "lục hải không quân .",
+              "transcription": "りく・うみ・くうぐん"
+            }
+          ],
+          "kind": "n",
+          "mean": "lục địa; mặt đất; đất liền"
+        }
+      ],
+      "mobileId": 110414,
+      "opposite_word": [
+        "海"
+      ],
+      "phonetic": "りく",
+      "related_words": {
+        "word": [
+          "陸上競技",
+          "離陸",
+          "陸上",
+          "着陸",
+          "大陸",
+          "陸軍",
+          "上陸",
+          "南極大陸",
+          "内陸",
+          "陸運"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "陸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "半ダース"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "陸"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbe1ac8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bán cầu"
+        }
+      ],
+      "mobileId": 74881,
+      "phonetic": "りくはんきゅう",
+      "word": "陸半球"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ec217f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "land snail"
+        }
+      ],
+      "mobileId": 272121,
+      "phonetic": "りくがい",
+      "word": "陸貝"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbd6fcd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sản phẩm địa phương, thổ sản"
+        }
+      ],
+      "mobileId": 74857,
+      "phonetic": "くがさん",
+      "word": "陸産"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbdd910",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhân viên quân đội"
+        }
+      ],
+      "mobileId": 74873,
+      "phonetic": "りくまさる",
+      "word": "陸大"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98d2acf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "land lock, floodwall gate"
+        }
+      ],
+      "mobileId": 277233,
+      "phonetic": "りっこう りくこう",
+      "word": "陸閘"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a91aad2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Salsola komarovii (species of saltwort)"
+        }
+      ],
+      "mobileId": 257140,
+      "phonetic": "おかひじき オカヒジキ",
+      "word": "陸鹿尾菜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca014f001",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shore power (for use by boats), shoreside electric power"
+        }
+      ],
+      "mobileId": 281622,
+      "phonetic": "りくでん",
+      "word": "陸電"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbd385f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đất liền"
+        }
+      ],
+      "mobileId": 74851,
+      "phonetic": "りくがん",
+      "word": "陸岸"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbd8b3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trung tướng"
+        }
+      ],
+      "mobileId": 74860,
+      "phonetic": "りくすすむ",
+      "related_words": {
+        "word": [
+          "陸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "陸将",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "中将"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "陸将"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

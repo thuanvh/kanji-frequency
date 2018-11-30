@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107f37a08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "đền miếu ."
+        }
+      ],
+      "mobileId": 55917,
+      "phonetic": "びょう",
+      "word": "廟"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adaaabe28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngôi miếu cổ ."
+        }
+      ],
+      "mobileId": 79688,
+      "phonetic": "こびょう",
+      "related_words": {
+        "word": [
+          "古"
+        ]
+      },
+      "word": "古廟"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a75c0f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "temple name (a two-character posthumous name given to Chinese, Korean and Vietnamese royalty)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "name given to a mausoleum (or shrine, etc.)"
+        }
+      ],
+      "mobileId": 227157,
+      "phonetic": "びょうごう",
+      "word": "廟号"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd717032",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những miếu thờ chính (vĩ đại) (của) ise"
+        }
+      ],
+      "mobileId": 13403,
+      "phonetic": "いせおおびょう",
+      "word": "伊勢大廟"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

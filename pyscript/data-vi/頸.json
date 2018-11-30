@@ -1,0 +1,269 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801157ef2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "頸の後を通って血液を心臓から運ぶ",
+              "mean": "chuyển máu từ tim dọc theo phía đằng sau cổ",
+              "transcription": "頸ののちをとおってけつえきをしんぞうからはこぶ"
+            },
+            {
+              "content": "頸の基部",
+              "mean": "phần cơ bản của cổ .",
+              "transcription": "頸のきぶ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Cổ"
+        }
+      ],
+      "mobileId": 42132,
+      "phonetic": "くび",
+      "related_words": {
+        "word": [
+          "頸部"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "頸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "雁首",
+                "頭部",
+                "首",
+                "ヘッド",
+                "頭"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ネック",
+                "首",
+                "頸部",
+                "頚部"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "頸"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5f6f79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "neckband, round upright collar (on some traditional Japanese clothing)"
+        }
+      ],
+      "mobileId": 226446,
+      "phonetic": "くびかみ",
+      "word": "頸上"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5f7ae4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "neckband, round upright collar (on some traditional Japanese clothing)"
+        }
+      ],
+      "mobileId": 226447,
+      "phonetic": "あげくび",
+      "word": "上頸"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8553dc8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khăn quàng cổ (y phục)"
+        }
+      ],
+      "mobileId": 36234,
+      "phonetic": "",
+      "word": "頸巻き"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8555d1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chuỗi hạt (vàng, ngọc)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người bóp cổ; cái làm nghẹt, cái làm tắc, cổ cồn, cổ đứng"
+        }
+      ],
+      "mobileId": 36239,
+      "phonetic": "",
+      "word": "頸輪"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680115abe6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "頸動脈にある脂肪蓄積物を取り除く",
+              "mean": "Trừ bỏ sự tích luỹ mỡ trong động mạch cảnh",
+              "transcription": "頸動みゃくにあるしぼうちくせきぶつをとりのぞく"
+            },
+            {
+              "content": "最低＿秒間患者の頸動脈を触診して脈拍を確かめる",
+              "mean": "Xác nhận nhịp đập của tim bằng cách bắt mạch động mạch cảnh của bệnh nhân ít nhất ~ giây",
+              "transcription": "さいてい＿びょうかんかんじゃの頸動みゃくをしょくしんしてみゃくはくをたしかめる"
+            },
+            {
+              "content": "頸動脈を通して血流を測定する",
+              "mean": "Đo lượng máu chảy thông qua động mạch cảnh",
+              "transcription": "頸動みゃくをとおしてちりゅうをそくていする"
+            },
+            {
+              "content": "頸動脈に触れて脈拍を測る",
+              "mean": "Đo nhịp đập của mạch bằng cách chạm vào động mạch cảnh",
+              "transcription": "頸動みゃくにふれてみゃくはくをはかる"
+            },
+            {
+              "content": "（人）の頸動脈に触れて脈を確認する",
+              "mean": "Kiểm tra nhịp đập bằng cách chạm vào động mạch cảnh của ai đó",
+              "transcription": "（ひと）の頸動みゃくにふれてみゃくをかくにんする"
+            },
+            {
+              "content": "外（部）頸動脈",
+              "mean": "Động mạch cảnh bên ngoài .",
+              "transcription": "そと（ぶ） 頸動みゃく"
+            }
+          ],
+          "kind": "n",
+          "mean": "Động mạch cảnh"
+        }
+      ],
+      "mobileId": 42133,
+      "phonetic": "けいどうみゃく",
+      "word": "頸動脈"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680115af23",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái ách ."
+        }
+      ],
+      "mobileId": 42134,
+      "phonetic": "くびき",
+      "word": "頸木"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6895ff88",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự chém đầu, sự chặt đầu, sự xử trảm"
+        }
+      ],
+      "mobileId": 4760,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "頸"
+        ]
+      },
+      "word": "刎頸"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680115fb3d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）の頸部を屈曲させる",
+              "mean": "bẻ cổ ai đó",
+              "transcription": "（ひと）の頸部をくっきょくさせる"
+            },
+            {
+              "content": "患者の頸部を伸ばすために丸めたタオルを肩の下に入れる",
+              "mean": "Đặt một khăn bông đã cuộn tròn vào dưới vai để kéo dài vùng cổ bệnh nhân",
+              "transcription": "かんじゃの頸部をのばすためにまるめたタオルをかたのしたにいれる"
+            },
+            {
+              "content": "頸部に始まる電気ショックのような感覚",
+              "mean": "Cảm giác như một cú sốc điện bắt đầu ở vùng cổ",
+              "transcription": "頸部にはじまるでんきショックのようなかんかく"
+            },
+            {
+              "content": "頸部で舌咽神経を切断する",
+              "mean": "Cắt dây thần kinh lưỡi hầu ở vùng cổ",
+              "transcription": "頸部でしたのんどしんけいをせつだんする"
+            },
+            {
+              "content": "頸部で静脈の視診を行う",
+              "mean": "Kiểm tra tĩnh mạch ở vùng cổ .",
+              "transcription": "頸部でじょうみゃくのししんをおこなう"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "vùng cổ; cổ"
+        }
+      ],
+      "mobileId": 42136,
+      "phonetic": "けいぶ",
+      "related_words": {
+        "word": [
+          "部",
+          "頸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "頸部",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ネック",
+                "首",
+                "頸",
+                "頚部"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "頸部"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568011629b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xương cổ ."
+        }
+      ],
+      "mobileId": 42139,
+      "phonetic": "けいこつ",
+      "word": "頸骨"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

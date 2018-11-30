@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "_id": "5cc803bee4146733aeaf1a45be154198",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trăng lưỡi liềm"
+        }
+      ],
+      "mobileId": 89979,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "月"
+        ]
+      },
+      "word": "彎月"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be154f2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "có hình trăng lưỡi liềm"
+        }
+      ],
+      "mobileId": 89980,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "月",
+          "状"
+        ]
+      },
+      "word": "彎月状"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

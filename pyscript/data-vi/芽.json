@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802783ff35",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "búp"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mầm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mầm mống ."
+        }
+      ],
+      "mobileId": 31440,
+      "phonetic": "め",
+      "related_words": {
+        "word": [
+          "新芽",
+          "発芽",
+          "萌芽",
+          "芽生え",
+          "麦芽",
+          "胚芽",
+          "木の芽",
+          "芽生える",
+          "芽キャベツ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "芽",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "新芽",
+                "豎子",
+                "芽生え",
+                "双葉",
+                "二葉"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "新芽",
+                "芽生え",
+                "双葉",
+                "二葉",
+                "蕾"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "芽"
+    },
+    {
+      "_id": "432518852de0a80625d585a98205ad8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bud scale (scaly leaf protecting a bud)"
+        }
+      ],
+      "mobileId": 231822,
+      "phonetic": "がりん",
+      "word": "芽鱗"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f41d81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blastema"
+        }
+      ],
+      "mobileId": 272374,
+      "phonetic": "がたい",
+      "word": "芽体"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77233759",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "naked bud (of a plant), bud unprotected by bud scales"
+        }
+      ],
+      "mobileId": 265599,
+      "phonetic": "らが",
+      "word": "裸芽"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aeb1135",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bud, sprout"
+        }
+      ],
+      "mobileId": 230959,
+      "phonetic": "どんが",
+      "word": "嫩芽"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bfb52fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dormant bud, latent bud"
+        }
+      ],
+      "mobileId": 247860,
+      "phonetic": "きゅうみんが",
+      "word": "休眠芽"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92c39e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gemma"
+        }
+      ],
+      "mobileId": 257688,
+      "phonetic": "むせいが",
+      "word": "無性芽"
+    },
+    {
+      "_id": "432518852de0a80625d585a982059e67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lateral bud"
+        }
+      ],
+      "mobileId": 231819,
+      "phonetic": "そくが",
+      "word": "側芽"
+    },
+    {
+      "_id": "432518852de0a80625d585a98205a5e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "terminal bud, apical bud"
+        }
+      ],
+      "mobileId": 231820,
+      "phonetic": "ちょうが",
+      "word": "頂芽"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9561b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chồi (phát triển thành lá và cành)"
+        }
+      ],
+      "mobileId": 73558,
+      "opposite_word": [
+        "花芽"
+      ],
+      "phonetic": "はめ",
+      "word": "葉芽"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f4641f1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "小さい村で生まれた",
+              "mean": "sinh ra ở một làng nhỏ",
+              "transcription": "ちいさいむらでうまれた"
+            }
+          ],
+          "kind": "n",
+          "mean": "làng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làng mạc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thôn xã"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xã ."
+        }
+      ],
+      "mobileId": 186140,
+      "phonetic": "むら",
+      "related_words": {
+        "word": [
+          "市町村",
+          "町村",
+          "農村",
+          "村長",
+          "村人",
+          "村八分",
+          "漁村"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "村",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "里",
+                "聚落",
+                "人里",
+                "集落"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "里",
+                "聚落",
+                "町",
+                "人里",
+                "ビレッジ",
+                "集落"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "村"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d54df51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "edge of town, outskirts of a village"
+        }
+      ],
+      "mobileId": 217818,
+      "phonetic": "むらはずれ",
+      "word": "村はずれ"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774ed81a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "farming and mountain villages, rural districts"
+        }
+      ],
+      "mobileId": 266997,
+      "phonetic": "のうさんそん",
+      "word": "農山村"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8fc5d4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những làng"
+        }
+      ],
+      "mobileId": 41598,
+      "phonetic": "ごうむら",
+      "word": "郷村"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95df50a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làng; miền quê; nhà ở thôn quê"
+        }
+      ],
+      "mobileId": 63248,
+      "phonetic": "むらしょう",
+      "word": "村庄"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e03999",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường làng; đường được xây và quản lý bằng kinh phí của làng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "your family"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "your mother"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "village child"
+        }
+      ],
+      "mobileId": 63272,
+      "phonetic": "むらどう",
+      "word": "村道"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5750a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "revitalization of a village, village renewal (project)"
+        }
+      ],
+      "mobileId": 217890,
+      "phonetic": "むらおこし",
+      "word": "村興し"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19332b599",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làng xóm tụ tập"
+        }
+      ],
+      "mobileId": 19537,
+      "phonetic": "かたまりむら",
+      "word": "塊村"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e0c693",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chi phí của làng"
+        }
+      ],
+      "mobileId": 63287,
+      "phonetic": "むらひ",
+      "word": "村費"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a65ba4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nuclear power village, tight-knit community of legislators, regulators and manufacturers involved in the promotion of nuclear power"
+        }
+      ],
+      "mobileId": 278023,
+      "phonetic": "げんしりょくむら げんしりょくムラ",
+      "word": "原子力村"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

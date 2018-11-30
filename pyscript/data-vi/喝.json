@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bda13f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "int",
+          "mean": "exclamation used to scold practitioners (in Zen)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scolding or threatening with a shout"
+        }
+      ],
+      "mobileId": 246790,
+      "phonetic": "かつ",
+      "word": "喝"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e080613",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "announcing meals (at a Zen monastery), meal announcer"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "noh mask resembling a young attendant who announces mealtimes in a Zen monastery"
+        }
+      ],
+      "mobileId": 248258,
+      "phonetic": "かっしき かしき かつじき",
+      "word": "喝食"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d23ae1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "extortion of money or goods (e.g. from lower year students), shakedown"
+        }
+      ],
+      "mobileId": 216243,
+      "phonetic": "かつあげ",
+      "word": "喝上げ"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8049a59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đe doạ, lời đe doạ, lời hăm doạ"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hăm doạ, sự đe doạ, sự doạ dẫm"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "mối đe doạ, đe doạ"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hâm doạ để tống tiền, tiền lấy được do hăm doạ, hâm doạ để làm tiền, tống tiền"
+        }
+      ],
+      "mobileId": 33630,
+      "phonetic": "",
+      "word": "脅喝"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ee43dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "meal announcer (at a Zen monastery)"
+        }
+      ],
+      "mobileId": 272188,
+      "phonetic": "かっしきあんじゃ",
+      "word": "喝食行者"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

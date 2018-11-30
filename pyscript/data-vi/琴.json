@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a51bbfa",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "琴の糸を締める",
+              "mean": "lên dây đàn Koto",
+              "transcription": "きんのいとをしめる"
+            },
+            {
+              "content": "琴の琴柱に弦をかける",
+              "mean": "mắc dây lên đàn Koto",
+              "transcription": "きんのことじにつるをかける"
+            },
+            {
+              "content": "三角琴",
+              "mean": "đàn Koto ba cạnh",
+              "transcription": "みすみこと"
+            }
+          ],
+          "kind": "n",
+          "mean": "đàn Koto"
+        }
+      ],
+      "mobileId": 171672,
+      "phonetic": "こと",
+      "related_words": {
+        "word": [
+          "木琴",
+          "竪琴"
+        ]
+      },
+      "word": "琴"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193052951",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "koto nhỏ"
+        }
+      ],
+      "mobileId": 18060,
+      "phonetic": "しょうきん",
+      "word": "小琴"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027fe4dff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc chơi đàn Koto ."
+        }
+      ],
+      "mobileId": 33438,
+      "phonetic": "ちょうきん",
+      "word": "調琴"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7745fdec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "koto erected in one's yard as decoration during the Festival to Plead for Skills"
+        }
+      ],
+      "mobileId": 266714,
+      "phonetic": "たてごと",
+      "word": "立琴"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af169ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sihu (4-stringed Chinese musical instrument played with a bow)"
+        }
+      ],
+      "mobileId": 231160,
+      "phonetic": "けいきん",
+      "word": "携琴"
+    },
+    {
+      "_id": "432518852de0a80625d585a982402259",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "morin khuur (stringed musical instrument of Mongolian origin), matouqin"
+        }
+      ],
+      "mobileId": 233654,
+      "phonetic": "ばとうきん",
+      "word": "馬頭琴"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af15870",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xiqin (2-stringed Chinese musical instrument)"
+        }
+      ],
+      "mobileId": 231158,
+      "phonetic": "けいきん",
+      "word": "奚琴"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ae2d04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đàn chuông ."
+        }
+      ],
+      "mobileId": 109659,
+      "phonetic": "てっきん",
+      "related_words": {
+        "word": [
+          "鉄",
+          "琴"
+        ]
+      },
+      "word": "鉄琴"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d344613",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đàn hac-pơ cổ xưa hình tam giác"
+        }
+      ],
+      "mobileId": 147396,
+      "phonetic": "みすみこと",
+      "related_words": {
+        "word": [
+          "三角",
+          "角",
+          "三",
+          "琴"
+        ]
+      },
+      "word": "三角琴"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e95e290",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "superb lyrebird (Menura novaehollandiae)"
+        }
+      ],
+      "mobileId": 252868,
+      "phonetic": "ことどり コトドリ",
+      "word": "琴鳥"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

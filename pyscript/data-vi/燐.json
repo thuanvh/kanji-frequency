@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a249b1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lân tinh"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phốt pho ."
+        }
+      ],
+      "mobileId": 170962,
+      "phonetic": "りん",
+      "related_words": {
+        "word": [
+          "燐酸",
+          "燐光"
+        ]
+      },
+      "word": "燐"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0fbbf52",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Diêm"
+        }
+      ],
+      "mobileId": 206730,
+      "phonetic": "マッチ",
+      "word": "燐寸"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b9fcd7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "white phosphorus"
+        }
+      ],
+      "mobileId": 278677,
+      "phonetic": "はくりん はくリン",
+      "word": "白燐"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4dbf28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phosphoprotein"
+        }
+      ],
+      "mobileId": 250526,
+      "phonetic": "りんたんぱくしつ リンタンパクしつ",
+      "word": "燐蛋白質"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b9e805",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "white phosphorus shell"
+        }
+      ],
+      "mobileId": 278675,
+      "phonetic": "はくりんだん はくリンだん",
+      "word": "白燐弾"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

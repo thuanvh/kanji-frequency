@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7fed769",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sương"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sương giá"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sương muối ."
+        }
+      ],
+      "mobileId": 111013,
+      "phonetic": "しも",
+      "related_words": {
+        "word": [
+          "霜月",
+          "霜降り",
+          "霜柱"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "霜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "降霜",
+                "フロスト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "凝結",
+                "フロスト",
+                "氷結"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "霜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0049844",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cold sharp sword, blade of ice"
+        }
+      ],
+      "mobileId": 281103,
+      "phonetic": "そうけん",
+      "word": "霜剣"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca002295f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "defrost, defrosting"
+        }
+      ],
+      "mobileId": 281019,
+      "phonetic": "しもとり",
+      "word": "霜取り"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cba5f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không khí băng giá"
+        }
+      ],
+      "mobileId": 62595,
+      "phonetic": "しもきり",
+      "related_words": {
+        "word": [
+          "霜"
+        ]
+      },
+      "word": "霜雰"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada391ff7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "初霜が降りた",
+              "mean": "Đã có sương đầu mùa .",
+              "transcription": "はつしもがおりた"
+            }
+          ],
+          "kind": "n",
+          "mean": "màn sương đầu tiên trong năm"
+        }
+      ],
+      "mobileId": 77890,
+      "phonetic": "はつしも",
+      "word": "初霜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0100246",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spring frost"
+        }
+      ],
+      "mobileId": 281472,
+      "phonetic": "しゅんそう はるしも",
+      "word": "春霜"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953c0f48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tan băng"
+        }
+      ],
+      "mobileId": 57995,
+      "phonetic": "じょしも",
+      "word": "除霜"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dc04bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "morning frost"
+        }
+      ],
+      "mobileId": 263306,
+      "phonetic": "あさしも あさじも",
+      "word": "朝霜"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9449d70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frosty morning"
+        }
+      ],
+      "mobileId": 274951,
+      "phonetic": "しもあさ",
+      "word": "霜朝"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e78721",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kushan (dynasty of India, approx. 60-375 CE)"
+        }
+      ],
+      "mobileId": 263661,
+      "phonetic": "きそう",
+      "word": "貴霜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

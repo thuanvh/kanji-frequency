@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74fb366c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "新発明",
+              "mean": "phát minh mới",
+              "transcription": "しんはつめい"
+            }
+          ],
+          "kind": "n-pref, n, n-suf",
+          "mean": "tân; mới"
+        }
+      ],
+      "mobileId": 101230,
+      "opposite_word": [
+        "旧"
+      ],
+      "phonetic": "しん",
+      "related_words": {
+        "word": [
+          "更新",
+          "新規",
+          "最新",
+          "新しい",
+          "新幹線",
+          "新聞",
+          "新鮮",
+          "新設",
+          "新入社員",
+          "新年"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "新",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "目新しい",
+                "真新しい",
+                "新た",
+                "新鮮",
+                "新しい",
+                "初"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "目新しい",
+                "真新しい",
+                "新た",
+                "新鮮",
+                "新しい"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "新"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03fce0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fresh honey, newly harvested honey, virgin honey"
+        }
+      ],
+      "mobileId": 283010,
+      "phonetic": "しんみつ",
+      "word": "新蜜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06cc58e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "new ground (science, art, etc.), new front, new scope, frontier"
+        }
+      ],
+      "mobileId": 284444,
+      "phonetic": "しんきょうち",
+      "word": "新境地"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0aa11b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cheap, malt-free beer-like alcoholic beverage"
+        }
+      ],
+      "mobileId": 286386,
+      "phonetic": "しんジャンル",
+      "word": "新ジャンル"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00913b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "first dried nori after the winter"
+        }
+      ],
+      "mobileId": 281253,
+      "phonetic": "しんのり",
+      "word": "新海苔"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00a4087",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "newly harvested sesame seeds"
+        }
+      ],
+      "mobileId": 281293,
+      "phonetic": "しんごま",
+      "word": "新胡麻"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00a4328",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tofu made from freshly harvested soy beans"
+        }
+      ],
+      "mobileId": 281294,
+      "phonetic": "しんどうふ しんとうふ",
+      "word": "新豆腐"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a3db08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wrestler newly promoted to makuuchi division"
+        }
+      ],
+      "mobileId": 212104,
+      "phonetic": "しんにゅうまく",
+      "word": "新入幕"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a3f117",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wrestler newly promoted to grand champion"
+        }
+      ],
+      "mobileId": 212107,
+      "phonetic": "しんよこづな",
+      "word": "新横綱"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74fbc5da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tân chế ."
+        }
+      ],
+      "mobileId": 101239,
+      "opposite_word": [
+        "旧制度"
+      ],
+      "phonetic": "しんせいど",
+      "word": "新制度"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

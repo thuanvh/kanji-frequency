@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027770658",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa hàng ."
+        }
+      ],
+      "mobileId": 31151,
+      "phonetic": "ほ",
+      "related_words": {
+        "word": [
+          "店舗",
+          "老舗",
+          "舗装"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "舗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ストアー",
+                "百貨店",
+                "デポー",
+                "蔵",
+                "商家",
+                "店舗",
+                "停車場",
+                "商舗",
+                "ストア",
+                "バス発着場",
+                "倉",
+                "倉庫",
+                "商店"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ストアー",
+                "店舗",
+                "売店",
+                "ストア",
+                "ショップ",
+                "店",
+                "商店"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "舗"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc62a08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đi mua hàng; kho"
+        }
+      ],
+      "mobileId": 152040,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "商",
+          "舗"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "商舗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ストアー",
+                "百貨店",
+                "デポー",
+                "蔵",
+                "商家",
+                "店舗",
+                "停車場",
+                "舗",
+                "ストア",
+                "バス発着場",
+                "倉",
+                "倉庫",
+                "商店"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "商舗"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd42793d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa hiệu nổi tiếng lâu đời"
+        }
+      ],
+      "mobileId": 70907,
+      "phonetic": "",
+      "word": "名舗"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df226ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà phân phối tờ báo"
+        }
+      ],
+      "mobileId": 153467,
+      "phonetic": "",
+      "word": "新聞舗"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d4ea90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đá lát"
+        }
+      ],
+      "mobileId": 6800,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "石",
+          "舗"
+        ]
+      },
+      "word": "舗石"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e9c7e05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pawnshop"
+        }
+      ],
+      "mobileId": 253090,
+      "phonetic": "しちほ",
+      "word": "質舗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

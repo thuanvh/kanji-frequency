@@ -1,0 +1,209 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107307fcd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ban tối"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "buổi tối"
+        },
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "đêm"
+        },
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "tối ."
+        }
+      ],
+      "mobileId": 52624,
+      "opposite_word": [
+        "日",
+        "昼"
+      ],
+      "phonetic": "よる",
+      "related_words": {
+        "word": [
+          "夜明け",
+          "深夜",
+          "昨夜",
+          "今夜",
+          "夜景",
+          "夜間",
+          "夜空",
+          "夜叉",
+          "真夜中",
+          "白夜"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "夜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "晩",
+                "ナイト",
+                "夜分",
+                "夜間"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "晩",
+                "ナイト",
+                "夜中",
+                "夜半",
+                "夜分",
+                "夜間"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "夜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08a0071",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "night sky"
+        }
+      ],
+      "mobileId": 285353,
+      "phonetic": "やてん",
+      "word": "夜天"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107308b63",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khuya ."
+        }
+      ],
+      "mobileId": 52625,
+      "phonetic": "よるおそく",
+      "word": "夜おそく"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca019612c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dinner"
+        }
+      ],
+      "mobileId": 281771,
+      "phonetic": "やはん よめし",
+      "word": "夜飯"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdab601c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lễ hội diễn ra vào ban đêm"
+        }
+      ],
+      "mobileId": 74286,
+      "phonetic": "よるまつり",
+      "word": "夜祭り"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd92f599",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đêm buôn bán"
+        }
+      ],
+      "mobileId": 73482,
+      "phonetic": "よるあきない",
+      "related_words": {
+        "word": [
+          "夜",
+          "商",
+          "商い"
+        ]
+      },
+      "word": "夜商い"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd60af2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một trăm đêm; nhiều đêm"
+        }
+      ],
+      "mobileId": 71848,
+      "phonetic": "ひゃくや",
+      "word": "百夜"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a125b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "drying clothes at night"
+        }
+      ],
+      "mobileId": 269674,
+      "phonetic": "よぼし",
+      "word": "夜干"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b0baef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "night mooring (for a boat)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sleeping away for the night (esp. in a red light district)"
+        }
+      ],
+      "mobileId": 261937,
+      "phonetic": "よどまり",
+      "word": "夜泊まり"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0bc8a32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "nighttime use, overnight"
+        }
+      ],
+      "mobileId": 287014,
+      "phonetic": "よるよう",
+      "word": "夜用"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc20d28",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "việc nói dối giáp mặt xuống; mặt trên xuống"
+        }
+      ],
+      "mobileId": 15932,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "向き"
+        ]
+      },
+      "word": "俯向き"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc227f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới mặt trên quay xuống; tới sự quay (mặt) xuống (xuôi)"
+        }
+      ],
+      "mobileId": 15935,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "向ける"
+        ]
+      },
+      "word": "俯向ける"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc1f1e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nói dối trên (về) một có mặt"
+        }
+      ],
+      "mobileId": 15927,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "伏"
+        ]
+      },
+      "word": "俯伏す"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc21e7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "việc nói dối giáp mặt xuống; mặt trên xuống"
+        }
+      ],
+      "mobileId": 15934,
+      "phonetic": "",
+      "word": "俯向け"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688a1de6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự nằm sóng soài"
+        }
+      ],
+      "mobileId": 4398,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "伏"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "俯伏",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "衰弱"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "俯伏"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc20208",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới cái nhìn xuống (xuôi); tới cổng nhà"
+        }
+      ],
+      "mobileId": 15930,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "向く"
+        ]
+      },
+      "word": "俯向く"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687939c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vi",
+          "mean": "tới chỗ uốn xuống; tới mũi tàu (cung) xuống; tới chính nằm úp"
+        }
+      ],
+      "mobileId": 3853,
+      "phonetic": "うつぶす",
+      "word": "俯す"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

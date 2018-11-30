@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107ca26ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vải"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vải bố"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vải vóc ."
+        }
+      ],
+      "mobileId": 55268,
+      "phonetic": "ぬの",
+      "related_words": {
+        "word": [
+          "財布",
+          "分布",
+          "配布",
+          "布団",
+          "塗布",
+          "昆布",
+          "毛布",
+          "湿布",
+          "正規分布",
+          "布地"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "布",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "反物",
+                "クロス",
+                "ファブリック",
+                "テキスタイル",
+                "裂地",
+                "布地",
+                "織物",
+                "切れ地",
+                "切地",
+                "生地",
+                "呉服"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "布"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab633ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bronze currency of ancient China (some pieces shaped like spades and others like opened straight razors)"
+        }
+      ],
+      "mobileId": 229226,
+      "phonetic": "とうふ",
+      "word": "刀布"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bdac304",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "cloth-covered"
+        }
+      ],
+      "mobileId": 246816,
+      "phonetic": "ぬのばり",
+      "word": "布張り"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a997aba2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cloth strainer, filter cloth"
+        }
+      ],
+      "mobileId": 261123,
+      "phonetic": "こしぬの",
+      "word": "濾し布"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b220dd995",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "vải đỏ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "akafu",
+      "word": "赤布"
+    },
+    {
+      "_id": "66dadbe77b545774ea1a57f73fd383ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giẻ rách; quần áo bị sờn cũ ."
+        }
+      ],
+      "mobileId": 105761,
+      "phonetic": "ぼろきれ",
+      "related_words": {
+        "word": [
+          "布"
+        ]
+      },
+      "word": "ぼろ布"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf2d3d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "veil (beekeeping, apiculture)"
+        }
+      ],
+      "mobileId": 247588,
+      "phonetic": "めんぷ",
+      "word": "面布"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ac58a5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vải bố ."
+        }
+      ],
+      "mobileId": 173573,
+      "phonetic": "そぎれ",
+      "word": "祖布"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a98469d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cloth covering"
+        }
+      ],
+      "mobileId": 260531,
+      "phonetic": "かけふ",
+      "word": "掛け布"
+    },
+    {
+      "_id": "f61fc88c4ffea55446c27e6690a18307",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vải ni lông ."
+        }
+      ],
+      "mobileId": 182165,
+      "phonetic": "ないろんぬの",
+      "word": "ナイロン布"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

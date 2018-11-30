@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107caa9f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuyền buồm ."
+        }
+      ],
+      "mobileId": 55286,
+      "phonetic": "ほ",
+      "related_words": {
+        "word": [
+          "帆立",
+          "帆船",
+          "帆立貝",
+          "順風満帆",
+          "真帆"
+        ]
+      },
+      "word": "帆"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ed2146",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "in full sail, decked out in full sail"
+        }
+      ],
+      "mobileId": 214503,
+      "phonetic": "そうはんてんぱん",
+      "word": "総帆展帆"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d71042",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con điệp, nồi vỏ sò bát vỏ sò, cái chảo nhỏ, vật trang trí kiểu vỏ sò, nấu  trong vỏ sò, trang trí bằng vật kiểu vỏ sò"
+        }
+      ],
+      "mobileId": 6863,
+      "phonetic": "ほたて",
+      "related_words": {
+        "word": [
+          "帆"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "帆立",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "スカラップ",
+                "帆立貝"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "帆立"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bd56f03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sail with the wind at its back"
+        },
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "aback"
+        }
+      ],
+      "mobileId": 246650,
+      "phonetic": "うらほ",
+      "word": "裏帆"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dadf552",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chính đi thuyền buồm"
+        }
+      ],
+      "mobileId": 151240,
+      "phonetic": "しゅほ",
+      "related_words": {
+        "word": [
+          "主",
+          "帆"
+        ]
+      },
+      "word": "主帆"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a944daf0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "square sail"
+        }
+      ],
+      "mobileId": 258496,
+      "phonetic": "おうはん",
+      "word": "横帆"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d348e1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dáng vẻ bề ngoài đi thuyền buồm"
+        }
+      ],
+      "mobileId": 147408,
+      "phonetic": "みすみかい",
+      "related_words": {
+        "word": [
+          "三角",
+          "角",
+          "三",
+          "帆"
+        ]
+      },
+      "word": "三角帆"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c4f984",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mast"
+        }
+      ],
+      "mobileId": 262580,
+      "phonetic": "はんしょう",
+      "word": "帆檣"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95ae7b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "soaring"
+        }
+      ],
+      "mobileId": 259214,
+      "phonetic": "はんしょう",
+      "word": "帆翔"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9527453e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuyền căng buồm tiến về trước; sự thuận buồm xuôi gió, mọi việc tiến triễn tốt đẹp"
+        }
+      ],
+      "mobileId": 57350,
+      "phonetic": "じゅん ぷうまんぱん",
+      "related_words": {
+        "word": [
+          "風",
+          "順",
+          "帆",
+          "順風"
+        ]
+      },
+      "word": "順風満帆"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

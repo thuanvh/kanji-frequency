@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07189ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "counterguard (fortification)"
+        }
+      ],
+      "mobileId": 284601,
+      "phonetic": "ほしょう",
+      "word": "堡障"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d3f21e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bãi đá ngầm chướng ngại vật"
+        }
+      ],
+      "mobileId": 6769,
+      "phonetic": "",
+      "word": "堡礁"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d62a4bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pháo đài 5 cạnh; ngũ giác đài ."
+        }
+      ],
+      "mobileId": 143167,
+      "phonetic": "ごりょうほ",
+      "related_words": {
+        "word": [
+          "五"
+        ]
+      },
+      "word": "五稜堡"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fd6567c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đê chắn sóng dọc bờ biển ."
+        }
+      ],
+      "mobileId": 188454,
+      "phonetic": "かいほう",
+      "word": "海堡"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

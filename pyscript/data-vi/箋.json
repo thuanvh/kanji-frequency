@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e864521",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slip (of paper)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tag (usu. bamboo, wood, ivory, etc.), label"
+        }
+      ],
+      "mobileId": 252359,
+      "phonetic": "せん",
+      "word": "箋"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d12a147",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prescription"
+        }
+      ],
+      "mobileId": 215691,
+      "phonetic": "やくせん",
+      "word": "薬箋"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7bd627",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bình luận trên (về) (quyển) sách (của) những thơ ca ngợi bởi zheng xuan"
+        }
+      ],
+      "mobileId": 114968,
+      "phonetic": "",
+      "word": "鄭箋"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

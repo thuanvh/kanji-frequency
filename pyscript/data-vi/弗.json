@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900eca4d06",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đô la"
+        }
+      ],
+      "mobileId": 117498,
+      "phonetic": "どる",
+      "synsets": [
+        {
+          "base_form": "弗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "弗"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68816666",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "a-xít hydrofluoric"
+        }
+      ],
+      "mobileId": 4120,
+      "phonetic": "どるさん",
+      "word": "弗酸"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd43c674",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "châu phi"
+        }
+      ],
+      "mobileId": 11964,
+      "phonetic": "おもねどるりか",
+      "word": "阿弗利加"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7403bd16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "A-xít hydrofluoric ."
+        }
+      ],
+      "mobileId": 97570,
+      "phonetic": "ふっかすいそさん",
+      "related_words": {
+        "word": [
+          "水",
+          "水素",
+          "酸",
+          "弗"
+        ]
+      },
+      "word": "弗化水素酸"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c04ffd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "African wild ass (Equus africanus)"
+        }
+      ],
+      "mobileId": 278894,
+      "phonetic": "アフリカのろば アフリカノロバ",
+      "word": "阿弗利加野驢馬"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

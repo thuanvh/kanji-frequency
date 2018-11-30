@@ -1,0 +1,285 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027289e5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chài"
+        },
+        {
+          "examples": [
+            {
+              "content": "網で魚をとる",
+              "mean": "đánh cá bằng lưới",
+              "transcription": "あみでさかなをとる"
+            },
+            {
+              "content": "テロ網",
+              "mean": "mạng lưới khủng bố",
+              "transcription": "テロもう"
+            },
+            {
+              "content": "データ網",
+              "mean": "hệ thống dữ liệu",
+              "transcription": "データもう"
+            }
+          ],
+          "kind": "n",
+          "mean": "lưới; mạng lưới; hệ thống"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tấm lưới"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "võng ."
+        }
+      ],
+      "mobileId": 29742,
+      "phonetic": "あみ",
+      "related_words": {
+        "word": [
+          "網羅",
+          "金網",
+          "網戸",
+          "網膜",
+          "通信網",
+          "一網打尽"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "網",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ネット"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ネットワーク"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "計略",
+                "罠",
+                "謀略",
+                "トラップ",
+                "落とし穴",
+                "囮",
+                "陥穽"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "罔",
+                "ネット"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "網"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802728e860",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "網袋に果物を入れる",
+              "mean": "để hoa quả vào trong túi lưới .",
+              "transcription": "あみぶくろにくだものをいれる"
+            }
+          ],
+          "kind": "n",
+          "mean": "túi lưới"
+        }
+      ],
+      "mobileId": 29751,
+      "phonetic": "あみぶくろ",
+      "related_words": {
+        "word": [
+          "袋",
+          "網"
+        ]
+      },
+      "word": "網袋"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680142ba46",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lưới cá"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lưới đánh cá ."
+        }
+      ],
+      "mobileId": 42895,
+      "phonetic": "ぎょもう",
+      "word": "魚網"
+    },
+    {
+      "_id": "432518852de0a80625d585a9827f6bbb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "access network"
+        }
+      ],
+      "mobileId": 235664,
+      "phonetic": "アクセスもう",
+      "word": "アクセス網"
+    },
+    {
+      "_id": "432518852de0a80625d585a982263857",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese \"Neck\" constellation (one of the 28 mansions)"
+        }
+      ],
+      "mobileId": 232830,
+      "phonetic": "あみぼし",
+      "word": "網星"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd6599fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vỉ (nướng thịt ...)"
+        }
+      ],
+      "mobileId": 72007,
+      "phonetic": "やきもう",
+      "word": "焼き網"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74d91610",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mạng lưới chi nhánh ."
+        }
+      ],
+      "mobileId": 100698,
+      "phonetic": "してんもう",
+      "related_words": {
+        "word": [
+          "店",
+          "支店",
+          "網"
+        ]
+      },
+      "word": "支店網"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7c55dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mạng(lưới) cố định"
+        }
+      ],
+      "mobileId": 114985,
+      "phonetic": "ていちあみ",
+      "word": "定置網"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99fa8a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hand net (for fishing)"
+        }
+      ],
+      "mobileId": 277829,
+      "phonetic": "あみだま",
+      "word": "網玉"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d6c3974",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "国の交通網に壊滅的な打撃を与える",
+              "mean": "phá hủy mạng lưới giao thông quốc gia",
+              "transcription": "くにのこうつうもうにかいめつてきなだげきをあたえる"
+            },
+            {
+              "content": "交通網が発達しているので、ほとんどどこへでも電車とバスで行けます",
+              "mean": "do mạng lưới giao thông phát triển nên hầu như có thể đi bằng xe điện hoặc xe buýt đến bất kỳ đâu",
+              "transcription": "こうつうもうがはったつしているので、ほとんどどこへでもでんしゃとバスでいけます"
+            },
+            {
+              "content": "公共交通網",
+              "mean": "mạng lưới giao thông công cộng",
+              "transcription": "こうきょうこうつうもう"
+            },
+            {
+              "content": "基幹的交通網",
+              "mean": "mạng lưới giao thông chính .",
+              "transcription": "きかんてきこうつうもう"
+            }
+          ],
+          "kind": "n",
+          "mean": "mạng lưới giao thông"
+        }
+      ],
+      "mobileId": 143293,
+      "phonetic": "こうつうもう",
+      "related_words": {
+        "word": [
+          "交通",
+          "通",
+          "網"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "交通網",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "渡り",
+                "トランスポーテーション",
+                "交通機関",
+                "足"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "交通網"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9157e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese marten (Martes melampus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "marten (any arboreal weasel-like mammal of genus Martes)"
+        }
+      ],
+      "mobileId": 228043,
+      "phonetic": "てん テン",
+      "word": "貂"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a916b12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tsushima marten (Martes melampus tsuensis, a subspecies of the Japanese marten)"
+        }
+      ],
+      "mobileId": 228045,
+      "phonetic": "つしまてん ツシマテン",
+      "word": "対馬貂"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b5dd02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ermine"
+        }
+      ],
+      "mobileId": 286791,
+      "phonetic": "しろてん しろテン",
+      "word": "白貂"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a916dc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stone marten, beech marten (Martes foina)"
+        }
+      ],
+      "mobileId": 228046,
+      "phonetic": "むなじろてん ムナジロテン",
+      "word": "胸白貂"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

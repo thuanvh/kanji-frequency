@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7729904d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "truly, indeed"
+        }
+      ],
+      "mobileId": 265807,
+      "phonetic": "むべ うべ",
+      "word": "宜"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd7f3783",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tình bạn; những quan hệ thân thiện; tình đoàn kết"
+        }
+      ],
+      "mobileId": 72814,
+      "phonetic": "ともむべ",
+      "related_words": {
+        "word": [
+          "友"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "友宜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "修交",
+                "親善",
+                "友情",
+                "誼",
+                "修好",
+                "友好",
+                "友誼",
+                "交誼"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "友宜"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8aee765",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tình bạn, tình hữu nghị"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tình hữu nghị, tình bạn, tình bằng hữu; quan hệ thân thiện"
+        }
+      ],
+      "mobileId": 39084,
+      "phonetic": "",
+      "word": "交宜"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8aed34d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sưởi ấm tình bạn"
+        }
+      ],
+      "mobileId": 39082,
+      "phonetic": "こうむべ",
+      "word": "好宜"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8af017a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(bạn) tử tế hoặc đặc ân"
+        }
+      ],
+      "mobileId": 39087,
+      "phonetic": "こうむべ",
+      "word": "高宜"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dfa24ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phù hợp với thứ"
+        }
+      ],
+      "mobileId": 153734,
+      "phonetic": "ことむべ",
+      "related_words": {
+        "word": [
+          "事"
+        ]
+      },
+      "word": "事宜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0372556",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "quite right, indeed, truly, well said"
+        }
+      ],
+      "mobileId": 282731,
+      "phonetic": "むべなるかな うべなるかな",
+      "word": "宜なるかな"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7710f83b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pavilion housing imperial treasures and historical artifacts (in Heian Palace)"
+        }
+      ],
+      "mobileId": 265001,
+      "phonetic": "ぎようでん",
+      "word": "宜陽殿"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd76dab9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhật bản cổ xưa"
+        }
+      ],
+      "mobileId": 72536,
+      "phonetic": "やまと",
+      "related_words": {
+        "word": [
+          "倭人"
+        ]
+      },
+      "word": "倭"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdfd3970",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "những cướp biển tiếng nhật ((của) những đứng tuổi)"
+        }
+      ],
+      "mobileId": 76832,
+      "phonetic": "",
+      "word": "倭冦"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdfd2af8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cướp biển Nhật (theo cách gọi của người Triều Tiên và Trung Quốc)"
+        }
+      ],
+      "mobileId": 76831,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "倭"
+        ]
+      },
+      "word": "倭寇"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04d4525",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japan"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Yamato, ancient province corresponding to modern-day Nara Prefecture"
+        }
+      ],
+      "mobileId": 283430,
+      "phonetic": "おおやまと だいにっぽん だいにほん",
+      "word": "大倭"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771d601a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "king of Yamato"
+        }
+      ],
+      "mobileId": 265412,
+      "phonetic": "わおう",
+      "word": "倭王"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef972e852",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "King of Na gold seal (National Treasure of Japan)"
+        }
+      ],
+      "mobileId": 276394,
+      "phonetic": "かんのわのなのこくおういん かんのわのなのこくおうのいん",
+      "word": "漢倭奴国王印"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0c8d02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "cắt"
+        }
+      ],
+      "mobileId": 146146,
+      "phonetic": "せつ",
+      "related_words": {
+        "word": [
+          "大切",
+          "売り切れ",
+          "適切",
+          "親切",
+          "締め切り",
+          "適切な",
+          "区切り",
+          "切断",
+          "切り替え",
+          "切替"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "切",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "真面目",
+                "ひたむき",
+                "真正直",
+                "生真面目"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "切"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81cd17b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trao đổi; sự chuyển đổi; sự thay thế; chuyển (tới); switchover"
+        }
+      ],
+      "mobileId": 34420,
+      "phonetic": "きりかえ",
+      "related_words": {
+        "word": [
+          "切"
+        ]
+      },
+      "word": "切換"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada33fc73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cớ; lý do; nguyên cớ; động lực"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "động cơ; cơ hội; dịp; động lực"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bắt đầu; sự khởi đầu; bắt đầu; khởi đầu ."
+        }
+      ],
+      "mobileId": 77813,
+      "phonetic": "きっかけ",
+      "word": "切掛"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf053e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "autotomy, self amputation, act of cutting off a part of one's own body in order to escape a predator"
+        }
+      ],
+      "mobileId": 247502,
+      "phonetic": "じせつ",
+      "word": "自切"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77cee2dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "off timer (i.e. to automatically turn an electrical device off at a certain time)"
+        }
+      ],
+      "mobileId": 271160,
+      "phonetic": "きりタイマー",
+      "word": "切タイマー"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1031f6",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-pn",
+          "mean": "háo hức, nghiêm túc, hăng hái"
+        }
+      ],
+      "mobileId": 223919,
+      "phonetic": "せつなる",
+      "word": "切なる"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81d2ae0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k",
+          "mean": "tới (cắt một) sự khắc khía (bên trong)"
+        }
+      ],
+      "mobileId": 34428,
+      "phonetic": "せつかく",
+      "word": "切欠く"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e822d076",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sắc bén ((của) một thanh gươm); cảm xúc (của) một sự cắt viền"
+        }
+      ],
+      "mobileId": 34614,
+      "phonetic": "せつみ",
+      "related_words": {
+        "word": [
+          "味",
+          "切"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "切味",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "切れ味"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "切味"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9573e6d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(toán học) tang (tỉ số giữa cạnh đối và cạnh kề của một góc đã cho trong một hình tam giác vuông)"
+        }
+      ],
+      "mobileId": 59778,
+      "phonetic": "せいせつ",
+      "related_words": {
+        "word": [
+          "正",
+          "切"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "正切",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "正接",
+                "切線"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "正切"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b89b63f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cut back, revert"
+        }
+      ],
+      "mobileId": 244232,
+      "phonetic": "きりもどし",
+      "word": "切戻し"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

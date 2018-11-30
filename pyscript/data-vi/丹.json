@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d45dcd0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鉛丹",
+              "mean": "oxít chì màu đỏ .",
+              "transcription": "なまりに"
+            }
+          ],
+          "kind": "n",
+          "mean": "đất đỏ (ngày xưa thường dùng để nhuộm); màu đỏ đất"
+        }
+      ],
+      "mobileId": 142608,
+      "phonetic": "に",
+      "related_words": {
+        "word": [
+          "牡丹",
+          "雲丹",
+          "丹精",
+          "丹念"
+        ]
+      },
+      "word": "丹"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d45ed20",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "丹塗りの鳥居",
+              "mean": "Cổng chào (thường ở phía trước đền hoặc chùa...) được sơn màu đỏ. .",
+              "transcription": "にぬりのとりい"
+            }
+          ],
+          "kind": "n, adj-no, vs",
+          "mean": "Vẽ màu đỏ; quét sơn mài màu đỏ son"
+        }
+      ],
+      "mobileId": 142610,
+      "phonetic": "にぬり",
+      "related_words": {
+        "word": [
+          "丹"
+        ]
+      },
+      "word": "丹塗り"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ba5358",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sudan"
+        }
+      ],
+      "mobileId": 278687,
+      "phonetic": "スーダン",
+      "word": "蘇丹"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeca22b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chì đỏ; (hoá học) chất Minium"
+        }
+      ],
+      "mobileId": 17267,
+      "phonetic": "なまりに",
+      "word": "鉛丹"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c07dc4bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bhutan"
+        }
+      ],
+      "mobileId": 210890,
+      "phonetic": "ブータン",
+      "word": "不丹"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e21c898",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xanh đỏ"
+        }
+      ],
+      "mobileId": 112107,
+      "phonetic": "たんあおい",
+      "related_words": {
+        "word": [
+          "丹"
+        ]
+      },
+      "word": "丹碧"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96136c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Khitan people, Khitai, Kitan, Kidan"
+        }
+      ],
+      "mobileId": 275829,
+      "phonetic": "きったん けいたん キタイ キタン",
+      "word": "契丹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97c4c44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "greenish-black earth"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "green verditer"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dark green tinged with yellow"
+        }
+      ],
+      "mobileId": 276699,
+      "phonetic": "あおに",
+      "word": "青丹"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0af7d5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fool, idiot"
+        }
+      ],
+      "mobileId": 212483,
+      "phonetic": "あんぽんたん",
+      "word": "安本丹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97c9015",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red"
+        }
+      ],
+      "mobileId": 276707,
+      "phonetic": "あかに",
+      "word": "赤丹"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

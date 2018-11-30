@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e41aaf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "being entrusted with, being delegated with"
+        }
+      ],
+      "mobileId": 250139,
+      "phonetic": "じゅしょく",
+      "word": "受嘱"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d677747",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "conferment, act of conferring (honour, gift, etc.)"
+        }
+      ],
+      "mobileId": 218421,
+      "phonetic": "ふしょく",
+      "word": "付嘱"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6eb4ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giao cho ai chịu trách nhiệm về (cái gì/ai); giao phó; giao cho (ai việc gì)"
+        }
+      ],
+      "mobileId": 13319,
+      "phonetic": "よしょく",
+      "related_words": {
+        "word": [
+          "依"
+        ]
+      },
+      "word": "依嘱"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b32649",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dying wish, wish by dying person to be carried out after their death"
+        }
+      ],
+      "mobileId": 278444,
+      "phonetic": "いしょく",
+      "word": "遺嘱"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

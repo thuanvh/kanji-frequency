@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a925bc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "蟹雑炊",
+              "mean": "cơm cua",
+              "transcription": "かにぞうすい"
+            },
+            {
+              "content": "蟹サラダ",
+              "mean": "salad cua",
+              "transcription": "かにサラダ"
+            },
+            {
+              "content": "蟹工船",
+              "mean": "thuyền đánh bắt cua",
+              "transcription": "かにこうせん"
+            }
+          ],
+          "kind": "n",
+          "mean": "con cua"
+        }
+      ],
+      "mobileId": 32077,
+      "phonetic": "かに",
+      "related_words": {
+        "word": [
+          "蟹座",
+          "毛蟹"
+        ]
+      },
+      "word": "蟹"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd349ee7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cua bể chân đỏ"
+        }
+      ],
+      "mobileId": 11477,
+      "phonetic": "あさひかに",
+      "word": "旭蟹"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937db077",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bệnh ung thư, ung nhọt, những cái xấu xa, hạ chí tuyến"
+        }
+      ],
+      "mobileId": 21921,
+      "phonetic": "かにざ",
+      "related_words": {
+        "word": [
+          "座",
+          "蟹"
+        ]
+      },
+      "word": "蟹座"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821321d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pseudoscorpion (any arachnid of order Pseudoscorpionida), false scorpion"
+        }
+      ],
+      "mobileId": 232254,
+      "phonetic": "かにむし カニムシ",
+      "word": "蟹虫"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c07c2c86",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coconut crab (Birgus latro)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "horribly drawn animated TV-show"
+        }
+      ],
+      "mobileId": 210835,
+      "phonetic": "やしがに ヤシガニ",
+      "word": "椰子蟹"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937dd140",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "món ăn Trung hoa với trứng chiên và cua bể"
+        }
+      ],
+      "mobileId": 21924,
+      "phonetic": "かにだま",
+      "word": "蟹玉"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19383bc07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cua bể móng ngựa"
+        }
+      ],
+      "mobileId": 22114,
+      "phonetic": "かぶとかに",
+      "word": "兜蟹"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824630b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crayfish (esp. red swamp crayfish, Procambarus clarkii)"
+        }
+      ],
+      "mobileId": 233852,
+      "phonetic": "えびがに エビガニ",
+      "word": "海老蟹"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e459016",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spider, spider silk"
+        }
+      ],
+      "mobileId": 250265,
+      "phonetic": "ささがに",
+      "word": "細蟹"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f7350b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "large half-dome-shaped nail"
+        }
+      ],
+      "mobileId": 272475,
+      "phonetic": "かにめくぎ",
+      "word": "蟹目釘"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

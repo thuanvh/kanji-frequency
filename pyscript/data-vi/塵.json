@@ -1,0 +1,248 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10718d1d2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "微小な黄道塵からの太陽光の反射",
+              "mean": "Phản xạ của mặt trời từ những mảnh bụi hoàng đạo nhỏ li ti",
+              "transcription": "びしょうなこうどうちりからのたいようこうのはんしゃ"
+            },
+            {
+              "content": "背後からの光を吸収する星間塵",
+              "mean": "Bụi giữa các vì sao hấp thu ánh sáng từ phía đằng sau .",
+              "transcription": "はいごからのひかりをきゅうしゅうするほしかんちり"
+            }
+          ],
+          "kind": "n",
+          "mean": "bụi"
+        }
+      ],
+      "mobileId": 52276,
+      "phonetic": "ちり",
+      "related_words": {
+        "word": [
+          "防塵",
+          "粉塵",
+          "微塵",
+          "塵箱"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "塵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ごみ",
+                "芥"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "屑",
+                "廃棄物",
+                "くず",
+                "芥",
+                "灰塵"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "芥"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "くず"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "塵"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10718a728",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rác"
+        }
+      ],
+      "mobileId": 52275,
+      "phonetic": "ごみ",
+      "related_words": {
+        "word": [
+          "防塵",
+          "粉塵",
+          "微塵",
+          "塵箱"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "塵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ごみ",
+                "芥"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "屑",
+                "廃棄物",
+                "くず",
+                "芥",
+                "灰塵"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "芥"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "くず"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "塵"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d09dca4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(comp) rác bên trong, rác ở ngoài"
+        }
+      ],
+      "mobileId": 146066,
+      "phonetic": "ちりいれちりだし",
+      "word": "塵入れ塵出し"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10718df8e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "クリップオン塵取り",
+              "mean": "Cái hót rác .",
+              "transcription": "クリップオンちりとり"
+            }
+          ],
+          "kind": "n",
+          "mean": "mo hót rác"
+        }
+      ],
+      "mobileId": 52277,
+      "phonetic": "ちりとり",
+      "related_words": {
+        "word": [
+          "塵"
+        ]
+      },
+      "word": "塵取り"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802708c2a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đám mây bụi; thế giới trần tục; hồng trần ."
+        }
+      ],
+      "mobileId": 29230,
+      "phonetic": "こうじん",
+      "word": "紅塵"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d09d4e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "<Mỹ> thùng rác"
+        }
+      ],
+      "mobileId": 146065,
+      "phonetic": "ちりいり",
+      "word": "塵入"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de9366f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ritual gestures (squatting, clapping, etc.) indicating that a fight will be clean"
+        }
+      ],
+      "mobileId": 222670,
+      "phonetic": "ちりちょうず",
+      "word": "塵手水"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeaeaf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bụi trần; bụi khói; chiến loạn; cảnh chiến tranh"
+        }
+      ],
+      "mobileId": 17208,
+      "phonetic": "けむりちり",
+      "word": "煙塵"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0bc136f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "raising dust, dust emission, dust generation"
+        }
+      ],
+      "mobileId": 287001,
+      "phonetic": "はつじん",
+      "word": "発塵"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a49655",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trash, garbage, junk"
+        }
+      ],
+      "mobileId": 277974,
+      "phonetic": "ごみくず ゴミくず ゴミクズ",
+      "word": "塵屑"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

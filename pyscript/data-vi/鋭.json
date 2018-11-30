@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04c068a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "sharpness"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sharp weapon, blade"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "fine soldier"
+        }
+      ],
+      "mobileId": 209296,
+      "opposite_word": [
+        "鈍"
+      ],
+      "phonetic": "えい",
+      "word": "鋭"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddc6315",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lính gác, lính canh, đứng gác, đứng canh, (từ hiếm, nghĩa hiếm) đặt lính gác"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đóng quân; bố trí lực lượng đồn trú"
+        }
+      ],
+      "mobileId": 16735,
+      "phonetic": "するどへい",
+      "word": "鋭兵"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94165d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "acute (of the shape of a leaf), acuminate, pointed"
+        }
+      ],
+      "mobileId": 258386,
+      "phonetic": "えいとう",
+      "word": "鋭頭"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9414bcd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "acute (of the shape of a leaf tip)"
+        }
+      ],
+      "mobileId": 258383,
+      "phonetic": "えいけい",
+      "word": "鋭形"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd62811",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính có cảm giác; sự dễ cảm; sự nhạy cảm, tính nhạy"
+        }
+      ],
+      "mobileId": 16547,
+      "phonetic": "するどかん",
+      "synsets": [
+        {
+          "base_form": "鋭感",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "感受性",
+                "鋭敏",
+                "感度",
+                "感性",
+                "感覚"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "アンテナ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鋭感"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e9cc0c8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "えいひ",
+              "mean": "",
+              "transcription": ""
+            }
+          ],
+          "kind": "",
+          "mean": "Cây kẹp bông cotton, cây móc, kẹp ( phẫu thuật học)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "えいひ",
+      "word": "鋭匙"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdddf386",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "tới sự gãy mũi nhọn"
+        }
+      ],
+      "mobileId": 16782,
+      "phonetic": "",
+      "word": "鋭を挫く"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdddfa8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự cầm lên trên một vũ khí"
+        }
+      ],
+      "mobileId": 16783,
+      "phonetic": "するどをとる",
+      "word": "鋭を取る"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddb2556",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "nhọn mũi"
+        }
+      ],
+      "mobileId": 16698,
+      "phonetic": "するどさきがた",
+      "word": "鋭先形"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94159dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "acuminate (of the shape of a leaf tip)"
+        }
+      ],
+      "mobileId": 258384,
+      "phonetic": "えいせんけい",
+      "word": "鋭尖形"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

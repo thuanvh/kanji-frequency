@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1c1c21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, pref",
+          "mean": "nhiều; tất cả"
+        }
+      ],
+      "mobileId": 141773,
+      "phonetic": "ばん",
+      "related_words": {
+        "word": [
+          "万歳",
+          "千万",
+          "万華鏡",
+          "億万長者",
+          "万能",
+          "万人",
+          "万年筆",
+          "万が一",
+          "森羅万象",
+          "万歩計"
+        ]
+      },
+      "word": "万"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1c24af",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "一万円",
+              "mean": "một vạn YênVẠN",
+              "transcription": "いちまんえん"
+            }
+          ],
+          "kind": "adv, num",
+          "mean": "vạn"
+        },
+        {
+          "examples": null,
+          "kind": "adv, num",
+          "mean": "vô số; tất cả; mọi thứ ."
+        }
+      ],
+      "mobileId": 141774,
+      "phonetic": "まん",
+      "related_words": {
+        "word": [
+          "万歳",
+          "千万",
+          "万華鏡",
+          "億万長者",
+          "万能",
+          "万人",
+          "万年筆",
+          "万が一",
+          "森羅万象",
+          "万歩計"
+        ]
+      },
+      "word": "万"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6838a396",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, n",
+          "mean": "bởi bất kỳ (cái) nào tình cờ; mười nghìn tới một"
+        }
+      ],
+      "mobileId": 1841,
+      "phonetic": "まんまんいち",
+      "related_words": {
+        "word": [
+          "万",
+          "一",
+          "万一",
+          "万万"
+        ]
+      },
+      "word": "万万一"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6838ac9f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vạn vạn tuế"
+        }
+      ],
+      "mobileId": 1842,
+      "phonetic": "まんまんさい",
+      "word": "万万歳"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68355a87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhiều hàng hoá"
+        }
+      ],
+      "mobileId": 1733,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "万"
+        ]
+      },
+      "word": "万貨"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6835cdee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự có nhiều tài; tính linh hoạt, tính hay thay đổi, tính không kiên định, tính lúc lắc (bao phấn nhị hoa, râu sâu bọ)"
+        }
+      ],
+      "mobileId": 1750,
+      "phonetic": "まんげい",
+      "related_words": {
+        "word": [
+          "万"
+        ]
+      },
+      "word": "万芸"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6836fece",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền tối cao, chủ quyền"
+        }
+      ],
+      "mobileId": 1791,
+      "phonetic": "まんじょう",
+      "related_words": {
+        "word": [
+          "万"
+        ]
+      },
+      "word": "万乗"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6838d2b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhiều sự phân biệt"
+        }
+      ],
+      "mobileId": 1846,
+      "phonetic": "まんべつ",
+      "related_words": {
+        "word": [
+          "万",
+          "別"
+        ]
+      },
+      "word": "万別"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683913fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ánh mắt của nhiều người, sự quan sát của nhiều người, sự chú ý của công chúng"
+        }
+      ],
+      "mobileId": 1854,
+      "phonetic": "まんもく",
+      "related_words": {
+        "word": [
+          "万",
+          "目"
+        ]
+      },
+      "word": "万目"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad76b70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "character tiles"
+        }
+      ],
+      "mobileId": 230319,
+      "phonetic": "ワンズ マンズ ワンツ",
+      "word": "万子"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,327 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f743a7329",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼女は外出の前に戸締りをするよう夫に念を押した.",
+              "mean": "Cô ấy đã nhắc chồng nhớ khóa cửa khi rời khỏi nhà.",
+              "transcription": "かのじょはがいしゅつのまえにとじまりをするようおっとにねんをおした."
+            },
+            {
+              "content": "ご念には及びません.",
+              "mean": "Hãy để tôi lo việc đó cho.",
+              "transcription": "ごねんにはおよびません."
+            }
+          ],
+          "kind": "n",
+          "mean": "sự chú ý"
+        },
+        {
+          "examples": [
+            {
+              "content": "念の入ったうそ a",
+              "mean": "Nói dối đã ăn vào máu.",
+              "transcription": "ねんのはいったうそa"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự tâm niệm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc nhắc đến ."
+        }
+      ],
+      "mobileId": 98336,
+      "phonetic": "ねん",
+      "related_words": {
+        "word": [
+          "残念",
+          "念のため",
+          "残念ながら",
+          "記念日",
+          "記念",
+          "理念",
+          "概念",
+          "信念",
+          "懸念",
+          "独立記念日"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "念",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "訳",
+                "意味",
+                "センス",
+                "検出",
+                "感性",
+                "勘",
+                "感覚",
+                "事理",
+                "観念"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "憧れ",
+                "デザイア",
+                "欲望",
+                "志願",
+                "志望",
+                "色気",
+                "想い",
+                "欲",
+                "愛欲",
+                "願い",
+                "望み",
+                "欲求",
+                "願望",
+                "思い",
+                "所望"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "念願",
+                "志望",
+                "想い",
+                "欲",
+                "願い",
+                "望み",
+                "希望",
+                "欲求",
+                "願望",
+                "思い",
+                "所望"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "気持",
+                "気持ち",
+                "気色",
+                "想い",
+                "情",
+                "気分",
+                "心持ち",
+                "感情",
+                "思い",
+                "心地",
+                "感じ",
+                "気味"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "注意",
+                "傾注",
+                "注目"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "念"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9613469",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "careful and thorough person"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "older male in an homosexual relationship"
+        }
+      ],
+      "mobileId": 259427,
+      "phonetic": "ねんしゃ ねんじゃ",
+      "word": "念者"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f743ac07c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "Sự nhắc nhở ."
+        }
+      ],
+      "mobileId": 98345,
+      "phonetic": "ねんおし",
+      "related_words": {
+        "word": [
+          "押し",
+          "念"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "念押し",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "備忘"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "念押し"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d791278",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghĩ"
+        }
+      ],
+      "mobileId": 149564,
+      "phonetic": "むねねん",
+      "related_words": {
+        "word": [
+          "念",
+          "旨"
+        ]
+      },
+      "word": "旨念"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7743e8e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "assistant in a duel (e.g. a cockfight, poetry contest, etc.) (Heian period)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "older male in an homosexual relationship"
+        }
+      ],
+      "mobileId": 266652,
+      "phonetic": "ねんにん ねんじん",
+      "word": "念人"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83b9795",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tập trung suy nghĩ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "age at one's death"
+        }
+      ],
+      "mobileId": 35410,
+      "phonetic": "こごねん",
+      "related_words": {
+        "word": [
+          "念",
+          "凝"
+        ]
+      },
+      "word": "凝念"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3acd85c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "telepathic communication"
+        }
+      ],
+      "mobileId": 230004,
+      "phonetic": "ねんわ",
+      "word": "念話"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eefb9ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chăm sóc; tỉ mẩn; sự ngay thẳng"
+        }
+      ],
+      "mobileId": 118675,
+      "phonetic": "ねんいれ",
+      "related_words": {
+        "word": [
+          "念",
+          "入れ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "念入れ",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "律儀"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "念入れ"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd560f1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-t, adv-to",
+          "mean": "sự yên lặng; sự yên tĩnh"
+        }
+      ],
+      "mobileId": 71505,
+      "phonetic": "だまねん",
+      "word": "黙念"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ac6037",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "telekinesis, psychokinesis"
+        }
+      ],
+      "mobileId": 212383,
+      "phonetic": "ねんどう",
+      "word": "念動"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

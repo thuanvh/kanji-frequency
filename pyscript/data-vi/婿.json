@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107665cf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con rể ."
+        }
+      ],
+      "mobileId": 53587,
+      "opposite_word": [
+        "嫁"
+      ],
+      "phonetic": "むこ",
+      "related_words": {
+        "word": [
+          "花婿"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "婿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "新郎",
+                "別当",
+                "花婿"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "新郎",
+                "花婿"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "婿"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda02f60",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trở thành con rể của gia đình vợ; người trở thành con rể của gia đình vợ"
+        }
+      ],
+      "mobileId": 14866,
+      "phonetic": "はいりむこ",
+      "word": "入り婿"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0963761",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brother-in-law"
+        }
+      ],
+      "mobileId": 211668,
+      "phonetic": "あいむこ",
+      "word": "相婿"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771ce908",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prince consort"
+        }
+      ],
+      "mobileId": 265400,
+      "phonetic": "おうせい",
+      "word": "王婿"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a6d96e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chú rể mà được yêu bởi cô dâu (của) anh ấy"
+        }
+      ],
+      "mobileId": 38827,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "婿"
+        ]
+      },
+      "word": "乞婿"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771cf30e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prince consort"
+        }
+      ],
+      "mobileId": 265401,
+      "phonetic": "こうせい",
+      "word": "皇婿"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107610920",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anh rể ."
+        }
+      ],
+      "mobileId": 53477,
+      "opposite_word": [
+        "妹婿"
+      ],
+      "phonetic": "あねむこ",
+      "word": "姉婿"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1076669eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự kén rể ."
+        }
+      ],
+      "mobileId": 53588,
+      "phonetic": "むこえらび",
+      "word": "婿選び"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd302de3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "kết hôn vào trong họ những thứ cô dâu"
+        }
+      ],
+      "mobileId": 70338,
+      "phonetic": "むこいり",
+      "word": "婿入"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9afc70",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "em rể"
+        }
+      ],
+      "mobileId": 14706,
+      "opposite_word": [
+        "姉婿"
+      ],
+      "phonetic": "いもうとむこ",
+      "word": "妹婿"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

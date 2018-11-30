@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada47327c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "年金基金の剰余",
+              "mean": "thặng dư quỹ hưu trí",
+              "transcription": "ねんきんききんのじょうよ"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự quá; thặng dư"
+        }
+      ],
+      "mobileId": 78156,
+      "phonetic": "じょう",
+      "word": "剰"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95349509",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những chi phí không cần thiết"
+        }
+      ],
+      "mobileId": 57765,
+      "phonetic": "あまひ",
+      "related_words": {
+        "word": [
+          "費"
+        ]
+      },
+      "word": "剰費"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f9951f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "remaining money, change"
+        }
+      ],
+      "mobileId": 264250,
+      "phonetic": "じょうせん",
+      "word": "剰銭"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

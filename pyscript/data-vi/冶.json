@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd643079",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nấu chảy; sự tan, tan, chảy, cảm động, mủi lòng, gợi mối thương tâm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tên, mũi tên, vật hình tên, còn một mũi tên trong ống tên;  còn phương tiện dự trữ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tám, số tám, hình con số tám, (thể dục, thể thao) đội tám người, khá say"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thung lũng, khe mái, thời kỳ vô cùng bi đát, thời kỳ gần kề cõi chết"
+        }
+      ],
+      "mobileId": 71965,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "鍛冶",
+          "冶金"
+        ]
+      },
+      "word": "冶"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd6c2978",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công nhân luyện kim"
+        }
+      ],
+      "mobileId": 72207,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "冶"
+        ]
+      },
+      "word": "冶工"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b223ed0e9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "こうそくじぐ",
+              "mean": "",
+              "transcription": ""
+            }
+          ],
+          "kind": "",
+          "mean": "Gông (trong nghành cơ khí)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "",
+      "word": "拘束冶具"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

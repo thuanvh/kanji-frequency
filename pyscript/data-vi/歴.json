@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abd6315",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "history of, experience of"
+        }
+      ],
+      "mobileId": 229468,
+      "phonetic": "れき",
+      "word": "歴"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde25a75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(những ngài liên tiếp) sử dụng những cùng vật giữ đó"
+        }
+      ],
+      "mobileId": 75990,
+      "phonetic": "へつかまつ",
+      "word": "歴仕"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dfedfd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "diễn biến vụ tai nạn"
+        }
+      ],
+      "mobileId": 153873,
+      "phonetic": "じこれき",
+      "related_words": {
+        "word": [
+          "事",
+          "事故",
+          "故"
+        ]
+      },
+      "word": "事故歴"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8140933",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quá trình giảng dạy"
+        }
+      ],
+      "mobileId": 34137,
+      "phonetic": "きょうれき",
+      "word": "教歴"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f634cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản ghi phạm tội"
+        }
+      ],
+      "mobileId": 63981,
+      "phonetic": "たいほれき",
+      "word": "逮捕歴"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde2f081",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đi qua của năm tháng, sự đi qua của thời gian"
+        }
+      ],
+      "mobileId": 76007,
+      "phonetic": "れきび",
+      "related_words": {
+        "word": [
+          "日"
+        ]
+      },
+      "word": "歴日"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ae35c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "geography and history"
+        }
+      ],
+      "mobileId": 261852,
+      "phonetic": "ちれき",
+      "word": "地歴"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde35fbe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự truyền miệng (truyện cổ tích, phong tục tập quán... từ đời nọ qua đời kia), truyền thuyết, truyền thống"
+        }
+      ],
+      "mobileId": 76020,
+      "phonetic": "れきでん",
+      "word": "歴伝"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1272ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "criminal record"
+        }
+      ],
+      "mobileId": 215685,
+      "phonetic": "はんれき",
+      "word": "犯歴"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0344f6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "asphalt, bitumen"
+        }
+      ],
+      "mobileId": 208525,
+      "phonetic": "れきせい チャン",
+      "word": "歴青"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

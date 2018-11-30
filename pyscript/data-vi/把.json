@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74954826",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ぬぎ一把",
+              "mean": "một bó hành",
+              "transcription": "ぬぎいちわ"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "bó"
+        }
+      ],
+      "mobileId": 99654,
+      "phonetic": "わ",
+      "word": "把"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00862bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "holding, gripping"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grip (sword, gun, etc.), hilt, handle"
+        }
+      ],
+      "mobileId": 281231,
+      "phonetic": "あくは",
+      "word": "握把"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d2198c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grip of a gun"
+        }
+      ],
+      "mobileId": 271273,
+      "phonetic": "じゅうは",
+      "word": "銃把"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d0e3a7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một bó ."
+        }
+      ],
+      "mobileId": 141610,
+      "phonetic": "いちわ",
+      "word": "一把"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74954d2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tay cầm; quả đấm (cửa) ."
+        }
+      ],
+      "mobileId": 99655,
+      "phonetic": "とって",
+      "related_words": {
+        "word": [
+          "手"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "把っ手",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ハンドル",
+                "柄",
+                "つまみ",
+                "握り",
+                "手",
+                "グリップ",
+                "把手"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "把っ手"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

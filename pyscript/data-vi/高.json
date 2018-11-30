@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f9af80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "số lượng; tổng số tiền; khối lượng; dung tích; số lượng tiền"
+        }
+      ],
+      "mobileId": 64091,
+      "opposite_word": [
+        "低",
+        "安"
+      ],
+      "phonetic": "こう",
+      "word": "高"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95fc45c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cao; ồn ào"
+        }
+      ],
+      "mobileId": 64163,
+      "phonetic": "こうだかと",
+      "word": "高高と"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd883aef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toàn diện (thị trường) tiến tới"
+        }
+      ],
+      "mobileId": 14114,
+      "phonetic": "いっせいだか",
+      "related_words": {
+        "word": [
+          "一",
+          "一斉"
+        ]
+      },
+      "word": "一斉高"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568013e7b77",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bệnh huyết áp cao"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cao huyết áp; huyết áp cao ."
+        }
+      ],
+      "mobileId": 42814,
+      "opposite_word": [
+        "低血圧"
+      ],
+      "phonetic": "こうけつあつ",
+      "related_words": {
+        "word": [
+          "血",
+          "高血圧症"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "高血圧",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "高血圧症"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "高血圧"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b8a34f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bandwidth cao"
+        }
+      ],
+      "mobileId": 39399,
+      "phonetic": "こうたいいき",
+      "word": "高帯域"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8aa9d69",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ơn nghĩa sâu nặng, đại ân (như ơn thầy, ơn cha mẹ ...)"
+        }
+      ],
+      "mobileId": 38943,
+      "phonetic": "こうおん",
+      "word": "高恩"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ab0569",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hát giọng to và cao"
+        }
+      ],
+      "mobileId": 38954,
+      "phonetic": "こううた",
+      "word": "高歌"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ac3834",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "có cảm giác cao (e.g. quay phim, truyền đi bằng rađiô cái máy thu)"
+        }
+      ],
+      "mobileId": 38996,
+      "phonetic": "こうかんど",
+      "related_words": {
+        "word": [
+          "度",
+          "感度"
+        ]
+      },
+      "word": "高感度"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ad9456",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, adj-na",
+          "mean": "chức năng cao"
+        }
+      ],
+      "mobileId": 39037,
+      "phonetic": "こうきのう",
+      "related_words": {
+        "word": [
+          "機能",
+          "機",
+          "能"
+        ]
+      },
+      "word": "高機能"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95fc6742",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cao nhảy"
+        }
+      ],
+      "mobileId": 64168,
+      "phonetic": "こうとび",
+      "word": "高跳び"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

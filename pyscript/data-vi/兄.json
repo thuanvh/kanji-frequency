@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7ddd30a1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "兄はA会社に勤めている。",
+              "mean": "Anh tôi hiện đang làm việc tại công ty A.",
+              "transcription": "あにはAかいしゃにつとめている。"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "anh trai"
+        }
+      ],
+      "mobileId": 145214,
+      "opposite_word": [
+        "弟"
+      ],
+      "phonetic": "あに",
+      "related_words": {
+        "word": [
+          "お兄さん",
+          "兄貴",
+          "お兄ちゃん",
+          "従兄弟",
+          "兄さん",
+          "兄嫁",
+          "義兄",
+          "従兄",
+          "父兄"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "兄",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "実兄",
+                "兄貴",
+                "弟",
+                "兄さん"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "兄"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953f4d20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn, adj-no",
+          "mean": "anh bạn [từ trang trọng để gọi một người bạn]"
+        }
+      ],
+      "mobileId": 58104,
+      "phonetic": "じんけい",
+      "related_words": {
+        "word": [
+          "兄",
+          "仁"
+        ]
+      },
+      "word": "仁兄"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94886eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "male who likes comics depicting male homosexual love (usually targeted to women)"
+        }
+      ],
+      "mobileId": 275063,
+      "phonetic": "ふけい",
+      "word": "腐兄"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3be4e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "older brother"
+        }
+      ],
+      "mobileId": 217018,
+      "phonetic": "あにじゃ",
+      "word": "兄者"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80c89b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anh(em) trai và chị, em gái"
+        }
+      ],
+      "mobileId": 33893,
+      "opposite_word": [
+        "弟妹"
+      ],
+      "phonetic": "あにあね",
+      "related_words": {
+        "word": [
+          "兄",
+          "姉"
+        ]
+      },
+      "word": "兄姉"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dfba3a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anh(em) trai elder dễ thương"
+        }
+      ],
+      "mobileId": 153775,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "兄",
+          "慈"
+        ]
+      },
+      "word": "慈兄"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3306cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anh trai yêu quí của tôi"
+        }
+      ],
+      "mobileId": 11420,
+      "phonetic": "おもねあに",
+      "word": "阿兄"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a37a42d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "elder brother, one's senior"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dashing young man, gallant young lad"
+        }
+      ],
+      "mobileId": 225193,
+      "phonetic": "あにい",
+      "word": "兄い"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef959cedf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "solicitude befitting an older brother or older person"
+        }
+      ],
+      "mobileId": 275607,
+      "phonetic": "このかみごころ",
+      "word": "兄心"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adaf3f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "musket (male Eurasian sparrowhawk)"
+        }
+      ],
+      "mobileId": 230440,
+      "phonetic": "このり",
+      "word": "兄鷂"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

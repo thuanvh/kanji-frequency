@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7d1ad4b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "新派閥を形成する",
+              "mean": "Hình thành một đảng phái mới.",
+              "transcription": "しんはばつをけいせいする"
+            },
+            {
+              "content": "旧派閥の再結集",
+              "mean": "Tập hợp lại đảng phái. .",
+              "transcription": "きゅうはばつのさいけっしゅう"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "bè đảng; phe cánh"
+        }
+      ],
+      "mobileId": 110218,
+      "phonetic": "ばつ",
+      "related_words": {
+        "word": [
+          "財閥",
+          "派閥"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "閥",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "系統",
+                "身元",
+                "門地",
+                "門閥",
+                "血筋",
+                "毛並み",
+                "生",
+                "血統",
+                "家筋",
+                "系譜",
+                "家柄",
+                "家系",
+                "素性",
+                "門"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "派閥",
+                "分派",
+                "徒党",
+                "会派",
+                "党派"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一党",
+                "派閥",
+                "連中",
+                "門閥",
+                "一群れ",
+                "閥族",
+                "派",
+                "徒党",
+                "党",
+                "会派",
+                "同人",
+                "党派",
+                "暴力団",
+                "徒",
+                "朋党"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "閥"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7d1d4e6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "閨閥政治",
+              "mean": "Chính trị thị tộc .",
+              "transcription": "ねやばつせいじ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Thị tộc"
+        }
+      ],
+      "mobileId": 110221,
+      "phonetic": "けいばつ",
+      "related_words": {
+        "word": [
+          "閥"
+        ]
+      },
+      "word": "閨閥"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2be79f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thị tộc satsuma"
+        }
+      ],
+      "mobileId": 147121,
+      "phonetic": "さつまばつ",
+      "word": "薩摩閥"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68343dca",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới mẫu (dạng) một tập đoàn"
+        }
+      ],
+      "mobileId": 1700,
+      "phonetic": "ばつをつくる",
+      "word": "閥を作る"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8792320",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chính phủ bởi relatives (của) cái thước đo có vợ"
+        }
+      ],
+      "mobileId": 37389,
+      "phonetic": "ねやばつせいじ",
+      "word": "閨閥政治"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

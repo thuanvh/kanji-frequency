@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107b6f047",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "波は激しく岩にぶち当たった。",
+              "mean": "Sóng đánh dữ dội vào bờ đá. .",
+              "transcription": "なみははげしくいわにぶちあたった。"
+            }
+          ],
+          "kind": "n",
+          "mean": "đá; dốc đá; bờ đá"
+        }
+      ],
+      "mobileId": 54962,
+      "phonetic": "いわ",
+      "related_words": {
+        "word": [
+          "溶岩",
+          "岩石",
+          "花崗岩",
+          "岩塩",
+          "岩盤",
+          "岩山",
+          "一枚岩",
+          "岩礁",
+          "砂岩",
+          "岩間"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "岩",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "岩石"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "岩石",
+                "石",
+                "石塊",
+                "ロック"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "岩石",
+                "石",
+                "石塊"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "岩"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa8182b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evaporite"
+        }
+      ],
+      "mobileId": 228775,
+      "phonetic": "じょうはつがん",
+      "word": "蒸発岩"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abe2779",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Marphysa sanguinea (species of eunicid worm)"
+        }
+      ],
+      "mobileId": 229500,
+      "phonetic": "いわむし イワムシ",
+      "word": "岩虫"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e09d59f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "weathered rocks"
+        }
+      ],
+      "mobileId": 248313,
+      "phonetic": "ふうかがん",
+      "word": "風化岩"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e886b05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "roseroot (Rhodiola rosea)"
+        }
+      ],
+      "mobileId": 252425,
+      "phonetic": "いわべんけい イワベンケイ",
+      "word": "岩弁慶"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d2b054",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "steep, towering rock"
+        }
+      ],
+      "mobileId": 263003,
+      "phonetic": "きがん",
+      "word": "危岩"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8d91a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sedimentary rock"
+        }
+      ],
+      "mobileId": 227926,
+      "phonetic": "ちんせきがん",
+      "word": "沈積岩"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8da264",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chert"
+        }
+      ],
+      "mobileId": 227928,
+      "phonetic": "かくがん",
+      "word": "角岩"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9062f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lithosphere"
+        }
+      ],
+      "mobileId": 228013,
+      "phonetic": "がんけん",
+      "word": "岩圏"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af95318",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stone-like socle (used as the base for a Buddhist statue)"
+        }
+      ],
+      "mobileId": 231405,
+      "phonetic": "いわざ",
+      "word": "岩座"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

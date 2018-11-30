@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a982658edb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sattva (being)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bodhisattva"
+        }
+      ],
+      "mobileId": 234850,
+      "phonetic": "さった",
+      "word": "薩埵"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac4a311",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Anglo-Satsuma War (1863)"
+        }
+      ],
+      "mobileId": 229697,
+      "phonetic": "さつえいせんそう",
+      "word": "薩英戦争"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f75f55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vajrasattva; tối cao (của) đạo phật tantric"
+        }
+      ],
+      "mobileId": 41427,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "金",
+          "堕",
+          "金剛"
+        ]
+      },
+      "word": "金剛薩堕"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826580ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bodhisattva"
+        }
+      ],
+      "mobileId": 234849,
+      "phonetic": "ぼだいさった",
+      "word": "菩提薩埵"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

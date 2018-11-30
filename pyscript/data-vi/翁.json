@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802742182d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "一人暮らしの老人",
+              "mean": "ông (già) sống độc thân",
+              "transcription": "ひとりぐらしのろうじん"
+            },
+            {
+              "content": "もうろくした老人",
+              "mean": "ông (già) lẩm cẩm",
+              "transcription": "もうろくしたろうじん"
+            },
+            {
+              "content": "腰の曲がった老人",
+              "mean": "ông (già) lưng còng",
+              "transcription": "こしのまがったろうじん"
+            },
+            {
+              "content": "老人と海",
+              "mean": "ông (già) và biển cả",
+              "transcription": "ろうじんとうみ"
+            },
+            {
+              "content": "時の翁",
+              "mean": "thời của ông .",
+              "transcription": "ときのおう"
+            }
+          ],
+          "kind": "n",
+          "mean": "ông già; cụ già"
+        }
+      ],
+      "mobileId": 30193,
+      "opposite_word": [
+        "媼"
+      ],
+      "phonetic": "おう",
+      "related_words": {
+        "word": [
+          "人間万事塞翁が馬"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "翁",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "爺",
+                "隠居",
+                "老翁",
+                "お爺さん"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "翁"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95da3b53",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làng elder"
+        }
+      ],
+      "mobileId": 63084,
+      "phonetic": "むらおきな",
+      "word": "村翁"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab1b0ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "father-in-law (of a woman)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "grandfather"
+        }
+      ],
+      "mobileId": 229081,
+      "phonetic": "あおう",
+      "word": "阿翁"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be88228",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lychnis ssp."
+        }
+      ],
+      "mobileId": 247261,
+      "phonetic": "せんのう",
+      "word": "仙翁"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19301392c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vỏ đèn lồng"
+        }
+      ],
+      "mobileId": 17920,
+      "phonetic": "おうかい",
+      "word": "翁貝"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e62946c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Beyrich's slit shell (species of sea snail, Pleurotomaria beyrichii)"
+        }
+      ],
+      "mobileId": 251211,
+      "phonetic": "おきなえびす オキナエビス",
+      "word": "翁恵比須"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930147a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mặt nạ những ông già"
+        }
+      ],
+      "mobileId": 17921,
+      "phonetic": "おうのめん",
+      "word": "翁の面"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e628999",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Beyrich's slit shell (species of sea snail, Pleurotomaria beyrichii)"
+        }
+      ],
+      "mobileId": 251210,
+      "phonetic": "おきなえびすがい オキナエビスガイ",
+      "word": "翁戎貝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

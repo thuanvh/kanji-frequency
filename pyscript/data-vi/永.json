@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd5a0cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mãi mãi, vĩnh viễn"
+        }
+      ],
+      "mobileId": 16528,
+      "phonetic": "えいひさし",
+      "synsets": [
+        {
+          "base_form": "永永",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "いつまでも",
+                "永々",
+                "永久に",
+                "何時までも"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "末長く",
+                "永遠に",
+                "永々",
+                "ずっと",
+                "永久に",
+                "何時までも"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "永永"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6107c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Eiman era (1165.6.5-1166.8.27)"
+        }
+      ],
+      "mobileId": 218208,
+      "phonetic": "えいまん",
+      "word": "永万"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d621d17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bun'ei era (1264.2.28-1275.4.25)"
+        }
+      ],
+      "mobileId": 218244,
+      "phonetic": "ぶんえい",
+      "word": "文永"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d634a4e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Eitoku era (of the Northern Court) (1381.2.24-1384.2.27)"
+        }
+      ],
+      "mobileId": 218280,
+      "phonetic": "えいとく",
+      "word": "永徳"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d63d63d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Eishou era (1504.2.30-1521.8.23)"
+        }
+      ],
+      "mobileId": 218300,
+      "phonetic": "えいしょう",
+      "word": "永正"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd59d74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "mãi mãi"
+        }
+      ],
+      "mobileId": 16527,
+      "phonetic": "ひさし々",
+      "synsets": [
+        {
+          "base_form": "永々",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "いつまでも",
+                "永永",
+                "永久に",
+                "何時までも"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "末長く",
+                "永永",
+                "永遠に",
+                "ずっと",
+                "永久に",
+                "何時までも"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "永々"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6163ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ken'ei era (1206.4.27-1207.10.25)"
+        }
+      ],
+      "mobileId": 218221,
+      "phonetic": "けんえい",
+      "word": "建永"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d62f396",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kouei era (of the Northern Court) (1342.4.27-1345.10.21)"
+        }
+      ],
+      "mobileId": 218270,
+      "phonetic": "こうえい",
+      "word": "康永"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5f5e05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Eien era (987.4.5-989.8.8)"
+        }
+      ],
+      "mobileId": 218164,
+      "phonetic": "えいえん",
+      "word": "永延"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d612b46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Juei era (1182.5.27-1184.4.16)"
+        }
+      ],
+      "mobileId": 218215,
+      "phonetic": "じゅえい",
+      "word": "寿永"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

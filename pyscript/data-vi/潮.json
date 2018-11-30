@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fffe157",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "潮の流れに乗って泳ぐ。",
+              "mean": "Bơi theo dòng nước .",
+              "transcription": "しおのながれにのっておよぐ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "thủy triều; dòng nước"
+        }
+      ],
+      "mobileId": 189154,
+      "phonetic": "しお,  うしお",
+      "word": "潮"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4eaa2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giờ thủy triều; một cơ hội lớn"
+        }
+      ],
+      "mobileId": 148230,
+      "phonetic": "しおあい",
+      "word": "潮合い"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776faa63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tidal flat, ebb tide beach (esp. in spring)"
+        }
+      ],
+      "mobileId": 268065,
+      "phonetic": "しおひがた",
+      "word": "潮干潟"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a895780",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "solar tide (tides caused by the Sun)"
+        }
+      ],
+      "mobileId": 227785,
+      "phonetic": "たいようちょう",
+      "word": "太陽潮"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5780f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự căng, trạng thái căng  tình hình căng thẳng, sự căng thẳng, sức ép, áp lực, điện áp"
+        }
+      ],
+      "mobileId": 113833,
+      "phonetic": "しおりょく",
+      "word": "潮力"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5030a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người chơi viôlông (ra hiệu, gọi) chọc vào"
+        }
+      ],
+      "mobileId": 148281,
+      "phonetic": "しおまねき",
+      "word": "潮招き"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a005248",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hư hại do nước biển ."
+        }
+      ],
+      "mobileId": 170271,
+      "phonetic": "しおぬれ",
+      "word": "潮濡"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a006b7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếng sóng ."
+        }
+      ],
+      "mobileId": 170275,
+      "phonetic": "ちょうおん",
+      "word": "潮音"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7da372c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thủy triều thấp ."
+        }
+      ],
+      "mobileId": 144204,
+      "phonetic": "ていちょう",
+      "related_words": {
+        "word": [
+          "潮"
+        ]
+      },
+      "word": "低潮"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a000830",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Phạm vi thủy triều ."
+        }
+      ],
+      "mobileId": 170264,
+      "phonetic": "ちょうさ",
+      "word": "潮差"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

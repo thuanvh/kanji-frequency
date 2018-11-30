@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a03892",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhụy ."
+        }
+      ],
+      "mobileId": 31922,
+      "phonetic": "しべ",
+      "word": "蘂"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e812a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhị cái ."
+        }
+      ],
+      "mobileId": 110606,
+      "phonetic": "めしべ",
+      "related_words": {
+        "word": [
+          "雌"
+        ]
+      },
+      "word": "雌蘂"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e5a748",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhị đực ."
+        }
+      ],
+      "mobileId": 110551,
+      "phonetic": "おしべ",
+      "related_words": {
+        "word": [
+          "雄"
+        ]
+      },
+      "word": "雄蘂"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

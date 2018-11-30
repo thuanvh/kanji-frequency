@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c088b685",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "existence, presence (of resources)"
+        }
+      ],
+      "mobileId": 211233,
+      "phonetic": "ふそん",
+      "word": "賦存"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0236bd4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "existing in full, remaining completely"
+        }
+      ],
+      "mobileId": 282080,
+      "phonetic": "かんそん",
+      "word": "完存"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecd5a79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tuy vậy vẫn còn đôi chút nghi ngờ"
+        }
+      ],
+      "mobileId": 117598,
+      "phonetic": "なおぎもんがそん",
+      "word": "猶疑問が存"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd730c38",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bà quả phụ, sinh vật cổ còn sót lại"
+        }
+      ],
+      "mobileId": 13451,
+      "phonetic": "のこそんしゅ",
+      "word": "遺存種"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c088b6a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abundance"
+        }
+      ],
+      "mobileId": 211234,
+      "phonetic": "ふそんりょう",
+      "word": "賦存量"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e62a96c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "patent ductus arteriosus"
+        }
+      ],
+      "mobileId": 251214,
+      "phonetic": "どうみゃくかんかいぞんしょう",
+      "word": "動脈管開存症"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

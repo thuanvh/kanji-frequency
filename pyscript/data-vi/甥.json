@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a61d248",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "私には甥は３人いるが，姪はいない。",
+              "mean": "Tôi có 3 cháu trai nhưng lại chẳng có cháu gái nào.",
+              "transcription": "わたしにはおいはさんにんいるが，めいはいない。"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "cháu trai"
+        }
+      ],
+      "mobileId": 171936,
+      "opposite_word": [
+        "姪"
+      ],
+      "phonetic": "おい",
+      "synsets": [
+        {
+          "base_form": "甥",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "猶子"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "甥"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de61c9e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nephew"
+        }
+      ],
+      "mobileId": 222567,
+      "phonetic": "おいっこ おいご",
+      "related_words": {
+        "word": [
+          "子",
+          "甥"
+        ]
+      },
+      "word": "甥っ子"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b4c838",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(another person's) nephew"
+        }
+      ],
+      "mobileId": 212670,
+      "phonetic": "おいご",
+      "word": "甥御"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dedff5b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "your nephew"
+        }
+      ],
+      "mobileId": 222815,
+      "phonetic": "れいせい",
+      "word": "令甥"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dee25e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grandnephew"
+        }
+      ],
+      "mobileId": 222819,
+      "phonetic": "またおい",
+      "word": "又甥"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

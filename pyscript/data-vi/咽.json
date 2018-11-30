@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef47851",
+      "means": [
+        {
+          "examples": "",
+          "kind": "",
+          "mean": "cổ họng, thanh quản, hầu"
+        }
+      ],
+      "mobileId": 118826,
+      "phonetic": "のんど",
+      "related_words": {
+        "word": [
+          "耳鼻咽喉科",
+          "咽頭",
+          "咽喉",
+          "咽る",
+          "嗚咽"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "咽",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "喉",
+                "咽喉",
+                "咽頭"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "咽"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd35e749",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự ho"
+        }
+      ],
+      "mobileId": 70514,
+      "phonetic": "のんどる",
+      "related_words": {
+        "word": [
+          "咽"
+        ]
+      },
+      "word": "咽る"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9094d81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "being choked with tears"
+        }
+      ],
+      "mobileId": 273060,
+      "phonetic": "あいえつ",
+      "word": "哀咽"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf98107",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "thổn thức"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đang khóc, khóc lóc, chy nước, rỉ nước, rủ cành"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "rên rỉ, lẩm bẩm"
+        }
+      ],
+      "mobileId": 17675,
+      "phonetic": "なのんど",
+      "word": "鳴咽"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f60919",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "glossopharyngeal nerve"
+        }
+      ],
+      "mobileId": 272437,
+      "phonetic": "ぜついんしんけい",
+      "word": "舌咽神経"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b3011c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "to want something desperately, to want something (so badly one can taste it)"
+        }
+      ],
+      "mobileId": 212607,
+      "phonetic": "のどからてがでる",
+      "word": "咽から手が出る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,303 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a8fc593",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "da"
+        },
+        {
+          "examples": [
+            {
+              "content": "牛の皮のかばん",
+              "mean": "bao da trâu",
+              "transcription": "うしのかわのかばん"
+            }
+          ],
+          "kind": "n",
+          "mean": "da bì"
+        },
+        {
+          "examples": [
+            {
+              "content": "まんじゅうの皮",
+              "mean": "bao bì",
+              "transcription": "まんじゅうのかわ"
+            },
+            {
+              "content": "りんごの皮をむく",
+              "mean": "bóc vỏ táo.",
+              "transcription": "りんごのかわをむく"
+            }
+          ],
+          "kind": "n",
+          "mean": "vỏ; vỏ ngoài"
+        }
+      ],
+      "mobileId": 172671,
+      "opposite_word": [
+        "実",
+        "身"
+      ],
+      "phonetic": "かわ",
+      "related_words": {
+        "word": [
+          "皮膚",
+          "皮膚科",
+          "皮肉",
+          "毛皮",
+          "合成皮革",
+          "脱皮",
+          "表皮",
+          "頭皮",
+          "皮革",
+          "樹皮"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "皮",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "角皮",
+                "表皮",
+                "上皮"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "毛皮",
+                "外皮"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "樹皮"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "果皮"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "皮膚",
+                "スキン",
+                "上皮"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "外被",
+                "外皮",
+                "表皮"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "甲羅",
+                "甲殻",
+                "殻",
+                "匣",
+                "覆い",
+                "箱",
+                "革"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "皮膚",
+                "人肌",
+                "肌",
+                "素肌",
+                "スキン",
+                "外皮",
+                "表皮"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "皮"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a619866",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"fur\" radical"
+        }
+      ],
+      "mobileId": 226507,
+      "phonetic": "ひのかわ",
+      "word": "皮の皮"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68869333",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếng tích tắc, vải bọc (nệm, gối)"
+        }
+      ],
+      "mobileId": 4286,
+      "phonetic": "ふとんがわ",
+      "word": "蒲団皮"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19350fc97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biểu bì, lớp cutin"
+        }
+      ],
+      "mobileId": 20494,
+      "phonetic": "かくがわ",
+      "related_words": {
+        "word": [
+          "角",
+          "皮"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "角皮",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "甲",
+                "甲羅",
+                "甲殻",
+                "殻",
+                "キューティクル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "皮",
+                "表皮",
+                "上皮"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "角皮"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19399dbc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "món sashimi chưa lột bỏ da (cá)"
+        }
+      ],
+      "mobileId": 22810,
+      "phonetic": "かわづくり",
+      "word": "皮作り"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a65fc84",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "leather, tanned animal hide"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kanji \"leather\" radical (radical 177)"
+        }
+      ],
+      "mobileId": 226646,
+      "phonetic": "つくりかわ つくりがわ",
+      "word": "作り皮"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04a667f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "unskinned, unhusked, in the skin"
+        }
+      ],
+      "mobileId": 283344,
+      "phonetic": "かわつき",
+      "word": "皮付き"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9497aab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rhinoceros hide"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Chinese lacquerware technique resulting in a mottled finish"
+        }
+      ],
+      "mobileId": 275094,
+      "phonetic": "さいひ",
+      "word": "犀皮"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6def7dad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pie crust"
+        }
+      ],
+      "mobileId": 222866,
+      "phonetic": "パイがわ",
+      "word": "パイ皮"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e89be5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "synthetic leather"
+        }
+      ],
+      "mobileId": 252473,
+      "phonetic": "ごうひ",
+      "related_words": {
+        "word": [
+          "皮"
+        ]
+      },
+      "word": "合皮"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

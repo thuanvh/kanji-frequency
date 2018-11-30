@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e91899c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cách"
+        }
+      ],
+      "mobileId": 115673,
+      "phonetic": "と",
+      "word": "途"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c011ddc5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "to stop midway, to interrupt"
+        }
+      ],
+      "mobileId": 189716,
+      "phonetic": "とぎらす",
+      "word": "途切らす"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c4a4c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "alley, alleyway"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "crossroads, intersection"
+        }
+      ],
+      "mobileId": 262569,
+      "phonetic": "ずし",
+      "word": "途子"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ba0fed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "road"
+        }
+      ],
+      "mobileId": 262224,
+      "phonetic": "どうと",
+      "word": "道途"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95797d8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thế giới; đường (dẫn) (của) cuộc sống"
+        }
+      ],
+      "mobileId": 59964,
+      "phonetic": "よと",
+      "related_words": {
+        "word": [
+          "世"
+        ]
+      },
+      "word": "世途"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a69115c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hades, underworld, realm of the dead, other world"
+        }
+      ],
+      "mobileId": 226743,
+      "phonetic": "くらきみち",
+      "word": "冥き途"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bdee046",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "to set out (on a journey), to start (a task)"
+        }
+      ],
+      "mobileId": 246960,
+      "phonetic": "とにつく",
+      "word": "途に就く"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c011d73c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vt",
+          "mean": "to stop midway, to interrupt"
+        }
+      ],
+      "mobileId": 189715,
+      "phonetic": "とぎらせる",
+      "word": "途切らせる"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193db99a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "để bỏ đi cho nhà"
+        }
+      ],
+      "mobileId": 24868,
+      "phonetic": "きこくのとにつく",
+      "word": "帰国の途に就く"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f744c6123",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "いつかはあの方のご恩に報いなければならない。",
+              "mean": "Một ngày nào đó, tôi sẽ phải báo đáp ơn của ông ấy.",
+              "transcription": "いつかはあのほうのごおんにむくいなければならない。"
+            },
+            {
+              "content": "私はあの方にはとても恩を感じています。",
+              "mean": "Tôi rất biết ơn vị đó.",
+              "transcription": "わたしはあのほうにはとてもおんをかんじています。"
+            }
+          ],
+          "kind": "n",
+          "mean": "ân; ân nghĩa; ơn; ơn nghĩa"
+        }
+      ],
+      "mobileId": 98571,
+      "phonetic": "おん",
+      "related_words": {
+        "word": [
+          "恩恵",
+          "恩返し",
+          "恩人",
+          "恩師",
+          "恩赦",
+          "恩寵",
+          "恩愛",
+          "恩着せがましい",
+          "恩義"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "恩",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "厚生",
+                "便益",
+                "プラス",
+                "為",
+                "恩恵",
+                "福祉",
+                "特典",
+                "恩沢",
+                "便宜",
+                "恵沢",
+                "益",
+                "福利",
+                "ベネフィット"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "好感",
+                "善意",
+                "温情",
+                "恩恵",
+                "恵み",
+                "慈悲",
+                "厚意",
+                "好意",
+                "愛想",
+                "仁徳",
+                "恩寵",
+                "懇情",
+                "恵沢",
+                "仁心",
+                "恩情",
+                "謝礼",
+                "仁恕"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "恩"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d18c18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(Phật giáo) quốc ân; món nợ đối với nước nhà, ân đức đối với quê hương"
+        }
+      ],
+      "mobileId": 40213,
+      "phonetic": "くにおん",
+      "word": "国恩"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8aa9d69",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ơn nghĩa sâu nặng, đại ân (như ơn thầy, ơn cha mẹ ...)"
+        }
+      ],
+      "mobileId": 38943,
+      "phonetic": "こうおん",
+      "word": "高恩"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10738437a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đại ân ."
+        }
+      ],
+      "mobileId": 52765,
+      "phonetic": "だいおん",
+      "word": "大恩"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04d896c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "divine blessing"
+        }
+      ],
+      "mobileId": 283440,
+      "phonetic": "しんおん",
+      "word": "神恩"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1c4bc5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(received) favor, kindness or blessing (favour)"
+        }
+      ],
+      "mobileId": 224318,
+      "phonetic": "ごおん",
+      "word": "ご恩"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193240e94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tình yêu và thù hận"
+        }
+      ],
+      "mobileId": 19071,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "恩"
+        ]
+      },
+      "word": "恩讐"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db4216d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ân huệ nhỏ, đặt ân nhỏ"
+        }
+      ],
+      "mobileId": 151449,
+      "phonetic": "しょうおん",
+      "related_words": {
+        "word": [
+          "恩"
+        ]
+      },
+      "word": "少恩"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05ec7d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "welcoming reception"
+        }
+      ],
+      "mobileId": 284003,
+      "phonetic": "げいおん",
+      "word": "迎恩"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97e5cc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "pay it forward, paying it forward, repaying a good deed by doing good for others"
+        }
+      ],
+      "mobileId": 276758,
+      "phonetic": "おんおくり",
+      "word": "恩送り"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,150 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada1a1db1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thừa; không cần thiết ."
+        }
+      ],
+      "mobileId": 77322,
+      "phonetic": "じょう",
+      "related_words": {
+        "word": [
+          "冗談",
+          "冗長",
+          "冗長性"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "冗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "不要",
+                "無用"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "冗"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9534975b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viết vẽ đùa chơi"
+        }
+      ],
+      "mobileId": 57766,
+      "phonetic": "",
+      "word": "冗筆"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada1a55dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "thừa lời; ngôn từ thừa; sự thừa; sự dư ."
+        }
+      ],
+      "mobileId": 77325,
+      "phonetic": "じょうげん",
+      "related_words": {
+        "word": [
+          "冗"
+        ]
+      },
+      "word": "冗言"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9532255c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự rất mực thừa thãi, sự rất mực dư thừa, sự rất mực dồi dào"
+        }
+      ],
+      "mobileId": 57688,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "冗"
+        ]
+      },
+      "word": "冗多"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95353733",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thừa, sự thừa dư, sự rườm rà"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số thừa, vật thừa, vật không cần thiết"
+        }
+      ],
+      "mobileId": 57784,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "物",
+          "冗"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "冗物",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "冗文",
+                "剰語",
+                "冗語",
+                "重複"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "冗物"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9537b1da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc không cần thiết; chi phí không cần thiết"
+        }
+      ],
+      "mobileId": 57854,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "用",
+          "冗"
+        ]
+      },
+      "word": "冗用"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

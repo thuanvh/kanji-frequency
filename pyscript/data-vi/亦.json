@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fc3b29",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cũng; lần nữa"
+        }
+      ],
+      "mobileId": 8031,
+      "phonetic": "また",
+      "synsets": [
+        {
+          "base_form": "亦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "同じく",
+                "又"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "同じく",
+                "又",
+                "同様に",
+                "等しく"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "併せて",
+                "尚且つ",
+                "又",
+                "外に",
+                "加えて"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "亦"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e099200",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "like dew or lightning, gone in a flash"
+        }
+      ],
+      "mobileId": 248304,
+      "phonetic": "にょろやくにょでん",
+      "word": "如露亦如電"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdff4a08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "tôi cũng vậy; tôi cũng"
+        }
+      ],
+      "mobileId": 76897,
+      "phonetic": "わたしもまた",
+      "word": "私も亦"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e1373eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "A law is a law, however undesirable it may be"
+        }
+      ],
+      "mobileId": 248628,
+      "phonetic": "あくほうもまたほうなり",
+      "word": "悪法も亦法也"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

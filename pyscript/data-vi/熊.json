@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a1c6bde",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "熊は冬の間ほら穴にこもっていた",
+              "mean": "Gấu vào hang để trú đông",
+              "transcription": "くまはふゆのまほらあなにこもっていた"
+            },
+            {
+              "content": "訓練された熊",
+              "mean": "Gấu được huấn luyện",
+              "transcription": "くんれんされたくま"
+            },
+            {
+              "content": "熊をたおす",
+              "mean": "giết gấu",
+              "transcription": "くまをたおす"
+            },
+            {
+              "content": "熊のコスチュームを着る",
+              "mean": "mặc quần áo lông gấu",
+              "transcription": "くまのコスチュームをきる"
+            },
+            {
+              "content": "彼は熊かライオンのように部屋を行ったり来たりし始めた",
+              "mean": "anh ta bắt đầu đi lại lồng lộn trong phòng như một con gấu hay sư tử vậy",
+              "transcription": "かれはくまかライオンのようにへやをおこなったりきたりしはじめた"
+            },
+            {
+              "content": "訓練された熊",
+              "mean": "Gấu được huấn luyện",
+              "transcription": "くんれんされたくま"
+            }
+          ],
+          "kind": "n",
+          "mean": "gấu; con gấu"
+        }
+      ],
+      "mobileId": 170829,
+      "phonetic": "くま",
+      "related_words": {
+        "word": [
+          "北極熊",
+          "熊手",
+          "洗熊"
+        ]
+      },
+      "word": "熊"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a127fe5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "black rat (Rattus rattus), roof rat"
+        }
+      ],
+      "mobileId": 223997,
+      "phonetic": "くまねずみ クマネズミ",
+      "word": "熊鼠"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7734ec44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "large evergreen oak"
+        }
+      ],
+      "mobileId": 266175,
+      "phonetic": "くまがし くまかし",
+      "word": "熊樫"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4d1588",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(euroasian) quấy rầy (meles meles) (đôi khi gọi một gấu trúc)"
+        }
+      ],
+      "mobileId": 12260,
+      "phonetic": "あらいくま",
+      "word": "洗い熊"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77db7c4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mother bear with two cubs"
+        }
+      ],
+      "mobileId": 271601,
+      "phonetic": "みつぐま",
+      "word": "三つ熊"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77dbbf48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common vervain (Verbena officinalis), common verbena"
+        }
+      ],
+      "mobileId": 271609,
+      "phonetic": "くまつづら クマツヅラ",
+      "word": "熊葛"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7734ff5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kumaso (ancient Japanese people resident to southern Kyushu)"
+        }
+      ],
+      "mobileId": 266177,
+      "phonetic": "くまそ",
+      "word": "熊襲"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af43092",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese carpenter ant (Camponotus japonicus)"
+        }
+      ],
+      "mobileId": 231244,
+      "phonetic": "くまあり クマアリ",
+      "word": "熊蟻"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3a8db0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spectacled bear (Tremarctos ornatus)"
+        }
+      ],
+      "mobileId": 225282,
+      "phonetic": "めがねぐま メガネグマ",
+      "word": "眼鏡熊"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e855f088",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "săn gấu"
+        }
+      ],
+      "mobileId": 36259,
+      "phonetic": "くまかり",
+      "word": "熊狩り"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

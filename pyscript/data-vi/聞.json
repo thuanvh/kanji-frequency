@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938439dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "enquiring trước"
+        }
+      ],
+      "mobileId": 22130,
+      "phonetic": "",
+      "word": "下聞"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e811b048",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tin tức xấu"
+        }
+      ],
+      "mobileId": 34062,
+      "phonetic": "",
+      "word": "凶聞"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826c6a7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-pn",
+          "mean": "famous, celebrated"
+        }
+      ],
+      "mobileId": 235050,
+      "phonetic": "きこゆる",
+      "word": "聞ゆる"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e8ae749",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hoàng đế có kiến thức"
+        }
+      ],
+      "mobileId": 115456,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "天"
+        ]
+      },
+      "word": "天聞"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af6f2eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hearing the teachings of Buddha"
+        }
+      ],
+      "mobileId": 231328,
+      "phonetic": "もんぼう もんぽう",
+      "word": "聞法"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680127aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự nghe, sự lắng nghe (từ khiêm nhường)"
+        }
+      ],
+      "mobileId": 35,
+      "phonetic": "",
+      "word": "拝聞"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af70319",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "seeing Buddha and hearing his teachings"
+        }
+      ],
+      "mobileId": 231330,
+      "phonetic": "けんぶつもんぽう けんぶつもんぼう",
+      "word": "見仏聞法"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

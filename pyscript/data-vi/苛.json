@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d9e4ddc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "in a hurry, hustle, person who's always in a rush"
+        }
+      ],
+      "mobileId": 220193,
+      "phonetic": "いらち",
+      "word": "苛ち"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280278528ac",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜と言って（人）苛々をさせる",
+              "mean": "làm cho ai đó khó chịu bằng cách nói ~",
+              "transcription": "〜といって（ひと） 苛 々をさせる"
+            },
+            {
+              "content": "苛々させないでくれ",
+              "mean": "Đừng làm tôi sốt ruột",
+              "transcription": "苛 々させないでくれ"
+            },
+            {
+              "content": "苛々を感じる",
+              "mean": "Cảm thấy sốt ruột .",
+              "transcription": "苛 々をかんじる"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự sốt ruột; sự nóng ruột; tức giận; khó chịu"
+        }
+      ],
+      "mobileId": 31458,
+      "phonetic": "いらいら",
+      "word": "苛々"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19367e014",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuế nặng, thuế cao"
+        }
+      ],
+      "mobileId": 21230,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "税"
+        ]
+      },
+      "word": "苛税"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193977b7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đàn áp, sự áp bức trong hệ thống thuế; sự bắt phải đóng thuế quá nặng nề"
+        }
+      ],
+      "mobileId": 22729,
+      "phonetic": "",
+      "word": "苛斂"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9eb691",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vi",
+          "mean": "để bị chọc tức"
+        }
+      ],
+      "mobileId": 14825,
+      "phonetic": "",
+      "word": "苛つく"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934a1b64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự đối xử tàn bạo"
+        }
+      ],
+      "mobileId": 20282,
+      "phonetic": "",
+      "word": "苛虐"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280278516a4",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adv, n, vs, adv-to",
+          "mean": "sốt ruột; nóng ruột"
+        }
+      ],
+      "mobileId": 31457,
+      "phonetic": "イライラ",
+      "word": "苛々"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027852ec3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs",
+          "mean": "sốt ruột; nóng ruột ."
+        }
+      ],
+      "mobileId": 31459,
+      "phonetic": "いらいら",
+      "word": "苛々する"
+    },
+    {
+      "_id": "ac12816c3281c52ce90ba353b6dc4d5d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "イライラしながらバスが来るのを待つ",
+              "mean": "Đợi xe buýt trong tình trạng sốt ruột",
+              "transcription": "イライラしながらバスがくるのをまつ"
+            },
+            {
+              "content": "私はイライラしながら彼女を待っていた",
+              "mean": "Tôi đã đợi cô ấy trong tâm trạng lo lắng, sốt ruột",
+              "transcription": "わたしはイライラしながらかのじょをまっていた"
+            },
+            {
+              "content": "イライラしながらバスが来るのを待つ",
+              "mean": "Đợi xe buýt trong tình trạng sốt ruột",
+              "transcription": "イライラしながらバスがくるのをまつ"
+            },
+            {
+              "content": "私はイライラしながら彼女を待っていた",
+              "mean": "Tôi đã đợi cô ấy trong tâm trạng lo lắng, sốt ruột",
+              "transcription": "わたしはイライラしながらかのじょをまっていた"
+            }
+          ],
+          "kind": "adv, uk",
+          "mean": "sốt ruột; nóng ruột"
+        }
+      ],
+      "mobileId": 133827,
+      "phonetic": "苛々",
+      "word": "イライラ"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

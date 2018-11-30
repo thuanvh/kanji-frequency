@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da147a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "già đi (của) sự suy tàn (được nói (của) một dân tộc)"
+        }
+      ],
+      "mobileId": 150841,
+      "phonetic": "",
+      "word": "叔世"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a9ca7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "uncle (one's father's younger brother)"
+        }
+      ],
+      "mobileId": 269968,
+      "phonetic": "おとおじ",
+      "word": "阿叔"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6806a68a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anh em, huynh đệ; chú bác, anh em trai của bố mẹ"
+        }
+      ],
+      "mobileId": 208,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "伯"
+        ]
+      },
+      "word": "伯叔"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193282cb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính cộng; phép cộng; sự cộng lại, sự thêm, phần thêm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tăng, sự tăng thêm, số lượng tăng thêm, tăng lên, tăng thêm, lớn thêm"
+        }
+      ],
+      "mobileId": 19211,
+      "opposite_word": [
+        "減"
+      ],
+      "phonetic": "か",
+      "related_words": {
+        "word": [
+          "追加",
+          "加工",
+          "参加者",
+          "参加する",
+          "参加",
+          "加入者",
+          "加えて",
+          "加算",
+          "増加",
+          "加湿器"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "加",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "引き上げ",
+                "加増",
+                "累加",
+                "増やし",
+                "増加"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "加"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933f45e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự tăng nhiệt độ để (cái gì) không trở nên lạnh (nguội); sự làm nóng lên"
+        }
+      ],
+      "mobileId": 19941,
+      "phonetic": "かゆたか",
+      "related_words": {
+        "word": [
+          "加"
+        ]
+      },
+      "word": "加温"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19358eb98",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Gia công, chế biến công nghiệp"
+        }
+      ],
+      "mobileId": 20753,
+      "phonetic": "かこうぎょう",
+      "related_words": {
+        "word": [
+          "工業",
+          "業",
+          "加"
+        ]
+      },
+      "word": "加工業"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937f930b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thêm tuổi mới (năm mới sẽ mừng sinh nhật và được thêm một tuổi )"
+        }
+      ],
+      "mobileId": 21984,
+      "phonetic": "かねん",
+      "related_words": {
+        "word": [
+          "年",
+          "加"
+        ]
+      },
+      "word": "加年"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9fddff1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "keep going, hang in there, go for it"
+        }
+      ],
+      "mobileId": 280887,
+      "phonetic": "ジャーユー",
+      "word": "加油"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f04ea2e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "日加協会",
+              "mean": "Hiệp hội Nhật Bản và Canada",
+              "transcription": "にちかきょうかい"
+            }
+          ],
+          "kind": "n",
+          "mean": "Nhật bản và Canada"
+        }
+      ],
+      "mobileId": 184956,
+      "phonetic": "にっか",
+      "word": "日加"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932849d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự gia tăng sức ép, tăng áp suất lên"
+        }
+      ],
+      "mobileId": 19215,
+      "opposite_word": [
+        "減圧"
+      ],
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "加"
+        ]
+      },
+      "word": "加圧"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca077dacc",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-f",
+          "mean": "Bổ sung"
+        }
+      ],
+      "mobileId": 284792,
+      "phonetic": "そうか",
+      "word": "相加"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed958a4c5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quạt - theo dõi chim chích"
+        }
+      ],
+      "mobileId": 60490,
+      "phonetic": "ゆきか",
+      "word": "雪加"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9de93e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "conj",
+          "mean": "not only ... but also, also"
+        }
+      ],
+      "mobileId": 263384,
+      "phonetic": "しかのみならず",
+      "word": "加之"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

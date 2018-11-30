@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a98243083b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "folding book"
+        },
+        {
+          "examples": null,
+          "kind": "suf, ctr",
+          "mean": "counter for units of paper and nori (48 pages of Mino paper; 20 pages of hanshi; 10 sheets of nori)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "counter for folding books, folding screens, shields, etc."
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "counter for pairs of curtains"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "counter for tatami mats"
+        }
+      ],
+      "mobileId": 233746,
+      "phonetic": "じょう",
+      "word": "帖"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada3191cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vở dán từ những tờ rời nhau; sổ có thể xé ."
+        }
+      ],
+      "mobileId": 77781,
+      "phonetic": "きりぬきちょう",
+      "related_words": {
+        "word": [
+          "切",
+          "切り抜き"
+        ]
+      },
+      "word": "切り抜き帖"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd79c302",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một xấp giấy ((của) giấy)"
+        }
+      ],
+      "mobileId": 13659,
+      "phonetic": "いちじょう",
+      "related_words": {
+        "word": [
+          "一"
+        ]
+      },
+      "word": "一帖"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cac780",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "book of calligraphy samples, copybook, portfolio"
+        }
+      ],
+      "mobileId": 213384,
+      "phonetic": "てほんちょう",
+      "word": "手本帖"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ae2fc7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "type of commission system in the book industry in Japan"
+        }
+      ],
+      "mobileId": 212441,
+      "phonetic": "ちょうあい",
+      "word": "帖合"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74b7e932",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Truyện trinh thám ."
+        }
+      ],
+      "mobileId": 100157,
+      "phonetic": "とりものちょう",
+      "related_words": {
+        "word": [
+          "物"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "捕物帖",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "探偵小説"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "捕物帖"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8c0056",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sketchbook"
+        }
+      ],
+      "mobileId": 150168,
+      "phonetic": "しゃせいじょう",
+      "related_words": {
+        "word": [
+          "生",
+          "写生"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "写生帖",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "スケッチブック",
+                "画帳",
+                "写生帳"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "写生帖"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99fe0e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stamp book, pilgrim's passport, souvenir seal albumn, book for collecting commemorative seals or stamps (at tourist sights, temples, shrines, etc.)"
+        }
+      ],
+      "mobileId": 277836,
+      "phonetic": "しゅういんじょう",
+      "word": "集印帖"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

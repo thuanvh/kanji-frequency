@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280271e86c3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼の日給は9000円だ",
+              "mean": "tiền công một ngày của anh ấy là chín ngìn yên.",
+              "transcription": "かれのにっきゅうは9000えんだ"
+            },
+            {
+              "content": "給の率",
+              "mean": "Tỉ lệ lương",
+              "transcription": "きゅうのりつ"
+            },
+            {
+              "content": "最高給を取得する社員",
+              "mean": "Nhân viên có mức tiền lương cao nhất",
+              "transcription": "さいこうきゅうをしゅとくするしゃいん"
+            },
+            {
+              "content": "社員に対して新たな給システムを導入する",
+              "mean": "áp dụng hệ thống lương mới cho nhân viên",
+              "transcription": "しゃいんにたいしてあらたなきゅうシステムをどうにゅうする"
+            },
+            {
+              "content": "当社は能力給です",
+              "mean": "công ty trả lương tùy theo năng lực",
+              "transcription": "とうしゃはのうりょくきゅうです"
+            }
+          ],
+          "kind": "n",
+          "mean": "lương; tiền công"
+        }
+      ],
+      "mobileId": 29586,
+      "opposite_word": [
+        "需"
+      ],
+      "phonetic": "きゅう",
+      "related_words": {
+        "word": [
+          "支給",
+          "給料",
+          "有給休暇",
+          "給与",
+          "給油",
+          "給湯器",
+          "供給者",
+          "給料日",
+          "補給",
+          "時給"
+        ]
+      },
+      "word": "給"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280274c3a94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền lương theo chức năng (nhiệm vụ) ."
+        }
+      ],
+      "mobileId": 30402,
+      "phonetic": "しょくのうきゅう",
+      "word": "職能給"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280275d325b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền lương theo năng suất ."
+        }
+      ],
+      "mobileId": 30656,
+      "phonetic": "のうりつきゅう",
+      "related_words": {
+        "word": [
+          "率",
+          "能",
+          "能率",
+          "給"
+        ]
+      },
+      "word": "能率給"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8e969c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền lương cố định"
+        }
+      ],
+      "mobileId": 40993,
+      "opposite_word": [
+        "歩合給"
+      ],
+      "phonetic": "こていきゅう",
+      "related_words": {
+        "word": [
+          "固定",
+          "給"
+        ]
+      },
+      "word": "固定給"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0985e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "paper feeding (printing)"
+        }
+      ],
+      "mobileId": 223701,
+      "phonetic": "きゅうし",
+      "word": "給紙"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0277457",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v4h, vt",
+          "mean": "to give"
+        },
+        {
+          "examples": null,
+          "kind": "v4h, vt",
+          "mean": "to receive"
+        }
+      ],
+      "mobileId": 190428,
+      "phonetic": "たまう たもう",
+      "word": "給ふ"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280275cd8fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trả lương theo năng lực"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền lương theo năng lực, khả năng ."
+        }
+      ],
+      "mobileId": 30641,
+      "phonetic": "のうりょくきゅう",
+      "word": "能力給"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada37c8d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kỳ lương đầu tiên ."
+        }
+      ],
+      "mobileId": 77861,
+      "phonetic": "しょにんきゅう",
+      "related_words": {
+        "word": [
+          "初",
+          "任",
+          "給"
+        ]
+      },
+      "word": "初任給"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1b77a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền lương giờ ."
+        }
+      ],
+      "mobileId": 185399,
+      "phonetic": "じかんきゅう",
+      "related_words": {
+        "word": [
+          "間",
+          "時",
+          "時間",
+          "給"
+        ]
+      },
+      "word": "時間給"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8adc33f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự giảm bên trong thanh toán"
+        }
+      ],
+      "mobileId": 39044,
+      "opposite_word": [
+        "昇給"
+      ],
+      "phonetic": "くだきゅう",
+      "related_words": {
+        "word": [
+          "給"
+        ]
+      },
+      "word": "降給"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

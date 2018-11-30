@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd7f73d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sợ hãi; sự nhận thức; oai vệ"
+        }
+      ],
+      "mobileId": 72822,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "憂懼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鬼胎",
+                "気掛かり",
+                "気遣い",
+                "憂慮",
+                "危懼",
+                "懸念",
+                "憂患",
+                "心配",
+                "危疑",
+                "憂心",
+                "恐れ",
+                "危惧",
+                "危虞"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "憂懼"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b84212",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "being startled"
+        }
+      ],
+      "mobileId": 262168,
+      "phonetic": "きょうく",
+      "word": "驚懼"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd609473",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự kinh hãi; nỗ sợ hãi"
+        }
+      ],
+      "mobileId": 12872,
+      "phonetic": "",
+      "word": "畏懼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7700b70b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "being struck with awe"
+        }
+      ],
+      "mobileId": 264479,
+      "phonetic": "こうく",
+      "word": "惶懼"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

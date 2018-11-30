@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ca25d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sichuan pepper (tree) (Zanthoxylum bungeanum), Chinese prickly-ash"
+        }
+      ],
+      "mobileId": 213366,
+      "phonetic": "かしょう",
+      "word": "花椒"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6437ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "huajiaoyan, Sichuan pepper-salt"
+        }
+      ],
+      "mobileId": 226592,
+      "phonetic": "ホワジャオイエン",
+      "word": "花椒塩"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df24356",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese-style stir-fry containing green peppers and meat, pepper steak (US)"
+        }
+      ],
+      "mobileId": 222958,
+      "phonetic": "チンジャオロース チンジャオロースー チンジャオロウスー",
+      "word": "青椒肉絲"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

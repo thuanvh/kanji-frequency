@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f600293",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "桑の葉を食べる蚕",
+              "mean": "con tằm ăn lá cây dâu",
+              "transcription": "くわのはをたべるかいこ"
+            },
+            {
+              "content": "時間と技術で、桑の葉は絹に変わる",
+              "mean": "lá dâu biến thành lụa nhờ thời gian và kỹ thuật",
+              "transcription": "じかんとぎじゅつで、くわのははきぬにかわる"
+            },
+            {
+              "content": "桑の木",
+              "mean": "cây dâu",
+              "transcription": "くわのき"
+            }
+          ],
+          "kind": "n",
+          "mean": "dâu tằm; dâu"
+        }
+      ],
+      "mobileId": 186553,
+      "phonetic": "くわ",
+      "related_words": {
+        "word": [
+          "桑田"
+        ]
+      },
+      "word": "桑"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90d8598",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Morus kagayamae (species of mulberry)"
+        }
+      ],
+      "mobileId": 273199,
+      "phonetic": "はちじょうぐわ ハチジョウグワ",
+      "word": "八丈桑"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cb88ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dâu tằm seedling"
+        }
+      ],
+      "mobileId": 62588,
+      "phonetic": "くわなえ",
+      "related_words": {
+        "word": [
+          "苗",
+          "桑"
+        ]
+      },
+      "word": "桑苗"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85ea046",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu vàng nhạt"
+        }
+      ],
+      "mobileId": 36534,
+      "phonetic": "くわしょく",
+      "related_words": {
+        "word": [
+          "色",
+          "桑"
+        ]
+      },
+      "word": "桑色"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85eea59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hái lá dâu tằm; người hái lá dâu tằm"
+        }
+      ],
+      "mobileId": 36543,
+      "phonetic": "くわつまみ",
+      "related_words": {
+        "word": [
+          "桑"
+        ]
+      },
+      "word": "桑摘み"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aedf31f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "storehousebush (Cudrania tricuspidata), mandarin melon berry, silkworm thorn, cudrang"
+        }
+      ],
+      "mobileId": 231049,
+      "phonetic": "はりぐわ ハリグワ",
+      "word": "針桑"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90d860e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mulberry leaf"
+        }
+      ],
+      "mobileId": 273200,
+      "phonetic": "くわば",
+      "word": "桑葉"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85e94b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quả dâu tằm"
+        }
+      ],
+      "mobileId": 36533,
+      "phonetic": "くわいちご",
+      "related_words": {
+        "word": [
+          "苺",
+          "桑"
+        ]
+      },
+      "word": "桑苺"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95bd28a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sôi nổi, kích thích, khích động, gây xúc động"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm cho khoẻ khoắn, làm cho khoan khoái, làm cho tươi tỉnh"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "/ig'ziləreitiɳ/  /ig'zilərətiv/, làm vui vẻ, làm hồ hởi, điều làm vui vẻ, điều làm hồ hởi"
+        }
+      ],
+      "mobileId": 62121,
+      "phonetic": "くわかい",
+      "related_words": {
+        "word": [
+          "海",
+          "桑"
+        ]
+      },
+      "word": "桑海"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90b180e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mulberry leaf powder"
+        }
+      ],
+      "mobileId": 273124,
+      "phonetic": "くわばまつ",
+      "word": "桑葉末"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

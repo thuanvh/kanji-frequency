@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7400331",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "身を亡す",
+              "mean": "hủy hoại chính bản thân",
+              "transcription": "みを亡す"
+            }
+          ],
+          "kind": "n",
+          "mean": "thân; phần chính; bản thân"
+        }
+      ],
+      "mobileId": 107727,
+      "opposite_word": [
+        "皮",
+        "殻",
+        "心",
+        "莢"
+      ],
+      "phonetic": "み",
+      "related_words": {
+        "word": [
+          "出身地",
+          "出身校",
+          "独身",
+          "身長",
+          "自分自身",
+          "刺身",
+          "出身",
+          "身幅",
+          "身体検査",
+          "中身"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "身",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "肉体",
+                "ボディ",
+                "身体",
+                "ボディー",
+                "体躯",
+                "五体",
+                "体",
+                "肉塊"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "身"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a784621",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sambhogakaya (reward body, form taken by a buddha after completing its role as a bodhisattva)"
+        }
+      ],
+      "mobileId": 227235,
+      "phonetic": "ほうじん ほうしん",
+      "word": "報身"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca022d740",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(former Chinese name for) India"
+        }
+      ],
+      "mobileId": 282061,
+      "phonetic": "しんどく",
+      "word": "身毒"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826a1197",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(dharma-body of) Vairocana"
+        }
+      ],
+      "mobileId": 234979,
+      "phonetic": "ほんじしん",
+      "word": "本地身"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd13a6be",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mặc quần áo; sự trang bị; turnout; sự chuẩn bị; getup"
+        }
+      ],
+      "mobileId": 69422,
+      "phonetic": "みしたく",
+      "word": "身仕度"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f749f07da",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "抜き身の剣",
+              "mean": "Lưỡi kiếm",
+              "transcription": "ぬきみのけん"
+            },
+            {
+              "content": "抜き身を突きつけて",
+              "mean": "Đâm bằng lưỡi kiếm .",
+              "transcription": "ぬきみをつきつけて"
+            }
+          ],
+          "kind": "n",
+          "mean": "gươm trần (không bao)"
+        }
+      ],
+      "mobileId": 99796,
+      "phonetic": "ぬきみ",
+      "word": "抜き身"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d54983d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "head and body"
+        },
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "heads tall (ratio of total height to length of the head), heads long"
+        }
+      ],
+      "mobileId": 217809,
+      "phonetic": "とうしん",
+      "word": "頭身"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9927117",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one's carriage, one's demeanor, agility, body movements"
+        }
+      ],
+      "mobileId": 260968,
+      "phonetic": "みごなし",
+      "word": "身熟し"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb14b29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(bơi lội) sự thả ngửa"
+        }
+      ],
+      "mobileId": 15422,
+      "phonetic": "うきみ",
+      "word": "浮き身"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aae3822",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nave (of a church)"
+        }
+      ],
+      "mobileId": 228964,
+      "phonetic": "しんろう",
+      "word": "身廊"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e22c543",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự giữ; sự bắt"
+        }
+      ],
+      "mobileId": 112143,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "拿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "拿捕",
+                "捕獲",
+                "占領",
+                "攻略",
+                "逮捕"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "拿"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

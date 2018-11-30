@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e8093f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "getting nauseated, getting angry"
+        }
+      ],
+      "mobileId": 252176,
+      "phonetic": "むかつき",
+      "word": "嘔"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9201cf9",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "buồn nôn"
+        }
+      ],
+      "mobileId": 257302,
+      "phonetic": "おうき",
+      "word": "嘔気"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6804b2b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự buồn nôn; sự lộn mửa, sự kinh tởm, sự tởm"
+        }
+      ],
+      "mobileId": 144,
+      "phonetic": "",
+      "word": "嘔き気"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1070d8e9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thành; lâu đài ."
+        }
+      ],
+      "mobileId": 52096,
+      "phonetic": "しろ",
+      "related_words": {
+        "word": [
+          "宮城",
+          "万里の長城",
+          "城壁",
+          "城下町",
+          "山城",
+          "古城",
+          "王城",
+          "城門",
+          "傾城"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "城",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "堅塁",
+                "城郭",
+                "本塁",
+                "要塞",
+                "砦",
+                "塁",
+                "堡塁"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "館",
+                "キャッスル",
+                "城郭",
+                "シャトー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "城"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d20335",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "watchtower of a castle"
+        }
+      ],
+      "mobileId": 262986,
+      "phonetic": "じょうろう",
+      "word": "城楼"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06e978b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small castle with a simple earthen-walled moat"
+        }
+      ],
+      "mobileId": 284505,
+      "phonetic": "かきあげじろ",
+      "word": "かき揚げ城"
+    },
+    {
+      "_id": "432518852de0a80625d585a98254e3d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abandoned castle"
+        }
+      ],
+      "mobileId": 234317,
+      "phonetic": "はいじょう",
+      "word": "廃城"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952a9ef6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "bên ngoài một lâu đài"
+        }
+      ],
+      "mobileId": 57451,
+      "opposite_word": [
+        "城内"
+      ],
+      "phonetic": "しろがい",
+      "related_words": {
+        "word": [
+          "城",
+          "外"
+        ]
+      },
+      "word": "城外"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952d8f46",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pháo đài, là pháo đài của; bảo vệ"
+        }
+      ],
+      "mobileId": 57539,
+      "phonetic": "しろとりで",
+      "related_words": {
+        "word": [
+          "城",
+          "砦"
+        ]
+      },
+      "word": "城砦"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95357380",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "binh sĩ giữ thành"
+        }
+      ],
+      "mobileId": 57789,
+      "phonetic": "しろへい",
+      "word": "城兵"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01134ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "imperial palace"
+        }
+      ],
+      "mobileId": 281512,
+      "phonetic": "こうじょう",
+      "word": "皇城"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e091a90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "castle and moat, castle's moat"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "City God (Taoist guardian god of a city)"
+        }
+      ],
+      "mobileId": 248288,
+      "phonetic": "じょうこう",
+      "word": "城隍"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9538936f",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "pháo đài, là pháo đài của; bảo vệ"
+        }
+      ],
+      "mobileId": 57880,
+      "phonetic": "じょう るい",
+      "word": "城塁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,209 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f9f17c9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "自由の民",
+              "mean": "người dân tự do .",
+              "transcription": "じゆうのみん"
+            }
+          ],
+          "kind": "n",
+          "mean": "dân"
+        }
+      ],
+      "mobileId": 187546,
+      "opposite_word": [
+        "官"
+      ],
+      "phonetic": "たみ",
+      "related_words": {
+        "word": [
+          "民族",
+          "民主党",
+          "自由民主党",
+          "国民",
+          "民間",
+          "市民",
+          "民主主義",
+          "植民地",
+          "住民",
+          "住民票"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "民",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "人民",
+                "国民"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "公民",
+                "人民",
+                "市民",
+                "ピープル",
+                "国民"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "臣民",
+                "市民",
+                "国民"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "民"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04468ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "min-min kisei, deals between companies which restrict competition"
+        }
+      ],
+      "mobileId": 283165,
+      "phonetic": "みんみんきせい",
+      "word": "民民規制"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6839072b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tấn công những người"
+        }
+      ],
+      "mobileId": 1852,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "民",
+          "蛮"
+        ]
+      },
+      "word": "蛮民"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e9ded5b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Ngư dân"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "うおたみ",
+      "word": "魚民"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d1aa11b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giải tỏa cho những nỗi đau khỏi những người"
+        }
+      ],
+      "mobileId": 146587,
+      "phonetic": "すみみん",
+      "word": "済民"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e02a5cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "free people, free men"
+        }
+      ],
+      "mobileId": 248088,
+      "phonetic": "じゆうみん",
+      "word": "自由民"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f9fc5eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dân tộc ."
+        }
+      ],
+      "mobileId": 187566,
+      "phonetic": "たみそく",
+      "word": "民即"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6f91e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhập cư, dân nhập cư"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "di cư, người di cư"
+        }
+      ],
+      "mobileId": 13345,
+      "phonetic": "いじゅうみん",
+      "word": "移住民"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938b2f79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dân thường, nhân dân; người thuộc tầng lớp thấp trong xã hội"
+        }
+      ],
+      "mobileId": 22344,
+      "phonetic": "したみん",
+      "related_words": {
+        "word": [
+          "下",
+          "民"
+        ]
+      },
+      "word": "下民"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a750d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những người bị xã hội ruồng bỏ; tiện dân"
+        }
+      ],
+      "mobileId": 61429,
+      "phonetic": "",
+      "word": "賤民"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

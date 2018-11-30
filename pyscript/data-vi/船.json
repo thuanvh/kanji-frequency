@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280277ab07f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tàu bè"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tàu; thuyền"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuyền bè ."
+        }
+      ],
+      "mobileId": 31229,
+      "phonetic": "ふね",
+      "related_words": {
+        "word": [
+          "風船",
+          "船尾",
+          "船便",
+          "船長",
+          "船舶",
+          "帆船",
+          "飛行船",
+          "宇宙船",
+          "乗船",
+          "船員"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "船",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "舟",
+                "シップ",
+                "船舶"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "舟艇",
+                "舟",
+                "船舶"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "船"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6887a021",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cháy trên tàu"
+        }
+      ],
+      "mobileId": 4316,
+      "phonetic": "ふねかじ",
+      "word": "船火事"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193be1bc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tàu chạy bằng hơi nước cần điều khiển"
+        }
+      ],
+      "mobileId": 23935,
+      "phonetic": "がいしゃせん",
+      "word": "外車船"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c11b65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ship đi biển"
+        }
+      ],
+      "mobileId": 24030,
+      "phonetic": "がいようせん",
+      "word": "外洋船"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3aa9ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eggcase (shell) of the winged argonaut"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "winged argonaut (species of paper nautilus, Argonauta hians)"
+        }
+      ],
+      "mobileId": 225286,
+      "phonetic": "たこぶね タコブネ",
+      "word": "蛸船"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280277b6599",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tên tàu ."
+        }
+      ],
+      "mobileId": 31252,
+      "phonetic": "せんめい",
+      "word": "船名"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280277bca00",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bốc hàng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gửi hàng ."
+        }
+      ],
+      "mobileId": 31266,
+      "phonetic": "ふなつみ",
+      "related_words": {
+        "word": [
+          "船",
+          "積"
+        ]
+      },
+      "word": "船積"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08279ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "landing module, lander"
+        }
+      ],
+      "mobileId": 285109,
+      "phonetic": "ちゃくりくせん",
+      "word": "着陸船"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d2616b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khảo sát tình hình chung ship"
+        }
+      ],
+      "mobileId": 62815,
+      "phonetic": "そくりょうせん",
+      "word": "測量船"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd880e39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thư từ đi thuyền"
+        }
+      ],
+      "mobileId": 73115,
+      "phonetic": "ゆうびんせん",
+      "word": "郵便船"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

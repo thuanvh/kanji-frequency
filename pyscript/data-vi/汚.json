@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a99f09a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oceanic whitetip shark (Carcharhinus longimanus)"
+        }
+      ],
+      "mobileId": 261369,
+      "phonetic": "よごれ ヨゴレ",
+      "word": "汚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ad6559",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "messy room, dirty room, unclean room"
+        }
+      ],
+      "mobileId": 278244,
+      "phonetic": "おべや おへや",
+      "word": "汚部屋"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94f283f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frequently uttering obscene words or socially inappropriate remarks"
+        }
+      ],
+      "mobileId": 275271,
+      "phonetic": "おげん",
+      "word": "汚言"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e189f39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính tham lam, tính tham ăn, thói háu ăn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hối lộ, sự tham nhũng, sự mục nát, sự thối nát, sự sửa đổi làm sai lạc (bài văn, ngôn ngữ...)"
+        }
+      ],
+      "mobileId": 111814,
+      "phonetic": "むさぼきたな",
+      "related_words": {
+        "word": [
+          "貪"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "貪汚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "腐敗",
+                "汚職",
+                "贈収賄",
+                "贈賄",
+                "悪徳",
+                "黄白",
+                "汚濁",
+                "収賄"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "業突張り",
+                "欲張り",
+                "貪慾",
+                "強欲",
+                "貪欲",
+                "貪婪"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "腐敗",
+                "汚職",
+                "堕落",
+                "贈収賄",
+                "贈賄",
+                "悪徳",
+                "黄白",
+                "汚濁",
+                "収賄"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "不徳",
+                "腐敗",
+                "汚職",
+                "堕落",
+                "頽廃",
+                "贈収賄",
+                "贈賄",
+                "悪徳",
+                "黄白",
+                "自堕落",
+                "退廃",
+                "汚濁",
+                "収賄"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "貪汚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ab2f80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "blasphemy, desecration"
+        }
+      ],
+      "mobileId": 278173,
+      "phonetic": "おとく",
+      "word": "汚涜"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ad6884",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unhygienic young woman, dirty girl"
+        }
+      ],
+      "mobileId": 278245,
+      "phonetic": "おギャル",
+      "word": "汚ギャル"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02592d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2r-s, vi",
+          "mean": "to be violated, to be corrupted, to be polluted, to be stained"
+        }
+      ],
+      "mobileId": 190368,
+      "phonetic": "けがる",
+      "word": "汚る"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0259b18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2r-s, vi",
+          "mean": "to get dirty, to become dirty"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to become sullied, to become corrupted, to lose one's chastity"
+        }
+      ],
+      "mobileId": 190369,
+      "phonetic": "よごる",
+      "word": "汚る"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77545ef3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oceanic whitetip shark (Carcharhinus longimanus)"
+        }
+      ],
+      "mobileId": 267169,
+      "phonetic": "よごれざめ ヨゴレザメ",
+      "word": "汚鮫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77473833",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coprolalia, uncontrollable use of obscene language"
+        }
+      ],
+      "mobileId": 266749,
+      "phonetic": "おげんしょう",
+      "word": "汚言症"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

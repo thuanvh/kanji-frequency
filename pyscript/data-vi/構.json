@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aca1af9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Rubus trifidus (species of raspberry)"
+        }
+      ],
+      "mobileId": 229869,
+      "phonetic": "かじいちご カジイチゴ",
+      "word": "構苺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adc4cdd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "no problem, it doesn't matter"
+        }
+      ],
+      "mobileId": 230489,
+      "phonetic": "かまへん かめへん",
+      "word": "構へん"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3eac033e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Ngoại cảnh"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "がいこう",
+      "word": "外構"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef986e7a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "rebuilding, reconstructing, reorganizing"
+        }
+      ],
+      "mobileId": 277037,
+      "phonetic": "さいこう",
+      "word": "再構"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c094fa93",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "body structure"
+        }
+      ],
+      "mobileId": 211623,
+      "phonetic": "こうたい",
+      "word": "構体"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9692648",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "framework, frame, structure"
+        }
+      ],
+      "mobileId": 276090,
+      "phonetic": "かこう",
+      "word": "架構"
+    },
+    {
+      "_id": "edf7f33f53832e93b36c90d5fd0cbdc9",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Gantry-Giang cầu công tác"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "こうだい",
+      "word": "構台"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bdc90ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tension-mullion glazing system"
+        }
+      ],
+      "mobileId": 246875,
+      "phonetic": "テンションマリオンこうほう",
+      "word": "テンションマリオン構法"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a967abc4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lisp"
+        }
+      ],
+      "mobileId": 259621,
+      "phonetic": "こうおんしょうがい",
+      "related_words": {
+        "word": [
+          "障害",
+          "音",
+          "害"
+        ]
+      },
+      "word": "構音障害"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

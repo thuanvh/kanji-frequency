@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ff69d3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "対物レンズに露が付着するのを防ぐ",
+              "mean": "Tránh việc sương đọng lại trên thấu kính",
+              "transcription": "たいぶつレンズにろがふちゃくするのをふせぐ"
+            },
+            {
+              "content": "露のしずくが朝日の中できらめいていた",
+              "mean": "Những giọt sương lấp lánh vào buổi sáng",
+              "transcription": "ろのしずくがあさひのなかできらめいていた"
+            }
+          ],
+          "kind": "n",
+          "mean": "sương"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sương mù ."
+        }
+      ],
+      "mobileId": 111026,
+      "phonetic": "つゆ",
+      "related_words": {
+        "word": [
+          "露出",
+          "披露宴",
+          "結婚披露宴",
+          "露天風呂",
+          "披露",
+          "暴露",
+          "露光",
+          "露店",
+          "露天",
+          "甘露"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "露",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "涙"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "露"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf963cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Châu Âu và nước Nga"
+        }
+      ],
+      "mobileId": 17671,
+      "phonetic": "おうろ",
+      "word": "欧露"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdf30375",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngôn ngữ tiếng Nga"
+        }
+      ],
+      "mobileId": 76516,
+      "phonetic": "ろご",
+      "related_words": {
+        "word": [
+          "語",
+          "露"
+        ]
+      },
+      "word": "露語"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dd7521",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "attacking Russia"
+        }
+      ],
+      "mobileId": 263351,
+      "phonetic": "せいろ",
+      "word": "征露"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f0c745f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nhật Bản và đế chế Nga ."
+        }
+      ],
+      "mobileId": 185131,
+      "phonetic": "にちろ",
+      "word": "日露"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0455d49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "little bit"
+        }
+      ],
+      "mobileId": 209073,
+      "phonetic": "つゆほど",
+      "word": "露ほど"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdf4db8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "russia và pháp"
+        }
+      ],
+      "mobileId": 76567,
+      "phonetic": "ろふつ",
+      "word": "露仏"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e755afc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhỏ bé cắn"
+        }
+      ],
+      "mobileId": 114768,
+      "phonetic": "ろほど",
+      "word": "露程"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad624e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "migration to Russia"
+        }
+      ],
+      "mobileId": 230283,
+      "phonetic": "とろ",
+      "word": "渡露"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c07a916e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Russia and Japan, Russian-Japanese"
+        }
+      ],
+      "mobileId": 210782,
+      "phonetic": "ろわ",
+      "word": "露和"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

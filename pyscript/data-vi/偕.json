@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19328af72",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cùng nhau"
+        }
+      ],
+      "mobileId": 19227,
+      "phonetic": "",
+      "word": "偕"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dcb1970",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kaisei (tên một tổ chức) ."
+        }
+      ],
+      "mobileId": 144927,
+      "phonetic": "かいせい",
+      "word": "偕成"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933c00b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cùng nhau lớn lên; cùng sống bách niên giai lão (vợ chồng)"
+        }
+      ],
+      "mobileId": 19848,
+      "phonetic": "",
+      "word": "偕老"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933b1911",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự vui vẻ cùng mọi người"
+        }
+      ],
+      "mobileId": 19816,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "楽"
+        ]
+      },
+      "word": "偕楽"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

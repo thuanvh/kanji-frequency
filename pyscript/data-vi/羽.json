@@ -1,0 +1,242 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280274126f8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "頭だけに羽が生えた鶏がある",
+              "mean": "Có loài chim chỉ mọc mỗi lông ở trên đầu",
+              "transcription": "あたまだけにはねがはえたにわとりがある"
+            }
+          ],
+          "kind": "n",
+          "mean": "lông vũ; cánh"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "大学への試験が終わって、羽を伸ばして旅行に行く:Kết thúc kỳ thi đại học đi du lịch để xả hơi"
+        }
+      ],
+      "mobileId": 30181,
+      "phonetic": "はね",
+      "related_words": {
+        "word": [
+          "羽根",
+          "羽ばたく",
+          "羽毛",
+          "羽化",
+          "羽音",
+          "合羽",
+          "羽目",
+          "羽衣",
+          "羽翼",
+          "羽織る"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "羽",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウイング",
+                "翼",
+                "羽根"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウィング",
+                "ウイング",
+                "翼",
+                "羽根"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "羽"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027414132",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "cánh"
+        },
+        {
+          "examples": [
+            {
+              "content": "ハンターは鳥を２羽射止めた",
+              "mean": "Thợ săn bắn trúng 2 con chim .",
+              "transcription": "ハンターはとりをにわいとめた"
+            }
+          ],
+          "kind": "n-suf",
+          "mean": "con"
+        }
+      ],
+      "mobileId": 30182,
+      "phonetic": "わ",
+      "related_words": {
+        "word": [
+          "羽根",
+          "羽ばたく",
+          "羽毛",
+          "羽化",
+          "羽音",
+          "合羽",
+          "羽目",
+          "羽衣",
+          "羽翼",
+          "羽織る"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "羽",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウイング",
+                "翼",
+                "羽根"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウィング",
+                "ウイング",
+                "翼",
+                "羽根"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "羽"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681ae82b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xuống may chần"
+        }
+      ],
+      "mobileId": 859,
+      "phonetic": "はねふとん",
+      "word": "羽蒲団"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd80f322",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một (con chim)"
+        }
+      ],
+      "mobileId": 13887,
+      "phonetic": "いちわ",
+      "related_words": {
+        "word": [
+          "羽",
+          "一"
+        ]
+      },
+      "word": "一羽"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae38a90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "calamus, quill"
+        }
+      ],
+      "mobileId": 230721,
+      "phonetic": "うへい",
+      "word": "羽柄"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae36d3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "plumule, down feather"
+        }
+      ],
+      "mobileId": 230719,
+      "phonetic": "わたばね めんう",
+      "word": "綿羽"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939c9aa8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thay lông; đổi lông (chim)"
+        }
+      ],
+      "mobileId": 22894,
+      "phonetic": "",
+      "word": "換羽"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca040ba7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "plume, ornamental feather"
+        }
+      ],
+      "mobileId": 283038,
+      "phonetic": "かざりばね",
+      "word": "飾り羽"
+    },
+    {
+      "_id": "432518852de0a80625d585a98246c0a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grey-faced buzzard (Butastur indicus), gray-faced buzzard"
+        }
+      ],
+      "mobileId": 233869,
+      "phonetic": "さしば サシバ",
+      "word": "差羽"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681a77be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự lang thang nhô ra"
+        }
+      ],
+      "mobileId": 841,
+      "phonetic": "はねこも",
+      "word": "羽隠"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

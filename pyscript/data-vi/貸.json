@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935f86dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miễn cưỡng để cho mượn"
+        }
+      ],
+      "mobileId": 20952,
+      "phonetic": "かししぶり",
+      "word": "貸渋り"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935e2a65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "két sắt nhỏ (trong toà nhà cho thuê kiên cố, an toàn)"
+        }
+      ],
+      "mobileId": 20910,
+      "phonetic": "かしきんこ",
+      "related_words": {
+        "word": [
+          "金",
+          "金庫"
+        ]
+      },
+      "word": "貸金庫"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d882f19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cho vay; sự cho vay và sự vay mượn"
+        }
+      ],
+      "mobileId": 150057,
+      "phonetic": "かかし",
+      "related_words": {
+        "word": [
+          "借"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "借貸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "借金",
+                "借用",
+                "借財",
+                "借り貸し",
+                "拝借",
+                "前借",
+                "貸し出し",
+                "借り",
+                "貸出し"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "借り賃",
+                "使い料",
+                "使用料",
+                "家賃",
+                "借料"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "借貸"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77aefd09",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "items for rent, items for loan"
+        }
+      ],
+      "mobileId": 270145,
+      "phonetic": "かしもの",
+      "word": "貸物"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab7c49f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stock loan, lending stock"
+        }
+      ],
+      "mobileId": 229282,
+      "phonetic": "かしかぶ",
+      "word": "貸株"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c048c183",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "money given as loan"
+        }
+      ],
+      "mobileId": 209176,
+      "phonetic": "かしだしきん",
+      "related_words": {
+        "word": [
+          "金"
+        ]
+      },
+      "word": "貸出金"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7410d798",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cho vay không kỳ hạn ."
+        }
+      ],
+      "mobileId": 97718,
+      "phonetic": "とうざかし",
+      "word": "当座貸"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b2210d943",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Khoản cho vay không thu hồi được (Nợ xấu)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "かしだおれ",
+      "word": "貸倒"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935f6b78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa hàng cho thuê"
+        }
+      ],
+      "mobileId": 20948,
+      "phonetic": "かしてんぽ",
+      "word": "貸店舗"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935fa6ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thư viện cho thuê sách"
+        }
+      ],
+      "mobileId": 20955,
+      "phonetic": "かしほんや",
+      "word": "貸本屋"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

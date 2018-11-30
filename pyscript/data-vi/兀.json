@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e40a2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bald head"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "baldness"
+        }
+      ],
+      "mobileId": 263551,
+      "phonetic": "こっとう",
+      "word": "兀頭"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1bb76d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "lofty, soaring, towering, precipitous, high and steep, sharply sticking out, jutting upward"
+        }
+      ],
+      "mobileId": 224301,
+      "phonetic": "とっこつ",
+      "word": "突兀"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7ddad82c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chim kền kền ."
+        }
+      ],
+      "mobileId": 145189,
+      "phonetic": "はげたか",
+      "related_words": {
+        "word": [
+          "鷹"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "兀鷹",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "禿鷹"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コンドル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "兀鷹"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

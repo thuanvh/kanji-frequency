@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1071c0093",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "筆に墨を含ませる",
+              "mean": "chấm bút vào mực",
+              "transcription": "ふでにすみをふくませる"
+            },
+            {
+              "content": "墨で描かれた",
+              "mean": "được vẽ bằng mực đen",
+              "transcription": "すみでえがかれた"
+            }
+          ],
+          "kind": "n",
+          "mean": "mực; mực đen"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "全身に入れ墨をした:xăm khắp mình ."
+        }
+      ],
+      "mobileId": 52326,
+      "phonetic": "すみ",
+      "related_words": {
+        "word": [
+          "水墨画",
+          "入れ墨",
+          "墨汁",
+          "墨絵",
+          "入墨",
+          "お墨付き"
+        ]
+      },
+      "word": "墨"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5fa94f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "súng cối bắn tàu ngầm, mực ống, mồi nhân tạo, câu bằng mồi mực"
+        }
+      ],
+      "mobileId": 12848,
+      "phonetic": "ぼくぎょ",
+      "related_words": {
+        "word": [
+          "魚",
+          "墨"
+        ]
+      },
+      "word": "墨魚"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ecd60f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hai bờ đê của dòng sông Sumida"
+        }
+      ],
+      "mobileId": 7544,
+      "phonetic": "ぼくつつみ",
+      "word": "墨堤"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955bc24a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xoá sạch những đặc tính với mực"
+        }
+      ],
+      "mobileId": 59012,
+      "phonetic": "ぼくけし",
+      "word": "墨消し"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955b9e80",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đánh dấu mực những phác thảo (của) một bức tranh"
+        }
+      ],
+      "mobileId": 59008,
+      "phonetic": "すみえがき",
+      "word": "墨描き"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f23ea9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cũ (già) đánh dấu mực cái gậy"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "old tree"
+        }
+      ],
+      "mobileId": 41264,
+      "phonetic": "こすみ",
+      "related_words": {
+        "word": [
+          "古",
+          "墨"
+        ]
+      },
+      "word": "古墨"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773c4606",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "centre line (usu. in buildings, joinery, etc.), center line"
+        }
+      ],
+      "mobileId": 266407,
+      "phonetic": "なかずみ",
+      "word": "中墨"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771b19bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mohist, follower of mohism"
+        }
+      ],
+      "mobileId": 265342,
+      "phonetic": "ぼっか ぼくか",
+      "word": "墨家"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9748ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "squid ink"
+        }
+      ],
+      "mobileId": 228228,
+      "phonetic": "いかすみ イカすみ",
+      "word": "イカ墨"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955b6c5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỉ để đánh dấu bằng mực"
+        }
+      ],
+      "mobileId": 59003,
+      "phonetic": "ぼくいと",
+      "word": "墨糸"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

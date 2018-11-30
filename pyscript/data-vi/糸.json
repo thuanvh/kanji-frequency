@@ -1,0 +1,225 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027060442",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "カチオン可染糸",
+              "mean": "hệ thống cation có thể nhuộm",
+              "transcription": "カチオンかそめいと"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "chuỗi; hệ thống"
+        },
+        {
+          "examples": [
+            {
+              "content": "ひびろ糸",
+              "mean": "Đầu nối",
+              "transcription": "ひびろいと"
+            },
+            {
+              "content": "クモの糸",
+              "mean": "Tơ nhện .",
+              "transcription": "クモのいと"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "sợi chỉ; chỉ"
+        }
+      ],
+      "mobileId": 29185,
+      "phonetic": "いと",
+      "related_words": {
+        "word": [
+          "毛糸",
+          "横糸",
+          "糸電話",
+          "抜糸",
+          "糸口",
+          "生糸",
+          "原糸",
+          "糸車"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "糸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "リボン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "紡糸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ストリング",
+                "緒",
+                "弦"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ストリング",
+                "紐"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "緒",
+                "枷"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "糸"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd926350",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lớp không khí nóng mỏng như sợi tơ"
+        }
+      ],
+      "mobileId": 14441,
+      "phonetic": "",
+      "word": "糸遊"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd45fc59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sợi lanh"
+        }
+      ],
+      "mobileId": 12028,
+      "phonetic": "あまいと",
+      "related_words": {
+        "word": [
+          "糸",
+          "麻",
+          "亜麻"
+        ]
+      },
+      "word": "亜麻糸"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802730dc3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sợi tơ bóng ."
+        }
+      ],
+      "mobileId": 29889,
+      "phonetic": "ねりいと",
+      "word": "練り糸"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca020c658",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small pondweed (Potamogeton pusillus)"
+        }
+      ],
+      "mobileId": 281999,
+      "phonetic": "いとも イトモ",
+      "word": "糸藻"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955b6c5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỉ để đánh dấu bằng mực"
+        }
+      ],
+      "mobileId": 59003,
+      "phonetic": "ぼくいと",
+      "word": "墨糸"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a948b57e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "light chamfering (engineering)"
+        }
+      ],
+      "mobileId": 258619,
+      "phonetic": "いとめんとり",
+      "word": "糸面取り"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e856a3bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một đuôi sam; một bện tết (viền) luồng hoặc dây thừng"
+        }
+      ],
+      "mobileId": 36281,
+      "phonetic": "くみいと",
+      "word": "組み糸"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935d99ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(thực vật học) chỉ nhị"
+        }
+      ],
+      "mobileId": 20893,
+      "phonetic": "はないと",
+      "word": "花糸"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd916764",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "làm  cho mịn những đám nùi bông, không thuộc vở, đọc sai"
+        }
+      ],
+      "mobileId": 14409,
+      "phonetic": "いとくず",
+      "related_words": {
+        "word": [
+          "糸",
+          "屑"
+        ]
+      },
+      "word": "糸屑"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

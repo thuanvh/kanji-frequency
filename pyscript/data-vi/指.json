@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74afd9fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ngón"
+        },
+        {
+          "examples": [
+            {
+              "content": "ピンセットを操る手袋をはめた指",
+              "mean": "Ngón tay đi găng sử dụng kẹp",
+              "transcription": "ピンセットをあやつるてぶくろをはめたゆび"
+            }
+          ],
+          "kind": "n",
+          "mean": "ngón tay"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "かじかんだ指:người vụng về ."
+        }
+      ],
+      "mobileId": 100026,
+      "phonetic": "ゆび",
+      "related_words": {
+        "word": [
+          "指定",
+          "指示",
+          "指摘",
+          "指導",
+          "指令",
+          "目指す",
+          "指示する",
+          "指名",
+          "指標",
+          "指名手配"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "指",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "親指",
+                "拇指"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "手の指",
+                "手指"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "指"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a876444",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phalanx (phalange) of the hand"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phalanx (phalange) of the foot"
+        }
+      ],
+      "mobileId": 227720,
+      "phonetic": "しこつ",
+      "word": "指骨"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca094ddd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "imperial navy order (detailed)"
+        }
+      ],
+      "mobileId": 285708,
+      "phonetic": "たいかいし",
+      "word": "大海指"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07c69b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "finger-banging (manual stimulation of female genital organs)"
+        }
+      ],
+      "mobileId": 284923,
+      "phonetic": "ゆびマン",
+      "word": "指マン"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da3493f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sờ nắn"
+        }
+      ],
+      "mobileId": 150905,
+      "phonetic": "てゆび",
+      "related_words": {
+        "word": [
+          "手",
+          "指"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "手指",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "手の指",
+                "指"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "手指"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d605ee5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chữ viết kiểu chữ in"
+        }
+      ],
+      "mobileId": 148780,
+      "phonetic": "ゆびしょうもん",
+      "word": "指掌紋"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e30ec21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fingerspelling (in sign language for the deaf), finger alphabet"
+        }
+      ],
+      "mobileId": 249599,
+      "phonetic": "しもんじ ゆびもじ",
+      "word": "指文字"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779818ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toe"
+        }
+      ],
+      "mobileId": 269387,
+      "phonetic": "あしゆび",
+      "word": "足指"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9681963",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "whistling through one's fingers, whistle made by sticking ones fingers in ones mouth and blowing"
+        }
+      ],
+      "mobileId": 259633,
+      "phonetic": "ゆびぶえ",
+      "word": "指笛"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca094b576",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "imperial army order (detailed)"
+        }
+      ],
+      "mobileId": 285704,
+      "phonetic": "たいりくし",
+      "word": "大陸指"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

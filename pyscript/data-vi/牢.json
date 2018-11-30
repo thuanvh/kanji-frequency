@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a98236f568",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prison, jail, gaol"
+        }
+      ],
+      "mobileId": 233358,
+      "phonetic": "ろう",
+      "word": "牢"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0920edc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dungeon"
+        }
+      ],
+      "mobileId": 211539,
+      "phonetic": "ちかろう",
+      "related_words": {
+        "word": [
+          "下",
+          "地",
+          "地下"
+        ]
+      },
+      "word": "地下牢"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bade27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "precinct of a jail, vicinity of a prison"
+        }
+      ],
+      "mobileId": 262248,
+      "phonetic": "ろうやしき",
+      "word": "牢屋敷"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9df5bcb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jail for women (Edo period)"
+        }
+      ],
+      "mobileId": 263409,
+      "phonetic": "おんなろう",
+      "word": "女牢"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddddd8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "án tù chung thân (thời Edo); sự chịu án tù chung thân"
+        }
+      ],
+      "mobileId": 16780,
+      "phonetic": "えいろう",
+      "word": "永牢"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7b538b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "whipping, stone placement, and shrimp-tie bondage (three forms of Edo-period torture)"
+        }
+      ],
+      "mobileId": 252002,
+      "phonetic": "ろうもん",
+      "word": "牢問"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1de758",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jail (gaol) made by placing bars across a cave entrance, cave-prison"
+        }
+      ],
+      "mobileId": 216064,
+      "phonetic": "いしろう",
+      "word": "石牢"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92436c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "firmly, strongly"
+        }
+      ],
+      "mobileId": 257435,
+      "phonetic": "ろうとして",
+      "word": "牢として"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

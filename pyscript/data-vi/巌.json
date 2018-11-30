@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca052c15c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "huge rock"
+        }
+      ],
+      "mobileId": 283613,
+      "phonetic": "いわお",
+      "word": "巌"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193d5020b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "những tảng đá lớn với hình thù quái dị"
+        }
+      ],
+      "mobileId": 24646,
+      "phonetic": "きいわお",
+      "word": "奇巌"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ca9cb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "lởm chởm đá, dốc đứng, hiểm trở"
+        }
+      ],
+      "mobileId": 24337,
+      "phonetic": "いわおいわおとした",
+      "word": "巌巌とした"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a607e06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "near-vertical cliff or peak"
+        }
+      ],
+      "mobileId": 226473,
+      "phonetic": "ざんがん",
+      "word": "巉巌"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cdb4da",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đỉnh của một tảng đá lớn"
+        }
+      ],
+      "mobileId": 24433,
+      "phonetic": "いわおあたま",
+      "word": "巌頭"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107ba733f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "王女は巌窟に捕らえられた",
+              "mean": "Nàng công chúa bị bắt giam vào trong một cái hang.",
+              "transcription": "おうじょはいわお窟にとらえられた"
+            },
+            {
+              "content": "巌窟の野獣",
+              "mean": "Hang của dã thú",
+              "transcription": "いわお窟のやじゅう"
+            }
+          ],
+          "kind": "n",
+          "mean": "Hang; hang động"
+        }
+      ],
+      "mobileId": 55012,
+      "phonetic": "がんくつ",
+      "word": "巌窟"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dd928e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "withered trees and frozen rocks, a person that is hard to approach"
+        }
+      ],
+      "mobileId": 263356,
+      "phonetic": "こぼくかんがん",
+      "word": "枯木寒巌"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

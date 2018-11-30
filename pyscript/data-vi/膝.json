@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280276ae20c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đầu gối ."
+        }
+      ],
+      "mobileId": 30888,
+      "phonetic": "ひざ",
+      "related_words": {
+        "word": [
+          "膝関節"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "膝",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "膝関節",
+                "ニー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "膝"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280276ae872",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chăn phủ đầu gối ."
+        }
+      ],
+      "mobileId": 30889,
+      "phonetic": "ひさかけ",
+      "word": "膝掛"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef947250f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "knee strike, knee, kneeing"
+        }
+      ],
+      "mobileId": 275022,
+      "phonetic": "ひざげり",
+      "word": "膝蹴り"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777018d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "popliteal fossa, popliteal space, area behind the knee"
+        }
+      ],
+      "mobileId": 268080,
+      "phonetic": "しっか",
+      "word": "膝窩"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0bae73b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "above the knee"
+        }
+      ],
+      "mobileId": 286958,
+      "phonetic": "ひざうえ しつじょう",
+      "word": "膝上"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a30de2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "knee-length (clothing)"
+        }
+      ],
+      "mobileId": 286161,
+      "phonetic": "ひざたけ",
+      "word": "膝丈"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0e457d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ngồi xổm, sự ngồi chồm hỗm"
+        }
+      ],
+      "mobileId": 111485,
+      "phonetic": "たてひざ",
+      "word": "立て膝"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777006ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "popliteal fossa, popliteal space, area behind the knee"
+        }
+      ],
+      "mobileId": 268077,
+      "phonetic": "しっかく",
+      "word": "膝膕"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77abfe7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "standing panel used in Kansai-area rakugo to hide the performer's legs from view, knee-hider"
+        }
+      ],
+      "mobileId": 270040,
+      "phonetic": "ひざかくし",
+      "word": "膝隠し"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936e199c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một đầu gối"
+        }
+      ],
+      "mobileId": 21428,
+      "opposite_word": [
+        "諸膝"
+      ],
+      "phonetic": "かたひざ",
+      "word": "片膝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

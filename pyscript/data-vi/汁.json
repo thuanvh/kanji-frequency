@@ -1,0 +1,219 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fb05a5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "nước ép hoa quả; súp ."
+        }
+      ],
+      "mobileId": 187836,
+      "phonetic": "しる、つゆ",
+      "related_words": {
+        "word": [
+          "味噌汁",
+          "出汁",
+          "果汁",
+          "鼻汁",
+          "墨汁",
+          "胆汁",
+          "乳汁",
+          "肉汁",
+          "灰汁抜けのした",
+          "出し汁"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "汁",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ブイヨン",
+                "ソース",
+                "出し汁",
+                "ストック"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "液",
+                "液体",
+                "リキッド",
+                "漿液"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "液",
+                "液体",
+                "リキッド",
+                "流体",
+                "体液",
+                "動体"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "液",
+                "つゆ",
+                "ジュース",
+                "液汁"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "液",
+                "つゆ",
+                "スープ",
+                "割下",
+                "漿液",
+                "吸物"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "汁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00925e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rabbit soup"
+        }
+      ],
+      "mobileId": 281255,
+      "phonetic": "うさぎじる",
+      "word": "兎汁"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e106526",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xúp con chó giống thú ăn thịt"
+        }
+      ],
+      "mobileId": 111550,
+      "phonetic": "たぬきじる",
+      "related_words": {
+        "word": [
+          "狸",
+          "汁"
+        ]
+      },
+      "word": "狸汁"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd6f87a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lemon juice (ingredient)"
+        }
+      ],
+      "mobileId": 222068,
+      "phonetic": "レモンじる",
+      "related_words": {
+        "word": [
+          "レモン",
+          "汁"
+        ]
+      },
+      "word": "レモン汁"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3b5ca7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pre-ejaculate, pre-ejaculatory fluid, Cowper's fluid, pre-cum"
+        }
+      ],
+      "mobileId": 217001,
+      "phonetic": "がまんじる",
+      "word": "我慢汁"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95154ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sauce"
+        }
+      ],
+      "mobileId": 258892,
+      "phonetic": "つけじる つけしる",
+      "word": "付け汁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00a9580",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grated yam soup"
+        }
+      ],
+      "mobileId": 281305,
+      "phonetic": "とろろじる",
+      "word": "薯蕷汁"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95143bd4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ép"
+        }
+      ],
+      "mobileId": 56757,
+      "phonetic": "しるえき",
+      "word": "汁液"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dda8371",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ép"
+        }
+      ],
+      "mobileId": 152700,
+      "phonetic": "しるき",
+      "word": "汁気"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6daa190f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "soupy, containing more broth or sauce than usual (of gyudon, etc.)"
+        }
+      ],
+      "mobileId": 220592,
+      "phonetic": "つゆだく",
+      "word": "汁だく"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

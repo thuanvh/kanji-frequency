@@ -1,0 +1,126 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e82511c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(thì) thích hợp cho(thì) bằng nhau tới; phục vụ"
+        }
+      ],
+      "mobileId": 34682,
+      "phonetic": "つとむ",
+      "word": "勤"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22252c41",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "10連勤",
+              "mean": "Làm việc 10 ngày liên tiếp",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Làm việc liên tục nhiều ngày không nghỉ 連続出勤"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "連勤"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82765cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "làm việc cực khổ"
+        }
+      ],
+      "mobileId": 34756,
+      "phonetic": "つとむく",
+      "word": "勤苦"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d431e2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "day shift"
+        }
+      ],
+      "mobileId": 217240,
+      "phonetic": "ひるきん",
+      "related_words": {
+        "word": [
+          "昼"
+        ]
+      },
+      "word": "昼勤"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19349b11e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm việc quá sức"
+        }
+      ],
+      "mobileId": 20269,
+      "phonetic": "かつとむ",
+      "word": "過勤"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0c4f6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hỏi phật thích ca cách"
+        }
+      ],
+      "mobileId": 146138,
+      "phonetic": "つとむもとめ",
+      "word": "勤求"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82615f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dịch vụ chung thủy"
+        }
+      ],
+      "mobileId": 34713,
+      "phonetic": "つとむつとむ",
+      "word": "勤恪"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0fc432",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phục hồi chức vị"
+        }
+      ],
+      "mobileId": 146246,
+      "phonetic": "さいつとむ",
+      "related_words": {
+        "word": [
+          "再"
+        ]
+      },
+      "word": "再勤"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada8cfdf6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đi chơi cùng bạn bè ."
+        }
+      ],
+      "mobileId": 79234,
+      "phonetic": "とも",
+      "related_words": {
+        "word": [
+          "友達",
+          "友人",
+          "親友",
+          "友情",
+          "朋友",
+          "友愛",
+          "友好",
+          "友好的",
+          "交友関係",
+          "悪友"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "友",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "馴染み",
+                "朋友",
+                "友人",
+                "仲間",
+                "馴染",
+                "同朋",
+                "味方",
+                "友垣",
+                "友達",
+                "友朋",
+                "仲良し"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "輩",
+                "仲間",
+                "同士",
+                "同人",
+                "友達"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "友"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a633f92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hunting companion"
+        }
+      ],
+      "mobileId": 226562,
+      "phonetic": "りょうゆう",
+      "word": "猟友"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95647fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "good friend"
+        }
+      ],
+      "mobileId": 259057,
+      "phonetic": "ぜんゆう",
+      "word": "善友"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca052e9c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gym friend, gym buddy"
+        }
+      ],
+      "mobileId": 283618,
+      "phonetic": "ジムとも",
+      "word": "ジム友"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eabeeb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những người bạn bắn nhau"
+        }
+      ],
+      "mobileId": 116544,
+      "phonetic": "ともうち",
+      "related_words": {
+        "word": [
+          "友"
+        ]
+      },
+      "word": "友討ち"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7714f360",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "friend of a mother who is also a mother, mothers who are friends"
+        }
+      ],
+      "mobileId": 265131,
+      "phonetic": "ママとも",
+      "word": "ママ友"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8700f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chính đảng liên minh"
+        }
+      ],
+      "mobileId": 73080,
+      "phonetic": "ともとう",
+      "related_words": {
+        "word": [
+          "友",
+          "党"
+        ]
+      },
+      "word": "友党"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be4215ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người với người mà (mà) một truyền thông bởi máy tìm người"
+        }
+      ],
+      "mobileId": 91396,
+      "phonetic": "ベルとも",
+      "word": "ベル友"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686936c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bạn bị bệnh"
+        }
+      ],
+      "mobileId": 3344,
+      "phonetic": "やまいとも",
+      "word": "病友"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd819149",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tình bạn; tình bạn; tình bạn bè"
+        }
+      ],
+      "mobileId": 72900,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "友"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "友交",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "修交",
+                "修好",
+                "友好",
+                "友誼",
+                "交誼"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "付き合い",
+                "交わり",
+                "交遊",
+                "友好",
+                "交際",
+                "人付き合い",
+                "交誼"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "友交"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ac879fd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "50 票を取る[集める]",
+              "mean": "chiến thắng (có được, thu được) 50 phiếu bầu",
+              "transcription": "50ひょうをとる[あつめる]"
+            },
+            {
+              "content": "その候補者は 2 千票を得た.",
+              "mean": "Ứng cử viên đã có hai ngàn lá phiếu bầu",
+              "transcription": "そのこうほしゃは2せんひょうをえた."
+            }
+          ],
+          "kind": "n, n-suf, ctr",
+          "mean": "phiếu"
+        }
+      ],
+      "mobileId": 173645,
+      "phonetic": "ひょう",
+      "related_words": {
+        "word": [
+          "伝票",
+          "投票",
+          "住民票",
+          "投票する",
+          "調査票",
+          "人気投票",
+          "原票",
+          "投票結果",
+          "開票"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "票",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "投票",
+                "表決",
+                "採決",
+                "票決"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "票"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68874a07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đu đưa lá phiếu"
+        }
+      ],
+      "mobileId": 4305,
+      "opposite_word": [
+        "組織票"
+      ],
+      "phonetic": "ふどうひょう",
+      "word": "浮動票"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd30f578",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lá phiếu không có hiệu lực"
+        }
+      ],
+      "mobileId": 70357,
+      "phonetic": "むこうひょう",
+      "word": "無効票"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7def6746",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hóa đơn gửi tiền (vào tài khoản); hóa đơn nhập tiền (vào tài khoản) ."
+        }
+      ],
+      "mobileId": 145536,
+      "phonetic": "にゅうきんひょう",
+      "word": "入金票"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0aa5a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "margin (e.g. in a vote)"
+        }
+      ],
+      "mobileId": 215437,
+      "phonetic": "ひょうさ",
+      "word": "票差"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027f25103",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phiếu nhận dạng; thẻ nhận dạng ."
+        }
+      ],
+      "mobileId": 33271,
+      "phonetic": "にんしきひょう",
+      "word": "認識票"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7258da5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phiếu thuận ."
+        }
+      ],
+      "mobileId": 107317,
+      "phonetic": "さんせいひょう",
+      "word": "賛成票"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebadfb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lá phiếu đồng cảm"
+        }
+      ],
+      "mobileId": 117014,
+      "phonetic": "どうじょうひょう",
+      "word": "同情票"
+    },
+    {
+      "_id": "f2d618ceb0702f781ec83b7d4f5071ec",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "phiếu nhận"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "うけつけひょう",
+      "word": "受付票"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8e99b16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chất rắn (một người có bảo hiểm, một tủ sắt) bầu; sự hỗ trợ đặc (được đảm bảo)"
+        }
+      ],
+      "mobileId": 40999,
+      "phonetic": "こていひょう",
+      "word": "固定票"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

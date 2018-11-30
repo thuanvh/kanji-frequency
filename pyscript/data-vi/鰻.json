@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680145a512",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "電気(でんき)鰻の体を流れる電流(でんりゅう)",
+              "mean": "Dòng điện đi xuyên qua thân con lươn điện tử",
+              "transcription": "でんき(でんき)うなぎのからだをながれるでんりゅう(でんりゅう)"
+            },
+            {
+              "content": "彼は大きな水槽に鰻を飼っている",
+              "mean": "Anh ấy nuôi một con lươn trong một cái bình nước lớn",
+              "transcription": "かれはおおきなすいそうにうなぎをかっている"
+            }
+          ],
+          "kind": "n",
+          "mean": "con lươn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lươn ."
+        }
+      ],
+      "mobileId": 42939,
+      "phonetic": "うなぎ",
+      "word": "鰻"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a243585",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese eel (Anguilla japonica)"
+        }
+      ],
+      "mobileId": 224585,
+      "phonetic": "にほんうなぎ",
+      "word": "日本鰻"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc4ccfa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lươn xiên nướng và cuộn trong trứng rán; trứng rán cuộn thịt lươn nướng"
+        }
+      ],
+      "mobileId": 16021,
+      "phonetic": "うなぎまき",
+      "word": "鰻巻き"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aebe2ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "electric eel (Electrophorus electricus)"
+        }
+      ],
+      "mobileId": 230983,
+      "phonetic": "しびれうなぎ シビレウナギ",
+      "word": "痺鰻"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e292314",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eel going downstream to spawn"
+        }
+      ],
+      "mobileId": 249348,
+      "phonetic": "おちうなぎ",
+      "word": "落ち鰻"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6822696e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con chạch (loại lươn nhỏ)"
+        }
+      ],
+      "mobileId": 1096,
+      "phonetic": "はりうなぎ",
+      "related_words": {
+        "word": [
+          "針",
+          "鰻"
+        ]
+      },
+      "word": "針鰻"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd422142",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con lươn biển"
+        }
+      ],
+      "mobileId": 11910,
+      "phonetic": "うみうなぎ",
+      "word": "海鰻"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc34880",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tô cơm với lương nướng"
+        }
+      ],
+      "mobileId": 15975,
+      "phonetic": "うなぎどんぶり",
+      "related_words": {
+        "word": [
+          "丼",
+          "鰻"
+        ]
+      },
+      "word": "鰻丼"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a86ee74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inshore hagfish (Eptatretus burgeri, species found from Japan to Taiwan)"
+        }
+      ],
+      "mobileId": 227708,
+      "phonetic": "ぬたうなぎ ヌタウナギ",
+      "word": "沼田鰻"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a86f290",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hagfish (esp. the species Myxine garmani from Japan)"
+        }
+      ],
+      "mobileId": 227709,
+      "phonetic": "めくらうなぎ メクラウナギ",
+      "word": "盲鰻"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e7607f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Certificate for Students Achieving the Proficiency Level of Upper Secondary School Graduates, Japanese high-school equivalency examination"
+        }
+      ],
+      "mobileId": 280155,
+      "phonetic": "こうにん",
+      "word": "高認"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e53f378",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "presumption, inference"
+        }
+      ],
+      "mobileId": 250729,
+      "phonetic": "すいにん",
+      "word": "推認"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d056744",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "voice recognition, speech recognition"
+        }
+      ],
+      "mobileId": 215279,
+      "phonetic": "おんにん",
+      "word": "音認"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f6ab3fc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "検認試験",
+              "mean": "Cuộc thi xác nhận",
+              "transcription": "けん認しけん"
+            },
+            {
+              "content": "設計の検認",
+              "mean": "Sự kiểm nhận (kiểm chứng) thiết kế",
+              "transcription": "せっけいのけん認"
+            },
+            {
+              "content": "遺言の検認",
+              "mean": "Sự kiểm chứng lời trăng trối (di chúc) .",
+              "transcription": "ゆいごんのけん認"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "sự kiểm nhận; kiểm nhận; xác nhận; kiểm chứng"
+        }
+      ],
+      "mobileId": 186729,
+      "phonetic": "けんにん",
+      "word": "検認"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3c7e96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "on-the-spot (report), eyewitness (report)"
+        }
+      ],
+      "mobileId": 225347,
+      "phonetic": "げんにん",
+      "word": "現認"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a953ddc8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "justification (by faith)"
+        }
+      ],
+      "mobileId": 258976,
+      "phonetic": "ぎにん",
+      "word": "義認"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6888b49c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính không màu mỡ, sự cằn cỗi"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự cằn cỗi, sự mất khả năng sinh đẻ;  tính không sinh sản, sự vô ích, sự không có kết quả"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự cằn cỗi, sự không sinh đẻ, sự khô khan"
+        }
+      ],
+      "mobileId": 4355,
+      "phonetic": "",
+      "word": "不認承"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cfb896",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prosopagnosia, face blindness"
+        }
+      ],
+      "mobileId": 262918,
+      "phonetic": "そうぼうしつにん",
+      "word": "相貌失認"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d010de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "agnosia (loss of ability to recognize objects, persons, sounds, shapes, or smells)"
+        }
+      ],
+      "mobileId": 262927,
+      "phonetic": "しつにんしょう",
+      "word": "失認症"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c8c55c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "visuospatial agnosia"
+        }
+      ],
+      "mobileId": 270952,
+      "phonetic": "しくうかんしつにん",
+      "word": "視空間失認"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

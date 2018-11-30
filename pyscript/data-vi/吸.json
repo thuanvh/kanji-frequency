@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0505873",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "smoking"
+        }
+      ],
+      "mobileId": 283534,
+      "phonetic": "きゅうえん",
+      "word": "吸煙"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f480e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "sự hấp thụ sóng âm"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "old favors"
+        }
+      ],
+      "mobileId": 25679,
+      "phonetic": "",
+      "word": "吸音"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b319bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "fellatio, irrumation"
+        }
+      ],
+      "mobileId": 270269,
+      "phonetic": "きゅうけい",
+      "word": "吸茎"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d6faf7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "absorbing sweat"
+        }
+      ],
+      "mobileId": 271451,
+      "phonetic": "きゅうかん",
+      "word": "吸汗"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b220939f8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "水素を吸蔵された外層",
+              "mean": "Lớp bên ngoài đã được hấp thụ Hidro",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "hấp thụ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "きゅうぞう",
+      "word": "吸蔵"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9547708a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự mút"
+        }
+      ],
+      "mobileId": 58364,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "上",
+          "上げる"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "吸上げる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "吸う",
+                "取り込む",
+                "呑み込む",
+                "吸い取る",
+                "吸い込む"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "吸う",
+                "吸い込む"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "吸上げる"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821632b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trematode (i.e. a fluke)"
+        }
+      ],
+      "mobileId": 232341,
+      "phonetic": "きゅうちゅう",
+      "word": "吸虫"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f41367",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "uống vào; hút nước"
+        }
+      ],
+      "mobileId": 25668,
+      "phonetic": "",
+      "word": "吸飲"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193faca18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hút bụi, rác vụn ..."
+        }
+      ],
+      "mobileId": 25866,
+      "phonetic": "",
+      "word": "吸塵"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a82a5d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Eurasian wryneck (species of bird, Jynx torquilla)"
+        }
+      ],
+      "mobileId": 227566,
+      "phonetic": "ありすい アリスイ",
+      "word": "蟻吸"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

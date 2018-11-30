@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9000725",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "thận"
+        }
+      ],
+      "mobileId": 272759,
+      "phonetic": "じん むらと むらど",
+      "word": "腎"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6e20a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chứng teo thận; quả thận bị teo lại"
+        }
+      ],
+      "mobileId": 13302,
+      "phonetic": "いしゅくじん",
+      "word": "萎縮腎"
+    },
+    {
+      "_id": "432518852de0a80625d585a982708055",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kidney stone, kidney stones, renal calculus"
+        }
+      ],
+      "mobileId": 235179,
+      "phonetic": "じんけっせき",
+      "word": "腎結石"
+    },
+    {
+      "_id": "432518852de0a80625d585a982026efa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "renal corpuscle"
+        }
+      ],
+      "mobileId": 231713,
+      "phonetic": "じんしょうたい",
+      "word": "腎小体"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90001eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "renal vein"
+        }
+      ],
+      "mobileId": 272757,
+      "phonetic": "じんじょうみゃく",
+      "word": "腎静脈"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280276403f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh thận ."
+        }
+      ],
+      "mobileId": 30779,
+      "phonetic": "じんしょう",
+      "word": "腎症"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9543b118",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sỏi thận"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "signs of humhabitation"
+        }
+      ],
+      "mobileId": 58246,
+      "phonetic": "じんせき",
+      "word": "腎石"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820278b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nephron"
+        }
+      ],
+      "mobileId": 231715,
+      "phonetic": "じんたんい",
+      "word": "腎単位"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953eb316",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "viêm thận"
+        }
+      ],
+      "mobileId": 58082,
+      "phonetic": "じんえん",
+      "word": "腎炎"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9545b52b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thất bại thận"
+        }
+      ],
+      "mobileId": 58307,
+      "phonetic": "じんふぜん",
+      "related_words": {
+        "word": [
+          "全",
+          "不全"
+        ]
+      },
+      "word": "腎不全"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

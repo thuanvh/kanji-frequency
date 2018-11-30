@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8f97c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bè phái, môn phái, giáo phái"
+        }
+      ],
+      "mobileId": 150284,
+      "phonetic": "そう",
+      "word": "宗"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6de5ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tôn giáo hoặc giáo phái khác nhau; ngoại giáo"
+        }
+      ],
+      "mobileId": 13293,
+      "phonetic": "いむね",
+      "related_words": {
+        "word": [
+          "異"
+        ]
+      },
+      "word": "異宗"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a70e652",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Zen (Buddhism)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "confusing style of middle-age Japanese poetry"
+        }
+      ],
+      "mobileId": 227005,
+      "phonetic": "だるましゅう",
+      "word": "達磨宗"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771aaa6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hosso sect (of Buddhism)"
+        }
+      ],
+      "mobileId": 265331,
+      "phonetic": "ゆいしきしゅう",
+      "word": "唯識宗"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6ff78e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hosso sect of Buddhism (Japanese equivalent of the Chinese Faxiang sect)"
+        }
+      ],
+      "mobileId": 226972,
+      "phonetic": "ほっそうしゅう ほうそうしゅう",
+      "word": "法相宗"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05798ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "founding of a religion (or sect)"
+        }
+      ],
+      "mobileId": 283776,
+      "phonetic": "りっしゅう",
+      "word": "立宗"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a718bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "study of religious doctrine"
+        }
+      ],
+      "mobileId": 269879,
+      "phonetic": "しゅうがく",
+      "word": "宗学"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d7bfa9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giáo phái hokke trong đạo phật"
+        }
+      ],
+      "mobileId": 6883,
+      "phonetic": "ほっけしゅう",
+      "word": "法華宗"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a70d20a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Zen (Buddhism)"
+        }
+      ],
+      "mobileId": 227003,
+      "phonetic": "ぶっしんしゅう",
+      "word": "仏心宗"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820d0395",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ritsu (school of Buddhism)"
+        }
+      ],
+      "mobileId": 232059,
+      "phonetic": "りっしゅう",
+      "word": "律宗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

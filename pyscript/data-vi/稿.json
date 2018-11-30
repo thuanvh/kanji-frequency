@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad84f34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản thảo; bản nháp ."
+        }
+      ],
+      "mobileId": 173919,
+      "phonetic": "こう",
+      "related_words": {
+        "word": [
+          "投稿",
+          "投稿者",
+          "原稿",
+          "草稿",
+          "原稿用紙",
+          "寄稿",
+          "本稿",
+          "予稿",
+          "再投稿",
+          "画稿"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "稿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "草案",
+                "底本",
+                "文案",
+                "下書き",
+                "下書",
+                "案文",
+                "草稿",
+                "起稿",
+                "コピー",
+                "原稿",
+                "原案",
+                "ドラフト",
+                "起草"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "草案",
+                "草稿",
+                "原稿",
+                "稿本",
+                "マニュスクリプト"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "稿"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88182ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản thảo chung cuộc"
+        }
+      ],
+      "mobileId": 37645,
+      "phonetic": "けっていこう",
+      "word": "決定稿"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad856a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hình nộm bằng rơm; bù nhìn rơm ."
+        }
+      ],
+      "mobileId": 173920,
+      "phonetic": "こうじん",
+      "word": "稿人"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c00fcc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự truyền tài liệu"
+        }
+      ],
+      "mobileId": 62220,
+      "phonetic": "おくこう",
+      "word": "送稿"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09188b9",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "gửi tài liệu để nhấn (như trong in ấn), tải lên tài liệu để in nhà cung cấp dịch vụ"
+        }
+      ],
+      "mobileId": 211525,
+      "phonetic": "にゅうこう",
+      "related_words": {
+        "word": [
+          "稿"
+        ]
+      },
+      "word": "入稿"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5bd459",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phác thảo (của) một bài thơ"
+        }
+      ],
+      "mobileId": 148639,
+      "phonetic": "しこう",
+      "word": "詩稿"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f74d4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản thảo cũ, bản thảo đã viết trước đây"
+        }
+      ],
+      "mobileId": 25759,
+      "phonetic": "きゅうこう",
+      "related_words": {
+        "word": [
+          "稿"
+        ]
+      },
+      "word": "旧稿"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0169706",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "manuscript"
+        }
+      ],
+      "mobileId": 281683,
+      "phonetic": "しゅこう",
+      "word": "手稿"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e87af8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tiếp tục"
+        }
+      ],
+      "mobileId": 63527,
+      "phonetic": "ぞくこう",
+      "word": "続稿"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7881005",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "di cảo ."
+        }
+      ],
+      "mobileId": 108991,
+      "phonetic": "たがこう",
+      "word": "違稿"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

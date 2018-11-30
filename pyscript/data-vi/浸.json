@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de438e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "nhúng chìm xuống; ngâm nước; ngấm nước"
+        }
+      ],
+      "mobileId": 153034,
+      "phonetic": "",
+      "word": "浸漬"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0972ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "watertight, waterproof"
+        }
+      ],
+      "mobileId": 215397,
+      "phonetic": "ぼうしん",
+      "word": "防浸"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3eabf47c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "外からの水分を吸収して細胞内の水分量が増える、皮膚がふやける。",
+              "mean": "Sau khi thu thập 1 lượng nước từ bên ngoài vào thì lượng nước của tré bào nội sẽ tăng lên,làm biểu bì da nhăn nheo.( ví dụ như ngâm tay lâu trong nước)",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Hiện tượng ngâm lâu trong nước"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "しんなん",
+      "word": "浸軟"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a976d608",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "non-invasive approach"
+        }
+      ],
+      "mobileId": 260098,
+      "phonetic": "ていしんしゅう",
+      "word": "低浸襲"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6847706c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lắng nghe chăm chú"
+        }
+      ],
+      "mobileId": 2305,
+      "phonetic": "ひたむきにきく",
+      "related_words": {
+        "word": [
+          "に",
+          "聞く",
+          "向き"
+        ]
+      },
+      "word": "浸向きに聞く"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d140d71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự rửa tội lại bởi sự nhúng chìm"
+        }
+      ],
+      "mobileId": 146384,
+      "phonetic": "",
+      "word": "再受浸"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

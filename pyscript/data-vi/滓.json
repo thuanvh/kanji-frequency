@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935aff5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cặn bã; feces; từ chối; váng"
+        }
+      ],
+      "mobileId": 20812,
+      "phonetic": "かす",
+      "synsets": [
+        {
+          "base_form": "滓",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "おり"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "滓"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a8e82d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slag, molten slug (of metal)"
+        }
+      ],
+      "mobileId": 212270,
+      "phonetic": "ようさい ようし",
+      "word": "溶滓"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820c119b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(dental) plaque"
+        }
+      ],
+      "mobileId": 232033,
+      "phonetic": "はかす",
+      "word": "歯滓"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93aa345",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "harsh criticism"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "something worthless or of little value"
+        }
+      ],
+      "mobileId": 274649,
+      "phonetic": "ぼろかす ボロカス",
+      "word": "襤褸滓"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd53d7ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rải than xỉ"
+        }
+      ],
+      "mobileId": 71446,
+      "phonetic": "もえかす",
+      "word": "燃え滓"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9401fc9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fish cake (made from sardines, used as a fertilizer), sardine meal"
+        }
+      ],
+      "mobileId": 274813,
+      "phonetic": "いわしかす",
+      "word": "鰯滓"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d7f81ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kéo căng những chỗ chắn gió (draff)"
+        }
+      ],
+      "mobileId": 149770,
+      "phonetic": "しぼりかす",
+      "word": "搾り滓"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

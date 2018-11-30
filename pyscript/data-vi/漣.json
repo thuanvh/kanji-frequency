@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757ffcc540",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự gợn sóng ."
+        }
+      ],
+      "mobileId": 189111,
+      "phonetic": "さざなみ",
+      "synsets": [
+        {
+          "base_form": "漣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "齟齬",
+                "背中合わせ",
+                "間隙",
+                "軋轢",
+                "相剋",
+                "不一致",
+                "不和",
+                "細波",
+                "不仲",
+                "不調和",
+                "仲違い",
+                "摩擦",
+                "相克",
+                "小波",
+                "敵対",
+                "確執",
+                "葛藤"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "細波",
+                "小波"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "漣"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9249069",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mordent"
+        }
+      ],
+      "mobileId": 257443,
+      "phonetic": "れんおん",
+      "word": "漣音"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

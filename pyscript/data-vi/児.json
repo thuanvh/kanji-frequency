@@ -1,0 +1,250 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7de7ec7d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "教育可能な知的発達遅滞児",
+              "mean": "Trẻ chậm phát triển tri thức có thể giáo dục",
+              "transcription": "きょういくかのうなちてきはったつちたいじ"
+            },
+            {
+              "content": "〜に入院中のゼロ歳児",
+              "mean": "Trẻ sơ sinh nhập viện tại ~",
+              "transcription": "〜ににゅういんちゅうのゼロさいじ"
+            }
+          ],
+          "kind": "n-suf, n",
+          "mean": "trẻ nhỏ"
+        }
+      ],
+      "mobileId": 145363,
+      "phonetic": "じ",
+      "related_words": {
+        "word": [
+          "幼児",
+          "児童",
+          "小児",
+          "小児科",
+          "育児",
+          "託児所",
+          "胎児",
+          "女児",
+          "孤児院",
+          "園児"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "児",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "子",
+                "豎子",
+                "キッド",
+                "坊や",
+                "小児",
+                "童",
+                "児童",
+                "童子",
+                "小人",
+                "子供",
+                "坊"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "児"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88b2ced",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trẻ em mạnh khoẻ"
+        }
+      ],
+      "mobileId": 37949,
+      "phonetic": "けんこうじ",
+      "related_words": {
+        "word": [
+          "健康",
+          "健",
+          "児"
+        ]
+      },
+      "word": "健康児"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca047a014",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abandoned child"
+        }
+      ],
+      "mobileId": 283262,
+      "phonetic": "いきじ",
+      "word": "遺棄児"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826714c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiger cub"
+        }
+      ],
+      "mobileId": 234894,
+      "phonetic": "こじ",
+      "related_words": {
+        "word": [
+          "虎",
+          "児"
+        ]
+      },
+      "word": "虎児"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8a23e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trẻ em cấp cao hơn"
+        }
+      ],
+      "mobileId": 73188,
+      "phonetic": "ゆうりょうじ",
+      "related_words": {
+        "word": [
+          "優",
+          "優良",
+          "児"
+        ]
+      },
+      "word": "優良児"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ca322c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "child, children"
+        }
+      ],
+      "mobileId": 279225,
+      "phonetic": "じし",
+      "word": "児子"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad52098",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "children born of multiple birth (e.g. twins, triplets, etc.)"
+        }
+      ],
+      "mobileId": 230248,
+      "phonetic": "たたいじ",
+      "word": "多胎児"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9504d7ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trẻ con và grandchildren; những con cháu"
+        }
+      ],
+      "mobileId": 56267,
+      "phonetic": "こまご",
+      "related_words": {
+        "word": [
+          "孫",
+          "児"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "児孫",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "末末",
+                "子孫"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "末裔",
+                "後裔",
+                "末流",
+                "末々",
+                "末末",
+                "後胤",
+                "子孫"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "後裔",
+                "末々",
+                "末末",
+                "後生",
+                "後胤",
+                "後世",
+                "子孫"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "児孫"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c27e1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đứa trẻ còn non"
+        }
+      ],
+      "mobileId": 62299,
+      "phonetic": "そうざんじ",
+      "word": "早産児"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd871ea4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẻ ăn chơi phóng túng; đứa con du đãng"
+        }
+      ],
+      "mobileId": 73083,
+      "phonetic": "ゆうとうじ",
+      "word": "遊蕩児"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

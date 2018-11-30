@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a912c33",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dĩa"
+        },
+        {
+          "examples": [
+            {
+              "content": "きれいに拭いた皿",
+              "mean": "Những caí đĩa được lau sạch sẽ .",
+              "transcription": "きれいにふいたさら"
+            }
+          ],
+          "kind": "n",
+          "mean": "đĩa"
+        }
+      ],
+      "mobileId": 172701,
+      "phonetic": "さら",
+      "related_words": {
+        "word": [
+          "灰皿",
+          "皿洗い",
+          "受け皿",
+          "小皿",
+          "一皿",
+          "大皿"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "皿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ディスク",
+                "円盤"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "大皿",
+                "盤"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "大皿"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "盤",
+                "ディスク",
+                "円盤"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "プレート",
+                "一皿"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "皿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a687852",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nagasaki dish of noodles with various toppings"
+        }
+      ],
+      "mobileId": 226725,
+      "phonetic": "さらうどん",
+      "word": "皿うどん"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde1f166",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu sắc riêng"
+        }
+      ],
+      "mobileId": 16918,
+      "phonetic": "えさら",
+      "word": "絵皿"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0279ef1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "balance, scales"
+        }
+      ],
+      "mobileId": 208119,
+      "phonetic": "さらばかり",
+      "word": "皿ばかり"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95ee2dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gratin dish"
+        }
+      ],
+      "mobileId": 275765,
+      "phonetic": "グラタンざら",
+      "word": "グラタン皿"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b1be20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "countersunk screw"
+        }
+      ],
+      "mobileId": 270226,
+      "phonetic": "さらネジ さらねじ サラネジ",
+      "word": "皿ネジ"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca046a337",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "round plate"
+        }
+      ],
+      "mobileId": 283232,
+      "phonetic": "まるざら",
+      "word": "丸皿"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95346138",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bay hơi món ăn"
+        }
+      ],
+      "mobileId": 57756,
+      "phonetic": "じょうはつさら",
+      "word": "蒸発皿"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef974e1a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "paper plate, paper tray"
+        }
+      ],
+      "mobileId": 276468,
+      "phonetic": "かみざら",
+      "related_words": {
+        "word": [
+          "紙",
+          "皿"
+        ]
+      },
+      "word": "紙皿"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77191a2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "plate for compounding condiments, small dish for serving condiments"
+        }
+      ],
+      "mobileId": 265270,
+      "phonetic": "やくみざら",
+      "word": "薬味皿"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

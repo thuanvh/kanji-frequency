@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8fa8930",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đào hào bao quanh"
+        }
+      ],
+      "mobileId": 41535,
+      "phonetic": "ほり",
+      "word": "濠"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08b93e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "water jump (on a racetrack, etc.)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "moat (around a castle, etc.)"
+        }
+      ],
+      "mobileId": 285404,
+      "phonetic": "すいごう",
+      "word": "水濠"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68738269",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rãnh sheltered"
+        }
+      ],
+      "mobileId": 3680,
+      "phonetic": "ふくしゃほり",
+      "related_words": {
+        "word": [
+          "伏"
+        ]
+      },
+      "word": "伏射濠"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a046ea7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Australia; Úc ."
+        }
+      ],
+      "mobileId": 170345,
+      "phonetic": "ごうしゅう",
+      "word": "濠洲"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdbce881",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hào bên trong; hào bên trong những tường lâu đài"
+        }
+      ],
+      "mobileId": 15773,
+      "opposite_word": [
+        "外濠"
+      ],
+      "phonetic": "うちほり",
+      "word": "内濠"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a3f924",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(vòng tròn) đào hào bao quanh"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "checking and verifying"
+        }
+      ],
+      "mobileId": 23128,
+      "phonetic": "かんほり",
+      "related_words": {
+        "word": [
+          "環"
+        ]
+      },
+      "word": "環濠"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c04ee69a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Australia"
+        }
+      ],
+      "mobileId": 201152,
+      "phonetic": "オーストラリア",
+      "word": "濠太剌利"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

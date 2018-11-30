@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107b7bdb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, suf",
+          "mean": "núi cao ."
+        }
+      ],
+      "mobileId": 54971,
+      "phonetic": "たけ",
+      "related_words": {
+        "word": [
+          "山岳",
+          "山岳部",
+          "山岳地帯"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "岳",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "山岳",
+                "マウンテン",
+                "山"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "岳"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1eed6c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Erman's birch (Betula ermanii), Russian rock birch"
+        }
+      ],
+      "mobileId": 216096,
+      "phonetic": "だけかんば ダケカンバ",
+      "word": "岳樺"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c53595",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chân núi; chân núi Phú Sĩ"
+        }
+      ],
+      "mobileId": 24164,
+      "phonetic": "たけふもと",
+      "word": "岳麓"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b222de113",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "1 ngọn núi ở Nhật Bản nằm ở thị trấn higashikawa, hokkaido và là ngọn núi cao nhất trên đảo hokkaido cao 2291m"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "Asahidake",
+      "word": "旭岳"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a0ab62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mountain god"
+        }
+      ],
+      "mobileId": 277860,
+      "phonetic": "がくじん",
+      "word": "岳神"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9be69e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spotted nutcracker (Nucifraga caryocatactes)"
+        }
+      ],
+      "mobileId": 262365,
+      "phonetic": "だけがらす たけがらす ダケガラス タケガラス",
+      "word": "岳烏"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c4e771",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "câu lạc bộ leo núi"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "students' association"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "alumni association"
+        }
+      ],
+      "mobileId": 24157,
+      "phonetic": "たけともかい",
+      "word": "岳友会"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

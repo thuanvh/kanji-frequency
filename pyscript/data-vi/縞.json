@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027330c99",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, n-suf, adj-no",
+          "mean": "kẻ hoa, sổ dọc, sổ ngang(trên quần áo)"
+        }
+      ],
+      "mobileId": 29923,
+      "phonetic": "しま",
+      "related_words": {
+        "word": [
+          "縦縞",
+          "縞馬"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "縞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "筋"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "鉱脈",
+                "バー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ストライプ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "縞"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d80a608",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tước bỏ mẫu"
+        }
+      ],
+      "mobileId": 149809,
+      "phonetic": "しまもよう",
+      "related_words": {
+        "word": [
+          "様",
+          "模様",
+          "縞"
+        ]
+      },
+      "word": "縞模様"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94697b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "pinstriped (e.g. suit)"
+        }
+      ],
+      "mobileId": 258549,
+      "phonetic": "ほそじま",
+      "word": "細縞"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d80c7b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sóc chuột"
+        }
+      ],
+      "mobileId": 149813,
+      "phonetic": "しまりす",
+      "word": "縞栗鼠"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7786edcc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yellowfin puffer (Takifugu xanthopterus)"
+        }
+      ],
+      "mobileId": 268834,
+      "phonetic": "しまふぐ シマフグ",
+      "word": "縞河豚"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a962cb67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "convict surgeonfish (Acanthurus triostegus, species of the Indo-Pacific), convict tang, manini"
+        }
+      ],
+      "mobileId": 259480,
+      "phonetic": "しまはぎ シマハギ",
+      "word": "縞剥"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9df0faf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "high-quality glossy white habutai silk"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "raw silk twill fabric with fine diamond pattern"
+        }
+      ],
+      "mobileId": 263400,
+      "phonetic": "かめやじま",
+      "word": "亀屋縞"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a7c9f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vân giao thoa"
+        }
+      ],
+      "mobileId": 23245,
+      "phonetic": "かんしょうしま",
+      "word": "干渉縞"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abe999e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brandling (species of earthworm, Eisenia fetida)"
+        }
+      ],
+      "mobileId": 229511,
+      "phonetic": "しまみみず シマミミズ",
+      "word": "縞蚯蚓"
+    },
+    {
+      "_id": "432518852de0a80625d585a982109b1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lauxaniid fly (any fly of family Lauxaniidae)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "flesh fly (any fly of family Sarcophagidae)"
+        }
+      ],
+      "mobileId": 232174,
+      "phonetic": "しまばえ シマバエ",
+      "word": "縞蠅"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

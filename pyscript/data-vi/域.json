@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1070de537",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vực ."
+        }
+      ],
+      "mobileId": 52102,
+      "phonetic": "いき",
+      "word": "域"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ead14c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đột kích vùng"
+        }
+      ],
+      "mobileId": 7479,
+      "phonetic": "ぼうふういき",
+      "word": "暴風域"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdae7099",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vùng có mưa; khu vực mưa đang rơi"
+        }
+      ],
+      "mobileId": 15335,
+      "phonetic": "あめいき",
+      "word": "雨域"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10780c7eb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "隣接定義域",
+              "mean": "miền xác định kế cận",
+              "transcription": "りんせつていぎいき"
+            },
+            {
+              "content": "単一定義域",
+              "mean": "miền xác định duy nhất .",
+              "transcription": "たんいつていぎいき"
+            }
+          ],
+          "kind": "n",
+          "mean": "miền xác định"
+        }
+      ],
+      "mobileId": 54009,
+      "phonetic": "ていぎいき",
+      "word": "定義域"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b683def",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "work(ing) space, work(ing) area"
+        }
+      ],
+      "mobileId": 243180,
+      "phonetic": "さぎょういき",
+      "word": "作業域"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b869aba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "control area"
+        }
+      ],
+      "mobileId": 244139,
+      "phonetic": "せいぎょいき",
+      "word": "制御域"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad541e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lãnh thổ hải quan ."
+        }
+      ],
+      "mobileId": 173872,
+      "phonetic": "ぜいかんいき",
+      "word": "税関域"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c772bc32f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hypocentral region"
+        }
+      ],
+      "mobileId": 265885,
+      "phonetic": "しんげんいき",
+      "word": "震源域"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f6dd84c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "北の磁極域",
+              "mean": "vùng cực có từ tính ở phía bắc .",
+              "transcription": "きたのじきょくいき"
+            }
+          ],
+          "kind": "n",
+          "mean": "vùng cực"
+        }
+      ],
+      "mobileId": 186767,
+      "phonetic": "きょく ち",
+      "word": "極域"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5611fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khu vực an toàn, vùng an toàn"
+        }
+      ],
+      "mobileId": 12543,
+      "phonetic": "あんぜんいき",
+      "related_words": {
+        "word": [
+          "安全",
+          "全"
+        ]
+      },
+      "word": "安全域"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

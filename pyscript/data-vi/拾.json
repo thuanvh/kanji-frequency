@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74ad1f4a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "num",
+          "mean": "thập"
+        }
+      ],
+      "mobileId": 99991,
+      "phonetic": "じゅう",
+      "related_words": {
+        "word": [
+          "拾う",
+          "拾い物",
+          "拾い上げる",
+          "拾得",
+          "拾得物"
+        ]
+      },
+      "word": "拾"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d949fd1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tụ lại lên trên; tập hợp; sự tích trữ"
+        }
+      ],
+      "mobileId": 150444,
+      "phonetic": "じつしゅう",
+      "related_words": {
+        "word": [
+          "拾"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "拾集",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蒐集",
+                "コレクション",
+                "寄せ集め",
+                "収集",
+                "採集"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "拾集"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a5d795",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một trăm nghìn yên ."
+        }
+      ],
+      "mobileId": 109514,
+      "phonetic": "きんじゅうまんえん",
+      "word": "金拾万円"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74ad5f9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "100000 yên ."
+        }
+      ],
+      "mobileId": 99997,
+      "phonetic": "じゅうまんえん",
+      "word": "拾万円"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

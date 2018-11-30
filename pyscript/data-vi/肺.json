@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280275598b6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "活動期にあるサルコイドーシスの肺",
+              "mean": "phổi sacoidosis hoạt động có thời kì",
+              "transcription": "かつどうきにあるサルコイドーシスのはい"
+            },
+            {
+              "content": "癌になった肺",
+              "mean": "Phổi đã bị ung thư .",
+              "transcription": "がんになったはい"
+            }
+          ],
+          "kind": "n",
+          "mean": "phổi"
+        }
+      ],
+      "mobileId": 30537,
+      "phonetic": "はい",
+      "related_words": {
+        "word": [
+          "肺炎",
+          "肺がん",
+          "肺結核",
+          "肺癌",
+          "肺活量",
+          "肺胞"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "肺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "肺臓",
+                "胸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "肺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a412954",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "artificial lung"
+        }
+      ],
+      "mobileId": 225509,
+      "phonetic": "じんこうはい",
+      "word": "人工肺"
+    },
+    {
+      "_id": "432518852de0a80625d585a98212a59c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "book lung (arachnid respiratory organ)"
+        }
+      ],
+      "mobileId": 232239,
+      "phonetic": "はいしょ",
+      "word": "肺書"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900effa30c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inhalation"
+        }
+      ],
+      "mobileId": 119174,
+      "phonetic": "はいたんそ",
+      "word": "肺炭疽"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9047209",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pulmonary congestion, lung congestion"
+        }
+      ],
+      "mobileId": 272904,
+      "phonetic": "はいうっけつ",
+      "word": "肺うっ血"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680139d4",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, adj-no",
+          "mean": "Phế nang, ổ, túi phổi, ổ răng, lỗ tổ ong"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "lỗ hổng, hố hốc, ổ, khoang"
+        }
+      ],
+      "mobileId": 39,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "肺"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "肺胞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "空洞",
+                "窪み"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "腔",
+                "空洞",
+                "窪み"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "肺胞"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802755da20",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "肺水腫における心原性・非心原性を鑑別する",
+              "mean": "Phân biệt tính tâm nguyên và phi tâm nguyên của bệnh sưng phổi",
+              "transcription": "はいすいしゅにおけるこころはらせい・ひこころはらせいをかんべつする"
+            },
+            {
+              "content": "急性肺水腫",
+              "mean": "Viêm phổi cấp tính .",
+              "transcription": "きゅうせいはいすいしゅ"
+            }
+          ],
+          "kind": "n",
+          "mean": "bệnh sưng phổi"
+        }
+      ],
+      "mobileId": 30542,
+      "phonetic": "はいすいしゅ",
+      "word": "肺水腫"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ccbcf2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lung substance, lung parenchyma"
+        }
+      ],
+      "mobileId": 213451,
+      "phonetic": "はいじっしつ",
+      "word": "肺実質"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821299e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "book lung (arachnid respiratory organ)"
+        }
+      ],
+      "mobileId": 232238,
+      "phonetic": "しょはい",
+      "word": "書肺"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d23ded1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pneumoconiosis (lung disease caused by dust inhalation)"
+        }
+      ],
+      "mobileId": 216250,
+      "phonetic": "じんはい じんぱい",
+      "word": "塵肺"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

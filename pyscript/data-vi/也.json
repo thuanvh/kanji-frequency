@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900eda62fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "aux-v",
+          "mean": "trợ từ chủ yếu dùng trong Hán Văn, đặt ở cuối câu, biểu thị sự khẳng định"
+        }
+      ],
+      "mobileId": 117989,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "可也"
+        ]
+      },
+      "word": "也"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e1373eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "A law is a law, however undesirable it may be"
+        }
+      ],
+      "mobileId": 248628,
+      "phonetic": "あくほうもまたほうなり",
+      "word": "悪法も亦法也"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e19b81b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Only the husband does not know"
+        }
+      ],
+      "mobileId": 248845,
+      "phonetic": "しらぬはていしゅばかりなり",
+      "word": "知らぬは亭主許り也"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e169ef7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Frailty, thy name is woman"
+        }
+      ],
+      "mobileId": 248738,
+      "phonetic": "よわきものよなんじのなはおんななり",
+      "word": "弱き者よ汝の名は女也"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

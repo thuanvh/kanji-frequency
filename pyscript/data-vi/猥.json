@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cdf77a88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "áo sơ mi tục tĩu (chơi chữ)"
+        }
+      ],
+      "mobileId": 76656,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "シャツ"
+        ]
+      },
+      "word": "猥シャツ"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77473fde",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dirty word"
+        }
+      ],
+      "mobileId": 266751,
+      "phonetic": "わいげん",
+      "word": "猥言"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774749e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dirty word"
+        }
+      ],
+      "mobileId": 266752,
+      "phonetic": "わいご",
+      "word": "猥語"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd1ac82b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chuyên quyền, độc đoán, tuỳ ý, tự ý"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xem unnecessary"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bừa bãi, ẩu"
+        }
+      ],
+      "mobileId": 69652,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "に"
+        ]
+      },
+      "word": "猥りに"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd1a9d75",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "có đạo đức hư hỏng"
+        }
+      ],
+      "mobileId": 69646,
+      "phonetic": "",
+      "word": "猥りがましい"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

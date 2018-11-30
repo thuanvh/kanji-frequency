@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a45605",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "蛇が動いたのを見て後ずさりする",
+              "mean": "lùi lại xa con rắn khi nó di chuyển .",
+              "transcription": "へびがうごいたのをみてあとずさりする"
+            }
+          ],
+          "kind": "n",
+          "mean": "rắn"
+        }
+      ],
+      "mobileId": 31982,
+      "phonetic": "へび",
+      "related_words": {
+        "word": [
+          "蛇口",
+          "大蛇",
+          "蛇行",
+          "毒蛇",
+          "蛇足",
+          "蛇腹"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "蛇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "大蛇",
+                "スネーク"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蛇"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca042f9e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snakeheads, Chinese criminal gangs, esp. for smuggling Chinese immigrants"
+        }
+      ],
+      "mobileId": 283114,
+      "phonetic": "じゃとう",
+      "word": "蛇頭"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef949837a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snake skin"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sanshin"
+        }
+      ],
+      "mobileId": 275095,
+      "phonetic": "じゃび じゃひ",
+      "word": "蛇皮"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6a34ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "water snake"
+        }
+      ],
+      "mobileId": 251467,
+      "phonetic": "ゆうだ ユウダ",
+      "word": "游蛇"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7b37f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "torture in which the victim is bound and placed in a tub of snakes"
+        }
+      ],
+      "mobileId": 251999,
+      "phonetic": "へびぜめ",
+      "word": "蛇責め"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77899729",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Enneapterygius etheostomus (species of threefin blenny)"
+        }
+      ],
+      "mobileId": 268922,
+      "phonetic": "へびぎんぽ ヘビギンポ",
+      "word": "蛇銀宝"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77141194",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "krait (esp. the Taiwanese banded krait, Bungarus multicinctus)"
+        }
+      ],
+      "mobileId": 265103,
+      "phonetic": "あまがさへび アマガサヘビ",
+      "word": "雨傘蛇"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fd17fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snake (esp. Japanese rat snake)"
+        }
+      ],
+      "mobileId": 264365,
+      "phonetic": "あおくちなわ あおんじょう",
+      "word": "青蛇"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9a2f11",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "caecilian (any burrowing legless amphibian of the order Gymnophiona)"
+        }
+      ],
+      "mobileId": 228339,
+      "phonetic": "はだかへび",
+      "word": "裸蛇"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8ad161",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "false strawberry (Duchesnea chrysantha), mock strawberry"
+        }
+      ],
+      "mobileId": 227834,
+      "phonetic": "へびいちご ヘビイチゴ くちなわいちご",
+      "word": "蛇いちご"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

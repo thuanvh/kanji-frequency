@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af2ce16",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "第二次世界大戦",
+              "mean": "Chiến tranh thế giới thứ hai",
+              "transcription": "だいにじせかいたいせん"
+            },
+            {
+              "content": "第一副首相",
+              "mean": "Phó thủ tướng thứ nhất",
+              "transcription": "だいいちふくしゅしょう"
+            }
+          ],
+          "kind": "n, pref",
+          "mean": "thứ"
+        }
+      ],
+      "mobileId": 174286,
+      "phonetic": "だい",
+      "word": "第"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e267aeb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(địa lý, địa chất) kỷ thứ ba"
+        }
+      ],
+      "mobileId": 112266,
+      "phonetic": "だいみき",
+      "word": "第三紀"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af34e13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "đệ nhị"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "thứ hai"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "thứ nhì ."
+        }
+      ],
+      "mobileId": 174299,
+      "phonetic": "だいに",
+      "related_words": {
+        "word": [
+          "二",
+          "第二に",
+          "第二次"
+        ]
+      },
+      "word": "第二"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d40b07f0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あの赤ちゃんはタンさんの第子になった",
+              "mean": "Đứa trẻ kia là con cả của anh Thắng",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Con cả"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "だいこ",
+      "word": "第子"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af3206d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thứ bảy"
+        }
+      ],
+      "mobileId": 174294,
+      "phonetic": "だいしち",
+      "related_words": {
+        "word": [
+          "七"
+        ]
+      },
+      "word": "第七"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af37346",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thứ sáu ."
+        }
+      ],
+      "mobileId": 174305,
+      "phonetic": "だいろく",
+      "word": "第六"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af3769f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "thứ tư ."
+        }
+      ],
+      "mobileId": 174306,
+      "phonetic": "だいよん",
+      "related_words": {
+        "word": [
+          "四"
+        ]
+      },
+      "word": "第四"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bde9142",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the ninth (i.e. Beethoven's Ninth Symphony)"
+        }
+      ],
+      "mobileId": 246950,
+      "phonetic": "だいく",
+      "word": "第九"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777feeea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "primary salt"
+        }
+      ],
+      "mobileId": 268601,
+      "phonetic": "だいいちえん",
+      "word": "第一塩"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af30891",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thứ nhất ."
+        }
+      ],
+      "mobileId": 174291,
+      "phonetic": "だいいちばん",
+      "word": "第一番"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

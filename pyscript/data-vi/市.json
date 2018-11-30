@@ -1,0 +1,261 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107c8b6fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "thành phố ."
+        }
+      ],
+      "mobileId": 55228,
+      "phonetic": "し",
+      "related_words": {
+        "word": [
+          "市役所",
+          "都市",
+          "市長",
+          "市場",
+          "市販",
+          "市町村",
+          "市民",
+          "市場調査",
+          "市外局番",
+          "市内"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "市",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "見本市",
+                "フェア"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "中心地",
+                "京師",
+                "大都市",
+                "首府",
+                "メトロポリス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "博",
+                "共進会"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "市場",
+                "マーケット",
+                "マート"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "市"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107c8b61b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この町では日曜の朝ごとに青空市が立つ。",
+              "mean": "Thị trấn này có một phiên chợ ngoài trời vào mỗi sáng chủ nhật.",
+              "transcription": "このまちではにちようのちょうごとにあおぞらしがたつ。"
+            },
+            {
+              "content": "次の市は３０日に開きます。",
+              "mean": "Phiên chợ tiếp theo được mở vào ngày 30.",
+              "transcription": "つぎのしはさんぜろにちにひらきます。"
+            }
+          ],
+          "kind": "n",
+          "mean": "phiên chợ; hội chợ"
+        }
+      ],
+      "mobileId": 55227,
+      "phonetic": "いち",
+      "related_words": {
+        "word": [
+          "市役所",
+          "都市",
+          "市長",
+          "市場",
+          "市販",
+          "市町村",
+          "市民",
+          "市場調査",
+          "市外局番",
+          "市内"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "市",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "見本市",
+                "フェア"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "中心地",
+                "京師",
+                "大都市",
+                "首府",
+                "メトロポリス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "博",
+                "共進会"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "市場",
+                "マーケット",
+                "マート"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "市"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8e080c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hội chợ sách cũ; hội chợ sách cổ"
+        }
+      ],
+      "mobileId": 40718,
+      "phonetic": "こしょし",
+      "word": "古書市"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d035746",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "disposal sale, surplus good sale"
+        }
+      ],
+      "mobileId": 215222,
+      "phonetic": "しょぶんいち",
+      "word": "処分市"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd2ae76",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "entering a city"
+        }
+      ],
+      "mobileId": 221932,
+      "phonetic": "にゅうし",
+      "word": "入市"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c5e2d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "city symbol, city emblem"
+        }
+      ],
+      "mobileId": 262614,
+      "phonetic": "ししょう",
+      "word": "市章"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfc1315",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thành phố osaka"
+        }
+      ],
+      "mobileId": 17755,
+      "phonetic": "おおさかし",
+      "word": "大阪市"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7d1c95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếp thị ngày"
+        }
+      ],
+      "mobileId": 13764,
+      "phonetic": "しび",
+      "related_words": {
+        "word": [
+          "日",
+          "市"
+        ]
+      },
+      "word": "市日"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04c0453",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "antique market, flea market"
+        }
+      ],
+      "mobileId": 283393,
+      "phonetic": "こっとういち",
+      "word": "骨董市"
+    },
+    {
+      "_id": "432518852de0a80625d585a982279f62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "special city"
+        }
+      ],
+      "mobileId": 232884,
+      "phonetic": "とくれいし",
+      "word": "特例市"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

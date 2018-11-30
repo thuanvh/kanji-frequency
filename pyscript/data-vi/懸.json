@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8902275",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự treo, sự đình chỉ, sự ngưng lại; sự đình chỉ công tác; sự đình bản, thể vẩn"
+        }
+      ],
+      "mobileId": 38106,
+      "phonetic": "かかつ",
+      "word": "懸吊"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19356fe3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để (thì) rất xa về một bên từ; để (thì) từ xa; để (thì) khá khác nhau từ"
+        }
+      ],
+      "mobileId": 20683,
+      "phonetic": "かかはなれる",
+      "related_words": {
+        "word": [
+          "離れる"
+        ]
+      },
+      "word": "懸離れる"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77226947",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "headstall, martingale, and crupper"
+        }
+      ],
+      "mobileId": 265576,
+      "phonetic": "さんがい",
+      "word": "三懸"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e0ec2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "leather strap put across a horse's neck"
+        }
+      ],
+      "mobileId": 263454,
+      "phonetic": "こうがけ",
+      "word": "首懸"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193562aa9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim giẻ cùi, anh chàng ba hoa khó chịu, anh chàng ngốc, anh chàng khờ dại"
+        }
+      ],
+      "mobileId": 20655,
+      "phonetic": "かかす",
+      "word": "懸巣"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88f9e75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, vs",
+          "mean": "(chem) sự treo"
+        }
+      ],
+      "mobileId": 38091,
+      "phonetic": "かかにご",
+      "word": "懸濁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08fbc7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "way of holding a calligraphy brush, with elbow away from the body and arm in the air"
+        }
+      ],
+      "mobileId": 285542,
+      "phonetic": "けんわん",
+      "word": "懸腕"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e940b6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự treo ngược, sự treo lộn ngược; sự treo lộn ngược (ai); sự vô cùng đau khổ (tinh thần hoặc thể xác)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dogfighting"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fighting dog"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "swords"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cold steel"
+        }
+      ],
+      "mobileId": 115753,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "倒懸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "苦悩",
+                "悩み",
+                "苦痛",
+                "八苦",
+                "苦しみ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "苦痛",
+                "苦しみ",
+                "激痛"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "倒懸"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e1fbba8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "round plaque carrying the image of a Buddha (usually hammered from behind) used in temples and shrines"
+        }
+      ],
+      "mobileId": 249045,
+      "phonetic": "かけぼとけ",
+      "word": "懸仏"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06e7730",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "suspension"
+        }
+      ],
+      "mobileId": 284501,
+      "phonetic": "けんだくえき",
+      "word": "懸濁液"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

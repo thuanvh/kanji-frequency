@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568010073b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sương mù ."
+        }
+      ],
+      "mobileId": 41721,
+      "phonetic": "もや",
+      "synsets": [
+        {
+          "base_form": "靄",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "霞",
+                "フォグ",
+                "煙霧",
+                "霧"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "霞",
+                "煙霧",
+                "霧"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "霞",
+                "霧",
+                "ミスト"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "靄"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8948a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sương mù buổi chiều"
+        }
+      ],
+      "mobileId": 73156,
+      "opposite_word": [
+        "朝靄"
+      ],
+      "phonetic": "",
+      "word": "夕靄"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a48f927",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv-to, adj-t",
+          "mean": "hovering like mist or clouds"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gentle, calm"
+        }
+      ],
+      "mobileId": 225754,
+      "phonetic": "あいぜん",
+      "word": "靄然"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0252248",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "to become misty, to become hazy"
+        }
+      ],
+      "mobileId": 190353,
+      "phonetic": "もやる",
+      "word": "靄る"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c6f96e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thin mist, light mist"
+        }
+      ],
+      "mobileId": 213261,
+      "phonetic": "うすもや",
+      "word": "薄靄"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fbd798",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hot summer air"
+        }
+      ],
+      "mobileId": 264327,
+      "phonetic": "えんあい",
+      "word": "炎靄"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cc69ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "accumulation of clouds or mist"
+        }
+      ],
+      "mobileId": 262818,
+      "phonetic": "あいあい",
+      "word": "靄々"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd60d0e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "mù sương; mù mịt, lờ mờ, mơ hồ, chếnh choáng say, ngà ngà say"
+        }
+      ],
+      "mobileId": 71852,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "の",
+          "靄"
+        ]
+      },
+      "word": "靄の掛かった"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

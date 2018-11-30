@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f2587e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thay vào đó; trên (về) sự trái ngược; khá; mọi thứ hơn"
+        }
+      ],
+      "mobileId": 25611,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "償却",
+          "返却",
+          "売却",
+          "却下",
+          "減価償却",
+          "冷却",
+          "忘却",
+          "焼却",
+          "冷却器",
+          "償却する"
+        ]
+      },
+      "word": "却"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3acd3579",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "disposal, throwing away, scrapping (something)"
+        }
+      ],
+      "mobileId": 229993,
+      "phonetic": "はいきゃく",
+      "word": "廃却"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adf838d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "rejection"
+        }
+      ],
+      "mobileId": 230593,
+      "phonetic": "そきゃく",
+      "word": "阻却"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9539532f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự loại trừ; sự loại ra"
+        }
+      ],
+      "mobileId": 57905,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "却"
+        ]
+      },
+      "word": "除却"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dd96d03",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khước từ; để điều khiển ra khỏi; tới sự đẩy lùi; loại bỏ"
+        }
+      ],
+      "mobileId": 152664,
+      "phonetic": "",
+      "word": "却ける"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad9f397",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "justifiable cause for noncompliance with the law"
+        }
+      ],
+      "mobileId": 230410,
+      "phonetic": "いほうせいそきゃくじゆう",
+      "word": "違法性阻却事由"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

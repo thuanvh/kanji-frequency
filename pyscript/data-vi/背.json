@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027584626",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "lưng ."
+        }
+      ],
+      "mobileId": 30573,
+      "opposite_word": [
+        "向",
+        "腹"
+      ],
+      "phonetic": "せい, せ",
+      "related_words": {
+        "word": [
+          "背景",
+          "背中",
+          "背が高い",
+          "背番号",
+          "背が低い",
+          "背徳",
+          "背骨",
+          "背後",
+          "背広",
+          "背負う"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "背",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "後ろ",
+                "後",
+                "背中"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "背丈",
+                "高さ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "後列",
+                "蔭",
+                "裏面",
+                "甲羅",
+                "背後",
+                "後押し",
+                "陰",
+                "後ろ",
+                "裏側",
+                "裏手",
+                "裏",
+                "後",
+                "背中",
+                "バック",
+                "後部"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "背丈",
+                "上背",
+                "身長",
+                "丈",
+                "身丈"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "背"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027598a3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số hiệu trên lưng; số quân phục ."
+        }
+      ],
+      "mobileId": 30596,
+      "phonetic": "せばんごう",
+      "related_words": {
+        "word": [
+          "番号",
+          "号",
+          "背"
+        ]
+      },
+      "word": "背番号"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0424e65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slicing a fish down its back"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "slit in the back of a garment"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "split in a piece of lumber (to prevent splitting when drying)"
+        }
+      ],
+      "mobileId": 208973,
+      "phonetic": "せわり",
+      "word": "背割"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9730218",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "dorsal"
+        }
+      ],
+      "mobileId": 276398,
+      "phonetic": "はいそく",
+      "word": "背側"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef978117d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "back fat, fatty upper part of roast pork"
+        }
+      ],
+      "mobileId": 276566,
+      "phonetic": "せあぶら",
+      "word": "背脂"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770e8a72",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "copying from a model without looking at it (calligraphy)"
+        }
+      ],
+      "mobileId": 264921,
+      "opposite_word": [
+        "臨書"
+      ],
+      "phonetic": "はいりん",
+      "word": "背臨"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ebffab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bỏ và xoay lùi lại"
+        }
+      ],
+      "mobileId": 25396,
+      "phonetic": "",
+      "word": "棄背"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a655407",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "back of a chair"
+        }
+      ],
+      "mobileId": 226623,
+      "phonetic": "とうはい",
+      "word": "榻背"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef903dd2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "backboard"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dorsal plate, tergum"
+        }
+      ],
+      "mobileId": 272881,
+      "phonetic": "せいた はいばん",
+      "related_words": {
+        "word": [
+          "板",
+          "背"
+        ]
+      },
+      "word": "背板"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773a8efe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thinly slicing soft-boned fish for sashimi"
+        }
+      ],
+      "mobileId": 266356,
+      "phonetic": "せごし",
+      "word": "背越し"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

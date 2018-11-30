@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdce286b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vải phủ, giấy phủ, tấm phủ"
+        }
+      ],
+      "mobileId": 16296,
+      "phonetic": "うえくつがえ",
+      "related_words": {
+        "word": [
+          "上"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "上覆",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "上包み",
+                "掩護",
+                "隠匿",
+                "目隠し",
+                "隠蔽",
+                "カバー",
+                "包み隠し",
+                "覆い",
+                "被覆",
+                "遮蔽"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "上覆"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8798d25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "úp mặt xuống"
+        }
+      ],
+      "mobileId": 37406,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "傾覆",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "転覆"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "傾覆"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b222236ab",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Lan can (cầu)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "じふく",
+      "word": "地覆"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f99a6c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fickle friendship"
+        }
+      ],
+      "mobileId": 214918,
+      "phonetic": "ほんうんふくう",
+      "word": "翻雲覆雨"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f2367c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ejector housing (rifle, pistol)"
+        }
+      ],
+      "mobileId": 264009,
+      "phonetic": "しゅうしふく",
+      "word": "蹴子覆"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

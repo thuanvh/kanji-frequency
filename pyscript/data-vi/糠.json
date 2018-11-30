@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802705a2ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cám gạo ."
+        }
+      ],
+      "mobileId": 29177,
+      "phonetic": "ぬか",
+      "word": "糠"
+    },
+    {
+      "_id": "432518852de0a80625d585a982105308",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biting midge (any insect of family Ceratopogonidae), no-see-um"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "plant hopper (any insect of family Delphacidae)"
+        }
+      ],
+      "mobileId": 232162,
+      "phonetic": "ぬかばえ",
+      "word": "糠蝿"
+    },
+    {
+      "_id": "432518852de0a80625d585a982104a35",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biting midge (any insect of family Ceratopogonidae), no-see-um"
+        }
+      ],
+      "mobileId": 232161,
+      "phonetic": "ぬかご",
+      "word": "糠子"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abe208c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biting midge, no-see-um (any insect of family Ceratopogonidae)"
+        }
+      ],
+      "mobileId": 229498,
+      "phonetic": "ぬかか ヌカカ",
+      "word": "糠蚊"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09cc816",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bran, husks"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "furfur, branny scale"
+        }
+      ],
+      "mobileId": 285963,
+      "phonetic": "ひこう",
+      "word": "粃糠"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9878c0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "having no effect, waste of effort"
+        }
+      ],
+      "mobileId": 277059,
+      "phonetic": "ぬかにくぎ",
+      "word": "糠に釘"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e81ab65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pityriasis"
+        }
+      ],
+      "mobileId": 252208,
+      "phonetic": "ひこうしん",
+      "word": "粃糠疹"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f57e8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pityriasis rosea Gibert"
+        }
+      ],
+      "mobileId": 272419,
+      "phonetic": "ジベルばらいろひこうしん",
+      "word": "ジベルばら色粃糠疹"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

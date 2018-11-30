@@ -1,0 +1,143 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0c97f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "xét đoán"
+        }
+      ],
+      "mobileId": 146149,
+      "phonetic": "さい",
+      "related_words": {
+        "word": [
+          "裁判",
+          "決裁",
+          "裁判所",
+          "独裁者",
+          "裁判官",
+          "裁縫",
+          "裁き",
+          "最高裁判所",
+          "独裁",
+          "制裁"
+        ]
+      },
+      "word": "裁"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952d81f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pháo đài, là pháo đài của; bảo vệ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồn, đồn luỹ, dinh luỹ, thành trì"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thành luỹ, thành quách, thành trì, chỗ ẩn tránh cuối cùng, chỗ ẩn náu cuối cùng, thành luỹ cuối cùng"
+        }
+      ],
+      "mobileId": 57538,
+      "phonetic": "うえさい",
+      "related_words": {
+        "word": [
+          "上",
+          "裁"
+        ]
+      },
+      "word": "上裁"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5821a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyết định đế quốc hoặc sự phê chuẩn"
+        }
+      ],
+      "mobileId": 113855,
+      "phonetic": "みことのりさい",
+      "related_words": {
+        "word": [
+          "裁"
+        ]
+      },
+      "word": "勅裁"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c026afbe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "judicial decision"
+        }
+      ],
+      "mobileId": 208094,
+      "phonetic": "こうさい",
+      "word": "公裁"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959a33cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cắt; lựa chiều; xén; xén bớt"
+        }
+      ],
+      "mobileId": 61012,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "裁"
+        ]
+      },
+      "word": "剪裁"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b01e1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bốc hàng đường sắt ."
+        }
+      ],
+      "mobileId": 109687,
+      "phonetic": "てつどうさいか",
+      "word": "鉄道裁貨"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959a3cf4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xén máy"
+        }
+      ],
+      "mobileId": 61013,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "機",
+          "裁"
+        ]
+      },
+      "word": "剪裁機"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

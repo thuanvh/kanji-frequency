@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a982012151",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crucifixion"
+        }
+      ],
+      "mobileId": 231679,
+      "phonetic": "はりつけ はっつけ",
+      "word": "磔"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0587fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(of clerical script) horizontal lines ending in a noticeable triangular tail"
+        }
+      ],
+      "mobileId": 223576,
+      "phonetic": "はたく",
+      "word": "波磔"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7cc879",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cross (used in a crucifixion)"
+        }
+      ],
+      "mobileId": 252053,
+      "phonetic": "はりつけばしら はっつけばしら たくちゅう はりき",
+      "word": "磔柱"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

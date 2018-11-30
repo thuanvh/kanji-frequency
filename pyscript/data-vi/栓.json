@@ -1,0 +1,281 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f5644fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nút ."
+        }
+      ],
+      "mobileId": 186427,
+      "phonetic": "せん",
+      "related_words": {
+        "word": [
+          "耳栓",
+          "栓抜き",
+          "消火栓",
+          "元栓",
+          "血栓症"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "栓",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "コック",
+                "蛇口",
+                "給水栓",
+                "カラン",
+                "水道栓"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コック",
+                "蛇口",
+                "飲み口",
+                "水道栓"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "栓"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280271f9d93",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "給水栓を閉じる",
+              "mean": "Đóng vòi nước",
+              "transcription": "きゅうすいせんをとじる"
+            },
+            {
+              "content": "給水栓を開ける",
+              "mean": "Mở vòi nước .",
+              "transcription": "きゅうすいせんをあける"
+            }
+          ],
+          "kind": "n",
+          "mean": "vòi nước"
+        }
+      ],
+      "mobileId": 29599,
+      "phonetic": "きゅうすいせん",
+      "related_words": {
+        "word": [
+          "水",
+          "給水",
+          "栓",
+          "給"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "給水栓",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "栓",
+                "コック",
+                "蛇口",
+                "カラン",
+                "水道栓"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "給水栓"
+    },
+    {
+      "_id": "f61fc88c4ffea55446c27e669032f9e0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "予備ガス栓",
+              "mean": "nắp bình ga dự phòng",
+              "transcription": "よびガスせん"
+            },
+            {
+              "content": "ガス栓を閉める",
+              "mean": "đóng nắp bình ga .",
+              "transcription": "ガスせんをしめる"
+            }
+          ],
+          "kind": "n",
+          "mean": "nắp bình ga"
+        }
+      ],
+      "mobileId": 180053,
+      "phonetic": "ガスせん",
+      "related_words": {
+        "word": [
+          "ガス",
+          "栓"
+        ]
+      },
+      "word": "ガス栓"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c52f2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wooden plug, cork, tampion"
+        }
+      ],
+      "mobileId": 262586,
+      "phonetic": "もくせん",
+      "word": "木栓"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca010cfbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rubber stopper, rubber plug"
+        }
+      ],
+      "mobileId": 281500,
+      "phonetic": "ゴムせん ゴムセン",
+      "related_words": {
+        "word": [
+          "ゴム",
+          "栓"
+        ]
+      },
+      "word": "ゴム栓"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09f9e12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "connector, plug"
+        }
+      ],
+      "mobileId": 211980,
+      "phonetic": "せっせん",
+      "word": "接栓"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eac3de8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nút chai"
+        }
+      ],
+      "mobileId": 116556,
+      "phonetic": "きょうせん",
+      "related_words": {
+        "word": [
+          "共",
+          "栓"
+        ]
+      },
+      "word": "共栓"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b68f74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blackhead"
+        }
+      ],
+      "mobileId": 278560,
+      "phonetic": "かくせん",
+      "word": "角栓"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a0ec255",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bu-ji"
+        }
+      ],
+      "mobileId": 170529,
+      "phonetic": "てんかせん",
+      "related_words": {
+        "word": [
+          "火",
+          "点",
+          "栓",
+          "点火"
+        ]
+      },
+      "word": "点火栓"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757face7b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vòi nước máy; vòi nước ."
+        }
+      ],
+      "mobileId": 187779,
+      "phonetic": "すいどうせん",
+      "related_words": {
+        "word": [
+          "道",
+          "水",
+          "水道",
+          "栓"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "水道栓",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "栓",
+                "コック",
+                "蛇口",
+                "給水栓",
+                "カラン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "栓",
+                "コック",
+                "蛇口",
+                "飲み口"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "水道栓"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

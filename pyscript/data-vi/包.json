@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a91bcc6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yurt"
+        }
+      ],
+      "mobileId": 257172,
+      "phonetic": "パオ",
+      "word": "包"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd930fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hydatid"
+        }
+      ],
+      "mobileId": 222137,
+      "phonetic": "ほうちゅう",
+      "word": "包虫"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c1d92d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "da qui đầu chật"
+        }
+      ],
+      "mobileId": 6181,
+      "phonetic": "",
+      "word": "包莖"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd6a3121",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bao [hộp] đựng thuốc; ống (hộp) đạn"
+        }
+      ],
+      "mobileId": 72148,
+      "phonetic": "くすりつつみ",
+      "word": "薬包"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06d6075",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wrapping, envelopment"
+        }
+      ],
+      "mobileId": 284463,
+      "phonetic": "ほうか",
+      "word": "包か"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada5cfb77",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bao giấy ."
+        }
+      ],
+      "mobileId": 78517,
+      "phonetic": "つつみがみ",
+      "related_words": {
+        "word": [
+          "紙"
+        ]
+      },
+      "word": "包紙"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d704c3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xiaolongbao (eastern Chinese steamed bun), soup dumpling"
+        }
+      ],
+      "mobileId": 218702,
+      "phonetic": "しょうろんぽう ショウロンポウ シャオロンパオ",
+      "word": "小籠包"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95e5a4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "file wrapper for a patent, correspondence about the status of a patent between the inventor and the patent office"
+        }
+      ],
+      "mobileId": 259335,
+      "phonetic": "ほうたい",
+      "word": "包袋"
+    },
+    {
+      "_id": "432518852de0a80625d585a98242c847",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, adj-no",
+          "mean": "nang lông"
+        }
+      ],
+      "mobileId": 233738,
+      "phonetic": "もうほう",
+      "word": "毛包"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db6d600",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "envelope containing betrothal money and given as part of a betrothal gift"
+        }
+      ],
+      "mobileId": 221027,
+      "phonetic": "きんぽう",
+      "word": "金包"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

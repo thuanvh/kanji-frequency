@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dad26f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lời nịnh hót; sự giả dối ."
+        }
+      ],
+      "mobileId": 144400,
+      "phonetic": "ねい",
+      "word": "佞"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9662c49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5m",
+          "mean": "to deceive, to fool, to lie"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to commit adultery"
+        }
+      ],
+      "mobileId": 259581,
+      "phonetic": "かだむ かたむ",
+      "word": "佞む"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dad4607",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lời nịnh hót; sự tán tỉnh; sự nịnh hót ."
+        }
+      ],
+      "mobileId": 144403,
+      "phonetic": "ねいべん",
+      "related_words": {
+        "word": [
+          "弁"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "佞弁",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "媚び",
+                "口車",
+                "甘言"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "佞弁"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dad54dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người xảo trá ."
+        }
+      ],
+      "mobileId": 144406,
+      "phonetic": "ねいしゃ",
+      "related_words": {
+        "word": [
+          "者"
+        ]
+      },
+      "word": "佞者"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bddd62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự tâng bốc, sự xu nịnh, sự bợ đỡ, lời tâng bốc, lời nịnh hót, lời bợ đỡ"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự nịnh hót, sự nịnh nọt, sự bợ đỡ"
+        }
+      ],
+      "mobileId": 6063,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "便"
+        ]
+      },
+      "word": "便佞"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dad4648",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "Tính bướng bỉnh; người ngang ngạch ."
+        }
+      ],
+      "mobileId": 144404,
+      "phonetic": "ねいあく",
+      "related_words": {
+        "word": [
+          "悪"
+        ]
+      },
+      "word": "佞悪"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dad4a3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sự xảo trá ."
+        }
+      ],
+      "mobileId": 144405,
+      "phonetic": "ねいち",
+      "word": "佞智"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d4861c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "flattery, adulation, sycophancy"
+        }
+      ],
+      "mobileId": 213704,
+      "phonetic": "あゆべんねい",
+      "word": "阿諛便佞"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d7d61db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nebuta, nighttime festival in Tohoku (esp. Aomori)"
+        }
+      ],
+      "mobileId": 219122,
+      "phonetic": "ねぶた",
+      "word": "佞武多"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

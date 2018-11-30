@@ -1,0 +1,287 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adafd30b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vườn; công viên ."
+        }
+      ],
+      "mobileId": 81088,
+      "phonetic": "その",
+      "related_words": {
+        "word": [
+          "遊園地",
+          "学園",
+          "幼稚園",
+          "公園",
+          "楽園",
+          "動物園",
+          "保育園",
+          "庭園",
+          "植物園",
+          "学園祭"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "園",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "庭",
+                "庭園",
+                "前栽",
+                "ガーデン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "パーク",
+                "庭園",
+                "公園",
+                "運動場",
+                "緑地"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "園"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adafd2c2d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この園は野菜・花などを植える為に設けた場所にする",
+              "mean": "Vườn này được dùng là nơi để trồng rau hoặc hoa",
+              "transcription": "このえんはやさい・はななどをうえるためにもうけたばしょにする"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "viên"
+        },
+        {
+          "examples": [
+            {
+              "content": "クマ園",
+              "mean": "vườn nuôi gấu",
+              "transcription": "クマえん"
+            },
+            {
+              "content": "エデンの園",
+              "mean": "vườn Eden",
+              "transcription": "エデンのえん"
+            },
+            {
+              "content": "ぼたん園",
+              "mean": "vường mẫu đơn",
+              "transcription": "ぼたんえん"
+            },
+            {
+              "content": "ブドウ園",
+              "mean": "vườn nho",
+              "transcription": "ブドウえん"
+            },
+            {
+              "content": "バラ園",
+              "mean": "vườn hồng",
+              "transcription": "バラえん"
+            },
+            {
+              "content": "バナナ園",
+              "mean": "vườn chuối",
+              "transcription": "バナナえん"
+            },
+            {
+              "content": "シダ園",
+              "mean": "vườn dương xỉ",
+              "transcription": "シダえん"
+            },
+            {
+              "content": "ゴム園",
+              "mean": "vườn cao su",
+              "transcription": "ゴムえん"
+            },
+            {
+              "content": "ココナッツ園",
+              "mean": "vườn dừa",
+              "transcription": "ココナッツえん"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "vườn"
+        }
+      ],
+      "mobileId": 81087,
+      "phonetic": "えん",
+      "related_words": {
+        "word": [
+          "遊園地",
+          "学園",
+          "幼稚園",
+          "公園",
+          "楽園",
+          "動物園",
+          "保育園",
+          "庭園",
+          "植物園",
+          "学園祭"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "園",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "庭",
+                "庭園",
+                "前栽",
+                "ガーデン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "パーク",
+                "庭園",
+                "公園",
+                "運動場",
+                "緑地"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "園"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bfc841a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "visit to a park"
+        }
+      ],
+      "mobileId": 247896,
+      "phonetic": "らいえん",
+      "word": "来園"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a934e2b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cemetery, graveyard"
+        }
+      ],
+      "mobileId": 257977,
+      "phonetic": "ぼえん",
+      "word": "墓園"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689d69b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ruộng nho, vườn nho"
+        }
+      ],
+      "mobileId": 4998,
+      "phonetic": "ぶどうえん",
+      "word": "葡萄園"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca083daeb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "leaving a park, garden, zoo, etc."
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "leaving kindergarten (e.g. end of day, on completion, expulsion)"
+        }
+      ],
+      "mobileId": 285149,
+      "phonetic": "たいえん",
+      "word": "退園"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04a6771",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vineyard"
+        }
+      ],
+      "mobileId": 209233,
+      "phonetic": "ぶどうえん ブドウえん",
+      "word": "ぶどう園"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada558f6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vườn bách thú ."
+        }
+      ],
+      "mobileId": 78412,
+      "phonetic": "どうぶつえん",
+      "related_words": {
+        "word": [
+          "物",
+          "動",
+          "園"
+        ]
+      },
+      "word": "動物園"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca021d348",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one's own garden, one's own cultivated land"
+        }
+      ],
+      "mobileId": 282032,
+      "phonetic": "じえん",
+      "word": "自園"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824e11bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "apple orchard"
+        }
+      ],
+      "mobileId": 234102,
+      "phonetic": "りんごえん",
+      "word": "りんご園"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

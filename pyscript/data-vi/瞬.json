@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aaee44d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giây phút ."
+        }
+      ],
+      "mobileId": 173189,
+      "phonetic": "しゅんこく",
+      "related_words": {
+        "word": [
+          "刻"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "瞬刻",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "瞬時",
+                "モーメント",
+                "時刻",
+                "刹那",
+                "咄嗟"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "瞬時",
+                "瞬間",
+                "モーメント",
+                "一瞬間",
+                "刹那",
+                "一瞬",
+                "咄嗟"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "瞬時",
+                "時",
+                "モーメント",
+                "時刻",
+                "刹那",
+                "寸時",
+                "片時",
+                "分秒",
+                "咄嗟"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "瞬刻"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d8b036",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "instantaneous, blindingly quick, (in) the blink of an eye"
+        }
+      ],
+      "mobileId": 279701,
+      "phonetic": "しゅんそく",
+      "word": "瞬速"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111a83c3",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "mất điện tạm thời"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "しゅんてい",
+      "word": "瞬停"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db1976b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sức mạnh đu đưa"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "warm spring weather"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spring warmth"
+        }
+      ],
+      "mobileId": 151364,
+      "phonetic": "まどかだん",
+      "word": "瞬断"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a84ac9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nictitating membrane, haw"
+        }
+      ],
+      "mobileId": 286330,
+      "phonetic": "しゅんまく",
+      "word": "瞬膜"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2f1447",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "instant killing"
+        }
+      ],
+      "mobileId": 249543,
+      "phonetic": "しゅんさつ",
+      "word": "瞬殺"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e35d1d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blink reflex, wink reflex"
+        }
+      ],
+      "mobileId": 249752,
+      "phonetic": "しゅんもくはんしゃ",
+      "word": "瞬目反射"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

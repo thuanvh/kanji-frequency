@@ -1,0 +1,177 @@
+{
+  "data": [
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c025202e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2m-s, vt",
+          "mean": "to study, to complete (a course), to cultivate, to master"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to order (one's life)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to repair (a fault one has committed)"
+        }
+      ],
+      "mobileId": 190352,
+      "phonetic": "おさむ",
+      "word": "修む"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8ff660",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giáo chủ; giám mục"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trưởng tu viện, trước, prior to trước khi"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cha trưởng tu viện"
+        }
+      ],
+      "mobileId": 150297,
+      "phonetic": "おさむいんちょう",
+      "related_words": {
+        "word": [
+          "長",
+          "院長"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "修院長",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "修道院長",
+                "大修道院長"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "修院長"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d97120f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biên dịch"
+        }
+      ],
+      "mobileId": 150522,
+      "phonetic": "おさむせん",
+      "word": "修撰"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca084a8a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shooto, martial arts competition leading to knockouts or submission"
+        }
+      ],
+      "mobileId": 285177,
+      "phonetic": "しゅうと",
+      "word": "修斗"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d901cbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tòa nhà làm việc"
+        }
+      ],
+      "mobileId": 150301,
+      "phonetic": "",
+      "word": "修営"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d90d8e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự tu cải"
+        }
+      ],
+      "mobileId": 150322,
+      "phonetic": "おさむあらため",
+      "word": "修改"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de4e8d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự biên soạn lại (từ điển ...)"
+        }
+      ],
+      "mobileId": 153053,
+      "phonetic": "しんおさむ",
+      "word": "新修"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d966392",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc phát triển thành vấn đề"
+        }
+      ],
+      "mobileId": 150495,
+      "phonetic": "おさむじゅく",
+      "word": "修熟"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d39a26f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự duyệt lại; cải cách"
+        }
+      ],
+      "mobileId": 147563,
+      "phonetic": "",
+      "word": "刪修"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01e185b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "perceptive mental disturbances"
+        }
+      ],
+      "mobileId": 281912,
+      "phonetic": "しゅわく",
+      "word": "修惑"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

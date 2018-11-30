@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd743694",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phương pháp tạo mẫu nhuộm bằng cách dồn vải (len) giữa các tấm bảng khắc"
+        }
+      ],
+      "mobileId": 13484,
+      "phonetic": "いたしめ",
+      "word": "板締"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8346b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sức ép"
+        }
+      ],
+      "mobileId": 149893,
+      "phonetic": "しめづけ",
+      "related_words": {
+        "word": [
+          "付"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "締付",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "緊縮",
+                "締め付け"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "締付"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c3b14a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bisque firing"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bisque (pottery)"
+        }
+      ],
+      "mobileId": 270787,
+      "phonetic": "しめやき",
+      "word": "締焼"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111a2d64",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "公定歩合の引き上げは金融引締政策の一つである",
+              "mean": "việc nâng giá lãi suất ngân hàng là một trong những chính sách thắt chặt tiền tệ."
+            }
+          ],
+          "kind": "",
+          "mean": "chính sách thắt chặt tiền tệ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "きんゆうひきしめせいさく",
+      "word": "金融引締政策"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

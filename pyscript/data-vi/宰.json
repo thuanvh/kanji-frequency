@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a993e83e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "government official working for the daizaifu"
+        }
+      ],
+      "mobileId": 261009,
+      "phonetic": "おおみこともち",
+      "word": "大宰"
+    },
+    {
+      "_id": "432518852de0a80625d585a98238407a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Minister of State (Zhou-dynasty China)"
+        }
+      ],
+      "mobileId": 233396,
+      "phonetic": "ちょうさい",
+      "word": "冢宰"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d28f9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chef, head cook"
+        }
+      ],
+      "mobileId": 263000,
+      "phonetic": "ちゅうさい",
+      "word": "厨宰"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,150 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680145e7df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá hồi ."
+        }
+      ],
+      "mobileId": 42943,
+      "phonetic": "ます",
+      "synsets": [
+        {
+          "base_form": "鱒",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "マス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鱒"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939092e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá hồi hồng (loài cá biển thuộc họ cá hồi)"
+        }
+      ],
+      "mobileId": 22520,
+      "phonetic": "からふとます",
+      "word": "樺太鱒"
+    },
+    {
+      "_id": "432518852de0a80625d585a98211e26c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "masu salmon (Oncorhynchus masou)"
+        }
+      ],
+      "mobileId": 232216,
+      "phonetic": "さくらます サクラマス",
+      "word": "桜鱒"
+    },
+    {
+      "_id": "432518852de0a80625d585a98211e7ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biwa trout (Oncorhynchus masou rhodurus), biwa salmon"
+        }
+      ],
+      "mobileId": 232217,
+      "phonetic": "びわます ビワマス",
+      "word": "琵琶鱒"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a831fe2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "salted mackerel"
+        }
+      ],
+      "mobileId": 227583,
+      "phonetic": "しおます",
+      "word": "塩鱒"
+    },
+    {
+      "_id": "432518852de0a80625d585a98211dd5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Oncorhynchus nerka kawamurae (rare Japanese subspecies of sockeye salmon)"
+        }
+      ],
+      "mobileId": 232215,
+      "phonetic": "くにます クニマス",
+      "word": "国鱒"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd376124",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tảng đá đánh lừa; cá mú yên đen"
+        }
+      ],
+      "mobileId": 11564,
+      "phonetic": "しょうずます",
+      "word": "小豆鱒"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939a7376",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá hồi sống ở sông suối"
+        }
+      ],
+      "mobileId": 22827,
+      "phonetic": "かわます",
+      "word": "河鱒"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0b442c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "baby trout, troutling"
+        }
+      ],
+      "mobileId": 215460,
+      "phonetic": "こます",
+      "word": "小鱒"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7786a80d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sea-run variety of red-spotted masu trout (subspecies of cherry salmon, Oncorhynchus masou ishikawae), red-spotted masu salmon"
+        }
+      ],
+      "mobileId": 268827,
+      "phonetic": "さつきます サツキマス",
+      "word": "皐月鱒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

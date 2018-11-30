@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09804b9",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "đường kính"
+        }
+      ],
+      "mobileId": 211725,
+      "phonetic": "けい わたり",
+      "word": "径"
+    },
+    {
+      "_id": "432518852de0a80625d585a982b10acb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "core diameter (of a fiber)"
+        }
+      ],
+      "mobileId": 237261,
+      "phonetic": "コアケイ",
+      "word": "コア径"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10729e320",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "コイル外径",
+              "mean": "đường kính cuộn dây",
+              "transcription": "コイルがい径"
+            },
+            {
+              "content": "タイヤの外径",
+              "mean": "đường kính ngoài của bánh xe .",
+              "transcription": "タイヤのそと径"
+            }
+          ],
+          "kind": "n",
+          "mean": "Đường kính ngoài"
+        }
+      ],
+      "mobileId": 52543,
+      "opposite_word": [
+        "内径"
+      ],
+      "phonetic": "がいけい",
+      "related_words": {
+        "word": [
+          "外"
+        ]
+      },
+      "word": "外径"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09a9c1e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wire diameter"
+        }
+      ],
+      "mobileId": 211812,
+      "phonetic": "せんけい",
+      "related_words": {
+        "word": [
+          "線"
+        ]
+      },
+      "word": "線径"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc701be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường kính hạt"
+        }
+      ],
+      "mobileId": 75162,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "粒"
+        ]
+      },
+      "word": "粒径"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db1d7b3",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "khoảng cách giữa hai điểm, khoảng cách giữa các hỗ trợ đối diện của vòm, cầu, nhịp"
+        }
+      ],
+      "mobileId": 220856,
+      "phonetic": "けいかん わたりま",
+      "word": "径間"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9547c89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "particle size, particle diameter"
+        }
+      ],
+      "mobileId": 258994,
+      "phonetic": "りゅうしけい",
+      "related_words": {
+        "word": [
+          "子",
+          "粒子",
+          "粒"
+        ]
+      },
+      "word": "粒子径"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3711fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường nhỏ trên núi"
+        }
+      ],
+      "mobileId": 147480,
+      "phonetic": "",
+      "word": "山径"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7732c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "radius vector"
+        }
+      ],
+      "mobileId": 251864,
+      "phonetic": "どうけい",
+      "word": "動径"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e878d11f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "(của) đường kính lớn"
+        }
+      ],
+      "mobileId": 37378,
+      "phonetic": "",
+      "word": "径の大きい"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

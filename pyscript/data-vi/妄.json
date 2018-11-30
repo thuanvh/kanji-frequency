@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e8b576",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ảo tưởng; sai báo cáo"
+        }
+      ],
+      "mobileId": 7412,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "説"
+        ]
+      },
+      "word": "妄説"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ead97a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không mạch lạc nói"
+        }
+      ],
+      "mobileId": 7482,
+      "phonetic": "",
+      "word": "妄弁"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68eb6fc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự sử dụng tùy tiện; sự lạm dụng"
+        }
+      ],
+      "mobileId": 7498,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "用"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "妄用",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "濫用",
+                "誤用",
+                "悪用",
+                "乱用"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "妄用"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a778318",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "deluded mind (a mind polluted with klesha, incapable of understanding the original essence of things)"
+        }
+      ],
+      "mobileId": 227209,
+      "phonetic": "もうしん もうじん",
+      "word": "妄心"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96eaa96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fallacy, conjecture"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "baseless thing, random thing"
+        }
+      ],
+      "mobileId": 259844,
+      "phonetic": "びゅうもう",
+      "word": "謬妄"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

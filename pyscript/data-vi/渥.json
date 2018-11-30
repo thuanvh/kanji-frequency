@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd31b04c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vùng đầm lầy"
+        }
+      ],
+      "mobileId": 11380,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "地"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "渥地",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "湿地",
+                "沼沢",
+                "沢",
+                "湿原",
+                "沼",
+                "沼地"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "渥地"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04b13e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "glossy"
+        }
+      ],
+      "mobileId": 209259,
+      "phonetic": "あくぜん",
+      "word": "渥然"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3171e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bóng loáng, hào nhoáng, bề ngoài"
+        }
+      ],
+      "mobileId": 11371,
+      "phonetic": "",
+      "word": "渥然たる"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

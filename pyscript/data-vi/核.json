@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f5904ca",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "日本は核保有国ではないし，将来も核保有国とはならないであろう。",
+              "mean": "Nhật Bản không phải nước sở hữu vũ khí hạt nhân và trong tương lai cũng sẽ không trở thành nước sở hữu vũ khí hạt nhân.",
+              "transcription": "にっぽんはかくほゆうこくではないし，しょうらいもかくほゆうこくとはならないであろう。"
+            },
+            {
+              "content": "我々は核軍縮の計画を推し進めねばならない。",
+              "mean": "Chúng ta phải đẩy mạnh kế hoạch giải trừ vũ khí hạt nhân.",
+              "transcription": "われわれはかくぐんしゅくのけいかくをおしすすめねばならない。"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "hạt nhân"
+        }
+      ],
+      "mobileId": 186456,
+      "phonetic": "かく",
+      "related_words": {
+        "word": [
+          "陰核",
+          "結核",
+          "核融合",
+          "核兵器",
+          "核実験",
+          "核家族",
+          "中核",
+          "核爆弾",
+          "肺結核",
+          "核心"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "核",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "コア",
+                "軸",
+                "仲核",
+                "中枢",
+                "中軸",
+                "心臓部",
+                "中核"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "基幹",
+                "ポイント",
+                "エッセンス",
+                "心臓",
+                "核心",
+                "中枢",
+                "骨髄",
+                "本質",
+                "眼目",
+                "枢要",
+                "主旨",
+                "心髄",
+                "枢軸",
+                "心臓部",
+                "要点",
+                "骨子",
+                "要領",
+                "中核",
+                "主意"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "原子核"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "フォーカス",
+                "的",
+                "中心",
+                "重心",
+                "焦点"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コア",
+                "核心",
+                "仲核",
+                "心",
+                "中心",
+                "真ん中",
+                "芯",
+                "真中"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "フォーカス",
+                "中心",
+                "重心",
+                "焦点"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "細胞核"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "核"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934c3ef2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nucleon [hạt proton và nơ-ron]"
+        }
+      ],
+      "mobileId": 20351,
+      "phonetic": "かくこ",
+      "related_words": {
+        "word": [
+          "子",
+          "核"
+        ]
+      },
+      "word": "核子"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934eae8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pha hạt nhân"
+        }
+      ],
+      "mobileId": 20424,
+      "phonetic": "かくしょう",
+      "word": "核相"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193514226",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ngữ pháp hạt nhân - tên một khái niệm ngữ pháp do Charles J. Fillmore đề xuất, theo đó một câu được hình thành từ sự kết hợp của động từ một số thể cách khác"
+        }
+      ],
+      "mobileId": 20503,
+      "phonetic": "かくぶんぽう",
+      "word": "核文法"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19351cbe7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màng chứa nhân tế bào"
+        }
+      ],
+      "mobileId": 20518,
+      "phonetic": "かくまく",
+      "word": "核膜"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193535993",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dị ứng hạt nhân"
+        }
+      ],
+      "mobileId": 20565,
+      "phonetic": "かくアレルギー",
+      "word": "核アレルギー"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935360d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "năng lượng hạt nhân"
+        }
+      ],
+      "mobileId": 20566,
+      "phonetic": "かくエネルギー",
+      "related_words": {
+        "word": [
+          "核"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "核エネルギー",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "原子力"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "核エネルギー"
+    },
+    {
+      "_id": "432518852de0a80625d585a982055fc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mother nucleus"
+        }
+      ],
+      "mobileId": 231810,
+      "phonetic": "ぼかく",
+      "word": "母核"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf07908",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nuclear bomb shelter"
+        }
+      ],
+      "mobileId": 247507,
+      "phonetic": "かくシェルター",
+      "word": "核シェルター"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1300ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nuclear issue, nuclear problem"
+        }
+      ],
+      "mobileId": 215709,
+      "phonetic": "かくもんだい",
+      "word": "核問題"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

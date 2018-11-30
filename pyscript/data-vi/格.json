@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f5c54f6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "うちの会社は彼の会社と格が違うよ。",
+              "mean": "Công ty tôi và công ty anh ta không thể so với nhau được (không cùng một loại)",
+              "transcription": "うちのかいしゃはかれのかいしゃとかくがちがうよ。"
+            },
+            {
+              "content": "このホテルはこの地区では一番格が高いホテルです。",
+              "mean": "Khách sạn này là khách sạn cao cấp nhất trong khu vực.",
+              "transcription": "このホテルはこのちくではいちばんかくがたかいホテルです。"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "trạng thái; hạng"
+        }
+      ],
+      "mobileId": 186517,
+      "phonetic": "かく",
+      "related_words": {
+        "word": [
+          "価格",
+          "資格",
+          "規格",
+          "性格",
+          "合格",
+          "格納",
+          "格好",
+          "不合格",
+          "厳格",
+          "低価格"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "格",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "品位",
+                "階級",
+                "段階",
+                "階層",
+                "グレード",
+                "位地",
+                "点数",
+                "クラス",
+                "等級",
+                "位",
+                "程度",
+                "地位",
+                "位置",
+                "立場",
+                "階段"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "格式",
+                "羽振り",
+                "地位"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "法令",
+                "規程",
+                "戒律",
+                "原則",
+                "規定",
+                "準則",
+                "掟",
+                "規格",
+                "定規",
+                "会則",
+                "典則",
+                "律",
+                "規律",
+                "定め",
+                "法則",
+                "規準",
+                "規則",
+                "ルール",
+                "本則",
+                "規制",
+                "法"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ケイス",
+                "ケース"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "格"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd55ba08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(ngôn ngữ học) cách mục đích"
+        }
+      ],
+      "mobileId": 71495,
+      "phonetic": "もくてきかく",
+      "word": "目的格"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e04d387",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "leader, leading figure"
+        }
+      ],
+      "mobileId": 248160,
+      "phonetic": "リーダーかく",
+      "word": "リーダー格"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da8d209",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "partitive"
+        }
+      ],
+      "mobileId": 220552,
+      "phonetic": "ぶんかく",
+      "word": "分格"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da8f433",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "allative"
+        }
+      ],
+      "mobileId": 220557,
+      "phonetic": "こうかく",
+      "word": "向格"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825ba7c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "vocative case"
+        }
+      ],
+      "mobileId": 234532,
+      "phonetic": "こかく",
+      "word": "呼格"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a13f17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "referee officiating at bouts of rank-and-file wrestlers in the highest division"
+        }
+      ],
+      "mobileId": 212026,
+      "phonetic": "まくうちかく",
+      "word": "幕内格"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e2b5886",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đại diện"
+        }
+      ],
+      "mobileId": 112416,
+      "phonetic": "だいひょうかく",
+      "related_words": {
+        "word": [
+          "代表",
+          "表",
+          "代",
+          "格"
+        ]
+      },
+      "word": "代表格"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e78cb83",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đánh giá giá trị (kỹ nghệ)"
+        }
+      ],
+      "mobileId": 114871,
+      "phonetic": "ていかく",
+      "word": "定格"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da90a8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "instructive"
+        }
+      ],
+      "mobileId": 220559,
+      "phonetic": "ぐかく",
+      "word": "具格"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

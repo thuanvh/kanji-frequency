@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680143334d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá chẻm ."
+        }
+      ],
+      "mobileId": 42902,
+      "phonetic": "あゆ",
+      "word": "鮎"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a97f89d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fishing for ayu"
+        }
+      ],
+      "mobileId": 260371,
+      "phonetic": "あゆりょう",
+      "word": "鮎漁"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2af422",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "greenling (câu cá)"
+        }
+      ],
+      "mobileId": 11161,
+      "phonetic": "あゆなみ",
+      "related_words": {
+        "word": [
+          "並",
+          "鮎"
+        ]
+      },
+      "word": "鮎並"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e38d40c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá ayu con"
+        }
+      ],
+      "mobileId": 112848,
+      "phonetic": "いとけなあゆ",
+      "word": "稚鮎"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930b4fcd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá nước ngọt bơi xuôi dòng để đẻ trứng"
+        }
+      ],
+      "mobileId": 18275,
+      "opposite_word": [
+        "上り鮎"
+      ],
+      "phonetic": "おちあゆ",
+      "word": "落ち鮎"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77709a01",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ayu fishing"
+        }
+      ],
+      "mobileId": 268096,
+      "phonetic": "あゆつり あゆづり",
+      "word": "鮎釣り"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77837889",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fourspine sculpin (Cottus kazika)"
+        }
+      ],
+      "mobileId": 268718,
+      "phonetic": "あゆかけ アユカケ",
+      "word": "鮎掛け"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9923dfa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ryukyu sweetfish (Plecoglossus altivelis ryukyuensis)"
+        }
+      ],
+      "mobileId": 277399,
+      "phonetic": "りゅうきゅうあゆ リュウキュウアユ",
+      "word": "琉球鮎"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77838575",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kissing loach (Leptobotia curta)"
+        }
+      ],
+      "mobileId": 268719,
+      "phonetic": "あゆもどき アユモドキ",
+      "word": "鮎擬"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2aed03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một loài cá biển có màu vàng hoặc xanh, dài khoảng 40 cm (ăn được)"
+        }
+      ],
+      "mobileId": 11160,
+      "phonetic": "あゆぎょおんな",
+      "related_words": {
+        "word": [
+          "女",
+          "魚",
+          "鮎"
+        ]
+      },
+      "word": "鮎魚女"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

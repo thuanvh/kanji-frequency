@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568014a333e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鷹狩りをする",
+              "mean": "Săn bằng chim ưng",
+              "transcription": "たかかりをする"
+            },
+            {
+              "content": "鳶が鷹を生む",
+              "mean": "Chim cắt đẻ ra chim ưng.(=Chim cúc cu ấp trứng tu hú) .",
+              "transcription": "とびがたかをうむ"
+            }
+          ],
+          "kind": "n",
+          "mean": "chim ưng"
+        }
+      ],
+      "mobileId": 43019,
+      "phonetic": "たか",
+      "related_words": {
+        "word": [
+          "能ある鷹は爪を隠す",
+          "夜鷹",
+          "禿鷹"
+        ]
+      },
+      "word": "鷹"
+    },
+    {
+      "_id": "432518852de0a80625d585a98251ae13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "group of buzzards (etc.) rising in an updraft (before the southward autumn migration)"
+        }
+      ],
+      "mobileId": 234215,
+      "phonetic": "たかばしら",
+      "word": "鷹柱"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7ddad82c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chim kền kền ."
+        }
+      ],
+      "mobileId": 145189,
+      "phonetic": "はげたか",
+      "related_words": {
+        "word": [
+          "鷹"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "兀鷹",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "禿鷹"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コンドル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "兀鷹"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a990359",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common kestrel (Falco tinnunculus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "common buzzard (Buteo buteo)"
+        }
+      ],
+      "mobileId": 228286,
+      "phonetic": "まぐそだか まぐそたか",
+      "word": "馬糞鷹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cbeb71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese sparrowhawk (Accipiter soloensis), gray frog hawk, grey frog hawk"
+        }
+      ],
+      "mobileId": 279276,
+      "phonetic": "あかはらだか アカハラダカ",
+      "word": "赤腹鷹"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cc6862",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "nghề nuôi chim ưng; thuật nuôi chim ưng, sự đi săn bằng chim ưng"
+        }
+      ],
+      "mobileId": 6522,
+      "phonetic": "ほうたか",
+      "word": "放鷹"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f9f71b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghề nuôi chim ưng; thuật nuôi chim ưng, sự đi săn bằng chim ưng"
+        }
+      ],
+      "mobileId": 64100,
+      "phonetic": "たかかり",
+      "word": "鷹狩り"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad88e37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "falconry term"
+        }
+      ],
+      "mobileId": 230358,
+      "phonetic": "たかことば",
+      "word": "鷹詞"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd981fdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim ưng và chim ưng"
+        }
+      ],
+      "mobileId": 73643,
+      "phonetic": "たかはやぶさ",
+      "word": "鷹隼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778778e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spottedtail morwong (Goniistius zonatus)"
+        }
+      ],
+      "mobileId": 268851,
+      "phonetic": "たかのはだい タカノハダイ",
+      "word": "鷹の羽鯛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

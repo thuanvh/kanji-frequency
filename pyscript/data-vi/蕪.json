@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938251df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây củ cải"
+        }
+      ],
+      "mobileId": 22073,
+      "phonetic": "かぶら",
+      "synsets": [
+        {
+          "base_form": "蕪",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "カブ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蕪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7766dc36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "turnip miso soup"
+        }
+      ],
+      "mobileId": 267784,
+      "phonetic": "かぶらじる かぶじる",
+      "word": "蕪汁"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3affa9ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thick wakame leaves, from near the stalk"
+        }
+      ],
+      "mobileId": 231629,
+      "phonetic": "めかぶ めかぶら",
+      "word": "和布蕪"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be24cea4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "của cải Thuỵ điển, người Thuỵ điển"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "<THựC> củ cải Thuỵ điển"
+        }
+      ],
+      "mobileId": 90460,
+      "phonetic": "スウェーデンかぶら",
+      "word": "スウェーデン蕪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77eb885d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "steamed fish with grated turnip on top"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hollowed-out turnip stuffed with chicken, shrimp, gingko nuts, etc."
+        }
+      ],
+      "mobileId": 272107,
+      "phonetic": "かぶらむし",
+      "word": "蕪蒸し"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca009318d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "narezushi of amberjack and turnip (Kanazawa speciality)"
+        }
+      ],
+      "mobileId": 281257,
+      "phonetic": "かぶらずし",
+      "word": "蕪鮨"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa73009f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cây cải đỏ ."
+        }
+      ],
+      "mobileId": 107485,
+      "phonetic": "あかかぶ",
+      "related_words": {
+        "word": [
+          "赤",
+          "蕪"
+        ]
+      },
+      "word": "赤蕪"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

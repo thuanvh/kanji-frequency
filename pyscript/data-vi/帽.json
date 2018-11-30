@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9aec46e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf, n",
+          "mean": "hat, cap"
+        }
+      ],
+      "mobileId": 261870,
+      "phonetic": "ぼう",
+      "word": "帽"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a999d32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "baseball cap"
+        }
+      ],
+      "mobileId": 228317,
+      "phonetic": "やきゅうぼう",
+      "word": "野球帽"
+    },
+    {
+      "_id": "f61fc88c4ffea55446c27e6690c7f72a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mũ phớt ."
+        }
+      ],
+      "mobileId": 183269,
+      "phonetic": "フェルトぼう",
+      "word": "フェルト帽"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd56c6c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mũ nón an toàn"
+        }
+      ],
+      "mobileId": 12564,
+      "phonetic": "あんぜんぼう",
+      "word": "安全帽"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed957f25dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đội mũ (của) một đồng phục"
+        }
+      ],
+      "mobileId": 60131,
+      "phonetic": "せいぼう",
+      "related_words": {
+        "word": [
+          "正"
+        ]
+      },
+      "word": "正帽"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ad0df1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mũ sắt ."
+        }
+      ],
+      "mobileId": 109641,
+      "phonetic": "てつぼう",
+      "related_words": {
+        "word": [
+          "鉄"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鉄帽",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鉄兜",
+                "甲",
+                "ヘルメット",
+                "兜"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鉄帽"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c3b2f5",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Mũ của học sinh"
+        }
+      ],
+      "mobileId": 24117,
+      "phonetic": "がくせいぼう",
+      "word": "学生帽"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9547bfb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bơi hoặc tắm mũ"
+        }
+      ],
+      "mobileId": 58378,
+      "phonetic": "すいえいぼう",
+      "word": "水泳帽"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107746072",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "宇宙に飛行するとき、宇宙帽は非常に重要な物だ",
+              "mean": "Khi bay vào vũ trụ mũ phi hành là một vật rất quan trọng. .",
+              "transcription": "うちゅうにひこうするとき、うちゅうぼうはひじょうにじゅうようなものだ"
+            }
+          ],
+          "kind": "n",
+          "mean": "mũ đội ngoài vũ trụ; mũ phi hành; mũ phi công"
+        }
+      ],
+      "mobileId": 53820,
+      "phonetic": "うちゅうぼう",
+      "related_words": {
+        "word": [
+          "宇宙"
+        ]
+      },
+      "word": "宇宙帽"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be422f45",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "núi băng"
+        }
+      ],
+      "mobileId": 91399,
+      "phonetic": "ベレーぼう",
+      "related_words": {
+        "word": [
+          "ベレー"
+        ]
+      },
+      "word": "ベレー帽"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

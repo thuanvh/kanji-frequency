@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280279b0397",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cái nắp nồi"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nắp"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vung ."
+        }
+      ],
+      "mobileId": 31804,
+      "phonetic": "ふた",
+      "related_words": {
+        "word": [
+          "頭蓋骨",
+          "天蓋",
+          "蓋然性"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "蓋",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鞘",
+                "キャップ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "上部"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "王冠",
+                "キャップ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蓋"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b9efb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vung xoong; vung nồi; nắp xoong; nắp nồi ."
+        }
+      ],
+      "mobileId": 109868,
+      "phonetic": "なべぶた",
+      "related_words": {
+        "word": [
+          "蓋",
+          "鍋"
+        ]
+      },
+      "word": "鍋蓋"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf35033",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cappings (type of bees wax, beekeeping, apiculture)"
+        }
+      ],
+      "mobileId": 247603,
+      "phonetic": "みつがい",
+      "word": "蜜蓋"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df325b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "having a lid or cover, container having a lid"
+        }
+      ],
+      "mobileId": 222989,
+      "phonetic": "ふたつき",
+      "word": "蓋付き"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77da8f15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inner lid"
+        }
+      ],
+      "mobileId": 271575,
+      "opposite_word": [
+        "外蓋"
+      ],
+      "phonetic": "うちぶた",
+      "word": "内蓋"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea382d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sửa chữa nắp vung"
+        }
+      ],
+      "mobileId": 116270,
+      "phonetic": "とじふた",
+      "word": "綴じ蓋"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d205d3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tấm phản làm giường có thể tháo dỡ để chứa đồ; Tấm phản gỗ đặt trên bệ bê tông trong nhà tắm công cộng; Tấm lót lối đi từ sàn diễn đến hậu trường trong rạp hát ."
+        }
+      ],
+      "mobileId": 141861,
+      "phonetic": "あげぶた",
+      "related_words": {
+        "word": [
+          "上",
+          "蓋"
+        ]
+      },
+      "word": "上げ蓋"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e50de57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rest for the lid of a teakettle (tea ceremony)"
+        }
+      ],
+      "mobileId": 250630,
+      "phonetic": "ふたおき",
+      "word": "蓋置き"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930f882c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nắp vung dựa vào trực tiếp trên (về) thức ăn"
+        }
+      ],
+      "mobileId": 18411,
+      "phonetic": "おとしふた",
+      "word": "落とし蓋"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e00fe3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acetabular roof"
+        }
+      ],
+      "mobileId": 271744,
+      "phonetic": "きゅうがい",
+      "word": "臼蓋"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

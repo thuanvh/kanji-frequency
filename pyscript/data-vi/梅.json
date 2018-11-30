@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f6153e6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "梅酢",
+              "mean": "nước mơ",
+              "transcription": "うめず"
+            },
+            {
+              "content": "梅の花",
+              "mean": "hoa mai",
+              "transcription": "うめのはな"
+            }
+          ],
+          "kind": "n",
+          "mean": "cây mơ"
+        },
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Mơ"
+        }
+      ],
+      "mobileId": 186582,
+      "phonetic": "うめ",
+      "related_words": {
+        "word": [
+          "梅雨",
+          "梅酒",
+          "梅干し",
+          "梅毒",
+          "松竹梅",
+          "梅林",
+          "梅花"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "梅",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "李",
+                "プラム"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "梅"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a36f66",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây mận nở hoa hơi đỏ vào mùa đông"
+        }
+      ],
+      "mobileId": 23110,
+      "phonetic": "かんべにうめ",
+      "word": "寒紅梅"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef912541b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fallen ume blossoms, fallen ume fruit"
+        }
+      ],
+      "mobileId": 273354,
+      "phonetic": "らくばい",
+      "word": "落梅"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be664df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bungo Japanese apricot, Prunus mume var. bungo"
+        }
+      ],
+      "mobileId": 247198,
+      "phonetic": "ぶんごうめ ブンゴウメ",
+      "word": "豊後梅"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be6686c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wintersweet (Chimonanthus praecox), Japanese allspice"
+        }
+      ],
+      "mobileId": 247200,
+      "phonetic": "とうばい トウバイ",
+      "word": "唐梅"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6520a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shredded dried plum, plum pulp"
+        }
+      ],
+      "mobileId": 218349,
+      "phonetic": "ばいにく",
+      "word": "梅肉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77aa127d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "winter jasmine (Jasminum nudiflorum)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Trollius hondoensis (species of globeflower)"
+        }
+      ],
+      "mobileId": 269981,
+      "phonetic": "きんばい キンバイ",
+      "word": "金梅"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abd3a3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rainy season"
+        }
+      ],
+      "mobileId": 229464,
+      "phonetic": "ばいりん",
+      "word": "梅霖"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a752dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "era during early 1900s dominated by the grand champions Hitachiyama and Umegatani II"
+        }
+      ],
+      "mobileId": 212214,
+      "phonetic": "ひたちうめ",
+      "word": "常陸梅"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9210b80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "old plum tree"
+        }
+      ],
+      "mobileId": 273826,
+      "phonetic": "ろうばい",
+      "word": "老梅"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

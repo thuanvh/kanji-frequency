@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9419b28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "conception, pregnancy, fecundation"
+        }
+      ],
+      "mobileId": 274858,
+      "phonetic": "にんよう",
+      "word": "妊孕"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6821f303",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để trở thành có thai; tới chỗ lồi lên; tới trở thành làm đầy"
+        }
+      ],
+      "mobileId": 1077,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "妊む",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "宿す"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "妊む"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd12ad2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để trở thành có thai"
+        }
+      ],
+      "mobileId": 69386,
+      "phonetic": "",
+      "word": "妊る"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a927461d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fertility (esp. of animals)"
+        }
+      ],
+      "mobileId": 257525,
+      "phonetic": "にんせい",
+      "word": "妊性"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ef5548",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5m",
+          "mean": "để có thai; để trở thành có thai"
+        }
+      ],
+      "mobileId": 41169,
+      "phonetic": "",
+      "word": "子供を妊む"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9418d94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fertility"
+        }
+      ],
+      "mobileId": 274856,
+      "phonetic": "にんようのう",
+      "word": "妊孕能"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

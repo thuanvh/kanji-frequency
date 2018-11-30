@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685cb66b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tiếp tục dựa; tiếp tục dựa vào; nằm nặng (trên (về) dạ dày)"
+        }
+      ],
+      "mobileId": 2956,
+      "phonetic": "",
+      "word": "凭"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdae4c98",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để tiếp tục dựa; để nghỉ ngơi chống lại"
+        }
+      ],
+      "mobileId": 74382,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "凭る",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "倚り懸かる",
+                "凭れる",
+                "寄っ掛る",
+                "凭り掛かる",
+                "寄っかかる",
+                "凭れ掛かる",
+                "倚る",
+                "撓垂れる",
+                "寄り掛かる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "凭る"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdae8b02",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự nghiêng chống lại; để tiếp tục dựa vào; để tiếp tục dựa; tin cậy"
+        }
+      ],
+      "mobileId": 74389,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "掛かる"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "凭り掛かる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "倚り懸かる",
+                "凭る",
+                "凭れる",
+                "寄っ掛る",
+                "寄っかかる",
+                "凭れ掛かる",
+                "倚る",
+                "撓垂れる",
+                "寄り掛かる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "凭り掛かる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

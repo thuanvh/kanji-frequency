@@ -1,0 +1,336 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa73800df",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "丘陵の奥深く抱きかかえられるようにたたずむこの丸太小屋は西部の田園地方の趣がある",
+              "mean": "Túp lều gỗ nép mình vào sâu trong quả đồi gợi cảm giác về miền Tây hoang dại",
+              "transcription": "きゅうりょうのおくふかくいだきかかえられるようにたたずむこのまるたこやはせいぶのでんえんちほうのおもむきがある"
+            },
+            {
+              "content": "そのパーティーは、食べ物や飾り付けの点で、ラテン風の趣があった",
+              "mean": "Buổi tiệc có ấn tượng về phong cách Latin thể hiện ở đồ ăn và đồ trang trí",
+              "transcription": "そのパーティーは、たべものやかざりづけのてんで、ラテンふうのおもむきがあった"
+            }
+          ],
+          "kind": "n",
+          "mean": "dáng vẻ; cảnh tượng; cảm giác; ấn tượng"
+        },
+        {
+          "examples": [
+            {
+              "content": "冬枯れの景色にもまた趣がある.",
+              "mean": "Quang cảnh lá rơi mùa đông làm cho ta cảm thấy lý thú",
+              "transcription": "ふゆがれのけしきにもまたおもむきがある."
+            },
+            {
+              "content": "〜に興味深い趣を加える",
+              "mean": "Rất thú vị trong việc~",
+              "transcription": "〜にきょうみぶかいおもむきをくわえる"
+            }
+          ],
+          "kind": "n",
+          "mean": "điều lý thú; thú vị; phong vị; lý thú"
+        },
+        {
+          "examples": [
+            {
+              "content": "どこか趣が異なる",
+              "mean": "Nội dung có chỗ nào đó khác lạ",
+              "transcription": "どこかおもむきがことなる"
+            },
+            {
+              "content": "交響曲のような趣",
+              "mean": "Điểm mấu chốt của khúc nhạc giao hưởng",
+              "transcription": "こうきょうきょくのようなおもむき"
+            }
+          ],
+          "kind": "n",
+          "mean": "nội dung; chủ ý; điểm mấu chốt"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼の作品はピカソの趣がある",
+              "mean": "Tác phẩm của anh ta theo phong cách của Picasso",
+              "transcription": "かれのさくひんはピカソのおもむきがある"
+            },
+            {
+              "content": "その小説には、レトロな趣がある。",
+              "mean": "Cuốn tiểu thuyết này có 1 sắc thái riêng về niềm hoài cổ",
+              "transcription": "そのしょうせつには、レトロなおもむきがある。"
+            }
+          ],
+          "kind": "n",
+          "mean": "sắc thái riêng; phong cách"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tình hình; phương thức ."
+        }
+      ],
+      "mobileId": 107600,
+      "phonetic": "おもむき",
+      "related_words": {
+        "word": [
+          "趣味",
+          "趣旨",
+          "悪趣味",
+          "趣向"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "趣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "精製",
+                "優雅",
+                "風流",
+                "幽雅",
+                "渋味",
+                "風雅",
+                "優美"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "風情",
+                "雅趣",
+                "優雅",
+                "風流",
+                "雅致",
+                "風雅",
+                "優美"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "風情",
+                "見栄",
+                "仮相",
+                "身なり",
+                "格好",
+                "様子",
+                "風格",
+                "押出し",
+                "見栄え",
+                "恰好",
+                "見せかけ",
+                "体貌",
+                "姿",
+                "体裁",
+                "表面",
+                "形容",
+                "体",
+                "風体",
+                "態",
+                "見映",
+                "外観",
+                "佇まい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "風情",
+                "色艶",
+                "色",
+                "色彩",
+                "色合い",
+                "外観",
+                "呈色",
+                "カラー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "恩恵",
+                "恵み",
+                "優雅",
+                "恩寵",
+                "風雅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "意味",
+                "趣旨",
+                "主旨"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "風情",
+                "オーラ",
+                "情緒",
+                "空気",
+                "雰囲気",
+                "佇まい"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "趣"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da274f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính thiên vị, tính không công bằng, sự mê thích"
+        }
+      ],
+      "mobileId": 150882,
+      "phonetic": "おもむきよしみ",
+      "word": "趣好"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6dd421",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sở thích khác thường, lập dị; sự kỳ lạ, kỳ quặc"
+        }
+      ],
+      "mobileId": 13290,
+      "phonetic": "いおもむき",
+      "word": "異趣"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936001bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người hát, ca sĩ, chim hót, nhà thơ, thi sĩ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đốt lò"
+        }
+      ],
+      "mobileId": 20966,
+      "phonetic": "けいおもむき",
+      "related_words": {
+        "word": [
+          "佳",
+          "趣"
+        ]
+      },
+      "word": "佳趣"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e5d673",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thú vui thô tục; thú vui trần tục"
+        }
+      ],
+      "mobileId": 63444,
+      "phonetic": "ぞくおもむき",
+      "word": "俗趣"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd82db0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một sự thiết đặt yên tĩnh (tự nhiên)"
+        }
+      ],
+      "mobileId": 72943,
+      "phonetic": "かそけおもむき",
+      "related_words": {
+        "word": [
+          "趣"
+        ]
+      },
+      "word": "幽趣"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cc3b67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "interest in baseball"
+        }
+      ],
+      "mobileId": 279286,
+      "phonetic": "きゅうしゅ",
+      "word": "球趣"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b95c1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự quan tâm sâu sắc; thú vui riêng"
+        }
+      ],
+      "mobileId": 5922,
+      "phonetic": "べつおもむき",
+      "related_words": {
+        "word": [
+          "別",
+          "趣"
+        ]
+      },
+      "word": "別趣"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193df4662",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phương hướng; chiều hướng"
+        }
+      ],
+      "mobileId": 24978,
+      "phonetic": "きおもむき",
+      "related_words": {
+        "word": [
+          "趣"
+        ]
+      },
+      "word": "帰趣"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19319f3f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "say mê; lịch sự; thanh lịch"
+        }
+      ],
+      "mobileId": 18753,
+      "phonetic": "おもむきのある",
+      "word": "趣の有る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

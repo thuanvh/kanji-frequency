@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0603ddc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "selling electricity (e.g. domestic solar power to a power company)"
+        }
+      ],
+      "mobileId": 284052,
+      "phonetic": "ばいでん",
+      "word": "売電"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d19b6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "electrolytic corrosion"
+        }
+      ],
+      "mobileId": 213608,
+      "phonetic": "でんしょく",
+      "word": "電食"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c090d62a",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "điện cực, sơn tĩnh điện"
+        }
+      ],
+      "mobileId": 211504,
+      "phonetic": "でんちゃく",
+      "word": "電着"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7f0cf92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự dừng của xe điện ."
+        }
+      ],
+      "mobileId": 110788,
+      "phonetic": "でんてい",
+      "word": "電停"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7fde1f3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜の電顕的研究を行う",
+              "mean": "Tiến hành nghiên cứu kính hiển vi điện tử của ~ .",
+              "transcription": "〜のでんあらわてきけんきゅうをおこなう"
+            }
+          ],
+          "kind": "exp, n",
+          "mean": "Kính hiển vi điện tử"
+        }
+      ],
+      "mobileId": 110987,
+      "phonetic": "でんけん",
+      "word": "電顕"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9107c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đánh điện những chỉ dẫn"
+        }
+      ],
+      "mobileId": 115656,
+      "phonetic": "でんいのち",
+      "word": "電命"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b32bce7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "piezoelectric"
+        }
+      ],
+      "mobileId": 241466,
+      "phonetic": "あつでん",
+      "word": "圧電"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193797461",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "gọi điện thoại."
+        }
+      ],
+      "mobileId": 21781,
+      "phonetic": "かでん",
+      "word": "架電"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca014f001",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shore power (for use by boats), shoreside electric power"
+        }
+      ],
+      "mobileId": 281622,
+      "phonetic": "りくでん",
+      "word": "陸電"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7f53a1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "điện ảnh ."
+        }
+      ],
+      "mobileId": 110853,
+      "phonetic": "でんえい",
+      "word": "電影"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

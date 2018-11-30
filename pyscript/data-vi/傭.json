@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd72e700",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người làm, người làm công"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự dùng, sự thuê làm, sự làm công, việc làm"
+        }
+      ],
+      "mobileId": 72410,
+      "phonetic": "やとい",
+      "synsets": [
+        {
+          "base_form": "傭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "雇用",
+                "傭聘"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "サラリーマン",
+                "雇い人",
+                "従業員",
+                "雇人",
+                "勤務員",
+                "傭人"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "傭"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9bc490",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự dùng, sự thuê làm, sự làm công, việc làm"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cuống, chân"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chiến thuật, sách lược"
+        }
+      ],
+      "mobileId": 73764,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "傭聘",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "雇用",
+                "傭"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "傭聘"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

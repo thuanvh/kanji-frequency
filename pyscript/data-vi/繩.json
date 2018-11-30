@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802736262c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chia ranh giới; sự chia vạch ranh giới ."
+        }
+      ],
+      "mobileId": 29998,
+      "phonetic": "なわばり",
+      "word": "繩張り"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68504471",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một mảnh (của) dây thừng; một phương pháp bình thường"
+        }
+      ],
+      "mobileId": 2575,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "一",
+          "筋",
+          "一筋"
+        ]
+      },
+      "word": "一筋繩"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955c479a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đánh dấu mực chuỗi đánh dấu"
+        }
+      ],
+      "mobileId": 59031,
+      "phonetic": "",
+      "word": "墨繩"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

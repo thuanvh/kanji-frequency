@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1071b5d34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "việc tăng thêm và sửa lại (ấn bản) ."
+        }
+      ],
+      "mobileId": 52317,
+      "phonetic": "ぞうてい",
+      "word": "増訂"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d84496",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "xem lại (và phụ thêm vào)"
+        }
+      ],
+      "mobileId": 6901,
+      "phonetic": "ほてい",
+      "word": "補訂"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be5ab80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s",
+          "mean": "to correct"
+        }
+      ],
+      "mobileId": 247175,
+      "phonetic": "ていする",
+      "word": "訂する"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dedd97e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự duyệt lại mới"
+        }
+      ],
+      "mobileId": 153334,
+      "phonetic": "しんてい",
+      "word": "新訂"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dedf231",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mới và xem lại phiên bản"
+        }
+      ],
+      "mobileId": 153336,
+      "phonetic": "しんていばん",
+      "related_words": {
+        "word": [
+          "新",
+          "版"
+        ]
+      },
+      "word": "新訂版"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77130db4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "expanded edition (of a dictionary)"
+        }
+      ],
+      "mobileId": 265072,
+      "phonetic": "ほていばん",
+      "word": "補訂版"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e3b53c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rộng ra và xem lại phiên bản"
+        }
+      ],
+      "mobileId": 63384,
+      "phonetic": "ぞうていばん",
+      "related_words": {
+        "word": [
+          "版"
+        ]
+      },
+      "word": "増訂版"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

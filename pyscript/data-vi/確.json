@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0217a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "nhất định; chắc chắn; xác định; phải chăng tôi (thì) không phải là sai lầm; nếu tôi nhớ chính xác"
+        }
+      ],
+      "mobileId": 111099,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "確認",
+          "確認する",
+          "確定",
+          "確かに",
+          "正確",
+          "確かめる",
+          "確保",
+          "確実な",
+          "再確認",
+          "確実"
+        ]
+      },
+      "word": "確"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa78ec316",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "đích xác"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đích xác ."
+        }
+      ],
+      "mobileId": 109083,
+      "phonetic": "てっかく",
+      "word": "適確"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934e60a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lý thuyết có cơ sở"
+        }
+      ],
+      "mobileId": 20415,
+      "phonetic": "",
+      "word": "確説"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07022a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-ku",
+          "mean": "certain, sure, definite"
+        }
+      ],
+      "mobileId": 284553,
+      "phonetic": "たしけし",
+      "word": "確けし"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa78ebb3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "sự chính xác"
+        }
+      ],
+      "mobileId": 109082,
+      "phonetic": "てきかく",
+      "word": "適確"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934d5585",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "lòng trung thành, trung kiên"
+        }
+      ],
+      "mobileId": 20380,
+      "phonetic": "",
+      "word": "確守"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04da8b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stochastic variable, random variable"
+        }
+      ],
+      "mobileId": 283443,
+      "phonetic": "かくへん",
+      "word": "確変"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4bf8fd",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adv",
+          "mean": "chắc chắn"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "rõ ràng, chính xác"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "chắc chắn, chặt chẽ"
+        }
+      ],
+      "mobileId": 217520,
+      "phonetic": "しかと しっかと",
+      "word": "確と"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826dce46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "certain, definite"
+        }
+      ],
+      "mobileId": 235091,
+      "phonetic": "かくとした",
+      "word": "確とした"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa78ecf60",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tề chỉnh ."
+        }
+      ],
+      "mobileId": 109084,
+      "phonetic": "てきかくな",
+      "word": "適確な"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

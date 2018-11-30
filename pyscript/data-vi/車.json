@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa74221b8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ミシンの足に車がついている",
+              "mean": "gầm máy khâu có lắp bánh xe truyền chuyển động",
+              "transcription": "ミシンのあしにくるまがついている"
+            }
+          ],
+          "kind": "n",
+          "mean": "bánh xe"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mô tô"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ô tô"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xe"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xe cộ"
+        },
+        {
+          "examples": [
+            {
+              "content": "前の車との車間距離を少なくとも車2台分空けておくようにしなさい",
+              "mean": "Bạn phải chắc chắn khoảng cách của xe bạn và xe phía trước bằng độ dài 2 xe",
+              "transcription": "まえのくるまとのしゃかんきょりをすくなくともくるま2だいぶんあけておくようにしなさい"
+            },
+            {
+              "content": "道路を横断する時は車に注意するんですよ.",
+              "mean": "Quan sát đường khi băng qua đường",
+              "transcription": "どうろをおうだんするときはくるまにちゅういするんですよ."
+            }
+          ],
+          "kind": "n",
+          "mean": "xe hơi; xe chở hàng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xe ô-tô ."
+        }
+      ],
+      "mobileId": 107758,
+      "phonetic": "くるま",
+      "related_words": {
+        "word": [
+          "電車",
+          "駐車場",
+          "自動車",
+          "自転車",
+          "救急車",
+          "観覧車",
+          "中古車",
+          "車両",
+          "車輪",
+          "台車"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "車",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "自動車",
+                "モーターカー",
+                "オートモビル",
+                "乗用車",
+                "四輪車"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "輪",
+                "車輪",
+                "環",
+                "ホイール"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "乗り物",
+                "乗物",
+                "車輛",
+                "車両"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "車"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8afba4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toa hạng nhất (xe lửa, xe điện ...)"
+        }
+      ],
+      "mobileId": 14197,
+      "phonetic": "いっとうしゃ",
+      "related_words": {
+        "word": [
+          "等",
+          "車",
+          "一",
+          "一等"
+        ]
+      },
+      "word": "一等車"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda0bb21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xe dành cho bệnh viện tư"
+        }
+      ],
+      "mobileId": 14885,
+      "phonetic": "いりょうしゃ",
+      "related_words": {
+        "word": [
+          "車",
+          "医療",
+          "医"
+        ]
+      },
+      "word": "医療車"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19332b5ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xe cải tiến để chạy nhanh hơn"
+        }
+      ],
+      "mobileId": 19538,
+      "phonetic": "かいぞうしゃ",
+      "word": "改造車"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa49c6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "recreational vehicle (usu. not camper or motor home), RV, sports utility vehicle, SUV, four wheel drive (car or minivan)"
+        }
+      ],
+      "mobileId": 228663,
+      "phonetic": "アールブイしゃ",
+      "word": "ＲＶ車"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fb0f37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xe chở nước, xe cấp nước"
+        }
+      ],
+      "mobileId": 25878,
+      "phonetic": "きゅうすいしゃ",
+      "word": "給水車"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00d5cfe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "itinerant monk"
+        }
+      ],
+      "mobileId": 281391,
+      "phonetic": "くるまぞう",
+      "word": "車僧"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821a409f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tank truck, tank car"
+        }
+      ],
+      "mobileId": 232467,
+      "phonetic": "すいそうしゃ",
+      "word": "水槽車"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc7c3c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xe của vua"
+        }
+      ],
+      "mobileId": 75186,
+      "phonetic": "りゅうしゃ",
+      "related_words": {
+        "word": [
+          "車",
+          "竜"
+        ]
+      },
+      "word": "竜車"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be3d7abd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ô tô ổ rơm"
+        }
+      ],
+      "mobileId": 91253,
+      "phonetic": "パレットしゃ",
+      "word": "パレット車"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

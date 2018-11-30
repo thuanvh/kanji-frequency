@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a89fdd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "to tire of, to lose interest in, to be too much for one, to find unmanageable, to be beyond one's control, to not know what to do with"
+        }
+      ],
+      "mobileId": 212260,
+      "phonetic": "あぐねる",
+      "word": "倦ねる"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8910746",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự mệt mỏi cùng cực, sự chán nản mệt mỏi"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "offering drink"
+        }
+      ],
+      "mobileId": 38136,
+      "phonetic": "",
+      "word": "倦憊"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d257900",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "to be at a loss, to think and think but get nowhere, to fail to come up with a good idea"
+        }
+      ],
+      "mobileId": 216304,
+      "phonetic": "かんがえあぐねる",
+      "word": "考え倦ねる"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

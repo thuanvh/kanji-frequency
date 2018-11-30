@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a982029d9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pressure, force"
+        }
+      ],
+      "mobileId": 231721,
+      "phonetic": "あつ",
+      "word": "圧"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3ce65b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ép ra; sự vắt ra"
+        }
+      ],
+      "mobileId": 11740,
+      "phonetic": "",
+      "word": "圧出"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3d5a65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "điểm chịu sức ép"
+        }
+      ],
+      "mobileId": 11756,
+      "phonetic": "",
+      "word": "圧痛点"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3d7a4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự loại trừ"
+        }
+      ],
+      "mobileId": 11760,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "圧排",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "除外",
+                "排他",
+                "排除"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "圧排"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0688885",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "equal pressure, uniform pressure"
+        }
+      ],
+      "mobileId": 284307,
+      "phonetic": "とうあつ",
+      "word": "等圧"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e089af1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oppressive pain, tenderness, pressure pain"
+        }
+      ],
+      "mobileId": 248274,
+      "phonetic": "あっつう",
+      "word": "圧痛"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4e8794",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "douche"
+        }
+      ],
+      "mobileId": 250548,
+      "phonetic": "あっちゅう",
+      "word": "圧注"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932849d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự gia tăng sức ép, tăng áp suất lên"
+        }
+      ],
+      "mobileId": 19215,
+      "opposite_word": [
+        "減圧"
+      ],
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "加"
+        ]
+      },
+      "word": "加圧"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03446ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "layering (e.g. in gardening)"
+        }
+      ],
+      "mobileId": 282627,
+      "phonetic": "あつじょう",
+      "word": "圧条"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952b2282",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hấp bằng hơi sức ép"
+        }
+      ],
+      "mobileId": 57464,
+      "phonetic": "",
+      "word": "蒸気圧"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

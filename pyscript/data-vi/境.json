@@ -1,0 +1,226 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10718fd96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ranh giới; giới hạn; biên giới ."
+        }
+      ],
+      "mobileId": 52282,
+      "phonetic": "さかい",
+      "related_words": {
+        "word": [
+          "環境",
+          "境界",
+          "国境",
+          "境目",
+          "心境",
+          "逆境",
+          "秘境",
+          "辺境",
+          "境内",
+          "環境の"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "境",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "端",
+                "縁",
+                "ボーダーライン",
+                "境目",
+                "エッジ",
+                "境界",
+                "ボーダー",
+                "境域"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "バウンド",
+                "境目",
+                "地境",
+                "境界",
+                "リミット",
+                "限界",
+                "境域"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "席",
+                "位地",
+                "身分",
+                "位",
+                "地位",
+                "立場"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "境"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6835a558",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mọi nơi, khắp nơi; mọi hoàn cảnh, mọi tình huống, mọi trường hợp"
+        }
+      ],
+      "mobileId": 1744,
+      "phonetic": "まんさかい",
+      "related_words": {
+        "word": [
+          "万",
+          "境"
+        ]
+      },
+      "word": "万境"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd84639a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tách biệt chỗ"
+        }
+      ],
+      "mobileId": 72994,
+      "phonetic": "ゆうすいさかい",
+      "related_words": {
+        "word": [
+          "境"
+        ]
+      },
+      "word": "幽邃境"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f5e4e02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảnh đào nguyên ."
+        }
+      ],
+      "mobileId": 186537,
+      "phonetic": "とうげんきょう",
+      "word": "桃源境"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0216fbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vt",
+          "mean": "to bound, to set a boundary"
+        }
+      ],
+      "mobileId": 190226,
+      "phonetic": "さかいする",
+      "word": "境する"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821e9577",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shrine"
+        }
+      ],
+      "mobileId": 232596,
+      "phonetic": "いわさか",
+      "word": "磐境"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d5bd44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grounds of a Shinto shrine"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "enchanted land, abode of immortals and gods"
+        }
+      ],
+      "mobileId": 279596,
+      "phonetic": "しんきょう",
+      "word": "神境"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6835a05f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hạ cánh (của) những người man rợ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "all places"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "all circumstances"
+        }
+      ],
+      "mobileId": 1743,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "境",
+          "蛮"
+        ]
+      },
+      "word": "蛮境"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90e4804",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "six objective fields of the senses (shape and colour, sound, scent, flavour, physical feeling, and mental presentation)"
+        }
+      ],
+      "mobileId": 273226,
+      "phonetic": "ろっきょう",
+      "word": "六境"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d138f03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crossing a border, border entry"
+        }
+      ],
+      "mobileId": 215732,
+      "phonetic": "にゅうきょう",
+      "word": "入境"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada74fb04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "sự thu được; sự lấy được; sự nhận được"
+        },
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "sự trình bày; sự triển lãm"
+        },
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "tiến sĩ ."
+        }
+      ],
+      "mobileId": 78934,
+      "phonetic": "はく",
+      "related_words": {
+        "word": [
+          "博士",
+          "博物館",
+          "博覧会",
+          "博士号",
+          "医学博士",
+          "博士課程",
+          "博愛",
+          "博士論文",
+          "大英博物館",
+          "博打"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "博",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "博士",
+                "ドクター"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "共進会",
+                "市"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "博"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7565755",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiến sĩ nông nghiệp; tiến sỹ nông nghiệp ."
+        }
+      ],
+      "mobileId": 108141,
+      "phonetic": "のうはく",
+      "word": "農博"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68caa381",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "săn sóc (của) những pháp luật; ll.d."
+        }
+      ],
+      "mobileId": 6470,
+      "phonetic": "ほうはく",
+      "word": "法博"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc0013c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà khoa học vũ trụ"
+        }
+      ],
+      "mobileId": 15865,
+      "phonetic": "うちゅうはく",
+      "word": "宇宙博"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68071a79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tìm kiếm rộng rãi"
+        }
+      ],
+      "mobileId": 223,
+      "phonetic": "",
+      "word": "博捜"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd961db0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiến sĩ y khoa"
+        }
+      ],
+      "mobileId": 14558,
+      "phonetic": "いはく",
+      "related_words": {
+        "word": [
+          "博",
+          "医"
+        ]
+      },
+      "word": "医博"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c177ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tiến sĩ ngành kỹ nghệ"
+        }
+      ],
+      "mobileId": 39694,
+      "phonetic": "こうはく",
+      "word": "工博"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9736539",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "world expo, world fair"
+        }
+      ],
+      "mobileId": 276413,
+      "phonetic": "せかいはく",
+      "word": "世界博"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

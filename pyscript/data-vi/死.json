@@ -1,0 +1,245 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4cc569",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "sự chết; chết"
+        }
+      ],
+      "mobileId": 148174,
+      "opposite_word": [
+        "生"
+      ],
+      "phonetic": "し",
+      "related_words": {
+        "word": [
+          "死神",
+          "死ぬ",
+          "死体",
+          "死亡",
+          "必死",
+          "死んだ",
+          "過労死",
+          "死刑",
+          "死んでいる",
+          "不死"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "死",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "負け",
+                "ロス",
+                "亡失",
+                "減退",
+                "解放",
+                "遺失",
+                "喪失"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "死亡",
+                "没",
+                "往生",
+                "一死",
+                "絶命"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "死亡",
+                "没",
+                "死神",
+                "他界",
+                "昇天",
+                "不祝儀",
+                "不幸",
+                "薨去",
+                "先途",
+                "棄世",
+                "死去",
+                "逝去",
+                "卒去",
+                "最後",
+                "絶命",
+                "入滅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "終わり",
+                "死亡",
+                "没",
+                "往生",
+                "他界",
+                "昇天",
+                "不祝儀",
+                "人死に",
+                "不幸",
+                "薨去",
+                "不帰",
+                "死去",
+                "終焉",
+                "眠り",
+                "永眠",
+                "一死",
+                "逝去",
+                "卒去",
+                "最後",
+                "絶命",
+                "入滅"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "死"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97f966f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "dying alone (esp. of someone who lives alone and dies of natural causes at home without anyone knowing), solitary death"
+        }
+      ],
+      "mobileId": 276800,
+      "phonetic": "こりつし",
+      "word": "孤立死"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9551742",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cell death"
+        }
+      ],
+      "mobileId": 275453,
+      "phonetic": "さいぼうし",
+      "word": "細胞死"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95e0ab5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "dying of cancer"
+        }
+      ],
+      "mobileId": 275739,
+      "phonetic": "がんし",
+      "word": "癌死"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95e2e9e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Treo cổ tự tử"
+        }
+      ],
+      "mobileId": 275742,
+      "phonetic": "けいし",
+      "word": "経死"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d72141",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "undetermined manner of death, suspicious death"
+        }
+      ],
+      "mobileId": 279652,
+      "phonetic": "ふしんし",
+      "word": "不審死"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e833b392",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự giả vờ chết"
+        }
+      ],
+      "mobileId": 35149,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "死"
+        ]
+      },
+      "word": "擬死"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68963a78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chém đầu chính mình"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "dying in fit of anger or indignation"
+        }
+      ],
+      "mobileId": 4768,
+      "phonetic": "",
+      "word": "刎死"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2a36bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dead weight, dead load, static load"
+        }
+      ],
+      "mobileId": 224779,
+      "phonetic": "しかじゅう",
+      "word": "死荷重"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193dd485e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phơi bày một xác chết trong thành phố"
+        }
+      ],
+      "mobileId": 24922,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "死"
+        ]
+      },
+      "word": "棄死"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

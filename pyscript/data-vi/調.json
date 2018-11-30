@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e539915",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(1) giọng điệu; âm điệu;(2) nhịp; nhịp điệu (âm nhạc)"
+        }
+      ],
+      "mobileId": 113706,
+      "phonetic": "ちょう",
+      "word": "調"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686769e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phong cách văn chương bóng bẩy, hoa mỹ"
+        }
+      ],
+      "mobileId": 3294,
+      "phonetic": "びぶんちょう",
+      "word": "美文調"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a21368",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "related key"
+        }
+      ],
+      "mobileId": 286129,
+      "phonetic": "きんしんちょう",
+      "word": "近親調"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027fe4dff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc chơi đàn Koto ."
+        }
+      ],
+      "mobileId": 33438,
+      "phonetic": "ちょうきん",
+      "word": "調琴"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9380ac2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, adj-na",
+          "mean": "exaggerated, dramatized"
+        }
+      ],
+      "mobileId": 274558,
+      "phonetic": "げきがちょう",
+      "word": "劇画調"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0760b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "key of B"
+        }
+      ],
+      "mobileId": 248238,
+      "phonetic": "ロちょう",
+      "word": "ロ調"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e076c0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "key of C"
+        }
+      ],
+      "mobileId": 248239,
+      "phonetic": "ハちょう",
+      "word": "ハ調"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c92188",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "falling intonation, falling tone"
+        }
+      ],
+      "mobileId": 262721,
+      "phonetic": "かこうちょう",
+      "word": "下降調"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08a6615",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "Tìm hiểu, đánh giá, khảo sát"
+        }
+      ],
+      "mobileId": 211285,
+      "phonetic": "げんちょう",
+      "word": "現調"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027fe71cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự phối màu; sự phối sắc; sự trộn màu ."
+        }
+      ],
+      "mobileId": 33442,
+      "phonetic": "ちょうしょく",
+      "related_words": {
+        "word": [
+          "色"
+        ]
+      },
+      "word": "調色"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

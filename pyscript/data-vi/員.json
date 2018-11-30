@@ -1,0 +1,354 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adad7346d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "暴力団(員)",
+              "mean": "Thành viên của nhóm bạo lực",
+              "transcription": "ぼうりょくだん(いん)"
+            },
+            {
+              "content": "公使館(員)",
+              "mean": "Viên công sứ",
+              "transcription": "こうしかん(いん)"
+            },
+            {
+              "content": "事務職(員)",
+              "mean": "Nhân viên văn phòng",
+              "transcription": "じむしょく(いん)"
+            },
+            {
+              "content": "民主党(員)",
+              "mean": "Thành viên của đảng dân chủ .",
+              "transcription": "みんしゅとう(いん)"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "nhân viên; thành viên; người"
+        }
+      ],
+      "mobileId": 80407,
+      "phonetic": "いん",
+      "related_words": {
+        "word": [
+          "会社員",
+          "従業員",
+          "会員",
+          "店員",
+          "社員",
+          "委員会",
+          "職員",
+          "役員",
+          "事務員",
+          "公務員"
+        ]
+      },
+      "word": "員"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83f35eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đắp bờ người làm thuê; chủ ngân hàng"
+        }
+      ],
+      "mobileId": 35520,
+      "phonetic": "ぎんこういん",
+      "related_words": {
+        "word": [
+          "行",
+          "銀",
+          "銀行",
+          "員"
+        ]
+      },
+      "word": "銀行員"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b8ad88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chuyển ((của) những công nhân)"
+        }
+      ],
+      "mobileId": 39400,
+      "phonetic": "こうたいいん",
+      "related_words": {
+        "word": [
+          "代",
+          "員",
+          "交代"
+        ]
+      },
+      "word": "交代員"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95371205",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhân viên đường sắt, người gác phanh"
+        }
+      ],
+      "mobileId": 57835,
+      "phonetic": "じょうむいん",
+      "related_words": {
+        "word": [
+          "員"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "乗務員",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "車掌"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "クルー",
+                "乗組",
+                "海員",
+                "乗組員",
+                "乗員"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "乗組員",
+                "乗員"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "乗務員"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95600e5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người phục vụ"
+        }
+      ],
+      "mobileId": 59151,
+      "phonetic": "ずいこういん",
+      "related_words": {
+        "word": [
+          "行",
+          "員",
+          "随行"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "随行員",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "付添い",
+                "お付き",
+                "供",
+                "従者",
+                "付き",
+                "付き添い人",
+                "伽",
+                "付人",
+                "供人",
+                "随行",
+                "付き添い",
+                "侍者",
+                "付け人",
+                "お供"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "随行員"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adaf2a352",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "図書館員は子どものために読み聞かせの集まりを催した",
+              "mean": "Người thủ thư đã tổ chức 1 buổi kể chuyện cho bọn trẻ",
+              "transcription": "としょかんいんはこどものためによみきかせのあつまりをもよおした"
+            },
+            {
+              "content": "ええ。そして彼女は図書館員なの。この番組には、独自のウェブサイトがあるのよ。",
+              "mean": "À, cô ta là thủ thư. Chương trình này có riêng 1 trang Website .",
+              "transcription": "ええ。そしてかのじょはとしょかんいんなの。このばんぐみには、どくじのウェブサイトがあるのよ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "Thủ thư"
+        }
+      ],
+      "mobileId": 80862,
+      "phonetic": "としょかんいん",
+      "related_words": {
+        "word": [
+          "図",
+          "図書館",
+          "館",
+          "員"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "図書館員",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "司書",
+                "ライブラリアン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "図書館員"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f741251b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Người đang trực ."
+        }
+      ],
+      "mobileId": 97740,
+      "phonetic": "とうちょくいん",
+      "word": "当直員"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7494e409",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kỹ thuật viên ."
+        }
+      ],
+      "mobileId": 99644,
+      "phonetic": "ぎじゅついん",
+      "related_words": {
+        "word": [
+          "技",
+          "術",
+          "員"
+        ]
+      },
+      "word": "技術員"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d4a7e52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phi hành đoàn; tổ lái ."
+        }
+      ],
+      "mobileId": 142706,
+      "phonetic": "のりくみいん",
+      "related_words": {
+        "word": [
+          "組",
+          "員"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "乗組員",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "船員",
+                "水夫",
+                "海兵",
+                "海員",
+                "マドロス",
+                "水兵"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "クルー",
+                "乗組",
+                "海員",
+                "乗員",
+                "乗務員"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "水夫",
+                "海員",
+                "マドロス",
+                "水兵"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "乗員",
+                "乗務員"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "乗組員"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d76ae71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thầy giáo; người cố vấn"
+        }
+      ],
+      "mobileId": 149490,
+      "phonetic": "しどういん",
+      "related_words": {
+        "word": [
+          "指",
+          "員"
+        ]
+      },
+      "word": "指導員"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

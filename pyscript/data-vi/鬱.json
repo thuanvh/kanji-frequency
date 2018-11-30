@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c7773b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "depression, low spirits"
+        }
+      ],
+      "mobileId": 213274,
+      "phonetic": "うつ",
+      "word": "鬱"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9eb32a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thất vọng; sự buồn chán"
+        }
+      ],
+      "mobileId": 73865,
+      "phonetic": "",
+      "word": "抑鬱"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3ea06a0a",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Ưu uất, ảm đạm"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ゆううつ",
+      "word": "優鬱"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0d76f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "overgrown, exuberant, lush"
+        }
+      ],
+      "mobileId": 215530,
+      "phonetic": "おううつ",
+      "word": "蓊鬱"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc13438",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no, vs",
+          "mean": "sự đông nghịt, sự tắt nghẽn, sự sung huyết"
+        }
+      ],
+      "mobileId": 15902,
+      "phonetic": "",
+      "word": "鬱滞"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09dfa6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "postpartum depression, postnatal depression"
+        }
+      ],
+      "mobileId": 285999,
+      "phonetic": "さんごうつ",
+      "word": "産後鬱"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd7ce4c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự buồn chán"
+        }
+      ],
+      "mobileId": 72734,
+      "phonetic": "",
+      "word": "幽鬱"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc29351",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "tiếp tục săn đuổi tối tăm ra khỏi; tới tự do thoughs (của) ai đó từ nỗi u sầu"
+        }
+      ],
+      "mobileId": 15949,
+      "phonetic": "",
+      "word": "鬱を散じる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

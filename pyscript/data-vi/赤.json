@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa72c7c5f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "赤々と燃えている炉",
+              "mean": "Lò than cháy rực đỏ",
+              "transcription": "あか々ともえているろ"
+            },
+            {
+              "content": "石炭がストーブの中で赤々と燃えている",
+              "mean": "Than đá đang nóng đỏ trong lò. .",
+              "transcription": "せきたんがストーブのなかであか々ともえている"
+            }
+          ],
+          "kind": "n",
+          "mean": "màu đỏ"
+        }
+      ],
+      "mobileId": 107426,
+      "phonetic": "あか",
+      "related_words": {
+        "word": [
+          "赤ちゃん",
+          "赤い",
+          "赤外線",
+          "赤色",
+          "赤ワイン",
+          "赤道",
+          "真っ赤",
+          "赤紫",
+          "赤面",
+          "赤血球"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "赤",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "赤色",
+                "朱"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "共産主義",
+                "コミュニズム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コミュニスト",
+                "共産主義者"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "赤"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2da0d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "màu đỏ tươi; sáng sủa"
+        }
+      ],
+      "mobileId": 11255,
+      "phonetic": "あかあか",
+      "word": "赤赤"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2e1c5d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thịt tươi còn máu, thịt đỏ (thịt bò, cừu, đối lại với thịt trắng như thịt gà)"
+        }
+      ],
+      "mobileId": 11271,
+      "phonetic": "あかにく",
+      "word": "赤肉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abe58a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spider mite (any mite of family Tetranychidae)"
+        }
+      ],
+      "mobileId": 229505,
+      "phonetic": "あかだに アカダニ",
+      "word": "赤だに"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4a4c16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pacific ocean perch (Sebastes alutus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "comb goby (Ctenotrypauchen microcephalus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Matsubara's red rockfish (Sebastes matsubarae)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Japanese dace (Tribolodon hakonensis)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "any edible red saltwater fish"
+        }
+      ],
+      "mobileId": 225792,
+      "phonetic": "あかうお アカウオ",
+      "word": "赤魚"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0390281",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bare feet"
+        }
+      ],
+      "mobileId": 282794,
+      "phonetic": "せっきゃく しゃっきゃく",
+      "word": "赤脚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9064c42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red cabbage"
+        }
+      ],
+      "mobileId": 272967,
+      "phonetic": "あかキャベツ",
+      "word": "赤キャベツ"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d84e3b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "menstruation"
+        }
+      ],
+      "mobileId": 219361,
+      "phonetic": "あかび",
+      "word": "赤日"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d6f2dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "redwood, sequoia"
+        }
+      ],
+      "mobileId": 271450,
+      "phonetic": "あかすぎ",
+      "word": "赤杉"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a944b413",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Okinawan yellow cucumber"
+        }
+      ],
+      "mobileId": 258493,
+      "phonetic": "あかもううい あかもううり あかうり もううい",
+      "word": "赤瓜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

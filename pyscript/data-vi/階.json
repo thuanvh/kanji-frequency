@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e062fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lầu"
+        },
+        {
+          "examples": [
+            {
+              "content": "3階建てのビール",
+              "mean": "tòa nhà 3 tầng",
+              "transcription": "3かいだてのビール"
+            },
+            {
+              "content": "ビルの最上階から街を眺める",
+              "mean": "Nhìn xuống thành phố từ tầng cao nhất của tòa nhà",
+              "transcription": "ビルのさいじょうかいからまちをながめる"
+            },
+            {
+              "content": "上（の階）へのぼる",
+              "mean": "Leo lên tầng trên",
+              "transcription": "うえ（のかい）へのぼる"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "tầng"
+        }
+      ],
+      "mobileId": 110472,
+      "phonetic": "かい",
+      "related_words": {
+        "word": [
+          "階段",
+          "階層",
+          "段階",
+          "階級",
+          "二階",
+          "階数",
+          "音階",
+          "最終段階",
+          "初期段階",
+          "最上階"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "階",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "上がり段",
+                "階段"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "階層",
+                "レヴェル",
+                "レベル",
+                "フロア"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "梯子",
+                "階段"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "階"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0730210",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bottom floor, lowest floor"
+        }
+      ],
+      "mobileId": 284649,
+      "phonetic": "さいかかい",
+      "word": "最下階"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1f17ff",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "このエレベーターは 3 階で止まりますか",
+              "mean": "Cầu thang máy này sẽ dừng ở tầng ba chứ?",
+              "transcription": "このエレベーターは3かいでとまりますか"
+            },
+            {
+              "content": "私の部屋は 3 階です",
+              "mean": "Phòng tôi ở trên tầng ba .",
+              "transcription": "わたしのへやは3かいです"
+            }
+          ],
+          "kind": "n",
+          "mean": "tầng ba"
+        }
+      ],
+      "mobileId": 141841,
+      "phonetic": "さんがい",
+      "related_words": {
+        "word": [
+          "三",
+          "階"
+        ]
+      },
+      "word": "三階"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1408a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gradation, gradient"
+        }
+      ],
+      "mobileId": 215744,
+      "phonetic": "かいちょう",
+      "related_words": {
+        "word": [
+          "階"
+        ]
+      },
+      "word": "階調"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19330c168",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(toán học) giai thừa"
+        }
+      ],
+      "mobileId": 19471,
+      "phonetic": "かいじょう",
+      "word": "階乗"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd815605",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tầng trệt; tầng một, bậc thứ nhất (cầu thang ...)"
+        }
+      ],
+      "mobileId": 13900,
+      "phonetic": "いちかい",
+      "related_words": {
+        "word": [
+          "一",
+          "階"
+        ]
+      },
+      "word": "一階"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932d7e8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khác nhau"
+        }
+      ],
+      "mobileId": 19376,
+      "phonetic": "かいさ",
+      "word": "階差"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca072ff95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "floor above, floor upstairs"
+        }
+      ],
+      "mobileId": 284648,
+      "phonetic": "じょうかい",
+      "word": "上階"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d6001bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tầng hai ."
+        }
+      ],
+      "mobileId": 143122,
+      "phonetic": "にかい",
+      "related_words": {
+        "word": [
+          "二",
+          "階",
+          "二階建て",
+          "中二階"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "二階",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "浴場"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "二階"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d46feec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "an N-storey building"
+        }
+      ],
+      "mobileId": 217357,
+      "phonetic": "かいだて",
+      "word": "階建"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1070bfa5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bụi; bụi bặm ."
+        }
+      ],
+      "mobileId": 52077,
+      "phonetic": "ほこり",
+      "synsets": [
+        {
+          "base_form": "埃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "土埃",
+                "微塵",
+                "ほこり"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "埃"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d831d08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "dusty"
+        }
+      ],
+      "mobileId": 219300,
+      "phonetic": "ほこりっぽい",
+      "word": "埃っぽい"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03a3d1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "white mite (Tarsonemidae spp.), thread-footed mite"
+        }
+      ],
+      "mobileId": 282834,
+      "phonetic": "ほこりだに ホコリダニ",
+      "word": "埃蜱"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdff9a7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "làm  cho mịn những đám nùi bông, không thuộc vở, đọc sai"
+        }
+      ],
+      "mobileId": 76907,
+      "phonetic": "めんほこり",
+      "word": "綿埃"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3ea5adae",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "phủi bụi"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ほこりをはらう",
+      "word": "埃を払う"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0a19ecf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soviet"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Soviet Union"
+        }
+      ],
+      "mobileId": 203843,
+      "phonetic": "ソビエト",
+      "word": "蘇維埃"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

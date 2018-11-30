@@ -1,0 +1,296 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adaf1f21f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "hình vẽ minh họa; bức vẽ; sự minh họa; bức hoạ ."
+        }
+      ],
+      "mobileId": 80853,
+      "phonetic": "ず",
+      "related_words": {
+        "word": [
+          "図面",
+          "平面図",
+          "図書館",
+          "回路図",
+          "地図",
+          "図る",
+          "設計図",
+          "意図",
+          "側面図",
+          "図書室"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "図",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "摘要",
+                "大意",
+                "図表",
+                "大要",
+                "概略",
+                "粗筋",
+                "大筋",
+                "大体",
+                "概論",
+                "梗概",
+                "概要",
+                "要旨",
+                "要約",
+                "輪郭",
+                "アウトライン",
+                "略記",
+                "素描",
+                "筋書き",
+                "図式",
+                "図解",
+                "略",
+                "概説",
+                "総説",
+                "要綱",
+                "綱領"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "設計",
+                "図案",
+                "デザイン",
+                "製図",
+                "ドラフト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "図表",
+                "図版",
+                "図形",
+                "図式"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "図表",
+                "チャート"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "図表",
+                "構図",
+                "図式",
+                "図解"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "図表",
+                "絵図",
+                "図面",
+                "図形",
+                "図式",
+                "図解"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "画",
+                "ドローイング",
+                "絵画",
+                "絵図",
+                "図面",
+                "図画",
+                "絵",
+                "図案"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "画",
+                "ピクチャー",
+                "図版",
+                "カット",
+                "絵図",
+                "図面",
+                "画像",
+                "挿し絵",
+                "絵",
+                "図形",
+                "図解",
+                "映像"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "図"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22103e2a",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Mặt cắt địa chất (trong hồ sơ địa chất)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "柱状図"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd910e3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chủ ý phản nghịch; sự phản bội; sự không trung thành; trò hai mặt"
+        }
+      ],
+      "mobileId": 14399,
+      "phonetic": "いず",
+      "word": "異図"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e869fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kế hoạch đầy hi vọng"
+        }
+      ],
+      "mobileId": 25276,
+      "phonetic": "",
+      "word": "冀図"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107492147",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "平面天球図",
+              "mean": "bình đồ địa cầu .",
+              "transcription": "へいめんてんきゅうず"
+            }
+          ],
+          "kind": "n",
+          "mean": "Lá số tử vi"
+        }
+      ],
+      "mobileId": 53036,
+      "phonetic": "てんきゅうず",
+      "related_words": {
+        "word": [
+          "天",
+          "図",
+          "球",
+          "天球"
+        ]
+      },
+      "word": "天球図"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed958f8149",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tầng lớp vẽ"
+        }
+      ],
+      "mobileId": 60660,
+      "phonetic": "せつだんず",
+      "related_words": {
+        "word": [
+          "図",
+          "切断",
+          "切"
+        ]
+      },
+      "word": "切断図"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d22bc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đứng bên cảnh quan"
+        }
+      ],
+      "mobileId": 62808,
+      "opposite_word": [
+        "平面図"
+      ],
+      "phonetic": "そくめんず",
+      "related_words": {
+        "word": [
+          "側",
+          "図",
+          "面",
+          "側面"
+        ]
+      },
+      "word": "側面図"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e405ecd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản đồ địa chất"
+        }
+      ],
+      "mobileId": 113090,
+      "phonetic": "ちしつず",
+      "word": "地質図"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3ea6b581",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Ban ve sau khi che tao (Sau khi da han lap rap voi nhau thanh 1 khoi)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "単品図"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d54c385",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản đồ thành phố"
+        }
+      ],
+      "mobileId": 148430,
+      "phonetic": "しがいず",
+      "word": "市街図"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

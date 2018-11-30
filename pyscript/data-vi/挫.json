@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93bf4f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "contusion, bruise"
+        }
+      ],
+      "mobileId": 258207,
+      "phonetic": "ざそう",
+      "word": "挫創"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e849ed9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vt",
+          "mean": "tới sự ép; tới sự gãy; tới sự bong gân"
+        }
+      ],
+      "mobileId": 35866,
+      "phonetic": "くじく",
+      "synsets": [
+        {
+          "base_form": "挫く",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "拗れる",
+                "捩る",
+                "捻る"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "挫く"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1bd3f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sprain"
+        }
+      ],
+      "mobileId": 224306,
+      "phonetic": "くじき",
+      "word": "挫き"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92734ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "crushing (injury)"
+        }
+      ],
+      "mobileId": 257523,
+      "phonetic": "ざめつ",
+      "word": "挫滅"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdddf386",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "tới sự gãy mũi nhọn"
+        }
+      ],
+      "mobileId": 16782,
+      "phonetic": "",
+      "word": "鋭を挫く"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9272961",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crush syndrome"
+        }
+      ],
+      "mobileId": 257522,
+      "phonetic": "ざめつしょうこうぐん",
+      "word": "挫滅症候群"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

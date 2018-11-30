@@ -1,0 +1,226 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107ab691a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "尾を見せ",
+              "mean": "lòi đuôi ra",
+              "transcription": "おをみせ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái đuôi"
+        },
+        {
+          "examples": [
+            {
+              "content": "ほうき星が尾を長く引く",
+              "mean": "sao chổi có đuôi dài .",
+              "transcription": "ほうきぼしがおをながくひく"
+            }
+          ],
+          "kind": "n",
+          "mean": "vật có hình đuôi"
+        }
+      ],
+      "mobileId": 54797,
+      "opposite_word": [
+        "頭",
+        "首"
+      ],
+      "phonetic": "お",
+      "related_words": {
+        "word": [
+          "船尾",
+          "尻尾",
+          "交尾",
+          "末尾",
+          "接尾語",
+          "語尾",
+          "尾根",
+          "尾行",
+          "接尾辞",
+          "接尾"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "尾",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "尻尾",
+                "テイル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "尾"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e28051f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "goldfish with a shrimp-like tail"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "head of a shamisen or lute (bent back like a shrimp's tail)"
+        }
+      ],
+      "mobileId": 249314,
+      "phonetic": "えびお かいろうび",
+      "word": "海老尾"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a961a510",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "end of a sentence, sentence final"
+        }
+      ],
+      "mobileId": 259437,
+      "phonetic": "ぶんび",
+      "word": "文尾"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ed2471",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đuôi máy bay"
+        }
+      ],
+      "mobileId": 25435,
+      "phonetic": "きお",
+      "word": "機尾"
+    },
+    {
+      "_id": "432518852de0a80625d585a98222fb56",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "whale tail"
+        }
+      ],
+      "mobileId": 232734,
+      "phonetic": "おにく",
+      "word": "尾肉"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e460950",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "telson"
+        }
+      ],
+      "mobileId": 250278,
+      "phonetic": "びせつ",
+      "word": "尾節"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d55a38c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yunwei (secondary vowel or consonant following the primary vowel of a Chinese character)"
+        }
+      ],
+      "mobileId": 217844,
+      "phonetic": "いんび",
+      "word": "韻尾"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68673c96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "theo dõi; đuôi"
+        }
+      ],
+      "mobileId": 3289,
+      "phonetic": "おぶ",
+      "related_words": {
+        "word": [
+          "部",
+          "尾"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "尾部",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "尻尾"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "尾部"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686671c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "cái đuôi; đuôi"
+        }
+      ],
+      "mobileId": 3264,
+      "phonetic": "おじょう",
+      "related_words": {
+        "word": [
+          "尾",
+          "状"
+        ]
+      },
+      "word": "尾状"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b5264a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phần cuối sách"
+        }
+      ],
+      "mobileId": 23658,
+      "opposite_word": [
+        "巻頭"
+      ],
+      "phonetic": "まきお",
+      "related_words": {
+        "word": [
+          "巻",
+          "尾"
+        ]
+      },
+      "word": "巻尾"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

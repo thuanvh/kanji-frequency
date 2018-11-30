@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f7b9b44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quả cam gắt"
+        }
+      ],
+      "mobileId": 186953,
+      "phonetic": "だいだい",
+      "synsets": [
+        {
+          "base_form": "橙",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "オレンジ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "橙"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95b54c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bitter orange juice, used in cooking as a vinegar"
+        }
+      ],
+      "mobileId": 275655,
+      "phonetic": "だいだいず",
+      "word": "橙酢"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03c81de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "orange-red, reddish orange, fire red"
+        }
+      ],
+      "mobileId": 282912,
+      "phonetic": "とうせきしょく",
+      "word": "橙赤色"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e8262bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "orange (colour)"
+        }
+      ],
+      "mobileId": 252233,
+      "phonetic": "とうこうしょく",
+      "word": "橙黄色"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f7ba73f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dầu vỏ cam ."
+        }
+      ],
+      "mobileId": 186954,
+      "phonetic": "とうひゆ",
+      "word": "橙皮油"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e825a23",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "citrus oil, neroli oil"
+        }
+      ],
+      "mobileId": 252232,
+      "phonetic": "とうかゆ",
+      "word": "橙花油"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77bd1f4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "attachment, obsession, persistence"
+        }
+      ],
+      "mobileId": 270586,
+      "phonetic": "しゅう",
+      "word": "執"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5216ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự kết án đã bén rễ"
+        }
+      ],
+      "mobileId": 71393,
+      "phonetic": "めくらと",
+      "related_words": {
+        "word": [
+          "盲"
+        ]
+      },
+      "word": "盲執"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9643e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(cái) đính kèm; sự gắn chặt vào; tính ngoan cường"
+        }
+      ],
+      "mobileId": 150491,
+      "phonetic": "としる",
+      "related_words": {
+        "word": [
+          "著"
+        ]
+      },
+      "word": "執著"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6fe599",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người nắm giữ kim cương (tên (của) một hiện thân thiên cầu phật)"
+        }
+      ],
+      "mobileId": 149273,
+      "phonetic": "ときんこう",
+      "word": "執金鋼"
+    },
+    {
+      "_id": "432518852de0a80625d585a98268f475",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Vajradhara (vajra-wielding gods)"
+        }
+      ],
+      "mobileId": 234944,
+      "phonetic": "しゅこんごうじん しゅうこんごうじん しっこんごうじん",
+      "word": "執金剛神"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

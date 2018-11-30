@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aa3d5c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lông mày ."
+        }
+      ],
+      "mobileId": 173023,
+      "phonetic": "まゆ",
+      "related_words": {
+        "word": [
+          "眉毛",
+          "眉間"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "眉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "眉宇",
+                "アイブロー",
+                "眉毛",
+                "黛"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "眉"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a9be6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na, adj-no",
+          "mean": "fake, counterfeit"
+        }
+      ],
+      "mobileId": 212297,
+      "phonetic": "まゆつば",
+      "word": "眉唾"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b74198",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one eyebrow"
+        }
+      ],
+      "mobileId": 278584,
+      "phonetic": "かたまゆ",
+      "word": "片眉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a3736b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crescent moon"
+        }
+      ],
+      "mobileId": 269748,
+      "phonetic": "まゆづき",
+      "word": "眉月"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd058d7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đuôi chân mày, đuôi lông mày"
+        }
+      ],
+      "mobileId": 68964,
+      "phonetic": "まゆしり",
+      "related_words": {
+        "word": [
+          "尻",
+          "眉"
+        ]
+      },
+      "word": "眉尻"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aa3daa1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bút kẻ lông mày ."
+        }
+      ],
+      "mobileId": 173024,
+      "phonetic": "まゆずみ",
+      "word": "眉ずみ"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aa3ec08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lông mày trắng như tuyết ."
+        }
+      ],
+      "mobileId": 173026,
+      "phonetic": "びせつ",
+      "related_words": {
+        "word": [
+          "雪",
+          "眉"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "眉雪",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "老い",
+                "長老",
+                "老人",
+                "年寄り",
+                "古老"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "眉雪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d29e76",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the part of the eyebrows near the middle forehead, inner ends of one's eyebrows"
+        }
+      ],
+      "mobileId": 271292,
+      "phonetic": "まゆがしら",
+      "word": "眉頭"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c90857",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những lông mày bút chì"
+        }
+      ],
+      "mobileId": 24281,
+      "phonetic": "がまゆ",
+      "word": "画眉"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68418e4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lông mày được kẻ (bằng bút kẻ lông mày)"
+        }
+      ],
+      "mobileId": 2117,
+      "phonetic": "ひきまゆ",
+      "related_words": {
+        "word": [
+          "眉"
+        ]
+      },
+      "word": "引き眉"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

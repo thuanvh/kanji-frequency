@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95234eb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, adj-t, adv-to",
+          "mean": "thuần khiết; người vô tội; trong trắng"
+        }
+      ],
+      "mobileId": 57224,
+      "opposite_word": [
+        "不純",
+        "雑"
+      ],
+      "phonetic": "じゅん",
+      "word": "純"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5138ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lòng trung thành kiên định"
+        }
+      ],
+      "mobileId": 113627,
+      "phonetic": "ちゅうじゅん",
+      "word": "忠純"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c7a0f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sake made without added alcohol or sugar"
+        }
+      ],
+      "mobileId": 262671,
+      "phonetic": "じゅんまい",
+      "word": "純米"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280270b13fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "văn học thuần tuý ."
+        }
+      ],
+      "mobileId": 29282,
+      "phonetic": "じゅんぶんがく",
+      "related_words": {
+        "word": [
+          "文"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "純文学",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "文芸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "純文学"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0206c48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "pure white, snow white"
+        }
+      ],
+      "mobileId": 281989,
+      "phonetic": "じゅんぱくいろ じゅんぱくしょく",
+      "word": "純白色"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07c3f27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coffee shop which does not serve alcohol"
+        }
+      ],
+      "mobileId": 284918,
+      "phonetic": "じゅんきっさ",
+      "word": "純喫茶"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820d28ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "just intonation"
+        }
+      ],
+      "mobileId": 232064,
+      "phonetic": "じゅんせいちょう",
+      "word": "純正調"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280270b01d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng tiêu dùng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lãi ròng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lợi nhuận ròng ."
+        }
+      ],
+      "mobileId": 29280,
+      "phonetic": "じゅんりえき",
+      "related_words": {
+        "word": [
+          "利益",
+          "利",
+          "益"
+        ]
+      },
+      "word": "純利益"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0652274",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pure tone"
+        }
+      ],
+      "mobileId": 284199,
+      "phonetic": "じゅんおん",
+      "word": "純音"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0653361",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "net earnings, net return, net income, net profit"
+        }
+      ],
+      "mobileId": 284201,
+      "phonetic": "じゅんしゅうえき",
+      "word": "純収益"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,388 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aedcbaf",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bờ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cạnh"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chót"
+        },
+        {
+          "examples": [
+            {
+              "content": "本を端から端まで読む",
+              "mean": "Đọc cuốn sách từ trang bìa đầu đến trang bìa cuối",
+              "transcription": "ほんをはじからはじまでよむ"
+            },
+            {
+              "content": "半島の端に",
+              "mean": "Tại đầu của bán đảo",
+              "transcription": "はんとうのはじに"
+            }
+          ],
+          "kind": "n",
+          "mean": "đầu (cầu, phố)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ven ."
+        }
+      ],
+      "mobileId": 174219,
+      "opposite_word": [
+        "奥"
+      ],
+      "phonetic": "はし",
+      "related_words": {
+        "word": [
+          "中途半端",
+          "端末",
+          "端子",
+          "先端",
+          "端数",
+          "最先端",
+          "終端",
+          "切れ端",
+          "両端",
+          "異端者"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "端",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "縁",
+                "ボーダーライン",
+                "境目",
+                "エッジ",
+                "境界",
+                "ボーダー",
+                "境域",
+                "境"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "崎",
+                "穂",
+                "先頭",
+                "先端",
+                "穂先",
+                "先",
+                "先登",
+                "岬",
+                "頂",
+                "尖端"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コーナ",
+                "コーナー",
+                "角",
+                "隅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "果て",
+                "辺",
+                "縁",
+                "エッジ",
+                "側",
+                "際"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "縁",
+                "鍔"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "欄外",
+                "差額",
+                "値鞘",
+                "粗利益",
+                "余裕",
+                "マージン",
+                "公差",
+                "余白",
+                "余地"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "縁",
+                "境界",
+                "外れ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "縁",
+                "へり"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "縁",
+                "境目",
+                "境界",
+                "リミット",
+                "へり"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "端末",
+                "先端",
+                "末梢",
+                "末端",
+                "外れ",
+                "先",
+                "後端",
+                "尻",
+                "尖端",
+                "極端",
+                "末",
+                "最後",
+                "末つ方"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "果てし",
+                "末端",
+                "出外れ",
+                "極端",
+                "末"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "崎",
+                "穂",
+                "先端",
+                "穂先",
+                "先",
+                "岬",
+                "尖端"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "果て",
+                "端末",
+                "詰め",
+                "末梢",
+                "末端",
+                "極端"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一隅",
+                "コーナー",
+                "角",
+                "隅"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "端"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e9b612a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "from one end to another, thoroughly, completely, utterly"
+        }
+      ],
+      "mobileId": 253052,
+      "phonetic": "はしからはしまで",
+      "word": "端から端まで"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6866b53a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chóp mũi"
+        }
+      ],
+      "mobileId": 3273,
+      "phonetic": "はなたん",
+      "related_words": {
+        "word": [
+          "端",
+          "鼻"
+        ]
+      },
+      "word": "鼻端"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b2b7dd9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "link end"
+        }
+      ],
+      "mobileId": 241236,
+      "phonetic": "リンクたん",
+      "word": "リンク端"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8ec7d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "machined edge, edge-stitched seam"
+        }
+      ],
+      "mobileId": 219691,
+      "phonetic": "たんミシン",
+      "word": "端ミシン"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8217759",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thải ra; sự cắt chấm dứt; mảnh bên ngoài cắt"
+        }
+      ],
+      "mobileId": 34568,
+      "phonetic": "きりたん",
+      "related_words": {
+        "word": [
+          "端",
+          "切",
+          "切り"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "切り端",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "屑",
+                "襤褸",
+                "切れ端",
+                "切れっ端",
+                "くず"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "切り端"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca063c1d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yardarm"
+        }
+      ],
+      "mobileId": 284160,
+      "phonetic": "こうたん",
+      "word": "桁端"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e19c538",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(rađiô) cuối"
+        }
+      ],
+      "mobileId": 111849,
+      "phonetic": "はじきょく",
+      "related_words": {
+        "word": [
+          "端",
+          "局"
+        ]
+      },
+      "word": "端局"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a065af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blacktip reef shark (Carcharhinus melanopterus, species of requiem shark mostly found in the Indo-Pacific)"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "black tip"
+        }
+      ],
+      "mobileId": 261409,
+      "phonetic": "つまぐろ ツマグロ",
+      "word": "端黒"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68dcfffb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ủng hộ (của) một hào"
+        }
+      ],
+      "mobileId": 7036,
+      "phonetic": "ほりただし",
+      "word": "堀端"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

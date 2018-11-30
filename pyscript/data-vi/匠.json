@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada62456a",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n, adj-na",
+          "mean": "công nhân; người lao động; thợ thủ công; thợ máy; thợ mộc; tiền bạc; giàu có; ý tưởng; ý kiến"
+        },
+        {
+          "examples": "",
+          "kind": "n, adj-na",
+          "mean": "người có tay nghề cao; thợ cả ."
+        }
+      ],
+      "mobileId": 78601,
+      "phonetic": "しょう",
+      "related_words": {
+        "word": [
+          "師匠",
+          "意匠",
+          "巨匠",
+          "宗匠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "匠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "クラフトマン",
+                "工匠",
+                "アーチザン",
+                "職人",
+                "アルチザン",
+                "職工"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "計略",
+                "策略",
+                "策",
+                "謀略",
+                "権謀",
+                "詐欺",
+                "企み",
+                "謀",
+                "企て"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "計略",
+                "策略",
+                "仕掛け",
+                "小細工",
+                "細工",
+                "謀略",
+                "たくらみ",
+                "企み",
+                "詭謀",
+                "策謀",
+                "悪巧み",
+                "奸計",
+                "術策",
+                "詭計"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "カーペンター",
+                "大工"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "匠"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d60391d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thợ cưa, thợ xẻ; thợ mộc"
+        }
+      ],
+      "mobileId": 148774,
+      "phonetic": "あずさたくみ",
+      "word": "梓匠"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c5ed06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thợ sơn, hoạ sĩ, dây néo, cắt đứt, đoạn tuyệt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghệ sĩ, hoạ sĩ"
+        }
+      ],
+      "mobileId": 24191,
+      "phonetic": "がたくみ",
+      "related_words": {
+        "word": [
+          "画",
+          "匠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "画匠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "画人",
+                "画工",
+                "墨客",
+                "アーチスト",
+                "アーティスト",
+                "芸術家",
+                "絵描き",
+                "作家",
+                "画家",
+                "絵師",
+                "画師",
+                "画伯"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "画人",
+                "画工",
+                "画手",
+                "絵描き",
+                "画家",
+                "絵師",
+                "画師"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "画人",
+                "画工",
+                "絵描き",
+                "画家",
+                "絵師",
+                "画師"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "画匠"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03e0207",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mason, stonemason, stonecutter"
+        }
+      ],
+      "mobileId": 282959,
+      "phonetic": "せきしょう",
+      "word": "石匠"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d65e564",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "master of sake, sake sommelier"
+        }
+      ],
+      "mobileId": 218375,
+      "phonetic": "さかしょう",
+      "word": "酒匠"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0f04fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "historical system whereby the Hida region provided 10 carpenters per village the central government in place of taxes"
+        }
+      ],
+      "mobileId": 215575,
+      "phonetic": "ひだのたくみ",
+      "word": "飛騨の匠"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dda92e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(1) đánh dấu;(2) ký hiệu;(3) bằng chứng"
+        }
+      ],
+      "mobileId": 152702,
+      "phonetic": "しるし",
+      "word": "徴"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a766157",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "病徴発現",
+              "mean": "phát triển triệu chứng .",
+              "transcription": "やまいちょうはつげん"
+            }
+          ],
+          "kind": "n",
+          "mean": "Triệu chứng"
+        }
+      ],
+      "mobileId": 172242,
+      "phonetic": "びょうちょう",
+      "related_words": {
+        "word": [
+          "病"
+        ]
+      },
+      "word": "病徴"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08ff13e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tax collector"
+        }
+      ],
+      "mobileId": 285546,
+      "phonetic": "ちょうぜいり",
+      "word": "徴税吏"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5696e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dấu để phân biệt"
+        }
+      ],
+      "mobileId": 113800,
+      "phonetic": "しるしひょう",
+      "word": "徴表"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b60a99",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "báo hiệu; portent; ký tên; điềm báo trước; điềm báo"
+        }
+      ],
+      "mobileId": 61889,
+      "phonetic": "ぜんちょう",
+      "related_words": {
+        "word": [
+          "前"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "前徴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "合図",
+                "徴候",
+                "前表",
+                "前触れ",
+                "表徴",
+                "前兆",
+                "兆候"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "合図",
+                "気配",
+                "縁起",
+                "目印",
+                "徴候",
+                "前表",
+                "記号",
+                "表徴",
+                "符号",
+                "前兆",
+                "兆候",
+                "表号"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "前徴"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e2ec70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "sensitive, touchy, delicate"
+        }
+      ],
+      "mobileId": 280015,
+      "phonetic": "きちょう",
+      "word": "機徴"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02a64c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "museum (esp. with collections of old objects)"
+        }
+      ],
+      "mobileId": 282298,
+      "phonetic": "ちょうこかん",
+      "word": "徴古館"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685f4475",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đặc trưng; biểu tượng; (y học) triệu chứng"
+        }
+      ],
+      "mobileId": 3045,
+      "phonetic": "しめぎちょう",
+      "word": "標徴"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e6f9c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dấu hiệu tốt hoặc may mắn"
+        }
+      ],
+      "mobileId": 25227,
+      "phonetic": "よしちょう",
+      "word": "吉徴"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95017c2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ra hiệu (của) một động đất"
+        }
+      ],
+      "mobileId": 56163,
+      "phonetic": "じしんのしるし",
+      "word": "地震の徴"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

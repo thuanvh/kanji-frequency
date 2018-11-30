@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a6a151a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "衣装デザイン画",
+              "mean": "nét bút thiết kế trang phục",
+              "transcription": "いしょうデザインが"
+            }
+          ],
+          "kind": "n, n-suf, ctr",
+          "mean": "nét (bút); ngòi bút"
+        }
+      ],
+      "mobileId": 172081,
+      "phonetic": "かく",
+      "related_words": {
+        "word": [
+          "漫画",
+          "映画",
+          "計画",
+          "画像",
+          "動画",
+          "企画",
+          "画面",
+          "映画館",
+          "絵画",
+          "画像処理"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "画",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドローイング",
+                "絵画",
+                "絵図",
+                "図面",
+                "図画",
+                "絵",
+                "図案",
+                "図"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ピクチャー",
+                "図版",
+                "カット",
+                "絵図",
+                "図面",
+                "画像",
+                "挿し絵",
+                "絵",
+                "図形",
+                "図解",
+                "映像",
+                "図"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "画"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686b574d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tranh phong cảnh"
+        }
+      ],
+      "mobileId": 3418,
+      "phonetic": "ふうけいが",
+      "related_words": {
+        "word": [
+          "風",
+          "風景",
+          "画"
+        ]
+      },
+      "word": "風景画"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a327a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(kiểu (của) tiếng trung hoa người miền nam vẽ)"
+        }
+      ],
+      "mobileId": 5179,
+      "phonetic": "ぶんじんが",
+      "word": "文人画"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19371e2a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tranh vẽ hoa và chim chóc, côn trùng ... (của Nhật, Trung Quốc)"
+        }
+      ],
+      "mobileId": 21547,
+      "phonetic": "かちょうが",
+      "word": "花鳥画"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193723152",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "mở ra một kỷ nguyên, đánh dấu một thời kỳ; lịch sử"
+        }
+      ],
+      "mobileId": 21559,
+      "phonetic": "かっ き",
+      "related_words": {
+        "word": [
+          "画",
+          "期",
+          "画期的"
+        ]
+      },
+      "word": "画期"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa03256",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "courtroom sketch, courtroom illustration"
+        }
+      ],
+      "mobileId": 228521,
+      "phonetic": "ほうていが",
+      "word": "法廷画"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad85ed5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sketch (done by pencil)"
+        }
+      ],
+      "mobileId": 230353,
+      "phonetic": "えんぴつが",
+      "word": "鉛筆画"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0169f6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "demarcation, graduation"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "fractionation, fraction"
+        }
+      ],
+      "mobileId": 281685,
+      "phonetic": "ぶんかく",
+      "word": "分画"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be3d05db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây tùng lam, màu tùng lam, màu phấn; bức tranh màu phấn"
+        }
+      ],
+      "mobileId": 91236,
+      "phonetic": "パステルが",
+      "word": "パステル画"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d12665a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tranh màu"
+        }
+      ],
+      "mobileId": 146330,
+      "phonetic": "さいしきが",
+      "word": "彩色画"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

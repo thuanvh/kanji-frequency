@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd938ab3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự chết sớm; tai họa"
+        }
+      ],
+      "mobileId": 73500,
+      "phonetic": "",
+      "word": "夭"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d3c3a28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chết trẻ ."
+        }
+      ],
+      "mobileId": 142425,
+      "phonetic": "ちゅうよう",
+      "word": "中夭"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7749d9b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "natural disaster"
+        }
+      ],
+      "mobileId": 266837,
+      "phonetic": "てんぺんちよう",
+      "word": "天変地夭"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a43808",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "蛆がわく",
+              "mean": "có giòi",
+              "transcription": "うじがわく"
+            },
+            {
+              "content": "蛆虫が涌く",
+              "mean": "giòi ăn",
+              "transcription": "うじむしがわく"
+            },
+            {
+              "content": "蛆虫が涌いている",
+              "mean": "bị giòi ăn",
+              "transcription": "うじむしがわいている"
+            },
+            {
+              "content": "ごみ箱の中に蛆がわいていた",
+              "mean": "có giòi trong thùng rác .",
+              "transcription": "ごみばこのなかにうじがわいていた"
+            }
+          ],
+          "kind": "n",
+          "mean": "giòi"
+        }
+      ],
+      "mobileId": 31981,
+      "phonetic": "うじ",
+      "word": "蛆"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e19aff0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Widowers are untidy, A man alone soon goes to seed, A man goes to pieces without a woman to look after him"
+        }
+      ],
+      "mobileId": 248842,
+      "phonetic": "おとこやもめにうじがわく",
+      "word": "男やもめに蛆がわく"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

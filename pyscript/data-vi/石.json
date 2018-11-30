@@ -1,0 +1,280 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ab4a677",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "石・豆などを臼などで細かくした",
+              "mean": "Xay nhỏ đá hay đậu tương bằng cối xay",
+              "transcription": "いし・まめなどをうすなどでこまかくした"
+            },
+            {
+              "content": "満足は、触るものすべてを黄金に変えてしまう哲学者の石。",
+              "mean": "Sự mãn nguyện là hòn đá của triết gia biết mọi thứ mà nó chạm vào thành vàng",
+              "transcription": "まんぞくは、さわるものすべてをおうごんにかえてしまうてつがくしゃのいし。"
+            }
+          ],
+          "kind": "n",
+          "mean": "đá"
+        },
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "hòn đá"
+        }
+      ],
+      "mobileId": 173277,
+      "phonetic": "いし",
+      "related_words": {
+        "word": [
+          "宝石",
+          "石鹸",
+          "石炭",
+          "石油",
+          "流石",
+          "隕石",
+          "磁石",
+          "一石二鳥",
+          "砥石",
+          "鉱石"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "石",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "岩石",
+                "岩",
+                "石塊",
+                "ロック"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "岩石",
+                "岩",
+                "石塊"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "石"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ab4ccd7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "割栗石〔基礎を作るための〕",
+              "mean": "Đá nền làm móng",
+              "transcription": "わりぐりせき〔きそをつくるための〕"
+            },
+            {
+              "content": "平たい丸石〔海岸に打ち寄せた〕",
+              "mean": "Hòn đá cuội tròn nhẵn",
+              "transcription": "ひらたいまるいし〔かいがんにうちよせた〕"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "thạch"
+        }
+      ],
+      "mobileId": 173278,
+      "phonetic": "こく",
+      "related_words": {
+        "word": [
+          "宝石",
+          "石鹸",
+          "石炭",
+          "石油",
+          "流石",
+          "隕石",
+          "磁石",
+          "一石二鳥",
+          "砥石",
+          "鉱石"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "石",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "岩石",
+                "岩",
+                "石塊",
+                "ロック"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "岩石",
+                "岩",
+                "石塊"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "石"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6dbb84",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "nướng bằng đá nóng"
+        }
+      ],
+      "mobileId": 13287,
+      "phonetic": "いしやき",
+      "word": "石焼き"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a68fb45",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "halide"
+        }
+      ],
+      "mobileId": 226740,
+      "phonetic": "ろせき",
+      "word": "鹵石"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937d1f28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đá đỉnh vòm, nguyên tắc cơ bản; yếu tố chủ chốt, yếu tố quyết định (trong một kế hoạch, một chính sách...)"
+        }
+      ],
+      "mobileId": 21902,
+      "phonetic": "よういし",
+      "related_words": {
+        "word": [
+          "石"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "要石",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "柱石",
+                "バックボーン",
+                "支柱",
+                "基幹",
+                "拠所",
+                "幹",
+                "中枢",
+                "大黒柱",
+                "柱",
+                "キーストーン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "要石"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad2aead",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soapstone"
+        }
+      ],
+      "mobileId": 230174,
+      "phonetic": "せっけんせき",
+      "word": "石けん石"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01ce2e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sugilite, lavulite"
+        }
+      ],
+      "mobileId": 281878,
+      "phonetic": "すぎせき",
+      "word": "杉石"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca008e09a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "date shell (Lithophaga curta), date mussel"
+        }
+      ],
+      "mobileId": 281246,
+      "phonetic": "いしまてがい イシマテガイ",
+      "word": "石馬刀貝"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed958606a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sekitei (tên (của) một quán trọ)"
+        }
+      ],
+      "mobileId": 60354,
+      "phonetic": "いしてい",
+      "word": "石亭"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e22e38d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái bệ đá"
+        }
+      ],
+      "mobileId": 112148,
+      "phonetic": "たいせき",
+      "related_words": {
+        "word": [
+          "台",
+          "石"
+        ]
+      },
+      "word": "台石"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

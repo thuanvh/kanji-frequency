@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af83d53",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "li (one of the trigrams of the I Ching: fire, south)"
+        }
+      ],
+      "mobileId": 231370,
+      "opposite_word": [
+        "合"
+      ],
+      "phonetic": "り",
+      "word": "離"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02434f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v4r, vi",
+          "mean": "to go away, to become more distant, to fade away, to die away"
+        }
+      ],
+      "mobileId": 190319,
+      "phonetic": "さかる",
+      "word": "離る"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbd189f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(Phật giáo) rời khỏi bể khổ trần gian"
+        }
+      ],
+      "mobileId": 74845,
+      "phonetic": "はなれく",
+      "word": "離苦"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c023c7ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2r-s, v4r, vi",
+          "mean": "to be separated, to be apart, to be distant"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to leave, to go away"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to leave (a job, etc.), to quit, to give up"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to lose connection with, to drift away from"
+        }
+      ],
+      "mobileId": 190305,
+      "phonetic": "はなる",
+      "word": "離る"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c07c82bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "leaving one's seat (keyboard, etc.)"
+        }
+      ],
+      "mobileId": 210846,
+      "phonetic": "りせき",
+      "related_words": {
+        "word": [
+          "席"
+        ]
+      },
+      "word": "離席"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9286910",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to, adj-no",
+          "mean": "dispersed (of citizens in a war-torn country, etc.)"
+        }
+      ],
+      "mobileId": 257561,
+      "phonetic": "らんり",
+      "word": "乱離"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771c0388",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abandoning all worldly desires"
+        }
+      ],
+      "mobileId": 265371,
+      "phonetic": "しゃり",
+      "word": "捨離"
+    },
+    {
+      "_id": "432518852de0a80625d585a98267e8c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "separation by a great distance"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "detachment"
+        }
+      ],
+      "mobileId": 234918,
+      "phonetic": "えんり おんり",
+      "related_words": {
+        "word": [
+          "遠"
+        ]
+      },
+      "word": "遠離"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825f1295",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dissection, disconnection, diaeresis"
+        }
+      ],
+      "mobileId": 234640,
+      "phonetic": "りだん",
+      "word": "離断"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef957a8ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "making preparations for a divorce"
+        }
+      ],
+      "mobileId": 275536,
+      "phonetic": "りかつ リカツ",
+      "word": "離活"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

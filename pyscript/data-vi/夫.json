@@ -1,0 +1,248 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1074e1e1d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "妻に対して暴力を振るう夫",
+              "mean": "người chồng vũ phu",
+              "transcription": "つまにたいしてぼうりょくをふるうおっと"
+            },
+            {
+              "content": "外で働く夫",
+              "mean": "người chồng làm việc ở ngoài",
+              "transcription": "そとではたらくおっと"
+            },
+            {
+              "content": "すぐ離婚する夫",
+              "mean": "người chồng sắp ly hôn",
+              "transcription": "すぐりこんするおっと"
+            }
+          ],
+          "kind": "n",
+          "mean": "chồng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lang quân"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phu quân ."
+        }
+      ],
+      "mobileId": 53142,
+      "opposite_word": [
+        "妻"
+      ],
+      "phonetic": "おっと",
+      "related_words": {
+        "word": [
+          "大丈夫",
+          "大丈夫ですか？",
+          "夫婦",
+          "工夫",
+          "丈夫",
+          "夫人",
+          "夫々",
+          "農夫",
+          "公爵夫人",
+          "夫妻"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "夫",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "既婚男性",
+                "亭主",
+                "夫の君",
+                "妻帯者",
+                "檀那",
+                "主人",
+                "旦那"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "夫"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931284ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mỗi; mỗi; cũng; tương ứng; riêng biệt"
+        }
+      ],
+      "mobileId": 18512,
+      "phonetic": "おっとおっと",
+      "related_words": {
+        "word": [
+          "夫"
+        ]
+      },
+      "word": "夫夫"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1074e48db",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "それぞれが300ドルですか",
+              "mean": "mỗi cái 300 đôla phải không?",
+              "transcription": "それぞれが300ドルですか"
+            },
+            {
+              "content": "生徒はそれぞれ1冊辞書を持っている",
+              "mean": "mỗi một học sinh đều có 1 quyển từ điển",
+              "transcription": "せいとはそれぞれ1さつじしょをもっている"
+            }
+          ],
+          "kind": "n-adv, adj-no",
+          "mean": "mỗi"
+        }
+      ],
+      "mobileId": 53148,
+      "phonetic": "それぞれ",
+      "word": "夫れ夫れ"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e882db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tay chân (đàn em); lâu la; đàn em ."
+        }
+      ],
+      "mobileId": 110618,
+      "phonetic": "ざつえきふ",
+      "word": "雑役夫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7740c4ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fireman"
+        }
+      ],
+      "mobileId": 266550,
+      "phonetic": "しょうぼうふ",
+      "word": "消防夫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7708029d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lover (of a married woman)"
+        }
+      ],
+      "mobileId": 264720,
+      "phonetic": "みっぷ",
+      "word": "密夫"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fff2db6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người lặn; người nhảy lao đầu xuống ."
+        }
+      ],
+      "mobileId": 189143,
+      "phonetic": "せんすいふ",
+      "related_words": {
+        "word": [
+          "水",
+          "夫",
+          "潜水"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "潜水夫",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "フロッグマン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "潜水夫"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd29a1d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người chồng yêu quý"
+        }
+      ],
+      "mobileId": 11117,
+      "phonetic": "あいするおっと",
+      "word": "愛する夫"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca028b7a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "choosing a husband."
+        }
+      ],
+      "mobileId": 282240,
+      "phonetic": "おっとえらび",
+      "word": "夫選び"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddfc50a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công nhân đường sắt (phu khuân vác)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "laborer"
+        }
+      ],
+      "mobileId": 16848,
+      "phonetic": "えきおっと",
+      "related_words": {
+        "word": [
+          "駅",
+          "夫"
+        ]
+      },
+      "word": "駅夫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

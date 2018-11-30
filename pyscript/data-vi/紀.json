@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aab8aa0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "period"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Nihon-shoki"
+        }
+      ],
+      "mobileId": 228881,
+      "phonetic": "き",
+      "word": "紀"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9585ade0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "Kỷ than đá, thời kỳ than đá"
+        }
+      ],
+      "mobileId": 60342,
+      "phonetic": "せきたんおさむ",
+      "word": "石炭紀"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3bbeba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kỷ Triat"
+        }
+      ],
+      "mobileId": 147634,
+      "phonetic": "さんじょうおさむ",
+      "related_words": {
+        "word": [
+          "三",
+          "畳"
+        ]
+      },
+      "word": "三畳紀"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aab8e93",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Quaternary period"
+        }
+      ],
+      "mobileId": 228882,
+      "phonetic": "だいよんき だいしき",
+      "word": "第四紀"
+    },
+    {
+      "_id": "f61fc88c4ffea55446c27e66909985fe",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "kỷ Đê-von"
+        }
+      ],
+      "mobileId": 181927,
+      "phonetic": "デボンき",
+      "word": "デボン紀"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aabbff8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ordovician period"
+        }
+      ],
+      "mobileId": 228887,
+      "phonetic": "おうとうき",
+      "word": "奥陶紀"
+    },
+    {
+      "_id": "432518852de0a80625d585a982288078",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Shoku Nihon Kouki (fourth of the six classical Japanese history texts)"
+        }
+      ],
+      "mobileId": 232913,
+      "phonetic": "しょくにほんこうき",
+      "word": "続日本後紀"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e392802",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "topical-annalistic style (of historical writing)"
+        }
+      ],
+      "mobileId": 249848,
+      "phonetic": "きじほんまつたい",
+      "word": "紀事本末体"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aab91df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Permian period"
+        }
+      ],
+      "mobileId": 228883,
+      "phonetic": "ペルムき",
+      "word": "ペルム紀"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aaba181",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Permian period"
+        }
+      ],
+      "mobileId": 228884,
+      "phonetic": "にじょうき",
+      "word": "二畳紀"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

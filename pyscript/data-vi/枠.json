@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f50fe75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "khung; giá ."
+        }
+      ],
+      "mobileId": 186326,
+      "phonetic": "わく",
+      "related_words": {
+        "word": [
+          "外枠",
+          "枠組み",
+          "窓枠",
+          "枠内",
+          "枠組",
+          "黒枠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "枠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "母型",
+                "型",
+                "金型",
+                "鋳型"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "枠"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a98a8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bracket win (in horse-racing), bracket quinella"
+        }
+      ],
+      "mobileId": 286368,
+      "phonetic": "わくれん",
+      "word": "枠連"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d9df0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viền"
+        }
+      ],
+      "mobileId": 63070,
+      "phonetic": "そとわく",
+      "related_words": {
+        "word": [
+          "枠",
+          "外"
+        ]
+      },
+      "word": "外枠"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e41b934",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "limit on participation"
+        }
+      ],
+      "mobileId": 250141,
+      "phonetic": "さんかわく",
+      "word": "参加枠"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6833ddd2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rút; trích đoạn; sự chọn lọc"
+        }
+      ],
+      "mobileId": 1685,
+      "phonetic": "ばっすい",
+      "word": "抜枠"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bc02f5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "character body"
+        }
+      ],
+      "mobileId": 245973,
+      "phonetic": "もじわく",
+      "word": "文字枠"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b138215",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "page frame"
+        }
+      ],
+      "mobileId": 240448,
+      "phonetic": "ページわく",
+      "word": "ページ枠"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d255fdd",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "hộp hoặc bảng có viền dày (dạng, v.v.), khung in đậm."
+        }
+      ],
+      "mobileId": 216302,
+      "phonetic": "ふとわく",
+      "word": "太枠"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d89badb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "import ceiling"
+        }
+      ],
+      "mobileId": 219528,
+      "phonetic": "ゆにゅうわく",
+      "word": "輸入枠"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107c84653",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ống chỉ ."
+        }
+      ],
+      "mobileId": 55219,
+      "phonetic": "まきわく",
+      "word": "巻き枠"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

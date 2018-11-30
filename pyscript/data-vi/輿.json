@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935a0702",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiệu, cáng"
+        }
+      ],
+      "mobileId": 20783,
+      "phonetic": "こし",
+      "related_words": {
+        "word": [
+          "玉の輿",
+          "御神輿",
+          "御輿"
+        ]
+      },
+      "word": "輿"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbac11a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chuyên chở thượng hạng"
+        }
+      ],
+      "mobileId": 74771,
+      "phonetic": "",
+      "word": "鸞輿"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef915c020",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "two people riding in a palanquin together"
+        }
+      ],
+      "mobileId": 273466,
+      "phonetic": "あいごし",
+      "word": "相輿"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d1f12fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đối diện người mang palanquin"
+        }
+      ],
+      "mobileId": 146725,
+      "phonetic": "ぜんこし",
+      "related_words": {
+        "word": [
+          "前",
+          "輿"
+        ]
+      },
+      "word": "前輿"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0428e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "person who carries a palanquin, palanquin bearer"
+        }
+      ],
+      "mobileId": 248133,
+      "phonetic": "よてい",
+      "word": "輿丁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

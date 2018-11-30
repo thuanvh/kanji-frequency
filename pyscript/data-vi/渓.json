@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a56ee41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ravine, chasm"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ravenous desire, insatiable desire"
+        }
+      ],
+      "mobileId": 226191,
+      "phonetic": "けいがく",
+      "word": "渓壑"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a56feaf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "a spring that gushes forth from a valley"
+        }
+      ],
+      "mobileId": 226194,
+      "phonetic": "けいせん",
+      "word": "渓泉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a56f265",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mountain stream, valley"
+        }
+      ],
+      "mobileId": 226192,
+      "phonetic": "けいかん",
+      "word": "渓澗"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a56f7d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mountain stream, the water of a mountain stream"
+        }
+      ],
+      "mobileId": 226193,
+      "phonetic": "けいすい",
+      "word": "渓水"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e876af8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kêu (của) một dòng thung lũng"
+        }
+      ],
+      "mobileId": 37307,
+      "phonetic": "けいごえ",
+      "word": "渓声"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fe8019c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khe núi; khe suối; hẻm núi ."
+        }
+      ],
+      "mobileId": 188782,
+      "phonetic": "けいかん",
+      "related_words": {
+        "word": [
+          "間"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "渓間",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "谷",
+                "山峡",
+                "渓谷",
+                "谷間"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "裂け目",
+                "淵",
+                "割れ目",
+                "谷間",
+                "割目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "喉",
+                "ゴルジュ",
+                "山峡",
+                "渓谷"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "深淵",
+                "渓谷",
+                "谷間"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "渓谷",
+                "谷間"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "渓間"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e894317a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "geibi ngốn (higashiyama - cho, iwate - tầm mắt)"
+        }
+      ],
+      "mobileId": 38237,
+      "phonetic": "",
+      "word": "猊美渓"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a44453",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "genbi ngốn (ichinoseki - shi, iwate - tầm mắt)"
+        }
+      ],
+      "mobileId": 38754,
+      "phonetic": "いむよしけい",
+      "word": "厳美渓"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

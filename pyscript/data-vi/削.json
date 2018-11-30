@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d15c593",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bay; mài sắc; gọt; gọt; dao cạo (da); quệt vào ra khỏi; gạch xóa; giảm bớt; cắt bớt"
+        }
+      ],
+      "mobileId": 146439,
+      "phonetic": "けず",
+      "related_words": {
+        "word": [
+          "削除",
+          "削除する",
+          "削減",
+          "経費削減",
+          "削る",
+          "添削",
+          "人員削減",
+          "研削",
+          "研削盤",
+          "鉛筆削り"
+        ]
+      },
+      "word": "削"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111ad836",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "khoan, khoét"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "さっこう",
+      "word": "削孔"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2591fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mảnh vụn; lát mỏng"
+        }
+      ],
+      "mobileId": 146915,
+      "phonetic": "けずへん",
+      "related_words": {
+        "word": [
+          "削"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "削片",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "欠け"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "砕片",
+                "かけら",
+                "破片",
+                "小片",
+                "一片",
+                "薄片",
+                "欠片",
+                "断片"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "削片"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959a526c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xoay (trên (về) một máy tiện)"
+        }
+      ],
+      "mobileId": 61018,
+      "phonetic": "せんさく",
+      "word": "旋削"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2594a3",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "từ chối"
+        }
+      ],
+      "mobileId": 146916,
+      "phonetic": "けずま",
+      "related_words": {
+        "word": [
+          "削"
+        ]
+      },
+      "word": "削摩"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d241738",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phun ra khoan"
+        }
+      ],
+      "mobileId": 146874,
+      "phonetic": "けずい",
+      "word": "削井"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fec7c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "excavation (esp. of a tunnel), drivage"
+        }
+      ],
+      "mobileId": 272722,
+      "phonetic": "さくしん",
+      "word": "削進"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932dc0ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sắt dễ cắt gọt gia công"
+        }
+      ],
+      "mobileId": 19385,
+      "phonetic": "かいけずはがね",
+      "word": "快削鋼"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7a3480",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "particle board"
+        }
+      ],
+      "mobileId": 251969,
+      "phonetic": "さくへんいた",
+      "word": "削片板"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fadbd71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Máy bào nước đá ."
+        }
+      ],
+      "mobileId": 187798,
+      "phonetic": "ひょうさっき",
+      "related_words": {
+        "word": [
+          "氷",
+          "機",
+          "削"
+        ]
+      },
+      "word": "氷削機"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935a4542",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái nón lá; cái dù; cái ô"
+        }
+      ],
+      "mobileId": 20792,
+      "phonetic": "かさ",
+      "synsets": [
+        {
+          "base_form": "笠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "傘"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "帽子",
+                "ハット"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "笠"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca074ef02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "large primitive bamboo hat"
+        }
+      ],
+      "mobileId": 284707,
+      "phonetic": "ばんじょうがさ バンジョウガサ",
+      "word": "番匠笠"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96bd4e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional lacquered conical hat"
+        }
+      ],
+      "mobileId": 259741,
+      "phonetic": "ぬりがさ",
+      "word": "塗笠"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96bf6df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Asteraceae flowering plant (Parasenecio delphiniifolius)"
+        }
+      ],
+      "mobileId": 259745,
+      "phonetic": "もみじがさ",
+      "word": "紅葉笠"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad6d01c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bamboo hat"
+        }
+      ],
+      "mobileId": 230301,
+      "phonetic": "たけがさ",
+      "word": "竹笠"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4a818d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nón (mũ) đan; nón (mũ) bện bằng dây"
+        }
+      ],
+      "mobileId": 12169,
+      "phonetic": "あみかさ",
+      "related_words": {
+        "word": [
+          "編",
+          "笠",
+          "編み"
+        ]
+      },
+      "word": "編み笠"
+    },
+    {
+      "_id": "432518852de0a80625d585a982521bbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "limpet (esp. species Cellana mazatlandica)"
+        }
+      ],
+      "mobileId": 234229,
+      "phonetic": "かさがい カサガイ",
+      "word": "笠貝"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bd46b5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "conical wicker hat"
+        }
+      ],
+      "mobileId": 246615,
+      "phonetic": "あじろがさ",
+      "word": "網代笠"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad6e753",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "conical hat (East-Asian style), coolie hat"
+        }
+      ],
+      "mobileId": 230303,
+      "phonetic": "かぶりがさ",
+      "word": "かぶり笠"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd1e146",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cap cloud (cloud shaped like an Asian bamboo hat that forms at the peak of a tall mountain)"
+        }
+      ],
+      "mobileId": 221910,
+      "phonetic": "かさぐも",
+      "word": "笠雲"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

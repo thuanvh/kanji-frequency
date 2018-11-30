@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f14721d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "スペクトルに弱いヘリウム線を持つ星",
+              "mean": "Các vì sao có các tuyến Heli yếu trong quang phổ",
+              "transcription": "スペクトルによわいヘリウムせんをもつほし"
+            },
+            {
+              "content": "他の星々に対する太陽の運動",
+              "mean": "Mặt trời chuyển động quanh các vì sao",
+              "transcription": "たのほし々にたいするたいようのうんどう"
+            }
+          ],
+          "kind": "n",
+          "mean": "sao"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tinh cầu ."
+        }
+      ],
+      "mobileId": 185271,
+      "phonetic": "ほし",
+      "related_words": {
+        "word": [
+          "惑星",
+          "流れ星",
+          "彗星",
+          "星座",
+          "人工衛星",
+          "流星",
+          "火星",
+          "星空",
+          "金星",
+          "星屑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "星",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "スター"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "星"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68371971",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngôi sao bạn"
+        }
+      ],
+      "mobileId": 1796,
+      "phonetic": "ともぼし",
+      "word": "伴星"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d32d8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngôi sao; dấu sao"
+        }
+      ],
+      "mobileId": 6744,
+      "phonetic": "ほししるし",
+      "related_words": {
+        "word": [
+          "星",
+          "印"
+        ]
+      },
+      "word": "星印"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a57c2df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "protostar"
+        }
+      ],
+      "mobileId": 226217,
+      "phonetic": "げんしせい",
+      "word": "原始星"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a399ea2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "starspotted smooth-hound (species of hound shark, Mustelus manazo)"
+        }
+      ],
+      "mobileId": 225252,
+      "phonetic": "ほしざめ ホシザメ",
+      "word": "星鮫"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca057b7aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "homeworld, home planet, mother planet"
+        }
+      ],
+      "mobileId": 283781,
+      "phonetic": "ぼせい",
+      "word": "母星"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9566eb8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thiên văn học"
+        }
+      ],
+      "mobileId": 59381,
+      "phonetic": "ほしがく",
+      "word": "星学"
+    },
+    {
+      "_id": "432518852de0a80625d585a982261fe7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese \"Heart\" constellation (one of the 28 mansions)"
+        }
+      ],
+      "mobileId": 232828,
+      "phonetic": "なかごぼし",
+      "word": "中子星"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822f4457",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stars, the stars and planets, celestial bodies"
+        }
+      ],
+      "mobileId": 233122,
+      "phonetic": "ほしぼし",
+      "related_words": {
+        "word": [
+          "星"
+        ]
+      },
+      "word": "星々"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08e1a65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Alcor, the Little Horseman star"
+        }
+      ],
+      "mobileId": 211410,
+      "phonetic": "ほせい",
+      "word": "輔星"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

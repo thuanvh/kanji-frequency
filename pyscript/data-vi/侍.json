@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7db04377",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "その侍は鋭い刀を抜いて戦いに備えた",
+              "mean": "Các võ sĩ rút kiếm sẵn sàng chiến đấu",
+              "transcription": "そのさむらいはするどいかたなをぬいてたたかいにそなえた"
+            },
+            {
+              "content": "実際過去に、体力そして精神力を高める方法として、侍によって実践されました。",
+              "mean": "Thực tế trong quá khứ, nó đã được các Samurai thực hành như một phương pháp để nâng cao thể lực và tinh thần.",
+              "transcription": "じっさいかこに、たいりょくそしてせいしんりょくをたかめるほうほうとして、さむらいによってじっせんされました。"
+            }
+          ],
+          "kind": "n",
+          "mean": "võ sĩ (thời cổ nhật bản); Samurai"
+        }
+      ],
+      "mobileId": 144461,
+      "phonetic": "さむらい",
+      "related_words": {
+        "word": [
+          "侍女"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "侍",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "武者",
+                "武士",
+                "武家",
+                "士"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "武者",
+                "武士",
+                "武家"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "侍"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af54c4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Polyergus samurai (species of amazon ant)"
+        }
+      ],
+      "mobileId": 231276,
+      "phonetic": "さむらいあり サムライアリ",
+      "word": "侍蟻"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4be200",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cowardly, good-for-nothing samurai from the countryside"
+        }
+      ],
+      "mobileId": 250469,
+      "phonetic": "ふなざむらい",
+      "word": "鮒侍"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed950e60a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nữ thị tỳ"
+        }
+      ],
+      "mobileId": 56579,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "侍"
+        ]
+      },
+      "word": "侍婢"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df68c52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người hoặc nhóm người có nhiệm vụ bảo vệ một nhân vật quan trọng; vệ sĩ; đội bảo vệ"
+        }
+      ],
+      "mobileId": 153614,
+      "phonetic": "さむらいまもる",
+      "related_words": {
+        "word": [
+          "侍"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "侍衛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "護衛",
+                "ボディーガード",
+                "エスコート",
+                "警護",
+                "警衛",
+                "用心棒"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "護衛",
+                "ボディーガード",
+                "警護",
+                "用心棒"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "侍衛"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7724cd3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "humble samurai who served as a body guard on foot"
+        }
+      ],
+      "mobileId": 265652,
+      "phonetic": "かちざむらい",
+      "word": "徒侍"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdf801e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "võ sĩ trẻ tuổi"
+        }
+      ],
+      "mobileId": 76671,
+      "phonetic": "わかさむらい",
+      "word": "若侍"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0cfa0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "provincial samurai in the middle ages, who engaged in agriculture in peacetime"
+        }
+      ],
+      "mobileId": 248408,
+      "phonetic": "じざむらい",
+      "word": "地侍"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d69993f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flanking attendant to the main deity of veneration in a temple"
+        }
+      ],
+      "mobileId": 218490,
+      "phonetic": "きょうじ わきじ",
+      "word": "脇侍"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682fe89d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lão bộc, quản gia; người hầu cận, người tuỳ tùng"
+        }
+      ],
+      "mobileId": 1551,
+      "phonetic": "",
+      "word": "陪侍"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

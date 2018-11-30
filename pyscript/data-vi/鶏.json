@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680148ffb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gà ."
+        }
+      ],
+      "mobileId": 42998,
+      "phonetic": "にわとり",
+      "related_words": {
+        "word": [
+          "鶏肉",
+          "鶏卵",
+          "軍鶏",
+          "養鶏",
+          "鶏冠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鶏",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鳥"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "鳥肉",
+                "チキン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鶏"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a29d72",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "parent stock (for chickens), breeder"
+        }
+      ],
+      "mobileId": 286147,
+      "phonetic": "しゅけい",
+      "word": "種鶏"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801496c0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cháo gà ."
+        }
+      ],
+      "mobileId": 43006,
+      "phonetic": "にわとりかゆ",
+      "word": "鶏粥"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4b97c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chicken leg"
+        }
+      ],
+      "mobileId": 250461,
+      "phonetic": "けいそく",
+      "word": "鶏足"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95591e0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đặt gà mái"
+        }
+      ],
+      "mobileId": 58937,
+      "phonetic": "すにわとり",
+      "related_words": {
+        "word": [
+          "鶏",
+          "巣"
+        ]
+      },
+      "word": "巣鶏"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86deff7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tụ tập (của) những gà"
+        }
+      ],
+      "mobileId": 37025,
+      "phonetic": "にわとりぐん",
+      "word": "鶏群"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7769d22e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "corn (on one's foot)"
+        }
+      ],
+      "mobileId": 267880,
+      "phonetic": "けいがん",
+      "word": "鶏眼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778f6318",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dish of seasoned chicken with rice, pickles, etc. (from Kagoshima and Okinawa)"
+        }
+      ],
+      "mobileId": 269107,
+      "phonetic": "けいはん ケーファン",
+      "word": "鶏飯"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de5a3b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chicken bones, chicken carcass"
+        }
+      ],
+      "mobileId": 222553,
+      "phonetic": "とりがら とりガラ",
+      "related_words": {
+        "word": [
+          "鶏",
+          "がら"
+        ]
+      },
+      "word": "鶏がら"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df0384a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chicken meat, white meat"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "yellow-winged-chicken"
+        }
+      ],
+      "mobileId": 222892,
+      "phonetic": "かしわ",
+      "word": "黄鶏"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

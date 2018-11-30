@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7556e9f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tội ác ."
+        }
+      ],
+      "mobileId": 108114,
+      "phonetic": "つみ",
+      "synsets": [
+        {
+          "base_form": "辜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "辟",
+                "犯行",
+                "事犯",
+                "罪科",
+                "重犯",
+                "罪",
+                "罪過",
+                "刑事犯",
+                "重罪",
+                "犯罪"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "罪科",
+                "罪業",
+                "罪",
+                "罪悪",
+                "罪過",
+                "不浄",
+                "不善"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "辜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

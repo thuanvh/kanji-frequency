@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f7495d624",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "そもそも、どうしてそのようなアイデアを思い付かれたのですか",
+              "mean": "điều gì khiến bạn có ý tưởng đó ngay từ ban đầu?",
+              "transcription": "そもそも、どうしてそのようなアイデアをおもいつかれたのですか"
+            },
+            {
+              "content": "そもそも根本から考え違いをしているよ。",
+              "mean": "Bạn đã suy nghĩ sai ngay từ cái cơ bản rồi.",
+              "transcription": "そもそもこんぽんからかんがえちがいをしているよ。"
+            }
+          ],
+          "kind": "n-adv",
+          "mean": "đầu tiên; ngay từ ban đầu"
+        },
+        {
+          "examples": null,
+          "kind": "n-adv",
+          "mean": "そもそもの始めから:ngay từ ban đầu"
+        },
+        {
+          "examples": null,
+          "kind": "n-adv",
+          "mean": "そもそもの最初に:ngay từ lúc đầu"
+        },
+        {
+          "examples": [
+            {
+              "content": "不安定さのそもそもの原因",
+              "mean": "nguyên nhân gốc rễ của sự bất ổn định",
+              "transcription": "ふあんていさのそもそものげんいん"
+            }
+          ],
+          "kind": "n-adv",
+          "mean": "gốc rễ"
+        },
+        {
+          "examples": null,
+          "kind": "n-adv",
+          "mean": "trước tiên; trước hết ."
+        }
+      ],
+      "mobileId": 99661,
+      "opposite_word": [
+        "揚"
+      ],
+      "phonetic": "そもそも",
+      "word": "抑"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9eb32a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thất vọng; sự buồn chán"
+        }
+      ],
+      "mobileId": 73865,
+      "phonetic": "",
+      "word": "抑鬱"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9058d15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "weed suppression (by mulching, etc.)"
+        }
+      ],
+      "mobileId": 272939,
+      "phonetic": "よくそう",
+      "word": "抑草"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

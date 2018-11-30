@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568013d7071",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "人格高潔な男性",
+              "mean": "một người đàn ông có nhân cách cao quí .",
+              "transcription": "じんかくこうけつなだんせい"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "cao quí"
+        }
+      ],
+      "mobileId": 42794,
+      "opposite_word": [
+        "卑劣"
+      ],
+      "phonetic": "こうけつ",
+      "word": "高潔"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

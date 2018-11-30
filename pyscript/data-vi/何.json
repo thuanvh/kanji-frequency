@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7da6d3b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn, adj-no",
+          "mean": "cái gì"
+        }
+      ],
+      "mobileId": 144283,
+      "phonetic": "なに",
+      "related_words": {
+        "word": [
+          "何時",
+          "何も",
+          "何か",
+          "何でも",
+          "何ですか？",
+          "何処",
+          "何度も",
+          "如何して",
+          "如何",
+          "何故"
+        ]
+      },
+      "word": "何"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7da6dbdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, int",
+          "mean": "cái gì ."
+        }
+      ],
+      "mobileId": 144284,
+      "phonetic": "なん",
+      "related_words": {
+        "word": [
+          "何時",
+          "何も",
+          "何か",
+          "何でも",
+          "何ですか？",
+          "何処",
+          "何度も",
+          "如何して",
+          "如何",
+          "何故"
+        ]
+      },
+      "word": "何"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7da7b04c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái nào cái nào ."
+        }
+      ],
+      "mobileId": 144305,
+      "phonetic": "どれどれ",
+      "related_words": {
+        "word": [
+          "何"
+        ]
+      },
+      "word": "何何"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8933a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "int",
+          "mean": "It's nothing!, Don't mention it!"
+        }
+      ],
+      "mobileId": 227781,
+      "phonetic": "なんのなんの",
+      "word": "何の何の"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cead34",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp",
+          "mean": "bất cứ điều gì và mọi thứ, từ đầu đến chân, từ A đến Z"
+        }
+      ],
+      "mobileId": 213512,
+      "phonetic": "なにからなにまで",
+      "word": "何から何まで"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8f0791",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn, n-adv",
+          "mean": "không cùng nhau; thành người riêng, vật tách riêng ra"
+        }
+      ],
+      "mobileId": 14327,
+      "phonetic": "なんじなんじ",
+      "related_words": {
+        "word": [
+          "時",
+          "何",
+          "何時"
+        ]
+      },
+      "word": "何時何時"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf7e153",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "at what time?, when?"
+        }
+      ],
+      "mobileId": 247742,
+      "phonetic": "なんじなんぷん",
+      "word": "何時何分"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca084f57e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "what date?, what's the date?, when?"
+        }
+      ],
+      "mobileId": 285188,
+      "phonetic": "なんがつなんにち",
+      "word": "何月何日"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed598db",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(không) một"
+        }
+      ],
+      "mobileId": 117853,
+      "phonetic": "なにひとつ",
+      "word": "何ひとつ"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900edc1553",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bao nhiêu tháng?, mấy tháng?"
+        }
+      ],
+      "mobileId": 118038,
+      "phonetic": "なんかげつ",
+      "word": "何か月"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d17a303",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "said, matter in question"
+        }
+      ],
+      "mobileId": 215860,
+      "phonetic": "がい",
+      "word": "該"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0a3f78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the said person, the target (person)"
+        }
+      ],
+      "mobileId": 215423,
+      "phonetic": "がいし",
+      "word": "該氏"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c0fb8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vấn đề trong câu hỏi; nói vấn đề"
+        }
+      ],
+      "mobileId": 24023,
+      "phonetic": "",
+      "word": "該問題"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ba6ae0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nói đề nghị"
+        }
+      ],
+      "mobileId": 23827,
+      "phonetic": "",
+      "word": "該案"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

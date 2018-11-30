@@ -1,0 +1,333 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107ee5658",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "2 度あることは 3 度ある",
+              "mean": "có 2 lần thì cũng có 3 lần (=Họa vô đơn chí)",
+              "transcription": "2どあることは3どある"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "lần"
+        }
+      ],
+      "mobileId": 55828,
+      "phonetic": "ど",
+      "related_words": {
+        "word": [
+          "今度",
+          "もう一度",
+          "精度",
+          "温度",
+          "程度",
+          "年度",
+          "密度",
+          "角度",
+          "一度",
+          "再度"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "度",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "度合",
+                "程",
+                "レヴェル",
+                "次元",
+                "水準",
+                "レベル",
+                "程度"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "とき",
+                "時",
+                "回",
+                "折"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "段階",
+                "水準",
+                "レベル",
+                "程度"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "度"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107ee480a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この写真を見る度ははのことを思い出す",
+              "mean": "mỗi lần nhìn tấm ảnh này tôi lại nhớ mẹ",
+              "transcription": "このしゃしんをみるたびははのことをおもいだす"
+            }
+          ],
+          "kind": "n, n-suf, ctr",
+          "mean": "lần; độ"
+        }
+      ],
+      "mobileId": 55827,
+      "phonetic": "たび",
+      "related_words": {
+        "word": [
+          "今度",
+          "もう一度",
+          "精度",
+          "温度",
+          "程度",
+          "年度",
+          "密度",
+          "角度",
+          "一度",
+          "再度"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "度",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "度合",
+                "程",
+                "レヴェル",
+                "次元",
+                "水準",
+                "レベル",
+                "程度"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "とき",
+                "時",
+                "回",
+                "折"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "段階",
+                "水準",
+                "レベル",
+                "程度"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "度"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77df5f64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-adv",
+          "mean": "three times a day (of meals)"
+        }
+      ],
+      "mobileId": 271722,
+      "phonetic": "さんどさんど",
+      "word": "三度三度"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee3b4e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lần nữa và lần nữa"
+        }
+      ],
+      "mobileId": 118293,
+      "phonetic": "にどさんど",
+      "related_words": {
+        "word": [
+          "度",
+          "三",
+          "二",
+          "二度"
+        ]
+      },
+      "word": "二度三度"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e816ab74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự uốn cong; sự bị uốn cong; sự vẹo, độ cong"
+        }
+      ],
+      "mobileId": 34221,
+      "phonetic": "きょくど",
+      "word": "曲度"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87258cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dốc, đường dốc; độ dốc, Graddien"
+        }
+      ],
+      "mobileId": 37169,
+      "phonetic": "けいしゃど",
+      "related_words": {
+        "word": [
+          "度",
+          "傾斜"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "傾斜度",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "勾配",
+                "傾き",
+                "傾斜"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "傾斜度"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937207f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự có thể nghe thấy, độ nghe rõ, giới hạn nghe"
+        }
+      ],
+      "mobileId": 21552,
+      "phonetic": "かちょうど",
+      "related_words": {
+        "word": [
+          "度",
+          "可"
+        ]
+      },
+      "word": "可聴度"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3136ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính ác, tính thâm hiểm; ác tâm, ác ý, tính độc hại, ác tính"
+        }
+      ],
+      "mobileId": 11364,
+      "phonetic": "あくせいど",
+      "related_words": {
+        "word": [
+          "性",
+          "度",
+          "悪",
+          "悪性"
+        ]
+      },
+      "word": "悪性度"
+    },
+    {
+      "_id": "432518852de0a80625d585a9827872b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "opacity"
+        }
+      ],
+      "mobileId": 235433,
+      "phonetic": "くもりど",
+      "word": "曇度"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed956581e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đúng đắn, sự chính xác; độ chính xác"
+        }
+      ],
+      "mobileId": 59338,
+      "phonetic": "せいかくど",
+      "related_words": {
+        "word": [
+          "正確",
+          "度",
+          "正",
+          "確"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "正確度",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "精度",
+                "真実性",
+                "正確",
+                "正確さ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "精度",
+                "正確さ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "正確度"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

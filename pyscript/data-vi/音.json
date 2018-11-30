@@ -1,0 +1,501 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568010c5dd4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "勉強中だからうるさい音を立てないでください。",
+              "mean": "Tôi đang học, đừng có gây tiếng động ồn ào.",
+              "transcription": "べんきょうちゅうだからうるさいおとをたてないでください。"
+            },
+            {
+              "content": "バイオリンは高い音を出し，コントラバスは低い音を出す。",
+              "mean": "Đàn violon phát ra âm thanh cao, còn đàn Contrebass phát ra âm thanh thấp.",
+              "transcription": "バイオリンはたかいおとをだし，コントラバスはひくいおとをだす。"
+            },
+            {
+              "content": "雷の音が遠くで聞こえる。",
+              "mean": "Âm thanh của tiếng sấm có thể nghe thấy từ xa.",
+              "transcription": "かみなりのおとがとおくできこえる。"
+            },
+            {
+              "content": "あの鐘はひびが入ったような音がする。",
+              "mean": "Cái chuông này có âm thanh nghe như là có vết nứt.",
+              "transcription": "あのかねはひびがはいったようなおとがする。"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "âm thanh; tiếng động"
+        },
+        {
+          "examples": [
+            {
+              "content": "音（波）の流れを妨げる",
+              "mean": "cản sóng âm thanh",
+              "transcription": "おと（なみ）のながれをさまたげる"
+            },
+            {
+              "content": "カタカタ(ガタンゴトン)という音（を立てる）",
+              "mean": "âm Katakana",
+              "transcription": "カタカタ( ガタンゴトン )というおと（をたてる）"
+            },
+            {
+              "content": "最低音（の)",
+              "mean": "âm tối thiểu",
+              "transcription": "さいていおん（の)"
+            },
+            {
+              "content": "四分音（の)(ギリシア音階で)",
+              "mean": "âm (thanh) tứ phía",
+              "transcription": "よんふんおん（の)(ギリシアおんかいで)"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "âm; âm thanh"
+        }
+      ],
+      "mobileId": 41976,
+      "opposite_word": [
+        "訓"
+      ],
+      "phonetic": "おと",
+      "related_words": {
+        "word": [
+          "音楽",
+          "発音",
+          "音声",
+          "効果音",
+          "騒音",
+          "音符",
+          "本音",
+          "録音",
+          "音色",
+          "音量"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "音",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "音響",
+                "音声",
+                "響",
+                "響き",
+                "サウンド"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雑音",
+                "ノイズ",
+                "物音",
+                "どよめき"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "音響",
+                "音声",
+                "響",
+                "物音",
+                "響き",
+                "サウンド",
+                "声"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "語調",
+                "音質",
+                "語気",
+                "口調",
+                "響き",
+                "トーン",
+                "音調",
+                "調子",
+                "音色",
+                "アクセント"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "音声"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "音声",
+                "サウンド"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "音"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010c9e1a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "はっきり聞こえる信号（音）",
+              "mean": "âm rõ ràng",
+              "transcription": "はっきりきこえるしんごう（おと）"
+            },
+            {
+              "content": "電話（の音）",
+              "mean": "Tiếng điện thoại reo",
+              "transcription": "でんわ（のおと）"
+            },
+            {
+              "content": "火災警報（連続ベル音）が聞こえたら直ちに一番近い避難経路から建物の外に出てください",
+              "mean": "Nếu nghe thấy (tiếng chuông kêu liên tục) báo động hỏa hoạn thì ngay lập tức rời khỏi tòa nhà theo đường lánh nạn gần nhất",
+              "transcription": "かさいけいほう（れんぞくベルおん）がきこえたらただちにいちばんちかいひなんけいろからたてもののそとにでてください"
+            },
+            {
+              "content": "はっきり聞こえる信号（音）",
+              "mean": "âm rõ ràng",
+              "transcription": "はっきりきこえるしんごう（おと）"
+            }
+          ],
+          "kind": "n",
+          "mean": "âm thanh; tiếng; tiếng động"
+        },
+        {
+          "examples": [
+            {
+              "content": "電話（の呼び出し音）でぶち壊される",
+              "mean": "Bị giật mình bởi tiếng điện thoại gọi đến",
+              "transcription": "でんわ（のよびだしおん）でぶちこわされる"
+            },
+            {
+              "content": "もっと大きな音で拍手！もっと大きな音！もっと！",
+              "mean": "Hãy vỗ tay to hơn nữa! To hơn nữa nào!",
+              "transcription": "もっとおおきなおとではくしゅ！もっとおおきなおと！もっと！"
+            },
+            {
+              "content": "黒板をこするチョーク（の音）",
+              "mean": "Tiếng phấn viết trên bảng đen",
+              "transcription": "こくばんをこするチョーク（のおと）"
+            },
+            {
+              "content": "隣で眠る人の安らかな呼吸（音）が聞こえる",
+              "mean": "Có thể nghe thấy tiếng thở đều đều của người đang ngủ bên cạnh",
+              "transcription": "となりでねむるひとのやすらかなこきゅう（おと）がきこえる"
+            }
+          ],
+          "kind": "n-suf",
+          "mean": "âm; tiếng; tiếng động"
+        }
+      ],
+      "mobileId": 41977,
+      "opposite_word": [
+        "訓"
+      ],
+      "phonetic": "おん",
+      "related_words": {
+        "word": [
+          "音楽",
+          "発音",
+          "音声",
+          "効果音",
+          "騒音",
+          "音符",
+          "本音",
+          "録音",
+          "音色",
+          "音量"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "音",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "音響",
+                "音声",
+                "響",
+                "響き",
+                "サウンド"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雑音",
+                "ノイズ",
+                "物音",
+                "どよめき"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "音響",
+                "音声",
+                "響",
+                "物音",
+                "響き",
+                "サウンド",
+                "声"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "語調",
+                "音質",
+                "語気",
+                "口調",
+                "響き",
+                "トーン",
+                "音調",
+                "調子",
+                "音色",
+                "アクセント"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "音声"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "音声",
+                "サウンド"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "音"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010cab54",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "お寺の鐘の音を聞くと心が穏やかになる",
+              "mean": "Nghe tiếng chuông chùa thấy tâm hồn trở nên lắng đọng.",
+              "transcription": "おてらのかねのおとをきくとこころがおだやかになる"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "âm thanh"
+        }
+      ],
+      "mobileId": 41978,
+      "opposite_word": [
+        "訓"
+      ],
+      "phonetic": "ね",
+      "related_words": {
+        "word": [
+          "音楽",
+          "発音",
+          "音声",
+          "効果音",
+          "騒音",
+          "音符",
+          "本音",
+          "録音",
+          "音色",
+          "音量"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "音",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "音響",
+                "音声",
+                "響",
+                "響き",
+                "サウンド"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雑音",
+                "ノイズ",
+                "物音",
+                "どよめき"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "音響",
+                "音声",
+                "響",
+                "物音",
+                "響き",
+                "サウンド",
+                "声"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "語調",
+                "音質",
+                "語気",
+                "口調",
+                "響き",
+                "トーン",
+                "音調",
+                "調子",
+                "音色",
+                "アクセント"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "音声"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "音声",
+                "サウンド"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "音"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5d70ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "transliteration"
+        }
+      ],
+      "mobileId": 226394,
+      "phonetic": "おんしゃ",
+      "word": "音写"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8fc0d29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "âm thanh tổng hợp"
+        }
+      ],
+      "mobileId": 41590,
+      "phonetic": "ごうせいおん",
+      "word": "合成音"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05ed583",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sound field"
+        }
+      ],
+      "mobileId": 284006,
+      "phonetic": "おんじょう おんば",
+      "word": "音場"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68115466",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tín hiệu âm thanh (VD tiếng bíp bíp trong điện thoại)"
+        }
+      ],
+      "mobileId": 568,
+      "phonetic": "はっしんおん",
+      "related_words": {
+        "word": [
+          "音",
+          "発信",
+          "信",
+          "発"
+        ]
+      },
+      "word": "発信音"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a02463d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(prior to the advent of kana) kanji used to represent readings of words, selected for their on-yomi, regardless of meaning"
+        }
+      ],
+      "mobileId": 223477,
+      "phonetic": "おんがな",
+      "word": "音仮名"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0268d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(of Chinese) pronunciation of kanji without a medial between the initial consonant and center vowel"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(of Japanese) the long \"o\" vowel arising from combination of the \"a\" and \"u\" sounds"
+        }
+      ],
+      "mobileId": 223482,
+      "phonetic": "かいこうおん",
+      "word": "開口音"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a027daa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "long \"o\" vowel arising from combination of the \"o\" and \"u\" or \"e\" and \"u\" sounds"
+        }
+      ],
+      "mobileId": 223485,
+      "phonetic": "ごうおん",
+      "word": "合音"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

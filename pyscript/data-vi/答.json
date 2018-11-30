@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af6f27a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "正しい答えが言えたのは僕だけ",
+              "mean": "có câu trả lời đúng chỉ có tôi mà thôi. .",
+              "transcription": "ただしいこたえがいえたのはぼくだけ"
+            }
+          ],
+          "kind": "n",
+          "mean": "câu trả lời"
+        }
+      ],
+      "mobileId": 174373,
+      "opposite_word": [
+        "問"
+      ],
+      "phonetic": "こたえ",
+      "word": "答"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5c443e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cạnh giường, trông nom chăm sóc ai bên giường bệnh, ân cần khéo léo đối với người bệnh (y tá, bác sĩ)"
+        }
+      ],
+      "mobileId": 113987,
+      "phonetic": "ちんこたえ",
+      "word": "珍答"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7745028c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "clear answer, definite answer"
+        }
+      ],
+      "mobileId": 266686,
+      "phonetic": "けっとう",
+      "word": "決答"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68752652",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự trả lời, sự đáp lại, sự hưởng ứng, sự phản ứng lại; vận động phản ứng lại, responsory"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "câu trả lời, lời đáp, trả lời, đáp lại"
+        }
+      ],
+      "mobileId": 3734,
+      "phonetic": "ふくこたえ",
+      "word": "復答"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0280c2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2h-s, vi",
+          "mean": "to answer, to reply"
+        }
+      ],
+      "mobileId": 190452,
+      "phonetic": "こたう",
+      "word": "答ふ"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d07d55b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự trả lời sai (nhầm), câu trả lời sai"
+        }
+      ],
+      "mobileId": 146000,
+      "opposite_word": [
+        "正答"
+      ],
+      "phonetic": "あやまこたえ",
+      "word": "誤答"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd419d5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lầm lỗi; sự sai lầm ngớ ngẩn"
+        }
+      ],
+      "mobileId": 70881,
+      "phonetic": "めい とう",
+      "word": "迷答"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c826cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "replying, responding"
+        }
+      ],
+      "mobileId": 270928,
+      "phonetic": "はいとう",
+      "word": "拝答"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c05b78ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "catarrh"
+        }
+      ],
+      "mobileId": 201560,
+      "phonetic": "カタル",
+      "word": "加答児"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d78afda",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "responsorial psalm"
+        }
+      ],
+      "mobileId": 218973,
+      "phonetic": "とうしょうしへん",
+      "word": "答唱詩編"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

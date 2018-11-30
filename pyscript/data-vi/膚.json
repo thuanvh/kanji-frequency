@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680f244c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(1) da; lớp da ngoài;(2) tính khí; thiên hướng (của) ai đó"
+        }
+      ],
+      "mobileId": 497,
+      "phonetic": "はだ",
+      "word": "膚"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd77a5bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bề mặt của núi (đồi) trọc"
+        }
+      ],
+      "mobileId": 72561,
+      "phonetic": "やまはだ",
+      "word": "山膚"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1fa5b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ilex macropoda (species of holly common in Japan)"
+        }
+      ],
+      "mobileId": 216124,
+      "phonetic": "あおはだ アオハダ",
+      "word": "青膚"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8c8824",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tuyết rơi có bề mặt; da trắng như tuyết"
+        }
+      ],
+      "mobileId": 73276,
+      "phonetic": "ゆきはだ",
+      "word": "雪膚"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280276ad1b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thân thể ."
+        }
+      ],
+      "mobileId": 30886,
+      "phonetic": "はだみ",
+      "related_words": {
+        "word": [
+          "身"
+        ]
+      },
+      "word": "膚身"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680f6ceb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chạm nhau (của); cảm xúc (của)"
+        }
+      ],
+      "mobileId": 507,
+      "phonetic": "はださわり",
+      "synsets": [
+        {
+          "base_form": "膚触り",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "肌触り",
+                "手触り",
+                "触感",
+                "感触",
+                "タッチ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "膚触り"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd02b1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hai phần thân"
+        }
+      ],
+      "mobileId": 75432,
+      "phonetic": "りょうはだ",
+      "word": "両膚"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ed6fe4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bóc vỏ"
+        }
+      ],
+      "mobileId": 25447,
+      "phonetic": "はだはだ",
+      "word": "肌膚"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd620a6c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cả hai vai"
+        }
+      ],
+      "mobileId": 71894,
+      "phonetic": "しょはだ",
+      "word": "諸膚"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2f4733",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "da cá mập"
+        }
+      ],
+      "mobileId": 147226,
+      "phonetic": "さめはだ",
+      "word": "鮫膚"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

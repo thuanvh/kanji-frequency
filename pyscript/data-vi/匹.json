@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada62a048",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "con"
+        },
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "tấm"
+        }
+      ],
+      "mobileId": 78605,
+      "phonetic": "ひつ",
+      "related_words": {
+        "word": [
+          "一匹",
+          "匹敵"
+        ]
+      },
+      "word": "匹"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada628310",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "魚二匹",
+              "mean": "hai con cá",
+              "transcription": "さかなにひき"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "con"
+        },
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "tấm"
+        }
+      ],
+      "mobileId": 78604,
+      "phonetic": "ひき",
+      "related_words": {
+        "word": [
+          "一匹",
+          "匹敵"
+        ]
+      },
+      "word": "匹"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8d717b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(số đếm) một con vật"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "two-tbolt of cloth"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one (small) animal"
+        }
+      ],
+      "mobileId": 14281,
+      "phonetic": "いちひき",
+      "related_words": {
+        "word": [
+          "一",
+          "匹"
+        ]
+      },
+      "word": "一匹"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada62bc4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phụ nữ quê mùa ."
+        }
+      ],
+      "mobileId": 78607,
+      "phonetic": "ひっぷ",
+      "related_words": {
+        "word": [
+          "匹"
+        ]
+      },
+      "word": "匹婦"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95503ad1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vài động vật"
+        }
+      ],
+      "mobileId": 58652,
+      "phonetic": "すうひき",
+      "related_words": {
+        "word": [
+          "数",
+          "匹"
+        ]
+      },
+      "word": "数匹"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9befd61",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "pair, couple (husband and wife)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "friend, comrade"
+        }
+      ],
+      "mobileId": 262382,
+      "phonetic": "ひつぐう",
+      "word": "匹偶"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930e3880",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "là một đấng nam nhi"
+        }
+      ],
+      "mobileId": 18367,
+      "phonetic": "おとこいっぴき",
+      "word": "男一匹"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684a66cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những người đàn ông và phụ nữ thô"
+        }
+      ],
+      "mobileId": 2399,
+      "phonetic": "ひっぷひきふ",
+      "related_words": {
+        "word": [
+          "夫",
+          "匹"
+        ]
+      },
+      "word": "匹夫匹婦"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ea7f19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một hiki (của) tơ"
+        }
+      ],
+      "mobileId": 25343,
+      "phonetic": "きぬいちひき",
+      "word": "絹一匹"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ef9d15",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhiều việc làm về không gì; những núi có mang về phía trước một con chuột (aesop)"
+        }
+      ],
+      "mobileId": 63764,
+      "phonetic": "たいざんめいどうしてねずみいちひき",
+      "word": "泰山鳴動して鼠一匹"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

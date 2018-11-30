@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4d2f71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the art of war, martial arts, military arts"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "military force, the sword"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "valor, bravery"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "military officer, military man"
+        }
+      ],
+      "mobileId": 217555,
+      "opposite_word": [
+        "文"
+      ],
+      "phonetic": "ぶ",
+      "word": "武"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689e8642",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "samurai có dòng dõi"
+        }
+      ],
+      "mobileId": 5029,
+      "phonetic": "たけとい",
+      "related_words": {
+        "word": [
+          "問"
+        ]
+      },
+      "word": "武問"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d62a3d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kemmu era (of unified Japan) (1334.1.29-1336.2.29), Kemmu era (of the Northern Court) (1336.2.29-1338.8.28)"
+        }
+      ],
+      "mobileId": 218262,
+      "phonetic": "けんむ",
+      "word": "建武"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778917e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese parrotfish (Calotomus japonicus)"
+        }
+      ],
+      "mobileId": 268909,
+      "phonetic": "ぶだい ブダイ",
+      "word": "武鯛"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f8e68ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Khoa học quân sự ."
+        }
+      ],
+      "mobileId": 187226,
+      "phonetic": "ぶがく",
+      "word": "武学"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68992f64",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quê mùa; vụng về; cộc lốc"
+        }
+      ],
+      "mobileId": 4857,
+      "phonetic": "たけほね",
+      "related_words": {
+        "word": [
+          "骨"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "武骨",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "粗野",
+                "無礼",
+                "慮外",
+                "無作法",
+                "無遠慮"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "武骨"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ffdbd4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người dũng cảm"
+        }
+      ],
+      "mobileId": 64283,
+      "phonetic": "ぶし",
+      "related_words": {
+        "word": [
+          "し"
+        ]
+      },
+      "word": "武し"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6898d1ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hiệp sĩ đạo; tinh thần thượng võ; sự can đảm; hành động anh hùng"
+        }
+      ],
+      "mobileId": 4845,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "侠"
+        ]
+      },
+      "word": "武侠"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689eee8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xung đột có vũ trang"
+        }
+      ],
+      "mobileId": 5045,
+      "phonetic": "たけりきせん",
+      "related_words": {
+        "word": [
+          "力",
+          "戦",
+          "武力"
+        ]
+      },
+      "word": "武力戦"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c3830c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự huấn luyện quân đội"
+        }
+      ],
+      "mobileId": 39761,
+      "phonetic": "こうたけし",
+      "word": "講武"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

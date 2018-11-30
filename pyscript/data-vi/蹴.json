@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e86a91a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một cú đá; lên một quán rượu với một cú đá"
+        }
+      ],
+      "mobileId": 36920,
+      "phonetic": "けあがり",
+      "word": "蹴上がり"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0058662",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "to kick down, to defeat"
+        }
+      ],
+      "mobileId": 189306,
+      "phonetic": "けおとす",
+      "word": "蹴落とす"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87e6c81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "phân tán cái gì bằng cách đá nó; đánh tan tác (kẻ thù)"
+        }
+      ],
+      "mobileId": 37552,
+      "phonetic": "けちらす",
+      "related_words": {
+        "word": [
+          "散らす"
+        ]
+      },
+      "word": "蹴散らす"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04ddf40",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "threshold (lacking the grooves needed for a sliding door), sill"
+        }
+      ],
+      "mobileId": 283452,
+      "phonetic": "けはなし",
+      "word": "蹴放し"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959b97d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bắt đầu"
+        }
+      ],
+      "mobileId": 61061,
+      "phonetic": "さきけ",
+      "related_words": {
+        "word": [
+          "先"
+        ]
+      },
+      "word": "先蹴"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c028fb88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "to kick free, to kick loose, to kick away"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to kick open (e.g. a sliding door)"
+        }
+      ],
+      "mobileId": 190483,
+      "phonetic": "けはなす",
+      "word": "蹴放す"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de77493",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pulling inside ankle sweep"
+        }
+      ],
+      "mobileId": 222607,
+      "phonetic": "けたぐり",
+      "word": "蹴手繰り"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f229ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ejector (rifle, pistol)"
+        }
+      ],
+      "mobileId": 264007,
+      "phonetic": "しゅうし",
+      "word": "蹴子"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f2367c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ejector housing (rifle, pistol)"
+        }
+      ],
+      "mobileId": 264009,
+      "phonetic": "しゅうしふく",
+      "word": "蹴子覆"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f24990",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ejector mark (on a cartridge)"
+        }
+      ],
+      "mobileId": 264011,
+      "phonetic": "しゅうしこん",
+      "word": "蹴子痕"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

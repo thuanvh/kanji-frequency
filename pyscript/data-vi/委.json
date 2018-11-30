@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ba0d11",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "action committee, executive committee"
+        }
+      ],
+      "mobileId": 270485,
+      "phonetic": "じっこうい",
+      "word": "実行委"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a04d2ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Budget Committee (of the Diet)"
+        }
+      ],
+      "mobileId": 223554,
+      "phonetic": "よさんい",
+      "word": "予算委"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9705b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự từ bỏ (quyền lợi, thuộc tính)"
+        }
+      ],
+      "mobileId": 14581,
+      "phonetic": "いづけ",
+      "related_words": {
+        "word": [
+          "付"
+        ]
+      },
+      "word": "委付"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a2e6a33",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜を取り扱う特別委員会を設立する",
+              "mean": "thành lập một ủy ban đặc biệt để xử lý ~",
+              "transcription": "〜をとりあつかうとくべついいんかいをせつりつする"
+            },
+            {
+              "content": "その問題を調査するために特別委員会を設置する",
+              "mean": "Thành lập một đơn vị đặc biệt để điều tra vụ việc .",
+              "transcription": "そのもんだいをちょうさするためにとくべついいんかいをせっちする"
+            }
+          ],
+          "kind": "n",
+          "mean": "Ủy ban đặc biệt"
+        }
+      ],
+      "mobileId": 171139,
+      "phonetic": "とくべつい",
+      "related_words": {
+        "word": [
+          "特別",
+          "別"
+        ]
+      },
+      "word": "特別委"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a04c403",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Budget Committee of the lower house of the Diet (one half of the yosaniinkai)"
+        }
+      ],
+      "mobileId": 223552,
+      "phonetic": "しゅういんよさんい",
+      "word": "衆院予算委"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10761c289",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "điều khoản từ bỏ ."
+        }
+      ],
+      "mobileId": 53498,
+      "phonetic": "いふやっかん",
+      "word": "委付約款"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0795b2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Venezuela"
+        }
+      ],
+      "mobileId": 210745,
+      "phonetic": "ベネズエラ",
+      "word": "委内瑞拉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0a8fa0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "notice of abandonment (of securities, etc.)"
+        }
+      ],
+      "mobileId": 223738,
+      "phonetic": "いふつうちしょ",
+      "word": "委付通知書"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0a9b37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abandoner (in securities, etc.)"
+        }
+      ],
+      "mobileId": 223739,
+      "phonetic": "いふしゃ",
+      "word": "委付者"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a04c26a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Budget Committee of the upper house of the Diet (one half of the yosaniinkai)"
+        }
+      ],
+      "mobileId": 223551,
+      "phonetic": "さんいんよさんい",
+      "word": "参院予算委"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

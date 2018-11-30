@@ -1,0 +1,293 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d615d9b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あなたがやらなければならない重要な仕事を優先度の高いものから五つ書いてください",
+              "mean": "Anh (chị ) hãy viết ra năm việc quan trọng nhất mà mình phải làm theo thứ tự ưu tiên giảm dần",
+              "transcription": "あなたがやらなければならないじゅうようなしごとをゆうせんどのたかいものからいつつかいてください"
+            },
+            {
+              "content": "五つ星ホテル",
+              "mean": "khách sạn năm sao",
+              "transcription": "いつつぼしホテル"
+            },
+            {
+              "content": "五つ星のレストラン",
+              "mean": "Nhà hàng năm sao",
+              "transcription": "いつつぼしのレストラン"
+            },
+            {
+              "content": "五つの中から一つ選ぶ",
+              "mean": "Chọn một trong năm phương án",
+              "transcription": "いつつのなかからひとつえらぶ"
+            },
+            {
+              "content": "配送方法に関するメッセージ、確かにいただきました。ご要望どおり、お客様のご注文になりました商品は小さい箱五つに分割してお送りします",
+              "mean": "Chúng tôi đã nhận được thông báo về phương pháp vận chuyển. Theo yêu cầu của các ngài, chúng tôi sẽ phân chia hàng hóa mà các ngài đã đặt hàng vào năm hộp nhỏ rồi gửi cho các ngài",
+              "transcription": "はいそうほうほうにかんするメッセージ、たしかにいただきました。ごようぼうどおり、おきゃくさまのごちゅうもんになりましたしょうひんはちいさいはこいつつにぶんかつしておおくりします"
+            }
+          ],
+          "kind": "num",
+          "mean": "năm; số 5"
+        }
+      ],
+      "mobileId": 143149,
+      "phonetic": "ご",
+      "related_words": {
+        "word": [
+          "四捨五入",
+          "五月",
+          "五十",
+          "十五",
+          "五角形",
+          "五里霧中",
+          "五月蝿い",
+          "五感",
+          "五分",
+          "五つ"
+        ]
+      },
+      "word": "五"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d38a25a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "bên trong nhóm lại (của) twos và threes"
+        }
+      ],
+      "mobileId": 147532,
+      "phonetic": "さんさんごご",
+      "related_words": {
+        "word": [
+          "三",
+          "五"
+        ]
+      },
+      "word": "三三五五"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a90bf9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "five-seven-five syllable verse (haiku, senryu, etc.)"
+        }
+      ],
+      "mobileId": 286352,
+      "phonetic": "ごしちご",
+      "word": "五七五"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d091e25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "ngang bằng nhau, ngang ngửa, năm năm"
+        }
+      ],
+      "mobileId": 146042,
+      "phonetic": "ごぶごぶ",
+      "related_words": {
+        "word": [
+          "分",
+          "五",
+          "五分"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "五分五分",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "分け",
+                "タイゲーム",
+                "相子",
+                "引き分け",
+                "タイ",
+                "ドロー",
+                "同点",
+                "五分"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "五分五分"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95161bbe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mười lăm"
+        }
+      ],
+      "mobileId": 56812,
+      "phonetic": "じゅうご",
+      "related_words": {
+        "word": [
+          "十",
+          "五"
+        ]
+      },
+      "word": "十五"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0411d16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the Five Highways (radiating from Edo)"
+        }
+      ],
+      "mobileId": 283051,
+      "phonetic": "ごかいどう",
+      "word": "五街道"
+    },
+    {
+      "_id": "432518852de0a80625d585a982292767",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "five punishments (of the ritsuryo system: light caning, severe caning, imprisonment, exile, death)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "five punishments (of ancient China: tattooing, cutting off the nose, cutting off a leg, castration or confinement, death)"
+        }
+      ],
+      "mobileId": 232936,
+      "phonetic": "ござい",
+      "word": "五罪"
+    },
+    {
+      "_id": "432518852de0a80625d585a982330e2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(in hanafuda) the collection of the five light cards"
+        }
+      ],
+      "mobileId": 233248,
+      "phonetic": "ごこう",
+      "word": "五光"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d61833b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhóm năm người ."
+        }
+      ],
+      "mobileId": 143151,
+      "phonetic": "ごにんぐみ",
+      "related_words": {
+        "word": [
+          "人",
+          "組",
+          "五"
+        ]
+      },
+      "word": "五人組"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d61e1bd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "その病気で＿年以内に死ぬ可能性は五分五分だ",
+              "mean": "khả năng tử vong trong bao nhiêu năm do bệnh đó là năm mươi phần trăm (50 phần trăm)",
+              "transcription": "そのびょうきで＿としいないにしぬかのうせいはごぶごぶだ"
+            },
+            {
+              "content": "助かる見込みは五分五分",
+              "mean": "cơ hội được cứu sống là 50%",
+              "transcription": "たすかるみこみはごぶごぶ"
+            },
+            {
+              "content": "成功する可能性は五分五分",
+              "mean": "khả năng thành công là năm mươi phần trăm",
+              "transcription": "せいこうするかのうせいはごぶごぶ"
+            }
+          ],
+          "kind": "n-adv, n",
+          "mean": "một nửa; năm mươi phần trăm; 50 phần trăm"
+        },
+        {
+          "examples": [
+            {
+              "content": "五分五分と認める",
+              "mean": "chấp nhận sự ngang bằng (năm mươi năm mươi)",
+              "transcription": "ごぶごぶとみとめる"
+            },
+            {
+              "content": "成功できるチャンスは五分五分だ",
+              "mean": "cơ hội thành công cân bằng nhau (năm mươi năm mươi)",
+              "transcription": "せいこうできるチャンスはごぶごぶだ"
+            },
+            {
+              "content": "勝つ可能性は五分五分だ",
+              "mean": "khả năng chiến thắng là ngang bằng, năm mươi năm mươi .",
+              "transcription": "かつかのうせいはごぶごぶだ"
+            }
+          ],
+          "kind": "n-adv, n",
+          "mean": "sự ngang bằng; sự cân bằng; ngang bằng; cân bằng; năm mươi năm mươi"
+        }
+      ],
+      "mobileId": 143155,
+      "phonetic": "ごぶ",
+      "related_words": {
+        "word": [
+          "分",
+          "五",
+          "五分五分"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "五分",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "分け",
+                "タイゲーム",
+                "相子",
+                "引き分け",
+                "五分五分",
+                "タイ",
+                "ドロー",
+                "同点"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "五分"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

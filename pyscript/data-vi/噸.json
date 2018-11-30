@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cddc037a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ton (dài (lâu), anh)"
+        }
+      ],
+      "mobileId": 16723,
+      "phonetic": "えいとん",
+      "word": "英噸"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb3837c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trọng tải, thuế trọng tải, tiền cước, tiền chuyên chở"
+        }
+      ],
+      "mobileId": 116785,
+      "phonetic": "とんすう",
+      "word": "噸数"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d7ea210",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tấn mét ."
+        }
+      ],
+      "mobileId": 143605,
+      "phonetic": "ふつとん",
+      "related_words": {
+        "word": [
+          "仏"
+        ]
+      },
+      "word": "仏噸"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9519d4c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đơn vị trọng lượng"
+        }
+      ],
+      "mobileId": 56928,
+      "phonetic": "じゅうとん",
+      "word": "重噸"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951cfcac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trọng tải trọng tải"
+        }
+      ],
+      "mobileId": 57020,
+      "phonetic": "じゅうりょうとん",
+      "related_words": {
+        "word": [
+          "量",
+          "重量",
+          "重"
+        ]
+      },
+      "word": "重量噸"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d17963c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đo ton"
+        }
+      ],
+      "mobileId": 146493,
+      "phonetic": "さいとん",
+      "word": "才噸"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951d021d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trọng tải trọng tải"
+        }
+      ],
+      "mobileId": 57021,
+      "phonetic": "じゅうりょうとんすう",
+      "related_words": {
+        "word": [
+          "数",
+          "量",
+          "重量",
+          "重"
+        ]
+      },
+      "word": "重量噸数"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

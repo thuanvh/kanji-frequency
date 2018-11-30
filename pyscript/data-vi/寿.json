@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1079ebd29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lời chúc mừng sống lâu; Xin chúc thọ!"
+        },
+        {
+          "examples": [
+            {
+              "content": "（世界）最長寿の人",
+              "mean": "Người sống lâu nhất thế giới",
+              "transcription": "（せかい）さいちょうじゅのひと"
+            },
+            {
+              "content": "世界最長寿のゴリラがいる〔動物園などに〕",
+              "mean": "Có con khỉ đột sống thọ nhất thế giới (trong công viên) .",
+              "transcription": "せかいさいちょうじゅのゴリラがいる〔どうぶつえんなどに〕"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự sống lâu; sự sống thọ; sống lâu; thọ; sống thọ"
+        }
+      ],
+      "mobileId": 54540,
+      "phonetic": "ことぶき",
+      "word": "寿"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c09091ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Geneva"
+        }
+      ],
+      "mobileId": 203297,
+      "phonetic": "ジュネーブ",
+      "word": "寿府"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5ec032",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ninju era (851.4.28-854.11.30)"
+        }
+      ],
+      "mobileId": 218142,
+      "phonetic": "にんじゅ",
+      "word": "仁寿"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d612b46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Juei era (1182.5.27-1184.4.16)"
+        }
+      ],
+      "mobileId": 218215,
+      "phonetic": "じゅえい",
+      "word": "寿永"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a90684a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "111th birthday"
+        }
+      ],
+      "mobileId": 256526,
+      "phonetic": "こうじゅ",
+      "word": "皇寿"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771b92d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "longevity, long life"
+        }
+      ],
+      "mobileId": 265359,
+      "phonetic": "ちんじゅ",
+      "word": "椿寿"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a90678ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "108th birthday"
+        }
+      ],
+      "mobileId": 256525,
+      "phonetic": "ちゃじゅ",
+      "word": "茶寿"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0d61a7",
+      "means": [
+        {
+          "kind": "n",
+          "mean": "Từ chức vì hôn nhân"
+        }
+      ],
+      "mobileId": 248425,
+      "phonetic": "ことぶきたいしゃ",
+      "word": "寿退社"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8edf401",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vt",
+          "mean": "chúc mừng, khen ngợi"
+        }
+      ],
+      "mobileId": 41131,
+      "phonetic": "ことぶきく",
+      "synsets": [
+        {
+          "base_form": "寿く",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "祝う",
+                "寿ぐ"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "寿く"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951db42a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lễ mừng thọ, lễ chúc thọ"
+        }
+      ],
+      "mobileId": 57040,
+      "phonetic": "ことぶきが",
+      "word": "寿賀"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

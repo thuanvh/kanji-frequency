@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a5745d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "一つ、もう出来上がっちゃった。かえる君なの?",
+              "mean": "anh đã làm xong một cái rồi. Sao cậu ếch thế?",
+              "transcription": "ひとつ、もうできあがっちゃった。かえるきみなの?"
+            },
+            {
+              "content": "アハハ！おかしいや！パパ、かえるみたい",
+              "mean": "a ha ha, buồn cười chưa kìa, bố trông giống như con ếch ấy",
+              "transcription": "アハハ！おかしいや！パパ、かえるみたい"
+            },
+            {
+              "content": "あふれかえるほどの失業者の数",
+              "mean": "số người thất nghiệp nhiều hơn cả ếch lúc trời mưa .",
+              "transcription": "あふれかえるほどのしつぎょうしゃのかず"
+            }
+          ],
+          "kind": "n",
+          "mean": "con ếch; ếch"
+        }
+      ],
+      "mobileId": 31999,
+      "phonetic": "かえる",
+      "related_words": {
+        "word": [
+          "蛙の子は蛙"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "蛙",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蝦"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蛙"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a98e762",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toad with wart-covered skin (esp. the Japanese toad or the wrinkled frog)"
+        }
+      ],
+      "mobileId": 228282,
+      "phonetic": "いぼがえる イボガエル",
+      "word": "疣蛙"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02ae999",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frog calling"
+        }
+      ],
+      "mobileId": 282318,
+      "phonetic": "あめい",
+      "word": "蛙鳴"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96fbf9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Namiye's frog (Limnonectes namiyei)"
+        }
+      ],
+      "mobileId": 276293,
+      "phonetic": "なみえがえる ナミエガエル",
+      "word": "波江蛙"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96fd524",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Holst's frog (Rana holsti)"
+        }
+      ],
+      "mobileId": 276296,
+      "phonetic": "ホルストがえる ホルストガエル",
+      "word": "ホルスト蛙"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94cbb7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Oriental fire-bellied toad (Bombina orientalis)"
+        }
+      ],
+      "mobileId": 258745,
+      "phonetic": "すずがえる スズガエル",
+      "word": "鈴蛙"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933dc6f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "` như cha, như con trai ’"
+        }
+      ],
+      "mobileId": 19898,
+      "phonetic": "かえるのこはかえる",
+      "related_words": {
+        "word": [
+          "の",
+          "子",
+          "蛙"
+        ]
+      },
+      "word": "蛙の子は蛙"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd45aabe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bắt frog (con cóc) trốn lên cây"
+        }
+      ],
+      "mobileId": 12017,
+      "phonetic": "",
+      "word": "蛙黽"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933dea93",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "uốn cong làm bằng gỗ hỗ trợ ở trên (của) chùm (tia) chính (của) một cái nhà, bây giờ chủ yếu; trang trí (hình dạng evocates một frog mở - chân)"
+        }
+      ],
+      "mobileId": 19902,
+      "phonetic": "かえるまた",
+      "word": "蛙又"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1076aef3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhái ."
+        }
+      ],
+      "mobileId": 53681,
+      "phonetic": "こかえる",
+      "word": "子蛙"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

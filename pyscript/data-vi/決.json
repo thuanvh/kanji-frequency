@@ -1,0 +1,241 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8821fc4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyết định; lá phiếu"
+        }
+      ],
+      "mobileId": 37665,
+      "phonetic": "けつ",
+      "word": "決"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e880d9f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước tràn do vỡ đê"
+        }
+      ],
+      "mobileId": 37624,
+      "phonetic": "けっすい",
+      "word": "決水"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eaeec1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quyết định; thỏa thuận"
+        }
+      ],
+      "mobileId": 116641,
+      "phonetic": "とけっ",
+      "synsets": [
+        {
+          "base_form": "取決",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "申し合わせ",
+                "合意",
+                "取り決め",
+                "アグリーメント",
+                "協定",
+                "契約",
+                "約定",
+                "議定",
+                "申合せ",
+                "約束"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "申し合わせ",
+                "合意",
+                "規約",
+                "調和",
+                "承引",
+                "取り決め",
+                "アグリーメント",
+                "納得",
+                "協定",
+                "賛成",
+                "契約",
+                "一致",
+                "合点",
+                "合致",
+                "承知の幕",
+                "承允",
+                "約定",
+                "議定",
+                "同感",
+                "申合せ",
+                "承認",
+                "約束"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "申し合わせ",
+                "合意",
+                "規約",
+                "調和",
+                "承引",
+                "取り決め",
+                "アグリーメント",
+                "納得",
+                "協定",
+                "賛成",
+                "契約",
+                "一致",
+                "合点",
+                "承知",
+                "合致",
+                "承知の幕",
+                "承允",
+                "約定",
+                "議定",
+                "承諾",
+                "同意",
+                "同感",
+                "申合せ",
+                "承認",
+                "約束"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "合意",
+                "取り決め",
+                "アグリーメント",
+                "協定",
+                "約定"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "取決"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a1e6ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự khảo sát và quyết định"
+        }
+      ],
+      "mobileId": 23052,
+      "phonetic": "かんけっ",
+      "related_words": {
+        "word": [
+          "勘"
+        ]
+      },
+      "word": "勘決"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad19ada",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bí quyết ."
+        }
+      ],
+      "mobileId": 173810,
+      "phonetic": "ひけつ",
+      "word": "秘決"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7745028c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "clear answer, definite answer"
+        }
+      ],
+      "mobileId": 266686,
+      "phonetic": "けっとう",
+      "word": "決答"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193568aa9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thừa nhận có điều kiện"
+        }
+      ],
+      "mobileId": 20667,
+      "phonetic": "かりけっ",
+      "related_words": {
+        "word": [
+          "仮"
+        ]
+      },
+      "word": "仮決"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd7fd2d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tính quyết định, tính kiên quyết, tính quả quyết, tính dứt khoát"
+        }
+      ],
+      "mobileId": 72839,
+      "phonetic": "いさむけっ",
+      "related_words": {
+        "word": [
+          "勇"
+        ]
+      },
+      "word": "勇決"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04d81e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "to take a vote"
+        }
+      ],
+      "mobileId": 209338,
+      "phonetic": "けつをとる",
+      "word": "決を取る"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8845b2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự cầm một lá phiếu"
+        }
+      ],
+      "mobileId": 37726,
+      "phonetic": "けつをとる",
+      "word": "決を採る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

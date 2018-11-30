@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685c12f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "lạnh rót nước; mục đích lạnh"
+        }
+      ],
+      "mobileId": 2937,
+      "opposite_word": [
+        "暑",
+        "熱",
+        "温"
+      ],
+      "phonetic": "ひや",
+      "related_words": {
+        "word": [
+          "冷蔵庫",
+          "冷凍",
+          "冷静",
+          "冷たい",
+          "冷房",
+          "冷凍食品",
+          "冷却",
+          "冷酷",
+          "冷凍庫",
+          "冷気"
+        ]
+      },
+      "word": "冷"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cddc9eb5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự cảm nhận cái lạnh của da"
+        }
+      ],
+      "mobileId": 75817,
+      "phonetic": "ひやさとし",
+      "related_words": {
+        "word": [
+          "冷"
+        ]
+      },
+      "word": "冷覚"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde02321",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự cười nhạo báng một cách lạnh lùng"
+        }
+      ],
+      "mobileId": 75917,
+      "phonetic": "ひやあざけ",
+      "related_words": {
+        "word": [
+          "冷"
+        ]
+      },
+      "word": "冷嘲"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a924d79e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, adj-no, n",
+          "mean": "cold, chilly"
+        }
+      ],
+      "mobileId": 257450,
+      "phonetic": "れいかん",
+      "word": "冷寒"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdde11b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trở nên lạnh (tôi luyện)"
+        }
+      ],
+      "mobileId": 75859,
+      "phonetic": "ひやつよし",
+      "related_words": {
+        "word": [
+          "冷"
+        ]
+      },
+      "word": "冷剛"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9077cdd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "allow to cool, cooling"
+        }
+      ],
+      "mobileId": 273007,
+      "phonetic": "ほうれい",
+      "word": "放冷"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e884354f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trạng thái lạnh và ẩm ướt, trạng thái sền sệt; sự ăn dính răng"
+        }
+      ],
+      "mobileId": 37720,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "冷"
+        ]
+      },
+      "word": "厥冷"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0489b96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "clear and cold (water, etc.)"
+        }
+      ],
+      "mobileId": 283292,
+      "phonetic": "せいれい",
+      "word": "清冷"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e7aba5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giving a cold look, icy stare, taking a cold-hearted attitude"
+        }
+      ],
+      "mobileId": 271990,
+      "phonetic": "れいし",
+      "word": "冷視"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a3adec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cold point, cold spot"
+        }
+      ],
+      "mobileId": 269757,
+      "opposite_word": [
+        "温点"
+      ],
+      "phonetic": "れいてん",
+      "word": "冷点"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b4bbce",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "Súng ."
+        }
+      ],
+      "mobileId": 109758,
+      "phonetic": "じゅう",
+      "related_words": {
+        "word": [
+          "機関銃",
+          "散弾銃",
+          "拳銃",
+          "銃弾",
+          "銃声",
+          "銃身",
+          "銃殺",
+          "銃口",
+          "銃器",
+          "小銃"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "銃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ライフル",
+                "小銃",
+                "筒",
+                "鉄砲"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "銃"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280276f0a99",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "súng tự động ."
+        }
+      ],
+      "mobileId": 30974,
+      "phonetic": "じどうじゅう",
+      "word": "自動銃"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca020f398",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "speargun, underwater gun"
+        }
+      ],
+      "mobileId": 282005,
+      "phonetic": "すいちゅうじゅう",
+      "word": "水中銃"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04aea5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "water cannon"
+        }
+      ],
+      "mobileId": 283360,
+      "phonetic": "ほうすいじゅう",
+      "word": "放水銃"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1c5a1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "súng một nòng"
+        }
+      ],
+      "mobileId": 111931,
+      "phonetic": "たんしんじゅう",
+      "related_words": {
+        "word": [
+          "身",
+          "銃",
+          "単",
+          "単身"
+        ]
+      },
+      "word": "単身銃"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d2198c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grip of a gun"
+        }
+      ],
+      "mobileId": 271273,
+      "phonetic": "じゅうは",
+      "word": "銃把"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e843523b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "súng hơi"
+        }
+      ],
+      "mobileId": 35663,
+      "phonetic": "くうきじゅう",
+      "word": "空気銃"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca011ddca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rubber band gun"
+        }
+      ],
+      "mobileId": 281533,
+      "phonetic": "ゴムじゅう",
+      "word": "ゴム銃"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be1ba597",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "súng hơi; súng bắn hơi cay"
+        }
+      ],
+      "mobileId": 90167,
+      "phonetic": "ガスじゅう",
+      "word": "ガス銃"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a61908",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shooting rampage, shooting spree"
+        }
+      ],
+      "mobileId": 278014,
+      "phonetic": "じゅうらんしゃ",
+      "word": "銃乱射"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

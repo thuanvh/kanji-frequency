@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f53aaf9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "大阪の某所で",
+              "mean": "Tại một nơi nào đó ở Osaka",
+              "transcription": "おおさかのぼうしょで"
+            },
+            {
+              "content": "某所",
+              "mean": "Một nơi nào đó",
+              "transcription": "ぼうしょ"
+            }
+          ],
+          "kind": "pn, adj-no",
+          "mean": "nào đó"
+        },
+        {
+          "examples": [
+            {
+              "content": "なにがしかの金",
+              "mean": "Một chút tiền ít ỏi",
+              "transcription": "なにがしかのきん"
+            }
+          ],
+          "kind": "pn, adj-no",
+          "mean": "một vài"
+        }
+      ],
+      "mobileId": 186368,
+      "phonetic": "ぼう",
+      "related_words": {
+        "word": [
+          "某所",
+          "某国"
+        ]
+      },
+      "word": "某"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e52ba5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một trường học cao nhất định"
+        }
+      ],
+      "mobileId": 7296,
+      "phonetic": "ぼうこうこう",
+      "word": "某高校"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e341f45",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(đại từ) người nào đó; người này người nọ"
+        }
+      ],
+      "mobileId": 112691,
+      "phonetic": "だれぼう",
+      "related_words": {
+        "word": [
+          "誰",
+          "某"
+        ]
+      },
+      "word": "誰某"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68eaeeb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ông  này, ông  nọ, ông  nào đó; ai, cái này cái nọ, thế này thế nọ"
+        }
+      ],
+      "mobileId": 7484,
+      "phonetic": "ぼう々",
+      "word": "某々"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e6a8ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "ngày nào đó"
+        }
+      ],
+      "mobileId": 7344,
+      "phonetic": "ぼう じつ",
+      "related_words": {
+        "word": [
+          "日",
+          "某"
+        ]
+      },
+      "word": "某日"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e4ff6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "một tháng nào đó"
+        }
+      ],
+      "mobileId": 7291,
+      "phonetic": "ぼうつき",
+      "word": "某月"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e5ab21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một sự công bố nhất định"
+        }
+      ],
+      "mobileId": 7312,
+      "phonetic": "ぼうし",
+      "word": "某誌"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bffbafe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "a certain ministry, an unspecified ministry"
+        }
+      ],
+      "mobileId": 247999,
+      "phonetic": "ぼうしょう",
+      "word": "某省"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ea7492",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công việc (làm) (của) thế này thế nọ"
+        }
+      ],
+      "mobileId": 7469,
+      "phonetic": "ぼうのしわざ",
+      "word": "某の仕業"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed58db9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(từ dùng để gọi tên, số lượng của người và vật không xác định rõ, hoặc không muốn nêu rõ)...gì đó, nào đó ..."
+        }
+      ],
+      "mobileId": 117851,
+      "phonetic": "なにのぼう",
+      "related_words": {
+        "word": [
+          "の",
+          "何",
+          "某"
+        ]
+      },
+      "word": "何の某"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

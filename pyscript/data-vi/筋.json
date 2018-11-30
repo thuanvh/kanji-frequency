@@ -1,0 +1,242 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af61b73",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "複雑な筋",
+              "mean": "Cốt truyện phức tạp",
+              "transcription": "ふくざつなすじ"
+            },
+            {
+              "content": "〜に関係する筋",
+              "mean": "Cốt truyện có liên quan tới~",
+              "transcription": "〜にかんけいするすじ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cốt truyện"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gân ."
+        }
+      ],
+      "mobileId": 174361,
+      "phonetic": "すじ",
+      "related_words": {
+        "word": [
+          "筋肉",
+          "筋肉痛",
+          "腹筋",
+          "鉄筋",
+          "鉄筋コンクリート",
+          "道筋",
+          "筋力",
+          "一筋",
+          "首筋",
+          "筋道"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "筋",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "プロット"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "縞"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "筋肉"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "プロット",
+                "仕組み",
+                "構想",
+                "仕組",
+                "粗筋",
+                "筋書き"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "線路",
+                "行列",
+                "伍",
+                "行",
+                "路線",
+                "ライン",
+                "列",
+                "線"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "才能",
+                "タレント"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "線路",
+                "行列",
+                "伍",
+                "行",
+                "路線",
+                "ライン",
+                "列"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ライン",
+                "線"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "筋"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aae7bf6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frontalis muscle"
+        }
+      ],
+      "mobileId": 228973,
+      "phonetic": "ぜんとうきん",
+      "word": "前頭筋"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aaeda07",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Cơ dép ( ở cẳng chân )"
+        }
+      ],
+      "mobileId": 228989,
+      "phonetic": "ヒラメきん ひらめきん",
+      "word": "ヒラメ筋"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aaf11fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cramp in the calf"
+        }
+      ],
+      "mobileId": 228997,
+      "phonetic": "てんきん からすなめり からすなえり",
+      "word": "転筋"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e885a665",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người có quyền uy"
+        }
+      ],
+      "mobileId": 37771,
+      "phonetic": "けんいすじ",
+      "word": "権威筋"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03aedf6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "stripe, streak, striation"
+        }
+      ],
+      "mobileId": 282861,
+      "phonetic": "すじじょう",
+      "word": "筋状"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca067dd39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "myalgia, muscular pain"
+        }
+      ],
+      "mobileId": 284285,
+      "phonetic": "きんつう",
+      "word": "筋痛"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca067e3d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "muscle spasm, myospasm, cramp"
+        }
+      ],
+      "mobileId": 284286,
+      "phonetic": "きんけいれん",
+      "word": "筋けいれん"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca067e58b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sarcoplasm"
+        }
+      ],
+      "mobileId": 284287,
+      "phonetic": "きんけいしつ",
+      "word": "筋形質"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca067f425",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "muscle contraction"
+        }
+      ],
+      "mobileId": 284288,
+      "phonetic": "きんしゅうしゅく",
+      "word": "筋収縮"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

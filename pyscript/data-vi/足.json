@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7387cb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cẳng"
+        },
+        {
+          "examples": [
+            {
+              "content": "ウサギの足",
+              "mean": "chân thỏ",
+              "transcription": "ウサギのあし"
+            },
+            {
+              "content": "しびれた足",
+              "mean": "tê chân",
+              "transcription": "しびれたあし"
+            },
+            {
+              "content": "けいれん足",
+              "mean": "chân bị chuột rút",
+              "transcription": "けいれんあし"
+            },
+            {
+              "content": "5本指の足",
+              "mean": "bàn chân 5 ngón",
+              "transcription": "5ほんゆびのあし"
+            },
+            {
+              "content": "動物の足",
+              "mean": "chân động vật",
+              "transcription": "どうぶつのあし"
+            },
+            {
+              "content": "けがをした足",
+              "mean": "chân đau .",
+              "transcription": "けがをしたあし"
+            }
+          ],
+          "kind": "n",
+          "mean": "chân"
+        }
+      ],
+      "mobileId": 107607,
+      "opposite_word": [
+        "腕",
+        "手"
+      ],
+      "phonetic": "あし",
+      "related_words": {
+        "word": [
+          "補足",
+          "不足",
+          "満足",
+          "足跡",
+          "足し算",
+          "足す",
+          "遠足",
+          "足場",
+          "足元",
+          "睡眠不足"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "足",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "脚部",
+                "脚"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "渡り",
+                "交通網",
+                "トランスポーテーション",
+                "交通機関"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "足下",
+                "足元"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "脚"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "脚部",
+                "骭",
+                "脛"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "韻脚"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "丸",
+                "黄金",
+                "金銭",
+                "黄白",
+                "金",
+                "ゲル",
+                "お金"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "足"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd359941",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vật đeo vào chân; dáng đi"
+        }
+      ],
+      "mobileId": 11512,
+      "phonetic": "あしつき",
+      "word": "足付き"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19385ceb0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chân vòng kiềng; ngồi dạng chân"
+        }
+      ],
+      "mobileId": 22181,
+      "phonetic": "かまあし",
+      "related_words": {
+        "word": [
+          "足"
+        ]
+      },
+      "word": "鎌足"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcd2b06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc bán hàng"
+        }
+      ],
+      "mobileId": 16270,
+      "phonetic": "うれあし",
+      "word": "売れ足"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00e4d53",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "outer edge of the foot (from little toe to heel) (karate)"
+        }
+      ],
+      "mobileId": 281418,
+      "phonetic": "そくとう",
+      "word": "足刀"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0674d20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tube foot, ambulacral foot"
+        }
+      ],
+      "mobileId": 284265,
+      "phonetic": "かんそく",
+      "word": "管足"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda71578",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bốn chân (động vật)"
+        }
+      ],
+      "mobileId": 74140,
+      "phonetic": "よっつあし",
+      "related_words": {
+        "word": [
+          "足",
+          "四",
+          "四つ"
+        ]
+      },
+      "word": "四つ足"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a5b2e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stepping out of the ring while carrying the opponent over the edge, not considered as a loss"
+        }
+      ],
+      "mobileId": 212161,
+      "phonetic": "おくりあし",
+      "word": "送り足"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa70cc810",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chân giò lợn ."
+        }
+      ],
+      "mobileId": 106906,
+      "phonetic": "とんそく",
+      "related_words": {
+        "word": [
+          "足",
+          "豚"
+        ]
+      },
+      "word": "豚足"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa73a2347",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hình nộm cái chân bằng gỗ xốp dùng trong làm giày dép"
+        },
+        {
+          "examples": [
+            {
+              "content": "大きな足型",
+              "mean": "vết chân lớn .",
+              "transcription": "おおきなあしがた"
+            }
+          ],
+          "kind": "n",
+          "mean": "vết chân; dấu chân"
+        }
+      ],
+      "mobileId": 107638,
+      "phonetic": "あしがた",
+      "word": "足型"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

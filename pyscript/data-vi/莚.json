@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280279241b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiếu ."
+        }
+      ],
+      "mobileId": 31651,
+      "phonetic": "むしろ",
+      "word": "莚"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeb9609",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiếu thảm, nguyên liệu dệt chiếu; nguyên liệu dệt thảm"
+        }
+      ],
+      "mobileId": 17236,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "席"
+        ]
+      },
+      "word": "莚席"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

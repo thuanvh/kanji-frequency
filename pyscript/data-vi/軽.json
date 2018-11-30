@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e86ab0fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "ánh sáng"
+        }
+      ],
+      "mobileId": 36923,
+      "opposite_word": [
+        "重"
+      ],
+      "phonetic": "かる",
+      "word": "軽"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8727a94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuyền nhẹ, tàu nhẹ, xuồng nhỏ"
+        }
+      ],
+      "mobileId": 37174,
+      "phonetic": "けいふね",
+      "word": "軽舟"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8735db7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xe ô tô hạng nhẹ (dưới 660 cc)"
+        }
+      ],
+      "mobileId": 37210,
+      "phonetic": "けいじどうしゃ",
+      "word": "軽自動車"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87beb57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xe tải lightweight"
+        }
+      ],
+      "mobileId": 37481,
+      "phonetic": "けいトラック",
+      "related_words": {
+        "word": [
+          "トラック"
+        ]
+      },
+      "word": "軽トラック"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04923bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "light (weight)"
+        }
+      ],
+      "mobileId": 209194,
+      "phonetic": "かるめ",
+      "word": "軽め"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86fc9f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phạm tội phụ"
+        }
+      ],
+      "mobileId": 37090,
+      "phonetic": "けいつみ",
+      "word": "軽罪"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8797e4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hay thay đổi, không kiên định"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phù phiếm, nhẹ dạ, bông lông, không đáng kể, nhỏ mọn; vô tích sự"
+        }
+      ],
+      "mobileId": 37403,
+      "phonetic": "",
+      "word": "軽浮"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87be1db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ô tô lightweight với thấp những giá đăng ký"
+        }
+      ],
+      "mobileId": 37480,
+      "phonetic": "けいカー",
+      "word": "軽カー"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86d029d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhẹ làm bằng máy súng"
+        }
+      ],
+      "mobileId": 36995,
+      "phonetic": "けいき",
+      "related_words": {
+        "word": [
+          "機"
+        ]
+      },
+      "word": "軽機"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0581d50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "light cruiser"
+        }
+      ],
+      "mobileId": 283795,
+      "phonetic": "けいじゅん",
+      "word": "軽巡"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

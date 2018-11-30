@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027363179",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kén tằm ."
+        }
+      ],
+      "mobileId": 29999,
+      "phonetic": "まゆ",
+      "word": "繭"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8884337",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giá (của) một tổ kén"
+        }
+      ],
+      "mobileId": 37855,
+      "phonetic": "まゆか",
+      "related_words": {
+        "word": [
+          "価",
+          "繭"
+        ]
+      },
+      "word": "繭価"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a3e6ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yellow cocoon"
+        }
+      ],
+      "mobileId": 277957,
+      "phonetic": "こうけん きまゆ",
+      "word": "黄繭"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d934777",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tổ kén gieo trồng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "centralization (e.g. power)"
+        }
+      ],
+      "mobileId": 150401,
+      "phonetic": "おさむまゆ",
+      "related_words": {
+        "word": [
+          "繭"
+        ]
+      },
+      "word": "収繭"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68240c89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nứt rạn tổ kén gieo trồng"
+        }
+      ],
+      "mobileId": 1149,
+      "phonetic": "はるまゆ",
+      "word": "春繭"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d56e86a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tổ kén đôi ."
+        }
+      ],
+      "mobileId": 142926,
+      "phonetic": "ふたつまゆ",
+      "related_words": {
+        "word": [
+          "二",
+          "二つ",
+          "繭"
+        ]
+      },
+      "word": "二つ繭"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02f9e97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "to spin a cocoon"
+        }
+      ],
+      "mobileId": 208380,
+      "phonetic": "まゆをかける",
+      "word": "繭をかける"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca009b6ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "braconid, member of the Braconidae (family of parasitic wasps)"
+        }
+      ],
+      "mobileId": 281276,
+      "phonetic": "こまゆばち コマユバチ",
+      "word": "小繭蜂"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd05afbc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự quay tròn một tổ kén"
+        }
+      ],
+      "mobileId": 68968,
+      "phonetic": "まゆをかける",
+      "related_words": {
+        "word": [
+          "掛ける",
+          "繭"
+        ]
+      },
+      "word": "繭を掛ける"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

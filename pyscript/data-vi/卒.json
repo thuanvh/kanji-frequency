@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a982480841",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "low-ranking soldier"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "graduation, outgrowing, moving on (from)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "low-ranking samurai (1870-1872)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "death (of a noble, etc.)"
+        }
+      ],
+      "mobileId": 233910,
+      "phonetic": "そつ",
+      "word": "卒"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b7dd40",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiến binh mặc áo giáp"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "high school graduate"
+        }
+      ],
+      "mobileId": 39376,
+      "phonetic": "かぶとそつ",
+      "related_words": {
+        "word": [
+          "甲"
+        ]
+      },
+      "word": "甲卒"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8b2def",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "riêng tư hạng nhất"
+        }
+      ],
+      "mobileId": 14201,
+      "phonetic": "いっとうそつ",
+      "related_words": {
+        "word": [
+          "等",
+          "一",
+          "一等"
+        ]
+      },
+      "word": "一等卒"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d76d68",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cầm (lấy) sáng kiến"
+        }
+      ],
+      "mobileId": 62989,
+      "phonetic": "そつさき",
+      "related_words": {
+        "word": [
+          "先"
+        ]
+      },
+      "word": "卒先"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db31a48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "classbook, yearbook, school graduation album"
+        }
+      ],
+      "mobileId": 220892,
+      "phonetic": "そつアル",
+      "word": "卒アル"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de0bee6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "finishing kindergarten, graduating from kindergarten"
+        }
+      ],
+      "mobileId": 222383,
+      "phonetic": "そつえん",
+      "word": "卒園"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a44fb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hộ lý quân đội; sinh viên y khoa"
+        }
+      ],
+      "mobileId": 23137,
+      "phonetic": "かんごそつ",
+      "related_words": {
+        "word": [
+          "看護"
+        ]
+      },
+      "word": "看護卒"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0899fe5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "moving beyond nuclear energy (e.g. to renewable energy)"
+        }
+      ],
+      "mobileId": 285339,
+      "phonetic": "そつげんぱつ",
+      "word": "卒原発"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ef9404",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "foot soldier, footman"
+        }
+      ],
+      "mobileId": 280428,
+      "phonetic": "とそつ",
+      "word": "徒卒"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ef9b17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dead soldier"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "deserter"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "dying"
+        }
+      ],
+      "mobileId": 280429,
+      "phonetic": "ぼうそつ",
+      "word": "亡卒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

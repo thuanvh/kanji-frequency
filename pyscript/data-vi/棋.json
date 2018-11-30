@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cfc612",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shogi (đi) phòng lớn"
+        }
+      ],
+      "mobileId": 24494,
+      "phonetic": "",
+      "word": "棋院"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e8eda8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghệ thuật chơi cờ shogi hay cờ go, kỳ đạo"
+        }
+      ],
+      "mobileId": 25293,
+      "phonetic": "",
+      "word": "棋道"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fae8f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "go or shogi board"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "position of a game of go or shogi"
+        }
+      ],
+      "mobileId": 264297,
+      "phonetic": "ききょく",
+      "word": "棋局"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

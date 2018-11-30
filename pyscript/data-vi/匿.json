@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e91d29f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shelter; shield; trốn(dấu)"
+        }
+      ],
+      "mobileId": 115681,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "匿名",
+          "匿名性",
+          "秘匿"
+        ]
+      },
+      "word": "匿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a50d590",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "diving under cover and hiding"
+        }
+      ],
+      "mobileId": 226007,
+      "phonetic": "ざんとく",
+      "word": "竄匿"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

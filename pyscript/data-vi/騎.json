@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a933a264",
+      "means": [
+        {
+          "examples": null,
+          "kind": "ctr",
+          "mean": "counter for horsemen"
+        }
+      ],
+      "mobileId": 257938,
+      "phonetic": "き",
+      "word": "騎"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd82e540",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một người cưỡi ngựa; một kỵ sĩ"
+        }
+      ],
+      "mobileId": 13945,
+      "phonetic": "いちき",
+      "word": "一騎"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd82f538",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự đấu tranh một đối một"
+        }
+      ],
+      "mobileId": 13948,
+      "phonetic": "いちきだ",
+      "word": "一騎打"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77904b3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the shogun's eighty thousand guards, comprising hatamoto and lower-ranking vassals"
+        }
+      ],
+      "mobileId": 269140,
+      "phonetic": "はたもとはちまんき",
+      "word": "旗本八万騎"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd82f0ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cá nhân đánh"
+        }
+      ],
+      "mobileId": 13947,
+      "phonetic": "いちきうち",
+      "word": "一騎討ち"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2f1bc9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tám lên những quân nhân; tám samurai trên (về) lưng ngựa"
+        }
+      ],
+      "mobileId": 147220,
+      "phonetic": "さむらいはちき",
+      "word": "侍八騎"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

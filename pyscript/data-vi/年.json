@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107d95c64",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "年をとる",
+              "mean": "tuổi già, thêm một tuổi .",
+              "transcription": "としをとる"
+            }
+          ],
+          "kind": "n-adv, n",
+          "mean": "năm; năm tháng; tuổi"
+        }
+      ],
+      "mobileId": 55521,
+      "phonetic": "とし",
+      "related_words": {
+        "word": [
+          "生年月日",
+          "年齢",
+          "年度",
+          "少年",
+          "今年",
+          "学年",
+          "前年",
+          "年収",
+          "去年",
+          "年月日"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "年",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "齢",
+                "年齢",
+                "年歯",
+                "年代"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "年令",
+                "齢",
+                "年齢",
+                "年頃"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "老い",
+                "高齢",
+                "老齢"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "年中",
+                "年間",
+                "年度"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "年"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef0c16e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "quanh năm suốt tháng; luôn luôn, lúc nào cũng"
+        }
+      ],
+      "mobileId": 118706,
+      "phonetic": "ねんびゃくねんじゅう",
+      "related_words": {
+        "word": [
+          "中",
+          "年",
+          "百"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "年百年中",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "何時でも",
+                "絶えず",
+                "常常",
+                "年中",
+                "始終",
+                "常々",
+                "何時も",
+                "必ず",
+                "しょっちゅう",
+                "常に",
+                "四六時中",
+                "年がら年中",
+                "毎毎",
+                "いつでも",
+                "いつも",
+                "変わりなく"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "何時でも",
+                "絶えず",
+                "常常",
+                "年中",
+                "始終",
+                "常々",
+                "何時も",
+                "末始終",
+                "常",
+                "しょっちゅう",
+                "常に",
+                "四六時中",
+                "年がら年中",
+                "毎毎",
+                "いつでも",
+                "いつも"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "年百年中"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea282d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "việc xem xét điều này già đi"
+        }
+      ],
+      "mobileId": 116234,
+      "phonetic": "としがとし",
+      "related_words": {
+        "word": [
+          "年"
+        ]
+      },
+      "word": "年が年"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb3d32b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "năm thỏ; tuổi thỏ (theo cách tính của ngưòi Nhật)"
+        }
+      ],
+      "mobileId": 15497,
+      "phonetic": "うねん",
+      "related_words": {
+        "word": [
+          "年"
+        ]
+      },
+      "word": "卯年"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0c3929",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "appropriateness for one's age"
+        }
+      ],
+      "mobileId": 223790,
+      "phonetic": "としそうおう",
+      "word": "年相応"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107da088f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "５年ぶり",
+              "mean": "tròn 5 năm .",
+              "transcription": "ごねんぶり"
+            }
+          ],
+          "kind": "exp",
+          "mean": "tròn...năm"
+        }
+      ],
+      "mobileId": 55532,
+      "phonetic": "ねんぶり",
+      "related_words": {
+        "word": [
+          "年"
+        ]
+      },
+      "word": "年ぶり"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107dff2e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thuế hàng năm ."
+        }
+      ],
+      "mobileId": 55624,
+      "phonetic": "ねんそ",
+      "related_words": {
+        "word": [
+          "年"
+        ]
+      },
+      "word": "年租"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd010106",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những ngày cuối cùng; những năm cuối cùng (của niên đại đó) ; thế hệ cuối"
+        }
+      ],
+      "mobileId": 68819,
+      "opposite_word": [
+        "初年"
+      ],
+      "phonetic": "すえねん",
+      "related_words": {
+        "word": [
+          "年",
+          "末"
+        ]
+      },
+      "word": "末年"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0c75c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mười nghìn năm, ngày tháng dài; vĩnh hằng, không bao giờ thay đổi"
+        }
+      ],
+      "mobileId": 69188,
+      "phonetic": "まんねん",
+      "related_words": {
+        "word": [
+          "年",
+          "万"
+        ]
+      },
+      "word": "万年"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0af1d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "năm Thìn, năm (của) chòm sao thiên long"
+        }
+      ],
+      "mobileId": 111381,
+      "phonetic": "たつねん",
+      "related_words": {
+        "word": [
+          "年"
+        ]
+      },
+      "word": "辰年"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

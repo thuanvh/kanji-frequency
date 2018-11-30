@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8947c94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(viết) kêu gọi; vòng tròn; bản tuyên ngôn"
+        }
+      ],
+      "mobileId": 38248,
+      "phonetic": "げき",
+      "word": "檄"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8963b51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "ra tuyên ngôn; kêu gọi"
+        }
+      ],
+      "mobileId": 38310,
+      "phonetic": "げきをとばす",
+      "related_words": {
+        "word": [
+          "飛ばす"
+        ]
+      },
+      "word": "檄を飛ばす"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

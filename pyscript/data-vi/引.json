@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683ee7e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự trao đổi (các thứ); tới đảo ngược"
+        }
+      ],
+      "mobileId": 2039,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "引替る",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "切り替える",
+                "換える",
+                "引き替える",
+                "切り変える",
+                "引き換える",
+                "代える",
+                "擦り替える",
+                "取り替える",
+                "取り交わす",
+                "交わす",
+                "切り換える",
+                "替える",
+                "交す"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "引替る"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19351002b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thu xếp bởi những cú đánh"
+        }
+      ],
+      "mobileId": 20495,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "画"
+        ]
+      },
+      "word": "画引"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda91cff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự tham khảo"
+        }
+      ],
+      "mobileId": 15157,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "引照",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "レファレンス",
+                "参酌",
+                "参照",
+                "参考"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "引照"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683f63f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "những người mà rút từ xã hội (e.g. rời bỏ tới nước)"
+        }
+      ],
+      "mobileId": 2054,
+      "phonetic": "",
+      "word": "引篭り"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6840964c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để tiếp tục (một thời gian dài (lâu)); để xuất hiện kế tiếp"
+        }
+      ],
+      "mobileId": 2085,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "続く"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "引続く",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "続く"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "引続く"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74000b5a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ひもを〜",
+              "mean": "kéo giãn dây buộc .",
+              "transcription": "ひもを〜"
+            }
+          ],
+          "kind": "v5s",
+          "mean": "kéo giãn"
+        }
+      ],
+      "mobileId": 97505,
+      "phonetic": "ひきのばす",
+      "word": "引伸す"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f740115c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hấp ."
+        }
+      ],
+      "mobileId": 97522,
+      "phonetic": "ひきよせる",
+      "word": "引寄せる"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d7d497",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "subordinate of a hired thief-taker (Edo period)"
+        }
+      ],
+      "mobileId": 263169,
+      "phonetic": "したっぴき",
+      "word": "下っ引"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683e97ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự kéo xuống; tới tự động sự ghi nợ (từ một tài khoản ngân hàng)"
+        }
+      ],
+      "mobileId": 2031,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "落"
+        ]
+      },
+      "word": "引落す"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683e9cb0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự kéo xuống; tới tự động sự ghi nợ (từ một tài khoản ngân hàng)"
+        }
+      ],
+      "mobileId": 2032,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "落とす",
+          "落"
+        ]
+      },
+      "word": "引落とす"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027323001",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "自分が持っている以上の金を使う癖のある者は、死ぬときは縄が首に回っている。",
+              "mean": "Sử dụng tiền nhiều hơn những gì mình có thì cũng có nghĩa là anh ta dùng dây trói buộc cuộc đời mình lại",
+              "transcription": "じぶんがもっているいじょうのきんをつかうくせのあるものは、しぬときはなわがくびにまわっている。"
+            },
+            {
+              "content": "借金をする者は、人の縄で自分を縛るようなもの。",
+              "mean": "Mượn tiền của người khác giống như tự đem dây trói mình .",
+              "transcription": "しゃっきんをするものは、ひとのなわでじぶんをしばるようなもの。"
+            }
+          ],
+          "kind": "n",
+          "mean": "dây thừng; dây chão"
+        }
+      ],
+      "mobileId": 29907,
+      "phonetic": "なわ",
+      "related_words": {
+        "word": [
+          "縄跳び",
+          "縄張り",
+          "火縄銃",
+          "注連縄"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "縄",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ロープ",
+                "索条",
+                "索",
+                "荷縄"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "縄"
+    },
+    {
+      "_id": "432518852de0a80625d585a982567023",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "water shield (Brasenia schreberi)"
+        }
+      ],
+      "mobileId": 234368,
+      "phonetic": "ぬなわ",
+      "word": "沼縄"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb1a6c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trói (cột) cho những tội phạm tying"
+        }
+      ],
+      "mobileId": 116721,
+      "phonetic": "とりなわ",
+      "related_words": {
+        "word": [
+          "縄"
+        ]
+      },
+      "word": "捕り縄"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4f477f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phủ rơm dây thừng"
+        }
+      ],
+      "mobileId": 12319,
+      "phonetic": "そなわ",
+      "word": "粗縄"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81f8379",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mảnh (của) dây thừng cắt cho một mục đích nhất định"
+        }
+      ],
+      "mobileId": 34505,
+      "phonetic": "きりなわ",
+      "related_words": {
+        "word": [
+          "切",
+          "切り",
+          "縄"
+        ]
+      },
+      "word": "切り縄"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014bbdcc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Dây thừng bện bằng sợi gai ."
+        }
+      ],
+      "mobileId": 43054,
+      "phonetic": "あさなわ",
+      "related_words": {
+        "word": [
+          "麻",
+          "縄"
+        ]
+      },
+      "word": "麻縄"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4f8f7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slender rope that goes through the hole in a coin"
+        }
+      ],
+      "mobileId": 225967,
+      "phonetic": "さしなわ",
+      "word": "緡縄"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db37db9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ninja rope with grappling hook"
+        }
+      ],
+      "mobileId": 220906,
+      "phonetic": "かぎなわ",
+      "word": "かぎ縄"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e3f9b39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cable stitch"
+        }
+      ],
+      "mobileId": 250063,
+      "phonetic": "なわあみ",
+      "word": "縄編み"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280273247b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đầu dây thừng ."
+        }
+      ],
+      "mobileId": 29909,
+      "phonetic": "なわじり",
+      "word": "縄尻"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

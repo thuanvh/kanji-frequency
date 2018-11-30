@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280277da06d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "戦闘情報艦",
+              "mean": "Trạm thông tin chiến sự",
+              "transcription": "せんとうじょうほうかん"
+            },
+            {
+              "content": "海洋観測艦",
+              "mean": "Hạm quan trắc hải dương",
+              "transcription": "かいようかんそくかん"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "hạm; trạm"
+        },
+        {
+          "examples": [
+            {
+              "content": "訓練支援艦",
+              "mean": "chiến hạm hỗ trợ tập dượt",
+              "transcription": "くんれんしえんかん"
+            },
+            {
+              "content": "空襲報告管制艦",
+              "mean": "chiến hạm báo cáo không kích",
+              "transcription": "くうしゅうほうこくかんせいかん"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "tàu chiến; chiến hạm"
+        }
+      ],
+      "mobileId": 31316,
+      "phonetic": "かん",
+      "related_words": {
+        "word": [
+          "駆逐艦",
+          "潜水艦",
+          "艦隊",
+          "軍艦",
+          "巡洋艦",
+          "艦長",
+          "航空母艦",
+          "旗艦",
+          "護衛艦",
+          "艦艇"
+        ]
+      },
+      "word": "艦"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a6c72e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mũi (của) tàu chiến, mũi (của) chiến hạm"
+        }
+      ],
+      "mobileId": 23215,
+      "opposite_word": [
+        "艦尾"
+      ],
+      "phonetic": "かんくび",
+      "word": "艦首"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f747cf3c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiến đấu hạm ."
+        }
+      ],
+      "mobileId": 99270,
+      "phonetic": "せんとうかん",
+      "word": "戦闘艦"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db03f18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quân hạm chính, tàu chiến chủ lực"
+        }
+      ],
+      "mobileId": 151319,
+      "phonetic": "しゅりょくかん",
+      "related_words": {
+        "word": [
+          "力",
+          "主",
+          "主力",
+          "艦"
+        ]
+      },
+      "word": "主力艦"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd61370a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiến hạm của Ý"
+        }
+      ],
+      "mobileId": 12896,
+      "phonetic": "いかん",
+      "related_words": {
+        "word": [
+          "艦"
+        ]
+      },
+      "word": "伊艦"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b919e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuổi tác của tàu chiến"
+        }
+      ],
+      "mobileId": 23789,
+      "phonetic": "かんよわい",
+      "word": "艦齢"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e869d857",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quân đội ship"
+        }
+      ],
+      "mobileId": 36899,
+      "phonetic": "ぐんようかん",
+      "related_words": {
+        "word": [
+          "用",
+          "軍",
+          "艦",
+          "軍用"
+        ]
+      },
+      "word": "軍用艦"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e2400a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiến hạm thay thế"
+        }
+      ],
+      "mobileId": 112186,
+      "phonetic": "だいかん",
+      "related_words": {
+        "word": [
+          "代",
+          "艦"
+        ]
+      },
+      "word": "代艦"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d927f52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tanker, military refueling vessel"
+        }
+      ],
+      "mobileId": 219804,
+      "phonetic": "きゅうゆかん",
+      "word": "給油艦"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fff3cc7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tàu ngầm ."
+        }
+      ],
+      "mobileId": 189145,
+      "phonetic": "せんすいかん",
+      "related_words": {
+        "word": [
+          "水",
+          "艦"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "潜水艦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ユーボート",
+                "サブマリン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "潜水艦"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0c22de",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "phôi, mầm (ví dụ: mầm lúa mì)"
+        }
+      ],
+      "mobileId": 215494,
+      "phonetic": "はい",
+      "word": "胚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef919d967",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "embryogenesis, embryogeny, embryonic development"
+        }
+      ],
+      "mobileId": 273599,
+      "phonetic": "はいはっせい",
+      "word": "胚発生"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e8242b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "embryonic membrane"
+        }
+      ],
+      "mobileId": 252228,
+      "phonetic": "はいまく",
+      "word": "胚膜"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1453ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "embryonic, embryonal"
+        }
+      ],
+      "mobileId": 215753,
+      "phonetic": "はいせい",
+      "word": "胚性"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a83c054",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "blastula, blastosphere"
+        }
+      ],
+      "mobileId": 227605,
+      "phonetic": "ほうはい",
+      "word": "胞胚"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2bc96d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frozen embryo"
+        }
+      ],
+      "mobileId": 249438,
+      "phonetic": "とうけつはい",
+      "word": "凍結胚"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92e2493",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "embryo sac"
+        }
+      ],
+      "mobileId": 257748,
+      "phonetic": "はいのう",
+      "word": "胚嚢"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a83c1e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blastodisk, blastodisc"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "scutellum (of a grass seed)"
+        }
+      ],
+      "mobileId": 227606,
+      "phonetic": "はいばん",
+      "word": "胚盤"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9031b27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blastocoel, blastocoele"
+        }
+      ],
+      "mobileId": 272858,
+      "phonetic": "ほうはいくう ほうはいこう",
+      "word": "胞胚腔"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280275a12a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tế bào Trực hệ Phôi ."
+        }
+      ],
+      "mobileId": 30605,
+      "phonetic": "はいせいみきさいぼう",
+      "word": "胚性幹細胞"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

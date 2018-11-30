@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77270ec7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pancreatic duct"
+        }
+      ],
+      "mobileId": 265724,
+      "phonetic": "すいかん",
+      "word": "膵管"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f9cafe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pancreatic necrosis"
+        }
+      ],
+      "mobileId": 272567,
+      "phonetic": "すいえし",
+      "word": "膵壊死"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9547c628",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pancreatitis"
+        }
+      ],
+      "mobileId": 58380,
+      "phonetic": "",
+      "word": "膵炎"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d38cc38",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "islets of Langerhans (pancreatic cells which produce insulin)"
+        }
+      ],
+      "mobileId": 216920,
+      "phonetic": "すいとう",
+      "word": "膵島"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aac7f73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pancreatic juice"
+        }
+      ],
+      "mobileId": 228908,
+      "phonetic": "すいえき",
+      "word": "膵液"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f9d7c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pancreatic cancer"
+        }
+      ],
+      "mobileId": 272568,
+      "phonetic": "すいがん",
+      "word": "膵癌"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74414f84",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bệnh sốt cấp tính ."
+        }
+      ],
+      "mobileId": 98427,
+      "phonetic": "きゅうせいかいはくすいえん",
+      "word": "急性灰白膵炎"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ca2c7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chó sói đang đói"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "picture gallery"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "high decorated building"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(picture) gallery"
+        }
+      ],
+      "mobileId": 24321,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "狼"
+        ]
+      },
+      "word": "餓狼"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680153ff5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ngạt mùi ."
+        }
+      ],
+      "mobileId": 43239,
+      "phonetic": "はながつまる",
+      "word": "鼻餓つまる"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

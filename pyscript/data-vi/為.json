@@ -1,0 +1,319 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a0f820a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "芸術のための芸術",
+              "mean": "nghệ thuật vị nghệ thuật",
+              "transcription": "げいじゅつのためのげいじゅつ"
+            },
+            {
+              "content": "君のためを思えばこそ言うのだ",
+              "mean": "nghĩ cho anh nên mới nói ra như thế .",
+              "transcription": "きみのためをおもえばこそいうのだ"
+            }
+          ],
+          "kind": "n",
+          "mean": "bởi vì; mục đích là; vì; cho; vị"
+        }
+      ],
+      "mobileId": 170542,
+      "phonetic": "ため",
+      "related_words": {
+        "word": [
+          "為替",
+          "為替レート",
+          "行為",
+          "為に",
+          "その為",
+          "外国為替",
+          "性行為",
+          "念の為",
+          "為替相場",
+          "無作為"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "為",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "厚生",
+                "便益",
+                "プラス",
+                "恩恵",
+                "福祉",
+                "特典",
+                "恩沢",
+                "恩",
+                "便宜",
+                "恵沢",
+                "益",
+                "福利",
+                "ベネフィット"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "為"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4ceae6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cùng làm, làm cùng nhau"
+        }
+      ],
+      "mobileId": 148178,
+      "phonetic": "ためあう",
+      "word": "為合う"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4fb93a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "tới sự thất bại để làm; để làm ánh sáng (của); tới sự không chú ý tới"
+        }
+      ],
+      "mobileId": 148268,
+      "phonetic": "ためおとす",
+      "related_words": {
+        "word": [
+          "為",
+          "落とす",
+          "落"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "為落とす",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "見落とす",
+                "見逃がす",
+                "抜かす",
+                "見逃す",
+                "落とす",
+                "漏らす"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "為落とす"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d67b43b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bắt đầu; bắt đầu"
+        }
+      ],
+      "mobileId": 149026,
+      "phonetic": "ためはじめ",
+      "related_words": {
+        "word": [
+          "為",
+          "初",
+          "初め"
+        ]
+      },
+      "word": "為初め"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d79554e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "làm dở; làm chưa xong; bỏ dở chừng không làm"
+        }
+      ],
+      "mobileId": 149571,
+      "phonetic": "ためのこす",
+      "related_words": {
+        "word": [
+          "為",
+          "残す"
+        ]
+      },
+      "word": "為残す"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d7dea43",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "có một có sở hữu cách"
+        }
+      ],
+      "mobileId": 149723,
+      "phonetic": "ためほうだい",
+      "related_words": {
+        "word": [
+          "為",
+          "題"
+        ]
+      },
+      "word": "為放題"
+    },
+    {
+      "_id": "32266b33d424da615075e0dca7acc97b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "そのために友達を作ってるんじゃない",
+              "mean": "Vì thế phải chăng là nên kết thân với nhiều người.",
+              "transcription": "そのためにともだちをつくってるんじゃない"
+            },
+            {
+              "content": "そのために何日も眠れなかった",
+              "mean": "Do đó mà tôi không thể ngủ được trong nhiều ngày rồi",
+              "transcription": "そのためになんにちもねむれなかった"
+            },
+            {
+              "content": "私がここにいるのはそのためだ。／それが私の目的だ。／そのために私がいるんです",
+              "mean": "Vì thế mà tôi ở lại đây",
+              "transcription": "わたしがここにいるのはそのためだ。 ／それがわたしのもくてきだ。 ／そのためにわたしがいるんです"
+            },
+            {
+              "content": "そのために私たちがいるのです",
+              "mean": "Vì thế mà chúng ta sẽ ở đây",
+              "transcription": "そのためにわたしたちがいるのです"
+            }
+          ],
+          "kind": "exp",
+          "mean": "do đó; vì thế; vì lí do đó"
+        }
+      ],
+      "mobileId": 47462,
+      "phonetic": "そのため",
+      "related_words": {
+        "word": [
+          "その",
+          "為"
+        ]
+      },
+      "word": "その為"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4ecdd6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vt",
+          "mean": "hoàn thành"
+        }
+      ],
+      "mobileId": 148235,
+      "phonetic": "ためおおせる",
+      "related_words": {
+        "word": [
+          "為"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "為果せる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "終える",
+                "仕済ます",
+                "果たす",
+                "成し遂げる",
+                "行う",
+                "やり切る",
+                "成す",
+                "為し遂げる",
+                "遣り通す",
+                "為し終える",
+                "遣り遂げる",
+                "全う",
+                "為す",
+                "遂げる",
+                "行なう",
+                "為遂げる",
+                "為る",
+                "仕遂げる"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "果たす",
+                "成し遂げる",
+                "やり切る",
+                "為し遂げる",
+                "遣り遂げる",
+                "全う",
+                "遂げる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "為果せる"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d62e1e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "làm quá trớn, làm quá, làm mất tác dụng vì quá cường điệu, cường điệu hoá hỏng, làm mệt phờ, nấu quá nhừ"
+        }
+      ],
+      "mobileId": 148871,
+      "phonetic": "ためすぎる",
+      "related_words": {
+        "word": [
+          "為",
+          "過ぎる"
+        ]
+      },
+      "word": "為過ぎる"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d71d8eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để làm cho mọi thứ có thể"
+        }
+      ],
+      "mobileId": 149336,
+      "phonetic": "ためつくす",
+      "related_words": {
+        "word": [
+          "為",
+          "尽くす"
+        ]
+      },
+      "word": "為尽くす"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

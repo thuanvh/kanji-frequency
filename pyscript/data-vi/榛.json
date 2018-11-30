@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1ceff9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Asian hazel (Corylus heterophylla var. thunbergii), Siberian hazel"
+        }
+      ],
+      "mobileId": 216033,
+      "phonetic": "はしばみ ハシバミ",
+      "word": "榛"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1e960e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Eurasian hazel (Corylus avellana)"
+        }
+      ],
+      "mobileId": 216089,
+      "phonetic": "せいようはしばみ セイヨウハシバミ",
+      "word": "西洋榛"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1ede02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese hazel (Corylus sieboldiana)"
+        }
+      ],
+      "mobileId": 216095,
+      "phonetic": "つのはしばみ ツノハシバミ",
+      "word": "角榛"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1f9f92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese cherry birch (Betula grossa)"
+        }
+      ],
+      "mobileId": 216122,
+      "phonetic": "よぐそみねばり ヨグソミネバリ",
+      "word": "夜糞峰榛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1071241b3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鼻堤",
+              "mean": "bờ đê cao .",
+              "transcription": "はなつつみ"
+            }
+          ],
+          "kind": "n",
+          "mean": "bờ đê"
+        }
+      ],
+      "mobileId": 52174,
+      "phonetic": "つつみ",
+      "related_words": {
+        "word": [
+          "堤防",
+          "防波堤",
+          "堰堤"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "堤",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "堰堤",
+                "防波堤",
+                "ダム",
+                "堤防",
+                "築堤",
+                "土手",
+                "井堰"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "堤防",
+                "築堤",
+                "土手"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "バンク",
+                "土手"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "堤"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ecd60f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hai bờ đê của dòng sông Sumida"
+        }
+      ],
+      "mobileId": 7544,
+      "phonetic": "ぼくつつみ",
+      "word": "墨堤"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ae5e76",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "embankment made of earth, bank, levee"
+        }
+      ],
+      "mobileId": 261859,
+      "phonetic": "どでい",
+      "word": "土堤"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e9e3c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đê ngăn nước biển, đê ngăn thủy triều cao"
+        }
+      ],
+      "mobileId": 7448,
+      "phonetic": "ぼう ちょうてい",
+      "word": "防潮堤"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10712484c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đèn lồng ."
+        }
+      ],
+      "mobileId": 52175,
+      "phonetic": "ちょうちん",
+      "word": "堤燈"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77316dc5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snow mound, snowbank"
+        }
+      ],
+      "mobileId": 266065,
+      "phonetic": "せってい",
+      "word": "雪堤"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e6dab3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "tới xây dựng một đê"
+        }
+      ],
+      "mobileId": 114542,
+      "phonetic": "つつみをきずく",
+      "word": "堤を築く"
+    },
+    {
+      "_id": "f2d618ceb0702f781ec83b7d4f50cb86",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "chiều rộng lòng kênh, chiều rộng giữa hai đê"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ていかんはば",
+      "word": "堤間幅"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e18f789",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "A little leak will sink a great ship"
+        }
+      ],
+      "mobileId": 248818,
+      "phonetic": "せんじょうのつつみもありのいっけつより",
+      "word": "千丈の堤も蟻の一穴より"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

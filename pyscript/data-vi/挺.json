@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e53affc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "ctr",
+          "mean": "ngược cho những súng, inksticks, palanquins, jinrikisha"
+        }
+      ],
+      "mobileId": 113709,
+      "phonetic": "てい",
+      "word": "挺"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68120915",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thành vấn đề"
+        }
+      ],
+      "mobileId": 588,
+      "phonetic": "はちてい",
+      "related_words": {
+        "word": [
+          "八"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "八挺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "熟練",
+                "八丁"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "八挺"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

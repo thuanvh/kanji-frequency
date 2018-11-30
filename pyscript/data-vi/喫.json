@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a082820",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "manga cafe, coffee shop with a manga library (usu. has Internet facilities and charges by the hour)"
+        }
+      ],
+      "mobileId": 223659,
+      "phonetic": "まんきつ",
+      "word": "漫喫"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f33fd5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "having a meal, eating something"
+        }
+      ],
+      "mobileId": 280538,
+      "phonetic": "きっしょく",
+      "word": "喫食"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e70c5b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ăn, thức ăn"
+        }
+      ],
+      "mobileId": 25230,
+      "phonetic": "",
+      "word": "喫飯"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c01e4986",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5m, vt",
+          "mean": "to smoke (tobacco)"
+        }
+      ],
+      "mobileId": 190129,
+      "phonetic": "のむ",
+      "word": "喫む"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954b46ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới khói"
+        }
+      ],
+      "mobileId": 58500,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "喫う",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "吸う",
+                "しゃぶる",
+                "ちゅうちゅう吸う",
+                "嘗める",
+                "舐める"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "吸う",
+                "吹かす",
+                "喫する"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "喫う"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b1f678",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "ăn uống"
+        }
+      ],
+      "mobileId": 278404,
+      "phonetic": "きついん",
+      "word": "喫飲"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

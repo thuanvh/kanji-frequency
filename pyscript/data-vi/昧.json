@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "_id": "f2d618ceb0702f781ec83b7d4f50f429",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "[A] は何の 意昧ですか",
+              "mean": "[A] có nghĩa là gì vậy ?"
+            }
+          ],
+          "kind": "",
+          "mean": "ý nghĩa"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "いくら",
+      "word": "意昧"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5386bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự ngu dốt, sự không biết, ngu si hưởng thái bình"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "không được làm sáng tỏ, không được làm giải thoát khỏi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chưa khai hoá, còn mọi rợ, không văn minh"
+        }
+      ],
+      "mobileId": 71433,
+      "phonetic": "",
+      "word": "矇昧"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd538a3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự ngu dốt, sự không biết, ngu si hưởng thái bình"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "không được làm sáng tỏ, không được làm giải thoát khỏi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chưa khai hoá, còn mọi rợ, không văn minh"
+        }
+      ],
+      "mobileId": 71434,
+      "phonetic": "",
+      "word": "曚昧"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

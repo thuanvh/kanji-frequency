@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08016b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dragon-slaying"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Kawasaki Ki-45 (WWII heavy fighter aircraft)"
+        }
+      ],
+      "mobileId": 285038,
+      "phonetic": "とりょう",
+      "word": "屠竜"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4eefcf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abattoir, slaughterhouse"
+        }
+      ],
+      "mobileId": 217614,
+      "phonetic": "とちくじょう",
+      "word": "屠畜場"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6e6e4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slaughterhouse worker, abattoir worker"
+        }
+      ],
+      "mobileId": 218635,
+      "phonetic": "とちくじょうじゅうぎょういん",
+      "word": "屠畜場従業員"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea7b929",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rên rỉ, lẩm bẩm"
+        }
+      ],
+      "mobileId": 116403,
+      "phonetic": "",
+      "word": "咄咄"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea7b917",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, adv",
+          "mean": "rên rỉ, lẩm bẩm"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, adv",
+          "mean": "ngập ngừng, lưỡng lự, ngắc ngứ"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, adv",
+          "mean": "ấp úng, ngập ngừng, loạng choạng, sút kém, nao núng (tinh thần, trí nhớ...)"
+        }
+      ],
+      "mobileId": 116402,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "々"
+        ]
+      },
+      "word": "咄々"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

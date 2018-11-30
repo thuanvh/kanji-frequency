@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ace77ed",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "お父さん, 小鳥たちは秋になったのがわかるの.",
+              "mean": "Bố ơi, những con chim nhỏ kia có biết rằng trời đã sang thu không?",
+              "transcription": "おとうさん,ことりたちはあきになったのがわかるの."
+            },
+            {
+              "content": "なるほど秋の日は釣瓶(つるべ)落としだ.",
+              "mean": "Hoàng hôn buông xuống rất nhanh vào mùa thu",
+              "transcription": "なるほどあきのひはつるべ(つるべ)おとしだ."
+            }
+          ],
+          "kind": "n-t",
+          "mean": "mùa thu"
+        },
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "thu ."
+        }
+      ],
+      "mobileId": 173747,
+      "opposite_word": [
+        "春"
+      ],
+      "phonetic": "あき",
+      "related_words": {
+        "word": [
+          "千秋",
+          "秋刀魚",
+          "秋の",
+          "千秋楽",
+          "秋分",
+          "初秋",
+          "晩秋",
+          "秋風",
+          "秋雨",
+          "中秋の名月"
+        ]
+      },
+      "word": "秋"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00c4964",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "autumn floods"
+        }
+      ],
+      "mobileId": 281359,
+      "phonetic": "あきでみず",
+      "word": "秋出水"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824334d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "merganser (any duck of genus Mergus)"
+        }
+      ],
+      "mobileId": 233754,
+      "phonetic": "あいさ あきさ アイサ",
+      "word": "秋沙"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7716139e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "autumn where the foliage is as beautiful as brocade, autumn with beautiful leaves"
+        }
+      ],
+      "mobileId": 265166,
+      "phonetic": "きんしゅう",
+      "word": "錦秋"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2fff30",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vụ cấy thu, vụ gieo trồng mùa thu"
+        }
+      ],
+      "mobileId": 11323,
+      "phonetic": "あきまき",
+      "word": "秋蒔き"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00a29aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "autumn saba, mackerel caught in autumn"
+        }
+      ],
+      "mobileId": 281290,
+      "phonetic": "あきさば",
+      "word": "秋鯖"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cc2854",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "deep autumn (when the autumn has reached its climax)"
+        }
+      ],
+      "mobileId": 262810,
+      "phonetic": "あきふかし",
+      "word": "秋深し"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aca01f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "autumn olive (Elaeagnus umbellata), Japanese silverberry, oleaster"
+        }
+      ],
+      "mobileId": 229867,
+      "phonetic": "あきぐみ",
+      "word": "秋茱萸"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a549f0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "end of autumn (fall)"
+        }
+      ],
+      "mobileId": 226120,
+      "phonetic": "びょうしゅう",
+      "word": "杪秋"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a832a12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "salmon (esp. salmon swimming upstream in the autumn)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "salted salmon"
+        }
+      ],
+      "mobileId": 227584,
+      "phonetic": "あきあじ",
+      "word": "秋味"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

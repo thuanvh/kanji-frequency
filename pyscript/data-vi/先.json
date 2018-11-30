@@ -1,0 +1,350 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7ddee8b7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "先々のことまで考える",
+              "mean": "suy tính chuyện tương lai",
+              "transcription": "さきざきのことまでかんがえる"
+            },
+            {
+              "content": "指の先",
+              "mean": "đầu ngón tay",
+              "transcription": "ゆびのさき"
+            }
+          ],
+          "kind": "n, adj-no, n-suf, pref",
+          "mean": "đầu mút; điểm đầu; tương lai"
+        },
+        {
+          "examples": [
+            {
+              "content": "この先2カ月間",
+              "mean": "hai tháng trước đây .",
+              "transcription": "このさき2かげつかん"
+            }
+          ],
+          "kind": "n, adj-no, n-suf, pref",
+          "mean": "trước đây"
+        }
+      ],
+      "mobileId": 145244,
+      "opposite_word": [
+        "後",
+        "先"
+      ],
+      "phonetic": "さき",
+      "related_words": {
+        "word": [
+          "連絡先",
+          "先輩",
+          "先生",
+          "取引先",
+          "先週",
+          "優先",
+          "優先順位",
+          "先頭",
+          "宛先",
+          "先行"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "先",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "崎",
+                "端",
+                "穂",
+                "先頭",
+                "先端",
+                "穂先",
+                "先登",
+                "岬",
+                "頂",
+                "尖端"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "後々",
+                "先行",
+                "末々",
+                "未来",
+                "先先",
+                "末末",
+                "後後",
+                "行先",
+                "後",
+                "先行き",
+                "行方",
+                "将来"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "端",
+                "端末",
+                "先端",
+                "末梢",
+                "末端",
+                "外れ",
+                "後端",
+                "尻",
+                "尖端",
+                "極端",
+                "末",
+                "最後",
+                "末つ方"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先端",
+                "上端",
+                "頂点",
+                "頂上",
+                "頂",
+                "尖端",
+                "ヘッド"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "崎",
+                "端",
+                "穂",
+                "先端",
+                "穂先",
+                "岬",
+                "尖端"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先端"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "先"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab9e1bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "new address"
+        }
+      ],
+      "mobileId": 229346,
+      "phonetic": "てんしゅつさき",
+      "word": "転出先"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad5d535",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "collar points"
+        }
+      ],
+      "mobileId": 230273,
+      "phonetic": "えりさき",
+      "word": "襟先"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca030637a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "source (of supply), channel"
+        }
+      ],
+      "mobileId": 282497,
+      "phonetic": "にゅうしゅさき",
+      "related_words": {
+        "word": [
+          "先",
+          "入手",
+          "手"
+        ]
+      },
+      "word": "入手先"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107c6b175",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Địa chỉ ."
+        }
+      ],
+      "mobileId": 55179,
+      "phonetic": "さしだしさき",
+      "word": "差し出し先"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d76a80",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cầm (lấy) sáng kiến"
+        }
+      ],
+      "mobileId": 62988,
+      "phonetic": "そちさき",
+      "related_words": {
+        "word": [
+          "先",
+          "帥"
+        ]
+      },
+      "word": "帥先"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada997d3b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "それは難しいですね。これから取引先に行かなくてはならないので。",
+              "mean": "Thật khó quá, tôi phải đi gặp khách hàng bây giờ",
+              "transcription": "それはむずかしいですね。これからとりひきさきにいかなくてはならないので。"
+            },
+            {
+              "content": "通常の取引先からの納品がないために〜が緊急に必要だ",
+              "mean": "cần...khẩn cấp vì nhà cung cấp thường xuyên không đáp ứng .",
+              "transcription": "つうじょうのとりひきさきからののうひんがないために〜がきんきゅうにひつようだ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Khách hàng"
+        }
+      ],
+      "mobileId": 79468,
+      "phonetic": "とりひきさき",
+      "related_words": {
+        "word": [
+          "先",
+          "取引"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "取引先",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "得意",
+                "クライアント",
+                "常連",
+                "顧客",
+                "取り引き先",
+                "馴染",
+                "贔屓"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "得意",
+                "クライアント",
+                "お客さん",
+                "顧客",
+                "取り引き先",
+                "お客様",
+                "買手",
+                "客",
+                "得意先",
+                "買い手"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "取引先"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d957451",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ (của) việc làm"
+        }
+      ],
+      "mobileId": 150467,
+      "phonetic": "しゅうしょくさき",
+      "related_words": {
+        "word": [
+          "先",
+          "就職",
+          "職"
+        ]
+      },
+      "word": "就職先"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d1f7e79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trước nữa"
+        }
+      ],
+      "mobileId": 146738,
+      "phonetic": "せんとなり",
+      "related_words": {
+        "word": [
+          "先",
+          "隣"
+        ]
+      },
+      "word": "先隣"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d21a70b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "dạng chùy"
+        }
+      ],
+      "mobileId": 146796,
+      "opposite_word": [
+        "先細"
+      ],
+      "phonetic": "さきふとし",
+      "related_words": {
+        "word": [
+          "先"
+        ]
+      },
+      "word": "先太"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

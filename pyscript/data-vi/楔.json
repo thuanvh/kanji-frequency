@@ -1,0 +1,119 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f6b97f4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "骨間楔間靱帯",
+              "mean": "Dây chằng giữa các khớp xương",
+              "transcription": "ほねかんくさびかんじんたい"
+            },
+            {
+              "content": "〜の楔状の部分切除",
+              "mean": "cắt bỏ phần hình ghim của ~ .",
+              "transcription": "〜のけつじょうのぶぶんせつじょ"
+            }
+          ],
+          "kind": "n",
+          "mean": "đinh ghim"
+        }
+      ],
+      "mobileId": 186745,
+      "phonetic": "くさび",
+      "word": "楔"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be02d620",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chia ra từng phần cái nêm"
+        }
+      ],
+      "mobileId": 89391,
+      "phonetic": "わりくさび",
+      "related_words": {
+        "word": [
+          "割",
+          "割り",
+          "楔"
+        ]
+      },
+      "word": "割り楔"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f6baa0a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "楔形燃焼室",
+              "mean": "Buồng đốt hình nêm .",
+              "transcription": "くさびがたねんしょうしつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "hình cái nêm"
+        }
+      ],
+      "mobileId": 186746,
+      "phonetic": "くさびがた",
+      "related_words": {
+        "word": [
+          "形",
+          "楔"
+        ]
+      },
+      "word": "楔形"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef965a2dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ice wedge"
+        }
+      ],
+      "mobileId": 275978,
+      "phonetic": "ひょうせつ",
+      "word": "氷楔"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b7d8f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wedge, lynchpin, cotter"
+        }
+      ],
+      "mobileId": 262152,
+      "phonetic": "けっし",
+      "word": "楔子"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91e65e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wedge (for securing objects together)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tie, bond"
+        }
+      ],
+      "mobileId": 273746,
+      "phonetic": "あいのくさび",
+      "word": "間の楔"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

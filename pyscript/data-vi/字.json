@@ -1,0 +1,265 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1076bcb1a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "手書きで丁寧に書き込まれた字",
+              "mean": "Chữ được viết rất cẩn thận bằng tay",
+              "transcription": "てがきでていねいにかきこまれたじ"
+            },
+            {
+              "content": "ぬたくったような字",
+              "mean": "Chữ viết cẩu thả",
+              "transcription": "ぬたくったようなじ"
+            }
+          ],
+          "kind": "n, suf",
+          "mean": "chữ"
+        },
+        {
+          "examples": null,
+          "kind": "n, suf",
+          "mean": "khu phố nhật bản; thôn"
+        }
+      ],
+      "mobileId": 53692,
+      "phonetic": "あざ",
+      "related_words": {
+        "word": [
+          "漢字",
+          "文字",
+          "字幕",
+          "数字",
+          "大文字",
+          "文字列",
+          "ローマ字",
+          "習字",
+          "赤字",
+          "頭文字"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "字",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "墨痕",
+                "手書き",
+                "墨付き",
+                "筆跡"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "執筆",
+                "作文",
+                "文書",
+                "筆跡"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "アルファベット",
+                "文字",
+                "レター"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "字"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1076be1a2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "補助母音字",
+              "mean": "nguyên âm bổ trợ",
+              "transcription": "ほじょぼいんじ"
+            },
+            {
+              "content": "読みやすい字",
+              "mean": "Chữ viết dễ nhìn",
+              "transcription": "よみやすいじ"
+            }
+          ],
+          "kind": "n",
+          "mean": "chữ"
+        }
+      ],
+      "mobileId": 53693,
+      "phonetic": "じ",
+      "related_words": {
+        "word": [
+          "漢字",
+          "文字",
+          "字幕",
+          "数字",
+          "大文字",
+          "文字列",
+          "ローマ字",
+          "習字",
+          "赤字",
+          "頭文字"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "字",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "墨痕",
+                "手書き",
+                "墨付き",
+                "筆跡"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "執筆",
+                "作文",
+                "文書",
+                "筆跡"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "アルファベット",
+                "文字",
+                "レター"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "字"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d542b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "letter by letter, character by character"
+        }
+      ],
+      "mobileId": 213724,
+      "phonetic": "いちじいちじ",
+      "word": "一字一字"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931b4a48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đặc tính đầu tiên ((của) một mục vào từ điển)"
+        }
+      ],
+      "mobileId": 18797,
+      "phonetic": "しんじ",
+      "related_words": {
+        "word": [
+          "親",
+          "字"
+        ]
+      },
+      "word": "親字"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933028bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giải thích ý nghĩa của từ hay từ kanji"
+        }
+      ],
+      "mobileId": 19453,
+      "phonetic": "かいじ",
+      "word": "解字"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193010722",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji rời bỏ unpronounced khi nào tiếng trung hoa đọc"
+        }
+      ],
+      "mobileId": 17914,
+      "phonetic": "おきじ",
+      "word": "置き字"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3fec88",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chữ Hán được dùng để mượn âm mà không sử dụng ý nghĩa nguyên thủy"
+        }
+      ],
+      "mobileId": 11837,
+      "phonetic": "あてじ",
+      "word": "宛て字"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b6db709",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "indentation"
+        }
+      ],
+      "mobileId": 243356,
+      "phonetic": "じさげ",
+      "word": "字下げ"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833ba90836",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "internal character"
+        }
+      ],
+      "mobileId": 245237,
+      "phonetic": "ないじ",
+      "word": "内字"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bc73893",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fill character"
+        }
+      ],
+      "mobileId": 246193,
+      "phonetic": "うめじ",
+      "word": "埋め字"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

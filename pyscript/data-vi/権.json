@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f762aa6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "土地所有（権）",
+              "mean": "quyền sở hữu đất đai",
+              "transcription": "とちしょゆう（けん）"
+            },
+            {
+              "content": "間接発議（権)",
+              "mean": "quyền đề xuất gián tiếp",
+              "transcription": "かんせつほつぎ（けん)"
+            },
+            {
+              "content": "限定された自治（権）",
+              "mean": "quyền tự trị được giới hạn",
+              "transcription": "げんていされたじち（けん）"
+            },
+            {
+              "content": "閲覧（権）",
+              "mean": "quyền duyệt lãm",
+              "transcription": "えつらん（けん）"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n-suf, n",
+          "mean": "quyền; quyền lợi; thẩm quyền"
+        }
+      ],
+      "mobileId": 186884,
+      "phonetic": "けん",
+      "related_words": {
+        "word": [
+          "権限",
+          "著作権",
+          "権利",
+          "債権",
+          "権力",
+          "版権",
+          "所有権",
+          "特許権",
+          "債権者",
+          "主導権"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "権",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "権力"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "権利",
+                "権能"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "権能",
+                "権力",
+                "決定権",
+                "権限",
+                "委任"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "権"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b220e7933",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Ủy quyền"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "権付与"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c7f9cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền lợi phát thanh"
+        }
+      ],
+      "mobileId": 6381,
+      "phonetic": "ほうそうけん",
+      "word": "放送権"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e844cdff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chủ quyền trên không"
+        }
+      ],
+      "mobileId": 35712,
+      "phonetic": "くうちゅうけん",
+      "word": "空中権"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8817a3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền quyết định"
+        }
+      ],
+      "mobileId": 37644,
+      "phonetic": "けっていけん",
+      "related_words": {
+        "word": [
+          "決定",
+          "権"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "決定権",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "権能",
+                "権力",
+                "権限",
+                "委任",
+                "権"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "決定権"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e882acc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền bầu cử"
+        }
+      ],
+      "mobileId": 37679,
+      "phonetic": "けつぎけん",
+      "word": "決議権"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e888aab1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viên chức có quyền lực mạnh"
+        }
+      ],
+      "mobileId": 37867,
+      "phonetic": "けんかん",
+      "word": "権官"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19371f317",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tộc trưởng ngay"
+        }
+      ],
+      "mobileId": 21550,
+      "phonetic": "かちょうけん",
+      "word": "家長権"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19383e65b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền cổ đông"
+        }
+      ],
+      "mobileId": 22119,
+      "phonetic": "かぶぬしけん",
+      "word": "株主権"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdda032e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền cư trú (định cư) vĩnh viễn (đối với người nước ngoài)"
+        }
+      ],
+      "mobileId": 16663,
+      "phonetic": "えいじゅうけん",
+      "related_words": {
+        "word": [
+          "住",
+          "権",
+          "永住"
+        ]
+      },
+      "word": "永住権"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

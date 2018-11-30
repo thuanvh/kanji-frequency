@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4cbc83",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(1) giáo viên; người chủ; một có người cố vấn;(2) đáng tôn kính"
+        }
+      ],
+      "mobileId": 148173,
+      "opposite_word": [
+        "弟子",
+        "弟"
+      ],
+      "phonetic": "し",
+      "related_words": {
+        "word": [
+          "看護師",
+          "講師",
+          "教師",
+          "薬剤師",
+          "詐欺師",
+          "家庭教師",
+          "魔術師",
+          "医師",
+          "美容師",
+          "師匠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "師",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "先生",
+                "師範",
+                "教師",
+                "師匠",
+                "師家",
+                "教員"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先生",
+                "師範",
+                "親方",
+                "宗匠",
+                "師匠",
+                "マスター",
+                "指南"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "師"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933b0b0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người giật dây"
+        }
+      ],
+      "mobileId": 19815,
+      "phonetic": "かいらいし",
+      "related_words": {
+        "word": [
+          "師",
+          "傀儡"
+        ]
+      },
+      "word": "傀儡師"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e1031e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người làm trò ảo thuật, thầy phù thuỷ, pháp sư, người thông minh khác thường; người rất khéo; người có tài cán"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghệ sĩ xiên tung hứng, nghệ sĩ múa rối, kẻ lừa bịp, kẻ lừa gạt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuật sĩ, pháp sư, thầy phù thuỷ"
+        }
+      ],
+      "mobileId": 25032,
+      "phonetic": "きじゅつし",
+      "word": "奇術師"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae8f6b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "qigong therapist"
+        }
+      ],
+      "mobileId": 230891,
+      "phonetic": "きこうし",
+      "word": "気功師"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107f6b4d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kiến trúc sư ."
+        }
+      ],
+      "mobileId": 55959,
+      "phonetic": "けんちくし",
+      "word": "建築師"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0556c06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cutler"
+        }
+      ],
+      "mobileId": 283703,
+      "phonetic": "はものし",
+      "word": "刃物師"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027fccc96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Dược sĩ ."
+        }
+      ],
+      "mobileId": 33399,
+      "phonetic": "ちょうざいし",
+      "word": "調剤師"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdcd3112",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phần, mức, ngạch; lượng, định lượng, lượng tử"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đi săn, người đi lùng, người đi kiếm, ngựa săn, đồng hồ có nắp  hungting, watch)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đi săn, người phụ trách chó săn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đánh cá, thuyền chài, người câu cá, người bắt cá, thuyền đánh cá"
+        }
+      ],
+      "mobileId": 75346,
+      "phonetic": "りょうし",
+      "word": "良師"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0b2470",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(một (của)) một trình diễn đôi hài hước"
+        }
+      ],
+      "mobileId": 69145,
+      "phonetic": "まんざいし",
+      "word": "漫才師"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93cc1f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "astrologer"
+        }
+      ],
+      "mobileId": 274711,
+      "phonetic": "せんせいじゅつし",
+      "word": "占星術師"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

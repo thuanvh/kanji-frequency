@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74048039",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dây đàn ."
+        }
+      ],
+      "mobileId": 97585,
+      "phonetic": "つる",
+      "related_words": {
+        "word": [
+          "正弦波",
+          "下弦の月",
+          "下弦",
+          "上弦",
+          "管弦",
+          "管弦楽",
+          "管弦楽団"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "弦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "弓弦"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ストリング",
+                "緒",
+                "糸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "綱"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "弦"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d1b106",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dây bổ sung"
+        }
+      ],
+      "mobileId": 6690,
+      "phonetic": "ほつる",
+      "word": "補弦"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d30bd2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "string theory"
+        }
+      ],
+      "mobileId": 216656,
+      "phonetic": "げんりろん",
+      "word": "弦理論"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e54654b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự lên dây, sự điều chỉnh làn sóng; sự bắt làn sóng"
+        }
+      ],
+      "mobileId": 113735,
+      "phonetic": "ちょうつる",
+      "related_words": {
+        "word": [
+          "弦"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "調弦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "調律",
+                "チューニング"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "調弦"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d377380",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đàn Nhật ba dây"
+        }
+      ],
+      "mobileId": 147493,
+      "phonetic": "さんげん",
+      "related_words": {
+        "word": [
+          "三",
+          "弦"
+        ]
+      },
+      "word": "三弦"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d21419b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional Japanese woodworking saw, bow saw"
+        }
+      ],
+      "mobileId": 216170,
+      "phonetic": "つるのこ",
+      "word": "弦鋸"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e52f98d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reel for a spare bowstring"
+        }
+      ],
+      "mobileId": 250699,
+      "phonetic": "つるぶくろ",
+      "word": "弦袋"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89fc4d4",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "thiết kế thanh dàn"
+        }
+      ],
+      "mobileId": 38611,
+      "phonetic": "つるざい",
+      "word": "弦材"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6812f024",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhổ dụng cụ chuỗi"
+        }
+      ],
+      "mobileId": 622,
+      "phonetic": "ばちつる",
+      "word": "撥弦"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c026451e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "catgut"
+        }
+      ],
+      "mobileId": 208078,
+      "phonetic": "げんせん",
+      "word": "弦線"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

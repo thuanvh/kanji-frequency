@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7757becb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "guidance, guide"
+        }
+      ],
+      "mobileId": 267285,
+      "phonetic": "しるべ",
+      "word": "導"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb539ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bắt nguồn từ, dẫn xuất, phái sinh, chất dẫn xuất, từ phát sinh, đạo hàm"
+        }
+      ],
+      "mobileId": 116840,
+      "phonetic": "しるべかんすう",
+      "word": "導関数"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937a60bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự gây ảnh hưởng tốt; sự giáo hóa, sự giáo đạo"
+        }
+      ],
+      "mobileId": 21809,
+      "phonetic": "かしるべ",
+      "word": "化導"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02f7f3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "heresy, evil ways"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sorcery, magic"
+        }
+      ],
+      "mobileId": 208376,
+      "phonetic": "まどう",
+      "word": "魔導"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b52274",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "waveguide (usually optical)"
+        }
+      ],
+      "mobileId": 212683,
+      "phonetic": "どうはろ",
+      "word": "導波路"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebd21e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự dẫn; tính dẫn, độ dẫn"
+        }
+      ],
+      "mobileId": 117085,
+      "phonetic": "しるべでん",
+      "related_words": {
+        "word": [
+          "導電性",
+          "導電率",
+          "導電体"
+        ]
+      },
+      "word": "導電"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebd36f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính dẫn, suất dẫn"
+        }
+      ],
+      "mobileId": 117088,
+      "phonetic": "しるべでんど",
+      "related_words": {
+        "word": [
+          "度",
+          "導電"
+        ]
+      },
+      "word": "導電度"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5625d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghe thấy con chó giúp đỡ"
+        }
+      ],
+      "mobileId": 113788,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "犬"
+        ]
+      },
+      "word": "聴導犬"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebd437a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính dẫn, suất dẫn"
+        }
+      ],
+      "mobileId": 117089,
+      "phonetic": "どうでん りつ",
+      "related_words": {
+        "word": [
+          "率",
+          "導電"
+        ]
+      },
+      "word": "導電率"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9343129",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Đạo hàm từng phần."
+        }
+      ],
+      "mobileId": 257955,
+      "phonetic": "へんどうかんすう",
+      "word": "偏導関数"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

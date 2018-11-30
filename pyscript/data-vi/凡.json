@@ -1,0 +1,275 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada21aaa0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "凡を抜く",
+              "mean": "vượt lên sự tầm thường",
+              "transcription": "凡をぬく"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "tính chất xoàng; tính chất thường; sự tầm thường; sự xoàng xĩnh"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "tầm thường; xoàng; xoàng xĩnh ."
+        }
+      ],
+      "mobileId": 77462,
+      "phonetic": "ぼん",
+      "related_words": {
+        "word": [
+          "凡例",
+          "平凡",
+          "平凡な",
+          "凡人",
+          "非凡",
+          "凡庸",
+          "凡そ",
+          "凡骨",
+          "大凡"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "凡",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "凡庸",
+                "凡俗",
+                "十人並",
+                "凡愚",
+                "十人並み",
+                "中位",
+                "中分"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "摘要",
+                "総括",
+                "大意",
+                "大要",
+                "概略",
+                "シノプシス",
+                "撮要",
+                "粗筋",
+                "大筋",
+                "大体",
+                "概論",
+                "梗概",
+                "概要",
+                "綱要",
+                "要旨",
+                "要約",
+                "概括",
+                "概観",
+                "アウトライン",
+                "主旨",
+                "骨組み",
+                "筋書き",
+                "要領",
+                "概説",
+                "総説",
+                "要綱",
+                "綱領"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "摘要",
+                "総括",
+                "大意",
+                "大要",
+                "概略",
+                "撮要",
+                "大筋",
+                "概論",
+                "梗概",
+                "概要",
+                "要旨",
+                "要約",
+                "一つ書き",
+                "概括",
+                "概観",
+                "略",
+                "概説",
+                "総説",
+                "要綱",
+                "綱領",
+                "纏め"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "凡"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f131cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bình thường; thông thường"
+        }
+      ],
+      "mobileId": 7687,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "凡"
+        ]
+      },
+      "word": "凡凡たる"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0356e6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "ordinary, usual"
+        }
+      ],
+      "mobileId": 208565,
+      "phonetic": "ぼんぼん",
+      "word": "凡々"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68efeeef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bình thường, phàm nhân"
+        }
+      ],
+      "mobileId": 7651,
+      "phonetic": "",
+      "word": "凡器"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f0aedc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thầy tu tầm thường ; thầy tu bình thường"
+        }
+      ],
+      "mobileId": 7673,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "僧",
+          "凡"
+        ]
+      },
+      "word": "凡僧"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f0a03e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm tối trò chơi"
+        }
+      ],
+      "mobileId": 7672,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "戦",
+          "凡"
+        ]
+      },
+      "word": "凡戦"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f16994",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dễ cẩn thận (trong bóng chày)"
+        }
+      ],
+      "mobileId": 7692,
+      "phonetic": "",
+      "word": "凡フライ"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f0661a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bình thường, phàm nhân"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ordinary book"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ordinary handwriting"
+        }
+      ],
+      "mobileId": 7665,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "凡"
+        ]
+      },
+      "word": "凡庶"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f06c7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sách xoàng, sách thường; chữ viết bình thường (không đẹp)"
+        }
+      ],
+      "mobileId": 7666,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "凡"
+        ]
+      },
+      "word": "凡書"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bdd9512",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mediocrity, mediocre"
+        }
+      ],
+      "mobileId": 246915,
+      "phonetic": "はんたい",
+      "word": "凡体"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

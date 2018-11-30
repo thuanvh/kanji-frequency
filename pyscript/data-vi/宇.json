@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad2f641",
+      "means": [
+        {
+          "examples": null,
+          "kind": "ctr",
+          "mean": "counter for buildings, etc."
+        }
+      ],
+      "mobileId": 230184,
+      "phonetic": "う",
+      "word": "宇"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a86692",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sân bay vũ trụ"
+        }
+      ],
+      "mobileId": 38877,
+      "phonetic": "",
+      "word": "航宇"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c07dca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shrine"
+        }
+      ],
+      "mobileId": 262431,
+      "phonetic": "しう",
+      "word": "祠宇"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d91382",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chim cu cu, chàng ngốc, gáy cu cu, điên điên, gàn gàn"
+        }
+      ],
+      "mobileId": 6922,
+      "phonetic": "",
+      "word": "杜宇"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90d3bad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "temple (Buddhist)"
+        }
+      ],
+      "mobileId": 273191,
+      "phonetic": "ほうう",
+      "word": "法宇"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0450a16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Uruguay"
+        }
+      ],
+      "mobileId": 200827,
+      "phonetic": "ウルグアイ",
+      "word": "宇柳貝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

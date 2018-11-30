@@ -1,0 +1,217 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d214a65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "The End, Finis"
+        },
+        {
+          "examples": null,
+          "kind": "n-suf, n",
+          "mean": "completion, conclusion, end"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "providing fully"
+        }
+      ],
+      "mobileId": 216171,
+      "opposite_word": [
+        "欠"
+      ],
+      "phonetic": "かん",
+      "word": "完"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca096ebce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "confirmed as completed"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "everything must go (e.g. in a sale)"
+        }
+      ],
+      "mobileId": 285768,
+      "phonetic": "かんかん",
+      "word": "完完"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5cba5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "hoàn thành sau đó"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "additional publication"
+        }
+      ],
+      "mobileId": 114003,
+      "phonetic": "ついかん",
+      "word": "追完"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04cca90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "feeding an infant solely with breast milk (i.e. no formula)"
+        }
+      ],
+      "mobileId": 283416,
+      "phonetic": "かんぼ",
+      "word": "完母"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6ded1362",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "eating everything (on one's plate, etc.)"
+        }
+      ],
+      "mobileId": 222787,
+      "phonetic": "かんしょく",
+      "word": "完食"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6ded2067",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "drinking everything (in one's glass, etc.)"
+        }
+      ],
+      "mobileId": 222788,
+      "phonetic": "かんいん",
+      "word": "完飲"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b1d023",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mẫu (dạng) tốt nhất (của) ai đó"
+        }
+      ],
+      "mobileId": 23549,
+      "phonetic": "かんちょう",
+      "word": "完調"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a892dab",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Thức cả đêm"
+        }
+      ],
+      "mobileId": 227780,
+      "phonetic": "かんてつ",
+      "word": "完徹"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0236bd4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "existing in full, remaining completely"
+        }
+      ],
+      "mobileId": 282080,
+      "phonetic": "かんそん",
+      "word": "完存"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10779d185",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hoàn thiện; sự toàn vẹn ."
+        }
+      ],
+      "mobileId": 53896,
+      "phonetic": "かんべき",
+      "related_words": {
+        "word": [
+          "壁"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "完壁",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "完璧",
+                "完ぺき",
+                "完全"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "完璧",
+                "万全",
+                "完ぺき",
+                "無傷"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コンプリート",
+                "完璧",
+                "万全",
+                "丸",
+                "完ぺき",
+                "完全",
+                "充実した"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "完璧",
+                "上々",
+                "万全",
+                "上上",
+                "完ぺき",
+                "完全",
+                "上乗",
+                "純正",
+                "純然たる",
+                "見事",
+                "理想的"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "完壁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

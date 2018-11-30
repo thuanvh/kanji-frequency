@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107e7b703",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "幾ら",
+              "mean": "bao nhiêu tiền.v.v...",
+              "transcription": "いくら"
+            },
+            {
+              "content": "幾つ",
+              "mean": "bao nhiêu cái .",
+              "transcription": "いくつ"
+            }
+          ],
+          "kind": "n, pref",
+          "mean": "bao nhiêu"
+        }
+      ],
+      "mobileId": 55731,
+      "phonetic": "いく",
+      "related_words": {
+        "word": [
+          "幾何学",
+          "幾つ",
+          "年はお幾つですか？",
+          "幾つか",
+          "幾何",
+          "幾らか",
+          "幾らですか？",
+          "幾分",
+          "幾多"
+        ]
+      },
+      "word": "幾"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77012d85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "what age?, how old?"
+        }
+      ],
+      "mobileId": 264494,
+      "phonetic": "いくさい",
+      "word": "幾歳"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd66fa8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "mãi mãi, vĩnh viễn"
+        }
+      ],
+      "mobileId": 13081,
+      "phonetic": "いくひさしく",
+      "word": "幾久しく"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd671b03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "như thế nào nhiều; như thế nào nhiều"
+        }
+      ],
+      "mobileId": 13084,
+      "phonetic": "いくほど",
+      "word": "幾程"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6667bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghìn"
+        }
+      ],
+      "mobileId": 13066,
+      "phonetic": "いくせん",
+      "related_words": {
+        "word": [
+          "千",
+          "幾"
+        ]
+      },
+      "word": "幾千"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd66a922",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhiều cách"
+        }
+      ],
+      "mobileId": 13072,
+      "phonetic": "いくとおり",
+      "word": "幾通り"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef900c330",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "several kinds of, several varieties of"
+        }
+      ],
+      "mobileId": 272787,
+      "phonetic": "いくしゅるい",
+      "word": "幾種類"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6683a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số người"
+        }
+      ],
+      "mobileId": 13069,
+      "phonetic": "いくにん",
+      "word": "幾人"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0470909",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "extract (esp. of food, fruit, etc.), essence"
+        }
+      ],
+      "mobileId": 200889,
+      "phonetic": "えきす エキス",
+      "word": "越幾斯"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6166b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adj-no",
+          "mean": "several people, some people"
+        }
+      ],
+      "mobileId": 251171,
+      "phonetic": "いくにんか",
+      "word": "幾人か"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

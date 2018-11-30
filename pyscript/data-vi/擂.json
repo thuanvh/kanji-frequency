@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9187295",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grinding"
+        }
+      ],
+      "mobileId": 273555,
+      "phonetic": "らいかい",
+      "word": "擂潰"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280275b282e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người nịnh hót; người a dua; kẻ xu nịnh; xu nịnh; kẻ nịnh hót; kẻ xu nịnh ."
+        }
+      ],
+      "mobileId": 30618,
+      "phonetic": "ごますり",
+      "related_words": {
+        "word": [
+          "麻",
+          "胡麻"
+        ]
+      },
+      "word": "胡麻擂"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9107187",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mortar (for grinding)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mortar-shaped container"
+        }
+      ],
+      "mobileId": 273298,
+      "phonetic": "らいぼん",
+      "word": "擂盆"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

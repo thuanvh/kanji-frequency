@@ -1,0 +1,122 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cad6c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự nạo thìa"
+        }
+      ],
+      "mobileId": 62564,
+      "phonetic": "",
+      "word": "掻爬"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e81f614",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "creeping, crawling"
+        }
+      ],
+      "mobileId": 252219,
+      "phonetic": "はこう",
+      "word": "爬行"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7a8427",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Okinawan dragon boat race"
+        }
+      ],
+      "mobileId": 251977,
+      "phonetic": "はありい ハーリー",
+      "word": "爬龍"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a25c390",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "爬虫類の皮のような模様の",
+              "mean": "Hoa văn giống da của các loại bò sát .",
+              "transcription": "はちゅうるいのかわのようなもようの"
+            }
+          ],
+          "kind": "n",
+          "mean": "Bò sát"
+        }
+      ],
+      "mobileId": 170998,
+      "phonetic": "はちゅう",
+      "related_words": {
+        "word": [
+          "虫"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "爬虫",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "爬虫類"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "爬虫"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0957076",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sluggishness"
+        }
+      ],
+      "mobileId": 211641,
+      "phonetic": "はこうせい",
+      "word": "爬行性"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6030a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "herpetology"
+        }
+      ],
+      "mobileId": 251131,
+      "phonetic": "はちゅうりょうせいるいがく",
+      "word": "爬虫両棲類学"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92d5f47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Reptilia"
+        }
+      ],
+      "mobileId": 274221,
+      "phonetic": "はちゅうこう",
+      "word": "爬虫綱"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

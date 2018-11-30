@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3c15c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sansuikaku (tên quán ăn)"
+        }
+      ],
+      "mobileId": 147643,
+      "phonetic": "",
+      "word": "山水閣"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90d6d29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "splendid multistoried building"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Ministry of Central Affairs (under the ritsuryo system)"
+        }
+      ],
+      "mobileId": 273196,
+      "phonetic": "ほうかく",
+      "word": "鳳閣"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f99eb54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lâu đài; cung điện ."
+        }
+      ],
+      "mobileId": 187445,
+      "phonetic": "でんかく",
+      "word": "殿閣"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

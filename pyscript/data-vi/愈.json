@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd7bc190",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Càng ngày càng tăng."
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Cuối cùng, chắc chắn rồi, khi."
+        }
+      ],
+      "mobileId": 72694,
+      "phonetic": "いよいよ",
+      "synsets": [
+        {
+          "base_form": "愈",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "次第に",
+                "益益",
+                "愈愈",
+                "加えて",
+                "愈々"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "漸く",
+                "到頭",
+                "遂に",
+                "愈愈",
+                "ようやく",
+                "愈々"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "愈"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f745db8f6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼らはその計画にいよいよ深入りしていった",
+              "mean": "họ ngày càng lún sâu vào kế hoạch đó",
+              "transcription": "かれらはそのけいかくにいよいよふかいりしていった"
+            },
+            {
+              "content": "いよいよ困難になる",
+              "mean": "càng ngày càng khó khăn .",
+              "transcription": "いよいよこんなんになる"
+            }
+          ],
+          "kind": "adv",
+          "mean": "càng ngày càng; càng...càng; hơn bao giờ hết; ngày càng"
+        }
+      ],
+      "mobileId": 98834,
+      "phonetic": "いよいよ",
+      "related_words": {
+        "word": [
+          "愈"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "愈愈",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "次第に",
+                "愈",
+                "益益",
+                "加えて",
+                "愈々"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "愈",
+                "漸く",
+                "到頭",
+                "遂に",
+                "ようやく",
+                "愈々"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "愈愈"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9e0b88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "càng ngày càng; mọi thứ hơn; ngày càng tăng; cuối cùng; chắc chắn"
+        }
+      ],
+      "mobileId": 14802,
+      "phonetic": "いよいよ々",
+      "related_words": {
+        "word": [
+          "愈"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "愈々",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "次第に",
+                "愈",
+                "益益",
+                "愈愈",
+                "加えて"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "愈",
+                "漸く",
+                "到頭",
+                "遂に",
+                "愈愈",
+                "ようやく"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "愈々"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280275fa1ae",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "畳の上に１時間も座っていたので脚がしびれた。",
+              "mean": "Chân tôi tê dại đi sau khi ngồi chiếu suốt 1 giờ đồng hồ. .",
+              "transcription": "たたみのうえにいちじかんもすわっていたのであしがしびれた。"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "cái chân"
+        }
+      ],
+      "mobileId": 30695,
+      "opposite_word": [
+        "腕"
+      ],
+      "phonetic": "あし",
+      "related_words": {
+        "word": [
+          "脚本",
+          "三脚",
+          "脚注",
+          "脚立",
+          "二人三脚",
+          "脚本家",
+          "脚部",
+          "失脚",
+          "行脚",
+          "脚気"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "脚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "脚部",
+                "足"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "脚部",
+                "下腿",
+                "骭",
+                "脛"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "四肢"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "義足"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "足"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "脚"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd409258",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chân sau của động vật bốn chân"
+        }
+      ],
+      "mobileId": 11858,
+      "opposite_word": [
+        "前足",
+        "前脚"
+      ],
+      "phonetic": "こうあし",
+      "word": "後脚"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e458c57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "walking leg (esp. of an arthropod), ambulatory leg"
+        }
+      ],
+      "mobileId": 250264,
+      "phonetic": "ほきゃく",
+      "word": "歩脚"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a99ac7fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hands and feet"
+        }
+      ],
+      "mobileId": 261230,
+      "phonetic": "しゅきゃく",
+      "word": "手脚"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932b23f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bước sải chân"
+        }
+      ],
+      "mobileId": 19301,
+      "phonetic": "かい きゃく",
+      "word": "開脚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94dc13f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Bệnh do thiếu vitamin B1"
+        }
+      ],
+      "mobileId": 275229,
+      "phonetic": "かくびょう",
+      "word": "脚病"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0390281",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bare feet"
+        }
+      ],
+      "mobileId": 282794,
+      "phonetic": "せっきゃく しゃっきゃく",
+      "word": "赤脚"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca017c004",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bow legs, bowlegs, bow-leggedness"
+        }
+      ],
+      "mobileId": 281723,
+      "opposite_word": [
+        "Ｘ脚"
+      ],
+      "phonetic": "オーきゃく",
+      "word": "Ｏ脚"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95afce0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "những chân trước"
+        }
+      ],
+      "mobileId": 61697,
+      "opposite_word": [
+        "後ろ足",
+        "後足",
+        "後脚",
+        "後ろ脚"
+      ],
+      "phonetic": "ぜんあし",
+      "related_words": {
+        "word": [
+          "前",
+          "脚"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "前脚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "前肢",
+                "前足"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "前脚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e5df14",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "legged furniture"
+        }
+      ],
+      "mobileId": 280106,
+      "phonetic": "あしもの",
+      "word": "脚物"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

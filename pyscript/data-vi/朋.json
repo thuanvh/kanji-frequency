@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd88b7c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bạn"
+        }
+      ],
+      "mobileId": 73138,
+      "phonetic": "ともとも",
+      "related_words": {
+        "word": [
+          "友"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "友朋",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "馴染み",
+                "朋友",
+                "友人",
+                "仲間",
+                "馴染",
+                "同朋",
+                "味方",
+                "友垣",
+                "友達",
+                "仲良し",
+                "友"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "友朋"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

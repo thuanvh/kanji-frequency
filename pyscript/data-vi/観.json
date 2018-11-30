@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027cfbacc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "健康的な外観",
+              "mean": "dáng vẻ mạnh khỏe",
+              "transcription": "けんこうてきながいかん"
+            },
+            {
+              "content": "映画スターのような外観",
+              "mean": "có vẻ bề ngoài trông như một ngôi sao màn bạc (minh tinh màn bạc)",
+              "transcription": "えいがスターのようながいかん"
+            },
+            {
+              "content": "印象的な外観",
+              "mean": "bề ngoài ấn tượng",
+              "transcription": "いんしょうてきながいかん"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "bề ngoài; cảnh tượng; dáng vẻ"
+        },
+        {
+          "examples": [
+            {
+              "content": "高い倫理観に基づいて新聞報道を行う",
+              "mean": "làm công tác báo chí với tinh thần đạo đức cao đẹp",
+              "transcription": "たかいりんりかんにもとづいてしんぶんほうどうをおこなう"
+            },
+            {
+              "content": "生死観",
+              "mean": "quan niệm về sự sống và cái chết",
+              "transcription": "せいしかん"
+            },
+            {
+              "content": "政治観",
+              "mean": "quan điểm chính trị",
+              "transcription": "せいじかん"
+            },
+            {
+              "content": "美術観",
+              "mean": "khiếu thẩm mỹ (xu hướng mỹ thuật)",
+              "transcription": "びじゅつかん"
+            },
+            {
+              "content": "人類の歴史観",
+              "mean": "quan niệm về lịch sử nhân loại",
+              "transcription": "じんるいのれきしかん"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "quan điểm; khiếu; cách nhìn; quan niệm"
+        }
+      ],
+      "mobileId": 32736,
+      "phonetic": "かん",
+      "related_words": {
+        "word": [
+          "観光",
+          "外観",
+          "観光地",
+          "観覧車",
+          "観察",
+          "価値観",
+          "観葉植物",
+          "客観的",
+          "観光客",
+          "観測"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "観",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "様相",
+                "形相",
+                "身なり",
+                "外見",
+                "見せ掛け",
+                "格好",
+                "顔",
+                "血相",
+                "形状",
+                "恰好",
+                "見せかけ",
+                "姿",
+                "顔色",
+                "表情",
+                "顔付き",
+                "風体"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "観"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd348308",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảm thấy (của) tính kiêu căng (của) cuộc sống; sự nhận thức (của) sự tiêu tan (của) cuộc sống"
+        }
+      ],
+      "mobileId": 70469,
+      "phonetic": "むじょうかん",
+      "word": "無常観"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a899cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viewing noh, seeing a noh play, going to a noh theater"
+        }
+      ],
+      "mobileId": 278088,
+      "phonetic": "かんのう",
+      "word": "観能"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7ddf9b20",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "先入観にとらわれやすい",
+              "mean": "dễ bị ảnh hưởng bởi các định kiến",
+              "transcription": "せんにゅうかんにとらわれやすい"
+            },
+            {
+              "content": "性に関する先入観",
+              "mean": "định kiến về giới .",
+              "transcription": "せいにかんするせんにゅうかん"
+            }
+          ],
+          "kind": "n",
+          "mean": "thành kiến; định kiến"
+        }
+      ],
+      "mobileId": 145253,
+      "phonetic": "せんにゅうかん",
+      "related_words": {
+        "word": [
+          "先",
+          "観"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "先入観",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "偏好",
+                "依怙",
+                "偏り",
+                "バイアス",
+                "偏見",
+                "先入見",
+                "僻見",
+                "先入主",
+                "偏愛",
+                "傾向",
+                "依怙贔屓",
+                "偏執",
+                "傾き",
+                "不公平"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "先入観"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770053e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "maple-leaf viewing"
+        }
+      ],
+      "mobileId": 264467,
+      "phonetic": "かんぷう",
+      "word": "観楓"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d630aff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kan'ou era (of the Northern Court) (1350.2.27-1352.9.27)"
+        }
+      ],
+      "mobileId": 218272,
+      "phonetic": "かんおう",
+      "word": "観応"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df8ea1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one's view (opinion) of men"
+        }
+      ],
+      "mobileId": 223180,
+      "phonetic": "だんせいかん",
+      "word": "男性観"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6868f489",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quan niệm bình đẳng, cách nhìn không thiên vị"
+        }
+      ],
+      "mobileId": 3336,
+      "phonetic": "びょうどうかん",
+      "word": "平等観"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeb61c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chủ nghĩa bi quan, tính bi quan, tính yếm thế"
+        }
+      ],
+      "mobileId": 17227,
+      "phonetic": "えんせいかん",
+      "related_words": {
+        "word": [
+          "世",
+          "観",
+          "厭"
+        ]
+      },
+      "word": "厭世観"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a8ba5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bồ tát"
+        }
+      ],
+      "mobileId": 23273,
+      "phonetic": "かんじざい",
+      "related_words": {
+        "word": [
+          "観",
+          "自在"
+        ]
+      },
+      "word": "観自在"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

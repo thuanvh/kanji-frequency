@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e0e096a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clothing"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "binding (of a book)"
+        }
+      ],
+      "mobileId": 248448,
+      "phonetic": "そう",
+      "word": "装"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b502bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bịt mõm tải"
+        }
+      ],
+      "mobileId": 61857,
+      "phonetic": "ぜんそう",
+      "related_words": {
+        "word": [
+          "前"
+        ]
+      },
+      "word": "前装"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cd1932",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự nạp thuốc súng; thuốc súng, thuốc nổ"
+        }
+      ],
+      "mobileId": 62644,
+      "phonetic": "そうやく",
+      "word": "装薬"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf68151",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shoeing a horse, horseshoeing"
+        }
+      ],
+      "mobileId": 247703,
+      "phonetic": "そうてい",
+      "word": "装蹄"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca041ae0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "transvestism, cross-dressing"
+        }
+      ],
+      "mobileId": 283071,
+      "phonetic": "いせいそう",
+      "word": "異性装"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e4756e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "mặc (quần áo); sự lắp đặt (máy móc)"
+        }
+      ],
+      "mobileId": 113312,
+      "phonetic": "きそう",
+      "word": "着装"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77025bba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unusual clothing, strange way of dressing up, prohibited form of dress"
+        }
+      ],
+      "mobileId": 264536,
+      "phonetic": "いそう",
+      "word": "異装"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19399bfb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự bọc bằng da; gói bằng da"
+        }
+      ],
+      "mobileId": 22805,
+      "phonetic": "かわそう",
+      "word": "革装"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8357a40",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "các đồ dùng, trang sức, phục sức dành cho các nghi thức"
+        }
+      ],
+      "mobileId": 35209,
+      "phonetic": "ぎそう",
+      "related_words": {
+        "word": [
+          "儀"
+        ]
+      },
+      "word": "儀装"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b7192d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bịt mõm súng tải"
+        }
+      ],
+      "mobileId": 39352,
+      "phonetic": "くちそう",
+      "word": "口装"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

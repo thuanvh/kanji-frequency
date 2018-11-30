@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d131775",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "anti-"
+        }
+      ],
+      "mobileId": 215713,
+      "phonetic": "こう",
+      "word": "抗"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dc98ec1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "anti-aging"
+        }
+      ],
+      "mobileId": 221651,
+      "phonetic": "こうろうか",
+      "word": "抗老化"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d9c39f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "antiscorbutic, preventive against scurvy"
+        }
+      ],
+      "mobileId": 220126,
+      "phonetic": "こうかいけつびょう",
+      "word": "抗壊血病"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abf3e88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "antiserum"
+        }
+      ],
+      "mobileId": 229532,
+      "phonetic": "こうけっせい",
+      "word": "抗血清"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a87419",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuốc chống suy nhược"
+        }
+      ],
+      "mobileId": 38878,
+      "phonetic": "こううつ",
+      "word": "抗うつ"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7742b26d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "resistance, opposition"
+        }
+      ],
+      "mobileId": 266611,
+      "phonetic": "こうてい",
+      "word": "抗抵"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94efc32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coercivity, coercive force"
+        }
+      ],
+      "mobileId": 258820,
+      "phonetic": "こうじりょく",
+      "word": "抗磁力"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8af57b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "thuốc chống đông tụ"
+        }
+      ],
+      "mobileId": 39097,
+      "phonetic": "こうぎょうこ",
+      "related_words": {
+        "word": [
+          "凝固",
+          "凝"
+        ]
+      },
+      "word": "抗凝固"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bfdb26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kháng độc tố"
+        }
+      ],
+      "mobileId": 39642,
+      "phonetic": "こうどくそ",
+      "word": "抗毒素"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be002d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tensile strength"
+        }
+      ],
+      "mobileId": 246997,
+      "phonetic": "こうちょうりょく",
+      "related_words": {
+        "word": [
+          "力"
+        ]
+      },
+      "word": "抗張力"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

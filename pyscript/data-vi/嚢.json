@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a819a81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cyst"
+        }
+      ],
+      "mobileId": 227534,
+      "phonetic": "のうしゅ",
+      "word": "嚢腫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0e6c7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sacculus, saccule"
+        }
+      ],
+      "mobileId": 223864,
+      "phonetic": "きゅうけいのう",
+      "word": "球形嚢"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df0284e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "màng ngoài tim"
+        }
+      ],
+      "mobileId": 153408,
+      "phonetic": "",
+      "word": "心嚢"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a31e2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "posterior capsule (ophthalmology)"
+        }
+      ],
+      "mobileId": 269734,
+      "phonetic": "こうのう",
+      "word": "後嚢"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6626ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "túi (của con cái để mang con)"
+        }
+      ],
+      "mobileId": 13057,
+      "phonetic": "",
+      "word": "育児嚢"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed957b911b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "túi tinh trùng"
+        }
+      ],
+      "mobileId": 60024,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "精"
+        ]
+      },
+      "word": "精嚢"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb7ddb3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(sinh vật học) túi noãn hoàn"
+        }
+      ],
+      "mobileId": 74685,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "卵",
+          "黄",
+          "卵黄"
+        ]
+      },
+      "word": "卵黄嚢"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a97c6e0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bird's crop, bird's craw"
+        }
+      ],
+      "mobileId": 260266,
+      "phonetic": "そのう",
+      "word": "嗉嚢"
+    },
+    {
+      "_id": "432518852de0a80625d585a98242a92e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hair follicle"
+        }
+      ],
+      "mobileId": 233732,
+      "phonetic": "もうのう",
+      "word": "毛嚢"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7dad66c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ふぐりは男性の生殖器の外部です",
+              "mean": "Bìu là bộ phận sinh sản nằm ở phía ngoài của nam giới .",
+              "transcription": "ふぐりはだんせいのせいしょくきのがいぶです"
+            }
+          ],
+          "kind": "adj-na, n, adj-no",
+          "mean": "Bìu dái; tinh hoàn"
+        }
+      ],
+      "mobileId": 110376,
+      "phonetic": "ふぐり",
+      "related_words": {
+        "word": [
+          "陰"
+        ]
+      },
+      "word": "陰嚢"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

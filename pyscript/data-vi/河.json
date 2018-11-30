@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fbaf284",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "深い河！泳ぐな",
+              "mean": "Sông sâu! cấm bơi.",
+              "transcription": "ふかいかわ！およぐな"
+            },
+            {
+              "content": "専門家は二つの河を結ぶ計画に疑問を投げ掛けている",
+              "mean": "Các nhà chuyên môn đang bắt đầu nghi ngờ về kế hoạch nối hai con sông với nhau",
+              "transcription": "せんもんかはふたつのかわをむすぶけいかくにぎもんをなげかけている"
+            },
+            {
+              "content": "メコン河委員会",
+              "mean": "ủy ban sông Mekong",
+              "transcription": "メコンかわいいんかい"
+            }
+          ],
+          "kind": "n",
+          "mean": "sông; dòng sông"
+        }
+      ],
+      "mobileId": 187978,
+      "phonetic": "かわ",
+      "related_words": {
+        "word": [
+          "銀河",
+          "河童",
+          "氷河",
+          "大河",
+          "河豚",
+          "運河",
+          "河馬",
+          "河川",
+          "河口",
+          "河原"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "河",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "川",
+                "大河",
+                "谷川",
+                "滝川"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "河"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74478e98",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tình yêu bao la ."
+        }
+      ],
+      "mobileId": 98514,
+      "phonetic": "こいかわ",
+      "related_words": {
+        "word": [
+          "恋",
+          "河"
+        ]
+      },
+      "word": "恋河"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fbb95bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dòng sông ."
+        }
+      ],
+      "mobileId": 187988,
+      "phonetic": "かりゅう",
+      "word": "河流"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193981974",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con lợn bụi cây"
+        }
+      ],
+      "mobileId": 22745,
+      "phonetic": "かわいのしし",
+      "word": "河猪"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193983398",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim hét nước, chim xinclut"
+        }
+      ],
+      "mobileId": 22750,
+      "phonetic": "かわからす",
+      "word": "河烏"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7784b315",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sarcocheilichthys variegatus variegatus (subspecies of cyprinid)"
+        }
+      ],
+      "mobileId": 268761,
+      "phonetic": "かわひがい カワヒガイ",
+      "word": "河鰉"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a0bcaa",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "vị thần hộ mệnh của sông, sông thần"
+        }
+      ],
+      "mobileId": 277862,
+      "phonetic": "かしん",
+      "word": "河神"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f998d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "waterway, canal, river"
+        }
+      ],
+      "mobileId": 264252,
+      "phonetic": "かきょ",
+      "word": "河渠"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f999ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "waterway, canal, river"
+        }
+      ],
+      "mobileId": 264253,
+      "phonetic": "きょが",
+      "word": "渠河"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cb9da8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Milky Way"
+        }
+      ],
+      "mobileId": 262793,
+      "phonetic": "せいが せいか",
+      "word": "星河"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

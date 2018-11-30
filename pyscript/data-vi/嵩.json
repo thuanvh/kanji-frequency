@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935a4bcb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khối lớn; thể tích; số lượng"
+        }
+      ],
+      "mobileId": 20793,
+      "phonetic": "かさ",
+      "word": "嵩"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773aa838",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bulk density"
+        }
+      ],
+      "mobileId": 266361,
+      "phonetic": "かさみつど",
+      "related_words": {
+        "word": [
+          "度",
+          "密度"
+        ]
+      },
+      "word": "嵩密度"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc7a8d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đắt ."
+        }
+      ],
+      "mobileId": 144884,
+      "phonetic": "ねがさ",
+      "word": "値嵩"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954f62c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hét  dài (lâu) sống hoàng đế"
+        }
+      ],
+      "mobileId": 58623,
+      "phonetic": "かさみこ",
+      "word": "嵩呼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77254147",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "having a competitive spirit"
+        }
+      ],
+      "mobileId": 265669,
+      "phonetic": "きがさ",
+      "word": "気嵩"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04cb48a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "to be highhanded, to be arrogant, to be overbearing"
+        }
+      ],
+      "mobileId": 209311,
+      "phonetic": "かさにかかる",
+      "word": "嵩にかかる"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935b214f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kiêu căng, ngạo mạn"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hống hách, độc đoán"
+        }
+      ],
+      "mobileId": 20816,
+      "phonetic": "かさにかかって",
+      "word": "嵩に掛かって"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

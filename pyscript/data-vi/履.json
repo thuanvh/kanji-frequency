@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0395c98",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tank tread, continuous track, caterpillar track, endless track, crawler track"
+        }
+      ],
+      "mobileId": 282805,
+      "phonetic": "りたい",
+      "word": "履帯"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94752e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "repeating a course, taking a course again"
+        }
+      ],
+      "mobileId": 275026,
+      "phonetic": "さいり",
+      "word": "再履"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8218eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Avoid compromising situations"
+        }
+      ],
+      "mobileId": 219264,
+      "phonetic": "かでんにくつをいれず",
+      "word": "瓜田に履を納れず"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

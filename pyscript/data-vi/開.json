@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933926af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tiến hóa"
+        }
+      ],
+      "mobileId": 19748,
+      "phonetic": "ひらきほう",
+      "word": "開法"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de21a4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "establishment of a university"
+        }
+      ],
+      "mobileId": 222426,
+      "phonetic": "かいがく",
+      "word": "開学"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b26550",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "opening a can"
+        }
+      ],
+      "mobileId": 270250,
+      "phonetic": "かいかん",
+      "word": "開缶"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95b1fe4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "open interval"
+        }
+      ],
+      "mobileId": 259223,
+      "phonetic": "かいくかん",
+      "word": "開区間"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932d3d70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự khai sáng"
+        }
+      ],
+      "mobileId": 19367,
+      "phonetic": "ひらくさとる",
+      "word": "開悟"
+    },
+    {
+      "_id": "432518852de0a80625d585a98223d23f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "unlocking"
+        }
+      ],
+      "mobileId": 232759,
+      "opposite_word": [
+        "施錠"
+      ],
+      "phonetic": "かいじょう",
+      "word": "開錠"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b420f37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "open-loop"
+        }
+      ],
+      "mobileId": 241962,
+      "phonetic": "かいループ",
+      "word": "開ループ"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6048ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "open set"
+        }
+      ],
+      "mobileId": 251133,
+      "phonetic": "かいしゅうごう",
+      "word": "開集合"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0d5c79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "governmental office opening (usually special case)"
+        }
+      ],
+      "mobileId": 248424,
+      "phonetic": "かいちょう",
+      "word": "開庁"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933917ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự trích ra (của) những gốc"
+        }
+      ],
+      "mobileId": 19747,
+      "phonetic": "ひらきかた",
+      "word": "開方"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280279ddcc1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "薪で調理する",
+              "mean": "nấu bằng củi",
+              "transcription": "たきぎでちょうりする"
+            }
+          ],
+          "kind": "n",
+          "mean": "củi"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "củi lửa ."
+        }
+      ],
+      "mobileId": 31867,
+      "phonetic": "たきぎ、まき",
+      "word": "薪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77efd4ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "woodshed"
+        }
+      ],
+      "mobileId": 272239,
+      "phonetic": "まきごや たきぎごや",
+      "word": "薪小屋"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00b8ae1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kindling burned in shrines and temples"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "special kindling used in samurai families during the Edo period for the 15th of the first month and painted with 12 brush strokes (13 on a lucky year)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kindling offered by officials to the imperial court during the ritsuryo period"
+        }
+      ],
+      "mobileId": 281338,
+      "phonetic": "みかまぎ",
+      "word": "御薪"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f6671b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chặt gỗ"
+        }
+      ],
+      "mobileId": 7854,
+      "phonetic": "たきぎわり",
+      "word": "薪割"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95fd8cd8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "củi tụ lại"
+        }
+      ],
+      "mobileId": 64215,
+      "phonetic": "たきぎひろい",
+      "word": "薪拾い"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280279de818",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đốn củi ."
+        }
+      ],
+      "mobileId": 31868,
+      "phonetic": "たきぎをとる",
+      "word": "薪をとる"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280279df04f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bửa củi"
+        },
+        {
+          "examples": [
+            {
+              "content": "自分用の薪を割る",
+              "mean": "Tự chẻ củi cho mình dùng",
+              "transcription": "じぶんようのたきぎをわれる"
+            }
+          ],
+          "kind": "exp",
+          "mean": "chẻ củi"
+        }
+      ],
+      "mobileId": 31869,
+      "phonetic": "たきぎをわる",
+      "word": "薪を割る"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280279e0046",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bửa củi ."
+        }
+      ],
+      "mobileId": 31870,
+      "phonetic": "まきをわる",
+      "word": "薪を割る"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0350820",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp",
+          "mean": "Chữa lợn lành thành lợn què"
+        }
+      ],
+      "mobileId": 282656,
+      "phonetic": "たきぎをいだいてひをすくう",
+      "word": "薪を抱いて火を救う"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,225 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f90bdba",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "すき間だらけの歯",
+              "mean": "Răng toàn khe hở",
+              "transcription": "すきまだらけのは"
+            },
+            {
+              "content": "なかなか抜けない歯",
+              "mean": "Cái răng mãi không nhổ được",
+              "transcription": "なかなかぬけないは"
+            }
+          ],
+          "kind": "n",
+          "mean": "răng"
+        }
+      ],
+      "mobileId": 187273,
+      "phonetic": "は",
+      "related_words": {
+        "word": [
+          "歯医者",
+          "歯車",
+          "虫歯",
+          "歯科",
+          "歯科医院",
+          "歯ブラシ",
+          "歯磨き",
+          "歯科医師",
+          "歯垢",
+          "入れ歯"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "歯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "スプロケット"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "乳歯",
+                "歯牙"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "歯牙"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "歯"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68181f32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bộ răng, sự mọc răng, công thức răng; nha thức, cách bố trí của răng"
+        }
+      ],
+      "mobileId": 772,
+      "phonetic": "はなみ",
+      "related_words": {
+        "word": [
+          "歯",
+          "並",
+          "並み"
+        ]
+      },
+      "word": "歯並み"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a379a0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toothed whale (i.e. a whale of suborder Odontoceti)"
+        }
+      ],
+      "mobileId": 225192,
+      "phonetic": "はくじら ハクジラ",
+      "word": "歯鯨"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d60caad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thần kinh răng"
+        }
+      ],
+      "mobileId": 148791,
+      "phonetic": "はしんけい",
+      "related_words": {
+        "word": [
+          "神",
+          "歯",
+          "神経"
+        ]
+      },
+      "word": "歯神経"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d61e75d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "đường viền hình răng; đường cắt kính hình răng, đường răng lá"
+        }
+      ],
+      "mobileId": 148833,
+      "phonetic": "はじょう",
+      "related_words": {
+        "word": [
+          "歯",
+          "状"
+        ]
+      },
+      "word": "歯状"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7736b30f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "artificial tooth, fake teeth"
+        }
+      ],
+      "mobileId": 266231,
+      "phonetic": "じんこうし",
+      "word": "人工歯"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f917c54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bựa răng ."
+        }
+      ],
+      "mobileId": 187290,
+      "phonetic": "しこう",
+      "related_words": {
+        "word": [
+          "歯",
+          "垢"
+        ]
+      },
+      "word": "歯垢"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a691cd5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"tooth\" radical at left"
+        }
+      ],
+      "mobileId": 226746,
+      "phonetic": "はへん",
+      "word": "歯偏"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed958c4f18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "chia trăm độ, bách phân"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "thuộc về độ bách phân"
+        }
+      ],
+      "mobileId": 60554,
+      "phonetic": "せつは",
+      "related_words": {
+        "word": [
+          "歯",
+          "切"
+        ]
+      },
+      "word": "切歯"
+    },
+    {
+      "_id": "432518852de0a80625d585a982754cf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "space between the teeth, interdental space"
+        }
+      ],
+      "mobileId": 235338,
+      "phonetic": "しかん",
+      "word": "歯間"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

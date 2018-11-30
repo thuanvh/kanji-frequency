@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc0160b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lương bổng; bổng lộc ."
+        }
+      ],
+      "mobileId": 144762,
+      "phonetic": "ほう",
+      "word": "俸"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cda6e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bổng lộc; tiền lương"
+        }
+      ],
+      "mobileId": 6563,
+      "phonetic": "",
+      "word": "俸禄"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ce2c2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5m",
+          "mean": "nhận một khoản tiền lương"
+        }
+      ],
+      "mobileId": 6577,
+      "phonetic": "",
+      "word": "俸を食む"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1075842bd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あらゆる手段を用いて地位や富を得ようとする女",
+              "mean": "Phụ nữ dùng mọi thủ đoạn để có được địa vị và sự giàu sang. .",
+              "transcription": "あらゆるしゅだんをもちいてちいやとみをえようとするおんな"
+            }
+          ],
+          "kind": "n, n-pref",
+          "mean": "phụ nữ; con gái; cô gái; đàn bà; nữ"
+        }
+      ],
+      "mobileId": 53320,
+      "opposite_word": [
+        "男"
+      ],
+      "phonetic": "おんな",
+      "related_words": {
+        "word": [
+          "女性",
+          "彼女",
+          "処女",
+          "少女",
+          "幼女",
+          "女の子",
+          "女子高生",
+          "魔女",
+          "美少女",
+          "女優"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "女",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "二号さん",
+                "色女",
+                "囲い",
+                "側室",
+                "側女",
+                "情婦",
+                "二号",
+                "妾",
+                "手つき"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "女性"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "女性",
+                "女の人",
+                "婦人",
+                "レディ",
+                "女人",
+                "女流",
+                "婦女",
+                "女子",
+                "婦女子",
+                "ウーマン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "娘",
+                "女の子",
+                "女子",
+                "お姉さん",
+                "姉さん",
+                "ガール"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "夫人",
+                "細君",
+                "嫁",
+                "女性",
+                "家内",
+                "裏方",
+                "ミセス",
+                "婦人",
+                "令室",
+                "令夫人",
+                "奥様",
+                "刀自",
+                "室",
+                "御上",
+                "令閨",
+                "愚妻",
+                "人妻",
+                "妻",
+                "女房",
+                "上様"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "女"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3acb1d2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "daughter"
+        }
+      ],
+      "mobileId": 229910,
+      "opposite_word": [
+        "愚息"
+      ],
+      "phonetic": "ぐじょ",
+      "word": "愚女"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4b2fb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phụ nữ mà có sự có mặt hình như để gây ra mưa (hễ người đó có mặt thì y như rằng trời sẽ mưa)"
+        }
+      ],
+      "mobileId": 12192,
+      "phonetic": "あめおんな",
+      "word": "雨女"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c39724",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bà trợ tế"
+        }
+      ],
+      "mobileId": 6235,
+      "phonetic": "ほうしおんな",
+      "related_words": {
+        "word": [
+          "女",
+          "奉仕"
+        ]
+      },
+      "word": "奉仕女"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19325bee6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bà chủ, người đàn bà có quyền sở hữu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bà chủ nhà, bà chủ nhà trọ, bà chủ khách sạn, mụ địa ch"
+        }
+      ],
+      "mobileId": 19128,
+      "phonetic": "おんなぬし",
+      "word": "女主"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19325ff6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phụ nữ và trẻ con, đàn bà và con nít (thường dùng như cách nói khinh thường)"
+        }
+      ],
+      "mobileId": 19136,
+      "phonetic": "じょこども",
+      "word": "女子供"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193266fea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bạn gái, bạn nữ"
+        }
+      ],
+      "mobileId": 19153,
+      "phonetic": "じょともだち",
+      "related_words": {
+        "word": [
+          "女",
+          "友達",
+          "友"
+        ]
+      },
+      "word": "女友達"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953c29db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự kính trọng cho phụ nữ"
+        }
+      ],
+      "mobileId": 57999,
+      "phonetic": "じょみこと",
+      "related_words": {
+        "word": [
+          "女",
+          "尊"
+        ]
+      },
+      "word": "女尊"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb2a1c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tư - con gái sinh ra"
+        }
+      ],
+      "mobileId": 74504,
+      "phonetic": "よんじょ",
+      "related_words": {
+        "word": [
+          "女",
+          "四"
+        ]
+      },
+      "word": "四女"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9297169",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "relations with women"
+        }
+      ],
+      "mobileId": 274096,
+      "phonetic": "おんなかんけい",
+      "word": "女関係"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca013e6a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chow mein, fried noodles"
+        }
+      ],
+      "mobileId": 281590,
+      "phonetic": "チャーメン チャオミエン チャオミェン",
+      "word": "炒麺"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c99627",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r",
+          "mean": "to be sauteed in oil, to be stir-fried"
+        }
+      ],
+      "mobileId": 213345,
+      "phonetic": "いたまる",
+      "word": "炒まる"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

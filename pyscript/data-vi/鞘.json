@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568010bd0ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vỏ ."
+        }
+      ],
+      "mobileId": 41968,
+      "phonetic": "さや",
+      "related_words": {
+        "word": [
+          "腱鞘炎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鞘",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蓋",
+                "キャップ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "室"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鞘"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82fbaab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm quan tâm lề"
+        }
+      ],
+      "mobileId": 35022,
+      "phonetic": "きんりさや",
+      "related_words": {
+        "word": [
+          "金",
+          "金利",
+          "利",
+          "鞘"
+        ]
+      },
+      "word": "金利鞘"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a948ed5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "elytron"
+        }
+      ],
+      "mobileId": 258626,
+      "phonetic": "ししょう",
+      "word": "翅鞘"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88d560c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "màng bao của gân; màng bao của dây chằng"
+        }
+      ],
+      "mobileId": 38015,
+      "phonetic": "けんさや",
+      "related_words": {
+        "word": [
+          "鞘",
+          "腱"
+        ]
+      },
+      "word": "腱鞘"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a79ba32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "myelin sheath (around the axon of a neuron)"
+        }
+      ],
+      "mobileId": 227280,
+      "phonetic": "ずいしょう",
+      "word": "髄鞘"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c31853",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tip of a scabbard"
+        }
+      ],
+      "mobileId": 262518,
+      "phonetic": "さやじり",
+      "word": "鞘尻"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e837a3b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(nhịp độ chiết khấu) phủ định lan truyền"
+        }
+      ],
+      "mobileId": 35278,
+      "phonetic": "ぎゃくさや",
+      "word": "逆鞘"
+    },
+    {
+      "_id": "432518852de0a80625d585a982074440",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oedogonium (any of a genus of filamentous green algae)"
+        }
+      ],
+      "mobileId": 231871,
+      "phonetic": "さやみどろ サヤミドロ",
+      "word": "鞘味泥"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5ad71c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc trở lại tới bình thường rốt cuộc được nói và làm"
+        }
+      ],
+      "mobileId": 71670,
+      "phonetic": "もとさや",
+      "word": "元鞘"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da33f49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vỏ (gươm, kiếm ...) sơn màu đỏ son"
+        }
+      ],
+      "mobileId": 150903,
+      "phonetic": "しゅさや",
+      "related_words": {
+        "word": [
+          "朱",
+          "鞘"
+        ]
+      },
+      "word": "朱鞘"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

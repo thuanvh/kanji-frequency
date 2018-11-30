@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cd40c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wait for the middle tile of a chow which will finish one's hand"
+        }
+      ],
+      "mobileId": 279318,
+      "phonetic": "カンチャン",
+      "word": "嵌張"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107ba2e6d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）の思うつぼにはまる",
+              "mean": "làm cỗ cho người khác ăn",
+              "transcription": "（ひと）のおもうつぼにはまる"
+            }
+          ],
+          "kind": "v5r, vi",
+          "mean": "bị chui vào bẫy (làm lợi cho người khác); bị mắc bẫy (làm lợi cho người khác)"
+        },
+        {
+          "examples": [
+            {
+              "content": "ひどい渋滞にはまる",
+              "mean": "bị kẹt cứng khi tắc nghẽn giao thông",
+              "transcription": "ひどいじゅうたいにはまる"
+            }
+          ],
+          "kind": "v5r, vi",
+          "mean": "bị lúng túng; bị kẹt cứng"
+        },
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "khớp với ."
+        }
+      ],
+      "mobileId": 55009,
+      "opposite_word": [
+        "外れる"
+      ],
+      "phonetic": "はまる",
+      "synsets": [
+        {
+          "base_form": "嵌まる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "合う",
+                "見合う",
+                "嵌る",
+                "適う",
+                "填る",
+                "適する"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "入る",
+                "嵌る",
+                "填る"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "合う",
+                "嵌る",
+                "似付く",
+                "似合う",
+                "填る",
+                "適する"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "填る"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "合う",
+                "嵌る",
+                "似付く",
+                "似合う",
+                "填る"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "嵌る",
+                "適う",
+                "填る",
+                "適する"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "嵌まる"
+    },
+    {
+      "_id": "432518852de0a80625d585a98264ddf9",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "Lắp ghép lại với nhau (ví dụ: đai ốc và bu lông), vừa vặn"
+        }
+      ],
+      "mobileId": 234826,
+      "phonetic": "かんごう はめあい",
+      "word": "嵌合"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681e034c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vai trò được thỏa mãn kỹ"
+        }
+      ],
+      "mobileId": 954,
+      "phonetic": "はままりやく",
+      "word": "嵌まり役"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd427949",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự rơi trong một cái hầm"
+        }
+      ],
+      "mobileId": 11920,
+      "phonetic": "あなにはままる",
+      "word": "穴に嵌まる"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cd3e68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wait for the middle tile of a three-in-a-row which will finish one's hand"
+        }
+      ],
+      "mobileId": 279317,
+      "phonetic": "カンチャンまち",
+      "word": "嵌張待ち"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c772aa020",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp, v5r",
+          "mean": "phù hợp với khuôn, được tiêu chuẩn, phong tục, nguyên bản"
+        }
+      ],
+      "mobileId": 265841,
+      "phonetic": "かたにはまる",
+      "word": "型に嵌まる"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdfc3da9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "rập khuôn; lặp lại như đúc (về hình ảnh, tư tưởng, tính cách )"
+        }
+      ],
+      "mobileId": 76800,
+      "phonetic": "わくにはままった",
+      "word": "枠に嵌まった"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

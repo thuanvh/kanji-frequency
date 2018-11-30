@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef990e837",
+      "means": [
+        {
+          "examples": null,
+          "kind": "ctr",
+          "mean": "counter for choices, options, etc."
+        }
+      ],
+      "mobileId": 277360,
+      "phonetic": "たく",
+      "word": "択"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a115e54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(only) one option (game slang), one possible choice"
+        }
+      ],
+      "mobileId": 223956,
+      "phonetic": "いったく",
+      "word": "一択"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b221a79be",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Cau hoi trac nghiem 4 lua chon."
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "",
+      "word": "四択問題"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f9a8bb0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "年毎の行事",
+              "mean": "nghi lễ hàng năm .",
+              "transcription": "としごとのぎょうじ"
+            }
+          ],
+          "kind": "n-adv, n-suf",
+          "mean": "mỗi; hàng"
+        }
+      ],
+      "mobileId": 187462,
+      "phonetic": "ごと",
+      "related_words": {
+        "word": [
+          "毎日",
+          "毎回",
+          "毎月",
+          "毎週",
+          "毎に",
+          "毎年",
+          "毎朝",
+          "毎度",
+          "毎日の",
+          "毎晩"
+        ]
+      },
+      "word": "毎"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f9a9f0d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "毎年",
+              "mean": "hàng năm",
+              "transcription": "まいとし"
+            },
+            {
+              "content": "毎日",
+              "mean": "hàng ngày .",
+              "transcription": "まいにち"
+            }
+          ],
+          "kind": "n",
+          "mean": "hàng; mỗi"
+        }
+      ],
+      "mobileId": 187463,
+      "phonetic": "まい",
+      "related_words": {
+        "word": [
+          "毎日",
+          "毎回",
+          "毎月",
+          "毎週",
+          "毎に",
+          "毎年",
+          "毎朝",
+          "毎度",
+          "毎日の",
+          "毎晩"
+        ]
+      },
+      "word": "毎"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04edb1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-adv, adj-no",
+          "mean": "every hour on the hour"
+        }
+      ],
+      "mobileId": 283483,
+      "phonetic": "まいしょうじ",
+      "word": "毎正時"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cf8e38",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adv",
+          "mean": "Cá nhân, mỗi người, mọi người"
+        }
+      ],
+      "mobileId": 213542,
+      "phonetic": "ひとごと",
+      "word": "人毎"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be3e1d6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khôn ngoan mẩu"
+        }
+      ],
+      "mobileId": 91273,
+      "phonetic": "ビットごと",
+      "word": "ビット毎"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94f4dad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "every winter"
+        }
+      ],
+      "mobileId": 258827,
+      "phonetic": "まいふゆ",
+      "word": "毎冬"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f270c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "mỗi phút"
+        }
+      ],
+      "mobileId": 7728,
+      "phonetic": "まいぶん",
+      "related_words": {
+        "word": [
+          "分",
+          "毎"
+        ]
+      },
+      "word": "毎分"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8de03c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "mỗi hộ; mỗi gia đình"
+        }
+      ],
+      "mobileId": 40628,
+      "phonetic": "とごと",
+      "word": "戸毎"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0869537",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "each time, every"
+        }
+      ],
+      "mobileId": 211172,
+      "phonetic": "たびごと",
+      "word": "度毎"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea2a703",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "mỗi năm, từng năm"
+        }
+      ],
+      "mobileId": 116239,
+      "phonetic": "としごと",
+      "word": "年毎"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adae5950e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "chắc chắn; hiển nhiên; không có gì để nghi ngờ ."
+        }
+      ],
+      "mobileId": 80701,
+      "phonetic": "さぞ",
+      "synsets": [
+        {
+          "base_form": "嘸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "真に",
+                "誠に",
+                "余り",
+                "現に",
+                "実際に",
+                "いかにも",
+                "全く"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "嘸"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

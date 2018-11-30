@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680109967b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "えくぼのあるほお",
+              "mean": "má lúm đồng tiền .",
+              "transcription": "えくぼのあるほお"
+            }
+          ],
+          "kind": "n",
+          "mean": "lúm đồng tiền"
+        }
+      ],
+      "mobileId": 41940,
+      "phonetic": "えくぼ",
+      "synsets": [
+        {
+          "base_form": "靨",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ディンプル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "靨"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

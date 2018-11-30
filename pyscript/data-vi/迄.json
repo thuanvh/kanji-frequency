@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd019ca2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "prt",
+          "mean": "cho đến, cho đến khi"
+        }
+      ],
+      "mobileId": 68840,
+      "phonetic": "まで",
+      "related_words": {
+        "word": [
+          "何処迄も"
+        ]
+      },
+      "word": "迄"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107ded252",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Trước khi kết thúc năm này ."
+        }
+      ],
+      "mobileId": 55605,
+      "phonetic": "ねんまつまで",
+      "word": "年末迄"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd01a132",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "bởi; không về sau hơn; trước"
+        }
+      ],
+      "mobileId": 68841,
+      "phonetic": "までに",
+      "word": "迄に"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2eadde",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "như vậy nhiều"
+        }
+      ],
+      "mobileId": 147207,
+      "phonetic": "しかまで",
+      "word": "然迄"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec5db6c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "như thế nào xa; tới phạm vi nào"
+        }
+      ],
+      "mobileId": 117361,
+      "phonetic": "どこまで",
+      "word": "何処迄"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9975bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cho đến khi bây giờ; xa như vậy; lên trên tới hiện hữu"
+        }
+      ],
+      "mobileId": 14660,
+      "phonetic": "いままで",
+      "related_words": {
+        "word": [
+          "今",
+          "迄"
+        ]
+      },
+      "word": "今迄"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8dd704c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cho đến khi hài lòng, thỏa mãn"
+        }
+      ],
+      "mobileId": 40606,
+      "phonetic": "こころゆくまで",
+      "word": "心行く迄"
+    },
+    {
+      "_id": "32266b33d424da615075e0dca7b0fa55",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "もし私がそれまで生きていたら",
+              "mean": "Nếu như tôi sống lâu hơn thế",
+              "transcription": "もしわたしがそれまでいきていたら"
+            },
+            {
+              "content": "それまでの2〜3年の間に起きた出来事を思い出せなくする",
+              "mean": "Thế đấy tôi không thể nhớ những việc đã xảy ra trong vòng 2 hoặc 3 năm gần đây",
+              "transcription": "それまでの2 〜 3ねんのまにおきたできごとをおもいだせなくする"
+            },
+            {
+              "content": "それまでに支払いが終わっている家",
+              "mean": "Thế là kết thúc mọi chuyện tôi đã thanh toán xong phần nhà ở .",
+              "transcription": "それまでにしはらいがおわっているいえ"
+            }
+          ],
+          "kind": "n-t, exp, uk",
+          "mean": "thế đấy; thế đó; thế là kết thúc mọi chuyện"
+        }
+      ],
+      "mobileId": 47549,
+      "phonetic": "それまで",
+      "related_words": {
+        "word": [
+          "それ",
+          "まで"
+        ]
+      },
+      "word": "それ迄"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef956d17c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "to (an extent), up to, so far as, even"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "doesn't amount to doing ..., not significant enough to require ..."
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "even if ..."
+        }
+      ],
+      "mobileId": 275508,
+      "phonetic": "までも",
+      "word": "迄も"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddff6a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự đi bộ tới nhà ga"
+        }
+      ],
+      "mobileId": 16853,
+      "phonetic": "えきまであるく",
+      "word": "駅迄歩く"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

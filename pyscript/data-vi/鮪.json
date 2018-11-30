@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801434d9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá ngừ ."
+        }
+      ],
+      "mobileId": 42904,
+      "phonetic": "まぐろ",
+      "word": "鮪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778a6554",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "southern bluefin tuna (Thunnus maccoyii)"
+        }
+      ],
+      "mobileId": 268952,
+      "phonetic": "みなみまぐろ ミナミマグロ",
+      "word": "南鮪"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f7daf3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá thu câu cá"
+        }
+      ],
+      "mobileId": 7898,
+      "phonetic": "まぐろづり",
+      "related_words": {
+        "word": [
+          "釣り",
+          "鮪"
+        ]
+      },
+      "word": "鮪釣り"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d57ddd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dishes based on spring onions and tuna"
+        }
+      ],
+      "mobileId": 217907,
+      "phonetic": "ねぎま",
+      "word": "葱鮪"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801504811",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cá thu bluefin ."
+        }
+      ],
+      "mobileId": 43148,
+      "phonetic": "くろまぐろ",
+      "word": "黒鮪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7783e143",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dogtooth tuna (Gymnosarda unicolor)"
+        }
+      ],
+      "mobileId": 268730,
+      "phonetic": "いそまぐろ イソマグロ",
+      "word": "磯鮪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b1f420",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuna knife"
+        }
+      ],
+      "mobileId": 270233,
+      "phonetic": "まぐろぼうちょう",
+      "word": "鮪包丁"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193620877",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá maclin, như marline"
+        }
+      ],
+      "mobileId": 21033,
+      "phonetic": "かじきまぐろ",
+      "word": "梶木鮪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77572d44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stew based on spring onions and tuna"
+        }
+      ],
+      "mobileId": 267264,
+      "phonetic": "ねぎまなべ",
+      "word": "葱鮪鍋"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e68aa7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yellowfin tuna (Thunnus albacares)"
+        }
+      ],
+      "mobileId": 251417,
+      "phonetic": "きはだまぐろ きわだまぐろ キハダマグロ キワダマグロ",
+      "word": "黄肌鮪"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

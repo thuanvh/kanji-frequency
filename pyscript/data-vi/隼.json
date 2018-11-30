@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681fd7f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "<Cổ> ngoại lai, nhập cảng, chim cắt; chim ưng"
+        }
+      ],
+      "mobileId": 1014,
+      "phonetic": "はやぶさ",
+      "word": "隼"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adb4140",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "northern hobby (Falco subbuteo)"
+        }
+      ],
+      "mobileId": 230450,
+      "phonetic": "ちごはやぶさ チゴハヤブサ",
+      "word": "稚児隼"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd981fdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim ưng và chim ưng"
+        }
+      ],
+      "mobileId": 73643,
+      "phonetic": "たかはやぶさ",
+      "word": "鷹隼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c76ada",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gyrfalcon (Falco rusticolus)"
+        }
+      ],
+      "mobileId": 270900,
+      "phonetic": "しろはやぶさ シロハヤブサ",
+      "word": "白隼"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681fe274",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "falconidae"
+        }
+      ],
+      "mobileId": 1015,
+      "phonetic": "はやぶさか",
+      "word": "隼科"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfdd75e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim ưng gộc"
+        }
+      ],
+      "mobileId": 17813,
+      "phonetic": "だいはやぶさ",
+      "word": "大隼"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

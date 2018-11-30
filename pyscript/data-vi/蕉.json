@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9acd35d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "banana"
+        }
+      ],
+      "mobileId": 278228,
+      "phonetic": "こうしょう",
+      "word": "香蕉"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc55217",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sửa chữa kiểu trong một haiku (như basho có)"
+        }
+      ],
+      "mobileId": 152013,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "風"
+        ]
+      },
+      "word": "蕉風"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca095896d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "disciple of Basho"
+        }
+      ],
+      "mobileId": 285727,
+      "phonetic": "しょうもん",
+      "word": "蕉門"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0959939",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "banana leaf"
+        }
+      ],
+      "mobileId": 285728,
+      "phonetic": "しょうよう",
+      "word": "蕉葉"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

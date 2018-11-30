@@ -1,0 +1,248 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f5ea8d6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "決議（案）を受け入れる",
+              "mean": "Chấp nhận nghị quyết",
+              "transcription": "けつぎ（あん）をうけいれる"
+            },
+            {
+              "content": "〜に影響を及ぼすような決議（案）",
+              "mean": "một quyết định có khả năng gây ảnh hưởng tới",
+              "transcription": "〜にえいきょうをおよぼすようなけつぎ（あん）"
+            },
+            {
+              "content": "〜を解決するための妥協案",
+              "mean": "phương án thỏa hiệp để giải quyết ~",
+              "transcription": "〜をかいけつするためのだきょうあん"
+            },
+            {
+              "content": "あっせん案",
+              "mean": "phương án hòa giải",
+              "transcription": "あっせんあん"
+            },
+            {
+              "content": "予算決議（案）",
+              "mean": "dự thảo nghị quyết về ngân sách",
+              "transcription": "よさんけつぎ（あん）"
+            },
+            {
+              "content": "来年度の予算（案）",
+              "mean": "(dự toán) ngân sách cho năm tới",
+              "transcription": "らいねんどのよさん（あん）"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "dự thảo; ý tưởng; ngân sách; đề xuất; phương án"
+        }
+      ],
+      "mobileId": 186541,
+      "phonetic": "あん",
+      "related_words": {
+        "word": [
+          "提案",
+          "案内",
+          "案件",
+          "提案する",
+          "案内する",
+          "立案",
+          "考案",
+          "案山子",
+          "起案",
+          "案内所"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "案",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "立案",
+                "構想",
+                "企図",
+                "計画",
+                "策",
+                "企画",
+                "企劃",
+                "設計",
+                "目論見"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "案"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86c3043",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thiết kế, lên kế hoạch"
+        }
+      ],
+      "mobileId": 36967,
+      "phonetic": "けいかくあん",
+      "related_words": {
+        "word": [
+          "計画",
+          "計",
+          "案",
+          "画"
+        ]
+      },
+      "word": "計画案"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561ec01bf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Young Plan"
+        }
+      ],
+      "mobileId": 254266,
+      "phonetic": "ヤングあん",
+      "word": "ヤング案"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fb74068",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "戦争を始めるための決議案を支持しなかった国連安全保障理事国",
+              "mean": "Nước trong hội đồng bảo an Liên Hiệp Quốc đã từ chối ủng hộ bản dự thảo nghị quyết để bắt đầu chiến tranh",
+              "transcription": "せんそうをはじめるためのけつぎあんをしじしなかったこくれんあんぜんほしょうりじこく"
+            },
+            {
+              "content": "決議案を修正する",
+              "mean": "Sửa đổi dự thảo nghị quyết",
+              "transcription": "けつぎあんをしゅうせいする"
+            },
+            {
+              "content": "政府はその国を支援するという決議案を採択した",
+              "mean": "Chính phủ đã lựa chọn bản dự thảo nghị quyết mà hỗ trợ nước đó",
+              "transcription": "せいふはそのくにをしえんするというけつぎあんをさいたくした"
+            },
+            {
+              "content": "決議案を却下する",
+              "mean": "Không chấp nhận bản dự thảo nghị quyết",
+              "transcription": "けつぎあんをきゃっかする"
+            },
+            {
+              "content": "決議案を可決する",
+              "mean": "Phê chuẩn bản dự thảo nghị quyết .",
+              "transcription": "けつぎあんをかけつする"
+            }
+          ],
+          "kind": "n",
+          "mean": "dự thảo nghị quyết"
+        }
+      ],
+      "mobileId": 187926,
+      "phonetic": "けつぎあん",
+      "word": "決議案"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80d58c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thỏa thuận; đề nghị"
+        }
+      ],
+      "mobileId": 33924,
+      "phonetic": "きょうていあん",
+      "word": "協定案"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3d0e71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kế hoạch điều đình; đề nghị giải quyết"
+        }
+      ],
+      "mobileId": 11748,
+      "phonetic": "あっせんあん",
+      "word": "斡旋案"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd53e60d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự rẻ, sự rẻ tiền"
+        }
+      ],
+      "mobileId": 12470,
+      "phonetic": "あんか",
+      "word": "案価"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cf4146",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kỷ án; cái bàn (từ cổ nên hiếm dùng)"
+        }
+      ],
+      "mobileId": 24480,
+      "phonetic": "き あん",
+      "word": "几案"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda7612b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chương trình (công tác, biểu diễn văn nghệ...), cương lĩnh (của tổ chức, đảng phái), đặt chương trình, lập chương trình"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "/prəs'pektəsiz/, giấy cáo bạch; giấy quảng cáo, giấy rao hàng"
+        }
+      ],
+      "mobileId": 74153,
+      "phonetic": "よていあん",
+      "related_words": {
+        "word": [
+          "予定",
+          "案"
+        ]
+      },
+      "word": "予定案"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a96102",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "seemingly good but ultimately stupid idea"
+        }
+      ],
+      "mobileId": 278115,
+      "phonetic": "めいあん",
+      "word": "迷案"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

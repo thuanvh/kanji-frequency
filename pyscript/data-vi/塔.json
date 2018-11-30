@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107156036",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đài"
+        },
+        {
+          "examples": [
+            {
+              "content": "バクー旧市街とシルヴァンシャー宮殿および乙女の塔",
+              "mean": "Thành phố Walled của Baku với chùa Shirvanshah và tháp Maiden .",
+              "transcription": "バクーきゅうしがいとシルヴァンシャーきゅうでんおよびおとめのとう"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "tháp; chùa"
+        }
+      ],
+      "mobileId": 52232,
+      "phonetic": "とう",
+      "related_words": {
+        "word": [
+          "五重塔",
+          "管制塔",
+          "バベルの塔",
+          "金字塔",
+          "尖塔"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "塔",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "支柱",
+                "コラム",
+                "櫓",
+                "柱",
+                "円柱",
+                "タワー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "楼閣",
+                "櫓",
+                "台",
+                "タワー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "塔"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda1d27d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tháp vật kỷ niệm"
+        }
+      ],
+      "mobileId": 14921,
+      "phonetic": "いれいとう",
+      "word": "慰霊塔"
+    },
+    {
+      "_id": "432518852de0a80625d585a98261092f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "many-tiered tower, pagoda"
+        }
+      ],
+      "mobileId": 234702,
+      "phonetic": "たそうとう",
+      "word": "多層塔"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0f7206",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "minaret"
+        }
+      ],
+      "mobileId": 248493,
+      "phonetic": "こうとう",
+      "word": "光塔"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a960599",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "火事監視塔(山や森にある)",
+              "mean": "tháp canh hỏa hoạn (ở trên núi hoặc trong rừng) .",
+              "transcription": "かじかんしとう(さんやもりにある)"
+            }
+          ],
+          "kind": "n",
+          "mean": "tháp canh; chòi canh"
+        }
+      ],
+      "mobileId": 172765,
+      "phonetic": "かんしとう",
+      "related_words": {
+        "word": [
+          "監視",
+          "塔"
+        ]
+      },
+      "word": "監視塔"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9aa013b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clock tower"
+        }
+      ],
+      "mobileId": 261717,
+      "phonetic": "とけいとう",
+      "related_words": {
+        "word": [
+          "時",
+          "時計",
+          "計",
+          "塔"
+        ]
+      },
+      "word": "時計塔"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280271f8710",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tháp nước ."
+        }
+      ],
+      "mobileId": 29598,
+      "phonetic": "きゅうすいとう",
+      "word": "給水塔"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04d9eb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tall tower, large tower"
+        }
+      ],
+      "mobileId": 283442,
+      "phonetic": "きょとう",
+      "word": "巨塔"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107e9b32b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "通りの上に掲げられた広告板(広告塔)には、有名な映画スターが描かれていた",
+              "mean": "Biển quảng cáo treo trên đường phố in hình một ngôi sao điện ảnh nổi tiếng.",
+              "transcription": "とおりのうえにかかげられたこうこくばん(こうこくとう)には、ゆうめいなえいがスターがえがかれていた"
+            },
+            {
+              "content": "ブランド名はたいがい一目瞭然だから、結局はお客が歩く広告塔みたいになってしまう",
+              "mean": "Chính vì tên tuổi của nhãn hiệu nổi bật đến nỗi cuối cùng khách hàng lại trở thành những biển quảng cáo di động",
+              "transcription": "ブランドめいはたいがいいちもくりょうぜんだから、けっきょくはおきゃくがあるくこうこくとうみたいになってしまう"
+            },
+            {
+              "content": "〜の広告塔として",
+              "mean": "đóng vai trò là biển quảng cáo của~",
+              "transcription": "〜のこうこくとうとして"
+            },
+            {
+              "content": "歩く広告塔",
+              "mean": "Biển quảng cáo di động .",
+              "transcription": "あるくこうこくとう"
+            }
+          ],
+          "kind": "n",
+          "mean": "biển quảng cáo"
+        }
+      ],
+      "mobileId": 55760,
+      "phonetic": "こうこくとう",
+      "related_words": {
+        "word": [
+          "広告",
+          "塔"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "広告塔",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "広告",
+                "ビラ",
+                "張り紙",
+                "張り出し",
+                "告知",
+                "掲示",
+                "お知らせ",
+                "看板",
+                "ポスター"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "広告塔"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0ddbe3f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đài hướng dẫn máy bay lên xuống"
+        }
+      ],
+      "mobileId": 152749,
+      "phonetic": "しれいとう",
+      "word": "司令塔"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

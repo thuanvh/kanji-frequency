@@ -1,0 +1,299 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afa912c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhịp"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiết; mùa; dịp"
+        }
+      ],
+      "mobileId": 174427,
+      "phonetic": "せつ",
+      "word": "節"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afaadc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đốt"
+        },
+        {
+          "examples": [
+            {
+              "content": "節々に痛みを感じる",
+              "mean": "Cảm thấy đau ở các khớp nối",
+              "transcription": "ふしぶしにいたみをかんじる"
+            },
+            {
+              "content": "日常の筋肉と節々の痛みとは異なる",
+              "mean": "Nó rất khác với đau cơ bắp và khớp hàng ngày",
+              "transcription": "にちじょうのきんにくとふしぶしのいたみとはことなる"
+            }
+          ],
+          "kind": "n",
+          "mean": "khớp"
+        }
+      ],
+      "mobileId": 174428,
+      "phonetic": "ふし",
+      "related_words": {
+        "word": [
+          "季節",
+          "節約",
+          "調節",
+          "鰹節",
+          "関節",
+          "節約する",
+          "節分",
+          "股関節",
+          "節電",
+          "小節"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "節",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "切断面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "セクション"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "欄",
+                "セクション"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "つなぎ目",
+                "連合",
+                "分節",
+                "刹那"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "時点",
+                "時",
+                "時節",
+                "機会",
+                "頃",
+                "折",
+                "場合",
+                "序"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "パラグラフ",
+                "項",
+                "段落"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "祝祭日",
+                "祭日",
+                "ドンタク",
+                "祝日",
+                "公休日",
+                "休日",
+                "休暇",
+                "記念日",
+                "暇",
+                "公休",
+                "休み"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "合わせ目",
+                "ジョイント",
+                "付け根"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "旋律",
+                "曲",
+                "メロディー",
+                "曲節",
+                "歌曲",
+                "調べ",
+                "楽曲",
+                "一節",
+                "主題"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "分野",
+                "分裂",
+                "師団",
+                "分配",
+                "除法",
+                "区劃",
+                "分周",
+                "部門",
+                "分科",
+                "事業部",
+                "区画",
+                "除算",
+                "分割",
+                "割算",
+                "割り算",
+                "区分け",
+                "分け取り",
+                "仕切り",
+                "部分",
+                "区処",
+                "区分"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "節"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b24fce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "noun clause, nominal clause"
+        }
+      ],
+      "mobileId": 212586,
+      "phonetic": "めいしせつ",
+      "word": "名詞節"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae49b2b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khối bạch huyết"
+        }
+      ],
+      "mobileId": 129700,
+      "phonetic": "リンパぶし",
+      "word": "リンパ節"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da55a9e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mệnh đề chính"
+        }
+      ],
+      "mobileId": 150970,
+      "phonetic": "しゅふし",
+      "word": "主節"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d850ada",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mệnh đề phụ thuộc ."
+        }
+      ],
+      "mobileId": 143755,
+      "phonetic": "ふぞくせつ",
+      "related_words": {
+        "word": [
+          "付",
+          "付属",
+          "節"
+        ]
+      },
+      "word": "付属節"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4c469e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "femur (in entomology)"
+        }
+      ],
+      "mobileId": 250481,
+      "phonetic": "たいせつ",
+      "word": "腿節"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776d8ac4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "joint (between bones)"
+        }
+      ],
+      "mobileId": 267992,
+      "phonetic": "ほねぶし こっせつ",
+      "word": "骨節"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f629d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cerebral ganglion"
+        }
+      ],
+      "mobileId": 272440,
+      "phonetic": "のうしんけいせつ",
+      "word": "脳神経節"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96b4de8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "type of Joruri recitation"
+        }
+      ],
+      "mobileId": 259729,
+      "phonetic": "しんないぶし",
+      "word": "新内節"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

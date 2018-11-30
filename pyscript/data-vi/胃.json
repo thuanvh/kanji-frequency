@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280275699a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dạ dầy"
+        },
+        {
+          "examples": [
+            {
+              "content": "拡張胃",
+              "mean": "Dạ dày co giãn",
+              "transcription": "かくちょうい"
+            },
+            {
+              "content": "じょうぶな胃",
+              "mean": "Bao tử khỏe mạnh",
+              "transcription": "じょうぶない"
+            },
+            {
+              "content": "胃［おなか］がひどく痛みます。",
+              "mean": "dạ dày (bụng) đau dữ dội (khủng khiếp)",
+              "transcription": "い［おなか］がひどくいたみます。"
+            }
+          ],
+          "kind": "n",
+          "mean": "dạ dày; bao tử"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vị ."
+        }
+      ],
+      "mobileId": 30553,
+      "phonetic": "い",
+      "related_words": {
+        "word": [
+          "胃痛",
+          "胃腸",
+          "胃潰瘍",
+          "胃薬",
+          "胃炎",
+          "胃袋",
+          "胃液",
+          "胃癌",
+          "胃酸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "胃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "腹",
+                "お腹",
+                "ストマック",
+                "胃袋",
+                "胃腸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "胃"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdae2203",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(y học) chứng viêm dạ dày"
+        }
+      ],
+      "mobileId": 15325,
+      "phonetic": "いカタル",
+      "word": "胃カタル"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdae2f1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gastrocamera"
+        }
+      ],
+      "mobileId": 15326,
+      "phonetic": "いカメラ",
+      "related_words": {
+        "word": [
+          "カメラ",
+          "胃"
+        ]
+      },
+      "word": "胃カメラ"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94e007d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abomasum"
+        }
+      ],
+      "mobileId": 275237,
+      "phonetic": "しわい しゅうい すうい",
+      "word": "しわ胃"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e048d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "strong stomach"
+        }
+      ],
+      "mobileId": 263436,
+      "phonetic": "けんい",
+      "word": "健胃"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd719401",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuyến vị (dạ dày)"
+        }
+      ],
+      "mobileId": 13408,
+      "phonetic": "いせん",
+      "word": "胃腺"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94dd79f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reticulum"
+        }
+      ],
+      "mobileId": 275234,
+      "phonetic": "あみい",
+      "word": "網胃"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ba5a8d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "niêm mạc dạ dày"
+        }
+      ],
+      "mobileId": 278689,
+      "phonetic": "いねんまく",
+      "word": "胃粘膜"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5873fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese \"stomach\" constellation (one of the 28 mansions)"
+        }
+      ],
+      "mobileId": 226236,
+      "phonetic": "えきえぼし",
+      "word": "胃宿"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd71a391",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chứng loét dạ dày"
+        }
+      ],
+      "mobileId": 13409,
+      "phonetic": "いせんこう",
+      "word": "胃穿孔"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

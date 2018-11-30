@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e75e1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gà lôi; chim trĩ ."
+        }
+      ],
+      "mobileId": 110597,
+      "phonetic": "きじ",
+      "synsets": [
+        {
+          "base_form": "雉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "野鶏",
+                "雉子"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "雉"
+    },
+    {
+      "_id": "432518852de0a80625d585a98216cdaf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red-spotted grouper (species of fish, Epinephelus akaara), Hong Kong grouper"
+        }
+      ],
+      "mobileId": 232358,
+      "phonetic": "きじはた キジハタ",
+      "word": "雉羽太"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e55aa7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common pheasant (Phasianus colchicus), ring-necked pheasant"
+        }
+      ],
+      "mobileId": 271913,
+      "phonetic": "こうらいきじ コウライキジ",
+      "word": "高麗雉"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c6f45d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brown-speckled cat"
+        }
+      ],
+      "mobileId": 279109,
+      "phonetic": "きじねこ",
+      "word": "雉猫"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5e4249",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hakuchi era (650.2.15-654.10.?)"
+        }
+      ],
+      "mobileId": 218123,
+      "phonetic": "はくち",
+      "word": "白雉"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e78c933",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Asparagus schoberioides"
+        }
+      ],
+      "mobileId": 251921,
+      "phonetic": "きじかくし キジカクシ",
+      "word": "雉隠"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e0c4f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "turtledove đỏ hoe"
+        }
+      ],
+      "mobileId": 25025,
+      "phonetic": "",
+      "word": "雉鳩"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00dcef3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flute used to lure green pheasants (imitates the pheasant's song)"
+        }
+      ],
+      "mobileId": 281406,
+      "phonetic": "きじぶえ",
+      "word": "雉笛"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e776a5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "雉子も鳴かずば打たれまい",
+              "mean": "nếu chim trĩ không gáy thì sẽ không bị đánh (giữ im lặng là an toàn)",
+              "transcription": "雉子もなかずばうたれまい"
+            }
+          ],
+          "kind": "n",
+          "mean": "gà lôi; chim trĩ"
+        }
+      ],
+      "mobileId": 110598,
+      "phonetic": "きじ",
+      "related_words": {
+        "word": [
+          "子",
+          "雉"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "雉子",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "野鶏",
+                "雉"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "雉子"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0fbc99",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "parents may risk life and limb for their children (like a pheasant when the plains are burning or a crane on a cold night)"
+        }
+      ],
+      "mobileId": 223904,
+      "phonetic": "やけののきぎすよるのつる",
+      "word": "焼け野の雉夜の鶴"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

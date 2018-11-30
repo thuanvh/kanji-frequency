@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2d5aca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vt",
+          "mean": "sự ngửa mặt lên, sự ngước mặt lên"
+        }
+      ],
+      "mobileId": 11243,
+      "phonetic": "おっしゃのける",
+      "related_words": {
+        "word": [
+          "の"
+        ]
+      },
+      "word": "仰のける"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2d6dbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hướng lên trên, ngửa lên"
+        }
+      ],
+      "mobileId": 11246,
+      "phonetic": "おっしゃむく",
+      "word": "仰むく"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2d5312",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k",
+          "mean": "ngước nhìn lên cao"
+        }
+      ],
+      "mobileId": 11242,
+      "phonetic": "おっしゃのく",
+      "word": "仰のく"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef30447",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để cong xuống lùi lại; để ném (cái đầu) lùi lại"
+        }
+      ],
+      "mobileId": 118780,
+      "phonetic": "おっしゃそる",
+      "related_words": {
+        "word": [
+          "反",
+          "反る"
+        ]
+      },
+      "word": "仰反る"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef301bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trên (về) một có sau"
+        }
+      ],
+      "mobileId": 118779,
+      "phonetic": "おっしゃように",
+      "related_words": {
+        "word": [
+          "様",
+          "に",
+          "様に"
+        ]
+      },
+      "word": "仰様に"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

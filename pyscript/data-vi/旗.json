@@ -1,0 +1,242 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f012d68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cờ; lá cờ ."
+        }
+      ],
+      "mobileId": 184896,
+      "phonetic": "はた",
+      "related_words": {
+        "word": [
+          "国旗",
+          "星条旗",
+          "旗艦",
+          "軍旗",
+          "旗手"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "旗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "信号旗",
+                "ピン",
+                "旗幟"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "垂れ幕"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "旗幟",
+                "バナー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "旗幟"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "旗"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680100cf62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lá cờ xanh ."
+        }
+      ],
+      "mobileId": 41726,
+      "phonetic": "あおいはた",
+      "word": "青い旗"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685d202c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đánh dấu yếu đi"
+        }
+      ],
+      "mobileId": 2972,
+      "phonetic": "しめぎはた",
+      "word": "標旗"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f2570b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(cuộc thi thuyền có chướng ngại vật) phạt không cho ra ngoài"
+        }
+      ],
+      "mobileId": 25610,
+      "phonetic": "はたもん",
+      "word": "旗門"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107499bdf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lá cờ của vua ."
+        }
+      ],
+      "mobileId": 53045,
+      "phonetic": "てんのうき",
+      "related_words": {
+        "word": [
+          "天",
+          "天皇",
+          "旗"
+        ]
+      },
+      "word": "天皇旗"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd834bf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lá cờ vô địch"
+        }
+      ],
+      "mobileId": 72957,
+      "phonetic": "ゆうしょうき",
+      "related_words": {
+        "word": [
+          "優",
+          "優勝",
+          "旗"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "優勝旗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "栄冠",
+                "王冠",
+                "ペナント"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "優勝旗"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de3b520",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cờ hiệu (trên tàu ...)"
+        }
+      ],
+      "mobileId": 153015,
+      "phonetic": "しんごうはた",
+      "related_words": {
+        "word": [
+          "号",
+          "信号",
+          "信",
+          "旗"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "信号旗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "旗",
+                "ピン",
+                "旗幟"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "信号旗"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e66181",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Olympic flag"
+        }
+      ],
+      "mobileId": 263626,
+      "phonetic": "オリンピックき",
+      "word": "オリンピック旗"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d80af8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liên hiệp quốc yếu đi"
+        }
+      ],
+      "mobileId": 40433,
+      "phonetic": "こくれんはた",
+      "related_words": {
+        "word": [
+          "国",
+          "国連",
+          "連",
+          "旗"
+        ]
+      },
+      "word": "国連旗"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde99b02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những màu trung đoàn"
+        }
+      ],
+      "mobileId": 76212,
+      "phonetic": "れんたいはた",
+      "word": "連隊旗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b6a0c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spinning wheel"
+        }
+      ],
+      "mobileId": 262120,
+      "phonetic": "ぼうしゃ",
+      "word": "紡車"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd4e7844",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bông quay"
+        }
+      ],
+      "mobileId": 71281,
+      "phonetic": "",
+      "word": "綿紡"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e42650",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quay máy"
+        }
+      ],
+      "mobileId": 7263,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "機"
+        ]
+      },
+      "word": "紡機"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

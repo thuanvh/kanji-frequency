@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5c6f00",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adj-na, n",
+          "mean": "không mạch lạc; nói sự vô nghĩa; tất cả tiếng hy-lạp tới tôi"
+        }
+      ],
+      "mobileId": 113992,
+      "phonetic": "",
+      "word": "珍紛漢紛"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68962715",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "làm một có những sử dụng tốt nhất"
+        }
+      ],
+      "mobileId": 4766,
+      "phonetic": "",
+      "word": "紛骨砕身"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d727784",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thụ phấn nhân tạo ."
+        }
+      ],
+      "mobileId": 143387,
+      "phonetic": "じんこうじゅふん",
+      "related_words": {
+        "word": [
+          "人",
+          "人工"
+        ]
+      },
+      "word": "人工受紛"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

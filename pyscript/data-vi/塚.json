@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10716ee9e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ụ; mô đất; đống ."
+        }
+      ],
+      "mobileId": 52255,
+      "phonetic": "つか",
+      "related_words": {
+        "word": [
+          "貝塚"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "塚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "円丘"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "墓地",
+                "霊園"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "塚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9fef46c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "burial mound for person who died for love"
+        }
+      ],
+      "mobileId": 280919,
+      "phonetic": "こいづか",
+      "word": "恋塚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90df155",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tomb of someone with no relatives to mourn their death"
+        }
+      ],
+      "mobileId": 273215,
+      "phonetic": "むえんづか",
+      "word": "無縁塚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9fe3a38",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "burial mound for severed heads"
+        }
+      ],
+      "mobileId": 280897,
+      "phonetic": "くびづか",
+      "word": "首塚"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e858f6f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người không biết có phần mộ"
+        }
+      ],
+      "mobileId": 36357,
+      "phonetic": "くようつか",
+      "related_words": {
+        "word": [
+          "塚",
+          "供",
+          "供養"
+        ]
+      },
+      "word": "供養塚"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771970f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mound of straw, pile of straw"
+        }
+      ],
+      "mobileId": 265284,
+      "phonetic": "わらづか",
+      "word": "藁塚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e061a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "molehill, mole mound"
+        }
+      ],
+      "mobileId": 279939,
+      "phonetic": "もぐらづか モグラづか",
+      "word": "モグラ塚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9fe4cb5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "burial mound for severed ears"
+        }
+      ],
+      "mobileId": 280899,
+      "phonetic": "みみづか",
+      "word": "耳塚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9fe5689",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "burial mound for severed noses and ears"
+        }
+      ],
+      "mobileId": 280900,
+      "phonetic": "はなづか",
+      "word": "鼻塚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ff0513",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "round burial mound"
+        }
+      ],
+      "mobileId": 280921,
+      "phonetic": "まるづか まるか えんちょう",
+      "word": "円塚"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680147cdf4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "わが国では鳩レースは1800年代後半まで定着しなかった",
+              "mean": "Ở nước tôi, môn thi chim bồ câu chưa được để ý đến cho đến những năm cuối của năm 1800.",
+              "transcription": "わがくにでははとレースは1800ねんだいこうはんまでていちゃくしなかった"
+            },
+            {
+              "content": "鳩が種をついばんで農夫がつらい思いをしないことはない。",
+              "mean": "Không có chuyện chim bồ câu không ăn hạt giống cũng như không có chuyện người nông dân không có lúc chán nản.",
+              "transcription": "はとがたねをついばんでのうふがつらいおもいをしないことはない。"
+            }
+          ],
+          "kind": "n",
+          "mean": "bồ câu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim bồ câu ."
+        }
+      ],
+      "mobileId": 42972,
+      "phonetic": "はと",
+      "related_words": {
+        "word": [
+          "伝書鳩"
+        ]
+      },
+      "word": "鳩"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939aacea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim bồ câu, người ngốc nghếch, người dễ bị lừa, đĩa  ném tung lên để tập bắn, lừa, lừa gạt"
+        }
+      ],
+      "mobileId": 22835,
+      "phonetic": "かわはらはと",
+      "word": "河原鳩"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e61e378",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "passenger pigeon (Ectopistes migratorius)"
+        }
+      ],
+      "mobileId": 251188,
+      "phonetic": "りょこうばと リョコウバト",
+      "word": "旅行鳩"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6814b8c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chim bồ câu, điển hình ngây thơ, hiền dịu, người đem tin mừng; sứ giả của hoà bình, người yêu quý, \"bồ câu nhỏ\""
+        }
+      ],
+      "mobileId": 671,
+      "opposite_word": [
+        "鷹派"
+      ],
+      "phonetic": "はとは",
+      "word": "鳩派"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938f1f4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một loại bồ câu Nhật Bản"
+        }
+      ],
+      "mobileId": 22474,
+      "phonetic": "からすはと",
+      "word": "烏鳩"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77650bd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pigeon seen on the morning of the New Year (e.g. as one is going to the shrine or temple for the New Year prayers)"
+        }
+      ],
+      "mobileId": 267725,
+      "phonetic": "はつばと",
+      "word": "初鳩"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e0c4f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "turtledove đỏ hoe"
+        }
+      ],
+      "mobileId": 25025,
+      "phonetic": "",
+      "word": "雉鳩"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86a021d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim bồ câu đưa thư phục vụ việc chuyển tải tin tức quân sự"
+        }
+      ],
+      "mobileId": 36904,
+      "phonetic": "ぐんようはと",
+      "related_words": {
+        "word": [
+          "用",
+          "鳩",
+          "軍",
+          "軍用"
+        ]
+      },
+      "word": "軍用鳩"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ef14f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nicobar pigeon (Caloenas nicobarica)"
+        }
+      ],
+      "mobileId": 280410,
+      "phonetic": "みのばと ミノバト",
+      "word": "蓑鳩"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6814acb3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chòm sao Columba; chòm sao Cưu tọa"
+        }
+      ],
+      "mobileId": 670,
+      "phonetic": "はとざ",
+      "word": "鳩座"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

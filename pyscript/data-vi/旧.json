@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f0ce9da",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "旧の三月",
+              "mean": "tháng ba âm lịch",
+              "transcription": "きゅうのさんがつ"
+            }
+          ],
+          "kind": "n, pref",
+          "mean": "âm lịch"
+        },
+        {
+          "examples": [
+            {
+              "content": "旧市長",
+              "mean": "thị trưởng cũ (cựu chủ tịch thành phố)",
+              "transcription": "きゅうしちょう"
+            },
+            {
+              "content": "旧を復する",
+              "mean": "phục cổ",
+              "transcription": "きゅうをふくする"
+            }
+          ],
+          "kind": "n, pref",
+          "mean": "cũ; cũ kỹ; cổ; cựu"
+        }
+      ],
+      "mobileId": 185136,
+      "opposite_word": [
+        "新"
+      ],
+      "phonetic": "きゅう",
+      "word": "旧"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f538c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cựu (i.e. trước những cải cách wwii bưu điện(vị trí)) cách dùng kana bên trong viết yomikata (của) kanji"
+        }
+      ],
+      "mobileId": 25698,
+      "phonetic": "きゅうかなづかい",
+      "word": "旧仮名遣い"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f659a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những sự đổ nát còn lại"
+        }
+      ],
+      "mobileId": 25727,
+      "phonetic": "",
+      "word": "旧墟"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f7b0a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quốc gia cổ xưa"
+        }
+      ],
+      "mobileId": 25773,
+      "phonetic": "きゅうくに",
+      "related_words": {
+        "word": [
+          "国"
+        ]
+      },
+      "word": "旧国"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f870d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "những sự đổ nát; vị trí lịch sử"
+        }
+      ],
+      "mobileId": 25796,
+      "phonetic": "",
+      "word": "旧趾"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f97312",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "luật cổ xưa"
+        }
+      ],
+      "mobileId": 25830,
+      "phonetic": "きゅうあきら",
+      "related_words": {
+        "word": [
+          "章"
+        ]
+      },
+      "word": "旧章"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fbb5d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ thống cũ (già); thứ tự cũ (già)"
+        }
+      ],
+      "mobileId": 25897,
+      "opposite_word": [
+        "新制度"
+      ],
+      "phonetic": "きゅうせいど",
+      "related_words": {
+        "word": [
+          "度",
+          "制度",
+          "制"
+        ]
+      },
+      "word": "旧制度"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fce1eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thế giới cũ (già)"
+        }
+      ],
+      "mobileId": 25935,
+      "opposite_word": [
+        "新大陸"
+      ],
+      "phonetic": "きゅうたいりく",
+      "related_words": {
+        "word": [
+          "大",
+          "陸",
+          "大陸"
+        ]
+      },
+      "word": "旧大陸"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e257c0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ancient clan"
+        }
+      ],
+      "mobileId": 249229,
+      "phonetic": "きゅうぞく",
+      "word": "旧族"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77df51fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "former (i.e. before the post-WWII reforms) kana usage in writing the readings of kanji"
+        }
+      ],
+      "mobileId": 271721,
+      "phonetic": "きゅうがな",
+      "word": "旧仮名"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

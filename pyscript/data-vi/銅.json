@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b51ad8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "塊銅",
+              "mean": "Đồng đỏ.",
+              "transcription": "かたまりどう"
+            }
+          ],
+          "kind": "n",
+          "mean": "đồng"
+        }
+      ],
+      "mobileId": 109768,
+      "phonetic": "あかがね",
+      "related_words": {
+        "word": [
+          "銅像",
+          "銅線",
+          "銅箔",
+          "黄銅",
+          "青銅",
+          "分銅",
+          "銅メダル",
+          "銅版画",
+          "銅鑼"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "銅",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "赤金"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "銅"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b522f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồng (kim loại) ."
+        }
+      ],
+      "mobileId": 109769,
+      "phonetic": "どう",
+      "related_words": {
+        "word": [
+          "銅像",
+          "銅線",
+          "銅箔",
+          "黄銅",
+          "青銅",
+          "分銅",
+          "銅メダル",
+          "銅版画",
+          "銅鑼"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "銅",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "赤金"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "銅"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebb5c45",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm (của) đồng"
+        }
+      ],
+      "mobileId": 117029,
+      "phonetic": "どうせい",
+      "word": "銅製"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebbe644",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếp thị giá (của) đồng"
+        }
+      ],
+      "mobileId": 117046,
+      "phonetic": "どうそうば",
+      "word": "銅相場"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde6b1b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồng clo-rua"
+        }
+      ],
+      "mobileId": 17063,
+      "phonetic": "えんかどう",
+      "word": "塩化銅"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc7a5b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồng Sunfua"
+        }
+      ],
+      "mobileId": 75182,
+      "phonetic": "りゅうさんどう",
+      "word": "硫酸銅"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec18caf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khắc huy chương đồng đỏ"
+        }
+      ],
+      "mobileId": 117227,
+      "phonetic": "どうメダリスト",
+      "word": "銅メダリスト"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01b140a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "covellite"
+        }
+      ],
+      "mobileId": 281824,
+      "phonetic": "どうらん",
+      "word": "銅藍"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be420e4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồng bé-ryl"
+        }
+      ],
+      "mobileId": 91395,
+      "phonetic": "ベリリウムどう",
+      "word": "ベリリウム銅"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b585eb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "銅版画工",
+              "mean": "thợ khắc axit .",
+              "transcription": "どうはんがこう"
+            },
+            {
+              "content": "銅版画家",
+              "mean": "nghệ sĩ khắc đồng .",
+              "transcription": "どうはんがか"
+            }
+          ],
+          "kind": "n",
+          "mean": "tranh khắc đồng"
+        }
+      ],
+      "mobileId": 109776,
+      "phonetic": "どうはんが",
+      "related_words": {
+        "word": [
+          "版",
+          "画",
+          "銅",
+          "版画"
+        ]
+      },
+      "word": "銅版画"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027f1679b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ABC誌の新規購読申込者に対してはバックナンバーの購入の際に＿％を割り引く",
+              "mean": "chiết khấu ~ % khi mua số phát hành lại đối với người đăng ký mua báo mới của tạp chí ABC",
+              "transcription": "ABCしのしんきこうどくもうしこみしゃにたいしてはバックナンバーのこうにゅうのさいに＿ぱーせんとをわりびく"
+            }
+          ],
+          "kind": "n-suf, ctr",
+          "mean": "báo"
+        },
+        {
+          "examples": null,
+          "kind": "n-suf, ctr",
+          "mean": "sự ghi chép"
+        },
+        {
+          "examples": [
+            {
+              "content": "日本は世界で唯一大人も若者もコミック誌を読む国である",
+              "mean": "Nhật Bản là nước duy nhất trên thế giới mà cả người lớn và thanh niên đều đọc truyện tranh",
+              "transcription": "にっぽんはせかいでゆいいつおとなもわかものもコミックしをよむくにである"
+            },
+            {
+              "content": "コミック誌を読む",
+              "mean": "Đọc các tạp chí tranh .",
+              "transcription": "コミックしをよむ"
+            }
+          ],
+          "kind": "n-suf, ctr",
+          "mean": "tạp chí"
+        }
+      ],
+      "mobileId": 33247,
+      "phonetic": "し",
+      "related_words": {
+        "word": [
+          "雑誌",
+          "日誌",
+          "週刊誌",
+          "書誌",
+          "ファッション雑誌",
+          "月刊誌",
+          "本誌",
+          "航海日誌"
+        ]
+      },
+      "word": "誌"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09aa0c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "natural history"
+        }
+      ],
+      "mobileId": 285887,
+      "phonetic": "はくぶつし",
+      "word": "博物誌"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8993eb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tạp chí phát hành theo tháng"
+        }
+      ],
+      "mobileId": 38405,
+      "phonetic": "げっかんし",
+      "related_words": {
+        "word": [
+          "月",
+          "月刊",
+          "誌"
+        ]
+      },
+      "word": "月刊誌"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c095da73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "specialist journal, specialized magazine, specialised magazine"
+        }
+      ],
+      "mobileId": 211658,
+      "phonetic": "せんもんし",
+      "word": "専門誌"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d14506f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "French publication (magazine, newspaper, etc.)"
+        }
+      ],
+      "mobileId": 215752,
+      "phonetic": "ふつし",
+      "word": "仏誌"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cab8e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lifestyle magazine"
+        }
+      ],
+      "mobileId": 262770,
+      "phonetic": "せいかつし",
+      "word": "生活誌"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0831353",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Time magazine"
+        }
+      ],
+      "mobileId": 211059,
+      "phonetic": "タイムし",
+      "word": "タイム誌"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebef24d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ động vật, danh sách động vật, động vật chí"
+        }
+      ],
+      "mobileId": 117141,
+      "phonetic": "どうぶつし",
+      "related_words": {
+        "word": [
+          "物",
+          "動物",
+          "動",
+          "誌"
+        ]
+      },
+      "word": "動物誌"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e63f3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "comic book, manga magazine"
+        }
+      ],
+      "mobileId": 271939,
+      "phonetic": "コミックし",
+      "word": "コミック誌"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770097f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "club journal, club notebook"
+        }
+      ],
+      "mobileId": 264476,
+      "phonetic": "ぶし",
+      "word": "部誌"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

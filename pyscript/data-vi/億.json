@@ -1,0 +1,231 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dd84e20",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "コスモス銀行で３億円が強奪された。",
+              "mean": "Ngân hàng Cosmos bị ăn cắp 300 triệu yên.",
+              "transcription": "コスモスぎんこうでさんおくえんがごうだつされた。"
+            },
+            {
+              "content": "日本の人口は１億を超えている。",
+              "mean": "Dân số Nhật Bản đã hơn 100 triệu người.",
+              "transcription": "にっぽんのじんこうはいちおくをこえている。"
+            }
+          ],
+          "kind": "num",
+          "mean": "100 triệu"
+        },
+        {
+          "examples": null,
+          "kind": "num",
+          "mean": "ức ."
+        }
+      ],
+      "mobileId": 145132,
+      "phonetic": "おく",
+      "word": "億"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95146845",
+      "means": [
+        {
+          "examples": null,
+          "kind": "num",
+          "mean": "1,000,000,000; tỉ (người mỹ); tỷ (anh)"
+        }
+      ],
+      "mobileId": 56762,
+      "phonetic": "じゅうおく",
+      "related_words": {
+        "word": [
+          "十"
+        ]
+      },
+      "word": "十億"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d09b0cb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "一億一心",
+              "mean": "một trăm triệu người đồng lòng .",
+              "transcription": "いちおくいっしん"
+            }
+          ],
+          "kind": "n",
+          "mean": "một trăm triệu"
+        }
+      ],
+      "mobileId": 141560,
+      "phonetic": "いちおく",
+      "word": "一億"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19301d6cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "100,000,000 yên"
+        }
+      ],
+      "mobileId": 17939,
+      "phonetic": "おくえん",
+      "word": "億円"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9593f167",
+      "means": [
+        {
+          "examples": null,
+          "kind": "num",
+          "mean": "100,000,000,000; một trăm tỉ; con số cực lớn"
+        }
+      ],
+      "mobileId": 60812,
+      "phonetic": "せんおく",
+      "related_words": {
+        "word": [
+          "千"
+        ]
+      },
+      "word": "千億"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a8c91f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mười tỷ ."
+        }
+      ],
+      "mobileId": 172609,
+      "phonetic": "ひゃくおく",
+      "related_words": {
+        "word": [
+          "百"
+        ]
+      },
+      "word": "百億"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b49112",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "several hundreds of millions of yen"
+        }
+      ],
+      "mobileId": 212662,
+      "phonetic": "すうおくえん",
+      "word": "数億円"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74eef804",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng trăm triệu năm ."
+        }
+      ],
+      "mobileId": 101044,
+      "phonetic": "すうおくねん",
+      "related_words": {
+        "word": [
+          "数",
+          "年"
+        ]
+      },
+      "word": "数億年"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951bba37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính vĩnh hằng; thiên đường"
+        }
+      ],
+      "mobileId": 56981,
+      "phonetic": "じゅうまんおくど",
+      "related_words": {
+        "word": [
+          "万",
+          "土",
+          "十"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "十万億土",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "極楽",
+                "パラダイス",
+                "上界",
+                "天上界",
+                "上天",
+                "天堂",
+                "天",
+                "天上",
+                "天国"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "十万億土"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dd86725",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ビル・ゲイツは成功して、億万長者になった",
+              "mean": "Bill Gates đã thành công và trở thành tỷ phú",
+              "transcription": "ビル・ゲイツはせいこうして、おくまんちょうじゃになった"
+            },
+            {
+              "content": "ちなみに、彼は億万長者だ",
+              "mean": "ngoài ra, anh ta còn là một nhà tỷ phú",
+              "transcription": "ちなみに、かれはおくまんちょうじゃだ"
+            },
+            {
+              "content": "成金の億万長者",
+              "mean": "tỷ phú mới phất .",
+              "transcription": "なりきんのおくまんちょうじゃ"
+            }
+          ],
+          "kind": "n",
+          "mean": "người có nhiều tiền; tỷ phú"
+        }
+      ],
+      "mobileId": 145133,
+      "phonetic": "おくまんちょうじゃ",
+      "related_words": {
+        "word": [
+          "万",
+          "者",
+          "長"
+        ]
+      },
+      "word": "億万長者"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

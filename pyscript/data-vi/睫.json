@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd009709",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "eyelashes"
+        }
+      ],
+      "mobileId": 68806,
+      "phonetic": "まつげ",
+      "word": "睫"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d1d65c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự mọc lông phía trong, chứng lông quặm"
+        }
+      ],
+      "mobileId": 146668,
+      "phonetic": "ぎゃくまつげ",
+      "related_words": {
+        "word": [
+          "逆"
+        ]
+      },
+      "word": "逆睫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280276ae179",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màng ."
+        }
+      ],
+      "mobileId": 30887,
+      "phonetic": "まく",
+      "related_words": {
+        "word": [
+          "処女膜",
+          "結膜炎",
+          "粘膜",
+          "網膜",
+          "横隔膜",
+          "角膜",
+          "腹膜炎",
+          "鼓膜",
+          "細胞膜",
+          "腹膜"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "膜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "フィルム",
+                "映画"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "膜"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81277b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "(giải phẫu) màng cứng mắt"
+        }
+      ],
+      "mobileId": 34084,
+      "phonetic": "つよまく",
+      "word": "強膜"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed956072aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màng não"
+        }
+      ],
+      "mobileId": 59168,
+      "phonetic": "ずいまく",
+      "word": "髄膜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0957cf7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "film thickness, coating thickness"
+        }
+      ],
+      "mobileId": 285726,
+      "phonetic": "まくあつ",
+      "word": "膜厚"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbaa480",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màng trứng; noãn mô"
+        }
+      ],
+      "mobileId": 74767,
+      "phonetic": "たまごまく",
+      "word": "卵膜"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e377c4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "membranous labyrinth (of the inner ear), membraneous labyrinth"
+        }
+      ],
+      "mobileId": 249802,
+      "phonetic": "まくめいろ",
+      "word": "膜迷路"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e824d4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "serous membrane"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chorion"
+        }
+      ],
+      "mobileId": 252229,
+      "phonetic": "しょうまく",
+      "word": "漿膜"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dc037f2",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Màng mạch ( là lớp màng thứ 2 của cầu mắt)"
+        }
+      ],
+      "mobileId": 221336,
+      "phonetic": "みゃくらくまく",
+      "word": "脈絡膜"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e857fc6",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "màng sơn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "とまく",
+      "word": "塗膜"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bdf3126",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "retroperitoneum"
+        }
+      ],
+      "mobileId": 246971,
+      "phonetic": "こうふくまく",
+      "word": "後腹膜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

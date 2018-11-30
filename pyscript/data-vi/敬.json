@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a75dcb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reverence, respect"
+        }
+      ],
+      "mobileId": 227161,
+      "phonetic": "けい",
+      "word": "敬"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e877c5d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thể lịch sự, thể kính trọng (trong văn nói)"
+        }
+      ],
+      "mobileId": 37343,
+      "opposite_word": [
+        "常体"
+      ],
+      "phonetic": "けいたい",
+      "word": "敬体"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1076cabba",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼女の孝敬は人々を感動させた",
+              "mean": "Lòng hiếu thảo của cô ấy khiến mọi người cảm động.",
+              "transcription": "かのじょのこうけいはひとびとをかんどうさせた"
+            },
+            {
+              "content": "孝敬を表す",
+              "mean": "bày tỏ (thể hiện) lòng hiếu thảo .",
+              "transcription": "こうけいをあらわす"
+            }
+          ],
+          "kind": "n",
+          "mean": "Lòng hiếu thảo; sự hiếu kính; hiếu thảo"
+        }
+      ],
+      "mobileId": 53712,
+      "phonetic": "こうけい",
+      "related_words": {
+        "word": [
+          "孝"
+        ]
+      },
+      "word": "孝敬"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

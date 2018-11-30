@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f747afaf2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜　人",
+              "mean": "có một người .",
+              "transcription": "〜ひと"
+            }
+          ],
+          "kind": "adj-pn",
+          "mean": "mỗi; mỗi một; có một"
+        }
+      ],
+      "mobileId": 99214,
+      "phonetic": "ある",
+      "related_words": {
+        "word": [
+          "或いは",
+          "或る日",
+          "或る",
+          "或は",
+          "或るいは",
+          "或る人"
+        ]
+      },
+      "word": "或"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd50d46e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một certain...; some..."
+        }
+      ],
+      "mobileId": 12374,
+      "phonetic": "あるる",
+      "related_words": {
+        "word": [
+          "或",
+          "或る日",
+          "或る人"
+        ]
+      },
+      "word": "或る"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd51c83e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một ngày (i.e.  một ngày trong khi việc học,...)"
+        }
+      ],
+      "mobileId": 12404,
+      "phonetic": "あるるひ",
+      "related_words": {
+        "word": [
+          "日",
+          "或",
+          "或る"
+        ]
+      },
+      "word": "或る日"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd51a76b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một lần (i.e.  một lần, khi tôi đang học...)"
+        }
+      ],
+      "mobileId": 12401,
+      "phonetic": "あるるとき",
+      "related_words": {
+        "word": [
+          "時",
+          "或",
+          "或る"
+        ]
+      },
+      "word": "或る時"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd51d250",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người nào đó (không chỉ rõ, trừ phi người nào đó trong đặc biệt)"
+        }
+      ],
+      "mobileId": 12405,
+      "phonetic": "あるるひと",
+      "related_words": {
+        "word": [
+          "人",
+          "或",
+          "或る"
+        ]
+      },
+      "word": "或る人"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dcc9310",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-pn",
+          "mean": "a certain ..."
+        }
+      ],
+      "mobileId": 221741,
+      "phonetic": "とある",
+      "word": "と或る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801452e12",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "内鰓",
+              "mean": "mang bên trong",
+              "transcription": "うちえら"
+            },
+            {
+              "content": "気管鰓",
+              "mean": "mang khí quản",
+              "transcription": "きかんえら"
+            },
+            {
+              "content": "外鰓",
+              "mean": "mang ngoài .",
+              "transcription": "そとえら"
+            }
+          ],
+          "kind": "n",
+          "mean": "mang cá"
+        }
+      ],
+      "mobileId": 42932,
+      "phonetic": "えら",
+      "synsets": [
+        {
+          "base_form": "鰓",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "顎",
+                "ジル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鰓"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aec1e6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gill slit"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pharyngeal slit"
+        }
+      ],
+      "mobileId": 230992,
+      "phonetic": "えらあな さいこう",
+      "related_words": {
+        "word": [
+          "鰓"
+        ]
+      },
+      "word": "鰓孔"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77467901",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gill lamella, branchial lamella, gill filament"
+        }
+      ],
+      "mobileId": 266729,
+      "phonetic": "さいべん",
+      "word": "鰓弁"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e892ce3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sea pen (any coelenterate of the family Pennatulidae or related families), sea feather"
+        }
+      ],
+      "mobileId": 252455,
+      "phonetic": "うみえら ウミエラ",
+      "word": "海鰓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77270964",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "branchial arch, gill arch"
+        }
+      ],
+      "mobileId": 265723,
+      "phonetic": "さいきゅう",
+      "word": "鰓弓"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a86c7a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gill cover, operculum"
+        }
+      ],
+      "mobileId": 227704,
+      "phonetic": "えらぶた さいがい",
+      "word": "鰓蓋"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aec28d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gill slit"
+        }
+      ],
+      "mobileId": 230993,
+      "phonetic": "さいれつ",
+      "word": "鰓裂"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd152fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "branchial respiration (breathing using gills)"
+        }
+      ],
+      "mobileId": 221891,
+      "phonetic": "えらこきゅう",
+      "word": "鰓呼吸"
+    },
+    {
+      "_id": "432518852de0a80625d585a982584398",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pterobranchs (hemichordates of class Pterobranchia)"
+        }
+      ],
+      "mobileId": 234426,
+      "phonetic": "よくさいるい",
+      "word": "翼鰓類"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bd11ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hến"
+        }
+      ],
+      "mobileId": 6040,
+      "phonetic": "べんえらるい",
+      "related_words": {
+        "word": [
+          "類",
+          "弁",
+          "鰓"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "弁鰓類",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "二枚貝"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "弁鰓類"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

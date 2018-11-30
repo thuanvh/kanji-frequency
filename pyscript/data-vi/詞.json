@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9825bcd81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "words, writing, lyrics"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ci (form of Chinese poetry)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "independent word"
+        }
+      ],
+      "mobileId": 234536,
+      "phonetic": "し",
+      "word": "詞"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68db9237",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phát biểu (của) lời khen"
+        }
+      ],
+      "mobileId": 6992,
+      "phonetic": "ほめことば",
+      "synsets": [
+        {
+          "base_form": "褒め詞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "賛辞",
+                "褒言葉"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "賛辞",
+                "讃賞",
+                "褒言葉",
+                "絶賛",
+                "賛美",
+                "褒辞",
+                "謳歌"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "褒め詞"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95997675",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những tiền đề"
+        }
+      ],
+      "mobileId": 60989,
+      "phonetic": "せんこうことば",
+      "word": "先行詞"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef964389d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "password"
+        }
+      ],
+      "mobileId": 275927,
+      "phonetic": "かえことば",
+      "word": "代詞"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e59f5b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "words read by the priest in a Shinto purification rite"
+        }
+      ],
+      "mobileId": 250928,
+      "phonetic": "はらえことば",
+      "word": "祓詞"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d000b0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "suffix"
+        }
+      ],
+      "mobileId": 215118,
+      "phonetic": "せつびし",
+      "word": "接尾詞"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a39e0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từ hạn định (chẳng hạn some, your, the...)"
+        }
+      ],
+      "mobileId": 38732,
+      "phonetic": "げんていことば",
+      "word": "限定詞"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adab5ecef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Mật khẩu ."
+        }
+      ],
+      "mobileId": 79836,
+      "phonetic": "あいことば",
+      "related_words": {
+        "word": [
+          "合い"
+        ]
+      },
+      "word": "合い詞"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b502b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "copula"
+        }
+      ],
+      "mobileId": 212677,
+      "phonetic": "していし",
+      "word": "指定詞"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a98a25a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prefix (as a part-of-speech)"
+        }
+      ],
+      "mobileId": 260700,
+      "phonetic": "せっとうし",
+      "word": "接頭詞"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

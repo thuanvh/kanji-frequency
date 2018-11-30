@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3300f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lời chú thích; đấu đề"
+        }
+      ],
+      "mobileId": 147353,
+      "phonetic": "さん",
+      "word": "賛"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a231c24",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lời khen nồng nhiệt ."
+        }
+      ],
+      "mobileId": 170935,
+      "phonetic": "ねっさん",
+      "word": "熱賛"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a4a7a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s",
+          "mean": "to approve, to agree, to assent, to endorse, to support, to back"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to inscribe"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to praise, to laud"
+        }
+      ],
+      "mobileId": 269795,
+      "phonetic": "さんする",
+      "word": "賛する"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

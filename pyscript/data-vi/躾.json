@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa741de91",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "しつけがいい",
+              "mean": "được giáo dục tốt",
+              "transcription": "しつけがいい"
+            },
+            {
+              "content": "家庭でのしつけ",
+              "mean": "giáo dục trong gia đình .",
+              "transcription": "かていでのしつけ"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "sự giáo dục; phép lịch sự"
+        }
+      ],
+      "mobileId": 107756,
+      "phonetic": "しつけ",
+      "related_words": {
+        "word": [
+          "躾ける",
+          "不躾"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "躾",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "教育",
+                "薫陶",
+                "育英",
+                "訓練",
+                "教化",
+                "育ち"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "教育",
+                "トレーニング",
+                "訓練",
+                "下拵え",
+                "稽古",
+                "練習",
+                "錬成",
+                "養成"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "教育",
+                "育ち",
+                "養育",
+                "育成"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "躾"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d71f0d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phương pháp huấn luyện; phương pháp chăn nuôi"
+        }
+      ],
+      "mobileId": 149339,
+      "phonetic": "しつけかた",
+      "related_words": {
+        "word": [
+          "方",
+          "躾"
+        ]
+      },
+      "word": "躾方"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d7202ff",
+      "means": [
+        {
+          "examples": "",
+          "kind": "v1, vt",
+          "mean": "huấn luyện, giáo dục; chăn nuôi"
+        }
+      ],
+      "mobileId": 149341,
+      "phonetic": "しつける",
+      "related_words": {
+        "word": [
+          "躾"
+        ]
+      },
+      "word": "躾ける"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,280 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107b117cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rác"
+        },
+        {
+          "examples": [
+            {
+              "content": "屑を選り分ける",
+              "mean": "lựa chọn và phân loại giấy vụn",
+              "transcription": "くずをえりわける"
+            },
+            {
+              "content": "破砕屑",
+              "mean": "vụn rác bị nghiền",
+              "transcription": "はさいくず"
+            },
+            {
+              "content": "作業屑",
+              "mean": "vụn rác thải ra từ quá trình thao tác .",
+              "transcription": "さぎょうくず"
+            }
+          ],
+          "kind": "n, adj-f",
+          "mean": "vụn rác; mẩu vụn; đầu thừa đuôi thẹo; giấy vụn"
+        }
+      ],
+      "mobileId": 54871,
+      "opposite_word": [
+        "宝"
+      ],
+      "phonetic": "くず",
+      "related_words": {
+        "word": [
+          "星屑",
+          "パン屑",
+          "木屑",
+          "切り屑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "屑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "襤褸",
+                "切れ端",
+                "切り端",
+                "切れっ端",
+                "くず"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "廃棄物",
+                "くず",
+                "芥",
+                "塵",
+                "灰塵"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "がらくた",
+                "砕片",
+                "破片",
+                "瓦礫",
+                "ごみ",
+                "くず"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "廃棄物",
+                "がらくた",
+                "襤褸",
+                "トラッシュ",
+                "くず",
+                "スクラップ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "くず",
+                "不純物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "敗者",
+                "落人",
+                "負け犬",
+                "落伍者",
+                "下積み"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "屑"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84ab978",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "(comp) rác bên trong, rác ở ngoài"
+        }
+      ],
+      "mobileId": 35893,
+      "phonetic": "くずいれくずだし",
+      "word": "屑入れ屑出し"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81dc49f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mẩu cắt thải ra"
+        }
+      ],
+      "mobileId": 34447,
+      "phonetic": "きりくず",
+      "related_words": {
+        "word": [
+          "切",
+          "切り",
+          "屑"
+        ]
+      },
+      "word": "切り屑"
+    },
+    {
+      "_id": "ac12816c3281c52ce90ba353b6c46b3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhôm vụn ."
+        }
+      ],
+      "mobileId": 133552,
+      "phonetic": "あるみくず",
+      "word": "アルミ屑"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87daa4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vỏ bào (gỗ, kim loại)"
+        }
+      ],
+      "mobileId": 37530,
+      "phonetic": "けずりくず",
+      "related_words": {
+        "word": [
+          "屑",
+          "削"
+        ]
+      },
+      "word": "削り屑"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84aff4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nhặt rác [phế liệu, ve chai]; người nhặt rác [phế liệu; ve chai]"
+        }
+      ],
+      "mobileId": 35901,
+      "phonetic": "くずひろい",
+      "related_words": {
+        "word": [
+          "屑",
+          "拾"
+        ]
+      },
+      "word": "屑拾い"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd916764",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "làm  cho mịn những đám nùi bông, không thuộc vở, đọc sai"
+        }
+      ],
+      "mobileId": 14409,
+      "phonetic": "いとくず",
+      "related_words": {
+        "word": [
+          "糸",
+          "屑"
+        ]
+      },
+      "word": "糸屑"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014b5a1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sợi gai thô dùng để làm dây thừng ."
+        }
+      ],
+      "mobileId": 43043,
+      "phonetic": "あさくず",
+      "related_words": {
+        "word": [
+          "麻",
+          "屑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "麻屑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "牽引"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "麻屑"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02f610c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "duck-billed eel (Nettastoma parviceps)"
+        }
+      ],
+      "mobileId": 282464,
+      "phonetic": "くずあなご クズアナゴ",
+      "word": "屑穴子"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84ab72c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thùng rác; giỏ rác"
+        }
+      ],
+      "mobileId": 35892,
+      "phonetic": "くずいれ",
+      "word": "屑入れ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd4f3f07",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sao chép; mô phỏng"
+        }
+      ],
+      "mobileId": 71306,
+      "phonetic": "",
+      "word": "摸"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5363bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "việc xác định một mảnh gần phác họa một trò chơi mahjong"
+        }
+      ],
+      "mobileId": 71429,
+      "phonetic": "",
+      "word": "摸牌"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c75fb0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drawing a tile from the wall"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "winning off a self-drawn tile while completely concealed (yaku), winning off a self-drawn tile without having called any tiles"
+        }
+      ],
+      "mobileId": 279124,
+      "phonetic": "ツモ ツーモー",
+      "word": "自摸"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd546f1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự thi thử; kỳ thi thử"
+        }
+      ],
+      "mobileId": 71462,
+      "phonetic": "",
+      "word": "摸擬試験"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c76c67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "winning off a self-drawn tile"
+        }
+      ],
+      "mobileId": 279125,
+      "phonetic": "ツモホー",
+      "word": "自摸和"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c75ef4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "winning off a self-drawn tile while completely concealed (yaku), winning off a self-drawn tile without having called any tiles"
+        }
+      ],
+      "mobileId": 279123,
+      "phonetic": "メンゼンチンツモホー",
+      "word": "門前清自摸和"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

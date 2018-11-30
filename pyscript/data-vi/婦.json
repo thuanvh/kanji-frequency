@@ -1,0 +1,248 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9826089ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "married woman"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "woman, lady"
+        }
+      ],
+      "mobileId": 234687,
+      "phonetic": "ふ",
+      "word": "婦"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a6306e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vợ trước đây; vợ muộn"
+        }
+      ],
+      "mobileId": 61391,
+      "phonetic": "まえふ",
+      "related_words": {
+        "word": [
+          "前"
+        ]
+      },
+      "word": "前婦"
+    },
+    {
+      "_id": "432518852de0a80625d585a982224975",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prostitute"
+        }
+      ],
+      "mobileId": 232711,
+      "phonetic": "しゅんぷ",
+      "word": "春婦"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc5329a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to prostitute oneself làm đĩ, mãi dâm, bán rẻ (danh dự, tên tuổi, tài năng...)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đĩ, gái điếm, làm đĩ"
+        }
+      ],
+      "mobileId": 152010,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "倡婦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "傀儡",
+                "遊女",
+                "淫婦",
+                "売春婦",
+                "傾城",
+                "一夜妻",
+                "売女",
+                "傾国",
+                "売笑婦",
+                "娼妓",
+                "女郎",
+                "娼婦",
+                "淫売"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "倡婦"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682fc0e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "to prostitute oneself làm đĩ, mãi dâm, bán rẻ (danh dự, tên tuổi, tài năng...)"
+        }
+      ],
+      "mobileId": 1547,
+      "phonetic": "ばいしょうふ",
+      "synsets": [
+        {
+          "base_form": "売笑婦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "傀儡",
+                "遊女",
+                "淫婦",
+                "売春婦",
+                "傾城",
+                "一夜妻",
+                "売女",
+                "倡婦",
+                "傾国",
+                "娼妓",
+                "女郎",
+                "娼婦",
+                "淫売"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "売笑婦"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19366b9a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bà quản gia, người coi nhà, người giữ nhà"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con gái; thiếu nữ, đầy tớ gái, người hầu gái"
+        }
+      ],
+      "mobileId": 21196,
+      "phonetic": "かせいふ",
+      "related_words": {
+        "word": [
+          "家",
+          "政"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "家政婦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "下女",
+                "小間使い",
+                "メード",
+                "メイド",
+                "アマ",
+                "女中",
+                "小間使",
+                "下婢",
+                "お手伝いさん"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ハウスキーパー",
+                "刀自"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "家政婦"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9597bb47",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to prostitute oneself làm đĩ, mãi dâm, bán rẻ (danh dự, tên tuổi, tài năng...)"
+        }
+      ],
+      "mobileId": 60931,
+      "phonetic": "せんぎょうふ",
+      "word": "賤業婦"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f84dfb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prostitute"
+        }
+      ],
+      "mobileId": 264212,
+      "phonetic": "いんばいふ",
+      "word": "淫売婦"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f44699",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nữ nấu"
+        }
+      ],
+      "mobileId": 7787,
+      "phonetic": "まかないふ",
+      "word": "賄い婦"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a639af",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vợ trước đây; vợ muộn"
+        }
+      ],
+      "mobileId": 61392,
+      "phonetic": "さきふ",
+      "related_words": {
+        "word": [
+          "先"
+        ]
+      },
+      "word": "先婦"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,240 @@
+{
+  "data": [
+    {
+      "_id": "12be0047dfdec669605e1a2b22330b9e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "掘削深さ3m以深で、1段ないし2段の切梁を支保工に用いるべきだ。",
+              "mean": "Trong trường hợp độ sâu hố đào hơn 3m thì nên thay hệ văng chống 1 tầng thành 2 tầng.",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "sâu hơn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "いしん",
+      "word": "以深"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d888b1f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "実力を　〜　する",
+              "mean": "làm việc bằng thực lực",
+              "transcription": "じつりょくを〜する"
+            }
+          ],
+          "kind": "conj, exp",
+          "mean": "có; lấy để làm; bằng"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼は老齢の故をもって辞職を申し出た",
+              "mean": "Anh ấy đưa đơn từ chức vì lý do tuổi cao.",
+              "transcription": "かれはろうれいのゆえをもってじしょくをもうしでた"
+            },
+            {
+              "content": "勅命を以て",
+              "mean": "theo mệnh lệnh của vua .",
+              "transcription": "ちょくめいをもって"
+            }
+          ],
+          "kind": "conj, exp",
+          "mean": "vì; với; do vậy"
+        }
+      ],
+      "mobileId": 143823,
+      "phonetic": "もって",
+      "word": "以て"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd998dab",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vẫn, còn; vẫn chưa; tuy thế; chưa"
+        }
+      ],
+      "mobileId": 14663,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "今",
+          "以て"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "今以て",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "今尚",
+                "尚",
+                "未だに",
+                "未だ",
+                "依然として"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "今以て"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fbc1ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "trước hết, trước nhất, trước tiên"
+        }
+      ],
+      "mobileId": 8020,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "先",
+          "先ず",
+          "以て"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "先ず以て",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "先ず",
+                "元来",
+                "元より",
+                "元元"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先ず",
+                "一番",
+                "取りあえず"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先ず",
+                "主に",
+                "主として"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先ず",
+                "一番"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "先ず以て"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b61520",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "using poisonous medication to control poison, fighting evil with evil, fighting fire with fire"
+        }
+      ],
+      "mobileId": 212710,
+      "phonetic": "いどくせいどく",
+      "word": "以毒制毒"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c03d5c59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Israel"
+        }
+      ],
+      "mobileId": 200599,
+      "phonetic": "イスラエル",
+      "word": "以色列"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6817b3d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "quá chừng, cực kỳ"
+        }
+      ],
+      "mobileId": 760,
+      "phonetic": "はなはだもて",
+      "related_words": {
+        "word": [
+          "以て"
+        ]
+      },
+      "word": "甚だ以て"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ee60d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spotbelly rockfish (Sebastes pachycephalus)"
+        }
+      ],
+      "mobileId": 280386,
+      "phonetic": "むらそい ムラソイ",
+      "word": "斑曹以"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd8b6a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "one can now rest in peace, one ought to be contented with what has been accomplished"
+        }
+      ],
+      "mobileId": 222121,
+      "phonetic": "もってめいすべし",
+      "word": "以て瞑すべし"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a032b52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese maple (Acer palmatum)"
+        }
+      ],
+      "mobileId": 223506,
+      "phonetic": "いろはもみじ イロハモミジ",
+      "word": "以呂波紅葉"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

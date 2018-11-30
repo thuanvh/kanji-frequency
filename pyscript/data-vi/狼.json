@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a3e8d77",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "一匹狼",
+              "mean": "con sói đơn độc",
+              "transcription": "いっぴきおおかみ"
+            },
+            {
+              "content": "狼は嗅覚が鋭い",
+              "mean": "lũ sói thì có khứu giác rất nhạy",
+              "transcription": "おおかみはきゅうかくがするどい"
+            },
+            {
+              "content": "狼たちの報酬",
+              "mean": "sự trả thù của bầy sói",
+              "transcription": "おおかみたちのほうしゅう"
+            },
+            {
+              "content": "原狼",
+              "mean": "sói hoang",
+              "transcription": "はらおおかみ"
+            },
+            {
+              "content": "狼(貧乏)がドアから入り込むと愛は窓から逃げ去る",
+              "mean": "nếu để chó sói (sự nghèo đói) vào được nhà thì tình yêu sẽ bay mất qua cửa sổ (tục ngữ) .",
+              "transcription": "おおかみ(びんぼう)がドアからはいりこむとあいはまどからにげさる"
+            }
+          ],
+          "kind": "n",
+          "mean": "chó sói; sói"
+        }
+      ],
+      "mobileId": 171397,
+      "phonetic": "おおかみ",
+      "related_words": {
+        "word": [
+          "餓狼",
+          "狼煙",
+          "狼狽"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "狼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウルフ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "狼"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d123095",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(European) gray wolf (carnivore, Canis lupus lupus), grey wolf"
+        }
+      ],
+      "mobileId": 215678,
+      "phonetic": "はいいろおおかみ",
+      "word": "灰色狼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77742981",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sirius (star in the constellation Canis Major), Alpha Canis Majoris, the Dog Star"
+        }
+      ],
+      "mobileId": 268204,
+      "phonetic": "てんろう",
+      "word": "天狼"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a359f62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tasmanian tiger (Thylacinus cynocephalus), thylacine, Tasmanian wolf"
+        }
+      ],
+      "mobileId": 225132,
+      "phonetic": "ふくろおおかみ フクロオオカミ",
+      "word": "袋狼"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be361ce4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tasmanian nuốt ngấu nghiến"
+        }
+      ],
+      "mobileId": 91014,
+      "phonetic": "タスマニアおおかみ",
+      "word": "タスマニア狼"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92a5089",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Falkland Islands wolf (Dusicyon australis), warrah, Falkland Islands dog, Falkland Islands fox, Antarctic wolf"
+        }
+      ],
+      "mobileId": 274125,
+      "phonetic": "フォークランドおおかみ フォークランドオオカミ",
+      "word": "フォークランド狼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77849adb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bering wolffish (Anarhichas orientalis)"
+        }
+      ],
+      "mobileId": 268759,
+      "phonetic": "おおかみうお オオカミウオ",
+      "word": "狼魚"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e58cf9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "timber wolf, lobo"
+        }
+      ],
+      "mobileId": 271917,
+      "phonetic": "しんりんおおかみ シンリンオオカミ",
+      "word": "森林狼"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7ef4bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lupus (esp. lupus vulgaris)"
+        }
+      ],
+      "mobileId": 227453,
+      "phonetic": "ろうそう",
+      "word": "狼瘡"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03a6c21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "werewolf"
+        }
+      ],
+      "mobileId": 282840,
+      "phonetic": "じんろう",
+      "related_words": {
+        "word": [
+          "人",
+          "狼"
+        ]
+      },
+      "word": "人狼"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

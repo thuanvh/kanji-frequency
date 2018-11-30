@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a1ca3e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, adv",
+          "mean": "tỉ mỉ; sâu sắc; thật sự ."
+        }
+      ],
+      "mobileId": 170835,
+      "phonetic": "つくづく",
+      "word": "熟"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d966392",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc phát triển thành vấn đề"
+        }
+      ],
+      "mobileId": 150495,
+      "phonetic": "おさむじゅく",
+      "word": "修熟"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951e19fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thức ăn được nấu kỹ"
+        }
+      ],
+      "mobileId": 57056,
+      "phonetic": "じゅくしょく",
+      "word": "熟食"
+    },
+    {
+      "_id": "b561b13ae6751b79ec119ece470fac33",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "今まで、このソフトを使い熟せるようになってきました。",
+              "mean": "đến bây giờ phần mềm này có thể sử dụng thành thạo.",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "nghiền, chín muồi, thành thạo"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "こなせる",
+      "word": "熟せる"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f40af4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "chưa có kinh nghiệm; chưa chín chắn"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "sự chưa có kinh nghiệm; sự chưa chín chắn ."
+        }
+      ],
+      "mobileId": 186013,
+      "opposite_word": [
+        "熟練",
+        "成熟",
+        "熟達"
+      ],
+      "phonetic": "みじゅく",
+      "related_words": {
+        "word": [
+          "未",
+          "未熟者",
+          "未熟児"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "未熟",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "若い",
+                "乳臭い",
+                "生煮え",
+                "稚拙",
+                "青臭い",
+                "幼い",
+                "幼稚"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "半可",
+                "若い"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "青い",
+                "乳臭い",
+                "うぶ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "うぶ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "青い",
+                "青っぽい",
+                "若い"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "下手"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        },
+        {
+          "base_form": "未熟",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "若さ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "未熟"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dbeece2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "proficiency, skill, experience"
+        }
+      ],
+      "mobileId": 221290,
+      "phonetic": "れんじゅく",
+      "word": "練熟"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951e23bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cách đọc cụm từ Hán tự"
+        }
+      ],
+      "mobileId": 57057,
+      "phonetic": "つくづくじくん",
+      "related_words": {
+        "word": [
+          "字"
+        ]
+      },
+      "word": "熟字訓"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dc5a157",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "attractive mature lady"
+        }
+      ],
+      "mobileId": 221517,
+      "phonetic": "じゅくじょ",
+      "word": "熟女"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f40bebd",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "trẻ sinh thiếu tháng (sớm so với dự sinh)"
+        }
+      ],
+      "mobileId": 186014,
+      "phonetic": "みじゅくじ",
+      "related_words": {
+        "word": [
+          "未",
+          "未熟",
+          "児"
+        ]
+      },
+      "word": "未熟児"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19362d6f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đứa trẻ sinh muộn ngày; em bé sơ sinh quá nặng cân"
+        }
+      ],
+      "mobileId": 21062,
+      "phonetic": "かじゅくじ",
+      "word": "過熟児"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

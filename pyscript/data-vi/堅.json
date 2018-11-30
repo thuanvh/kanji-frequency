@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04fd90f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "strength, solidity, firmness"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "armour, armor"
+        }
+      ],
+      "mobileId": 209418,
+      "phonetic": "けん",
+      "word": "堅"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88e1fb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pháo đài kiên cố"
+        }
+      ],
+      "mobileId": 38038,
+      "phonetic": "けんじょう",
+      "related_words": {
+        "word": [
+          "城"
+        ]
+      },
+      "word": "堅城"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936e4438",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "rắn chắc xây dựng người"
+        }
+      ],
+      "mobileId": 21433,
+      "phonetic": "けんふとり",
+      "word": "堅太り"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a11ed7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "firm and unyielding, rigid"
+        }
+      ],
+      "mobileId": 223974,
+      "phonetic": "けんごう",
+      "word": "堅剛"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10710ed8d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "意志の堅さ",
+              "mean": "sự vững chắc của ý chí",
+              "transcription": "いしのかたさ"
+            },
+            {
+              "content": "岩のような堅さ",
+              "mean": "sự cứng như đá",
+              "transcription": "いわのようなかたさ"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự cứng; sự vững chắc; sự kiên quyết; sự khó khăn"
+        }
+      ],
+      "mobileId": 52155,
+      "phonetic": "かたさ",
+      "word": "堅さ"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88cdd59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ý chí sắt đá"
+        }
+      ],
+      "mobileId": 38000,
+      "phonetic": "けんこころざし",
+      "word": "堅志"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cbd90a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snow with a frozen crust on top, crusted snow"
+        }
+      ],
+      "mobileId": 262800,
+      "phonetic": "かたゆき",
+      "word": "堅雪"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8d8084",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(Christian rite of) confirmation"
+        }
+      ],
+      "mobileId": 227924,
+      "phonetic": "けんしん",
+      "word": "堅信"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10711361e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "muối hột ."
+        }
+      ],
+      "mobileId": 52159,
+      "phonetic": "けんしお",
+      "word": "堅塩"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936b7c8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gỗ cứng, gỗ cây lá rộng"
+        }
+      ],
+      "mobileId": 21343,
+      "phonetic": "けんき",
+      "word": "堅木"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

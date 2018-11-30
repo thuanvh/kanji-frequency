@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d729773",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bình ắc - quy"
+        }
+      ],
+      "mobileId": 149357,
+      "phonetic": "しめでんち",
+      "related_words": {
+        "word": [
+          "電池",
+          "池"
+        ]
+      },
+      "word": "湿電池"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e826e29",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "脱湿装置",
+              "mean": "thiết bị hút ẩm",
+              "transcription": ""
+            }
+          ],
+          "kind": "",
+          "mean": "hút ẩm, loại bỏ ẩm độ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "だっしつ",
+      "word": "脱湿"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04fa0f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-pref",
+          "mean": "hydrarch"
+        }
+      ],
+      "mobileId": 283509,
+      "phonetic": "しっせい",
+      "word": "湿生"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68450f68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "vỏ, vỏ não"
+        }
+      ],
+      "mobileId": 2234,
+      "phonetic": "",
+      "word": "卑湿"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953ac962",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "việc làm mất sự ẩm ướt trong không khí; việc hong khô"
+        }
+      ],
+      "mobileId": 57947,
+      "phonetic": "じょしつ",
+      "word": "除湿"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef922e9b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soil moisture"
+        }
+      ],
+      "mobileId": 273880,
+      "phonetic": "どしつ",
+      "word": "土湿"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d72d871",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm ướt đĩa (nhiếp ảnh)"
+        }
+      ],
+      "mobileId": 149365,
+      "phonetic": "しめいた",
+      "word": "湿板"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f7346e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wet snow"
+        }
+      ],
+      "mobileId": 264173,
+      "phonetic": "しっせつ",
+      "word": "湿雪"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3d659b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, adj-no, vs",
+          "mean": "giữ ẩm, bảo trì độ ẩm"
+        }
+      ],
+      "mobileId": 217060,
+      "phonetic": "ほしつ",
+      "word": "保湿"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09cacec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "desiccant, moisture absorbent"
+        }
+      ],
+      "mobileId": 211892,
+      "phonetic": "ちょうしつざい",
+      "word": "調湿剤"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

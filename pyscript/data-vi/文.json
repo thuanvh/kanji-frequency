@@ -1,0 +1,328 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74f442e5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "感想を文につづる",
+              "mean": "Viết ra giấy những cảm tưởng của mình",
+              "transcription": "かんそうをぶんにつづる"
+            }
+          ],
+          "kind": "n",
+          "mean": "giấy viết thư"
+        },
+        {
+          "examples": [
+            {
+              "content": "商業文〔古臭い〕",
+              "mean": "Thư thương mại",
+              "transcription": "しょうぎょうぶん〔ふるくさい〕"
+            }
+          ],
+          "kind": "n",
+          "mean": "thư tịch"
+        },
+        {
+          "examples": [
+            {
+              "content": "文を作る",
+              "mean": "sáng tác văn chương",
+              "transcription": "ぶんをつくる"
+            }
+          ],
+          "kind": "n",
+          "mean": "văn chương; văn học"
+        }
+      ],
+      "mobileId": 101120,
+      "opposite_word": [
+        "武"
+      ],
+      "phonetic": "ふみ",
+      "related_words": {
+        "word": [
+          "文字",
+          "本文",
+          "文書",
+          "注文",
+          "文章",
+          "文化",
+          "論文",
+          "大文字",
+          "文字列",
+          "文法"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "文",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "完結文",
+                "文章"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雁の便り",
+                "便り",
+                "郵便",
+                "投書",
+                "雁書",
+                "信書",
+                "状",
+                "書簡",
+                "書面",
+                "信",
+                "雁の使い",
+                "手紙",
+                "雁の文",
+                "レター",
+                "便"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "本文",
+                "原文",
+                "正文",
+                "正本",
+                "テキスト",
+                "文章"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "文"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74f467e8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "サミットの最終日に発表される予定の声明文",
+              "mean": "Thông báo dự định phát biểu vào ngày cuối cùng của hội nghị thượng đỉnh.",
+              "transcription": "サミットのさいしゅうびにはっぴょうされるよていのせいめいぶん"
+            },
+            {
+              "content": "あいまい文",
+              "mean": "Câu văn không rõ nghĩa",
+              "transcription": "あいまいぶん"
+            }
+          ],
+          "kind": "n",
+          "mean": "câu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "văn chương"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "văn tự ."
+        }
+      ],
+      "mobileId": 101121,
+      "opposite_word": [
+        "武"
+      ],
+      "phonetic": "ぶん",
+      "related_words": {
+        "word": [
+          "文字",
+          "本文",
+          "文書",
+          "注文",
+          "文章",
+          "文化",
+          "論文",
+          "大文字",
+          "文字列",
+          "文法"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "文",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "完結文",
+                "文章"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雁の便り",
+                "便り",
+                "郵便",
+                "投書",
+                "雁書",
+                "信書",
+                "状",
+                "書簡",
+                "書面",
+                "信",
+                "雁の使い",
+                "手紙",
+                "雁の文",
+                "レター",
+                "便"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "本文",
+                "原文",
+                "正文",
+                "正本",
+                "テキスト",
+                "文章"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "文"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6873e13d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xem lại những câu"
+        }
+      ],
+      "mobileId": 3690,
+      "phonetic": "ふくしゅうぶん",
+      "related_words": {
+        "word": [
+          "文",
+          "復習"
+        ]
+      },
+      "word": "復習文"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e0d184",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bài ký sự"
+        }
+      ],
+      "mobileId": 25026,
+      "phonetic": "きじぶん",
+      "word": "記事文"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9f5bd4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "edict from a senior official in government or military which had the status of a binding official document"
+        }
+      ],
+      "mobileId": 228492,
+      "phonetic": "くだしぶみ",
+      "word": "下文"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e836cb52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "văn hài hước"
+        }
+      ],
+      "mobileId": 35248,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "文"
+        ]
+      },
+      "word": "戯文"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9531e448",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "báo cáo tới ngai vàng"
+        }
+      ],
+      "mobileId": 57679,
+      "phonetic": "じょうそうぶん",
+      "related_words": {
+        "word": [
+          "上",
+          "文"
+        ]
+      },
+      "word": "上奏文"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ca9f21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "câu ở giữa dấu ngoặc"
+        }
+      ],
+      "mobileId": 62558,
+      "phonetic": "そうにゅうぶん",
+      "word": "挿入文"
+    },
+    {
+      "_id": "432518852de0a80625d585a982741b89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ungrammatical sentence"
+        }
+      ],
+      "mobileId": 235300,
+      "phonetic": "ひぶん",
+      "word": "非文"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa76f2be5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thư tín ."
+        }
+      ],
+      "mobileId": 108573,
+      "phonetic": "つうしんぶん",
+      "word": "通信文"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

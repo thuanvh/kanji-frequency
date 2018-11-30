@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e6e187d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trung gian; manh mối; sự liên lạc; người nào đó để tin cậy"
+        }
+      ],
+      "mobileId": 114554,
+      "phonetic": "つて",
+      "related_words": {
+        "word": [
+          "伝説",
+          "伝える",
+          "伝票",
+          "伝統的",
+          "伝言",
+          "宣伝",
+          "伝統",
+          "伝統的な",
+          "伝達",
+          "遺伝子"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "伝",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一代記",
+                "伝記",
+                "バイオグラフィー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "伝"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95794660",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "phòng khánh tiết"
+        }
+      ],
+      "mobileId": 59957,
+      "phonetic": "よでん",
+      "word": "世伝"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde35fbe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự truyền miệng (truyện cổ tích, phong tục tập quán... từ đời nọ qua đời kia), truyền thuyết, truyền thống"
+        }
+      ],
+      "mobileId": 76020,
+      "phonetic": "れきでん",
+      "word": "歴伝"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d9ad1b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự truyền thụ (vào nghệ thuật) ."
+        }
+      ],
+      "mobileId": 144063,
+      "opposite_word": [
+        "伝授"
+      ],
+      "phonetic": "でんじゅ",
+      "word": "伝受"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa747ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Gospel of Mark (book of the Bible)"
+        }
+      ],
+      "mobileId": 228747,
+      "phonetic": "マルコでん",
+      "word": "マルコ伝"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689e9549",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "câu chuyện chiến tranh"
+        }
+      ],
+      "mobileId": 5030,
+      "phonetic": "ぶゆうでん",
+      "related_words": {
+        "word": [
+          "伝",
+          "勇",
+          "武勇"
+        ]
+      },
+      "word": "武勇伝"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6867f7fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "báo cáo sai (tiếng đồn)"
+        }
+      ],
+      "mobileId": 3308,
+      "phonetic": "",
+      "word": "謬伝"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e097781",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "new style, new way, modern, ultra modern"
+        }
+      ],
+      "mobileId": 248301,
+      "phonetic": "しんでん",
+      "word": "新伝"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa75526",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Gospel of Luke (book of the Bible)"
+        }
+      ],
+      "mobileId": 228749,
+      "phonetic": "ルカでん",
+      "word": "ルカ伝"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bd6f16a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "teachings conveyed by the gods"
+        }
+      ],
+      "mobileId": 246694,
+      "phonetic": "しんでん",
+      "word": "神伝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

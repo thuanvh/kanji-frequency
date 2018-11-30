@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0903072",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "vị trí (của một cái gì đó), nơi ở, nơi ẩn nấp"
+        }
+      ],
+      "mobileId": 211481,
+      "phonetic": "ありか",
+      "word": "在り処"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d2b74a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ đó; ở đó"
+        }
+      ],
+      "mobileId": 62828,
+      "opposite_word": [
+        "此処"
+      ],
+      "phonetic": "",
+      "word": "其処"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa79c3f09",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nơi uống rượu ."
+        }
+      ],
+      "mobileId": 109306,
+      "phonetic": "さけどころ",
+      "related_words": {
+        "word": [
+          "酒"
+        ]
+      },
+      "word": "酒処"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eaba374",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chấm dứt; sự kết thúc chỉ"
+        }
+      ],
+      "mobileId": 116533,
+      "phonetic": "とめしょ",
+      "word": "止め処"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb9cc71",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cùng chỗ, cùng nơi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "the same address"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "the said place"
+        }
+      ],
+      "mobileId": 116981,
+      "phonetic": "どうしょ",
+      "related_words": {
+        "word": [
+          "同"
+        ]
+      },
+      "word": "同処"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dad078",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one's seat"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "buttocks"
+        }
+      ],
+      "mobileId": 263263,
+      "phonetic": "いど",
+      "word": "居処"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95146ef4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ cư trú, chỗ ở, nhà ở"
+        }
+      ],
+      "mobileId": 56763,
+      "phonetic": "すみしょ",
+      "related_words": {
+        "word": [
+          "住"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "住み処",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "実家",
+                "居",
+                "邸",
+                "自宅",
+                "アビタシオン",
+                "館",
+                "居住",
+                "邸宅",
+                "家宅",
+                "住",
+                "家作",
+                "住居",
+                "家屋",
+                "住宅",
+                "室",
+                "住家",
+                "住い",
+                "家居",
+                "家",
+                "住まい",
+                "住みか"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "居",
+                "居所",
+                "館",
+                "家宅",
+                "宿",
+                "戸",
+                "人屋",
+                "住居",
+                "家屋",
+                "人家",
+                "住宅",
+                "住家",
+                "家",
+                "令堂",
+                "住みか"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "巣窟",
+                "巣",
+                "住みか"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "住み処"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92174f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "restaurant specializing in meat"
+        }
+      ],
+      "mobileId": 273838,
+      "phonetic": "にくどころ",
+      "word": "肉処"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e7bf5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "six sense organs (eyes, ears, nose, tongue, body, and mind)"
+        }
+      ],
+      "mobileId": 280168,
+      "phonetic": "ろくしょ",
+      "word": "六処"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a968469b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "website, URL"
+        }
+      ],
+      "mobileId": 259638,
+      "phonetic": "もうしょ",
+      "word": "網処"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

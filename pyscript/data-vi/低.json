@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7a485c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(sự giữ gìn bảo quản một) mặt cắt thấp"
+        }
+      ],
+      "mobileId": 114924,
+      "opposite_word": [
+        "高姿勢"
+      ],
+      "phonetic": "ていしせい",
+      "word": "低姿勢"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7b73a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền ưu tiên thấp"
+        }
+      ],
+      "mobileId": 114957,
+      "phonetic": "ていじゅんい",
+      "related_words": {
+        "word": [
+          "位",
+          "順位",
+          "順"
+        ]
+      },
+      "word": "低順位"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7c24f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự giảm nhiệt, sự giảm thế nhiệt"
+        }
+      ],
+      "mobileId": 114979,
+      "phonetic": "ていたいおん",
+      "related_words": {
+        "word": [
+          "体",
+          "体温"
+        ]
+      },
+      "word": "低体温"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833ba00dcc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "low delay"
+        }
+      ],
+      "mobileId": 244945,
+      "phonetic": "ていちえん",
+      "word": "低遅延"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7da29e48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giọng thấp ."
+        }
+      ],
+      "mobileId": 144192,
+      "opposite_word": [
+        "高声"
+      ],
+      "phonetic": "ていせい",
+      "related_words": {
+        "word": [
+          "声"
+        ]
+      },
+      "word": "低声"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7da2ae48",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "低密度集団",
+              "mean": "dân số tập trung ở mật độ thấp .",
+              "transcription": "ていみつどしゅうだん"
+            }
+          ],
+          "kind": "n",
+          "mean": "Mật độ thấp"
+        }
+      ],
+      "mobileId": 144193,
+      "phonetic": "ていみつ",
+      "word": "低密"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7da41b44",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "労働者たちは低賃金に関する苦情を上司に提出した",
+              "mean": "người lao động đệ trình với cấp trên về tình trạng khó khăn liên quan đến tiền lương thấp",
+              "transcription": "ろうどうしゃたちはていちんぎんにかんするくじょうをじょうしにていしゅつした"
+            },
+            {
+              "content": "低賃金では、まともな労働者は雇えない。",
+              "mean": "người lao động nghiêm túc không thể làm thuê với tiền lương thấp .",
+              "transcription": "ていちんぎんでは、まともなろうどうしゃはやとえない。"
+            }
+          ],
+          "kind": "n",
+          "mean": "tiền lương thấp"
+        }
+      ],
+      "mobileId": 144217,
+      "phonetic": "ていちんぎん",
+      "related_words": {
+        "word": [
+          "金",
+          "賃金"
+        ]
+      },
+      "word": "低賃金"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7da4b84a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "低頻度発生",
+              "mean": "phát sinh tần số thấp .",
+              "transcription": "ていひんどはっせい"
+            }
+          ],
+          "kind": "n",
+          "mean": "Tần số thấp"
+        }
+      ],
+      "mobileId": 144229,
+      "phonetic": "ていひんど",
+      "related_words": {
+        "word": [
+          "度",
+          "頻度"
+        ]
+      },
+      "word": "低頻度"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0097a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, pref",
+          "mean": "very low (deep, cold, etc.), ultra-, infra-, hyper-"
+        }
+      ],
+      "mobileId": 215136,
+      "phonetic": "ちょうてい",
+      "word": "超低"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d736eb5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "low-calorie"
+        }
+      ],
+      "mobileId": 218807,
+      "phonetic": "ていカロリー",
+      "word": "低カロリー"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

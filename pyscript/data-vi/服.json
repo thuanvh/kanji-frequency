@@ -1,0 +1,239 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f3601dd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あつらえの服",
+              "mean": "Trang phục làm theo yêu cầu.",
+              "transcription": "あつらえのふく"
+            },
+            {
+              "content": "（裸の）王様の新しい服",
+              "mean": "Bộ trang phục mới của hoàng đế",
+              "transcription": "（はだかの）おうさまのあたらしいふく"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "quần áo; bộ"
+        }
+      ],
+      "mobileId": 185815,
+      "phonetic": "ふく",
+      "related_words": {
+        "word": [
+          "制服",
+          "洋服",
+          "衣服",
+          "服装",
+          "セーラー服",
+          "作業服",
+          "征服",
+          "子供服",
+          "紳士服",
+          "克服"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "服",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "着物",
+                "衣類",
+                "衣裳",
+                "洋服",
+                "衣",
+                "被服",
+                "衣料",
+                "衣装",
+                "衣服"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "着物",
+                "衣類",
+                "衣裳",
+                "お召し物",
+                "洋服",
+                "コスチューム",
+                "衣",
+                "着衣",
+                "被服",
+                "衣料",
+                "衣装",
+                "衣服",
+                "お召し",
+                "衣紋",
+                "装束",
+                "ドレス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "服"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280273d4365",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quần áo đẹp ."
+        }
+      ],
+      "mobileId": 30120,
+      "phonetic": "びふく",
+      "word": "美服"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca012ff1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "work clothes"
+        }
+      ],
+      "mobileId": 281564,
+      "phonetic": "ろうどうふく",
+      "word": "労働服"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107698e21",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quần áo trẻ con"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quần áo trẻ em; trang phục trẻ em ."
+        }
+      ],
+      "mobileId": 53651,
+      "phonetic": "こどもふく",
+      "related_words": {
+        "word": [
+          "子",
+          "子供",
+          "服",
+          "供"
+        ]
+      },
+      "word": "子供服"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10770cbb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quần áo học sinh"
+        }
+      ],
+      "mobileId": 53772,
+      "phonetic": "がくせいふく",
+      "related_words": {
+        "word": [
+          "生",
+          "学生",
+          "服"
+        ]
+      },
+      "word": "学生服"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d55bda7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quần áo văn phòng ."
+        }
+      ],
+      "mobileId": 142903,
+      "phonetic": "じむふく",
+      "related_words": {
+        "word": [
+          "服",
+          "事",
+          "事務"
+        ]
+      },
+      "word": "事務服"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dac6468",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quần áo làm việc ."
+        }
+      ],
+      "mobileId": 144386,
+      "phonetic": "さぎょうふく",
+      "related_words": {
+        "word": [
+          "作業",
+          "服",
+          "作",
+          "業"
+        ]
+      },
+      "word": "作業服"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3fdf15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "type of long jacket worn by bousouzoku biker gang members, etc."
+        }
+      ],
+      "mobileId": 217141,
+      "phonetic": "とっこうふく",
+      "word": "特攻服"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7789d8e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hanbok (traditional Korean dress)"
+        }
+      ],
+      "mobileId": 268928,
+      "phonetic": "かんふく かんぷく ハンボッ",
+      "word": "韓服"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7754c1dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "protective clothing"
+        }
+      ],
+      "mobileId": 267185,
+      "phonetic": "ぼうごふく",
+      "word": "防護服"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

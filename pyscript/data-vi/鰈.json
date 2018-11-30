@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680144d4d7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "今日のお勧めの料理は鰈の刺身だ",
+              "mean": "Món ăn đặc biệt ngày hôm nay là món gỏi cá bơn.",
+              "transcription": "きょうのおすすめのりょうりはかれいのさしみだ"
+            },
+            {
+              "content": "ますと鰈を区別する",
+              "mean": "Phân biệt cá bơn với cá hồi",
+              "transcription": "ますとかれいをくべつする"
+            }
+          ],
+          "kind": "n",
+          "mean": "cá bơn"
+        }
+      ],
+      "mobileId": 42927,
+      "phonetic": "かれい",
+      "synsets": [
+        {
+          "base_form": "鰈",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "平目",
+                "鮃"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鰈"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0078c38",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "starry flounder (Platichthys stellatus)"
+        }
+      ],
+      "mobileId": 281200,
+      "phonetic": "ぬまがれい ヌマガレイ",
+      "word": "沼鰈"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e67f976",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "marbled sole (Pleuronectes yokohamae)"
+        }
+      ],
+      "mobileId": 251392,
+      "phonetic": "まこがれい マコガレイ",
+      "word": "真子鰈"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1760bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flathead flounder (Hippoglossoides dubius)"
+        }
+      ],
+      "mobileId": 224146,
+      "phonetic": "あかがれい アカガレイ",
+      "word": "赤鰈"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e67fb01",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stone flounder (Kareius bicoloratus)"
+        }
+      ],
+      "mobileId": 251393,
+      "phonetic": "いしがれい イシガレイ",
+      "word": "石鰈"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e681f00",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Alaska plaice (Pleuronectes quadrituberculatus)"
+        }
+      ],
+      "mobileId": 251399,
+      "phonetic": "つのがれい ツノガレイ",
+      "word": "角鰈"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e680c98",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slime flounder (Microstomus achne)"
+        }
+      ],
+      "mobileId": 251396,
+      "phonetic": "ばばがれい ババガレイ",
+      "word": "婆婆鰈"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed83a62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái gõ nhẹ chất nhờn"
+        }
+      ],
+      "mobileId": 117929,
+      "phonetic": "なめらたかれい",
+      "word": "滑多鰈"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

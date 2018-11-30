@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd059d4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bôi nhọ những lông mày; bút chì kẻ lông mày"
+        }
+      ],
+      "mobileId": 68965,
+      "phonetic": "まゆずみ",
+      "synsets": [
+        {
+          "base_form": "黛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "眉",
+                "眉宇",
+                "アイブロー",
+                "眉毛"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "黛"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f2043b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu xanh đen"
+        }
+      ],
+      "mobileId": 63846,
+      "phonetic": "まゆずみあお",
+      "related_words": {
+        "word": [
+          "青",
+          "黛"
+        ]
+      },
+      "word": "黛青"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

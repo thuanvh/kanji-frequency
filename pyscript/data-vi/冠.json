@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada1b4cb4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "王妃の冠すり",
+              "mean": "vương miện của hoàng hậu",
+              "transcription": "おうひのかんすり"
+            },
+            {
+              "content": "金属冠",
+              "mean": "vương miện kim loạiQUAN",
+              "transcription": "きんぞくかんむり"
+            }
+          ],
+          "kind": "n",
+          "mean": "mũ miện; vương miện"
+        },
+        {
+          "examples": [
+            {
+              "content": "世界に冠たる",
+              "mean": "số một (hàng đầu) trên thế giới",
+              "transcription": "せかいにかんたる"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự độc nhất vô nhị; số một; sự không ai sánh bằng; đột nhất vô nhị; không ai sánh bằng; hàng đầu"
+        }
+      ],
+      "mobileId": 77345,
+      "phonetic": "かんむり",
+      "related_words": {
+        "word": [
+          "不定冠詞",
+          "王冠",
+          "定冠詞",
+          "冠詞",
+          "冠婚葬祭",
+          "花冠",
+          "栄冠",
+          "月桂冠",
+          "冠動脈",
+          "戴冠式"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "冠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "天頂",
+                "峰",
+                "山頂",
+                "頂点",
+                "頂上",
+                "頂",
+                "天辺",
+                "絶頂"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "頂上",
+                "頂",
+                "天辺"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "冠"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a51c083",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"corpse\" radical"
+        }
+      ],
+      "mobileId": 226039,
+      "phonetic": "しかばねかんむり",
+      "word": "尸冠"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a626cf2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"tiger\" radical"
+        }
+      ],
+      "mobileId": 226530,
+      "phonetic": "とらかんむり",
+      "word": "虎冠"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6134f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mũ, khăn trùm đầu của phụ nữ cổ xưa thể hiện địa vị xã hội của người đội"
+        }
+      ],
+      "mobileId": 12895,
+      "phonetic": "くらいかんむり",
+      "word": "位冠"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b6f6a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chưng diện sự cạnh tranh được tài trợ bởi một xí nghiệp doanh nghiệp"
+        }
+      ],
+      "mobileId": 23717,
+      "phonetic": "かんむりたいかい",
+      "word": "冠大会"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b77973",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "nùi bông nhẹ chứa đựng những hạt cây kế được gió thổi từ cây kế bay đi"
+        }
+      ],
+      "mobileId": 23729,
+      "phonetic": "かんむりけ",
+      "word": "冠毛"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef907e5f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crown or head-ornament worn with formal or ceremonial clothes by nobility (ritsuryo system)"
+        }
+      ],
+      "mobileId": 273018,
+      "phonetic": "らいかん れいかん",
+      "word": "礼冠"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9ff8d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mũ tế, nón ống khói lò sưởi, mộng vuông góc"
+        }
+      ],
+      "mobileId": 150798,
+      "phonetic": "しゅきょうかんむり",
+      "related_words": {
+        "word": [
+          "主",
+          "冠",
+          "主教"
+        ]
+      },
+      "word": "主教冠"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ad5627",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "bị tuyết phủ"
+        }
+      ],
+      "mobileId": 23410,
+      "phonetic": "かん せつ",
+      "word": "冠雪"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b70dc5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "suy tôn bồ câu"
+        }
+      ],
+      "mobileId": 23719,
+      "phonetic": "かんむりはと",
+      "word": "冠鳩"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

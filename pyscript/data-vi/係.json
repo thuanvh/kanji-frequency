@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7db63fd7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "弟はホテルのフロント係りをしている。",
+              "mean": "Em trai tôi chịu trách nhiệm phần lễ tân của khách sạn.",
+              "transcription": "おとうとはホテルのフロントかかりをしている。"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự chịu trách nhiệm"
+        }
+      ],
+      "mobileId": 144538,
+      "phonetic": "かかり",
+      "related_words": {
+        "word": [
+          "関係",
+          "係数",
+          "係長",
+          "関係者",
+          "関係会社",
+          "因果関係",
+          "三角関係",
+          "人間関係",
+          "関係者以外立ち入り禁止",
+          "無関係"
+        ]
+      },
+      "word": "係"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a005694",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "room clerk (hotel), steward (ship)"
+        }
+      ],
+      "mobileId": 223408,
+      "phonetic": "きゃくしつがかり",
+      "word": "客室係"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954c5c0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thủ quỹ, cách chức, thải ra"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người thủ quỹ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người kể chuyện, người hay kể chuyện; người tự thuật, người kiểm phiếu, người thủ quỹ"
+        }
+      ],
+      "mobileId": 58530,
+      "phonetic": "すいとうがかり",
+      "related_words": {
+        "word": [
+          "係",
+          "出納"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "出納係",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "主計",
+                "元締め",
+                "会計士",
+                "勘定係",
+                "会計係",
+                "会計",
+                "会計官"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "収入役",
+                "勘定係",
+                "会計係",
+                "会計官"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "出納係"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdadbd1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bàn hạn chế ((của) một đường bay)"
+        }
+      ],
+      "mobileId": 74363,
+      "phonetic": "よやくがかり",
+      "word": "予約係"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de3361c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scorer"
+        }
+      ],
+      "mobileId": 222468,
+      "phonetic": "てんすうがかり",
+      "word": "点数係"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf68633",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người tiếp khách (ở phòng khám bệnh, hiệu ảnh...)"
+        }
+      ],
+      "mobileId": 17582,
+      "phonetic": "おうせつがかり",
+      "word": "応接係"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027df27a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kế toán ."
+        }
+      ],
+      "mobileId": 32911,
+      "phonetic": "けいさんがかり",
+      "word": "計算係"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adaa36537",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Người thu ngân (trong ngân hàng) ."
+        }
+      ],
+      "mobileId": 79613,
+      "phonetic": "こうざかかり",
+      "word": "口座係"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f5723b0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "校正係の助手をする",
+              "mean": "trợ giúp người hiệu đính .",
+              "transcription": "こうせいがかりのじょしゅをする"
+            }
+          ],
+          "kind": "n",
+          "mean": "người đọc và sửa bản in; người hiệu đính"
+        }
+      ],
+      "mobileId": 186440,
+      "phonetic": "こうせいがかり",
+      "word": "校正係"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a9b059",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thủ quỹ, cách chức, thải ra"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhân viên kế toán, người giữ sổ sách kế toán, người có trách nhiệm báo cáo về sổ sách kế toán; người bị can về một vụ tiền nong kế toán"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người thủ quỹ"
+        }
+      ],
+      "mobileId": 23300,
+      "phonetic": "かんじょうがかり",
+      "related_words": {
+        "word": [
+          "勘定",
+          "係",
+          "勘"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勘定係",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "出納係",
+                "主計",
+                "元締め",
+                "会計士",
+                "会計係",
+                "会計",
+                "会計官"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "出納係",
+                "収入役",
+                "会計係",
+                "会計官"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "勘定係"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

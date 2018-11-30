@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027437795",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "翼を伸ばす",
+              "mean": "Sải đôi cánh",
+              "transcription": "つばさをのばす"
+            },
+            {
+              "content": "そのワシは翼を広げると約 2 メートルある.",
+              "mean": "Con đại bàng khi sải cánh ra, cánh của nó phải dài đến 2 mét",
+              "transcription": "そのワシはつばさをひろげるとやく2めーとるある."
+            }
+          ],
+          "kind": "n",
+          "mean": "cánh"
+        },
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "lá"
+        }
+      ],
+      "mobileId": 30226,
+      "phonetic": "つばさ",
+      "related_words": {
+        "word": [
+          "右翼",
+          "羽翼",
+          "左翼",
+          "比翼の鳥",
+          "尾翼",
+          "鵬翼",
+          "一翼"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "翼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウィング",
+                "ウイング"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウイング",
+                "羽",
+                "羽根"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウィング",
+                "ウイング",
+                "羽",
+                "羽根"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "側面"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "翼"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0432e0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wingspan"
+        }
+      ],
+      "mobileId": 283118,
+      "phonetic": "よくふく よくはば",
+      "word": "翼幅"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9fac55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vùng cánh"
+        }
+      ],
+      "mobileId": 73892,
+      "phonetic": "つばさめんせき",
+      "word": "翼面積"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef938a30f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "petiole wing (leaf)"
+        }
+      ],
+      "mobileId": 274578,
+      "phonetic": "よくよう",
+      "word": "翼葉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aae4945",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "transept"
+        }
+      ],
+      "mobileId": 228966,
+      "phonetic": "よくろう",
+      "word": "翼廊"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7da311",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "speculum (bright patch on the wings of ducks)"
+        }
+      ],
+      "mobileId": 227407,
+      "phonetic": "よくきょう",
+      "word": "翼鏡"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be34d9e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khía đường rãnh cánh"
+        }
+      ],
+      "mobileId": 90972,
+      "phonetic": "スロットつばさ",
+      "word": "スロット翼"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d26d4a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cánh quạt để cất cánh hay hạ cánh (máy bay); cánh con (của máy bay)"
+        }
+      ],
+      "mobileId": 146960,
+      "phonetic": "さげつばさ",
+      "related_words": {
+        "word": [
+          "下",
+          "翼",
+          "下げ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "下げ翼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "舵",
+                "フラップ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "下げ翼"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0077a02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "loach goby (Rhyacichthys aspro)"
+        }
+      ],
+      "mobileId": 281197,
+      "phonetic": "つばさはぜ ツバサハゼ",
+      "word": "翼沙魚"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d4b0b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cánh phụ máy bay"
+        }
+      ],
+      "mobileId": 6794,
+      "phonetic": "ほじょつばさ",
+      "word": "補助翼"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

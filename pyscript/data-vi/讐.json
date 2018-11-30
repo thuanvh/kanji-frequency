@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193240e94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tình yêu và thù hận"
+        }
+      ],
+      "mobileId": 19071,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "恩"
+        ]
+      },
+      "word": "恩讐"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92f8bfe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "not wanting to live in the same world as one's father's or lord's enemies, being prepared to sacrifice one's life to avenge one's father or lord"
+        }
+      ],
+      "mobileId": 274288,
+      "phonetic": "くんぷのあだはともにてんをいただかず",
+      "word": "君父の讐は倶に天を戴かず"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

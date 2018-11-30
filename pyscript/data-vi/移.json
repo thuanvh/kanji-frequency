@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7f05c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "việc dính chặt hoặc embedding (của) mảnh vỡ mặc bên trong chống đối bề mặt"
+        }
+      ],
+      "mobileId": 13820,
+      "phonetic": "うつりぎ",
+      "word": "移着"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e49bfc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "transhumance, moving stock between pastures according to season"
+        }
+      ],
+      "mobileId": 271881,
+      "phonetic": "いぼく",
+      "word": "移牧"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0086260",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "changing (person in charge, etc.), shifting"
+        }
+      ],
+      "mobileId": 281230,
+      "phonetic": "いたい",
+      "word": "移替"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9675200",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "forced relocation of a daimyo to a different domain by the Edo shogunate"
+        }
+      ],
+      "mobileId": 259610,
+      "phonetic": "いほう",
+      "word": "移封"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a999fde7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "sao chép vào một tài liệu đặc biệt"
+        }
+      ],
+      "mobileId": 261210,
+      "phonetic": "いき",
+      "word": "移記"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d78fe42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red shift"
+        }
+      ],
+      "mobileId": 218987,
+      "phonetic": "せきほうへんい",
+      "word": "赤方偏移"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9baef3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dịch chuyển tần số"
+        }
+      ],
+      "mobileId": 150666,
+      "phonetic": "しゅうはすうへんうつ",
+      "word": "周波数偏移"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9be0f2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phase-shift keying, PSK"
+        }
+      ],
+      "mobileId": 262353,
+      "phonetic": "いそうへんいへんちょう",
+      "word": "位相偏移変調"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9be0e02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "differential phase-shift keying, DPSK"
+        }
+      ],
+      "mobileId": 262352,
+      "phonetic": "さどういそうへんいへんちょう",
+      "word": "差動位相偏移変調"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,339 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d8c9217",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "私は治と仲がいい。",
+              "mean": "Tôi có quan hệ tốt với Osamu. .",
+              "transcription": "わたしはちとなかがいい。"
+            }
+          ],
+          "kind": "n",
+          "mean": "quan hệ"
+        }
+      ],
+      "mobileId": 143865,
+      "phonetic": "なか",
+      "related_words": {
+        "word": [
+          "仲間",
+          "仲良し",
+          "仲介",
+          "仲良く",
+          "仲直り",
+          "仲がいい",
+          "仲人",
+          "仲介者",
+          "仲居",
+          "仲裁"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "仲",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "関わり",
+                "係り合い",
+                "人間関係",
+                "縁",
+                "縁故",
+                "コネクション",
+                "間",
+                "係り",
+                "コネ",
+                "頼り",
+                "結び付き",
+                "関係",
+                "繋がり",
+                "係わり",
+                "間柄"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "間柄"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "仲"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0497ca7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "love for one another"
+        }
+      ],
+      "mobileId": 209206,
+      "phonetic": "いいなか",
+      "word": "いい仲"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e4d2d14",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(rađiô) đặt lại; sự móc vào với nhau"
+        }
+      ],
+      "mobileId": 113497,
+      "phonetic": "なかつぎ",
+      "related_words": {
+        "word": [
+          "仲"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "仲継",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "中継ぎ",
+                "中継",
+                "逓伝",
+                "中次",
+                "リレー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "仲継"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d8cf206",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giá trung bình ."
+        }
+      ],
+      "mobileId": 143876,
+      "phonetic": "なかね",
+      "related_words": {
+        "word": [
+          "値",
+          "仲"
+        ]
+      },
+      "word": "仲値"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04d8d99",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thick (with), bound by love"
+        }
+      ],
+      "mobileId": 209340,
+      "phonetic": "こいなか",
+      "word": "濃い仲"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e51fa33",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự gãy; sự gián đoạn; sự treo"
+        }
+      ],
+      "mobileId": 113651,
+      "phonetic": "なかだん",
+      "related_words": {
+        "word": [
+          "仲"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "仲断",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "中断",
+                "中絶",
+                "途絶",
+                "中止"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "中断",
+                "中絶",
+                "途絶",
+                "杜絶"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "切れ目",
+                "中断",
+                "一切り",
+                "句切り",
+                "切目",
+                "中絶",
+                "間",
+                "区切り",
+                "休止"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "休",
+                "ポーズ",
+                "中断",
+                "切れ間",
+                "中休み",
+                "停会",
+                "中絶",
+                "間",
+                "途絶",
+                "一休み",
+                "幕あい",
+                "中入り",
+                "一息",
+                "中止",
+                "幕間",
+                "休止",
+                "停止",
+                "タイム",
+                "休み",
+                "晴れ間"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "仲断"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d8d4249",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hài hoà; thân thiết ."
+        }
+      ],
+      "mobileId": 143883,
+      "phonetic": "なかむつまじい",
+      "related_words": {
+        "word": [
+          "仲"
+        ]
+      },
+      "word": "仲睦まじい"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08558c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adj-i",
+          "mean": "close, intimate, on good terms"
+        }
+      ],
+      "mobileId": 285202,
+      "phonetic": "なかいい",
+      "word": "仲いい"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e4b9d95",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhân; lõi; hạt nhân"
+        }
+      ],
+      "mobileId": 113448,
+      "phonetic": "なかかく",
+      "related_words": {
+        "word": [
+          "核",
+          "仲"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "仲核",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "コア",
+                "軸",
+                "中枢",
+                "核",
+                "中軸",
+                "心臓部",
+                "中核"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コア",
+                "核心",
+                "心",
+                "中心",
+                "核",
+                "真ん中",
+                "芯",
+                "真中"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "仲核"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c775cfa61",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chartering broker (arranges customs clearance and shipping details for trade goods), freight forwarding agent"
+        }
+      ],
+      "mobileId": 267457,
+      "phonetic": "おつなか",
+      "related_words": {
+        "word": [
+          "乙",
+          "仲"
+        ]
+      },
+      "word": "乙仲"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

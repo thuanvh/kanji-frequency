@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f7450f341",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "悦に入って笑う",
+              "mean": "cười mãn nguyện",
+              "transcription": "えつにいってわらう"
+            },
+            {
+              "content": "ひとり悦に入ってニタニタ笑う",
+              "mean": "tự mỉm cười một cách mãn nguyện",
+              "transcription": "ひとりえつにいってニタニタわらう"
+            },
+            {
+              "content": "上司は部下におだてられて悦に入った",
+              "mean": "sếp cười sung sướng khi cấp dưới nịnh khéo .",
+              "transcription": "じょうしはぶかにおだてられてえつにいった"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự tự mãn; mãn nguyện; sung sướng"
+        }
+      ],
+      "mobileId": 98633,
+      "phonetic": "えつ",
+      "word": "悦"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193eaccb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "niềm vui; sự sung sướng"
+        }
+      ],
+      "mobileId": 25353,
+      "phonetic": "",
+      "word": "欣悦"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c8c4cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "rejoicing"
+        }
+      ],
+      "mobileId": 262709,
+      "phonetic": "いえつ",
+      "word": "怡悦"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

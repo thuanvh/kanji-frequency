@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69abe15cd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "チェスや碁は、かなり知的なゲームだ",
+              "mean": "Cờ vua và cờ gô là những trò chơi đòi hỏi trí thông minh",
+              "transcription": "チェスやごは、かなりちてきなゲームだ"
+            },
+            {
+              "content": "ネット碁を打つ",
+              "mean": "Chơi cờ gô trên Internet",
+              "transcription": "ネットごをうつ"
+            },
+            {
+              "content": "退屈しのぎに碁をやる",
+              "mean": "Chơi cờ gô để giết thời gian",
+              "transcription": "たいくつしのぎにごをやる"
+            },
+            {
+              "content": "碁を一局やる",
+              "mean": "Chơi một ván cờ gô",
+              "transcription": "ごをいちきょくやる"
+            }
+          ],
+          "kind": "n",
+          "mean": "cờ gô"
+        }
+      ],
+      "mobileId": 173435,
+      "phonetic": "ご",
+      "related_words": {
+        "word": [
+          "囲碁",
+          "碁盤"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "碁",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "囲碁"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "碁"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69abe208c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phòng chơi cờ gô; cuộc thi chơi cờ gô"
+        }
+      ],
+      "mobileId": 173436,
+      "phonetic": "ごかいしょ",
+      "related_words": {
+        "word": [
+          "会",
+          "所",
+          "碁",
+          "会所"
+        ]
+      },
+      "word": "碁会所"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d064ade",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đi là câu lạc bộ"
+        }
+      ],
+      "mobileId": 145950,
+      "phonetic": "ごせき",
+      "word": "碁席"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69abe20b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phòng chơi cờ gô; cuộc thi chơi cờ gô ."
+        }
+      ],
+      "mobileId": 173437,
+      "phonetic": "ごかいじょ",
+      "related_words": {
+        "word": [
+          "会",
+          "所",
+          "碁",
+          "会所"
+        ]
+      },
+      "word": "碁会所"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19354f1cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chơi cờ vây vì đánh cược [cá độ đánh cờ vây]"
+        }
+      ],
+      "mobileId": 20612,
+      "phonetic": "かけご",
+      "word": "賭け碁"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c041a37f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "composed go problem"
+        }
+      ],
+      "mobileId": 208951,
+      "phonetic": "つめご",
+      "word": "詰碁"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e74661f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "biên soạn đi là vấn đề"
+        }
+      ],
+      "mobileId": 114740,
+      "phonetic": "つめご",
+      "word": "詰め碁"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95808c0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cờ đam"
+        }
+      ],
+      "mobileId": 60180,
+      "phonetic": "せいようご",
+      "word": "西洋碁"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef915b290",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Go played by two equally skilled players"
+        }
+      ],
+      "mobileId": 273465,
+      "phonetic": "あいご",
+      "word": "相碁"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0daeb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "game of go played with a handicap"
+        }
+      ],
+      "mobileId": 215535,
+      "phonetic": "おきご",
+      "word": "置き碁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

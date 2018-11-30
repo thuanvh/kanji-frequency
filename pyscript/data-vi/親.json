@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027ce119f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "親を大切にする",
+              "mean": "Coi trọng bố mẹ",
+              "transcription": "おやをたいせつにする"
+            },
+            {
+              "content": "子どもの人生をめちゃくちゃにするばかな親",
+              "mean": "Bố mẹ ngốc nghếch phá hại cuộc đời của con mình .",
+              "transcription": "こどものじんせいをめちゃくちゃにするばかなおや"
+            }
+          ],
+          "kind": "n",
+          "mean": "cha mẹ; bố mẹ; song thân"
+        }
+      ],
+      "mobileId": 32705,
+      "opposite_word": [
+        "子"
+      ],
+      "phonetic": "おや",
+      "related_words": {
+        "word": [
+          "親友",
+          "近親相姦",
+          "親切",
+          "両親",
+          "親切な",
+          "親子",
+          "母親",
+          "親戚",
+          "懇親会",
+          "親指"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "親",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "眷族",
+                "縁故",
+                "親類",
+                "身寄り",
+                "血族",
+                "縁者",
+                "親戚",
+                "親族"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ペアレント"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "親"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931ad65e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công ty mẹ"
+        }
+      ],
+      "mobileId": 18779,
+      "opposite_word": [
+        "子会社"
+      ],
+      "phonetic": "おやがいしゃ",
+      "word": "親会社"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931ad797",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màn ảnh chính"
+        }
+      ],
+      "mobileId": 18781,
+      "phonetic": "しんがめん",
+      "related_words": {
+        "word": [
+          "画面",
+          "親",
+          "面",
+          "画"
+        ]
+      },
+      "word": "親画面"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931b0048",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(máy tính) làm chủ nhà ga"
+        }
+      ],
+      "mobileId": 18785,
+      "phonetic": "おやきょく",
+      "related_words": {
+        "word": [
+          "親",
+          "局"
+        ]
+      },
+      "word": "親局"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde23f78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cha mẹ vô tư xa"
+        }
+      ],
+      "mobileId": 16927,
+      "phonetic": "じひおや",
+      "related_words": {
+        "word": [
+          "親",
+          "似非"
+        ]
+      },
+      "word": "似非親"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed950918ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cha mẹ ruột"
+        }
+      ],
+      "mobileId": 56409,
+      "phonetic": "じつおや",
+      "word": "実親"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0defc797",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viên chức được chỉ định bởi hoàng đế"
+        }
+      ],
+      "mobileId": 153395,
+      "phonetic": "しんにんかん",
+      "word": "親任官"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d16bf4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pro-Arab"
+        }
+      ],
+      "mobileId": 262969,
+      "phonetic": "しんアラブ",
+      "word": "親アラブ"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ecc64d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "parent cat"
+        }
+      ],
+      "mobileId": 263834,
+      "phonetic": "おやねこ",
+      "word": "親猫"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027ce50db",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "răng khôn ."
+        }
+      ],
+      "mobileId": 32711,
+      "phonetic": "おやしらず",
+      "word": "親不知"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

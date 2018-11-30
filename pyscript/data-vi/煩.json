@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6824d0fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự rắc rối"
+        }
+      ],
+      "mobileId": 1178,
+      "phonetic": "はん",
+      "word": "煩"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a1a24d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "bận rộn"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự bận rộn ."
+        }
+      ],
+      "mobileId": 170793,
+      "phonetic": "はんぼう",
+      "word": "煩忙"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcc94ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính dễ chán, sự khó tính, sự khó chiều; tính cảnh vẻ, sự kén cá chọn canh"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bắt bẻ, sự chê trách; sự bới móc"
+        }
+      ],
+      "mobileId": 16256,
+      "phonetic": "はんがた",
+      "word": "煩型"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcca6da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vt",
+          "mean": "cảm thấy bực mình; cảm thấy phiền toái"
+        }
+      ],
+      "mobileId": 16258,
+      "phonetic": "うるさがる",
+      "word": "煩がる"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682f0ca7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "tới đồ phụ tùng sự rắc rối ((của) làm)"
+        }
+      ],
+      "mobileId": 1523,
+      "phonetic": "はんをさける",
+      "word": "煩を避ける"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e96a0d8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "関節拘縮:",
+              "mean": null,
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Sự co cứng"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "こうしゅく",
+      "word": "拘縮"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77466da9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scar contracture, cicatrical contracture"
+        }
+      ],
+      "mobileId": 266728,
+      "phonetic": "はんこんこうしゅく",
+      "word": "瘢痕拘縮"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

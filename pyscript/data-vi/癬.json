@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9450190",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "favus"
+        }
+      ],
+      "mobileId": 258502,
+      "phonetic": "おうせん",
+      "word": "黄癬"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f2dcfa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "địa y, bệnh liken"
+        }
+      ],
+      "mobileId": 63871,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "苔"
+        ]
+      },
+      "word": "苔癬"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776bfebe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ichthyosis"
+        }
+      ],
+      "mobileId": 267943,
+      "phonetic": "ぎょりんせん",
+      "word": "魚鱗癬"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a91fe667",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lichen planus"
+        }
+      ],
+      "mobileId": 257295,
+      "phonetic": "へんぺいたいせん",
+      "word": "扁平苔癬"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91297b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "achorion fungus"
+        }
+      ],
+      "mobileId": 273362,
+      "phonetic": "おうせんきん",
+      "word": "黄癬菌"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

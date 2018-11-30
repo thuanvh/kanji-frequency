@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b5ea46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eyestalk (on a snail)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "narrow place, cramped space"
+        }
+      ],
+      "mobileId": 278535,
+      "phonetic": "かかく",
+      "word": "蝸角"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9efd90e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "little house, my humble home"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "snail shell"
+        }
+      ],
+      "mobileId": 280434,
+      "phonetic": "かろ",
+      "word": "蝸廬"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b60240",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "fighting over nothing, making a mountain out of a molehill"
+        }
+      ],
+      "mobileId": 278538,
+      "phonetic": "かかくのあらそい",
+      "word": "蝸角の争い"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

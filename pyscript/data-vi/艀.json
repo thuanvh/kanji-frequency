@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280277d275d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đò"
+        },
+        {
+          "examples": [
+            {
+              "content": "艀滞船料",
+              "mean": "Phí bồi thường do thời gian lưu xà lan kéo dài .",
+              "transcription": "はしけとどこおふねりょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "Xà lan"
+        }
+      ],
+      "mobileId": 31307,
+      "phonetic": "はしけ",
+      "word": "艀"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770d8857",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "barge"
+        }
+      ],
+      "mobileId": 264892,
+      "phonetic": "はしけぶね ふせん",
+      "word": "艀船"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280277d3193",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giao vào xà lan ."
+        }
+      ],
+      "mobileId": 31308,
+      "phonetic": "はしけわたし",
+      "word": "艀渡し"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280277d3bac",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảng xà lan ."
+        }
+      ],
+      "mobileId": 31309,
+      "phonetic": "はしけこう",
+      "word": "艀港"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

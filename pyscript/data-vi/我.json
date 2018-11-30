@@ -1,0 +1,241 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f747987fb",
+      "means": [
+        {
+          "examples": "",
+          "kind": "pn, adj-no",
+          "mean": "chúng tôi, cái tôi"
+        }
+      ],
+      "mobileId": 99196,
+      "opposite_word": [
+        "彼"
+      ],
+      "phonetic": "われ",
+      "related_words": {
+        "word": [
+          "我慢する",
+          "我慢",
+          "我々",
+          "怪我",
+          "唯我独尊",
+          "我侭",
+          "我田引水",
+          "自我",
+          "我が家",
+          "我流"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "我",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "自己",
+                "本人"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "自我",
+                "エゴ",
+                "主観",
+                "小生",
+                "主我"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "自己",
+                "自我",
+                "エゴ",
+                "主我"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "我"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be064802",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chúng tôi, chúng ta"
+        }
+      ],
+      "mobileId": 89512,
+      "phonetic": "わがわが",
+      "related_words": {
+        "word": [
+          "我"
+        ]
+      },
+      "word": "我我"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be062bcc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ganh đua với nhau"
+        }
+      ],
+      "mobileId": 89507,
+      "phonetic": "わがもわがも",
+      "related_words": {
+        "word": [
+          "我"
+        ]
+      },
+      "word": "我も我も"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdfaeae1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đồ vật của tôi"
+        }
+      ],
+      "mobileId": 76761,
+      "phonetic": "わがぶつ",
+      "related_words": {
+        "word": [
+          "我",
+          "物"
+        ]
+      },
+      "word": "我物"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be05b4ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "cho tôi"
+        }
+      ],
+      "mobileId": 89492,
+      "phonetic": "わがながら",
+      "word": "我ながら"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad6a88b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(vocative) monk (familiar or derogatory)"
+        }
+      ],
+      "mobileId": 230298,
+      "phonetic": "わそう",
+      "word": "我僧"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c629b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính ích kỷ; sự thiên lệch; những tình cảm cá nhân"
+        }
+      ],
+      "mobileId": 24198,
+      "phonetic": "わがじょう",
+      "related_words": {
+        "word": [
+          "我",
+          "情"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "我情",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "我儘",
+                "我侭",
+                "利己",
+                "我がまま",
+                "恣意",
+                "侈",
+                "気まま",
+                "我欲"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "我情"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad6b558",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "you (familiar or derogatory)"
+        }
+      ],
+      "mobileId": 230299,
+      "phonetic": "わぬし",
+      "word": "我主"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdfa9f3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chúng tôi, chúng ta"
+        }
+      ],
+      "mobileId": 76754,
+      "phonetic": "わがかた",
+      "related_words": {
+        "word": [
+          "我",
+          "方"
+        ]
+      },
+      "word": "我方"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7c7306",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "boy (sometimes derog.)"
+        },
+        {
+          "examples": null,
+          "kind": "pn",
+          "mean": "you"
+        }
+      ],
+      "mobileId": 252043,
+      "phonetic": "わろ わろう",
+      "word": "我郎"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

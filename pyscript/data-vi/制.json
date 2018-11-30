@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada3e4b57",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "自由変動相場制〔為替の〕",
+              "mean": "Quy định giá cả thị trường biến động 1 cách tự do",
+              "transcription": "じゆうへんどうそうばせい〔かわせの〕"
+            },
+            {
+              "content": "2002年からの完全学校週5日制",
+              "mean": "Từ năm 2002, trường quy định học 5 buổi 1 tuần",
+              "transcription": "2002ねんからのかんぜんがっこうしゅう5にちせい"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "chế; quy định"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "hệ thống; tổ chức; qui tắc; pháp luật; sự thiết lập"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "sự kiềm chế ."
+        }
+      ],
+      "mobileId": 77979,
+      "phonetic": "せい",
+      "related_words": {
+        "word": [
+          "体制",
+          "制御",
+          "抑制",
+          "制限",
+          "制作",
+          "制服",
+          "制御盤",
+          "規制",
+          "制限事項",
+          "制度"
+        ]
+      },
+      "word": "制"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8147f25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ thống cấp phép"
+        }
+      ],
+      "mobileId": 34154,
+      "phonetic": "きょかせい",
+      "word": "許可制"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6897f3ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ủy nhiệm hệ thống"
+        }
+      ],
+      "mobileId": 4819,
+      "phonetic": "ぶあいせい",
+      "related_words": {
+        "word": [
+          "歩",
+          "制",
+          "歩合"
+        ]
+      },
+      "word": "歩合制"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9569316c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền lực (của) không khí"
+        }
+      ],
+      "mobileId": 59450,
+      "phonetic": "せいそら",
+      "related_words": {
+        "word": [
+          "空",
+          "制"
+        ]
+      },
+      "word": "制空"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd4bdefa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ thống giấy phép"
+        }
+      ],
+      "mobileId": 71190,
+      "phonetic": "めんきょせい",
+      "word": "免許制"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd88470",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ thống quay"
+        }
+      ],
+      "mobileId": 75687,
+      "phonetic": "りんばんせい",
+      "word": "輪番制"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdeaf241",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liên bang sytem"
+        }
+      ],
+      "mobileId": 76253,
+      "phonetic": "れんぽうせい",
+      "word": "連邦制"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada3f1717",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bánh thánh ."
+        }
+      ],
+      "mobileId": 78007,
+      "phonetic": "せいもち",
+      "word": "制餅"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada740cb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bản vị đơn ."
+        }
+      ],
+      "mobileId": 78919,
+      "phonetic": "たんほんいせい",
+      "word": "単本位制"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f742c6da3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chế độ nghĩa vụ (đi lính) ."
+        }
+      ],
+      "mobileId": 98124,
+      "phonetic": "ちょうへいせい",
+      "related_words": {
+        "word": [
+          "兵",
+          "制",
+          "徴兵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "徴兵制",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "徴兵",
+                "召集"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "徴兵制"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

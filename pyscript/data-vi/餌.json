@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568012d06e3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "釣り針に餌をつける",
+              "mean": "móc mồi lên lưỡi câu",
+              "transcription": "つりばりにえさをつける"
+            },
+            {
+              "content": "魚の餌となる小さな魚",
+              "mean": "cá con dùng làm mồi để câu cá",
+              "transcription": "さかなのえさとなるちいさなさかな"
+            },
+            {
+              "content": "（人）を餌で釣る",
+              "mean": "nhử mồi (ai đó)",
+              "transcription": "（ひと）をえさでつる"
+            },
+            {
+              "content": "家禽に餌をやる",
+              "mean": "cho gia cầm ăn",
+              "transcription": "かきんにえさをやる"
+            },
+            {
+              "content": "肥料や家畜の餌として農家の人へ渡される",
+              "mean": "cung cấp cho các nông dân thức ăn gia súc và phân bón",
+              "transcription": "ひりょうやかちくのえさとしてのうかのひとへわたされる"
+            },
+            {
+              "content": "小鳥の餌",
+              "mean": "thức ăn cho chim con",
+              "transcription": "ことりのえさ"
+            },
+            {
+              "content": "牛の餌",
+              "mean": "thức ăn cho bò",
+              "transcription": "うしのえさ"
+            },
+            {
+              "content": "犬の餌",
+              "mean": "thức ăn cho chó .",
+              "transcription": "いぬのえさ"
+            }
+          ],
+          "kind": "n",
+          "mean": "mồi; đồ ăn cho động vật; thức ăn gia súc gia cầm"
+        }
+      ],
+      "mobileId": 42518,
+      "phonetic": "えさ",
+      "related_words": {
+        "word": [
+          "餌食"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "餌",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "好餌"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "飼料"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "誘惑物",
+                "好餌"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "餌"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955d02f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thức ăn rắc cho chim"
+        }
+      ],
+      "mobileId": 59054,
+      "phonetic": "すりえさ",
+      "word": "擂り餌"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fa0463",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "paste bird feed"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "paste fishing bait"
+        }
+      ],
+      "mobileId": 272572,
+      "phonetic": "ねりえ ねりえさ",
+      "word": "練り餌"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c87c7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gizzard, crop"
+        }
+      ],
+      "mobileId": 213306,
+      "phonetic": "えぶくろ",
+      "word": "餌袋"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dcba3c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "feeding grounds"
+        }
+      ],
+      "mobileId": 221713,
+      "phonetic": "えさば",
+      "word": "餌場"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1a4f4e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(animal) feed tray, feed trough, feed box, feed bowl, bait box (e.g. for fishing)"
+        }
+      ],
+      "mobileId": 215948,
+      "phonetic": "えさばこ エサばこ",
+      "word": "餌箱"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e61aa1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(animal's) foraging"
+        }
+      ],
+      "mobileId": 251180,
+      "phonetic": "たんじ",
+      "word": "探餌"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca027d33b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bait (for fishing)"
+        }
+      ],
+      "mobileId": 282214,
+      "phonetic": "つりえ つりえさ",
+      "word": "釣り餌"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08fcdd2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "artificial bait"
+        }
+      ],
+      "mobileId": 211465,
+      "phonetic": "ぎじ",
+      "word": "擬餌"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93ebd3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "foraging, feeding"
+        }
+      ],
+      "mobileId": 274769,
+      "phonetic": "さくじ",
+      "word": "索餌"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

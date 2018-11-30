@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fcb839a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼は社長派だった.",
+              "mean": "Anh ta là một trong số những người thuộc phe của giám đốc.",
+              "transcription": "かれはしゃちょうはだった."
+            },
+            {
+              "content": "カタルーニャ分離独立派",
+              "mean": "Phái li khai độc lập Catalunya",
+              "transcription": "カタルーニャぶんりどくりつは"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "nhóm; bè phái; bè cánh"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "phe cánh ."
+        }
+      ],
+      "mobileId": 188287,
+      "phonetic": "は",
+      "related_words": {
+        "word": [
+          "派遣",
+          "派手",
+          "立派",
+          "派生",
+          "派遣する",
+          "派手な",
+          "軟派",
+          "宗派",
+          "流派",
+          "派閥"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "派",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一流",
+                "流派",
+                "学派",
+                "会派",
+                "門戸",
+                "一派"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一党",
+                "閥",
+                "派閥",
+                "連中",
+                "門閥",
+                "一群れ",
+                "閥族",
+                "徒党",
+                "党",
+                "会派",
+                "同人",
+                "党派",
+                "暴力団",
+                "徒",
+                "朋党"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "派"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682a157e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đảng phái đối lập"
+        }
+      ],
+      "mobileId": 1358,
+      "opposite_word": [
+        "賛成派"
+      ],
+      "phonetic": "はんたいは",
+      "related_words": {
+        "word": [
+          "対",
+          "反対",
+          "反",
+          "派"
+        ]
+      },
+      "word": "反対派"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abb91d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Seizan sect (of Pure Land Buddhism)"
+        }
+      ],
+      "mobileId": 229406,
+      "phonetic": "せいざんは",
+      "word": "西山派"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9234db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "branch of languages (i.e. Italic languages as a subset of Indo-European languages)"
+        }
+      ],
+      "mobileId": 228071,
+      "phonetic": "ごは",
+      "word": "語派"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a19ad9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thế hệ thanh niên trong Thế chiến thứ hai"
+        }
+      ],
+      "mobileId": 61254,
+      "phonetic": "せんちゅうは",
+      "word": "戦中派"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd25b8e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuyết vị lai"
+        }
+      ],
+      "mobileId": 70008,
+      "phonetic": "みらいは",
+      "related_words": {
+        "word": [
+          "未来",
+          "来",
+          "未",
+          "派"
+        ]
+      },
+      "word": "未来派"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5259df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giữa - (của) - - những con đường; neutrals"
+        }
+      ],
+      "mobileId": 113663,
+      "phonetic": "ちゅうどうは",
+      "related_words": {
+        "word": [
+          "中",
+          "道",
+          "派",
+          "中道"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "中道派",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "中間派"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "中道派"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc146e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trường phái tượng trưng"
+        }
+      ],
+      "mobileId": 151878,
+      "phonetic": "しょうちょうは",
+      "word": "象徴派"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de4e408",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tanigaki Faction (of the LDP)"
+        }
+      ],
+      "mobileId": 222524,
+      "phonetic": "たにがきは",
+      "word": "谷垣派"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de504e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Komura Faction (of the LDP)"
+        }
+      ],
+      "mobileId": 222532,
+      "phonetic": "こうむらは",
+      "word": "高村派"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

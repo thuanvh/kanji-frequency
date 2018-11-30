@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd43667f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sườn; xương sườn"
+        }
+      ],
+      "mobileId": 11948,
+      "phonetic": "あばら",
+      "synsets": [
+        {
+          "base_form": "肋",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "肋骨"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "肋"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef920128b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "costal cartilage"
+        }
+      ],
+      "mobileId": 273800,
+      "phonetic": "ろくなんこつ",
+      "word": "肋軟骨"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9207b1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stirrup (in reinforced concrete construction)"
+        }
+      ],
+      "mobileId": 257312,
+      "phonetic": "ろっきん",
+      "word": "肋筋"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68350931",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "boned (esp. (của) thịt lợn)"
+        }
+      ],
+      "mobileId": 1722,
+      "phonetic": "あばらにく",
+      "word": "肋肉"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0acff8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "costal fovea"
+        }
+      ],
+      "mobileId": 248340,
+      "phonetic": "ろくおう",
+      "word": "肋凹"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae36140",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "midrib, rachis"
+        }
+      ],
+      "mobileId": 230717,
+      "phonetic": "ちゅうろく",
+      "word": "中肋"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92006fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "costochondritis"
+        }
+      ],
+      "mobileId": 273799,
+      "phonetic": "ろくなんこつえん",
+      "word": "肋軟骨炎"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,131 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802702fdb9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "粟粒（性）塞栓症",
+              "mean": "tắc mạch hạt kê",
+              "transcription": "あわつぶ（せい） 塞栓しょう"
+            },
+            {
+              "content": "粟粒大の",
+              "mean": "cỡ hạt kê",
+              "transcription": "あわつぶだいの"
+            },
+            {
+              "content": "粟粒動脈瘤",
+              "mean": "chứng phình mạch hạt kê",
+              "transcription": "あわつぶどうみゃくこぶ"
+            },
+            {
+              "content": "粟おこし",
+              "mean": "bánh hạt kê .",
+              "transcription": "あわおこし"
+            }
+          ],
+          "kind": "n",
+          "mean": "hạt kê"
+        }
+      ],
+      "mobileId": 29119,
+      "phonetic": "あわ",
+      "word": "粟"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d71d2fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "millet dough cake, millet mochi"
+        }
+      ],
+      "mobileId": 218756,
+      "phonetic": "あわもち",
+      "word": "粟餅"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e76d23d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "steamed rice with millet, boiled rice with millet"
+        }
+      ],
+      "mobileId": 251853,
+      "phonetic": "あわめし",
+      "word": "粟飯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9230cef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "millet brittle"
+        }
+      ],
+      "mobileId": 257398,
+      "phonetic": "あわおこし",
+      "word": "粟おこし"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7767cffd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "non-glutinous millet"
+        }
+      ],
+      "mobileId": 267812,
+      "phonetic": "うるあわ",
+      "word": "粳粟"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7764d669",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "glutinous millet (for making mochi and certain types of alcohol)"
+        }
+      ],
+      "mobileId": 267719,
+      "phonetic": "もちあわ",
+      "word": "糯粟"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e8d7baa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "timothy (Phleum pratense), timothy grass"
+        }
+      ],
+      "mobileId": 252591,
+      "phonetic": "おおあわがえり オオアワガエリ",
+      "word": "大粟反"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d571bc9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "easy profit"
+        }
+      ],
+      "mobileId": 217882,
+      "phonetic": "ぬれてにあわ",
+      "word": "濡れ手に粟"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

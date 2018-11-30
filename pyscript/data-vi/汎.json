@@ -1,0 +1,150 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6824ca49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, pref",
+          "mean": "cái chảo -"
+        }
+      ],
+      "mobileId": 1177,
+      "phonetic": "ひろし",
+      "word": "汎"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bb13df0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pan-European"
+        }
+      ],
+      "mobileId": 245502,
+      "phonetic": "はんおうしゅう",
+      "word": "汎欧州"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dbe3ee8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "pandemic, widespread"
+        }
+      ],
+      "mobileId": 221267,
+      "phonetic": "はんぱつ",
+      "word": "汎発"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6825c797",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phiếm hàm (vật lý)"
+        }
+      ],
+      "mobileId": 1209,
+      "phonetic": "ひろしかんすう",
+      "related_words": {
+        "word": [
+          "数",
+          "関数",
+          "関"
+        ]
+      },
+      "word": "汎関数"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7481bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "panlogism"
+        }
+      ],
+      "mobileId": 251783,
+      "phonetic": "はんりろん",
+      "word": "汎理論"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778d312e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "generalization (psychology, linguistics, etc.)"
+        }
+      ],
+      "mobileId": 269039,
+      "phonetic": "はんか",
+      "word": "汎化"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c775cc966",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "general adaptation syndrome"
+        }
+      ],
+      "mobileId": 267451,
+      "phonetic": "はんてきおうしょうこうぐん",
+      "word": "汎適応症候群"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68286bc7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuyết phiếm thần"
+        }
+      ],
+      "mobileId": 1302,
+      "phonetic": "ひろしこころろん",
+      "word": "汎心論"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682f24b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chủ nghĩa liên M"
+        }
+      ],
+      "mobileId": 1525,
+      "phonetic": "ひろしアメリカしゅぎ",
+      "word": "汎アメリカ主義"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682900de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biểu thức nguyên"
+        }
+      ],
+      "mobileId": 1323,
+      "phonetic": "ひろしせいすうしき",
+      "related_words": {
+        "word": [
+          "数",
+          "式",
+          "整数"
+        ]
+      },
+      "word": "汎整数式"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

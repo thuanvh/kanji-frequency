@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa79d084a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giấm ."
+        }
+      ],
+      "mobileId": 109324,
+      "phonetic": "す",
+      "related_words": {
+        "word": [
+          "酢豚",
+          "酢酸",
+          "酢酸ナトリウム",
+          "酢の物",
+          "酢漬け"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "酢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ビネガー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "酢"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08bfc0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rubbing in a vinegar, etc. dressing"
+        }
+      ],
+      "mobileId": 285418,
+      "phonetic": "すもみ",
+      "word": "酢もみ"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95ae318",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vinegar used to wash or season seafood"
+        }
+      ],
+      "mobileId": 275642,
+      "phonetic": "あらいず",
+      "word": "洗い酢"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95b2e4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grain vinegar"
+        }
+      ],
+      "mobileId": 275650,
+      "phonetic": "こくもつす",
+      "word": "穀物酢"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a328014",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mixture of vinegar and some other flavouring (e.g. soy sauce, sugar, etc.)"
+        }
+      ],
+      "mobileId": 225027,
+      "phonetic": "あわせず",
+      "word": "合わせ酢"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9987c99",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "water pepper vinegar, vinegar infused and mixed with water pepper leaves, esp. served with salt-grilled sweetfish"
+        }
+      ],
+      "mobileId": 277605,
+      "phonetic": "たでず",
+      "word": "蓼酢"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95ac077",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red vinegar made from fermented sake lees"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "plum vinegar with perilla leaves added"
+        }
+      ],
+      "mobileId": 275639,
+      "phonetic": "あかず",
+      "word": "赤酢"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95b54c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bitter orange juice, used in cooking as a vinegar"
+        }
+      ],
+      "mobileId": 275655,
+      "phonetic": "だいだいず",
+      "word": "橙酢"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a77cddd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fruit vinegar"
+        }
+      ],
+      "mobileId": 227221,
+      "phonetic": "かじつす",
+      "word": "果実酢"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a849632",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "black vinegar, usu. produced from unpolished rice"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "charred kelp or shiitake mushrooms ground and mixed with vinegar, used to dress raw fish and vegetables"
+        }
+      ],
+      "mobileId": 227633,
+      "phonetic": "くろず",
+      "word": "黒酢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

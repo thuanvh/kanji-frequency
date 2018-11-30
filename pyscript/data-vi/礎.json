@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ac22fe9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "引き続き〜における平和と安定の礎である",
+              "mean": "tiếp tục là nền tảng cho sự hòa bình và ổn định ở ~",
+              "transcription": "ひきつづき〜におけるへいわとあんていのいしずえである"
+            },
+            {
+              "content": "平和の礎になる",
+              "mean": "trở thành nền tảng cho sự hòa bình",
+              "transcription": "へいわのいしずえになる"
+            },
+            {
+              "content": "今後の経済成長の礎を築く",
+              "mean": "tạo nền tảng cho sự phát triển của kinh tế trong tương lai",
+              "transcription": "こんごのけいざいせいちょうのいしずえをきずく"
+            },
+            {
+              "content": "橋の礎石",
+              "mean": "đá rải cầu .",
+              "transcription": "はしのそせき"
+            }
+          ],
+          "kind": "n",
+          "mean": "đá lót nền; nền; nền tảng"
+        }
+      ],
+      "mobileId": 173494,
+      "phonetic": "いしずえ",
+      "related_words": {
+        "word": [
+          "基礎",
+          "基礎知識",
+          "基礎工事",
+          "基礎研究"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "礎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "土台",
+                "礎石",
+                "根",
+                "ベース",
+                "根本",
+                "基底",
+                "基",
+                "基礎",
+                "基部"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "土台",
+                "礎石",
+                "基本",
+                "下地",
+                "基盤",
+                "根本",
+                "基底",
+                "基",
+                "基礎",
+                "基部",
+                "根底",
+                "根拠"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "礎"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f5470a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chân cột ."
+        }
+      ],
+      "mobileId": 186394,
+      "phonetic": "ちゅうそ",
+      "word": "柱礎"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d4d528",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cột (của) trạng thái"
+        }
+      ],
+      "mobileId": 40318,
+      "phonetic": "くにいしずえ",
+      "word": "国礎"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6ca271",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "để đặt nền tảng (cho)"
+        }
+      ],
+      "mobileId": 13256,
+      "phonetic": "いしずえをきずく",
+      "word": "礎を築く"
+    },
+    {
+      "_id": "03097fc4fb705e7bf53b2e7edb052108",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "phương pháp xây dựng cột hình trụ chôn sâu dưới lòng đất"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "しんそこうほう",
+      "word": "深礎工法"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

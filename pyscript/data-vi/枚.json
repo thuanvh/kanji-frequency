@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f4f1f7b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "tấm; tờ"
+        }
+      ],
+      "mobileId": 186299,
+      "phonetic": "まい",
+      "related_words": {
+        "word": [
+          "枚数",
+          "一枚",
+          "二枚舌",
+          "三枚",
+          "二枚目",
+          "二枚貝",
+          "一枚岩",
+          "三枚目"
+        ]
+      },
+      "word": "枚"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee5a28e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hai tấm (tờ, lá, miếng ...)"
+        }
+      ],
+      "mobileId": 118350,
+      "phonetic": "にまい",
+      "related_words": {
+        "word": [
+          "枚",
+          "二"
+        ]
+      },
+      "word": "二枚"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95506a3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vài tấm (tờ,lá) (những đối tượng phẳng)"
+        }
+      ],
+      "mobileId": 58657,
+      "phonetic": "すうまい",
+      "related_words": {
+        "word": [
+          "数",
+          "枚"
+        ]
+      },
+      "word": "数枚"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7dc69e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một vật mỏng dẹt; một tấm (tờ,lá); một trang"
+        }
+      ],
+      "mobileId": 13785,
+      "phonetic": "いちまい",
+      "related_words": {
+        "word": [
+          "一",
+          "枚"
+        ]
+      },
+      "word": "一枚"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d417e2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hài kịch"
+        }
+      ],
+      "mobileId": 147812,
+      "phonetic": "さんまい",
+      "related_words": {
+        "word": [
+          "枚",
+          "三",
+          "三枚目"
+        ]
+      },
+      "word": "三枚"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7da96abf",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この資料は何枚ありますか？",
+              "mean": "Tài liệu này có mấy trang? .",
+              "transcription": "このしりょうはなんまいありますか？"
+            }
+          ],
+          "kind": "n",
+          "mean": "mấy trang; hàng trang"
+        }
+      ],
+      "mobileId": 144334,
+      "phonetic": "なんまい",
+      "related_words": {
+        "word": [
+          "何",
+          "枚"
+        ]
+      },
+      "word": "何枚"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0bbab6",
+      "means": [
+        {
+          "examples": [],
+          "kind": "ctr",
+          "mean": "bộ đếm cho các bộ sưu tập hoặc cụm các đối tượng phẳng (ví dụ: đĩa CD, DVD, v.v.)"
+        }
+      ],
+      "mobileId": 215479,
+      "phonetic": "まいぐみ",
+      "word": "枚組"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7727efb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "1000 sheets (of paper), many pages"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "book tripe, bible tripe, leaf tripe, beef omasum, cow omasum, cow psalterium"
+        }
+      ],
+      "mobileId": 265757,
+      "phonetic": "せんまい センマイ",
+      "word": "千枚"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c1c961",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Ruộng bậc thang"
+        }
+      ],
+      "mobileId": 213091,
+      "phonetic": "せんまいた",
+      "word": "千枚田"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e1a92b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "triptych"
+        }
+      ],
+      "mobileId": 279977,
+      "phonetic": "さんまいえ",
+      "word": "三枚絵"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

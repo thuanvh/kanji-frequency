@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e7cd4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "contact, touch"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tactile object"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "uncleanliness"
+        }
+      ],
+      "mobileId": 280170,
+      "phonetic": "そく",
+      "word": "触"
+    },
+    {
+      "_id": "432518852de0a80625d585a982128542",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "barbel, barb, palp, palpus"
+        }
+      ],
+      "mobileId": 232236,
+      "phonetic": "しょくしゅ",
+      "word": "触鬚"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19389996d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chứng phát ban sau khi cạo râu"
+        }
+      ],
+      "mobileId": 22292,
+      "phonetic": "かみそりさわ",
+      "related_words": {
+        "word": [
+          "刀",
+          "剃刀",
+          "剃"
+        ]
+      },
+      "word": "剃刀触"
+    },
+    {
+      "_id": "432518852de0a80625d585a982128196",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pedipalp"
+        }
+      ],
+      "mobileId": 232235,
+      "phonetic": "しょくし",
+      "word": "触肢"
+    },
+    {
+      "_id": "432518852de0a80625d585a98230776d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "haptic perception, sensation of touch, tactual perception, tactile perception"
+        }
+      ],
+      "mobileId": 233158,
+      "phonetic": "しょくちかく しょっちかく",
+      "word": "触知覚"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c6b94c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tactile organ, touch organ"
+        }
+      ],
+      "mobileId": 262638,
+      "phonetic": "しょっかん",
+      "word": "触官"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b5f13a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "fighting over nothing, making a mountain out of a molehill"
+        }
+      ],
+      "mobileId": 278536,
+      "phonetic": "ばんしょくのあらそい",
+      "word": "蛮触の争い"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6e8d0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "untouchable (of the Indian caste system)"
+        }
+      ],
+      "mobileId": 226926,
+      "phonetic": "ふかしょくみん",
+      "word": "不可触民"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6eae37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "untouchable (of India's caste system)"
+        }
+      ],
+      "mobileId": 226931,
+      "phonetic": "ふかしょくせんみん",
+      "word": "不可触賎民"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936c7867",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khát nước"
+        }
+      ],
+      "mobileId": 21375,
+      "phonetic": "",
+      "word": "渇"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d8c6af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cessation of coughing"
+        }
+      ],
+      "mobileId": 271518,
+      "phonetic": "しかつ",
+      "word": "止渇"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b0c467",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drybrush, brush which gives a blurred effect in writing or painting"
+        }
+      ],
+      "mobileId": 286615,
+      "phonetic": "かっぴつ",
+      "word": "渇筆"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5f750c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thirst, dry mouth, dipsia"
+        }
+      ],
+      "mobileId": 251109,
+      "phonetic": "こうかつ",
+      "word": "口渇"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a59759",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thirst, craving, desire"
+        }
+      ],
+      "mobileId": 261568,
+      "phonetic": "かつあい",
+      "word": "渇愛"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193733891",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "(cổ xưa) chết vì khát nước"
+        }
+      ],
+      "mobileId": 21590,
+      "phonetic": "",
+      "word": "渇死"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568012df6d9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "人民は饑渇して",
+              "mean": "người dân đang đói khát .",
+              "transcription": "じんみんは饑渇して"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự đói khát; đói khát"
+        }
+      ],
+      "mobileId": 42530,
+      "phonetic": "きかつ",
+      "synsets": [
+        {
+          "base_form": "饑渇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "饑餓",
+                "飢渇",
+                "飢餓"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "饑渇"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193787f71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "làm dịu cơn khát"
+        }
+      ],
+      "mobileId": 21753,
+      "phonetic": "",
+      "word": "渇を癒やす"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

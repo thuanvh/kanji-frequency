@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af4556b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "汽車は六時に出る筈だ",
+              "mean": "chắc chắn tàu hỏa 6 giờ xuất phát",
+              "transcription": "きしゃはろくじにでるはずだ"
+            },
+            {
+              "content": "彼は今日来る筈です",
+              "mean": "chắc chắn hôm nay anh ấy đến .",
+              "transcription": "かれはきょうくるはずです"
+            }
+          ],
+          "kind": "n",
+          "mean": "chắc chắn"
+        }
+      ],
+      "mobileId": 174331,
+      "phonetic": "はず",
+      "word": "筈"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7706de5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hemp rope fastened from the bow of a Japanese ship to the tip of the mast"
+        }
+      ],
+      "mobileId": 264680,
+      "phonetic": "はずお",
+      "word": "筈緒"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95a067b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "only natural, no wonder, as expected, of course, as it should be"
+        }
+      ],
+      "mobileId": 275616,
+      "phonetic": "そのはず",
+      "word": "其の筈"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

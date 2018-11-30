@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a98227ad8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "minuteness"
+        },
+        {
+          "examples": null,
+          "kind": "num",
+          "mean": "one millionth"
+        }
+      ],
+      "mobileId": 232887,
+      "phonetic": "び",
+      "word": "微"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd87c323",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "mờ mờ; không rõ ràng"
+        }
+      ],
+      "mobileId": 73107,
+      "phonetic": "かそけび",
+      "synsets": [
+        {
+          "base_form": "幽微",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "幽か",
+                "不明",
+                "微か"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "幽微"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95d19da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "micro evidence, trace elements, small things"
+        }
+      ],
+      "mobileId": 275708,
+      "phonetic": "びぶつ",
+      "word": "微物"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68669d9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tốc độ rất chậm"
+        }
+      ],
+      "mobileId": 3271,
+      "phonetic": "びそくど",
+      "word": "微速度"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6866d2c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự điều chỉnh nhỏ"
+        }
+      ],
+      "mobileId": 3276,
+      "phonetic": "びちょうせい",
+      "related_words": {
+        "word": [
+          "調整"
+        ]
+      },
+      "word": "微調整"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f742b0994",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bộ ngực nhỏ ."
+        }
+      ],
+      "mobileId": 98085,
+      "phonetic": "びにゅう",
+      "word": "微乳"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f742b7b65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phép vi tích phân ."
+        }
+      ],
+      "mobileId": 98099,
+      "phonetic": "びせきぶん",
+      "word": "微積分"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d27ab34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "low in sugar"
+        }
+      ],
+      "mobileId": 216375,
+      "phonetic": "びとう",
+      "word": "微糖"
+    },
+    {
+      "_id": "432518852de0a80625d585a98268cdb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "microfossil"
+        }
+      ],
+      "mobileId": 234940,
+      "phonetic": "びかせき",
+      "word": "微化石"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be05be4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "doze, nap, slumber"
+        }
+      ],
+      "mobileId": 247012,
+      "phonetic": "まどろみ びすい",
+      "word": "微睡"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

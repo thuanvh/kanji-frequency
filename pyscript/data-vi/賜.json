@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed953a79a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "phân phối những hàng dãy, những sự thưởng và những lương hưu"
+        }
+      ],
+      "mobileId": 57937,
+      "phonetic": "じょたまもの",
+      "related_words": {
+        "word": [
+          "叙"
+        ]
+      },
+      "word": "叙賜"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dd60a2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "quà tặng, esp. tới người cấp dưới"
+        }
+      ],
+      "mobileId": 152561,
+      "phonetic": "たまものあずか",
+      "word": "賜与"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1074bc778",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ban thưởng của vua ."
+        }
+      ],
+      "mobileId": 53089,
+      "phonetic": "てんし",
+      "related_words": {
+        "word": [
+          "天"
+        ]
+      },
+      "word": "天賜"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

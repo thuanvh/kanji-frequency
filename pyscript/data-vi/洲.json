@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad4ecfd",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "đảo giữa đại dương"
+        }
+      ],
+      "mobileId": 230242,
+      "phonetic": "ひじ ひし",
+      "word": "洲"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d345cec",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Đenta (chữ cái Hy, lạp), Đenta, (địa lý, địa chất) châu thổ, vùng châu thổ sông Nin"
+        }
+      ],
+      "mobileId": 147400,
+      "phonetic": "さんかくしゅう",
+      "related_words": {
+        "word": [
+          "角",
+          "三"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "三角洲",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "デルタ",
+                "三角州"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "三角洲"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aede270",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sandbank in a river"
+        }
+      ],
+      "mobileId": 231046,
+      "phonetic": "かわす",
+      "word": "川洲"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93a4804",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spit (of land)"
+        }
+      ],
+      "mobileId": 274636,
+      "phonetic": "でず です",
+      "word": "出洲"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0b5534",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "manchuria"
+        }
+      ],
+      "mobileId": 69152,
+      "phonetic": "まんしゅう",
+      "word": "満洲"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f0dbed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "young striped mullet"
+        }
+      ],
+      "mobileId": 272271,
+      "phonetic": "すばしり スバシリ",
+      "word": "洲走"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd6d614c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(cũ (già) bổ nhiệm) nhật bản"
+        }
+      ],
+      "mobileId": 72243,
+      "phonetic": "はちしゅう",
+      "related_words": {
+        "word": [
+          "八"
+        ]
+      },
+      "word": "八洲"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf580d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "châu Âu"
+        }
+      ],
+      "mobileId": 17551,
+      "phonetic": "おうしゅう",
+      "word": "欧洲"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107efa31e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự mắc cạn ."
+        }
+      ],
+      "mobileId": 55850,
+      "phonetic": "ざす",
+      "word": "座洲"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a046ea7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Australia; Úc ."
+        }
+      ],
+      "mobileId": 170345,
+      "phonetic": "ごうしゅう",
+      "word": "濠洲"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

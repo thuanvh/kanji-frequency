@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a98248b9d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one-fifth of the night (approx. 2 hours)"
+        }
+      ],
+      "mobileId": 233933,
+      "phonetic": "こう",
+      "word": "更"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8453c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "canh một; từ 8 -10 giờ tối"
+        }
+      ],
+      "mobileId": 13990,
+      "phonetic": "いちさら",
+      "word": "一更"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0777db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fourth watch of the night (approx. 1 am to 3 am)"
+        }
+      ],
+      "mobileId": 223635,
+      "phonetic": "しこう",
+      "word": "四更"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d5acd9b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "canh 2. (cách tính thời gian thời xưa . Một đêm được chia làm 5 canh . Canh 2 là từ khoảng 9h tối cho đến 1h đêm)"
+        }
+      ],
+      "mobileId": 143007,
+      "phonetic": "にこう",
+      "related_words": {
+        "word": [
+          "二"
+        ]
+      },
+      "word": "二更"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0927201",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-pn",
+          "mean": "hơn nữa, vẫn còn nhiều hơn nữa"
+        }
+      ],
+      "mobileId": 211548,
+      "phonetic": "さらなる",
+      "word": "更なる"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b88fe0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "trao đổi (cái gì đó)"
+        }
+      ],
+      "mobileId": 39396,
+      "phonetic": "さらだい",
+      "related_words": {
+        "word": [
+          "代"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "更代",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "交流",
+                "交換",
+                "やり取り",
+                "交換局",
+                "両替"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "代替",
+                "交流",
+                "代わり",
+                "交換",
+                "やり取り",
+                "交換局"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "更代"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d30dbe4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tất nhiên"
+        }
+      ],
+      "mobileId": 147276,
+      "phonetic": "さらなり",
+      "word": "更なり"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca070320b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "earnestly, intently, determinedly, by all means"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "... the heck (e.g. \"what the heck?\"), ... in the world (e.g. \"why in the world?\"), ... on earth (e.g. \"who on earth?\")"
+        }
+      ],
+      "mobileId": 284555,
+      "phonetic": "ひらさら",
+      "word": "平更"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0bbe67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "further questions"
+        }
+      ],
+      "mobileId": 248366,
+      "phonetic": "さらもん",
+      "word": "更問"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a7895c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ủng hộ sự thâm nhập (của) cùng hoàng đế đó"
+        }
+      ],
+      "mobileId": 38849,
+      "phonetic": "さらい",
+      "word": "更位"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

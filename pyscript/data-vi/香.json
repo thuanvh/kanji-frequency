@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568012fb106",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mùi; mùi thơm; hương vị; hương; hương thơm ."
+        }
+      ],
+      "mobileId": 42562,
+      "phonetic": "かおり",
+      "word": "香"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b18622",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dầm giấm những rau"
+        }
+      ],
+      "mobileId": 39163,
+      "phonetic": "こうこう",
+      "word": "香香"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca066108d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "incense tray, incense burner"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "programme (theater)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "seating arrangement (in a theater)"
+        }
+      ],
+      "mobileId": 284227,
+      "phonetic": "こうばん",
+      "word": "香盤"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86e7436",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hương thơm; danh dự"
+        }
+      ],
+      "mobileId": 37041,
+      "phonetic": "かおるこう",
+      "word": "馨香"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8cc549c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kouro (nhãn hiệu (của) mục đích)"
+        }
+      ],
+      "mobileId": 40043,
+      "phonetic": "こうろ",
+      "related_words": {
+        "word": [
+          "露"
+        ]
+      },
+      "word": "香露"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9506098",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clove"
+        }
+      ],
+      "mobileId": 258865,
+      "phonetic": "ちょうこう",
+      "word": "丁香"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68feffb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thắp hương; làm nổi giận bột"
+        }
+      ],
+      "mobileId": 8126,
+      "phonetic": "すえこう",
+      "related_words": {
+        "word": [
+          "末"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "末香",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "インセンス",
+                "抹香",
+                "薫香"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "末香"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a75e0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm nổi giận cảm thấy trò chơi"
+        }
+      ],
+      "mobileId": 38843,
+      "phonetic": "こうあわせ",
+      "word": "香合わせ"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94be36e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuberose (Polianthes tuberosa)"
+        }
+      ],
+      "mobileId": 258720,
+      "phonetic": "げっかこう",
+      "word": "月下香"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd68a067",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chần chừ mùi (của) người cho (quần áo, etc.)"
+        }
+      ],
+      "mobileId": 13132,
+      "phonetic": "のここう",
+      "word": "遺香"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

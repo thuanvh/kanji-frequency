@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cdb46a8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đến Osaka"
+        }
+      ],
+      "mobileId": 74566,
+      "phonetic": "らいばん",
+      "word": "来阪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77017124",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "being in Osaka"
+        }
+      ],
+      "mobileId": 264505,
+      "phonetic": "ざいはん",
+      "word": "在阪"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a62cbb5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "returning to Osaka"
+        }
+      ],
+      "mobileId": 226544,
+      "phonetic": "きはん",
+      "word": "帰阪"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89adc87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "theo đuổi từ tokyo đến osaka"
+        }
+      ],
+      "mobileId": 38455,
+      "phonetic": "しもばん",
+      "word": "下阪"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

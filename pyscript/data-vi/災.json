@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca010b112",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "warding off calamities, getting rid of bad luck"
+        }
+      ],
+      "mobileId": 281494,
+      "phonetic": "じょさい",
+      "word": "除災"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f21562",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "great disaster"
+        }
+      ],
+      "mobileId": 264002,
+      "phonetic": "たいさい",
+      "word": "大災"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d38614b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ba tai họa (hỏa hoạn, lũ lụt và binh biến); (Phật giáo) ba đại họa (hỏa hoạn, bão tố và lũ lụt)"
+        }
+      ],
+      "mobileId": 147521,
+      "phonetic": "さんわざわい",
+      "related_words": {
+        "word": [
+          "三"
+        ]
+      },
+      "word": "三災"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05d97b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "natural disaster reduction, reduction of the effects of a natural disaster"
+        }
+      ],
+      "mobileId": 283969,
+      "phonetic": "げんさい",
+      "word": "減災"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd6857be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tai họa; tai hoạ; sự cố"
+        }
+      ],
+      "mobileId": 72086,
+      "phonetic": "わざわいわざわい",
+      "related_words": {
+        "word": [
+          "厄"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "厄災",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "異変",
+                "惨事",
+                "変災",
+                "天災",
+                "不祝儀",
+                "災害",
+                "遭難",
+                "凶",
+                "事変",
+                "厄"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "惨事",
+                "災禍",
+                "変災",
+                "災難",
+                "惨害",
+                "惨禍",
+                "破局",
+                "禍害",
+                "難",
+                "天災",
+                "壊滅",
+                "災害",
+                "災い",
+                "カタストロフ",
+                "災厄",
+                "厄",
+                "破滅",
+                "危難",
+                "カタストロフィー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "異変",
+                "惨事",
+                "災禍",
+                "惨劇",
+                "変災",
+                "災難",
+                "厄難",
+                "無残",
+                "惨害",
+                "惨禍",
+                "禍害",
+                "難",
+                "天災",
+                "悲劇",
+                "災害",
+                "災い",
+                "不幸",
+                "カタストロフ",
+                "天変地異",
+                "不仕合わせ",
+                "災厄",
+                "厄",
+                "危難",
+                "カタストロフィー",
+                "トラジディー",
+                "不幸せ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "厄災"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771a302e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "disaster-preventing incantation, disaster-preventing dharani"
+        }
+      ],
+      "mobileId": 265312,
+      "phonetic": "しょうさいじゅ",
+      "word": "消災呪"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

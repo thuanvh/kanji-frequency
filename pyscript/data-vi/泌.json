@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d810110",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sắc bén; sâu xa; thân mật"
+        }
+      ],
+      "mobileId": 149821,
+      "phonetic": "",
+      "word": "泌み泌み"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ddfeba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "urination"
+        }
+      ],
+      "mobileId": 271678,
+      "phonetic": "ひにょう",
+      "word": "泌尿"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685735a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "những cơ quan (organ) cơ quan bài tiết"
+        }
+      ],
+      "mobileId": 2786,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "尿",
+          "幾"
+        ]
+      },
+      "word": "泌尿幾"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

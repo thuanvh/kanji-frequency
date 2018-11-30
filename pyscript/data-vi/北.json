@@ -1,0 +1,233 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada5f4e0c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "北に傾く",
+              "mean": "chếch về phía Bắc",
+              "transcription": "きたにかたむく"
+            },
+            {
+              "content": "北から吹く強風",
+              "mean": "gió thổi từ phương Bắc",
+              "transcription": "きたからふくきょうふう"
+            },
+            {
+              "content": "国境の北",
+              "mean": "phía Bắc biên giới .",
+              "transcription": "こっきょうのきた"
+            }
+          ],
+          "kind": "n",
+          "mean": "phía Bắc; miền Bắc"
+        }
+      ],
+      "mobileId": 78562,
+      "opposite_word": [
+        "南"
+      ],
+      "phonetic": "きた",
+      "related_words": {
+        "word": [
+          "北海道",
+          "北朝鮮",
+          "北米",
+          "北京",
+          "北欧",
+          "東北",
+          "北極",
+          "北斗七星",
+          "北極星",
+          "北東"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "北",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "子",
+                "ノース",
+                "北の方"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "北国",
+                "北部"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "北"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d01546",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phía bắc korea"
+        }
+      ],
+      "mobileId": 6642,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "北"
+        ]
+      },
+      "word": "北鮮"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada5ff014",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "北半球の星座",
+              "mean": "chòm sao bán cầu Bắc",
+              "transcription": "きたはんきゅうのせいざ"
+            },
+            {
+              "content": "北半球地方",
+              "mean": "vùng thuộc bán cầu Bắc",
+              "transcription": "きたはんきゅうちほう"
+            },
+            {
+              "content": "北半球では太陽は実際夏よりも冬のほうが強力である",
+              "mean": "Thực tế, ở Bắc bán cầu, mặt trời vào mùa đông chiếu sáng mạnh hơn vào mùa hè .",
+              "transcription": "きたはんきゅうではたいようはじっさいなつよりもふゆのほうがきょうりょくである"
+            }
+          ],
+          "kind": "n",
+          "mean": "Bán cầu bắc; Bắc bán cầu"
+        }
+      ],
+      "mobileId": 78571,
+      "opposite_word": [
+        "南半球"
+      ],
+      "phonetic": "きたはんきゅう",
+      "related_words": {
+        "word": [
+          "北",
+          "球",
+          "半"
+        ]
+      },
+      "word": "北半球"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb7af69",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỉ về hướng bắc"
+        }
+      ],
+      "mobileId": 74678,
+      "phonetic": "らきた",
+      "word": "羅北"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cdb184",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "north player"
+        }
+      ],
+      "mobileId": 279335,
+      "phonetic": "ペーチャ",
+      "word": "北家"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774a13fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "northern pavilion of a house"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mother"
+        }
+      ],
+      "mobileId": 266847,
+      "phonetic": "ほくどう",
+      "word": "北堂"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dae7f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Northern Qi (dynasty of China; 550-577 CE)"
+        }
+      ],
+      "mobileId": 263268,
+      "phonetic": "ほくせい",
+      "word": "北斉"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cfec20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trung quốc bắc"
+        }
+      ],
+      "mobileId": 6635,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "北"
+        ]
+      },
+      "word": "北支"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d048ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dốc đứng (vách đá) bắc"
+        }
+      ],
+      "mobileId": 6649,
+      "phonetic": "きたかべ",
+      "word": "北壁"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d0c99d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bắc California"
+        }
+      ],
+      "mobileId": 6664,
+      "phonetic": "きたカリフォルニア",
+      "word": "北カリフォルニア"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

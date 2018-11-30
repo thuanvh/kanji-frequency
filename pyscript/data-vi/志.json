@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f743361c8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "お志はありがたいのですが賜り物はご遠慮申し上げます。",
+              "mean": "Tôi rất biết ơn tấm lòng của anh nhưng xin phép không nhận món quà.",
+              "transcription": "おこころざしはありがたいのですがたまわりものはごえんりょもうしあげます。"
+            },
+            {
+              "content": "これは本お志です，どうかお受け取りください。",
+              "mean": "Đây là tấm lòng thành thực của tôi, mong ông nhận cho.",
+              "transcription": "これはほんおこころざしです，どうかおうけとりください。"
+            }
+          ],
+          "kind": "n",
+          "mean": "lòng biết ơn"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼は父親の志を継いで陶芸師になった。",
+              "mean": "Anh ấy đã trở thành nghệ nhân làm đồ gốm theo ước nguyện của bố.",
+              "transcription": "かれはちちおやのこころざしをついでとうげいしになった。"
+            },
+            {
+              "content": "志を遂げるまでは故郷に帰らないつもりだ。",
+              "mean": "Tôi sẽ không về quê hương nếu chưa đạt được ý nguyện của mình.",
+              "transcription": "こころざしをとげるまではこきょうにかえらないつもりだ。"
+            },
+            {
+              "content": "いったん志を立てたら，容易くあきらめるな。",
+              "mean": "Một khi đã quyết tâm thì không được từ bỏ dễ dàng. .",
+              "transcription": "いったんこころざしをたてたら，たやすくあきらめるな。"
+            }
+          ],
+          "kind": "n",
+          "mean": "ý chí; ước muốn; ý muốn; ước nguyện; ý nguyện"
+        }
+      ],
+      "mobileId": 98255,
+      "phonetic": "こころざし",
+      "related_words": {
+        "word": [
+          "意志",
+          "志望",
+          "同志",
+          "大志",
+          "志向",
+          "志願者",
+          "志す",
+          "有志",
+          "志願",
+          "志士"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "志",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "意地",
+                "意志"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドリーム",
+                "憧れ",
+                "夢",
+                "大望",
+                "願事",
+                "志望",
+                "憧憬",
+                "野望",
+                "大志",
+                "宿望",
+                "望み",
+                "願い事",
+                "野心",
+                "意気込み",
+                "希望",
+                "願望",
+                "理想"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "志望",
+                "野心"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "志"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be5acf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "The Chronicles (books of the Bible)"
+        }
+      ],
+      "mobileId": 247176,
+      "phonetic": "れきだいし",
+      "word": "歴代志"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80873b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lòng tự hào; tính tự phụ"
+        }
+      ],
+      "mobileId": 33764,
+      "phonetic": "たかしこころざし",
+      "word": "喬志"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e56f49f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the history of Wei"
+        }
+      ],
+      "mobileId": 250824,
+      "phonetic": "ぎし",
+      "word": "魏志"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da0e2b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ao ước (ước nguyện) ấp ủ bấy lâu"
+        }
+      ],
+      "mobileId": 150826,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "志"
+        ]
+      },
+      "word": "夙志"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77df8290",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kindness, courtesy"
+        }
+      ],
+      "mobileId": 271726,
+      "phonetic": "おこころざし",
+      "word": "お志"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88cdd59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ý chí sắt đá"
+        }
+      ],
+      "mobileId": 38000,
+      "phonetic": "けんこころざし",
+      "word": "堅志"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5fd0de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tạp chí, nhà kho; kho súng, kho đạn, kho thuốc nổ, ổ đạn"
+        }
+      ],
+      "mobileId": 148760,
+      "phonetic": "こころざししゅう",
+      "related_words": {
+        "word": [
+          "志"
+        ]
+      },
+      "word": "志集"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de4ede5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Shisui Faction (of the LDP)"
+        }
+      ],
+      "mobileId": 222528,
+      "phonetic": "しすいかい",
+      "word": "志帥会"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95628d30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tham vọng cao (cao ngất)"
+        }
+      ],
+      "mobileId": 59242,
+      "phonetic": "せいうんのこころざし",
+      "word": "青雲の志"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

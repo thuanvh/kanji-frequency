@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada529753",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "勅令書",
+              "mean": "Bản chiếu chỉ của vua",
+              "transcription": "みことのりれいしょ"
+            },
+            {
+              "content": "勅令を発する",
+              "mean": "Ra chiếu chỉ.",
+              "transcription": "みことのりれいをはっする"
+            }
+          ],
+          "kind": "n",
+          "mean": "tờ sắc (của nhà vua, quan.v...)"
+        }
+      ],
+      "mobileId": 78361,
+      "phonetic": "ちょく",
+      "word": "勅"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada52ffe5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sắc dụ ."
+        }
+      ],
+      "mobileId": 78368,
+      "phonetic": "ちょくゆ",
+      "word": "勅諭"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e58c58a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuyển tập tài trợ hoàng đế"
+        }
+      ],
+      "mobileId": 113875,
+      "phonetic": "みことのりせんしゅう",
+      "word": "勅選集"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821c76f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "festival held by imperial order"
+        }
+      ],
+      "mobileId": 232530,
+      "phonetic": "ちょくさい",
+      "word": "勅祭"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e59126a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đế quốc tự viết tay"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "writing with upright brush"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frank writing"
+        }
+      ],
+      "mobileId": 113884,
+      "phonetic": "みことのりひつ",
+      "related_words": {
+        "word": [
+          "筆"
+        ]
+      },
+      "word": "勅筆"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dedd944",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lời tiên tri"
+        }
+      ],
+      "mobileId": 153333,
+      "phonetic": "かみみことのり",
+      "word": "神勅"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193350a85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thông điệp (của giáo hội để phổ biến tôn giáo)"
+        }
+      ],
+      "mobileId": 19613,
+      "phonetic": "かいみことのり",
+      "word": "回勅"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5896d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đế quốc ra sắc lệnh"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "compilation for the emperor"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "emperor's literary production"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "imperial nomination"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "straight line"
+        }
+      ],
+      "mobileId": 113870,
+      "phonetic": "みことのりせん",
+      "word": "勅宣"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5821a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyết định đế quốc hoặc sự phê chuẩn"
+        }
+      ],
+      "mobileId": 113855,
+      "phonetic": "みことのりさい",
+      "related_words": {
+        "word": [
+          "裁"
+        ]
+      },
+      "word": "勅裁"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e58a68c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chỉ định đế quốc"
+        }
+      ],
+      "mobileId": 113872,
+      "phonetic": "みことのりせん",
+      "word": "勅選"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

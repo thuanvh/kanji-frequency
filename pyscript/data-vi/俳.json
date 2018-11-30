@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dbf9719",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "diễn viên nam; nam diễn viên ."
+        }
+      ],
+      "mobileId": 144756,
+      "phonetic": "はい",
+      "related_words": {
+        "word": [
+          "俳優",
+          "俳句",
+          "俳人",
+          "俳諧"
+        ]
+      },
+      "word": "俳"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6801e435",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(haiku) bạn thơ; bạn bè trong nhóm bạn làm thơ  haiku"
+        }
+      ],
+      "mobileId": 58,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "友",
+          "俳"
+        ]
+      },
+      "word": "俳友"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900efcd71d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nói đùa"
+        }
+      ],
+      "mobileId": 119092,
+      "phonetic": "",
+      "word": "俳謔"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6801849c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà thơ haiku có tên"
+        }
+      ],
+      "mobileId": 48,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "名",
+          "俳"
+        ]
+      },
+      "word": "俳名"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900efa89bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đi thơ thẩn"
+        }
+      ],
+      "mobileId": 119013,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "俳"
+        ]
+      },
+      "word": "俳徊"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a793c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "có cùng nhau"
+        }
+      ],
+      "mobileId": 5337,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "併せて",
+          "合併",
+          "併用",
+          "合併症",
+          "併記",
+          "併合",
+          "併設",
+          "併せる",
+          "併し",
+          "併行"
+        ]
+      },
+      "word": "併"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a88b70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "xuất hiện đồng thời"
+        }
+      ],
+      "mobileId": 5368,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "併"
+        ]
+      },
+      "word": "併起"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd52751f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hợp nhất; hợp lại"
+        }
+      ],
+      "mobileId": 12425,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "併"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "併さる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "合する",
+                "合わさる"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "合する",
+                "合わさる",
+                "交わる",
+                "落ち合う"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "併さる"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686a4a3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "la mã pinyin (ch hệ thống) (incorr. kanji!) (thứ) 1"
+        }
+      ],
+      "mobileId": 3379,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "音",
+          "併"
+        ]
+      },
+      "word": "併音"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dade397",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "しかし、予期せぬことが起きたらどうしますか",
+              "mean": "tuy nhiên nếu xảy ra điều ngoài dự kiến thì làm thế nào ạ?",
+              "transcription": "しかし、よきせぬことがおきたらどうしますか"
+            },
+            {
+              "content": "しかしお客様からのお支払いをまだ頂いておりません",
+              "mean": "nhưng tôi vẫn chưa nhận được thanh toán của quý khách",
+              "transcription": "しかしおきゃくさまからのおしはらいをまだいただいておりません"
+            }
+          ],
+          "kind": "conj, uk",
+          "mean": "tuy nhiên; nhưng"
+        }
+      ],
+      "mobileId": 144413,
+      "phonetic": "しかし",
+      "related_words": {
+        "word": [
+          "し",
+          "併"
+        ]
+      },
+      "word": "併し"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d527aff",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hơn nữa, ngoài ra, vả lại, vả chăng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hơn nữa, vả lại"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tuy nhiên, tuy thế mà"
+        }
+      ],
+      "mobileId": 148362,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "併"
+        ]
+      },
+      "word": "併も"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

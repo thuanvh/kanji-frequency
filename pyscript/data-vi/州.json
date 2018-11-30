@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107bcec81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bãi cát (ở biển) ."
+        }
+      ],
+      "mobileId": 55051,
+      "phonetic": "す",
+      "related_words": {
+        "word": [
+          "欧州",
+          "広州",
+          "豪州",
+          "本州",
+          "欧州連合",
+          "満州",
+          "八州",
+          "中州",
+          "三角州",
+          "欧州委員会"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "州",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "省"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "砂嘴",
+                "砂州"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "州"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107bcebe8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "tỉnh; nhà nước"
+        }
+      ],
+      "mobileId": 55050,
+      "phonetic": "しゅう",
+      "related_words": {
+        "word": [
+          "欧州",
+          "広州",
+          "豪州",
+          "本州",
+          "欧州連合",
+          "満州",
+          "八州",
+          "中州",
+          "三角州",
+          "欧州委員会"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "州",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "省"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "砂嘴",
+                "砂州"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "州"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d94bb2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mỗi trạng thái; mỗi tỉnh"
+        }
+      ],
+      "mobileId": 150448,
+      "phonetic": "しゅうしゅう",
+      "related_words": {
+        "word": [
+          "州"
+        ]
+      },
+      "word": "州州"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08eab74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "state legislature, state or provincial parliament"
+        }
+      ],
+      "mobileId": 211428,
+      "phonetic": "しゅうぎかい",
+      "word": "州議会"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d91ccb0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tôn giáo, đạo; sự tín ngưỡng, sự tu hành, sự sùng bái; việc có nghĩa vụ phải làm"
+        }
+      ],
+      "mobileId": 150354,
+      "phonetic": "しゅうさかい",
+      "related_words": {
+        "word": [
+          "州",
+          "境"
+        ]
+      },
+      "word": "州境"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d94b109",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mỗi trạng thái; mỗi tỉnh"
+        }
+      ],
+      "mobileId": 150447,
+      "phonetic": "しゅう々",
+      "related_words": {
+        "word": [
+          "州",
+          "々"
+        ]
+      },
+      "word": "州々"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d622322",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "năm châu ."
+        }
+      ],
+      "mobileId": 143159,
+      "phonetic": "ごだいしゅう",
+      "word": "五大州"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de018c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "state police, provincial police"
+        }
+      ],
+      "mobileId": 222359,
+      "phonetic": "しゅうけいさつ",
+      "word": "州警察"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a995e045",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "provincia, province of ancient Rome"
+        }
+      ],
+      "mobileId": 261070,
+      "phonetic": "ぞくしゅう",
+      "word": "属州"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca080d177",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Iceland"
+        }
+      ],
+      "mobileId": 285064,
+      "phonetic": "アイスランド",
+      "word": "氷州"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3975a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đường hẹp giữa các thửa ruộng"
+        }
+      ],
+      "mobileId": 11628,
+      "phonetic": "ほとりどう",
+      "related_words": {
+        "word": [
+          "道"
+        ]
+      },
+      "word": "畔道"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7766e571",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Crepidiastrum keiskeanum (species of plant in the daisy family)"
+        }
+      ],
+      "mobileId": 267786,
+      "phonetic": "あぜとうな アゼトウナ",
+      "word": "畔唐菜"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dd4c5d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cột trụ ; bờ sông"
+        }
+      ],
+      "mobileId": 152520,
+      "phonetic": "なぎさほとり",
+      "word": "渚畔"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de30f30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ridge between rice fields"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "causeway"
+        }
+      ],
+      "mobileId": 222463,
+      "phonetic": "けいはん",
+      "word": "畦畔"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

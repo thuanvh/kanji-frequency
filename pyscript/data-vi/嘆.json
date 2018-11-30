@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04f89ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sigh"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "grief, lamentation"
+        }
+      ],
+      "mobileId": 209406,
+      "phonetic": "たん",
+      "word": "嘆"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc07b5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khóc trong sự đau"
+        }
+      ],
+      "mobileId": 151854,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "傷"
+        ]
+      },
+      "word": "傷嘆"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3d8a2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự hâm mộ; extollment"
+        }
+      ],
+      "mobileId": 147689,
+      "phonetic": "",
+      "word": "讚嘆"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f076cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "regretting one's unkindness to one's deceased parents when they were alive"
+        }
+      ],
+      "mobileId": 263953,
+      "phonetic": "ふうじゅのたん",
+      "word": "風樹の嘆"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68eb7a5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "than khóc làm thất bại (của) việc đạt đến sự thật (cho số thừa (của) những đường (dẫn) hàn lâm); ở (tại) một sự mất mát"
+        }
+      ],
+      "mobileId": 7499,
+      "phonetic": "",
+      "word": "亡羊の嘆"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68571a7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5t",
+          "mean": "tới sự bực dọc từ sự ăn không ngồi rồi ép buộc"
+        }
+      ],
+      "mobileId": 2782,
+      "phonetic": "",
+      "word": "髀肉の嘆を託つ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

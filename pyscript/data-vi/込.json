@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e104325",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "leading-in tube, supply conduit"
+        }
+      ],
+      "mobileId": 248516,
+      "phonetic": "ひきこみかん",
+      "word": "引込管"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ada7294",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bến bốc ."
+        }
+      ],
+      "mobileId": 173979,
+      "phonetic": "つみこみふとう",
+      "word": "積込埠頭"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1eac8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs",
+          "mean": "call-waiting (phone option)"
+        }
+      ],
+      "mobileId": 224387,
+      "phonetic": "わりこみつうわ",
+      "word": "割込通話"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95874e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "placing of concrete, positioning concrete"
+        }
+      ],
+      "mobileId": 259128,
+      "phonetic": "コンクリートうちこみ",
+      "word": "コンクリート打込"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107ece2f1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "水はよく澄んでいて, 底まで見えた",
+              "mean": "Nước trong leo lẻo nhìn xuống tận đáy.",
+              "transcription": "みずはよくすんでいて,そこまでみえた"
+            },
+            {
+              "content": "一番底",
+              "mean": "nền tảng đầu tiên",
+              "transcription": "いちばんそこ"
+            },
+            {
+              "content": "井戸の底",
+              "mean": "đáy giếng",
+              "transcription": "いどのそこ"
+            }
+          ],
+          "kind": "n",
+          "mean": "đáy"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đế"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đít ."
+        }
+      ],
+      "mobileId": 55802,
+      "phonetic": "そこ",
+      "related_words": {
+        "word": [
+          "徹底",
+          "周知徹底",
+          "靴底",
+          "海底",
+          "基底",
+          "根底",
+          "どん底",
+          "谷底",
+          "不徹底"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "底",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "下部",
+                "裾",
+                "下様",
+                "ボトム",
+                "下方"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "裾",
+                "根本",
+                "基底",
+                "基部",
+                "下様",
+                "尻"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "下側",
+                "ボトム",
+                "尻"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "底"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e478986",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đạt đến đáy"
+        }
+      ],
+      "mobileId": 113319,
+      "phonetic": "ちゃくそこ",
+      "word": "着底"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bdb096f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "orbital floor (thin bone floor of eye socket)"
+        }
+      ],
+      "mobileId": 246826,
+      "phonetic": "がんかてい",
+      "word": "眼窩底"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b26d75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bottom of a can"
+        }
+      ],
+      "mobileId": 270251,
+      "phonetic": "かんぞこ",
+      "word": "缶底"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77186f3d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "Gập gan bàn chân"
+        }
+      ],
+      "mobileId": 265246,
+      "phonetic": "そこくつ",
+      "word": "底屈"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8513085",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đế giày"
+        }
+      ],
+      "mobileId": 36097,
+      "phonetic": "くつ ぞこ",
+      "related_words": {
+        "word": [
+          "靴",
+          "底"
+        ]
+      },
+      "word": "靴底"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9578d1c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đáy giếng; chỗ hẹp"
+        }
+      ],
+      "mobileId": 59941,
+      "phonetic": "いそこ",
+      "related_words": {
+        "word": [
+          "底",
+          "井"
+        ]
+      },
+      "word": "井底"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c54605",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "palm heel, heel of the palm"
+        }
+      ],
+      "mobileId": 279059,
+      "phonetic": "しょうてい",
+      "word": "掌底"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9da8f65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "insole"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "perforated divider in a food steamer"
+        }
+      ],
+      "mobileId": 279753,
+      "phonetic": "なかぞこ",
+      "word": "中底"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c7d046",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "planta, planta pedis, sole of the foot"
+        }
+      ],
+      "mobileId": 262676,
+      "phonetic": "そくてい",
+      "word": "足底"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

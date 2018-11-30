@@ -1,0 +1,248 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b1ad0a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜　更え",
+              "mean": "sự thay đổi trang phục theo mùa .",
+              "transcription": "〜さらえ"
+            }
+          ],
+          "kind": "n",
+          "mean": "trang phục"
+        }
+      ],
+      "mobileId": 32220,
+      "phonetic": "ころも",
+      "related_words": {
+        "word": [
+          "衣服",
+          "衣装",
+          "衣類",
+          "浴衣",
+          "更衣室",
+          "天衣無縫",
+          "脱衣所",
+          "白衣",
+          "着衣",
+          "麻衣"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "衣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ローブ",
+                "衣裳",
+                "ガウン",
+                "フロック",
+                "ワンピース",
+                "衣装",
+                "ドレス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "着物",
+                "衣類",
+                "衣裳",
+                "洋服",
+                "被服",
+                "衣料",
+                "服",
+                "衣装",
+                "衣服"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "着物",
+                "衣類",
+                "衣裳",
+                "お召し物",
+                "洋服",
+                "コスチューム",
+                "着衣",
+                "被服",
+                "衣料",
+                "服",
+                "衣装",
+                "衣服",
+                "お召し",
+                "衣紋",
+                "装束",
+                "ドレス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "衣"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934c4956",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cái túi"
+        }
+      ],
+      "mobileId": 20352,
+      "phonetic": "ころもし",
+      "word": "衣し"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ba80e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "y phục ở phía ngoài"
+        }
+      ],
+      "mobileId": 23829,
+      "phonetic": "そところも",
+      "related_words": {
+        "word": [
+          "外",
+          "衣"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "外衣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "上着",
+                "トップコート",
+                "オーバーコート",
+                "コート",
+                "上衣",
+                "外套",
+                "上張り"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "外衣"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77063fc2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dyed garments, dyed kimono"
+        }
+      ],
+      "mobileId": 264661,
+      "phonetic": "そめぎぬ しめころも",
+      "word": "染衣"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4eba2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "straitjacket"
+        }
+      ],
+      "mobileId": 250555,
+      "phonetic": "こうそくい",
+      "word": "拘束衣"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0116ff2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "everyday clothes, ordinary clothes, casual wear"
+        }
+      ],
+      "mobileId": 281520,
+      "phonetic": "じょうい",
+      "word": "常衣"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0394f8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pocket"
+        }
+      ],
+      "mobileId": 208679,
+      "phonetic": "いのう かくし",
+      "word": "衣嚢"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f745730ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Y phục tồi tàn ."
+        }
+      ],
+      "mobileId": 98719,
+      "phonetic": "あくい",
+      "related_words": {
+        "word": [
+          "悪",
+          "衣"
+        ]
+      },
+      "word": "悪衣"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9af35d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clothes"
+        }
+      ],
+      "mobileId": 278310,
+      "phonetic": "そぶつ",
+      "word": "衣物"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d1e75b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "undergarment, underwear"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lower garment (e.g. trousers)"
+        }
+      ],
+      "mobileId": 279472,
+      "phonetic": "したごろも かい",
+      "word": "下衣"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

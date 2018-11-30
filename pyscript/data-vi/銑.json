@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9560e4ee",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "gang, sắt"
+        }
+      ],
+      "mobileId": 59184,
+      "phonetic": "ずく",
+      "word": "銑"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef979699b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pig iron making, pig iron manufacturing"
+        }
+      ],
+      "mobileId": 276611,
+      "phonetic": "せいせん",
+      "word": "製銑"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd99b7f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nấu chảy là quần áo"
+        }
+      ],
+      "mobileId": 73700,
+      "phonetic": "",
+      "word": "鎔銑"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68071585",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gang trắng"
+        }
+      ],
+      "mobileId": 222,
+      "phonetic": "しろずく",
+      "word": "白銑"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

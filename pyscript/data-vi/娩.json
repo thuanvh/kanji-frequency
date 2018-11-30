@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a98223cb1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giving birth, delivery"
+        }
+      ],
+      "mobileId": 232758,
+      "phonetic": "べんしゅつ",
+      "word": "娩出"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a79a8b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "couvade (custom in which a male acts out the physical process of his own child being born)"
+        }
+      ],
+      "mobileId": 227277,
+      "phonetic": "ぎべん",
+      "word": "擬娩"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

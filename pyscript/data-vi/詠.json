@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd9b15c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "kể lại nghệ thuật thơ"
+        }
+      ],
+      "mobileId": 16653,
+      "phonetic": "",
+      "word": "詠誦"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd80336",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ngâm thơ, sự vịnh thơ; bài thơ được ngâm"
+        }
+      ],
+      "mobileId": 16599,
+      "phonetic": "えいぎん",
+      "word": "詠吟"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686cf956",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bài thơ, vật đẹp như bài thơ, cái nên thơ"
+        }
+      ],
+      "mobileId": 3470,
+      "phonetic": "ふえい",
+      "word": "賦詠"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f41cbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những bài thơ cổ xưa; những bài hát cổ xưa"
+        }
+      ],
+      "mobileId": 25669,
+      "phonetic": "きゅうえい",
+      "word": "旧詠"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

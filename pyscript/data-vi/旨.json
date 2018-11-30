@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f0e4258",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chân lý"
+        },
+        {
+          "examples": [
+            {
+              "content": "このメッセージを受け取りましたら、その旨ご連絡ください。",
+              "mean": "Tôi rất biết ơn anh nếu anh có thể xác nhận rằng đã nhận được thông báo này",
+              "transcription": "このメッセージをうけとりましたら、そのむねごれんらくください。"
+            },
+            {
+              "content": "配送に関するご希望がございましたら、注文書にその旨ご記入ください。",
+              "mean": "Nếu quý vị có bất cứ một yêu cầu đặc biệt nào đối với việc vận chuyển, xin vui lòng trình bày trong mẫu đơn yêu cầu dịch vụ",
+              "transcription": "はいそうにかんするごきぼうがございましたら、ちゅうぶんしょにそのむねごきにゅうください。"
+            }
+          ],
+          "kind": "n",
+          "mean": "chỉ thị; thông báo"
+        },
+        {
+          "examples": [
+            {
+              "content": "文は簡潔を旨とせよ",
+              "mean": "hãy viết văn với ý nghĩa đơn giản",
+              "transcription": "ぶんはかんけつをむねとせよ"
+            }
+          ],
+          "kind": "n",
+          "mean": "ý nghĩa"
+        }
+      ],
+      "mobileId": 185149,
+      "phonetic": "むね",
+      "related_words": {
+        "word": [
+          "趣旨",
+          "要旨",
+          "旨い",
+          "主旨",
+          "旨味",
+          "旨く",
+          "旨がる"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "旨",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "含意",
+                "考え",
+                "気",
+                "心",
+                "意",
+                "趣意",
+                "意味",
+                "意図",
+                "趣旨",
+                "主旨",
+                "作意",
+                "意思",
+                "魂胆"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "旨"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc4a110",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thành công; tuyệt diệu"
+        }
+      ],
+      "mobileId": 16015,
+      "phonetic": "うまむねと",
+      "related_words": {
+        "word": [
+          "と",
+          "旨"
+        ]
+      },
+      "word": "旨旨と"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c034aa1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv-to",
+          "mean": "successfully, nicely"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(yummy) food"
+        }
+      ],
+      "mobileId": 208538,
+      "phonetic": "うまうま",
+      "word": "旨々"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc4c233",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r",
+          "mean": "tới gia vị; để cho thấy một ưa thích cho"
+        }
+      ],
+      "mobileId": 16020,
+      "phonetic": "むねがる",
+      "related_words": {
+        "word": [
+          "旨"
+        ]
+      },
+      "word": "旨がる"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada0f1ed1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mật chỉ ."
+        }
+      ],
+      "mobileId": 77137,
+      "phonetic": "ないし",
+      "related_words": {
+        "word": [
+          "旨"
+        ]
+      },
+      "word": "内旨"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5fc118",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rượu nho tốt"
+        }
+      ],
+      "mobileId": 148756,
+      "phonetic": "むねしゅ",
+      "word": "旨酒"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd945b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiếu chỉ"
+        }
+      ],
+      "mobileId": 16636,
+      "phonetic": "あきらむね",
+      "related_words": {
+        "word": [
+          "旨"
+        ]
+      },
+      "word": "叡旨"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89ff67d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thứ tự chính xác; thứ tự (của) bạn"
+        }
+      ],
+      "mobileId": 38620,
+      "phonetic": "いむむね",
+      "related_words": {
+        "word": [
+          "旨"
+        ]
+      },
+      "word": "厳旨"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97bbb45",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp, n",
+          "mean": "nội dung đấy,  hiệu ứng đó"
+        }
+      ],
+      "mobileId": 276682,
+      "phonetic": "そのむね",
+      "word": "その旨"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf53b23",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thật sâu; kiến thức sâu"
+        }
+      ],
+      "mobileId": 17544,
+      "phonetic": "おくむね",
+      "related_words": {
+        "word": [
+          "奥",
+          "旨"
+        ]
+      },
+      "word": "奥旨"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

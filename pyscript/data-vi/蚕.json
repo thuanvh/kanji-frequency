@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a3b1d7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "蚕糸・昆虫農業技術研究所",
+              "mean": "Viện nghiên cứu kĩ thuật nuôi tằm và các loài sâu bọ khác",
+              "transcription": "さんし・こんちゅうのうぎょうぎじゅつけんきゅうじょ"
+            },
+            {
+              "content": "繭の中の死んだ蚕",
+              "mean": "Con tằm chết trong kén của nó",
+              "transcription": "まゆのなかのしんだかいこ"
+            }
+          ],
+          "kind": "n",
+          "mean": "con tằm; tằm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kén"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kén tằm ."
+        }
+      ],
+      "mobileId": 31974,
+      "phonetic": "かいこ",
+      "related_words": {
+        "word": [
+          "養蚕"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "蚕",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蚕児",
+                "夏蚕"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蚕"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d439c04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trứng tằm"
+        }
+      ],
+      "mobileId": 147881,
+      "phonetic": "かいこたまご",
+      "related_words": {
+        "word": [
+          "卵",
+          "蚕"
+        ]
+      },
+      "word": "蚕卵"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94e0717",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "silkworm (in the first or second instar)"
+        }
+      ],
+      "mobileId": 258785,
+      "phonetic": "ぎさん",
+      "word": "蟻蚕"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d38b16a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái giỏ silkworm"
+        }
+      ],
+      "mobileId": 147536,
+      "phonetic": "かいこざ",
+      "related_words": {
+        "word": [
+          "座",
+          "蚕"
+        ]
+      },
+      "word": "蚕座"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94e1ded",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eri silkmoth (Samia cynthia ricini), eri silkworm"
+        }
+      ],
+      "mobileId": 258788,
+      "phonetic": "えりさん エリサン",
+      "word": "えり蚕"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a33fe92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "silkworm moth, silk moth (Bombyx mori)"
+        }
+      ],
+      "mobileId": 225079,
+      "phonetic": "かいこが",
+      "word": "蚕蛾"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d36d979",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thiết bị dụng cụ nuôi tằm"
+        }
+      ],
+      "mobileId": 147473,
+      "phonetic": "かいこぐ",
+      "related_words": {
+        "word": [
+          "具",
+          "蚕"
+        ]
+      },
+      "word": "蚕具"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab2a781",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "atlas moth (Attacus atlas)"
+        }
+      ],
+      "mobileId": 229115,
+      "phonetic": "よなぐにさん ヨナグニサン",
+      "word": "与那国蚕"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d01211d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giun cát (thuộc loại giun nhiều tơ, dùng làm mồi câu cá biển)"
+        }
+      ],
+      "mobileId": 145783,
+      "phonetic": "すなかいこ",
+      "word": "砂蚕"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3403a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "domesticated silkworm"
+        }
+      ],
+      "mobileId": 225080,
+      "phonetic": "かさん",
+      "word": "家蚕"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

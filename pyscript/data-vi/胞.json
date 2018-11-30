@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e547cb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vacuole (esp. in an animal cell)"
+        }
+      ],
+      "mobileId": 250747,
+      "phonetic": "くうほう",
+      "word": "空胞"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc6424b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "bọng, túi, mụn nước, (địa lý, địa chất) lỗ hổng"
+        }
+      ],
+      "mobileId": 152044,
+      "phonetic": "",
+      "word": "小胞"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e70eaef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trichocyst"
+        }
+      ],
+      "mobileId": 251667,
+      "phonetic": "もうほう",
+      "word": "毛胞"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93c1907",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chromatophore"
+        }
+      ],
+      "mobileId": 258215,
+      "phonetic": "しきそほう",
+      "word": "色素胞"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab680139d4",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, adj-no",
+          "mean": "Phế nang, ổ, túi phổi, ổ răng, lỗ tổ ong"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "lỗ hổng, hố hốc, ổ, khoang"
+        }
+      ],
+      "mobileId": 39,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "肺"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "肺胞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "空洞",
+                "窪み"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "腔",
+                "空洞",
+                "窪み"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "肺胞"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddfd3d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "không bào, hốc nhỏ"
+        }
+      ],
+      "mobileId": 16850,
+      "phonetic": "",
+      "word": "液胞"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef945a1a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cnidocyte, cnida, nematocyst"
+        }
+      ],
+      "mobileId": 274975,
+      "phonetic": "しほう",
+      "word": "刺胞"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779197a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "cystoid, cystiform, vesicular, hydatidiform"
+        }
+      ],
+      "mobileId": 269185,
+      "phonetic": "ほうじょう",
+      "word": "胞状"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7feabf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "follicle (esp. an ovarian follicle)"
+        }
+      ],
+      "mobileId": 227479,
+      "phonetic": "ろほう",
+      "word": "濾胞"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e70d0c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "contractile vacuole"
+        }
+      ],
+      "mobileId": 251665,
+      "phonetic": "しゅうしゅくほう",
+      "word": "収縮胞"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a057b02",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "灌漑用掘割",
+              "mean": "rãnh đào để tưới tiêu",
+              "transcription": "灌漑ようほりわり"
+            },
+            {
+              "content": "灌漑の便がある",
+              "mean": "Có lợi ích tưới tiêu .",
+              "transcription": "灌漑のびんがある"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "sự tưới (cho đồng ruộng); sự tưới tiêu; thủy lợi; tưới tiêu"
+        }
+      ],
+      "mobileId": 170373,
+      "phonetic": "かんがい",
+      "word": "灌漑"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a0581a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công trình thủy lợi ."
+        }
+      ],
+      "mobileId": 170374,
+      "phonetic": "かんがいしせつ",
+      "word": "灌漑施設"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c03d97d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "irrigation water"
+        }
+      ],
+      "mobileId": 208815,
+      "phonetic": "かんがいようすい",
+      "word": "灌漑用水"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

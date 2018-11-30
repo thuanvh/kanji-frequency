@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e267b6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "８２０kgの隕石が、アメリカに落下した。",
+              "mean": "Thiên thạch 820 kg rơi xuống Mỹ. .",
+              "transcription": "はちにぜろkgの隕石が、アメリカにらっかした。"
+            }
+          ],
+          "kind": "n",
+          "mean": "thiên thạch"
+        }
+      ],
+      "mobileId": 110500,
+      "phonetic": "いんせき",
+      "related_words": {
+        "word": [
+          "石"
+        ]
+      },
+      "word": "隕石"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c681aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "meteoric iron"
+        }
+      ],
+      "mobileId": 213246,
+      "phonetic": "いんてつ",
+      "word": "隕鉄"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdaa1e3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sao sa, sao băng, hiện tượng khí tượng, người bỗng nổi tiếng như cồn; vật bổng nổi tiếng như cồn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sao băng"
+        }
+      ],
+      "mobileId": 15193,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "星"
+        ]
+      },
+      "word": "隕星"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a920ded0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "meteorite crater"
+        }
+      ],
+      "mobileId": 257322,
+      "phonetic": "いんせきこう",
+      "word": "隕石孔"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9827061df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "discussion, deliberation"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thought, opinion"
+        }
+      ],
+      "mobileId": 235175,
+      "phonetic": "ぎ",
+      "word": "議"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e580bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quan điểm đại chúng"
+        }
+      ],
+      "mobileId": 63435,
+      "phonetic": "ぞくぎ",
+      "related_words": {
+        "word": [
+          "俗"
+        ]
+      },
+      "word": "俗議"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e833a96c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hội viên hội đồng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người làm luật, người lập pháp; thành viên có quan lập pháp"
+        }
+      ],
+      "mobileId": 35148,
+      "phonetic": "ぎし",
+      "related_words": {
+        "word": [
+          "士"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "議士",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "参議",
+                "参事官"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "議士"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e846e1e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ủy viên hội đồng lập pháp trông nom"
+        }
+      ],
+      "mobileId": 35778,
+      "phonetic": "くぎ",
+      "related_words": {
+        "word": [
+          "区"
+        ]
+      },
+      "word": "区議"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686444af",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đạt đến một quyết định bởi việc sử dụng một thông tri; đạt đến một quyết định via một tài liệu lưu thông tới tất cả các người làm thuê"
+        }
+      ],
+      "mobileId": 3203,
+      "phonetic": "",
+      "word": "禀議"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08eb16e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "state legislature, state or provincial parliament"
+        }
+      ],
+      "mobileId": 211429,
+      "phonetic": "しゅうぎ",
+      "word": "州議"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d58b68c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự tham khảo; hội nghị"
+        }
+      ],
+      "mobileId": 148554,
+      "phonetic": "はかぎ",
+      "word": "諮議"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d58d1b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "(một) phỏng đoán;(một) đoán"
+        }
+      ],
+      "mobileId": 148558,
+      "phonetic": "",
+      "word": "思議"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68425326",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "khiển trách; criticizing"
+        }
+      ],
+      "mobileId": 2137,
+      "phonetic": "",
+      "word": "批議"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86514db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hội đồng quân sự"
+        }
+      ],
+      "mobileId": 36745,
+      "phonetic": "ぐんぎ",
+      "related_words": {
+        "word": [
+          "軍"
+        ]
+      },
+      "word": "軍議"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

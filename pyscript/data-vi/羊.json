@@ -1,0 +1,249 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280273b8962",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Con cừu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cừu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trừu ."
+        }
+      ],
+      "mobileId": 30080,
+      "phonetic": "ひつじ",
+      "related_words": {
+        "word": [
+          "子羊",
+          "山羊座",
+          "羊肉",
+          "山羊",
+          "羊羹",
+          "羊毛",
+          "羊飼い",
+          "牡羊",
+          "仔羊",
+          "羊皮紙"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "羊",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "羊肉",
+                "ムトン",
+                "ムートン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "羊"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7741d0c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sheep's milk"
+        }
+      ],
+      "mobileId": 266586,
+      "phonetic": "ようにゅう",
+      "word": "羊乳"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684aa169",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cụm"
+        }
+      ],
+      "mobileId": 2407,
+      "phonetic": "ひつじくも",
+      "word": "羊雲"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a54c106",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ram (sheep)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "used to liken one to someone who lives their life by instinct"
+        }
+      ],
+      "mobileId": 226124,
+      "phonetic": "ていよう",
+      "word": "羝羊"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e869ba0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đàn cừu; tập hợp những kẻ ốm yếu"
+        }
+      ],
+      "mobileId": 36896,
+      "phonetic": "ぐんひつじ",
+      "word": "群羊"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77389455",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "herd of sheep, flock of sheep"
+        }
+      ],
+      "mobileId": 266294,
+      "phonetic": "ようぐん",
+      "word": "羊群"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193136487",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhồi nhét"
+        }
+      ],
+      "mobileId": 18539,
+      "phonetic": "おすひつじ",
+      "related_words": {
+        "word": [
+          "羊",
+          "牡",
+          "牡羊座"
+        ]
+      },
+      "word": "牡羊"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280273bde66",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mục sư"
+        },
+        {
+          "examples": [
+            {
+              "content": "羊が3頭見つからず、その羊飼いは心配になった。",
+              "mean": "Không tìm thấy 3 con cừu, người chăn cừu trở nên lo lắng. .",
+              "transcription": "ひつじが3とうみつからず、そのひつじかいはしんぱいになった。"
+            }
+          ],
+          "kind": "n",
+          "mean": "người chăn cừu; mục đồng"
+        }
+      ],
+      "mobileId": 30089,
+      "phonetic": "ひつじかい",
+      "related_words": {
+        "word": [
+          "羊"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "羊飼い",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "牧羊者",
+                "飼主",
+                "飼い主",
+                "シェパード"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "羊飼い"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107a6a7a5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "小羊のようにおとなしい",
+              "mean": "Hiền như một con cừu non .",
+              "transcription": "しょうひつじのようにおとなしい"
+            }
+          ],
+          "kind": "n",
+          "mean": "con cừu non; cừu non; cừu con"
+        }
+      ],
+      "mobileId": 54704,
+      "phonetic": "こひつじ",
+      "related_words": {
+        "word": [
+          "小",
+          "羊"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "小羊",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ラム",
+                "子羊",
+                "仔羊"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "小羊"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280273bb273",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chuồng cừu ."
+        }
+      ],
+      "mobileId": 30083,
+      "phonetic": "ひつじごや",
+      "word": "羊小屋"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

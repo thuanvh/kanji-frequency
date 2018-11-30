@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd624daf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf, ctr",
+          "mean": "vấn đề; câu hỏi"
+        }
+      ],
+      "mobileId": 71901,
+      "opposite_word": [
+        "答"
+      ],
+      "phonetic": "とい",
+      "related_words": {
+        "word": [
+          "問い合わせ",
+          "質問",
+          "問題",
+          "問題点",
+          "拷問",
+          "問合せ",
+          "訪問",
+          "疑問",
+          "顧問",
+          "問い合わせる"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "問",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "質問",
+                "問い",
+                "疑問文"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "悩み",
+                "命題",
+                "問い",
+                "宿題",
+                "案件",
+                "題",
+                "問題",
+                "課題",
+                "設問"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "問"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7ec891",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một câu hỏi"
+        }
+      ],
+      "mobileId": 13813,
+      "phonetic": "いちもん",
+      "word": "一問"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e592cef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sắc vấn"
+        }
+      ],
+      "mobileId": 113887,
+      "phonetic": "みことのりとい",
+      "related_words": {
+        "word": [
+          "問"
+        ]
+      },
+      "word": "勅問"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689e8642",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "samurai có dòng dõi"
+        }
+      ],
+      "mobileId": 5029,
+      "phonetic": "たけとい",
+      "related_words": {
+        "word": [
+          "問"
+        ]
+      },
+      "word": "武問"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cb7013",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "investigation (e.g. crime), examination"
+        }
+      ],
+      "mobileId": 279263,
+      "phonetic": "すいもん",
+      "word": "推問"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ba68fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tất cả các câu hỏi (trong sát hạch)"
+        }
+      ],
+      "mobileId": 62034,
+      "phonetic": "ぜんとい",
+      "word": "全問"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db47682",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "past (exam) question collection"
+        }
+      ],
+      "mobileId": 220942,
+      "phonetic": "かこもん",
+      "word": "過去問"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0bbe67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "further questions"
+        }
+      ],
+      "mobileId": 248366,
+      "phonetic": "さらもん",
+      "word": "更問"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7b538b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "whipping, stone placement, and shrimp-tie bondage (three forms of Edo-period torture)"
+        }
+      ],
+      "mobileId": 252002,
+      "phonetic": "ろうもん",
+      "word": "牢問"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777f6996",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "examination, interrogation, questioning"
+        }
+      ],
+      "mobileId": 268586,
+      "phonetic": "きくもん",
+      "word": "鞠問"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

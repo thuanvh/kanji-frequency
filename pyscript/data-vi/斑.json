@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74f805c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "vết đốm; vết lốm đốm ."
+        }
+      ],
+      "mobileId": 101173,
+      "phonetic": "ぶち",
+      "related_words": {
+        "word": [
+          "斑点",
+          "雀斑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "斑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "反則",
+                "不順",
+                "凸凹",
+                "不斉",
+                "変則",
+                "不規則",
+                "不次",
+                "不同",
+                "不正規",
+                "不純",
+                "変調",
+                "変格"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "斑点",
+                "点点",
+                "スポット",
+                "点々"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "斑"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e881f241",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trích máu làm lốm đốm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "seal of blood"
+        }
+      ],
+      "mobileId": 37657,
+      "phonetic": "ちむら",
+      "word": "血斑"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0833edf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "superciliary stripe, supercilium"
+        }
+      ],
+      "mobileId": 285133,
+      "phonetic": "びはん",
+      "word": "眉斑"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01b1170",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bornite, peacock ore"
+        }
+      ],
+      "mobileId": 281823,
+      "phonetic": "はんどうこう",
+      "word": "斑銅鉱"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90f76c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chloasma, liver spot"
+        }
+      ],
+      "mobileId": 273261,
+      "phonetic": "かんぱん しみ",
+      "word": "肝斑"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a972814a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "evenly, equably, in an uniform and orderly fashion"
+        }
+      ],
+      "mobileId": 259964,
+      "phonetic": "むらなく ムラなく",
+      "word": "斑なく"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1dde1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "black speckles, small black spots (like sprinkled sesame)"
+        }
+      ],
+      "mobileId": 224365,
+      "phonetic": "ごまふ",
+      "word": "胡麻斑"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0279342",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phenocryst"
+        }
+      ],
+      "mobileId": 282208,
+      "phonetic": "はんしょう",
+      "word": "斑晶"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85ddaeb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "đốm màu đen"
+        }
+      ],
+      "mobileId": 36510,
+      "phonetic": "くろむら",
+      "related_words": {
+        "word": [
+          "黒",
+          "斑"
+        ]
+      },
+      "word": "黒斑"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e016cf0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "leopard (horse coat pattern)"
+        }
+      ],
+      "mobileId": 248045,
+      "phonetic": "ぶちげ",
+      "word": "斑毛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

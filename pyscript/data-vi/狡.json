@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd20f6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cunning deed, sneaky person"
+        }
+      ],
+      "mobileId": 221914,
+      "phonetic": "ずる",
+      "word": "狡"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9561aba4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chơi khúc côn cầu; việc ra khỏi từ công việc mà không có một tốt suy luận"
+        }
+      ],
+      "mobileId": 59209,
+      "phonetic": "ずるやすみ",
+      "related_words": {
+        "word": [
+          "休み",
+          "休"
+        ]
+      },
+      "word": "狡休み"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95619bf6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "trốn tránh một có những nhiệm vụ; tới nhàn rỗi; để trốn học đi chơi"
+        }
+      ],
+      "mobileId": 59208,
+      "phonetic": "ずるける",
+      "word": "狡ける"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a39e9e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "ranh mãnh; quỷ quyệt; láu cá ."
+        }
+      ],
+      "mobileId": 171320,
+      "phonetic": "ずるがしこい",
+      "word": "狡賢い"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

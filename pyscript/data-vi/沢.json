@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fbaaf85",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "沢の水",
+              "mean": "nước đầm",
+              "transcription": "さわのみず"
+            },
+            {
+              "content": "紅葉でいっぱいの沢",
+              "mean": "Đầm đầy lá đỏ .",
+              "transcription": "こうようでいっぱいのさわ"
+            }
+          ],
+          "kind": "n",
+          "mean": "đầm nước"
+        }
+      ],
+      "mobileId": 187976,
+      "phonetic": "さわ",
+      "related_words": {
+        "word": [
+          "沢山",
+          "贅沢",
+          "光沢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "沢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "谷",
+                "谷間"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "湿地",
+                "沼沢",
+                "渥地",
+                "湿原",
+                "沼",
+                "沼地"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "沢"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1fbef2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "heartleaf hornbeam (Carpinus cordata)"
+        }
+      ],
+      "mobileId": 216127,
+      "phonetic": "さわしば サワシバ",
+      "word": "沢柴"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3298b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cua bể dòng sông"
+        }
+      ],
+      "mobileId": 147338,
+      "phonetic": "",
+      "word": "沢蠏"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca082d1a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "route beside a mountain stream"
+        }
+      ],
+      "mobileId": 285119,
+      "phonetic": "さわすじ",
+      "word": "沢筋"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2eea68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Eastern marsh harrier (Circus spilonotus)"
+        }
+      ],
+      "mobileId": 224922,
+      "phonetic": "ちゅうひ チュウヒ",
+      "word": "沢鵟"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d32c729",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "leo lên đèo; lên hẻm núi"
+        }
+      ],
+      "mobileId": 147343,
+      "phonetic": "さわのぼり",
+      "word": "沢登り"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c772846d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lobelia sessilifolia (species of lobelia)"
+        }
+      ],
+      "mobileId": 265767,
+      "phonetic": "さわぎきょう サワギキョウ",
+      "word": "沢桔梗"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c035de1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slow-paced style of shamisen music with vocal accompaniment (popular during the late Edo period)"
+        }
+      ],
+      "mobileId": 208575,
+      "phonetic": "うたざわ",
+      "word": "うた沢"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef948267d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tea-of-heaven (Hydrangea macrophylla subsp. serrata), mountain hydrangea"
+        }
+      ],
+      "mobileId": 275053,
+      "phonetic": "さわあじさい サワアジサイ",
+      "word": "沢紫陽花"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d56e217",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự vẻ vang và màu (hiếm có)"
+        }
+      ],
+      "mobileId": 148496,
+      "phonetic": "いろさわ",
+      "word": "色沢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

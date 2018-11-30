@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027ddd132",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "kế"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "kế hoạch ."
+        }
+      ],
+      "mobileId": 32890,
+      "phonetic": "けい",
+      "related_words": {
+        "word": [
+          "合計",
+          "集計",
+          "計画",
+          "計算",
+          "時計",
+          "設計",
+          "会計",
+          "累計",
+          "腕時計",
+          "小計"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "計",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "総和",
+                "総計",
+                "通算",
+                "サム",
+                "トータル",
+                "合計"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "計画",
+                "プログラム",
+                "企画",
+                "企劃",
+                "目論見",
+                "企て"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "計"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab7e126",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(underwater) depth gauge"
+        }
+      ],
+      "mobileId": 229287,
+      "phonetic": "すいしんけい",
+      "word": "水深計"
+    },
+    {
+      "_id": "03097fc4fb705e7bf53b2e7edb065ae7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "bản vẽ mặt cắt máy móc, sản phẩm"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "のりけい",
+      "word": "矩計"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3f33c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái đo áp, áp kế"
+        }
+      ],
+      "mobileId": 11815,
+      "phonetic": "あつりょくけい",
+      "related_words": {
+        "word": [
+          "力",
+          "計",
+          "圧力"
+        ]
+      },
+      "word": "圧力計"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568011ea096",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "風速風向計",
+              "mean": "đồng hồ đo tốc độ gió. .",
+              "transcription": "ふうそくふうこうけい"
+            }
+          ],
+          "kind": "n",
+          "mean": "Máy xác định chiều gió"
+        }
+      ],
+      "mobileId": 42253,
+      "phonetic": "ふうこうけい",
+      "word": "風向計"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95aa7086",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái đo liều lượng"
+        }
+      ],
+      "mobileId": 61531,
+      "phonetic": "せんりょうけい",
+      "related_words": {
+        "word": [
+          "量",
+          "計",
+          "線",
+          "線量"
+        ]
+      },
+      "word": "線量計"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954ec4d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tưới nước số đo"
+        }
+      ],
+      "mobileId": 58604,
+      "phonetic": "すいりょうけい",
+      "word": "水量計"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec09427",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái đo lực"
+        }
+      ],
+      "mobileId": 117197,
+      "phonetic": "どうりょくけい",
+      "word": "動力計"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9edd251",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "audiometer, sonometer"
+        }
+      ],
+      "mobileId": 280366,
+      "phonetic": "ちょうりょくけい",
+      "word": "聴力計"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a91e9627",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wattmeter"
+        }
+      ],
+      "mobileId": 257255,
+      "phonetic": "ワットけい",
+      "word": "ワット計"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

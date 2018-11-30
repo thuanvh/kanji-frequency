@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9825609",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "silent person, taciturn person"
+        }
+      ],
+      "mobileId": 276884,
+      "phonetic": "だまりぼう だまりんぼう だんまりぼう",
+      "word": "黙坊"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd54e7bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ngắm yên lặng"
+        }
+      ],
+      "mobileId": 71473,
+      "phonetic": "",
+      "word": "黙思"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd555044",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "bằng lòng, ưng thuận, đồng ý; bằng lòng ngầm, mặc nhận"
+        }
+      ],
+      "mobileId": 71482,
+      "phonetic": "",
+      "word": "黙従"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd560f1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-t, adv-to",
+          "mean": "sự yên lặng; sự yên tĩnh"
+        }
+      ],
+      "mobileId": 71505,
+      "phonetic": "だまねん",
+      "word": "黙念"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

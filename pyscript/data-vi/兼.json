@@ -1,0 +1,143 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8855438",
+      "means": [
+        {
+          "examples": null,
+          "kind": "conj",
+          "mean": "và, cùng, với, nếu dường như, tuồng như là, còn"
+        },
+        {
+          "examples": null,
+          "kind": "conj",
+          "mean": "đồng thời, kiêm"
+        }
+      ],
+      "mobileId": 37762,
+      "phonetic": "けん",
+      "related_words": {
+        "word": [
+          "兼務",
+          "兼用",
+          "兼任",
+          "兼ねる",
+          "兼ね合い",
+          "兼業",
+          "兼ねて",
+          "兼ね備える",
+          "兼職"
+        ]
+      },
+      "word": "兼"
+    },
+    {
+      "_id": "432518852de0a80625d585a9823d6bb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "joint administration"
+        }
+      ],
+      "mobileId": 233565,
+      "phonetic": "けんかつ",
+      "word": "兼轄"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88e5459",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-c",
+          "mean": "kết hợp với"
+        }
+      ],
+      "mobileId": 38044,
+      "phonetic": "けんす",
+      "related_words": {
+        "word": [
+          "兼"
+        ]
+      },
+      "word": "兼す"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e62c114",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Toyotamaphimeia machikanensis (Japanese fossil species of crocodilian)"
+        }
+      ],
+      "mobileId": 251219,
+      "phonetic": "まちかねわに マチカネワニ",
+      "word": "待兼鰐"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd98d0da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phòng dành để tiếp khách và ăn uống chung"
+        }
+      ],
+      "mobileId": 14637,
+      "phonetic": "いまけんしょくどう",
+      "word": "居間兼食堂"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107af27df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phòng khách kiêm phòng ngủ ."
+        }
+      ],
+      "mobileId": 54845,
+      "phonetic": "いまけんしんしつ",
+      "related_words": {
+        "word": [
+          "間",
+          "寝室",
+          "兼",
+          "居間",
+          "室",
+          "居"
+        ]
+      },
+      "word": "居間兼寝室"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568012f145d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thủ tướng kiêm bộ trưởng bộ trưởng bộ ngoại giao"
+        }
+      ],
+      "mobileId": 42551,
+      "phonetic": "しゅしょうけんがいしょう",
+      "word": "首相兼外相"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568012f1882",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thủ tướng kiêm bộ trưởng bộ ngoại giao ."
+        }
+      ],
+      "mobileId": 42552,
+      "phonetic": "しゅしょうけんがいそう",
+      "word": "首相兼外相"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

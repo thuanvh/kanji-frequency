@@ -1,0 +1,122 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1076c7849",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "孝行娘",
+              "mean": "Cô con gái hiếu thảo",
+              "transcription": "こうこうむすめ"
+            },
+            {
+              "content": "孝心の厚い息子",
+              "mean": "Cậu con trai rất hiếu thảo",
+              "transcription": "こうしんのあついむすこ"
+            },
+            {
+              "content": "孝行息子",
+              "mean": "Cậu con trai hiếu thảo",
+              "transcription": "こうこうむすこ"
+            }
+          ],
+          "kind": "n",
+          "mean": "hiếu; sự hiếu thảo"
+        }
+      ],
+      "mobileId": 53708,
+      "phonetic": "こう",
+      "related_words": {
+        "word": [
+          "親孝行",
+          "孝行",
+          "親不孝",
+          "孝子"
+        ]
+      },
+      "word": "孝"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ae088c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(quyển) sách (của) lòng hiếu thảo"
+        }
+      ],
+      "mobileId": 39057,
+      "phonetic": "こうけい",
+      "related_words": {
+        "word": [
+          "孝"
+        ]
+      },
+      "word": "孝経"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1076cabba",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼女の孝敬は人々を感動させた",
+              "mean": "Lòng hiếu thảo của cô ấy khiến mọi người cảm động.",
+              "transcription": "かのじょのこうけいはひとびとをかんどうさせた"
+            },
+            {
+              "content": "孝敬を表す",
+              "mean": "bày tỏ (thể hiện) lòng hiếu thảo .",
+              "transcription": "こうけいをあらわす"
+            }
+          ],
+          "kind": "n",
+          "mean": "Lòng hiếu thảo; sự hiếu kính; hiếu thảo"
+        }
+      ],
+      "mobileId": 53712,
+      "phonetic": "こうけい",
+      "related_words": {
+        "word": [
+          "孝"
+        ]
+      },
+      "word": "孝敬"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1076ce01e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự vâng lời; sự hiếu thuận; lòng hiếu thảo ."
+        }
+      ],
+      "mobileId": 53715,
+      "phonetic": "こうじゅん",
+      "related_words": {
+        "word": [
+          "順",
+          "孝"
+        ]
+      },
+      "word": "孝順"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c3ac2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đạo diễn phim người Đài Loan"
+        }
+      ],
+      "mobileId": 6238,
+      "phonetic": "こうこうけん",
+      "word": "候孝賢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

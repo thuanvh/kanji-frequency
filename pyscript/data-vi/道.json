@@ -1,0 +1,324 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa785a813",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con đường; con phố"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đạo"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường đi"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lĩnh vực"
+        },
+        {
+          "examples": [
+            {
+              "content": "会社を辞めてからの生活の道を考えているのか。",
+              "mean": "Anh đã nghĩ đến cách nào để sống sau khi thôi việc ở công ty chưa?",
+              "transcription": "かいしゃをやめてからのせいかつのみちをかんがえているのか。"
+            }
+          ],
+          "kind": "n",
+          "mean": "phương tiện; cách thức"
+        }
+      ],
+      "mobileId": 108946,
+      "phonetic": "みち",
+      "related_words": {
+        "word": [
+          "北海道",
+          "道具",
+          "高速道路",
+          "片道",
+          "武士道",
+          "道路",
+          "鉄道",
+          "水道",
+          "尿道",
+          "書道"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "道",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "仕口",
+                "道筋",
+                "仕様",
+                "経路",
+                "方途",
+                "途方"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ルート",
+                "街道",
+                "通り",
+                "小道",
+                "道路",
+                "経路",
+                "ライン",
+                "街路",
+                "ロード"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "径路",
+                "ルート",
+                "経路",
+                "ライン",
+                "回線"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "径路",
+                "ルート",
+                "水路",
+                "通り道",
+                "軌跡",
+                "道筋",
+                "進路",
+                "通路",
+                "経路",
+                "軌道",
+                "路線",
+                "コース"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "旅程"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "径路",
+                "ルート",
+                "道のり",
+                "通り道",
+                "道筋",
+                "パス",
+                "進路",
+                "通路",
+                "足跡",
+                "道路",
+                "旅程",
+                "経路",
+                "軌道",
+                "路線",
+                "ライン",
+                "旅路",
+                "針路",
+                "ロード",
+                "コース"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "道"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e24fbae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "trackless path"
+        }
+      ],
+      "mobileId": 249213,
+      "phonetic": "みちなきみち",
+      "word": "道なき道"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa38cb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "upper respiratory tract, upper airway"
+        }
+      ],
+      "mobileId": 228629,
+      "phonetic": "じょうきどう",
+      "word": "上気道"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3975a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đường hẹp giữa các thửa ruộng"
+        }
+      ],
+      "mobileId": 11628,
+      "phonetic": "ほとりどう",
+      "related_words": {
+        "word": [
+          "道"
+        ]
+      },
+      "word": "畔道"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1fc532",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "homosexuality, pederasty"
+        }
+      ],
+      "mobileId": 224418,
+      "phonetic": "にゃくどう じゃくどう",
+      "word": "若道"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c8d900",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phương pháp vẽ tranh; nghệ thuật hội họa; tinh thần hội họa"
+        }
+      ],
+      "mobileId": 24275,
+      "phonetic": "がどう",
+      "related_words": {
+        "word": [
+          "道",
+          "画"
+        ]
+      },
+      "word": "画道"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e8eda8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghệ thuật chơi cờ shogi hay cờ go, kỳ đạo"
+        }
+      ],
+      "mobileId": 25293,
+      "phonetic": "",
+      "word": "棋道"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107b875b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường đèo ."
+        }
+      ],
+      "mobileId": 54979,
+      "phonetic": "とうげみち",
+      "related_words": {
+        "word": [
+          "道",
+          "峠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "峠道",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "山道",
+                "峠",
+                "切り通し"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "峠道"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951350fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rải sỏi đường (dẫn) hoặc con đường"
+        }
+      ],
+      "mobileId": 56729,
+      "phonetic": "じゃりどう",
+      "word": "砂利道"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954c907f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường hầm, hang, ống, đường hầm nằm ngang, đào đường hầm xuyên qua, đi qua bằng đường hầm"
+        }
+      ],
+      "mobileId": 58535,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "道"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "隧道",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "トンネル",
+                "坑道"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "隧道"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

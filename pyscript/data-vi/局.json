@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107ac3074",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（中国）国家海洋局",
+              "mean": "cục hải dương quốc gia (Trung Quốc)",
+              "transcription": "（ちゅうごく）こっかかいようきょく"
+            },
+            {
+              "content": "自動交換（局）",
+              "mean": "cục trao đổi tự động",
+              "transcription": "じどうこうかん（つぼね）"
+            },
+            {
+              "content": "連邦捜査局(FBI)のインターネット監視システム",
+              "mean": "hệ thống quản lý Internet của cục điều tra liên bang (FBI)",
+              "transcription": "れんぽうそうさきょく( FBI )のインターネットかんしシステム"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "cục (quản lý); đơn vị; ty"
+        }
+      ],
+      "mobileId": 54818,
+      "phonetic": "きょく",
+      "related_words": {
+        "word": [
+          "郵便局",
+          "事務局",
+          "結局",
+          "事務局長",
+          "放送局",
+          "薬局",
+          "市外局番",
+          "入国管理局",
+          "局長",
+          "局面"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "局",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "学部",
+                "部門",
+                "部",
+                "課",
+                "セクション"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "庁",
+                "機関",
+                "公社",
+                "役所"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "局"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027216113",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Cục thống kê ."
+        }
+      ],
+      "mobileId": 29636,
+      "phonetic": "とうけいきょく",
+      "word": "統計局"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cc5e13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "văn phòng những quan hệ chung"
+        }
+      ],
+      "mobileId": 62624,
+      "phonetic": "そうむきょく",
+      "word": "総務局"
+    },
+    {
+      "_id": "432518852de0a80625d585a982d96503",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "data station"
+        }
+      ],
+      "mobileId": 238597,
+      "phonetic": "データきょく",
+      "word": "データ局"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f745aa0b3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "国家統計・地理・情報局",
+              "mean": "cơ quan thống kê, địa lý và thông tin quốc gia",
+              "transcription": "こっかとうけい・ちり・じょうほうきょく"
+            },
+            {
+              "content": "気象情報局",
+              "mean": "cơ quan thông tin khí tượng",
+              "transcription": "きしょうじょうほうきょく"
+            },
+            {
+              "content": "中央情報局長官",
+              "mean": "Cục trưởng Cục thông tin trung ương",
+              "transcription": "ちゅうおうじょうほうきょくちょうかん"
+            },
+            {
+              "content": "我々は情報局から説得力のある情報を得た",
+              "mean": "chúng tôi đã nhận được những thông tin đầy thuyết phục từ cơ quan thông tin .",
+              "transcription": "われわれはじょうほうきょくからせっとくりょくのあるじょうほうをえた"
+            }
+          ],
+          "kind": null,
+          "mean": "Cục Thông tin"
+        }
+      ],
+      "mobileId": 98788,
+      "phonetic": "じょうほうきょく",
+      "word": "情報局"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7fc9aba",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "地方電話局",
+              "mean": "trạm điện thoại địa phương",
+              "transcription": "ちほうでんわきょく"
+            },
+            {
+              "content": "電報電話局",
+              "mean": "trạm điện thoại điện tín .",
+              "transcription": "でんぽうでんわきょく"
+            }
+          ],
+          "kind": "n",
+          "mean": "công ty điện thoại"
+        }
+      ],
+      "mobileId": 110964,
+      "phonetic": "でんわきょく",
+      "related_words": {
+        "word": [
+          "話",
+          "電話",
+          "局"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "電話局",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "交換局",
+                "中央"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "電話局"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b994d71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "earth station (for a satellite)"
+        }
+      ],
+      "mobileId": 244734,
+      "phonetic": "ちきゅうきょく",
+      "word": "地球局"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b48b023",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "monitor"
+        }
+      ],
+      "mobileId": 242172,
+      "phonetic": "かんしきょく",
+      "word": "監視局"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b543bcc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "SMT, Station Management"
+        }
+      ],
+      "mobileId": 242524,
+      "phonetic": "きょくかんり",
+      "word": "局管理"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dcbb0b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "văn phòng, nhân viên của một Tổng thư ký, văn phòng của một Tổng thư ký, nhân viên của một Bộ trưởng chính phủ; văn phòng của một Bộ trưởng chính phủ, phòng bí thư, ban bí thư; chức bí thư"
+        }
+      ],
+      "mobileId": 152220,
+      "phonetic": "しょききょく",
+      "word": "書記局"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

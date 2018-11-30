@@ -1,0 +1,335 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f747eb01a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "その病気はアジアとアフリカの所々で蔓延している",
+              "mean": "Căn bệnh đó lây lan sang khắp mọi nơi ở Châu Á và Châu Phi",
+              "transcription": "そのびょうきはアジアとアフリカのところどころでまんえんしている"
+            },
+            {
+              "content": "火曜日は所々に雲のある良く晴れた日となるでしょう",
+              "mean": "Thứ 3 có lẽ nắng đẹp rải rác vài gợn mây. .",
+              "transcription": "かようびはところどころにくものあるよくはれたひとなるでしょう"
+            }
+          ],
+          "kind": "n, suf",
+          "mean": "nơi; chỗ"
+        }
+      ],
+      "mobileId": 99296,
+      "phonetic": "ところ",
+      "related_words": {
+        "word": [
+          "住所",
+          "所属",
+          "場所",
+          "事務所",
+          "事業所",
+          "市役所",
+          "長所",
+          "所在地",
+          "現住所",
+          "研究所"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "所",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "現場",
+                "舞台",
+                "一齣",
+                "カット",
+                "景色",
+                "一駒",
+                "場",
+                "場面",
+                "シーン",
+                "情景",
+                "面影",
+                "風景",
+                "光景"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "個所",
+                "スポット",
+                "場",
+                "場所",
+                "地点",
+                "箇所"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ポジション",
+                "場所",
+                "位置"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ポイント",
+                "地",
+                "個所",
+                "スポット",
+                "場",
+                "場所",
+                "点",
+                "地点",
+                "箇所"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "場",
+                "場所",
+                "ロケーション",
+                "地点",
+                "位置"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ポジション",
+                "場",
+                "在所",
+                "場所",
+                "所在",
+                "置き場",
+                "位置"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "居所",
+                "所在地",
+                "居住地",
+                "アドレス",
+                "住所",
+                "アド"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "所"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6898e9ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thẩm phán có văn phòng"
+        }
+      ],
+      "mobileId": 4848,
+      "phonetic": "ぶぎょうしょ",
+      "word": "奉行所"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027bd79e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xưởng chế tạo"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xưởng sản xuất ."
+        }
+      ],
+      "mobileId": 32413,
+      "phonetic": "せいさくしょ",
+      "word": "製作所"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802704de4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà máy lọc; nhà máy tinh chế ."
+        }
+      ],
+      "mobileId": 29160,
+      "phonetic": "せいれんしょ",
+      "related_words": {
+        "word": [
+          "所",
+          "精",
+          "精錬"
+        ]
+      },
+      "word": "精錬所"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933802c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ đếm lá phiếu (gói hàng)"
+        }
+      ],
+      "mobileId": 19717,
+      "phonetic": "かいひょうしょ",
+      "word": "開票所"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd99743",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nơi được bảo vệ hoặc lính canh giữ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "torpedo room"
+        }
+      ],
+      "mobileId": 16650,
+      "phonetic": "まもるしょ",
+      "related_words": {
+        "word": [
+          "所"
+        ]
+      },
+      "word": "衛所"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd9a680",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trại lính; doanh trại"
+        }
+      ],
+      "mobileId": 16651,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "所"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "営所",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "キャンプ",
+                "屯",
+                "幕営",
+                "露営",
+                "軍営",
+                "軍陣",
+                "陣営"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "営所"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193188e34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm quan tâm lối đi"
+        }
+      ],
+      "mobileId": 18704,
+      "phonetic": "おもしろいところ",
+      "word": "面白い所"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193d4078b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phòng phục trang"
+        }
+      ],
+      "mobileId": 24617,
+      "phonetic": "きがえしょ",
+      "related_words": {
+        "word": [
+          "着",
+          "所",
+          "着替え"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "着替え所",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドレッシングルーム",
+                "楽屋",
+                "脱衣所",
+                "更衣室",
+                "試着室",
+                "化粧室",
+                "化粧部屋",
+                "脱衣場"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "着替え所"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd65dd12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nơi chọn lọc giống (thực vật và động vật)"
+        }
+      ],
+      "mobileId": 13050,
+      "phonetic": "いくしゅしょ",
+      "related_words": {
+        "word": [
+          "種",
+          "所",
+          "育種"
+        ]
+      },
+      "word": "育種所"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

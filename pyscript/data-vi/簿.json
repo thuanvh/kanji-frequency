@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1078d2088",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "詳しく家計簿をつける",
+              "mean": "ghi chép rõ ràng sổ kế toán gia đình .",
+              "transcription": "くわしくかけいぼをつける"
+            }
+          ],
+          "kind": "n",
+          "mean": "sổ kế toán gia đình"
+        }
+      ],
+      "mobileId": 54229,
+      "phonetic": "かけいぼ",
+      "related_words": {
+        "word": [
+          "家",
+          "計",
+          "家計"
+        ]
+      },
+      "word": "家計簿"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5f822f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "báo cáo thẻ ((quyển) sách)"
+        }
+      ],
+      "mobileId": 114095,
+      "phonetic": "つうちぼ",
+      "word": "通知簿"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ec25a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thiếu (không bao gồm trong một bản thanh toán, bản kiểm điểm ), không được giải thích"
+        }
+      ],
+      "mobileId": 7520,
+      "phonetic": "ぼがい",
+      "word": "簿外"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954c764a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cashbook"
+        }
+      ],
+      "mobileId": 58532,
+      "phonetic": "すいとうぼ",
+      "related_words": {
+        "word": [
+          "出納"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "出納簿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "原簿",
+                "台帳",
+                "帳簿",
+                "元帳"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "帳面",
+                "原簿",
+                "台帳",
+                "帳簿",
+                "元帳"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "出納簿"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa76f6e97",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "両親はアンの通信簿を見て、彼女をこっぴどくしかった",
+              "mean": "Khi bố mẹ Ann xem phiếu liên lạc của cô ấy, họ đã thực sự tức giận. .",
+              "transcription": "りょうしんはアンのつうしんぼをみて、かのじょをこっぴどくしかった"
+            }
+          ],
+          "kind": "n",
+          "mean": "phiếu liên lạc (giữa nhà trường và gia đình học sinh)"
+        }
+      ],
+      "mobileId": 108576,
+      "phonetic": "つうしんぼ",
+      "word": "通信簿"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03abf12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "public record, public register, official records"
+        }
+      ],
+      "mobileId": 282855,
+      "phonetic": "こうぼ",
+      "word": "公簿"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0daa4f07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bảng điểm danh"
+        }
+      ],
+      "mobileId": 151129,
+      "phonetic": "しゅっせきぼ",
+      "related_words": {
+        "word": [
+          "出席",
+          "席"
+        ]
+      },
+      "word": "出席簿"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4804a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "account book"
+        }
+      ],
+      "mobileId": 217395,
+      "phonetic": "かいけいぼ",
+      "word": "会計簿"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c3bea7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giáo dục sổ đăng ký"
+        }
+      ],
+      "mobileId": 24120,
+      "phonetic": "がくせきぼ",
+      "word": "学籍簿"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa76f7082",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cột bạn đọc ."
+        }
+      ],
+      "mobileId": 108577,
+      "phonetic": "つうしんらん",
+      "word": "通信簿"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

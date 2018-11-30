@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ae796ce",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "窓から手や顔を出さないで下さい.",
+              "mean": "Bạn không được thò tay và đầu ra cửa sổ đâu đấy",
+              "transcription": "まどからてやかおをださないでください."
+            },
+            {
+              "content": "1枚の板ガラスでできた窓",
+              "mean": "Cửa sổ một cánh làm bằng kính. .",
+              "transcription": "1まいのいたがらすでできたまど"
+            }
+          ],
+          "kind": "n",
+          "mean": "cửa sổ"
+        }
+      ],
+      "mobileId": 174121,
+      "phonetic": "まど",
+      "related_words": {
+        "word": [
+          "窓口",
+          "同窓会",
+          "窓枠",
+          "天窓",
+          "窓辺",
+          "窓際",
+          "車窓",
+          "出窓",
+          "同窓生",
+          "同窓"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "窓",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウィンドウ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウィンドウ",
+                "車窓"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "窓"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02b81e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viewing through a window, passing through a window, going through a window, doing through a window"
+        }
+      ],
+      "mobileId": 208250,
+      "phonetic": "まどごし",
+      "word": "窓越し"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0851b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cửa sổ tròn"
+        }
+      ],
+      "mobileId": 69055,
+      "phonetic": "えんまど",
+      "related_words": {
+        "word": [
+          "円",
+          "窓"
+        ]
+      },
+      "word": "円窓"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be3ff3b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "<KTRúC> cửa kính ở ban công"
+        }
+      ],
+      "mobileId": 91327,
+      "phonetic": "フランスまど",
+      "word": "フランス窓"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ae9f2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "song sắt (nhà tù) ."
+        }
+      ],
+      "mobileId": 109666,
+      "phonetic": "てっそう",
+      "word": "鉄窓"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a948b076",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small window, fenestella, scuttle (type of hatch on a ship)"
+        }
+      ],
+      "mobileId": 258616,
+      "phonetic": "こまど",
+      "word": "小窓"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193366426",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa sổ quay"
+        }
+      ],
+      "mobileId": 19659,
+      "phonetic": "かいてんまど",
+      "word": "回転窓"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06a6292",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pier"
+        }
+      ],
+      "mobileId": 284369,
+      "phonetic": "そうかんへき",
+      "word": "窓間壁"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd023b11",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "windowpane"
+        }
+      ],
+      "mobileId": 68862,
+      "phonetic": "まどガラス",
+      "word": "窓ガラス"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d023058",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "high window, clerestory window"
+        }
+      ],
+      "mobileId": 215185,
+      "phonetic": "たかまど",
+      "word": "高窓"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

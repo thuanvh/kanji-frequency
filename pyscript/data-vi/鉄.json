@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ac0621",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sắt thép"
+        },
+        {
+          "examples": [
+            {
+              "content": "鉄のカーテン",
+              "mean": "rèm sắt",
+              "transcription": "てつのカーテン"
+            },
+            {
+              "content": "鉄の意志",
+              "mean": "một ý chí sắt đá .",
+              "transcription": "てつのいし"
+            }
+          ],
+          "kind": "n",
+          "mean": "sắt; thép"
+        }
+      ],
+      "mobileId": 109620,
+      "phonetic": "てつ",
+      "related_words": {
+        "word": [
+          "地下鉄",
+          "鉄道",
+          "鉄筋",
+          "鉄板",
+          "鉄鋼",
+          "鋼鉄",
+          "鉄鉱石",
+          "鉄骨",
+          "鉄筋コンクリート",
+          "鉄板焼き"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鉄",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "アイロン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鉄"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2c9925",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mạ điện bằng sắt"
+        }
+      ],
+      "mobileId": 11214,
+      "phonetic": "あえんてつ",
+      "word": "亜鉛鉄"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3d9f76",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "boiled fugu dish (served with ponzu dipping sauce)"
+        }
+      ],
+      "mobileId": 225389,
+      "phonetic": "てっちり",
+      "word": "鉄ちり"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01c7b53",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ferberite"
+        }
+      ],
+      "mobileId": 281865,
+      "phonetic": "てつじゅうせき",
+      "word": "鉄重石"
+    },
+    {
+      "_id": "432518852de0a80625d585a982196088",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "carpenter's square"
+        }
+      ],
+      "mobileId": 232438,
+      "phonetic": "てつじゃく",
+      "word": "鉄尺"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c681aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "meteoric iron"
+        }
+      ],
+      "mobileId": 213246,
+      "phonetic": "いんてつ",
+      "word": "隕鉄"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ac77c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái chao bằng sắt ."
+        }
+      ],
+      "mobileId": 109629,
+      "phonetic": "てっさん",
+      "word": "鉄傘"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ae2d04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đàn chuông ."
+        }
+      ],
+      "mobileId": 109659,
+      "phonetic": "てっきん",
+      "related_words": {
+        "word": [
+          "鉄",
+          "琴"
+        ]
+      },
+      "word": "鉄琴"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93361ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trainspotter, railway enthusiast, railfan"
+        }
+      ],
+      "mobileId": 274411,
+      "phonetic": "てっちゃん",
+      "word": "鉄ちゃん"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98cad8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "iron hydroxide, ferrous hydroxide, ferric hydroxide"
+        }
+      ],
+      "mobileId": 277218,
+      "phonetic": "すいさんかてつ",
+      "word": "水酸化鉄"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

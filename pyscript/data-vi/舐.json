@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900eeef863",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "liếm"
+        }
+      ],
+      "mobileId": 118649,
+      "phonetic": "ねぶぶる",
+      "synsets": [
+        {
+          "base_form": "舐ぶる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "嘗める",
+                "舐る",
+                "舐めずる",
+                "舐める"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "舐ぶる"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776f997d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snow remaining in the form of a mist after it has melted"
+        }
+      ],
+      "mobileId": 268063,
+      "phonetic": "ゆきねぶり",
+      "word": "雪舐"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a9cbd6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "nịnh hót ai bằng cách mút mủ từ mụt nhọt và liếm trĩ của người đó (!!!)"
+        }
+      ],
+      "mobileId": 61509,
+      "phonetic": "",
+      "word": "吮癰舐痔"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

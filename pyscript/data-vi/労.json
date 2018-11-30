@@ -1,0 +1,240 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada4ff460",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この新しい税法のおかげで、労せずしてもうけて笑いが止まらない",
+              "mean": "Tôi cười suốt bởi vì nhờ có luật về thuế mới này mà ngay cả khi tôi không làm việc vẫn có thể sống được .",
+              "transcription": "このあたらしいぜいほうのおかげで、ろうせずしてもうけてわらいがとまらない"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự lao động; sự khó nhọc"
+        }
+      ],
+      "mobileId": 78312,
+      "opposite_word": [
+        "資"
+      ],
+      "phonetic": "ろう",
+      "related_words": {
+        "word": [
+          "疲労",
+          "労働者",
+          "過労死",
+          "苦労",
+          "労働時間",
+          "労働",
+          "労働組合",
+          "労働災害",
+          "労働力",
+          "労務"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "労",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "尽力",
+                "苦労",
+                "労力",
+                "労苦",
+                "骨折",
+                "努力",
+                "骨折り"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "労"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0310ba3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pain, trouble"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "illness"
+        }
+      ],
+      "mobileId": 208423,
+      "phonetic": "いたずき いたつき いたづき",
+      "word": "労き"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c003b3ce",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v5r, vt",
+          "mean": "thương hại, thông cảm với,  thông cảm với,đối xử với sự thông cảm, bàn giao tiếp, được loại, đánh giá cao"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "chăm sóc, nuôi dưỡng, làm dịu"
+        }
+      ],
+      "mobileId": 189248,
+      "phonetic": "いたわる",
+      "related_words": {
+        "word": [
+          "労"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "労る",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "宥める",
+                "慰む",
+                "慰める"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "労る"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdef6f19",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tài liệu nỗ lực; làm việc cực nhọc; làm việc"
+        }
+      ],
+      "mobileId": 76393,
+      "phonetic": "ろうどう",
+      "related_words": {
+        "word": [
+          "動",
+          "労"
+        ]
+      },
+      "word": "労動"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef910e11b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "frail and cute (esp. of young women), adorable, lovely"
+        }
+      ],
+      "mobileId": 273310,
+      "phonetic": "ろうたし",
+      "word": "労たし"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cded57af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xứng đáng chứng nhượng"
+        }
+      ],
+      "mobileId": 76325,
+      "phonetic": "ろうこう",
+      "related_words": {
+        "word": [
+          "労"
+        ]
+      },
+      "word": "労功"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec0d9dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm việc cùng nhau"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "National Railway Motive Power Union"
+        }
+      ],
+      "mobileId": 117205,
+      "phonetic": "どうろう",
+      "related_words": {
+        "word": [
+          "同",
+          "労"
+        ]
+      },
+      "word": "同労"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c035d2a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "tired out"
+        }
+      ],
+      "mobileId": 208573,
+      "phonetic": "ろうろう",
+      "word": "労々"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdec5b44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lao động nhà tù cắm trại"
+        }
+      ],
+      "mobileId": 76298,
+      "phonetic": "ろうやくば",
+      "related_words": {
+        "word": [
+          "場",
+          "役",
+          "役場",
+          "労"
+        ]
+      },
+      "word": "労役場"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74bd97ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cống ."
+        }
+      ],
+      "mobileId": 100257,
+      "phonetic": "はいすいろう",
+      "word": "排水労"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

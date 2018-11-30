@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280275c8144",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "薬の能書く",
+              "mean": "giới thiệu công dụng của thuốc",
+              "transcription": "くすりののうかく"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "hiệu lực; hiệu quả"
+        },
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "kịch nô"
+        },
+        {
+          "examples": [
+            {
+              "content": "能がない",
+              "mean": "không có năng lực .",
+              "transcription": "のうがない"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "năng lực; tài năng; bản lĩnh"
+        }
+      ],
+      "mobileId": 30636,
+      "phonetic": "のう",
+      "related_words": {
+        "word": [
+          "可能",
+          "機能",
+          "可能性",
+          "能力",
+          "芸能人",
+          "性能",
+          "不可能",
+          "使用可能",
+          "可能な",
+          "才能"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "能",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "力量",
+                "力",
+                "アビリティー",
+                "力倆",
+                "能力"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "才能",
+                "英気",
+                "器量",
+                "技術",
+                "伎倆",
+                "才腕",
+                "能力",
+                "技量",
+                "実力",
+                "スキル",
+                "腕",
+                "甲斐性"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "力量",
+                "器量",
+                "キャパシティ",
+                "キャパシティー",
+                "能力",
+                "実力"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "力量",
+                "才能",
+                "キャパシティ",
+                "ケーパビリティ",
+                "手腕",
+                "才幹",
+                "素質",
+                "キャパシティー",
+                "アビリティー",
+                "才腕",
+                "能力",
+                "腕前",
+                "才力"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "能"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280275d49a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tài hùng biện"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "có tài hùng biện ."
+        }
+      ],
+      "mobileId": 30660,
+      "phonetic": "のうべん",
+      "related_words": {
+        "word": [
+          "能"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "能辯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "能弁",
+                "雄弁",
+                "弁才",
+                "口弁"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "能辯"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821caa12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "noh"
+        }
+      ],
+      "mobileId": 232536,
+      "phonetic": "さるがくのう",
+      "word": "猿楽能"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde0cde3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bài hát tôn giáo của người mỹ da đen ability"
+        }
+      ],
+      "mobileId": 75940,
+      "phonetic": "れいのう",
+      "related_words": {
+        "word": [
+          "霊",
+          "能"
+        ]
+      },
+      "word": "霊能"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280275d434a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sàn diễn kịch Noh ."
+        }
+      ],
+      "mobileId": 30658,
+      "phonetic": "のうぶたい",
+      "related_words": {
+        "word": [
+          "台",
+          "舞",
+          "舞台",
+          "能"
+        ]
+      },
+      "word": "能舞台"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280275d44d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Trang phục kịch Noh ."
+        }
+      ],
+      "mobileId": 30659,
+      "phonetic": "のうしょうぞく",
+      "word": "能装束"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef14805",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vở kịch kabuki trình diễn mô phỏng giống như trong kịch Noh"
+        }
+      ],
+      "mobileId": 118725,
+      "phonetic": "のうかかり",
+      "word": "能掛かり"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c507b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cell potency, differentiation potency"
+        }
+      ],
+      "mobileId": 279053,
+      "phonetic": "ぶんかのう",
+      "word": "分化能"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdfbe37f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mảnh phụ trong noh chơi"
+        }
+      ],
+      "mobileId": 76787,
+      "phonetic": "わきのう",
+      "word": "脇能"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e408450",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the active, active voice"
+        }
+      ],
+      "mobileId": 250098,
+      "phonetic": "のうそう",
+      "word": "能相"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

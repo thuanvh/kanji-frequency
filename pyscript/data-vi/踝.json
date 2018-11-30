@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa73edac9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "私はフットボールの試合中に踝を痛めてしまった",
+              "mean": "mắt cá chân bị đau trong trận đấu bóng đá",
+              "transcription": "わたしはフットボールのしあいちゅうにくるぶしをいためてしまった"
+            },
+            {
+              "content": "くるぶしの保護",
+              "mean": "bảo vệ mắt cá chân",
+              "transcription": "くるぶしのほご"
+            },
+            {
+              "content": "くるぶしの高さ",
+              "mean": "độ cao của mắt cá chân",
+              "transcription": "くるぶしのたかさ"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "mắt cá chân"
+        }
+      ],
+      "mobileId": 107704,
+      "phonetic": "くるぶし",
+      "word": "踝"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdbaaf21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bên trong ủng hộ (của) mắt cá chân"
+        }
+      ],
+      "mobileId": 15707,
+      "phonetic": "うちくるぶし",
+      "related_words": {
+        "word": [
+          "踝"
+        ]
+      },
+      "word": "内踝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

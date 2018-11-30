@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aae96eb",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Phần thịt ngay sau răng hàm"
+        }
+      ],
+      "mobileId": 228977,
+      "phonetic": "こうきん",
+      "word": "咬筋"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e379422",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lockjaw, trismus"
+        }
+      ],
+      "mobileId": 249806,
+      "phonetic": "こうけい",
+      "word": "咬痙"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b9f007",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "masticating surface, occlusal surface"
+        }
+      ],
+      "mobileId": 270482,
+      "phonetic": "こうごうめん",
+      "word": "咬合面"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687d2aa1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "malocclusion"
+        }
+      ],
+      "mobileId": 3980,
+      "phonetic": "",
+      "word": "不正咬合"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

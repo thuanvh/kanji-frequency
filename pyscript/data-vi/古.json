@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd946044",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngày xưa, thời xưa, trước đây, quá khứ"
+        }
+      ],
+      "mobileId": 14504,
+      "opposite_word": [
+        "今"
+      ],
+      "phonetic": "ふる",
+      "related_words": {
+        "word": [
+          "中古",
+          "古い",
+          "中古車",
+          "中古品",
+          "古代",
+          "最古",
+          "古着",
+          "古典",
+          "稽古",
+          "考古学者"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "古",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "旧故",
+                "上世",
+                "前世",
+                "古雅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "過去",
+                "昔",
+                "往時",
+                "往日",
+                "前",
+                "旧時",
+                "来し方",
+                "往昔"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "古"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6892f6bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những tờ báo cũ (già)"
+        }
+      ],
+      "mobileId": 4662,
+      "phonetic": "ふるしんぶん",
+      "related_words": {
+        "word": [
+          "新",
+          "新聞",
+          "古"
+        ]
+      },
+      "word": "古新聞"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6892f715",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sử dụng ô tô"
+        }
+      ],
+      "mobileId": 4663,
+      "phonetic": "こじどうしゃ",
+      "related_words": {
+        "word": [
+          "車",
+          "自動車",
+          "古",
+          "動"
+        ]
+      },
+      "word": "古自動車"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a798471",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "paleocortex (palaeocortex), paleopallium"
+        }
+      ],
+      "mobileId": 227272,
+      "phonetic": "こひしつ",
+      "word": "古皮質"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a487eb3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "from long ago up until the present day"
+        }
+      ],
+      "mobileId": 225740,
+      "phonetic": "こうこ",
+      "word": "亙古"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0547cdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional (folk) song"
+        }
+      ],
+      "mobileId": 283670,
+      "phonetic": "こよう",
+      "word": "古謡"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ceaddf",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Bài hát cổ, bài hát của người xưa truyền lại."
+        }
+      ],
+      "mobileId": 40116,
+      "phonetic": "こうた",
+      "related_words": {
+        "word": [
+          "歌",
+          "古"
+        ]
+      },
+      "word": "古歌"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ea2d1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "truyền thống cũ (già)"
+        }
+      ],
+      "mobileId": 41018,
+      "phonetic": "こでんせつ",
+      "related_words": {
+        "word": [
+          "伝説",
+          "古",
+          "伝",
+          "説"
+        ]
+      },
+      "word": "古伝説"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f62c4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(từ thời xưa) đồ vật từ nước ngoài du nhập vào"
+        }
+      ],
+      "mobileId": 41389,
+      "phonetic": "こわたり",
+      "related_words": {
+        "word": [
+          "古",
+          "渡り"
+        ]
+      },
+      "word": "古渡り"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adaaabe28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngôi miếu cổ ."
+        }
+      ],
+      "mobileId": 79688,
+      "phonetic": "こびょう",
+      "related_words": {
+        "word": [
+          "古"
+        ]
+      },
+      "word": "古廟"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

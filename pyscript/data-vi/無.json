@@ -1,0 +1,205 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd294908",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không gì; không gì cả; không; zêrô"
+        }
+      ],
+      "mobileId": 70120,
+      "opposite_word": [
+        "有"
+      ],
+      "phonetic": "む",
+      "related_words": {
+        "word": [
+          "無し",
+          "無効",
+          "無限",
+          "無理",
+          "無駄",
+          "無視",
+          "有無",
+          "無題",
+          "無線",
+          "無視する"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "無",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ナッシング",
+                "零"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "虚無"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "無"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd396c4e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "liều lĩnh, liều mạng"
+        }
+      ],
+      "mobileId": 70619,
+      "phonetic": "むにむさん",
+      "related_words": {
+        "word": [
+          "無",
+          "三",
+          "二"
+        ]
+      },
+      "word": "無二無三"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6cfab1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "shameless"
+        }
+      ],
+      "mobileId": 226870,
+      "phonetic": "むぎ むき",
+      "word": "無愧"
+    },
+    {
+      "_id": "432518852de0a80625d585a98267e785",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nonexistence or existence, absence or presence"
+        }
+      ],
+      "mobileId": 234917,
+      "phonetic": "むう",
+      "related_words": {
+        "word": [
+          "無",
+          "有"
+        ]
+      },
+      "word": "無有"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820d6369",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(in China) 11th note of the ancient chromatic scale (approx. C)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ninth month of the lunar calendar"
+        }
+      ],
+      "mobileId": 232071,
+      "phonetic": "ぶえき むえき",
+      "word": "無射"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd294ef8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không có cú đánh nào"
+        }
+      ],
+      "mobileId": 70121,
+      "phonetic": "むあんだ",
+      "word": "無安打"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd2dd94b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không đánh dấu;  không làm dấu, không ký tên, không ra hiệu, không làm hiệu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không vào sổ, không đăng ký"
+        }
+      ],
+      "mobileId": 70263,
+      "opposite_word": [
+        "記名"
+      ],
+      "phonetic": "むきめい",
+      "word": "無記名"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd2e2a87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "không có pháp luật, không hợp pháp, lộn xộn, vô trật tự, hỗn loạn"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "không được điều chỉnh, không được sắp đặt, không được chỉnh đốn, không được điều hoà"
+        }
+      ],
+      "mobileId": 70272,
+      "phonetic": "むきりつ",
+      "word": "無規律"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd2f658a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(trạng thái (của)) tính trạng vô chính phủ"
+        }
+      ],
+      "mobileId": 70311,
+      "phonetic": "むけいさつ",
+      "word": "無警察"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd2f78de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mà không mất tích (một ngày (của)) làm việc"
+        }
+      ],
+      "mobileId": 70315,
+      "phonetic": "むけっきん",
+      "word": "無欠勤"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

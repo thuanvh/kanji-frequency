@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682232db",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Thanh dầm"
+        }
+      ],
+      "mobileId": 1088,
+      "phonetic": "はり",
+      "word": "梁"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e30bd5d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "大梁と小梁の接合構造",
+              "mean": "Cấu trúc chung của kèo chính và kèo phụ",
+              "transcription": "おおばりとこばりのせつごうこうぞう"
+            }
+          ],
+          "kind": "",
+          "mean": "kèo phụ (trong bản vẽ kỹ thuật xây dựng)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "こばり",
+      "word": "小梁"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e30aa53",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "大梁と小梁の接合構造",
+              "mean": "Cấu trúc chung của kèo chính và kèo phụ",
+              "transcription": "おおはりとこはりのせつごうこうぞう"
+            }
+          ],
+          "kind": "",
+          "mean": "kèo chính (trong bảng vẽ kỹ  thuật xây dựng)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "おお ばり",
+      "word": "大梁"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e3a0c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "height of a beam, beam as measured from top to bottom"
+        }
+      ],
+      "mobileId": 271849,
+      "phonetic": "はりせい",
+      "word": "梁成"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77776d31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "arched beam used in shrine and temple construction"
+        }
+      ],
+      "mobileId": 268318,
+      "phonetic": "こうりょう",
+      "word": "虹梁"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a799816",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "corpus callosum"
+        }
+      ],
+      "mobileId": 227275,
+      "phonetic": "のうりょう",
+      "word": "脳梁"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7ab95a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Later Liang Dynasty (of China)"
+        }
+      ],
+      "mobileId": 251984,
+      "phonetic": "こうりょう ごりょう",
+      "word": "後梁"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4f867d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "horizontal beam, stringpiece, trave"
+        }
+      ],
+      "mobileId": 217632,
+      "phonetic": "よこばり",
+      "word": "横梁"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92de5f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Docodonta"
+        }
+      ],
+      "mobileId": 274236,
+      "phonetic": "りょうしもく",
+      "word": "梁歯目"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab07f74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cantilever"
+        }
+      ],
+      "mobileId": 229047,
+      "phonetic": "かたもちばり",
+      "word": "片持ち梁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

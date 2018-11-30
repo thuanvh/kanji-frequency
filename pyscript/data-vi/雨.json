@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ecb1bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cơn mưa"
+        },
+        {
+          "examples": [
+            {
+              "content": "雨が止む",
+              "mean": "Tạnh mưa",
+              "transcription": "あめがやむ"
+            },
+            {
+              "content": "雨が降る",
+              "mean": "trời mưa",
+              "transcription": "あめがふる"
+            }
+          ],
+          "kind": "n",
+          "mean": "mưa"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trận mưa ."
+        }
+      ],
+      "mobileId": 110717,
+      "opposite_word": [
+        "晴れ",
+        "晴"
+      ],
+      "phonetic": "あめ",
+      "related_words": {
+        "word": [
+          "梅雨",
+          "雨上がり",
+          "酸性雨",
+          "大雨",
+          "時雨",
+          "豪雨",
+          "春雨",
+          "霧雨",
+          "雨季",
+          "雷雨"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "雨",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "雨天",
+                "降雨"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "レイン",
+                "降雨",
+                "雨水",
+                "レーン",
+                "天水"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "雨"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd467913",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nơi mưa rơi từ mái hiên xuống; chổ ngồi gần sân khấu kịch kabuki"
+        }
+      ],
+      "mobileId": 12039,
+      "phonetic": "あめおち",
+      "word": "雨落ち"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4725db",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Thời tiết u ám"
+        }
+      ],
+      "mobileId": 12061,
+      "phonetic": "あめくもり",
+      "related_words": {
+        "word": [
+          "雨",
+          "曇り",
+          "曇"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "雨曇り",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "曇り",
+                "曇",
+                "曇天"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "雨曇り"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4b21cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đàn ông mà khi xuất hiện là có vẻ trời sẽ mưa"
+        }
+      ],
+      "mobileId": 12191,
+      "phonetic": "あめおとこ",
+      "word": "雨男"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4b2fb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phụ nữ mà có sự có mặt hình như để gây ra mưa (hễ người đó có mặt thì y như rằng trời sẽ mưa)"
+        }
+      ],
+      "mobileId": 12192,
+      "phonetic": "あめおんな",
+      "word": "雨女"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0bb8aae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adj-no",
+          "mean": "(something) mixed with rain (snow, wind, etc.)"
+        }
+      ],
+      "mobileId": 286981,
+      "phonetic": "あめまじり",
+      "word": "雨交じり"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada207fb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mưa mùa đông ."
+        }
+      ],
+      "mobileId": 77449,
+      "phonetic": "とうう",
+      "related_words": {
+        "word": [
+          "雨",
+          "凍"
+        ]
+      },
+      "word": "凍雨"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9adef0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "protection against rain, rainproof, raintight"
+        }
+      ],
+      "mobileId": 278267,
+      "phonetic": "ぼうう",
+      "word": "防雨"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d7da3f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "long spell of rain"
+        }
+      ],
+      "mobileId": 219130,
+      "phonetic": "りんう",
+      "word": "霖雨"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cbc99d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "friendly shower, welcome rain, rain that comes after a drought"
+        }
+      ],
+      "mobileId": 262797,
+      "phonetic": "きう",
+      "word": "喜雨"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

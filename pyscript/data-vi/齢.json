@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cdb0336c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuổi tác"
+        }
+      ],
+      "mobileId": 74439,
+      "phonetic": "よわい",
+      "related_words": {
+        "word": [
+          "年齢",
+          "年齢層",
+          "高齢",
+          "月齢",
+          "加齢",
+          "樹齢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "齢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "年",
+                "年齢",
+                "年歯",
+                "年代"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "年",
+                "年令",
+                "年齢",
+                "年頃"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "齢"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77dd391d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "age in days, number of days old"
+        }
+      ],
+      "mobileId": 271655,
+      "phonetic": "にちれい",
+      "word": "日齢"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b919e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuổi tác của tàu chiến"
+        }
+      ],
+      "mobileId": 23789,
+      "phonetic": "かんよわい",
+      "word": "艦齢"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdaf955b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuổi thọ trung bình"
+        }
+      ],
+      "mobileId": 74418,
+      "phonetic": "よよわい",
+      "related_words": {
+        "word": [
+          "余",
+          "齢"
+        ]
+      },
+      "word": "余齢"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a922fab9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "longevity, prolonging one's life"
+        }
+      ],
+      "mobileId": 257396,
+      "phonetic": "えんれい",
+      "word": "延齢"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19396e7ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "thêm tuổi, thêm một tuổi"
+        }
+      ],
+      "mobileId": 22709,
+      "phonetic": "かよわい",
+      "related_words": {
+        "word": [
+          "加",
+          "齢"
+        ]
+      },
+      "word": "加齢"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95233912",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sống lâu; tuổi thọ"
+        }
+      ],
+      "mobileId": 57222,
+      "phonetic": "ことぶきよわい",
+      "related_words": {
+        "word": [
+          "齢"
+        ]
+      },
+      "word": "寿齢"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9d5411",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuổi thơ ấu, thời thơ ấu, trở lại thời kỳ như trẻ con; lẩm cẩm"
+        }
+      ],
+      "mobileId": 73813,
+      "phonetic": "ようよわい",
+      "word": "幼齢"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dbc2b02",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "kiểm tra y tế tập trung chủ yếu vào các vấn đề tồi tệ hơn với tuổi tác, phương pháp chống lão hóa"
+        }
+      ],
+      "mobileId": 221195,
+      "phonetic": "こうかれいドック",
+      "word": "抗加齢ドック"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2ff817",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "distinctive body odor (odour) of the middle-aged and elderly (caused by the chemical nonenal)"
+        }
+      ],
+      "mobileId": 224948,
+      "phonetic": "かれいしゅう",
+      "word": "加齢臭"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

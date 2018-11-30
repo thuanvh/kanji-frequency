@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d072a37",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "細かいことにもいちいちけちをつける",
+              "mean": "phàn nàn từng thứ nhỏ nhặt một",
+              "transcription": "こまかいことにもいちいちけちをつける"
+            },
+            {
+              "content": "いちいち（人）に命令するのをやめる",
+              "mean": "đừng nên ra lệnh cho từng người một",
+              "transcription": "いちいち（ひと）にめいれいするのをやめる"
+            },
+            {
+              "content": "さあ皆さんいいですか。いち、にー、チーズ！(写真撮影を頼まれた人が)",
+              "mean": "Nào! Mọi người xong chưa? 1, 2, rồi !",
+              "transcription": "さあみなさんいいですか。いち、にー 、チーズ！(しゃしんさつえいをたのまれたひとが)"
+            }
+          ],
+          "kind": "num, pref",
+          "mean": "một"
+        }
+      ],
+      "mobileId": 141521,
+      "phonetic": "いち",
+      "related_words": {
+        "word": [
+          "一覧",
+          "一人",
+          "一番",
+          "一緒",
+          "一緒に",
+          "もう一度",
+          "一部",
+          "一時的",
+          "一般",
+          "一日"
+        ]
+      },
+      "word": "一"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd766404",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "không cùng nhau; thành người riêng, vật tách riêng ra"
+        }
+      ],
+      "mobileId": 13551,
+      "phonetic": "いちいち",
+      "word": "一一"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd785c5b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đúng nguyên văn, đúng từ chữ một"
+        }
+      ],
+      "mobileId": 13616,
+      "phonetic": "いち じいっく",
+      "word": "一字一句"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d544b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "up and down"
+        }
+      ],
+      "mobileId": 213726,
+      "phonetic": "いちじょういちげ",
+      "word": "一上一下"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d12a7d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bước một"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từng bước ."
+        }
+      ],
+      "mobileId": 141654,
+      "phonetic": "いっぽいっぽ",
+      "related_words": {
+        "word": [
+          "一",
+          "歩"
+        ]
+      },
+      "word": "一歩一歩"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685ae659",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giữ trật tự trường hợp khẩn cấp tel. không. (trong nhật bản)"
+        }
+      ],
+      "mobileId": 2905,
+      "phonetic": "いちいちぜろばん",
+      "word": "一一０番"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7ed50d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "hỏi một câu trả lời một câu"
+        }
+      ],
+      "mobileId": 13815,
+      "phonetic": "いちもんいちとう",
+      "word": "一問一答"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd83f315",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từng nhà, từng nhà một, từng căn từng căn"
+        }
+      ],
+      "mobileId": 13979,
+      "phonetic": "いちけんいちけん",
+      "word": "一軒一軒"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd84a3cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một lá phiếu dân tộc"
+        }
+      ],
+      "mobileId": 13998,
+      "phonetic": "いちこくいちひょう",
+      "related_words": {
+        "word": [
+          "国",
+          "一",
+          "票",
+          "一国"
+        ]
+      },
+      "word": "一国一票"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d56d0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "doing a good deed each day, doing one good turn a day"
+        }
+      ],
+      "mobileId": 213733,
+      "phonetic": "いちにちいちぜん",
+      "related_words": {
+        "word": [
+          "日",
+          "一",
+          "一日",
+          "善"
+        ]
+      },
+      "word": "一日一善"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

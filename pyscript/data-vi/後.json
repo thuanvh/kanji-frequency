@@ -1,0 +1,416 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f741b7c39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "người kế vị; người nối nghiệp"
+        },
+        {
+          "examples": [
+            {
+              "content": "支払いは一覧後90日にすることになっております",
+              "mean": "thanh toán sau 90 ngày",
+              "transcription": "しはらいはいちらんご90にちにすることになっております"
+            },
+            {
+              "content": "決めるまでにあと1週間ください",
+              "mean": "cho tôi thêm 1 tuần nữa trước khi ra quyết định.",
+              "transcription": "きめるまでにあと1しゅうかんください"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "sau; đằng sau; phía sau; nữa"
+        },
+        {
+          "examples": [
+            {
+              "content": "うん、あと20分で映画が始まるから",
+              "mean": "ừ, bộ phim sẽ bắt đầu sau 20 phút nữa .",
+              "transcription": "うん、あと20ふんでえいががはじまるから"
+            },
+            {
+              "content": "3人。5歳、7歳、あと10歳だよ",
+              "mean": "3 người. Một người 5 tuổi, một người 7 tuổi và một người 10 tuổi.",
+              "transcription": "3にん。 5さい、 7さい、あと10さいだよ"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "sau; muộn hơn; sau đó; lớp sau"
+        }
+      ],
+      "mobileId": 97866,
+      "opposite_word": [
+        "前",
+        "先"
+      ],
+      "phonetic": "あと",
+      "related_words": {
+        "word": [
+          "最後に",
+          "最後",
+          "今後",
+          "その後",
+          "午後",
+          "後半",
+          "後退",
+          "後ろ",
+          "後悔",
+          "前後"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "後",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "後ろ",
+                "背中",
+                "背"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "裏面",
+                "後ろ",
+                "裏",
+                "背中",
+                "バック"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "背後",
+                "後ろ",
+                "裏",
+                "バック"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "後列",
+                "蔭",
+                "裏面",
+                "甲羅",
+                "背後",
+                "後押し",
+                "陰",
+                "後ろ",
+                "裏側",
+                "裏手",
+                "裏",
+                "背中",
+                "バック",
+                "背",
+                "後部"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "世子",
+                "後継",
+                "継承者",
+                "跡継ぎ",
+                "後釜",
+                "後継者",
+                "後任",
+                "跡目",
+                "継嗣",
+                "跡取り",
+                "嗣子",
+                "後嗣",
+                "後続"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "後々",
+                "先行",
+                "末々",
+                "未来",
+                "先先",
+                "末末",
+                "後後",
+                "行先",
+                "先",
+                "先行き",
+                "行方",
+                "将来"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "後"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f741b813d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "sau đó; sau khi; kể từ đó"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trong tương lai ."
+        }
+      ],
+      "mobileId": 97867,
+      "opposite_word": [
+        "前",
+        "先"
+      ],
+      "phonetic": "のち",
+      "related_words": {
+        "word": [
+          "最後に",
+          "最後",
+          "今後",
+          "その後",
+          "午後",
+          "後半",
+          "後退",
+          "後ろ",
+          "後悔",
+          "前後"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "後",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "後ろ",
+                "背中",
+                "背"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "裏面",
+                "後ろ",
+                "裏",
+                "背中",
+                "バック"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "背後",
+                "後ろ",
+                "裏",
+                "バック"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "後列",
+                "蔭",
+                "裏面",
+                "甲羅",
+                "背後",
+                "後押し",
+                "陰",
+                "後ろ",
+                "裏側",
+                "裏手",
+                "裏",
+                "背中",
+                "バック",
+                "背",
+                "後部"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "世子",
+                "後継",
+                "継承者",
+                "跡継ぎ",
+                "後釜",
+                "後継者",
+                "後任",
+                "跡目",
+                "継嗣",
+                "跡取り",
+                "嗣子",
+                "後嗣",
+                "後続"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "後々",
+                "先行",
+                "末々",
+                "未来",
+                "先先",
+                "末末",
+                "後後",
+                "行先",
+                "先",
+                "先行き",
+                "行方",
+                "将来"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "後"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd40c920",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "lần lượt; hết cái này đến cái khác"
+        }
+      ],
+      "mobileId": 11866,
+      "phonetic": "ごからのちから",
+      "related_words": {
+        "word": [
+          "から",
+          "後"
+        ]
+      },
+      "word": "後から後から"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd413112",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "/ə'pendiksiz/, appendixes /ə'pendiksiz/, phụ lục"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tái bút, bài nói chuyện sau bản tin"
+        }
+      ],
+      "mobileId": 11880,
+      "opposite_word": [
+        "前付け"
+      ],
+      "phonetic": "こうつけ",
+      "word": "後付け"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a22839e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "focal point of a lens behind the subject"
+        }
+      ],
+      "mobileId": 224519,
+      "phonetic": "あとピン アトピン",
+      "word": "後ピン"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802707eb24",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "sau công nguyên; sau kỉ nguyên ."
+        }
+      ],
+      "mobileId": 29207,
+      "opposite_word": [
+        "紀元前"
+      ],
+      "phonetic": "きげんご",
+      "related_words": {
+        "word": [
+          "後",
+          "元",
+          "紀元"
+        ]
+      },
+      "word": "紀元後"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b39f27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xe sau, xe đi liền phía sau, đoàn xe đi sau"
+        }
+      ],
+      "mobileId": 39236,
+      "opposite_word": [
+        "前車"
+      ],
+      "phonetic": "こうしゃ",
+      "word": "後車"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b3fbb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "(những vấn đề) được đề cập [thảo luận] sau"
+        }
+      ],
+      "mobileId": 39248,
+      "phonetic": "こうで",
+      "word": "後出"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c97d1e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slipstream"
+        }
+      ],
+      "mobileId": 39953,
+      "phonetic": "こうりゅう",
+      "word": "後流"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0175567",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "backward somersault, backward roll"
+        }
+      ],
+      "mobileId": 281707,
+      "phonetic": "こうてん",
+      "word": "後転"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

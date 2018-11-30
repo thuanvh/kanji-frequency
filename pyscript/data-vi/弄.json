@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0070d3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vt",
+          "mean": "to finger, to tamper (with)"
+        }
+      ],
+      "mobileId": 189354,
+      "phonetic": "いじくる",
+      "word": "弄くる"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cded95a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s",
+          "mean": "sử dụng; trò chuyện; lừa"
+        }
+      ],
+      "mobileId": 76332,
+      "phonetic": "ろうする",
+      "related_words": {
+        "word": [
+          "する"
+        ]
+      },
+      "word": "弄する"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9502ffe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "teasing, toying with somebody's emotions"
+        }
+      ],
+      "mobileId": 275302,
+      "phonetic": "ぎろう",
+      "word": "戯弄"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6deba949",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s",
+          "mean": "to fiddle with, to monkey around with"
+        }
+      ],
+      "mobileId": 222742,
+      "phonetic": "いじくりまわす",
+      "word": "弄くり回す"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

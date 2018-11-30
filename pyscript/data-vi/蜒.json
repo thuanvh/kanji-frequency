@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a3fc60",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con rết ."
+        }
+      ],
+      "mobileId": 31979,
+      "phonetic": "げじげじ",
+      "word": "蚰蜒"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af4cd31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "darner (any dragonfly of family Aeshnidae), devil's darning needle"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dragonfly (esp. a large one)"
+        }
+      ],
+      "mobileId": 231261,
+      "phonetic": "やんま ヤンマ",
+      "word": "蜻蜒"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a40332",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lông mày rậm ."
+        }
+      ],
+      "mobileId": 31980,
+      "phonetic": "げじげじまゆ",
+      "related_words": {
+        "word": [
+          "眉"
+        ]
+      },
+      "word": "蚰蜒眉"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

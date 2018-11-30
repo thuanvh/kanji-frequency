@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935782fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "che; lùi lại;(sự giúp đỡ (của) bạn)"
+        }
+      ],
+      "mobileId": 20702,
+      "phonetic": "かげ",
+      "related_words": {
+        "word": [
+          "お蔭様"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "蔭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "本影",
+                "シェード",
+                "影法師",
+                "陰",
+                "日陰",
+                "影",
+                "シャドー",
+                "陰影",
+                "冥暗",
+                "物陰",
+                "陰翳",
+                "冥闇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "後列",
+                "裏面",
+                "甲羅",
+                "背後",
+                "後押し",
+                "陰",
+                "後ろ",
+                "裏側",
+                "裏手",
+                "裏",
+                "後",
+                "背中",
+                "バック",
+                "背",
+                "後部"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "闇黒",
+                "闇",
+                "暗がり",
+                "暗黒",
+                "影",
+                "陰影",
+                "陰翳",
+                "暗闇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蔭"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935790f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự nói vụng, sự nói xấu sau lưng"
+        }
+      ],
+      "mobileId": 20706,
+      "phonetic": "かげぐち",
+      "word": "蔭口"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

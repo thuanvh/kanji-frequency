@@ -1,0 +1,277 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af78022",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "sách; sách lược; kế sách ."
+        }
+      ],
+      "mobileId": 174384,
+      "phonetic": "さく",
+      "related_words": {
+        "word": [
+          "対策",
+          "解決策",
+          "施策",
+          "策定",
+          "政策",
+          "安全対策",
+          "散策",
+          "方策",
+          "策略",
+          "策士"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "策",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "立案",
+                "構想",
+                "案",
+                "企図",
+                "計画",
+                "企画",
+                "企劃",
+                "設計",
+                "目論見"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "計略",
+                "策略",
+                "謀略",
+                "権謀",
+                "詐欺",
+                "企み",
+                "謀",
+                "企て",
+                "匠"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "計略",
+                "策略",
+                "構想",
+                "企図",
+                "計画",
+                "作戦計画",
+                "企み",
+                "ストラテジー",
+                "謀",
+                "目論見",
+                "企て",
+                "戦略"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "対策",
+                "方策",
+                "措置",
+                "術"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "むち"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "策"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932c5b4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thay thế lên sơ đồ"
+        }
+      ],
+      "mobileId": 19341,
+      "phonetic": "かいけつさく",
+      "related_words": {
+        "word": [
+          "解決",
+          "策"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "解決策",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "答え",
+                "解法",
+                "解答"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "解決",
+                "答え",
+                "解法",
+                "回答",
+                "解答"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "解決策"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b18e28",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "có nghĩa (của) việc ổn định một vấn đề; sự giải tỏa đo; bồi thường; biện pháp đối phó"
+        }
+      ],
+      "mobileId": 61755,
+      "phonetic": "ぜんごさく",
+      "related_words": {
+        "word": [
+          "前",
+          "後",
+          "前後",
+          "策"
+        ]
+      },
+      "word": "前後策"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d886bbe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "support measures, assistance measures"
+        }
+      ],
+      "mobileId": 219487,
+      "phonetic": "しえんさく",
+      "word": "支援策"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94a35a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "measures for the promotion of, stimulation measure (for the economy)"
+        }
+      ],
+      "mobileId": 258668,
+      "phonetic": "しんこうさく",
+      "word": "振興策"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f82d66",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự giải tỏa đo"
+        }
+      ],
+      "mobileId": 25788,
+      "phonetic": "きゅうさいさく",
+      "related_words": {
+        "word": [
+          "救済",
+          "策"
+        ]
+      },
+      "word": "救済策"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193309265",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đo đạc để chiến thắng người nào đó qua tới cạnh (của) ai đó"
+        }
+      ],
+      "mobileId": 19466,
+      "phonetic": "かいじゅうさく",
+      "word": "懐柔策"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934c0596",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lập kế hoạch; lên sơ đồ"
+        }
+      ],
+      "mobileId": 20343,
+      "phonetic": "",
+      "word": "劃策"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e9ba31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biện pháp đối phó, biện pháp trả đũa"
+        }
+      ],
+      "mobileId": 63566,
+      "phonetic": "たいおうさく",
+      "related_words": {
+        "word": [
+          "対応",
+          "対",
+          "策"
+        ]
+      },
+      "word": "対応策"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdab2828",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biện pháp dự phòng"
+        }
+      ],
+      "mobileId": 74278,
+      "phonetic": "よぼうさく",
+      "related_words": {
+        "word": [
+          "予防",
+          "策"
+        ]
+      },
+      "word": "予防策"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

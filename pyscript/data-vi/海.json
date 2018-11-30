@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fd5201b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bể"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bể khơi"
+        },
+        {
+          "examples": [
+            {
+              "content": "この夏は海の近くの別荘で休暇を過ごす予定です。",
+              "mean": "Mùa hè này tôi dự định nghỉ tại một villa gần bờ biển.",
+              "transcription": "このなつはうみのちかくのべっそうできゅうかをすごすよていです。"
+            },
+            {
+              "content": "海は地球の表面の約４分の３を覆っている。",
+              "mean": "Biển bao phủ khoảng 3 phần 4 bề mặt Trái đất.",
+              "transcription": "うみはちきゅうのひょうめんのやくよんぶんのさんをおおっている。"
+            }
+          ],
+          "kind": "n",
+          "mean": "biển; bờ biển"
+        }
+      ],
+      "mobileId": 188431,
+      "opposite_word": [
+        "陸",
+        "山"
+      ],
+      "phonetic": "うみ",
+      "related_words": {
+        "word": [
+          "北海道",
+          "海苔",
+          "海賊",
+          "上海",
+          "海岸",
+          "海老",
+          "航海",
+          "深海",
+          "海千山千",
+          "海洋"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "海",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "海洋",
+                "海原"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "海洋",
+                "遠海",
+                "遠洋",
+                "海原",
+                "大海",
+                "綿津見",
+                "オーシャン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "海"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68892fd4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "funori (tảo biển); rong biển"
+        }
+      ],
+      "mobileId": 4372,
+      "phonetic": "",
+      "word": "海蘿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3ae036",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common murre, common guillemot (Uria aalge)"
+        }
+      ],
+      "mobileId": 225293,
+      "phonetic": "うみがらす ウミガラス",
+      "word": "海烏"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932bfcad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bức tranh về cảnh ở biển"
+        }
+      ],
+      "mobileId": 19331,
+      "phonetic": "うみけい",
+      "word": "海景"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932fdf6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự vượt quá, sự vi phạm; sự phạm pháp, lỗi tội, (địa lý, địa chất) hiện tượng biến tiếp"
+        }
+      ],
+      "mobileId": 19447,
+      "phonetic": "うみすすむ",
+      "word": "海進"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19332370d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tự vệ binh (thuộc đội tự vệ trên biển)"
+        }
+      ],
+      "mobileId": 19523,
+      "phonetic": "",
+      "word": "海曹"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933418ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thoái bộ, sự thoái lui; sự đi giật lùi, sự đi ngược trở lại, hồi quy"
+        }
+      ],
+      "mobileId": 19579,
+      "phonetic": "うみしさ",
+      "word": "海退"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc601f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những sản phẩm biển"
+        }
+      ],
+      "mobileId": 16057,
+      "phonetic": "うみこう",
+      "word": "海幸"
+    },
+    {
+      "_id": "432518852de0a80625d585a98211bb54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "swimming downstream (to the sea)"
+        }
+      ],
+      "mobileId": 232210,
+      "phonetic": "こうかい",
+      "word": "降海"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9bd94d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oceanic noise, rumbling of the sea, mistpouffer"
+        }
+      ],
+      "mobileId": 278796,
+      "phonetic": "かいめい",
+      "word": "海鳴"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

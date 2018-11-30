@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08e1a65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Alcor, the Little Horseman star"
+        }
+      ],
+      "mobileId": 211410,
+      "phonetic": "ほせい",
+      "word": "輔星"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68dc1883",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giúp đỡ; sự giúp đỡ"
+        }
+      ],
+      "mobileId": 7009,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "翼"
+        ]
+      },
+      "word": "輔翼"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

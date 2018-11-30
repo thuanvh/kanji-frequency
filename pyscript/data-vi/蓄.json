@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77185441",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phosphorescence, luminescence"
+        }
+      ],
+      "mobileId": 265242,
+      "phonetic": "ちっこう ちくこう",
+      "word": "蓄光"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7fbac41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Máy hát ."
+        }
+      ],
+      "mobileId": 110949,
+      "phonetic": "でんちく",
+      "word": "電蓄"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7ddabc9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự cất giữ ."
+        }
+      ],
+      "mobileId": 145187,
+      "phonetic": "ちょちく",
+      "related_words": {
+        "word": [
+          "儲"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "儲蓄",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "貯蓄",
+                "貯金",
+                "臍繰り",
+                "預金"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "儲蓄"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d802fea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "to draw upon one's profound knowledge"
+        }
+      ],
+      "mobileId": 219208,
+      "phonetic": "うんちくをかたむける",
+      "word": "薀蓄を傾ける"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

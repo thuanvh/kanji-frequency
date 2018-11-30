@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801461388",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cá nhái ."
+        }
+      ],
+      "mobileId": 42945,
+      "phonetic": "きす",
+      "word": "鱚"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0ddc6c46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vôi bột trắng tiếng nhật"
+        }
+      ],
+      "mobileId": 152771,
+      "phonetic": "しろきす",
+      "related_words": {
+        "word": [
+          "白"
+        ]
+      },
+      "word": "白鱚"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561ebf271d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "deepsea smelt (Glossanodon semifasciatus)"
+        }
+      ],
+      "mobileId": 254231,
+      "phonetic": "にぎす ニギス",
+      "word": "似鱚"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7787b317",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "harlequin sandsmelt (Parapercis pulchella)"
+        }
+      ],
+      "mobileId": 268860,
+      "phonetic": "とらぎす トラギス",
+      "word": "虎鱚"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7771ba90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "black swallower (Chiasmodon niger)"
+        }
+      ],
+      "mobileId": 268125,
+      "phonetic": "おにぼうずぎす オニボウズギス",
+      "word": "鬼坊主鱚"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

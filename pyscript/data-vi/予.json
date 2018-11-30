@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937e3ce7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thường, hay, luôn, năng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cách đây không lâu, mới gần đây"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đã, rồi; đã... rồi"
+        }
+      ],
+      "mobileId": 21937,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "予予",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "予々",
+                "最早",
+                "既に",
+                "予て",
+                "今や",
+                "兼ね兼ね",
+                "もう",
+                "疾っくに"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "予予"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937e3fea",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thường, hay, luôn, năng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cách đây không lâu, mới gần đây"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đã, rồi; đã... rồi"
+        }
+      ],
+      "mobileId": 21938,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "々"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "予々",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "予予",
+                "最早",
+                "既に",
+                "予て",
+                "今や",
+                "兼ね兼ね",
+                "もう",
+                "疾っくに"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "予々"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdaf8c58",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "Tiếng chuông bắt đầu, chuông cảnh báo"
+        }
+      ],
+      "mobileId": 74416,
+      "phonetic": "よ れい",
+      "related_words": {
+        "word": [
+          "鈴"
+        ]
+      },
+      "word": "予鈴"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688e6d29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khó chịu; hoàng đế có bệnh; sự bất hạnh"
+        }
+      ],
+      "mobileId": 4523,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "不予",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "不祝儀",
+                "不幸せ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "不予"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda4822a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "báo hiệu; báo trước; là điềm của"
+        }
+      ],
+      "mobileId": 74052,
+      "phonetic": "",
+      "word": "予示"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda8df55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "mô tả trước; báo trước"
+        }
+      ],
+      "mobileId": 74202,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "表"
+        ]
+      },
+      "word": "予表"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6ff776",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "act of joining a crowd or assembly of people, attendance"
+        }
+      ],
+      "mobileId": 251640,
+      "phonetic": "よさん",
+      "word": "予参"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77642248",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "celebrating in advance, advance blessing (e.g. of crops)"
+        }
+      ],
+      "mobileId": 267697,
+      "phonetic": "よしゅく",
+      "word": "予祝"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abd18c5",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "hâm nóng, Làm nóng sẵn trước khi bắt đầu nướng/nấu (lò nướng, bếp,...)"
+        }
+      ],
+      "mobileId": 229459,
+      "phonetic": "よねつ",
+      "word": "予熱"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0441fd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "pre-load, precompression, pilot pressure"
+        }
+      ],
+      "mobileId": 283156,
+      "phonetic": "よあつ",
+      "word": "予圧"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

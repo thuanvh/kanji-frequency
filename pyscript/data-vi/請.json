@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "_id": "12be0047dfdec669605e1a2b221b3d9f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Hợp đồng gốc"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "もとう",
+      "word": "元請"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e024ec6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "certification issued by a temple to prove affiliation"
+        }
+      ],
+      "mobileId": 248077,
+      "phonetic": "てらうけ",
+      "word": "寺請"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9562a08d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cầu khẩn, van nài (giọng, vẻ)"
+        }
+      ],
+      "mobileId": 59245,
+      "phonetic": "",
+      "word": "請謁"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c01de0f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vz, vt",
+          "mean": "to summon, to invite, to call, to have as one's guest"
+        }
+      ],
+      "mobileId": 190119,
+      "phonetic": "しょうずる",
+      "word": "請ずる"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d70a859",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ukebana (lotus-shaped support of a seat, pedestal or pagoda finial)"
+        }
+      ],
+      "mobileId": 218715,
+      "phonetic": "うけばな",
+      "word": "請花"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0358200",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "being called upon to give a Buddhist service (or lecture, etc.) at the Imperial Court, monk called upon to give a Buddhist service (or lecture, etc.) at the Imperial Court"
+        }
+      ],
+      "mobileId": 282670,
+      "phonetic": "くじょう",
+      "word": "公請"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd7d903",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiến nghị"
+        }
+      ],
+      "mobileId": 75668,
+      "phonetic": "",
+      "word": "禀請"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dbf080d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gọi cùng nhau; sự mời"
+        }
+      ],
+      "mobileId": 151805,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "召"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "召請",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "招請",
+                "招待",
+                "招致",
+                "招待状",
+                "勧誘",
+                "誘い",
+                "招き"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "召請"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ac4f408",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "lời cầu xin; sự cầu nguyện; lời cầu nguyện ."
+        }
+      ],
+      "mobileId": 173563,
+      "phonetic": "きせい",
+      "word": "祈請"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d4f1e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "humbly inviting"
+        }
+      ],
+      "mobileId": 271376,
+      "phonetic": "はいしょう",
+      "word": "拝請"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

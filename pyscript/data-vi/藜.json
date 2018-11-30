@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280279fbdfc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "cây chân ngỗng"
+        }
+      ],
+      "mobileId": 31910,
+      "phonetic": "あかざ",
+      "word": "藜"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94cd676",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese lobster (Metanephrops japonicus)"
+        }
+      ],
+      "mobileId": 258749,
+      "phonetic": "あかざえび アカザエビ",
+      "word": "藜海老"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95564cdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sushi"
+        }
+      ],
+      "mobileId": 58844,
+      "phonetic": "すし",
+      "synsets": [
+        {
+          "base_form": "鮨",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "寿司",
+                "鮓"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鮨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9e1b0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kansai-style sushi (esp. pressed sushi, such as battera)"
+        }
+      ],
+      "mobileId": 228454,
+      "phonetic": "おおさかずし",
+      "word": "大阪鮨"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2902fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "narezushi, fermented sushi (pickled in brine rather than vinegar), precursor of modern sushi"
+        }
+      ],
+      "mobileId": 249344,
+      "phonetic": "なれずし",
+      "word": "なれ鮨"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95568045",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cửa hàng bán sushi, quán sushi; người bán sushi"
+        }
+      ],
+      "mobileId": 58850,
+      "phonetic": "すしや",
+      "word": "鮨屋"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77573b05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "type of sushi with vinegared fish and rice lightly pressed overnight"
+        }
+      ],
+      "mobileId": 267265,
+      "phonetic": "はやずし",
+      "word": "早鮨"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193074cec",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sushi ép"
+        }
+      ],
+      "mobileId": 18128,
+      "phonetic": "おしすし",
+      "word": "押し鮨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aec2ed5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sushi topping"
+        }
+      ],
+      "mobileId": 230994,
+      "phonetic": "すしだね",
+      "word": "鮨種"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca009318d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "narezushi of amberjack and turnip (Kanazawa speciality)"
+        }
+      ],
+      "mobileId": 281257,
+      "phonetic": "かぶらずし",
+      "word": "蕪鮨"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a7aea7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đờm ."
+        }
+      ],
+      "mobileId": 172317,
+      "phonetic": "たん",
+      "synsets": [
+        {
+          "base_form": "痰",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "唾",
+                "喀痰",
+                "唾液"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "痰"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e20102e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ống nhổ (đồ chứa để khạc nhổ vào)"
+        }
+      ],
+      "mobileId": 112044,
+      "phonetic": "たんつぼ",
+      "word": "痰壺"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f81b63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sputum, phlegm"
+        }
+      ],
+      "mobileId": 264204,
+      "phonetic": "たんつば",
+      "word": "痰唾"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a7af95b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đằng hắng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hắng giọng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khạc nhổ ."
+        }
+      ],
+      "mobileId": 172319,
+      "phonetic": "たんをはく",
+      "word": "痰を吐く"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a7aeac0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khạc ra đờm ."
+        }
+      ],
+      "mobileId": 172318,
+      "phonetic": "たんをはきだす",
+      "word": "痰を吐き出す"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

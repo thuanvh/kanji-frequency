@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc90c04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đập nước; đập ngăn sông ."
+        }
+      ],
+      "mobileId": 144907,
+      "phonetic": "えん",
+      "word": "偃"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde75be4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "nằm sấp; ngủ úp mặt xuống"
+        }
+      ],
+      "mobileId": 17086,
+      "phonetic": "",
+      "word": "偃臥"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde88482",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trăng lưỡi liềm"
+        }
+      ],
+      "mobileId": 17134,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "月"
+        ]
+      },
+      "word": "偃月"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00ff33f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "armistice"
+        }
+      ],
+      "mobileId": 281471,
+      "phonetic": "えんぶ",
+      "word": "偃武"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

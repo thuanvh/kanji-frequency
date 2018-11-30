@@ -1,0 +1,291 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f745199d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự xấu; không tốt ."
+        }
+      ],
+      "mobileId": 98643,
+      "opposite_word": [
+        "良",
+        "善"
+      ],
+      "phonetic": "あく",
+      "related_words": {
+        "word": [
+          "悪魔",
+          "悪い",
+          "最悪",
+          "意地悪",
+          "悪夢",
+          "悪戯",
+          "邪悪",
+          "悪化",
+          "悪くなる",
+          "憎悪"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "悪",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "悪さ",
+                "不良"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "不道徳",
+                "不義",
+                "不正行為",
+                "悪行",
+                "悪事",
+                "悪徳"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "不義",
+                "曲事",
+                "不正",
+                "不当",
+                "不法"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "不道徳",
+                "曲悪",
+                "闇",
+                "邪悪",
+                "不法"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "悪さ",
+                "横道",
+                "悪質",
+                "邪悪",
+                "不善"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "悪"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd31b4bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thời tiết xấu"
+        }
+      ],
+      "mobileId": 11381,
+      "opposite_word": [
+        "好天"
+      ],
+      "phonetic": "あくてん",
+      "related_words": {
+        "word": [
+          "天",
+          "悪"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "悪天",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "悪天候"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "悪天"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3c437f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bóng chày để đánh; hắc ín xấu"
+        }
+      ],
+      "mobileId": 11721,
+      "phonetic": "あくたま",
+      "related_words": {
+        "word": [
+          "悪",
+          "球"
+        ]
+      },
+      "word": "悪球"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be051433",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "qua - ngụy biện"
+        }
+      ],
+      "mobileId": 89469,
+      "phonetic": "あくすれ",
+      "word": "悪摺れ"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be051750",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "qua - ngụy biện"
+        }
+      ],
+      "mobileId": 89470,
+      "phonetic": "あくずれ",
+      "word": "悪ずれ"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be051d93",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xấu xa"
+        }
+      ],
+      "mobileId": 89471,
+      "phonetic": "あくこする",
+      "related_words": {
+        "word": [
+          "悪",
+          "擦る"
+        ]
+      },
+      "word": "悪擦る"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74550e49",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜間の悪感情",
+              "mean": "Có ác cảm giữa ai với ai .",
+              "transcription": "〜かんのあくかんじょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "ác cảm"
+        }
+      ],
+      "mobileId": 98685,
+      "phonetic": "あくかんじょう",
+      "related_words": {
+        "word": [
+          "悪",
+          "感情",
+          "情"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "悪感情",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "苦手",
+                "厭悪",
+                "嫌い",
+                "嫌気",
+                "反感"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "悪感情"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77646fe5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the world of hungry spirits and the world of animals, three evil worlds hell"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "three evils (e.g. prostitution, drugs and venereal diseases)"
+        }
+      ],
+      "mobileId": 267706,
+      "phonetic": "さんあく さんなく さんまく",
+      "word": "三悪"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3101f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những điều kiện bất lợi; điều bất lợi"
+        }
+      ],
+      "mobileId": 11357,
+      "opposite_word": [
+        "好条件"
+      ],
+      "phonetic": "あくじょうけん",
+      "related_words": {
+        "word": [
+          "条件",
+          "件",
+          "悪"
+        ]
+      },
+      "word": "悪条件"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3117a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước không uống được; nước bẩn"
+        }
+      ],
+      "mobileId": 11360,
+      "phonetic": "あくみず",
+      "word": "悪水"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

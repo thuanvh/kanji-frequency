@@ -1,0 +1,244 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3bcc8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vô ích; vô ích; nhất thời; nhẹ dạ"
+        }
+      ],
+      "mobileId": 11706,
+      "phonetic": "と, いたずら",
+      "word": "徒"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f68998",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "making light of, disregarding"
+        }
+      ],
+      "mobileId": 280644,
+      "phonetic": "あだおろそか",
+      "word": "徒疎か"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada903883",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "loạn tặc ."
+        }
+      ],
+      "mobileId": 79309,
+      "phonetic": "はんと",
+      "related_words": {
+        "word": [
+          "反",
+          "徒"
+        ]
+      },
+      "word": "反徒"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ccd18b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cheating heart, fleeting heart, fickle heart"
+        }
+      ],
+      "mobileId": 262833,
+      "phonetic": "あだごころ",
+      "word": "徒心"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8787455",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bị giam giữ, người tù; con vật bị nhốt, tù binh, trò chơi bắt tù binh, được một người đàn bà hứa lấy"
+        }
+      ],
+      "mobileId": 37367,
+      "phonetic": "けいと",
+      "related_words": {
+        "word": [
+          "徒",
+          "刑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "刑徒",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "人質",
+                "捕虜",
+                "囚人",
+                "俘虜"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "囚人"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "刑徒"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74234b59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đi bộ ."
+        }
+      ],
+      "mobileId": 97965,
+      "phonetic": "とこう",
+      "word": "徒行"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae126e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "plain speech, direct speech"
+        }
+      ],
+      "mobileId": 230650,
+      "phonetic": "ただごと ただこと",
+      "word": "徒言"
+    },
+    {
+      "_id": "432518852de0a80625d585a982384772",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Minister of Civil Administration and Social Welfare (Zhou-dynasty China)"
+        }
+      ],
+      "mobileId": 233397,
+      "phonetic": "しと",
+      "word": "司徒"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7454204b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kẻ bất lương; tên vô lại; kẻ côn đồ ."
+        }
+      ],
+      "mobileId": 98675,
+      "phonetic": "あくと",
+      "related_words": {
+        "word": [
+          "悪",
+          "徒"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "悪徒",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "匪徒",
+                "悪漢",
+                "姦人",
+                "悪人",
+                "ならず者",
+                "伝法",
+                "悪玉",
+                "凶漢",
+                "悪党",
+                "悪者",
+                "与太者",
+                "匪賊",
+                "破落戸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "人で無し",
+                "悪漢",
+                "姦人",
+                "悪玉",
+                "凶漢",
+                "悪党",
+                "悪者"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "悪役",
+                "敵役",
+                "悪玉",
+                "悪者"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "悪徒"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef903a6f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ordinary person, untitled individual"
+        }
+      ],
+      "mobileId": 272876,
+      "phonetic": "ただびと なおびと ただうど ただひと",
+      "related_words": {
+        "word": [
+          "人",
+          "徒"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "徒人",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ペデストリアン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "徒人"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

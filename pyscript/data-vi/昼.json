@@ -1,0 +1,384 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f17a6d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ban trưa"
+        },
+        {
+          "examples": [
+            {
+              "content": "昼の間は眠り、夜活動する動物も多い。",
+              "mean": "Cũng có rất nhiều loài động vật ngày ngủ đêm hoạt động.",
+              "transcription": "ひるのまはねむり、よるかつどうするどうぶつもおおい。"
+            },
+            {
+              "content": "今丁度お昼だ。",
+              "mean": "Bây giờ vừa đúng giữa trưa.",
+              "transcription": "いまちょうどおひるだ。"
+            }
+          ],
+          "kind": "n-adv, n-t",
+          "mean": "buổi trưa; ban ngày"
+        },
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "trưa ."
+        }
+      ],
+      "mobileId": 185329,
+      "opposite_word": [
+        "夜"
+      ],
+      "phonetic": "ひる",
+      "related_words": {
+        "word": [
+          "昼食",
+          "昼間",
+          "昼寝",
+          "昼休み",
+          "昼ご飯",
+          "昼御飯",
+          "昼夜",
+          "昼飯",
+          "昼過ぎ",
+          "昼下がり"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "昼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "日",
+                "デイ",
+                "昼間"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "白昼",
+                "昼日中",
+                "日中",
+                "昼間",
+                "日間"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "真昼",
+                "午刻",
+                "正午",
+                "亭午"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "昼過ぎ",
+                "午後",
+                "アフタヌーン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "昼"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68626500",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "trưa, buổi trưa"
+        }
+      ],
+      "mobileId": 3149,
+      "phonetic": "ひるとき",
+      "related_words": {
+        "word": [
+          "時",
+          "昼"
+        ]
+      },
+      "word": "昼時"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d431e2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "day shift"
+        }
+      ],
+      "mobileId": 217240,
+      "phonetic": "ひるきん",
+      "related_words": {
+        "word": [
+          "昼"
+        ]
+      },
+      "word": "昼勤"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931390a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bữa ăn trưa, bữa ăn nhẹ trước cơm trưa, dọn bữa ăn trưa cho, dự bữa ăn trưa"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trưa, buổi trưa"
+        }
+      ],
+      "mobileId": 18544,
+      "phonetic": "ごひる",
+      "word": "御昼"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f17fdd8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bữa trưa"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cơm trưa ."
+        }
+      ],
+      "mobileId": 185340,
+      "phonetic": "ひるごはん",
+      "related_words": {
+        "word": [
+          "昼",
+          "飯",
+          "御",
+          "御飯"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "昼御飯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "昼餉",
+                "午餐",
+                "夕食",
+                "夜食",
+                "昼ご飯",
+                "昼餐",
+                "晩御飯",
+                "ランチョン",
+                "晩餐",
+                "ダイニング",
+                "晩飯",
+                "昼飯",
+                "夕飯",
+                "御飯",
+                "粗飯",
+                "サパー",
+                "食事",
+                "晩ご飯",
+                "昼めし",
+                "ディナー",
+                "昼食",
+                "ランチ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "昼餉",
+                "午餐",
+                "昼ご飯",
+                "昼餐",
+                "ランチョン",
+                "昼食会",
+                "昼飯",
+                "昼めし",
+                "ランチ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "昼御飯"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f181198",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buổi họp chiều (công ty) ."
+        }
+      ],
+      "mobileId": 185343,
+      "phonetic": "ちゅうれい",
+      "related_words": {
+        "word": [
+          "昼",
+          "礼"
+        ]
+      },
+      "word": "昼礼"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68624988",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "như matinée"
+        }
+      ],
+      "mobileId": 3143,
+      "phonetic": "ひるこうぎょう",
+      "related_words": {
+        "word": [
+          "行",
+          "昼",
+          "興",
+          "興行"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "昼興行",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "マチネ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "昼興行"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68625119",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bữa ăn trưa, bữa ăn nhẹ trước cơm trưa, dọn bữa ăn trưa cho, dự bữa ăn trưa"
+        }
+      ],
+      "mobileId": 3144,
+      "phonetic": "ひるごはん",
+      "related_words": {
+        "word": [
+          "昼",
+          "飯"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "昼ご飯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "昼餉",
+                "午餐",
+                "夕食",
+                "夜食",
+                "昼餐",
+                "晩御飯",
+                "ランチョン",
+                "晩餐",
+                "ダイニング",
+                "晩飯",
+                "昼飯",
+                "夕飯",
+                "御飯",
+                "粗飯",
+                "サパー",
+                "食事",
+                "晩ご飯",
+                "昼御飯",
+                "昼めし",
+                "ディナー",
+                "昼食",
+                "ランチ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "昼餉",
+                "午餐",
+                "昼餐",
+                "ランチョン",
+                "昼食会",
+                "昼飯",
+                "昼御飯",
+                "昼めし",
+                "ランチ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "昼ご飯"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686256ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "khoảng buổi trưa"
+        }
+      ],
+      "mobileId": 3145,
+      "phonetic": "ひるころ",
+      "related_words": {
+        "word": [
+          "頃",
+          "昼"
+        ]
+      },
+      "word": "昼頃"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68625da1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buổi biểu diễn (nhạc, kịch ...) ban chiều"
+        }
+      ],
+      "mobileId": 3147,
+      "phonetic": "ひるせき",
+      "word": "昼席"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

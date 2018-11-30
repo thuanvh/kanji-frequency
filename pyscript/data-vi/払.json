@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19380e3a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trả dư, trả quá nhiều"
+        }
+      ],
+      "mobileId": 22027,
+      "phonetic": "",
+      "word": "過払"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7963eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vón thành cục - sự thanh toán tổng"
+        }
+      ],
+      "mobileId": 13647,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "時",
+          "一",
+          "一時"
+        ]
+      },
+      "word": "一時払"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d62443",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "advance payment on behalf of a third party (with expectation that it will be reimbursed)"
+        }
+      ],
+      "mobileId": 279616,
+      "phonetic": "たてかえばらい",
+      "word": "立替払"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada2dd549",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bán trả tiền dần ."
+        }
+      ],
+      "mobileId": 77723,
+      "phonetic": "ぶんかつばらいしきはんばい",
+      "word": "分割払式販売"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d17b278",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hối phiếu trả tiền ngay ."
+        }
+      ],
+      "mobileId": 141706,
+      "phonetic": "いちらんばらいてがた",
+      "word": "一覧払手形"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74afb798",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hối phiếu vô danh ."
+        }
+      ],
+      "mobileId": 100022,
+      "phonetic": "じさんにんばらいてがた",
+      "word": "持参人払手形"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b221a88fa",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Tiền gửi không kỳ hạn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "要求払預金",
+      "word": "要求払預金"
+    },
+    {
+      "_id": "f2d618ceb0702f781ec83b7d4f5d536c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Thuế giá trị gia tăng được khấu trừ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "かりばらいしょうひぜい",
+      "word": "仮払消費税"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd215455",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": ".+ Thương mục trong tài khoản của một công ty được ghi như một khoản nợ của các dịch vụ đã sử dụng nhưng chưa được thanh toán."
+        }
+      ],
+      "mobileId": 69865,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "用",
+          "費用",
+          "未",
+          "費"
+        ]
+      },
+      "word": "未払費用"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

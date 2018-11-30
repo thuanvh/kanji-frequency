@@ -1,0 +1,240 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed957fe6a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buổi tối trời trong, buổi tối đẹp trời"
+        }
+      ],
+      "mobileId": 60160,
+      "phonetic": "はれよる",
+      "related_words": {
+        "word": [
+          "夜"
+        ]
+      },
+      "word": "晴夜"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1e7608",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trời nắng và có mây ."
+        }
+      ],
+      "mobileId": 185463,
+      "phonetic": "せいどん",
+      "related_words": {
+        "word": [
+          "曇"
+        ]
+      },
+      "word": "晴曇"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f07cf5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bầu trời Nhật trong xanh, không một gợn mây ."
+        }
+      ],
+      "mobileId": 185033,
+      "phonetic": "にほんばれ",
+      "related_words": {
+        "word": [
+          "日",
+          "本"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "日本晴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "晴天",
+                "上天気",
+                "天気",
+                "晴れ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "日本晴"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682452fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "rõ ràng rồi mưa"
+        }
+      ],
+      "mobileId": 1162,
+      "phonetic": "はれごあめ",
+      "word": "晴後雨"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280270e155e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "素晴らしい春の好天",
+              "mean": "thời tiết mùa xuân thật tuyệt vời",
+              "transcription": "すばらしいはるのこうてん"
+            },
+            {
+              "content": "たとえそれが一瞬であっても、勝利は素晴らしいことである",
+              "mean": "một phút chiến thắng huy hoàng cũng tuyệt vời",
+              "transcription": "たとえそれがいっしゅんであっても、しょうりはすばらしいことである"
+            },
+            {
+              "content": "素晴らしい考え",
+              "mean": "ý tưởng tuyệt vời",
+              "transcription": "すばらしいかんがえ"
+            },
+            {
+              "content": "素晴らしい偉業",
+              "mean": "sự nghiệp vĩ đại",
+              "transcription": "すばらしいいぎょう"
+            },
+            {
+              "content": "素晴らしい発明",
+              "mean": "phát minh vĩ đãi",
+              "transcription": "すばらしいはつめい"
+            },
+            {
+              "content": "その映画は素晴らしかった",
+              "mean": "bộ phim đó rất tuyệt vời .",
+              "transcription": "そのえいがはすばらしかった"
+            }
+          ],
+          "kind": null,
+          "mean": "tuyệt vời; vĩ đại"
+        }
+      ],
+      "mobileId": 29333,
+      "phonetic": "すばらしい",
+      "word": "素晴しい"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0e8adce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the scenery being beautiful in both sunny and rainy weather"
+        }
+      ],
+      "mobileId": 214366,
+      "phonetic": "せいこううき",
+      "word": "晴好雨奇"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb40076",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phân kỳ; sự xao lãng"
+        }
+      ],
+      "mobileId": 15501,
+      "phonetic": "ゆうはれし",
+      "related_words": {
+        "word": [
+          "し"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "憂晴し",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "逆上",
+                "目移り",
+                "憂さ晴らし"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "レクリエーション",
+                "慰み",
+                "楽しみ",
+                "娯楽",
+                "遊び",
+                "気晴らし",
+                "憂さ晴らし",
+                "慰め"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "娯楽",
+                "逆上",
+                "目移り",
+                "憂さ晴らし"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "憂晴し"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68242608",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rõ ràng, với ngắn gọn ánh sáng mưa"
+        }
+      ],
+      "mobileId": 1155,
+      "phonetic": "はれいちじこさめ",
+      "related_words": {
+        "word": [
+          "時",
+          "雨",
+          "小",
+          "一",
+          "一時",
+          "小雨"
+        ]
+      },
+      "word": "晴一時小雨"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d8a698",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp",
+          "mean": "mây sau cơn mưa, trời nắng nhiều mây"
+        }
+      ],
+      "mobileId": 279700,
+      "phonetic": "はれのちくもり",
+      "word": "晴後曇"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

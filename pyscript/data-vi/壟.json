@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1071d5f57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ngọn đồi ."
+        }
+      ],
+      "mobileId": 52348,
+      "phonetic": "おか",
+      "word": "壟"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a565eeb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ridges of and paths between fields"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "countryside, civilian"
+        }
+      ],
+      "mobileId": 226176,
+      "phonetic": "ろうほ",
+      "word": "壟畝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

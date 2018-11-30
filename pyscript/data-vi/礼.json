@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ac2a020",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự biểu lộ lòng biết ơn ."
+        }
+      ],
+      "mobileId": 173504,
+      "phonetic": "れい",
+      "related_words": {
+        "word": [
+          "失礼",
+          "失礼しました",
+          "お礼",
+          "礼金",
+          "朝礼",
+          "無礼",
+          "失礼な",
+          "礼儀",
+          "謝礼",
+          "割礼"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "礼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "礼式",
+                "礼儀作法",
+                "エチケット",
+                "儀礼",
+                "典礼",
+                "礼節",
+                "作法",
+                "礼儀",
+                "法"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "謝意",
+                "お礼",
+                "感謝",
+                "謝辞",
+                "御礼",
+                "謝礼"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "礼式",
+                "エチケット",
+                "行儀",
+                "礼節",
+                "作法",
+                "礼儀"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "礼"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc2dce3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghi thức lễ phong tước thái tử"
+        }
+      ],
+      "mobileId": 75036,
+      "phonetic": "りったいしれい",
+      "word": "立太子礼"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90a740f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Họp hay tập trung tổng kết công việc cuối ngày. (tại một công ty hoặc trường học, v.v.)"
+        }
+      ],
+      "mobileId": 273097,
+      "opposite_word": [
+        "朝礼"
+      ],
+      "phonetic": "しゅうれい",
+      "word": "終礼"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107dfc877",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lời chào năm mới ."
+        }
+      ],
+      "mobileId": 55621,
+      "phonetic": "ねんれい",
+      "related_words": {
+        "word": [
+          "年",
+          "礼"
+        ]
+      },
+      "word": "年礼"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a60621",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hand motion indicating gratitude"
+        }
+      ],
+      "mobileId": 212171,
+      "phonetic": "しゅれい",
+      "word": "手礼"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4a6b19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cúi đầu trong khi ngồi"
+        }
+      ],
+      "mobileId": 148104,
+      "opposite_word": [
+        "立礼"
+      ],
+      "phonetic": "ざれい",
+      "word": "座礼"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f1dc9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "burial at sea"
+        }
+      ],
+      "mobileId": 263997,
+      "phonetic": "すいそうれい みずそうれい",
+      "word": "水葬礼"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddd4b55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lễ chào danh dự"
+        }
+      ],
+      "mobileId": 16763,
+      "phonetic": "えいよれい",
+      "word": "栄誉礼"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b1968b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the Li Ji or Book of Rites - one of the Five Classics"
+        }
+      ],
+      "mobileId": 212561,
+      "phonetic": "らいき",
+      "word": "礼記"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9ab953",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thanh gươm chào"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "return call or visit"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "return salute"
+        }
+      ],
+      "mobileId": 115976,
+      "phonetic": "かたなれい",
+      "related_words": {
+        "word": [
+          "刀",
+          "礼"
+        ]
+      },
+      "word": "刀礼"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107ba64aa",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "砂塵嵐",
+              "mean": "bão cát",
+              "transcription": "さじんあらし"
+            },
+            {
+              "content": "海の嵐",
+              "mean": "bão biển",
+              "transcription": "うみのあらし"
+            },
+            {
+              "content": "ものすごい嵐",
+              "mean": "cơn bão khủng khiếp .",
+              "transcription": "ものすごいあらし"
+            }
+          ],
+          "kind": "n",
+          "mean": "cơn bão; giông tố"
+        }
+      ],
+      "mobileId": 55011,
+      "phonetic": "あらし",
+      "related_words": {
+        "word": [
+          "砂嵐",
+          "青嵐"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "嵐",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "颶風",
+                "トルネード",
+                "竜巻",
+                "旋風"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "黒風",
+                "暴風",
+                "ストーム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "暴風"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "嵐"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954e829c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảm giác về được nhận chìm trong một khí quyển xanh lục, có nhiều núi"
+        }
+      ],
+      "mobileId": 58597,
+      "phonetic": "みどりあらし",
+      "word": "翠嵐"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db22574",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gió bão mùa xuân"
+        }
+      ],
+      "mobileId": 151381,
+      "phonetic": "はるあらし",
+      "word": "春嵐"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef953ed29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dust storm, sand storm"
+        }
+      ],
+      "mobileId": 275417,
+      "phonetic": "さじんあらし",
+      "word": "砂塵嵐"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77328582",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snowstorm, blizzard"
+        }
+      ],
+      "mobileId": 266097,
+      "phonetic": "ゆきあらし",
+      "word": "雪嵐"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b223af668",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Giông bão lớn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "嵐い"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e786087",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Trong mặt trăng (với) những đám mây (mây) hoa  đến gió (lạnh)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "はなにあらし",
+      "word": "花に嵐"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b85a1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Oceanus Procellarum (lunar mare), Ocean of Storms"
+        }
+      ],
+      "mobileId": 278622,
+      "phonetic": "あらしのたいよう",
+      "word": "嵐の大洋"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c87c21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5b",
+          "mean": "to cause a commotion, to create a big stir, to invoke a storm"
+        }
+      ],
+      "mobileId": 279163,
+      "phonetic": "あらしをよぶ",
+      "word": "嵐を呼ぶ"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdbfb82e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơn bão tia sáng vũ trụ"
+        }
+      ],
+      "mobileId": 15856,
+      "phonetic": "うちゅうせんあらし",
+      "word": "宇宙線嵐"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

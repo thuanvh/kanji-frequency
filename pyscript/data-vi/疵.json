@@ -1,0 +1,270 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e19cc5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vết thương; vết thương; làm đau; cắt; vết thương; thâm tím; làm xước; thành sẹo; yếu chỉ"
+        }
+      ],
+      "mobileId": 25059,
+      "phonetic": "きず",
+      "word": "疵"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955d2a8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "làm hỏng gây ra gần chà xát"
+        }
+      ],
+      "mobileId": 59059,
+      "phonetic": "こすりきず",
+      "synsets": [
+        {
+          "base_form": "擦り疵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "擦過傷",
+                "創痕",
+                "創痍",
+                "傷",
+                "傷口",
+                "古疵",
+                "傷痕",
+                "爪跡",
+                "痕跡",
+                "古傷",
+                "切り疵",
+                "古創",
+                "擦傷",
+                "掠り",
+                "引き攣り",
+                "擦り傷",
+                "擦疵",
+                "傷跡"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "擦過傷",
+                "擦傷",
+                "すりむけ",
+                "擦り傷",
+                "擦疵"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "擦り疵"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca062f3ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scratch, graze, abrasion"
+        }
+      ],
+      "mobileId": 284133,
+      "phonetic": "すれきず",
+      "word": "擦れ疵"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd307068",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tiền sảnh làm bị thương"
+        }
+      ],
+      "mobileId": 70344,
+      "phonetic": "むこうきず",
+      "related_words": {
+        "word": [
+          "向こう"
+        ]
+      },
+      "word": "向こう疵"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5091e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm hư hỏng; sự bất thường; đào ngũ"
+        }
+      ],
+      "mobileId": 148294,
+      "phonetic": "きずきず",
+      "word": "疵瑕"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a74c2ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuốc xoa vết thương; thuốc chữa vết thương; thuốc bôi vết thương ."
+        }
+      ],
+      "mobileId": 172215,
+      "phonetic": "きずぐすり",
+      "word": "疵薬"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81d936a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cắt; vết thương; vết khắc"
+        }
+      ],
+      "mobileId": 34440,
+      "phonetic": "きりきず",
+      "related_words": {
+        "word": [
+          "切",
+          "切り"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "切り疵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "擦過傷",
+                "創痕",
+                "創痍",
+                "傷",
+                "傷口",
+                "古疵",
+                "傷痕",
+                "爪跡",
+                "痕跡",
+                "古傷",
+                "古創",
+                "擦傷",
+                "掠り",
+                "引き攣り",
+                "擦り傷",
+                "擦疵",
+                "擦り疵",
+                "傷跡"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "切れ込み",
+                "裁ち",
+                "切れ目",
+                "切断",
+                "カット",
+                "切目",
+                "分け前",
+                "切り傷",
+                "切り通し",
+                "切通",
+                "裁ち方",
+                "切り創"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "傷",
+                "切り傷",
+                "切り創"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "切り傷",
+                "切り創"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "切れ込み",
+                "裁ち",
+                "切れ目",
+                "切断",
+                "切目",
+                "切り傷",
+                "切り通し",
+                "裁ち方",
+                "切り創"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "切り疵"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936d6ee7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vết thương do kiếm (gươm)"
+        }
+      ],
+      "mobileId": 21407,
+      "phonetic": "かたなきず",
+      "related_words": {
+        "word": [
+          "刀"
+        ]
+      },
+      "word": "刀疵"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a74b465",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miệng vết thương; vết thương ."
+        }
+      ],
+      "mobileId": 172213,
+      "phonetic": "きずぐち",
+      "word": "疵口"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95599f14",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5t",
+          "mean": "để có một lương tâm phạm tội"
+        }
+      ],
+      "mobileId": 58954,
+      "phonetic": "はぎにきずもつ",
+      "word": "脛に疵持つ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

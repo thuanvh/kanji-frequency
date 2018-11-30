@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6df978b2",
+      "means": [
+        {
+          "examples": [],
+          "kind": "num",
+          "mean": "Khéo léo,mẹo,kỹ năng(giống kiểu sở trường)"
+        }
+      ],
+      "mobileId": 223196,
+      "phonetic": "こつ",
+      "word": "忽"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8e8d6cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "xem sudden"
+        },
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "bất ngờ, thình lình, đột xuất; gây ngạc nhiên"
+        }
+      ],
+      "mobileId": 40967,
+      "phonetic": "",
+      "word": "忽然"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

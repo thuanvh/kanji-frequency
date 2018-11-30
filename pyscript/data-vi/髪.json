@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568013f5ab5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "硬い［柔らかい］髪",
+              "mean": "tóc cứng (mềm)",
+              "transcription": "かたい［やわらかい］かみ"
+            },
+            {
+              "content": "髪を分ける",
+              "mean": "rẽ tóc",
+              "transcription": "かみをわける"
+            },
+            {
+              "content": "髪を整える",
+              "mean": "cặp tóc (buộc tốc)",
+              "transcription": "かみをととのえる"
+            },
+            {
+              "content": "髪を梳(と)かす",
+              "mean": "chải tóc (chải đầu)",
+              "transcription": "かみをくしけず(と)かす"
+            },
+            {
+              "content": "髪を染める",
+              "mean": "nhuộm tóc",
+              "transcription": "かみをそめる"
+            },
+            {
+              "content": "髪を刈る",
+              "mean": "cắt tóc",
+              "transcription": "かみをかる"
+            },
+            {
+              "content": "髪、よく乾かしたか?",
+              "mean": "Bạn đã sấy kỹ tóc chưa?",
+              "transcription": "かみ、よくかわかしたか?"
+            }
+          ],
+          "kind": "n",
+          "mean": "tóc"
+        }
+      ],
+      "mobileId": 42831,
+      "phonetic": "かみ",
+      "related_words": {
+        "word": [
+          "金髪",
+          "危機一髪",
+          "髪の毛",
+          "髪型",
+          "髪飾り",
+          "前髪",
+          "黒髪",
+          "白髪",
+          "散髪",
+          "理髪店"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "髪",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "髪の毛",
+                "毛",
+                "頭髪",
+                "ヘア",
+                "毛髪"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一髪",
+                "毛"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "髪"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6891ad90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tóc chia ra trong midde"
+        }
+      ],
+      "mobileId": 4625,
+      "phonetic": "ふりわけかみ",
+      "word": "振り分け髪"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02a9b58",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hair tie"
+        }
+      ],
+      "mobileId": 282308,
+      "phonetic": "かみゴム",
+      "word": "髪ゴム"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a38179",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hairdo"
+        }
+      ],
+      "mobileId": 286173,
+      "phonetic": "ゆいがみ ゆがみ",
+      "word": "結い髪"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9113aed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rapid growth of hair when one is relaxed"
+        }
+      ],
+      "mobileId": 273321,
+      "phonetic": "らくがみ",
+      "word": "楽髪"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0d2862",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "curly hair, curled hair"
+        }
+      ],
+      "mobileId": 223827,
+      "phonetic": "まきがみ",
+      "word": "巻き髪"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05cdef8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hair type, hair quality"
+        }
+      ],
+      "mobileId": 283947,
+      "phonetic": "かみしつ",
+      "word": "髪質"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01538a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hairpiece, false hair, wig"
+        }
+      ],
+      "mobileId": 281632,
+      "phonetic": "かはつ",
+      "word": "仮髪"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca037d9ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "hair that is smoothed down"
+        }
+      ],
+      "mobileId": 282753,
+      "phonetic": "なでつけがみ",
+      "word": "撫で付け髪"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955a36d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bị ràng buộc tóc ở sau và việc treo xuống; dài (lâu) chảy tóc"
+        }
+      ],
+      "mobileId": 58972,
+      "phonetic": "しでかみ",
+      "related_words": {
+        "word": [
+          "髪"
+        ]
+      },
+      "word": "垂髪"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

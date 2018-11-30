@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8020228",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đe doạ, lời đe doạ, lời hăm doạ"
+        }
+      ],
+      "mobileId": 33548,
+      "opposite_word": [
+        "刹那"
+      ],
+      "phonetic": "こう",
+      "related_words": {
+        "word": [
+          "永劫",
+          "億劫"
+        ]
+      },
+      "word": "劫"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8fecb16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẻ cướp đại lộ"
+        }
+      ],
+      "mobileId": 41682,
+      "phonetic": "こうとう",
+      "related_words": {
+        "word": [
+          "劫"
+        ]
+      },
+      "word": "劫盗"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aafaff3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the four kalpa (formation, existence, destruction, nothingness)"
+        }
+      ],
+      "mobileId": 229018,
+      "phonetic": "しこう",
+      "word": "四劫"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ff6a2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trừng phạt vĩnh cửu"
+        }
+      ],
+      "mobileId": 41701,
+      "phonetic": "こうばつ",
+      "related_words": {
+        "word": [
+          "罰",
+          "劫"
+        ]
+      },
+      "word": "劫罰"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193102ea9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "doạ, đe doạ, hăm doạ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "buộc, ép, ép buộc"
+        }
+      ],
+      "mobileId": 18435,
+      "phonetic": "こうかす",
+      "related_words": {
+        "word": [
+          "劫"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "劫かす",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "脅やかす",
+                "凄む",
+                "脅す",
+                "脅かす",
+                "脅しつける"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "脅やかす",
+                "脅かす"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "劫かす"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aafb308",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the kalpa of existence (the second aeon of the universe)"
+        }
+      ],
+      "mobileId": 229020,
+      "phonetic": "じゅうこう",
+      "word": "住劫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aafb087",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the kalpa of formation (the first aeon of the universe)"
+        }
+      ],
+      "mobileId": 229019,
+      "phonetic": "じょうこう じょうごう",
+      "word": "成劫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aafc011",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the kalpa of destruction (the third aeon of the universe)"
+        }
+      ],
+      "mobileId": 229021,
+      "phonetic": "えこう",
+      "word": "壊劫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aafcb92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the kalpa of nothingness (the final aeon of the universe)"
+        }
+      ],
+      "mobileId": 229022,
+      "phonetic": "くうこう くうごう",
+      "word": "空劫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

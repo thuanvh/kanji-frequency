@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a98247c255",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "yours sincerely (used to sign off on letters), respectfully yours"
+        }
+      ],
+      "mobileId": 233903,
+      "phonetic": "かしこ かしく",
+      "word": "畏"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd609473",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự kinh hãi; nỗ sợ hãi"
+        }
+      ],
+      "mobileId": 12872,
+      "phonetic": "",
+      "word": "畏懼"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0dffad5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "The young should be regarded with respect"
+        }
+      ],
+      "mobileId": 214080,
+      "phonetic": "こうせいかい",
+      "word": "後生可畏"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

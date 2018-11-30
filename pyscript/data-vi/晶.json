@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e1b96a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu vỏ chanh, Xitrin"
+        }
+      ],
+      "mobileId": 25063,
+      "phonetic": "おうすいあきら",
+      "related_words": {
+        "word": [
+          "水",
+          "黄",
+          "水晶"
+        ]
+      },
+      "word": "黄水晶"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0279342",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phenocryst"
+        }
+      ],
+      "mobileId": 282208,
+      "phonetic": "はんしょう",
+      "word": "斑晶"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fae3a79",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "氷晶成長",
+              "mean": "sự phát triển của tinh thể nước đá",
+              "transcription": "こおりあきらせいちょう"
+            },
+            {
+              "content": "氷晶核",
+              "mean": "tinh thể nước đá // tinh thể hình thành nước đá",
+              "transcription": "こおりあきらかく"
+            }
+          ],
+          "kind": "n",
+          "mean": "Tinh thể nước đá"
+        }
+      ],
+      "mobileId": 187804,
+      "phonetic": "ひょうしょう",
+      "related_words": {
+        "word": [
+          "氷"
+        ]
+      },
+      "word": "氷晶"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db8ffbe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ánh sáng rực rỡ"
+        }
+      ],
+      "mobileId": 151613,
+      "phonetic": "あきらこう",
+      "word": "晶光"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d14ec04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "eutectic point, lowest melting point"
+        }
+      ],
+      "mobileId": 215770,
+      "phonetic": "きょうしょう",
+      "word": "共晶"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6294ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "druse, globular calcium oxalate crystals, often lining a rock cavity"
+        }
+      ],
+      "mobileId": 226536,
+      "phonetic": "しょうどう",
+      "word": "晶洞"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0972bb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "crystallization, crystallisation"
+        }
+      ],
+      "mobileId": 211699,
+      "phonetic": "しょうせき",
+      "word": "晶析"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db44617",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự kết tinh"
+        }
+      ],
+      "mobileId": 151453,
+      "phonetic": "あきらか",
+      "word": "晶化"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010733b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Vô định hình ."
+        }
+      ],
+      "mobileId": 41882,
+      "phonetic": "ひしょうしつ",
+      "word": "非晶質"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb8c765",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đá cyanite"
+        }
+      ],
+      "mobileId": 74714,
+      "phonetic": "あいあきらせき",
+      "word": "藍晶石"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d046cac",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "mái hiên (mái)"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "lối đi hẹp xung quanh lõi của một ngôi đền"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "vành, đỉnh"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "kiểu tóc pompadour kiểu cổ điển của phụ nữ Nhật Bản"
+        }
+      ],
+      "mobileId": 215251,
+      "phonetic": "ひさし",
+      "word": "庇"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e816f728",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự che giấu, sự bao che (tội phạm ...)"
+        }
+      ],
+      "mobileId": 34231,
+      "phonetic": "きょくひさし",
+      "related_words": {
+        "word": [
+          "曲"
+        ]
+      },
+      "word": "曲庇"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0479b3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "visor, eyeshade"
+        }
+      ],
+      "mobileId": 209139,
+      "phonetic": "まびさし",
+      "word": "眉庇"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e1b2bd5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Give him an inch and he'll take an ell, Give him an inch and he'll take a yard"
+        }
+      ],
+      "mobileId": 248891,
+      "phonetic": "ひさしをかしておもやをとられる",
+      "word": "庇を貸して母屋を取られる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

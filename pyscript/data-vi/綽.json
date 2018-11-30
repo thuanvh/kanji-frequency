@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280272964ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tên hiệu; biệt hiệu; tên giễu; ních; nickname ."
+        }
+      ],
+      "mobileId": 29762,
+      "opposite_word": [
+        "本名"
+      ],
+      "phonetic": "あだな",
+      "related_words": {
+        "word": [
+          "名"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "綽名",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "愛称",
+                "渾名",
+                "ニックネーム",
+                "通称"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "綽名"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774361e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nickname"
+        }
+      ],
+      "mobileId": 266634,
+      "phonetic": "しゃくごう",
+      "word": "綽号"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280279f8c8e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "藍色の目",
+              "mean": "đôi mắt màu xanh lục",
+              "transcription": "あいいろのめ"
+            },
+            {
+              "content": "藍色被せガラス",
+              "mean": "chiếc ly màu chàm .",
+              "transcription": "あいいろかぶせガラス"
+            }
+          ],
+          "kind": "n",
+          "mean": "màu chàm"
+        },
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "C&acirc;y ch&agrave;m"
+        }
+      ],
+      "mobileId": 31907,
+      "phonetic": "あい",
+      "related_words": {
+        "word": [
+          "藍色",
+          "伽藍"
+        ]
+      },
+      "word": "藍"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef914a596",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stencil dyeing produced with various shades of indigo"
+        }
+      ],
+      "mobileId": 273435,
+      "phonetic": "あいがた",
+      "word": "藍型"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef914ac30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "indigo-dyed paper, indigo paper"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "spiderwort-dyed paper"
+        }
+      ],
+      "mobileId": 273436,
+      "phonetic": "あいがみ",
+      "word": "藍紙"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef914e764",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "earthenware pot for storing indigo dye"
+        }
+      ],
+      "mobileId": 273441,
+      "phonetic": "あいがめ",
+      "word": "藍瓶"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91dbcbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "indigo-colored ceramics, indigo-patterned cloth"
+        }
+      ],
+      "mobileId": 273723,
+      "phonetic": "あいそめつけ",
+      "word": "藍染め付け"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91e3c88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "indigo-tinged grey, indigo-tinged gray"
+        }
+      ],
+      "mobileId": 273742,
+      "phonetic": "あいねずみ",
+      "word": "藍鼠"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9094878",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ukiyo-e print produced with various shades of indigo (and sometimes small amounts of vermilion or yellow)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "staining a pattern on fabric or paper by rubbing it with indigo leaves"
+        }
+      ],
+      "mobileId": 273058,
+      "phonetic": "あいずり",
+      "word": "藍摺り"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9de716d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Assam indigo (Strobilanthes cusia)"
+        }
+      ],
+      "mobileId": 263381,
+      "phonetic": "りゅうきゅうあい リュウキュウアイ",
+      "word": "琉球藍"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd29ef79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu chàm"
+        }
+      ],
+      "mobileId": 11130,
+      "phonetic": "あいぞめ",
+      "related_words": {
+        "word": [
+          "藍",
+          "染め"
+        ]
+      },
+      "word": "藍染め"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbae8b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giẻ rách; mảnh nhỏ; quần áo rách rưới; lỗi (esp. trong một sự giả vờ); đào ngũ; suy thoái hoặc junky"
+        }
+      ],
+      "mobileId": 74778,
+      "phonetic": "",
+      "word": "藍褸"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

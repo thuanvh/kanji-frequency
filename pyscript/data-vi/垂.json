@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e17d74f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "có tai thõng xuống"
+        }
+      ],
+      "mobileId": 111792,
+      "phonetic": "しでみみ",
+      "word": "垂耳"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954861ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự cung cấp tin tức; sự thông tin, tin tức, tài liệu; kiến thức, điều buộc tội"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự dạy, kiến thức truyền cho, tài liệu cung cấp cho, chỉ thị, lời chỉ dẫn"
+        }
+      ],
+      "mobileId": 58400,
+      "phonetic": "しできょう",
+      "synsets": [
+        {
+          "base_form": "垂教",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "教育",
+                "教え",
+                "指導",
+                "教授",
+                "指南"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "垂教"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0d50ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "typical dress of the military class, usually worn together with a hakama"
+        }
+      ],
+      "mobileId": 248423,
+      "phonetic": "ひたたれ",
+      "word": "垂領"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955a36d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bị ràng buộc tóc ở sau và việc treo xuống; dài (lâu) chảy tóc"
+        }
+      ],
+      "mobileId": 58972,
+      "phonetic": "しでかみ",
+      "related_words": {
+        "word": [
+          "髪"
+        ]
+      },
+      "word": "垂髪"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9548c273",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự dạy, kiến thức truyền cho, tài liệu cung cấp cho, chỉ thị, lời chỉ dẫn"
+        }
+      ],
+      "mobileId": 58412,
+      "phonetic": "しでくん",
+      "word": "垂訓"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954e5cb0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây liễu rủ cành"
+        }
+      ],
+      "mobileId": 58592,
+      "phonetic": "",
+      "word": "垂楊"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954a4fda",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dây dọi"
+        }
+      ],
+      "mobileId": 58465,
+      "phonetic": "しでじゅん",
+      "related_words": {
+        "word": [
+          "準"
+        ]
+      },
+      "word": "垂準"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9202a60",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wattle (of a bird's neck)"
+        }
+      ],
+      "mobileId": 273802,
+      "phonetic": "にくすい",
+      "word": "肉垂"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f77d48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hanging tail (of a traditional Japanese hat), drooping tail"
+        }
+      ],
+      "mobileId": 264187,
+      "phonetic": "すいえい たれえい",
+      "word": "垂纓"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9280b27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yellow wattlebird (Anthochaera paradoxa)"
+        }
+      ],
+      "mobileId": 257551,
+      "phonetic": "きみみだれみつすい キミミダレミツスイ",
+      "word": "黄耳垂蜜吸"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

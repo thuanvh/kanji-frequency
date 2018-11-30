@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a390a43",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "子狐たち",
+              "mean": "bầy cáo nhỏ",
+              "transcription": "こきつねたち"
+            }
+          ],
+          "kind": "n",
+          "mean": "cáo; chồn"
+        }
+      ],
+      "mobileId": 171301,
+      "phonetic": "きつね",
+      "related_words": {
+        "word": [
+          "白狐",
+          "狐火",
+          "狐狸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "狐",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "トパーズ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "飴"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "狐狸",
+                "稲荷"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "狐"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77623869",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bad fox"
+        }
+      ],
+      "mobileId": 267632,
+      "phonetic": "あっこ",
+      "word": "悪狐"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f1756b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cooking (something) to a golden brown, something cooked until it's golden brown"
+        }
+      ],
+      "mobileId": 263984,
+      "phonetic": "きつねやき",
+      "word": "狐焼"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab3073a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "high ranking kitsune (fox spirit)"
+        }
+      ],
+      "mobileId": 229126,
+      "phonetic": "てんこ",
+      "word": "天狐"
+    },
+    {
+      "_id": "432518852de0a80625d585a98241f641",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mythological pipe fox"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "stoat"
+        }
+      ],
+      "mobileId": 233709,
+      "phonetic": "くだぎつね",
+      "word": "管狐"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77623522",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fox spirit"
+        }
+      ],
+      "mobileId": 267631,
+      "phonetic": "これい",
+      "word": "狐霊"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abe1788",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red fox (Vulpes vulpes)"
+        }
+      ],
+      "mobileId": 229496,
+      "phonetic": "あかぎつね アカギツネ",
+      "word": "赤狐"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77623b38",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "good fox"
+        }
+      ],
+      "mobileId": 267633,
+      "phonetic": "ぜんこ",
+      "word": "善狐"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a392abe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Màu nâu nhạt ."
+        }
+      ],
+      "mobileId": 171305,
+      "phonetic": "きつねいろ",
+      "word": "狐色"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a918fb3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Arctic fox (Vulpes lagopus, formerly Alopex lagopus)"
+        }
+      ],
+      "mobileId": 257084,
+      "phonetic": "ほっきょくぎつね ホッキョクギツネ",
+      "word": "北極狐"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a05658d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "灌木地",
+              "mean": "Vùng đất nhiều cây bụi",
+              "transcription": "灌木ち"
+            },
+            {
+              "content": "灌木になる実",
+              "mean": "Quả cây bụi .",
+              "transcription": "灌木になるみ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cây bụi; bụi rậm"
+        }
+      ],
+      "mobileId": 170372,
+      "opposite_word": [
+        "喬木"
+      ],
+      "phonetic": "かんぼく",
+      "word": "灌木"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a058a82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự rửa ruột; rửa ruột ."
+        }
+      ],
+      "mobileId": 170375,
+      "phonetic": "かんちょう",
+      "word": "灌腸"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90ae793",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "baptism-like ceremony performed by the buddhas on a bodhisattva who attains buddhahood"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "baptism-like ceremony for conferring onto someone precepts, a mystic teaching, etc. (in esoteric Buddhism)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pouring water onto a gravestone"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "teaching esoteric techniques, compositions, etc. (in Japanese poetry or music)"
+        }
+      ],
+      "mobileId": 273112,
+      "phonetic": "かんじょう かんちょう",
+      "word": "灌頂"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a057b02",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "灌漑用掘割",
+              "mean": "rãnh đào để tưới tiêu",
+              "transcription": "灌漑ようほりわり"
+            },
+            {
+              "content": "灌漑の便がある",
+              "mean": "Có lợi ích tưới tiêu .",
+              "transcription": "灌漑のびんがある"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "sự tưới (cho đồng ruộng); sự tưới tiêu; thủy lợi; tưới tiêu"
+        }
+      ],
+      "mobileId": 170373,
+      "phonetic": "かんがい",
+      "word": "灌漑"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ac0a24",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự tưới nước"
+        }
+      ],
+      "mobileId": 23374,
+      "phonetic": "",
+      "word": "灌水"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8b6a8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cuốn trôi một xác chết cho việc chôn cất"
+        }
+      ],
+      "mobileId": 73230,
+      "phonetic": "",
+      "word": "湯灌"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825f02d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Buddha's Birthday (8th day of the 4th lunar month)"
+        }
+      ],
+      "mobileId": 234637,
+      "phonetic": "かんぶつえ",
+      "word": "灌仏会"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ffc577",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "perfusion pressure"
+        }
+      ],
+      "mobileId": 272750,
+      "phonetic": "かんりゅうあつ",
+      "word": "灌流圧"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a0581a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công trình thủy lợi ."
+        }
+      ],
+      "mobileId": 170374,
+      "phonetic": "かんがいしせつ",
+      "word": "灌漑施設"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c03d97d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "irrigation water"
+        }
+      ],
+      "mobileId": 208815,
+      "phonetic": "かんがいようすい",
+      "word": "灌漑用水"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

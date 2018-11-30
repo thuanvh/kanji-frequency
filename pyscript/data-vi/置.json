@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0bbb730",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "abolishing and establishing"
+        }
+      ],
+      "mobileId": 286989,
+      "phonetic": "はいち",
+      "word": "廃置"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b5eacc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "mở đầu; lời giới thiệu"
+        }
+      ],
+      "mobileId": 61880,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "前"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "前置",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "序説",
+                "叙文",
+                "案内書",
+                "序章",
+                "概論",
+                "前書き",
+                "前書",
+                "導入",
+                "緒論",
+                "前説",
+                "口書き",
+                "手引き",
+                "序論",
+                "前置き",
+                "序文",
+                "冒頭",
+                "前文",
+                "手引",
+                "序"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "前奏",
+                "導入",
+                "前置き"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "前置"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7c5588",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thấp (thùng nhà vệ sinh)"
+        }
+      ],
+      "mobileId": 114984,
+      "phonetic": "",
+      "word": "低置"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e18869",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "retention, keeping in custody (e.g. of a court)"
+        }
+      ],
+      "mobileId": 271786,
+      "phonetic": "りょうち",
+      "word": "領置"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d55c1b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ngưỡng cửa, bước đầu, ngưỡng"
+        }
+      ],
+      "mobileId": 148461,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "居",
+          "敷居"
+        ]
+      },
+      "word": "敷居置"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bace18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "cuối  thu"
+        }
+      ],
+      "mobileId": 39475,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "後"
+        ]
+      },
+      "word": "後置"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ec88d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "mandatory requirements (e.g. qualifications, administrative structures, etc.)"
+        }
+      ],
+      "mobileId": 280324,
+      "phonetic": "ひっち",
+      "word": "必置"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df24fae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "standing"
+        },
+        {
+          "examples": null,
+          "kind": "vs",
+          "mean": "to stand, to leave (e.g. for curd to form, fermentation to occur, etc.)"
+        }
+      ],
+      "mobileId": 222959,
+      "phonetic": "せいち",
+      "word": "静置"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69abe6c86",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sự thả neo ."
+        }
+      ],
+      "mobileId": 173442,
+      "phonetic": "ていち",
+      "word": "碇置"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada43ddfb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rau tiền đạo ."
+        }
+      ],
+      "mobileId": 78098,
+      "phonetic": "まえおきたいばん",
+      "word": "前置胎盤"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

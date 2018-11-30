@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aaf2a68",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "mâu"
+        }
+      ],
+      "mobileId": 173197,
+      "phonetic": "ほこ",
+      "related_words": {
+        "word": [
+          "矛盾",
+          "矛先"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "矛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "槍",
+                "戈",
+                "鉾"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "矛"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a61a9d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"spear\" radical at left"
+        }
+      ],
+      "mobileId": 226509,
+      "phonetic": "ほこへん",
+      "word": "矛偏"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77181ffb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spear-shaped Japanese cedar"
+        }
+      ],
+      "mobileId": 265236,
+      "phonetic": "ほこすぎ",
+      "word": "矛杉"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821a6ec4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jeweled spear (jewelled)"
+        }
+      ],
+      "mobileId": 232472,
+      "phonetic": "ぬほこ",
+      "word": "瓊矛"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af0e8b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bronze hoko, bronze halberd, bronze spearhead"
+        }
+      ],
+      "mobileId": 231144,
+      "phonetic": "どうほこ どうぼこ",
+      "word": "銅矛"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02f1174",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "penis"
+        }
+      ],
+      "mobileId": 200148,
+      "phonetic": "ちんぽこ",
+      "word": "珍矛"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c051aac7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "to sheathe one's sword, to lay down arms, to bury the hatchet"
+        }
+      ],
+      "mobileId": 209473,
+      "phonetic": "ほこをおさめる",
+      "word": "矛を収める"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821a96a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ama no Nuhoko, the heavenly jeweled spear used by Izanagi and Izanami"
+        }
+      ],
+      "mobileId": 232476,
+      "phonetic": "あまのぬほこ",
+      "word": "天の瓊矛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d670ed7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tang lễ thành phố"
+        }
+      ],
+      "mobileId": 149008,
+      "phonetic": "しそう",
+      "related_words": {
+        "word": [
+          "市"
+        ]
+      },
+      "word": "市葬"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111c8b1e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "最近樹木葬を選ぶ人が増えます。",
+              "mean": "gần đây số người chọn phương thức chôn cất bằng quan tài gỗ đang tăng lên."
+            }
+          ],
+          "kind": "",
+          "mean": "quan tài gỗ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "じゅもくそう",
+      "word": "樹木葬"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00271f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "family funeral"
+        }
+      ],
+      "mobileId": 281027,
+      "phonetic": "かぞくそう",
+      "word": "家族葬"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97888c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "interment, burial"
+        }
+      ],
+      "mobileId": 276585,
+      "phonetic": "れんそう",
+      "word": "斂葬"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111ca7b3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "最近樹木葬を選ぶ人が増えます。",
+              "mean": "gần đây số người chọn phương thức chôn cất bằng quan tài gỗ đang tăng lên."
+            }
+          ],
+          "kind": "",
+          "mean": "quan tài gỗ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "じゅもくそう",
+      "word": "樹木葬"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca048df46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "funeral performed for somebody while they are alive, living funeral"
+        }
+      ],
+      "mobileId": 283299,
+      "phonetic": "せいぜんそう",
+      "word": "生前葬"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c67f13",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(chú ý một) tang lễ"
+        }
+      ],
+      "mobileId": 62424,
+      "phonetic": "おくそう",
+      "word": "送葬"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8684225",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tang lễ quân đội"
+        }
+      ],
+      "mobileId": 36844,
+      "phonetic": "ぐんそう",
+      "word": "軍葬"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8689617",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tang lễ quân đội"
+        }
+      ],
+      "mobileId": 36856,
+      "phonetic": "ぐんたいそう",
+      "related_words": {
+        "word": [
+          "軍",
+          "軍隊"
+        ]
+      },
+      "word": "軍隊葬"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014779ca",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "死者を鳥葬する",
+              "mean": "Cái xác bị phơi cho chim ăn. .",
+              "transcription": "ししゃをとりそうする"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự phơi xác cho chim ăn"
+        }
+      ],
+      "mobileId": 42968,
+      "phonetic": "ちょうそう",
+      "word": "鳥葬"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939bbe5b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giới thiệu; khuyên; động viên; đề xuất (rượu nho)"
+        }
+      ],
+      "mobileId": 22868,
+      "phonetic": "すすむ",
+      "word": "勧"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ae2137",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giải thích rõ ràng và khuyến khích; khuyên răn"
+        }
+      ],
+      "mobileId": 23439,
+      "phonetic": "すすむせつ",
+      "related_words": {
+        "word": [
+          "説"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勧説",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "切言",
+                "説諭",
+                "説得"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "勧説"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a1316c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "có quyền thế chấp đắp bờ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "emotional chanting or recitation"
+        }
+      ],
+      "mobileId": 23030,
+      "phonetic": "すすむぎん",
+      "word": "勧銀"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a2d459",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khuyến khích công nghiệp"
+        }
+      ],
+      "mobileId": 23084,
+      "phonetic": "すすむこう",
+      "word": "勧工"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b44aae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khuyến nông"
+        }
+      ],
+      "mobileId": 23627,
+      "phonetic": "すすむのう",
+      "related_words": {
+        "word": [
+          "農"
+        ]
+      },
+      "word": "勧農"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7b9fde",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lesser cuckoo (Cuculus poliocephalus)"
+        }
+      ],
+      "mobileId": 227338,
+      "phonetic": "かんのうちょう",
+      "word": "勧農鳥"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ae6cf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xoắn giấy; chuỗi giấy xoắn"
+        }
+      ],
+      "mobileId": 23448,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "世"
+        ]
+      },
+      "word": "勧世縒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

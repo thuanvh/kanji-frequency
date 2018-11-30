@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cdfd3970",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "những cướp biển tiếng nhật ((của) những đứng tuổi)"
+        }
+      ],
+      "mobileId": 76832,
+      "phonetic": "",
+      "word": "倭冦"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de313d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xâm lược"
+        }
+      ],
+      "mobileId": 152995,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "侵冦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "来襲",
+                "侵攻",
+                "来攻",
+                "襲来",
+                "入冦",
+                "侵入",
+                "来冦",
+                "侵略",
+                "侵犯",
+                "侵掠"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "来襲",
+                "侵攻",
+                "来攻",
+                "襲来",
+                "入冦",
+                "侵入",
+                "蚕食",
+                "攻略",
+                "来冦",
+                "侵略",
+                "侵犯",
+                "侵掠"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "侵冦"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb37068",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự xâm lược, sự xâm chiếm, sự xâm lấn; sự xâm phạm (quyền lợi, đời sống riêng tư...)\r\ncuộc tấn công bất ngờ; cuộc đột kích"
+        }
+      ],
+      "mobileId": 74532,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "来"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "来冦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "来襲",
+                "侵冦",
+                "侵攻",
+                "来攻",
+                "襲来",
+                "入冦",
+                "侵入",
+                "侵略",
+                "侵犯",
+                "侵掠"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "来襲",
+                "襲来",
+                "攻撃",
+                "襲撃"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "来襲",
+                "侵冦",
+                "侵攻",
+                "来攻",
+                "襲来",
+                "入冦",
+                "侵入",
+                "蚕食",
+                "攻略",
+                "侵略",
+                "侵犯",
+                "侵掠"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "来冦"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7deb57bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sự xâm lược; sự xâm lăng ."
+        }
+      ],
+      "mobileId": 145413,
+      "phonetic": "にゅうこう",
+      "synsets": [
+        {
+          "base_form": "入冦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "来襲",
+                "侵冦",
+                "侵攻",
+                "来攻",
+                "襲来",
+                "侵入",
+                "来冦",
+                "侵略",
+                "侵犯",
+                "侵掠"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "来襲",
+                "侵冦",
+                "侵攻",
+                "来攻",
+                "襲来",
+                "侵入",
+                "蚕食",
+                "攻略",
+                "来冦",
+                "侵略",
+                "侵犯",
+                "侵掠"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "入冦"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d541e4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the remainder of one's life"
+        }
+      ],
+      "mobileId": 217795,
+      "phonetic": "ざんぜん",
+      "word": "残喘"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b48bf1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stridor"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "stridulous"
+        }
+      ],
+      "mobileId": 262055,
+      "phonetic": "ぜんおん",
+      "word": "喘音"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

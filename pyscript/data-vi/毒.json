@@ -1,0 +1,233 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f9b0e96",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この本は子供に毒",
+              "mean": "quyển sách này có hại đối với trẻ em",
+              "transcription": "このほんはこどもにどく"
+            }
+          ],
+          "kind": "n",
+          "mean": "độc hại; có hại"
+        },
+        {
+          "examples": [
+            {
+              "content": "ハチミツのような甘い舌の陰には、毒々しい心あり。",
+              "mean": "miệng nam mô, bụng bồ dao găm// lưỡi ngọt ngào như mật nhưng tâm địa lại có mầm độc",
+              "transcription": "ハチミツのようなあまいしたのかげには、どくどくしいこころあり。"
+            }
+          ],
+          "kind": "n",
+          "mean": "mầm bệnh"
+        },
+        {
+          "examples": [
+            {
+              "content": "ネズミ用の毒",
+              "mean": "bả chuột",
+              "transcription": "ネズミようのどく"
+            },
+            {
+              "content": "金の杯に入っていても毒は毒。",
+              "mean": "Thuốc độc chỉ là thuốc độc dù cho nó được đựng trong cốc vàng",
+              "transcription": "きんのはいにはいっていてもどくはどく。"
+            }
+          ],
+          "kind": "n",
+          "mean": "thuốc độc; độc"
+        }
+      ],
+      "mobileId": 187475,
+      "opposite_word": [
+        "薬"
+      ],
+      "phonetic": "どく",
+      "related_words": {
+        "word": [
+          "中毒",
+          "消毒",
+          "気の毒",
+          "毒性",
+          "毒物",
+          "毒舌",
+          "お気の毒",
+          "有毒",
+          "梅毒",
+          "消毒剤"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "毒",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "害毒",
+                "毒素",
+                "毒物",
+                "毒薬"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "害毒"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "毒液"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "毒"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b61520",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "using poisonous medication to control poison, fighting evil with evil, fighting fire with fire"
+        }
+      ],
+      "mobileId": 212710,
+      "phonetic": "いどくせいどく",
+      "word": "以毒制毒"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec2dcd3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rượu độc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dirty or underhanded trick"
+        }
+      ],
+      "mobileId": 117268,
+      "phonetic": "どくしゅ",
+      "word": "毒酒"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dad34c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ngộ độc rượu"
+        }
+      ],
+      "mobileId": 151219,
+      "phonetic": "さけどく",
+      "word": "酒毒"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773c0324",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "fight fire with fire, set a thief to catch a thief, fight one evil with another"
+        }
+      ],
+      "mobileId": 266400,
+      "phonetic": "どくをもってどくをせいす",
+      "word": "毒を以て毒を制す"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933715c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chất độc có trong sò hến"
+        }
+      ],
+      "mobileId": 19686,
+      "phonetic": "かいどく",
+      "related_words": {
+        "word": [
+          "毒",
+          "貝"
+        ]
+      },
+      "word": "貝毒"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca022d740",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(former Chinese name for) India"
+        }
+      ],
+      "mobileId": 282061,
+      "phonetic": "しんどく",
+      "word": "身毒"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02f6012",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giant moray (Gymnothorax javanicus)"
+        }
+      ],
+      "mobileId": 282463,
+      "phonetic": "どくうつぼ ドクウツボ",
+      "word": "毒鱓"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca064292f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cytotoxin, cellular poison"
+        }
+      ],
+      "mobileId": 284171,
+      "phonetic": "さいぼうどく",
+      "word": "細胞毒"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec23eea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "khoa chất độc"
+        }
+      ],
+      "mobileId": 117247,
+      "phonetic": "どくかがく",
+      "related_words": {
+        "word": [
+          "科学",
+          "毒",
+          "科"
+        ]
+      },
+      "word": "毒科学"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

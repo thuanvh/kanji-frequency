@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fdec76a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "châu lệ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hạt lệ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước mắt; lệ ."
+        }
+      ],
+      "mobileId": 188593,
+      "phonetic": "なみだ",
+      "related_words": {
+        "word": [
+          "涙ぐましい",
+          "感涙"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "涙",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "露"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "歔欷",
+                "嗚咽",
+                "泣き",
+                "歔欷き"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "涙"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94b4377",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eye bags, periorbital puffiness"
+        }
+      ],
+      "mobileId": 275152,
+      "phonetic": "なみだぶくろ",
+      "word": "涙袋"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b8b3a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Serpula lacrymans (species of dry rot fungus)"
+        }
+      ],
+      "mobileId": 278635,
+      "phonetic": "なみだたけ ナミダタケ",
+      "word": "涙茸"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dc78593",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "while crying, in tears"
+        }
+      ],
+      "mobileId": 221577,
+      "phonetic": "なみだながら",
+      "word": "涙ながら"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96d18bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tears of sadness"
+        }
+      ],
+      "mobileId": 259784,
+      "phonetic": "ひるい",
+      "word": "悲涙"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd506328",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nước mắt (của) sự biết ơn"
+        }
+      ],
+      "mobileId": 12358,
+      "phonetic": "ありがたなみだ",
+      "word": "有り難涙"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0bd7e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lacrimal bone (of the skull)"
+        }
+      ],
+      "mobileId": 223774,
+      "phonetic": "るいこつ",
+      "word": "涙骨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a26fdc5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dripping liquid (soup, sauce, etc.) from the tips of one's chopsticks (a breach of etiquette)"
+        }
+      ],
+      "mobileId": 224670,
+      "phonetic": "なみだばし",
+      "word": "涙箸"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b8ce2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, adj-nari",
+          "mean": "prone to crying"
+        }
+      ],
+      "mobileId": 278639,
+      "phonetic": "なみだがち",
+      "word": "涙勝ち"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b8d909",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lacrimal fluid, tears"
+        }
+      ],
+      "mobileId": 278641,
+      "phonetic": "るいえき",
+      "word": "涙液"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9519aa96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gấp hai lẻn đi"
+        }
+      ],
+      "mobileId": 56925,
+      "phonetic": "じゅうとう",
+      "word": "重盗"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81a36e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẻ cướp thời gian lớn"
+        }
+      ],
+      "mobileId": 34343,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "巨"
+        ]
+      },
+      "word": "巨盗"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773529f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dish of pickled skipjack tuna entrails sometimes mixed with sake, honey, mirin and onions (specialty of Kochi Prefecture)"
+        }
+      ],
+      "mobileId": 266184,
+      "phonetic": "しゅとう",
+      "word": "酒盗"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e961ff5",
+      "means": [
+        {
+          "kind": "n, vs",
+          "mean": "Chụp trộm"
+        }
+      ],
+      "mobileId": 115823,
+      "phonetic": "とう さつ",
+      "word": "盗撮"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8fecb16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẻ cướp đại lộ"
+        }
+      ],
+      "mobileId": 41682,
+      "phonetic": "こうとう",
+      "related_words": {
+        "word": [
+          "劫"
+        ]
+      },
+      "word": "劫盗"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3b45ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tăng lên ba lần trộm (bóng chày)"
+        }
+      ],
+      "mobileId": 147617,
+      "phonetic": "みえとう",
+      "related_words": {
+        "word": [
+          "三",
+          "重",
+          "三重"
+        ]
+      },
+      "word": "三重盗"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e07dd6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trộm nhà (bóng chày)"
+        }
+      ],
+      "mobileId": 7149,
+      "phonetic": "ほんとう",
+      "word": "本盗"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d89933",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ăn cắp vặt"
+        }
+      ],
+      "mobileId": 63025,
+      "phonetic": "ねずみとう",
+      "related_words": {
+        "word": [
+          "鼠"
+        ]
+      },
+      "word": "鼠盗"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08e4d08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brigand, bandit"
+        }
+      ],
+      "mobileId": 211416,
+      "phonetic": "やとう",
+      "word": "野盗"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eebd04b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ăn trộm, sự trộm cắp"
+        }
+      ],
+      "mobileId": 118539,
+      "phonetic": "とと",
+      "word": "盗取"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

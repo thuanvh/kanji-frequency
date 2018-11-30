@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9501a86b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ông, đồng hồ to để đứng"
+        }
+      ],
+      "mobileId": 56168,
+      "opposite_word": [
+        "婆"
+      ],
+      "phonetic": "じい",
+      "related_words": {
+        "word": [
+          "お爺さん"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "爺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "お爺さん",
+                "親父"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "隠居",
+                "翁",
+                "老翁",
+                "お爺さん"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "爺"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db9a774",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dirty old man, pervert, groper (on trains), lecher"
+        }
+      ],
+      "mobileId": 221113,
+      "phonetic": "エロじじい",
+      "word": "エロ爺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a29fdb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "old man, old goat"
+        }
+      ],
+      "mobileId": 224769,
+      "phonetic": "くそじじい",
+      "word": "糞爺"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e106294",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ông già xảo quyệt"
+        }
+      ],
+      "mobileId": 111549,
+      "phonetic": "たぬきじい",
+      "word": "狸爺"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf42c58",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grandfather (may be used after name as honorific)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "male senior-citizen (may be used after name as honorific)"
+        }
+      ],
+      "mobileId": 247631,
+      "phonetic": "じいちゃん",
+      "word": "爺ちゃん"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e47562e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Konaki Jijii (a ghost in Japanese folklore with the shape of a small old man and having a baby's cry)"
+        }
+      ],
+      "mobileId": 250322,
+      "phonetic": "こなきじじい",
+      "word": "子泣き爺"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

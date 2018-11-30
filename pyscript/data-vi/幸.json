@@ -1,0 +1,231 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107e3b6dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự may mắn; hạnh phúc ."
+        }
+      ],
+      "mobileId": 55672,
+      "phonetic": "さち",
+      "related_words": {
+        "word": [
+          "幸せ",
+          "幸福",
+          "不幸",
+          "幸運",
+          "幸運な",
+          "幸い",
+          "幸福な",
+          "海の幸",
+          "幸甚",
+          "お幸せに。"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "幸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "幸運",
+                "好運",
+                "僥倖",
+                "好機",
+                "福",
+                "盛運",
+                "仕合わせ",
+                "幸せ",
+                "吉",
+                "倖",
+                "多幸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "幸福",
+                "果報",
+                "福",
+                "仕合わせ",
+                "幸せ",
+                "幸い",
+                "倖"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "幸福",
+                "仕合わせ",
+                "幸せ",
+                "幸い",
+                "倖"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "天命",
+                "運",
+                "運命",
+                "宿命",
+                "天運",
+                "因縁",
+                "定め",
+                "仕合わせ",
+                "命運",
+                "幸せ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "幸運",
+                "好運",
+                "運",
+                "ラック",
+                "果報",
+                "付き",
+                "仕合わせ",
+                "幸せ",
+                "倖"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "幸"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1079c000d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trọng đãi ."
+        }
+      ],
+      "mobileId": 54478,
+      "phonetic": "ちょうこう",
+      "word": "寵幸"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0e5d64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "good luck!, all the best"
+        }
+      ],
+      "mobileId": 215555,
+      "phonetic": "さちあれ",
+      "related_words": {
+        "word": [
+          "あれ",
+          "幸"
+        ]
+      },
+      "word": "幸あれ"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107e3edc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hữu hạnh; hạnh phúc; may mắn ."
+        }
+      ],
+      "mobileId": 55678,
+      "phonetic": "さちある",
+      "word": "幸有る"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04dff17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adj-f",
+          "mean": "fortunate, happy, lucky"
+        }
+      ],
+      "mobileId": 209356,
+      "phonetic": "さちある",
+      "word": "幸ある"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9403233",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "style of recitative dance popular during the Muromachi period"
+        }
+      ],
+      "mobileId": 258342,
+      "phonetic": "こうわか",
+      "word": "幸若"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc601f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những sản phẩm biển"
+        }
+      ],
+      "mobileId": 16057,
+      "phonetic": "うみこう",
+      "word": "海幸"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ba2488",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the emperor's personal favour"
+        }
+      ],
+      "mobileId": 262226,
+      "phonetic": "おんこう",
+      "word": "恩幸"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0e6c9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "to wish someone luck, to wish someone well"
+        }
+      ],
+      "mobileId": 215556,
+      "phonetic": "さちあれといのる",
+      "word": "幸あれと祈る"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e325ccc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "style of recitative dance popular during the Muromachi period (often with a military theme)"
+        }
+      ],
+      "mobileId": 249648,
+      "phonetic": "こうわかまい",
+      "word": "幸若舞"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

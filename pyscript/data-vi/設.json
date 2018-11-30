@@ -1,0 +1,131 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0680d0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "removal (equipment, facilities, etc.)"
+        }
+      ],
+      "mobileId": 284291,
+      "phonetic": "げんせつ",
+      "word": "減設"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e79227",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "pouring concrete into formwork"
+        }
+      ],
+      "mobileId": 271987,
+      "phonetic": "だせつ",
+      "word": "打設"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf93eb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "design change, engineering change"
+        }
+      ],
+      "mobileId": 247783,
+      "phonetic": "せっぺん",
+      "word": "設変"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d14f4a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tổ chức lại, sự cải tổ lại"
+        }
+      ],
+      "mobileId": 146412,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "再"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "再設",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "更迭",
+                "再編",
+                "改廃",
+                "再編成",
+                "改装",
+                "更生",
+                "改編",
+                "再組織",
+                "再構成",
+                "改組"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "再設"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ce2ccd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pile-driving"
+        }
+      ],
+      "mobileId": 213495,
+      "phonetic": "くいうちせつ",
+      "word": "杭打設"
+    },
+    {
+      "_id": "edf7f33f53832e93b36c90d5fd08ba79",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "生コンクリートを打設する",
+              "mean": "Đổ bê tông tươi",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Đổ (bê tông)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "だせつ",
+      "word": "打設する"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b57002",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "percutaneous endoscopic gastrostomy, PEG"
+        }
+      ],
+      "mobileId": 278519,
+      "phonetic": "けいひないしきょうてきいろうぞうせつじゅつ",
+      "word": "経皮内視鏡的胃瘻造設術"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

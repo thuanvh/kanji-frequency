@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a1842d5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "パイプの煙",
+              "mean": "khói trong ống",
+              "transcription": "パイプのけむり"
+            },
+            {
+              "content": "すさまじい煙",
+              "mean": "làn khói nặng nền",
+              "transcription": "すさまじいけむり"
+            },
+            {
+              "content": "〜から出る煙",
+              "mean": "khói phát ra từ ~",
+              "transcription": "〜からでるけむり"
+            },
+            {
+              "content": "〜からもうもうと立ち上がる真っ黒い煙",
+              "mean": "khói đen kịt bay lên từ ~ .",
+              "transcription": "〜からもうもうとたちあがるまっくろいけむり"
+            }
+          ],
+          "kind": "n",
+          "mean": "khói"
+        }
+      ],
+      "mobileId": 170762,
+      "phonetic": "けむり",
+      "related_words": {
+        "word": [
+          "禁煙",
+          "喫煙",
+          "煙草",
+          "煙突",
+          "喫煙者",
+          "受動喫煙",
+          "発煙",
+          "黒煙",
+          "煙霧",
+          "煙たい"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "煙",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "煙霧",
+                "人煙"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "煙"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeaeaf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bụi trần; bụi khói; chiến loạn; cảnh chiến tranh"
+        }
+      ],
+      "mobileId": 17208,
+      "phonetic": "けむりちり",
+      "word": "煙塵"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77613f2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "haze near the water"
+        }
+      ],
+      "mobileId": 267601,
+      "phonetic": "さえん",
+      "word": "沙煙"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdedf3e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ống dẫn khí từ nồi súp de (nồi hơi) ra ống khói; ống dẫn khí bếp lò ra ống khói; đường thông khói của tẩu thuốc (ống điếu)"
+        }
+      ],
+      "mobileId": 17305,
+      "phonetic": "けむりどう",
+      "word": "煙道"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900efa602d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự thải khói ra; khói thải ra, khói tỏa ra (từ ống khói nhà máy ...)"
+        }
+      ],
+      "mobileId": 119006,
+      "phonetic": "はいけむり",
+      "word": "排煙"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ef7c8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "quitting smoking"
+        }
+      ],
+      "mobileId": 280425,
+      "phonetic": "そつえん",
+      "word": "卒煙"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db3dbd6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phủ bồ hóng (của) bị cháy héo hon; đánh dấu mực cái gậy (được làm từ cây thông bị cháy)"
+        }
+      ],
+      "mobileId": 151442,
+      "phonetic": "まつけむり",
+      "word": "松煙"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e822369",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "smoking (esp. as a means of preserving food)"
+        }
+      ],
+      "mobileId": 252225,
+      "phonetic": "くんえん",
+      "word": "燻煙"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6805fb8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khói trắng"
+        }
+      ],
+      "mobileId": 183,
+      "phonetic": "しろけむり",
+      "related_words": {
+        "word": [
+          "白",
+          "煙"
+        ]
+      },
+      "word": "白煙"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0505873",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "smoking"
+        }
+      ],
+      "mobileId": 283534,
+      "phonetic": "きゅうえん",
+      "word": "吸煙"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

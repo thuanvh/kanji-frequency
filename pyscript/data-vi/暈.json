@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935a57f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái quầng; cái vòng"
+        }
+      ],
+      "mobileId": 20794,
+      "phonetic": "かさ",
+      "word": "暈"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a9deaa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "lunar halo"
+        }
+      ],
+      "mobileId": 261709,
+      "phonetic": "つきがさ",
+      "word": "月暈"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d074b73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vertigo, staggers"
+        }
+      ],
+      "mobileId": 215330,
+      "phonetic": "うんとうびょう",
+      "word": "暈倒病"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

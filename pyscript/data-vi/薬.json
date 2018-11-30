@@ -1,0 +1,278 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280279e8d1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dược"
+        },
+        {
+          "examples": [
+            {
+              "content": "この薬はよく利く",
+              "mean": "thuốc này rất công hiệu",
+              "transcription": "このくすりはよくきく"
+            },
+            {
+              "content": "薬を飲む",
+              "mean": "uống thuốc .",
+              "transcription": "くすりをのむ"
+            }
+          ],
+          "kind": "n",
+          "mean": "thuốc"
+        }
+      ],
+      "mobileId": 31879,
+      "opposite_word": [
+        "毒"
+      ],
+      "phonetic": "くすり",
+      "related_words": {
+        "word": [
+          "薬剤師",
+          "目薬",
+          "医薬品",
+          "薬局",
+          "麻薬",
+          "薬品",
+          "農薬",
+          "媚薬",
+          "睡眠薬",
+          "薬剤"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "薬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "薬品",
+                "医薬品",
+                "飲み薬",
+                "医薬",
+                "薬剤"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "薬"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c12055",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuốc dùng ngoài da"
+        }
+      ],
+      "mobileId": 24031,
+      "phonetic": "がいようやく",
+      "related_words": {
+        "word": [
+          "用",
+          "薬",
+          "外",
+          "外用"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "外用薬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "付け薬",
+                "軟膏",
+                "膏薬"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "外用薬"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aff2db2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "expectorant"
+        }
+      ],
+      "mobileId": 231613,
+      "phonetic": "きょたんやく",
+      "word": "去痰薬"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111ba784",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "thuốc đắp, dán"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "しっぷやく",
+      "word": "湿布薬"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca018a5ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "analepticum, restorative medicine"
+        }
+      ],
+      "mobileId": 281749,
+      "phonetic": "かいふくやく",
+      "related_words": {
+        "word": [
+          "薬",
+          "回復",
+          "回"
+        ]
+      },
+      "word": "回復薬"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014c20d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuốc mê"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuốc tê ."
+        }
+      ],
+      "mobileId": 43067,
+      "phonetic": "ますいやく",
+      "related_words": {
+        "word": [
+          "薬",
+          "麻",
+          "麻酔"
+        ]
+      },
+      "word": "麻酔薬"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89ac15f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuốc giải độc, cái trừ tà"
+        }
+      ],
+      "mobileId": 38449,
+      "phonetic": "げどくやく",
+      "related_words": {
+        "word": [
+          "薬",
+          "毒",
+          "解毒"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "解毒薬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "解毒剤"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "解毒薬"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89b2dca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhuận tràng, thuốc nhuận tràng"
+        }
+      ],
+      "mobileId": 38463,
+      "phonetic": "したやく",
+      "related_words": {
+        "word": [
+          "下",
+          "薬"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "下薬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "下し薬",
+                "下剤"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "下薬"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821f3f77",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chamber (of a gun)"
+        }
+      ],
+      "mobileId": 232614,
+      "phonetic": "やくしつ",
+      "word": "薬室"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adab5d2d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Phương thuốc đặc biệt ."
+        }
+      ],
+      "mobileId": 79834,
+      "phonetic": "あいぐすり",
+      "related_words": {
+        "word": [
+          "薬",
+          "合い"
+        ]
+      },
+      "word": "合い薬"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

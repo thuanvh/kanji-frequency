@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d030360",
+      "means": [
+        {
+          "examples": [],
+          "kind": "pref",
+          "mean": "hiện tại"
+        }
+      ],
+      "mobileId": 215210,
+      "opposite_word": [
+        "夢"
+      ],
+      "phonetic": "げん",
+      "word": "現"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aac2105",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "present world, present age, transient world, life"
+        }
+      ],
+      "mobileId": 228899,
+      "phonetic": "げんざいせ",
+      "word": "現在世"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d10ff4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "infinite"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "incumbent member (or candidate) unaffiliated with a party"
+        }
+      ],
+      "mobileId": 215640,
+      "phonetic": "むげん",
+      "word": "無現"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a482450",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "地位は、その人の価値を現わす",
+              "mean": "địa vị thể hiện giá trị của con người",
+              "transcription": "ちいは、そのひとのかちをげんわす"
+            },
+            {
+              "content": "悪の本性を現わす",
+              "mean": "bộc lộ bản chất xấu",
+              "transcription": "あくのほんしょうをげんわす"
+            },
+            {
+              "content": "〜して本性を現わす",
+              "mean": "thể hiện bản chất bằng cách làm gì",
+              "transcription": "〜してほんしょうをげんわす"
+            },
+            {
+              "content": "効果を現わす(症状などに対する)",
+              "mean": "có hiệu quả (đối với bệnh tật)",
+              "transcription": "こうかをげんわす(しょうじょうなどにたいする)"
+            }
+          ],
+          "kind": "v5s",
+          "mean": "thể hiện; biểu hiện; cho thấy; làm cho xuất hiện; bộc lộ; xuất hiện; cho biết"
+        }
+      ],
+      "mobileId": 171552,
+      "phonetic": "あらわす",
+      "word": "現わす"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77360c4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "current model"
+        }
+      ],
+      "mobileId": 266210,
+      "phonetic": "げんごう",
+      "word": "現号"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04d8bd9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the present regime, the existing regime"
+        }
+      ],
+      "mobileId": 209339,
+      "phonetic": "げんたいせい",
+      "word": "現体制"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b5abb14",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "current attribute"
+        }
+      ],
+      "mobileId": 242752,
+      "phonetic": "げんぞくせい",
+      "word": "現属性"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dadd736",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "arrival on location (esp. used in transport industries, police, etc.)"
+        }
+      ],
+      "mobileId": 220719,
+      "phonetic": "げんちゃく",
+      "word": "現着"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77822492",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Dasein"
+        }
+      ],
+      "mobileId": 268677,
+      "phonetic": "げんそんざい",
+      "word": "現存在"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4bcb92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "clearly visible"
+        }
+      ],
+      "mobileId": 225842,
+      "phonetic": "げんぜん",
+      "word": "現然"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

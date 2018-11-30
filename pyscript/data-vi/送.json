@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900edeabcc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự gửi ; sự gửi hàng để bán, gửi hàng để bán"
+        }
+      ],
+      "mobileId": 118129,
+      "phonetic": "におく",
+      "related_words": {
+        "word": [
+          "荷"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "荷送",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "急送",
+                "荷送り",
+                "発送",
+                "逓送",
+                "発信",
+                "出荷"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "荷送"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95be5a9a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phơi cái ống"
+        }
+      ],
+      "mobileId": 62161,
+      "phonetic": "おくきかん",
+      "word": "送気管"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c67f13",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(chú ý một) tang lễ"
+        }
+      ],
+      "mobileId": 62424,
+      "phonetic": "おくそう",
+      "word": "送葬"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dabbe20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "home delivery"
+        }
+      ],
+      "mobileId": 220643,
+      "phonetic": "たくそう",
+      "word": "宅送"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05bc546",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sending off a customer (e.g. to the closest train station)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sending customers (somebody's way)"
+        }
+      ],
+      "mobileId": 283914,
+      "phonetic": "そうきゃく",
+      "word": "送客"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c00fcc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự truyền tài liệu"
+        }
+      ],
+      "mobileId": 62220,
+      "phonetic": "おくこう",
+      "word": "送稿"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa763ddc9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "追送車",
+              "mean": "toa (chở hàng) theo sau .",
+              "transcription": "ついおくくるま"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "sự gửi thêm"
+        }
+      ],
+      "mobileId": 108382,
+      "phonetic": "ついそう",
+      "word": "追送"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0080df1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "shipping (by sea or air)"
+        }
+      ],
+      "mobileId": 281218,
+      "phonetic": "こうそう",
+      "word": "航送"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebbc94a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "shipped cùng nhau; nhắn cùng lúc"
+        }
+      ],
+      "mobileId": 117043,
+      "phonetic": "どうおく",
+      "word": "同送"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b51545a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "feed"
+        }
+      ],
+      "mobileId": 242436,
+      "phonetic": "きゅうそう",
+      "word": "給送"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

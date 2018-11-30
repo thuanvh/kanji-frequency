@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95851d63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trường học gán cho nhật bản xã hội hội chữ thập đỏ"
+        }
+      ],
+      "mobileId": 60325,
+      "phonetic": "せきじゅうじふ",
+      "word": "赤十字附"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7d64cfd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chú giải ."
+        }
+      ],
+      "mobileId": 110295,
+      "phonetic": "ふちゅう",
+      "word": "附注"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c2fb2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự giao hàng; sự trợ cấp; trao (một thẻ) tới (một người)"
+        }
+      ],
+      "mobileId": 39742,
+      "phonetic": "",
+      "word": "交附"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6889a4f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một miếng sắt nhỏ bịt đầu dây giày hoặc nhãn"
+        }
+      ],
+      "mobileId": 4386,
+      "phonetic": "ふひょう",
+      "word": "附票"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6889bacd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nối vào biểu đồ hoặc bảng hoặc đồ thị"
+        }
+      ],
+      "mobileId": 4388,
+      "phonetic": "ふひょう",
+      "word": "附表"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

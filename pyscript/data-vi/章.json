@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aed5430",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この小説は10章に分れる。",
+              "mean": "cuốn tiểu thuyết này chia làm 10 chương",
+              "transcription": "このしょうせつは10しょうにわかれる。"
+            }
+          ],
+          "kind": "n",
+          "mean": "chương; hồi (sách)"
+        }
+      ],
+      "mobileId": 174211,
+      "phonetic": "しょう",
+      "related_words": {
+        "word": [
+          "文章",
+          "第一章",
+          "序章",
+          "紋章",
+          "勲章",
+          "印章",
+          "腕章",
+          "章魚",
+          "楽章",
+          "校章"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "章",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "チャプター"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "象徴",
+                "記",
+                "シンボル",
+                "印",
+                "表象",
+                "記号",
+                "符丁",
+                "信号",
+                "表徴",
+                "符号",
+                "マーク",
+                "紋章",
+                "表号"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "章"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685e327f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biểu tượng; phù hiệu; đánh dấu"
+        }
+      ],
+      "mobileId": 3005,
+      "phonetic": "しめぎあきら",
+      "related_words": {
+        "word": [
+          "章"
+        ]
+      },
+      "word": "標章"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08a208c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "interlude, intermission"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "insert chapter, special chapter"
+        }
+      ],
+      "mobileId": 285358,
+      "phonetic": "かんしょう",
+      "word": "間章"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e815d631",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chương mặt trời mọc"
+        }
+      ],
+      "mobileId": 34196,
+      "phonetic": "きょく じつしょう",
+      "word": "旭日章"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685e5041",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "biểu thị; biểu hiện rõ ràng"
+        }
+      ],
+      "mobileId": 3007,
+      "phonetic": "おもてあきら",
+      "word": "表章"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932b3010",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "huy hiệu xếp hạng"
+        }
+      ],
+      "mobileId": 19302,
+      "phonetic": "かいきゅうあきら",
+      "related_words": {
+        "word": [
+          "章",
+          "階",
+          "階級"
+        ]
+      },
+      "word": "階級章"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0695198",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "nutation"
+        }
+      ],
+      "mobileId": 284332,
+      "phonetic": "しょうどう",
+      "word": "章動"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd81b425",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "huy chương cho tài trí"
+        }
+      ],
+      "mobileId": 72907,
+      "phonetic": "ゆうこうあきら",
+      "word": "有功章"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d95803b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ばら十字会会員章",
+              "mean": "Huy hiệu hội viên của Hội chữ thập đỏ",
+              "transcription": "ばらじゅうじかいかいいんあきら"
+            }
+          ],
+          "kind": "n",
+          "mean": "Huy hiệu hội viên"
+        }
+      ],
+      "mobileId": 144006,
+      "phonetic": "かいいんしょう",
+      "word": "会員章"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820000fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ribbon, cordon"
+        }
+      ],
+      "mobileId": 231638,
+      "phonetic": "じゅしょう",
+      "word": "綬章"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

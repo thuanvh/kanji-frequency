@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e819b4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "photophobia"
+        }
+      ],
+      "mobileId": 252206,
+      "phonetic": "しゅうめい",
+      "word": "羞明"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0e4ac97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the charms of a uniquely beautiful woman, (so beautiful that) the moon is abashed and flowers wilt"
+        }
+      ],
+      "mobileId": 214236,
+      "phonetic": "しゅうげつへいか",
+      "word": "羞月閉花"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f872d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "charms of a uniquely beautiful woman, great beauty, (so beautiful that) the moon is abashed and flowers wilt"
+        }
+      ],
+      "mobileId": 214885,
+      "phonetic": "へいげつしゅうか",
+      "word": "閉月羞花"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9fa9d1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "charms of a uniquely beautiful woman, (so beautiful that) fish stay on the bottom of water and flying wild geese fall from the sky in shame"
+        }
+      ],
+      "mobileId": 280778,
+      "phonetic": "ちんぎょらくがんへいげつしゅうか",
+      "word": "沈魚落雁閉月羞花"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

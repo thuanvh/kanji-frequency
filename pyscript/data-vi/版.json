@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a282673",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản in"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thứ tự của bản in ."
+        }
+      ],
+      "mobileId": 171040,
+      "phonetic": "はん",
+      "related_words": {
+        "word": [
+          "出版社",
+          "英語版",
+          "版権",
+          "出版",
+          "初版",
+          "改訂版",
+          "版下",
+          "出版物",
+          "版数",
+          "版画"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "版",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "変形",
+                "変種",
+                "変わり種",
+                "異体",
+                "変り種"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "エディション"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "編集"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "版"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd29e9e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản in được ưa thích (phiên bản)"
+        }
+      ],
+      "mobileId": 11128,
+      "phonetic": "あいぞうばん",
+      "related_words": {
+        "word": [
+          "愛",
+          "版",
+          "蔵"
+        ]
+      },
+      "word": "愛蔵版"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a3c286",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Phiên bản giới hạn"
+        }
+      ],
+      "mobileId": 38735,
+      "phonetic": "げんていばん",
+      "related_words": {
+        "word": [
+          "限定",
+          "版"
+        ]
+      },
+      "word": "限定版"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03000c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "electronic edition, online edition"
+        }
+      ],
+      "mobileId": 282485,
+      "phonetic": "でんしばん",
+      "related_words": {
+        "word": [
+          "子",
+          "版",
+          "電子"
+        ]
+      },
+      "word": "電子版"
+    },
+    {
+      "_id": "432518852de0a80625d585a982d6b984",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "test version, edition, release"
+        }
+      ],
+      "mobileId": 238503,
+      "phonetic": "テストばん",
+      "word": "テスト版"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b12cf3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trial version (typically software), trial edition"
+        }
+      ],
+      "mobileId": 212544,
+      "phonetic": "しようばん",
+      "word": "試用版"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74157852",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản khắc ."
+        }
+      ],
+      "mobileId": 97787,
+      "phonetic": "ちょうこくばん",
+      "related_words": {
+        "word": [
+          "版",
+          "彫刻",
+          "刻"
+        ]
+      },
+      "word": "彫刻版"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97eed77",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "publication in a new format or binding, special edition"
+        }
+      ],
+      "mobileId": 276779,
+      "phonetic": "しんそうばん",
+      "related_words": {
+        "word": [
+          "新",
+          "版"
+        ]
+      },
+      "word": "新装版"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b103d6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "professional version"
+        }
+      ],
+      "mobileId": 240342,
+      "phonetic": "プロはん",
+      "word": "プロ版"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d64581c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "亜鉛版（画）術",
+              "mean": "Kỹ thuật in kẽm",
+              "transcription": "あえんばん（が）じゅつ"
+            },
+            {
+              "content": "亜鉛版印刷物",
+              "mean": "Bản in kẽm .",
+              "transcription": "あえんばんいんさつぶつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Khắc kẽm (bằng acid)"
+        }
+      ],
+      "mobileId": 143194,
+      "phonetic": "あえんばん",
+      "word": "亜鉛版"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

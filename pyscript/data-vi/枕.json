@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f4ea710",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "cái gối"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "gối"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "gối đầu ."
+        }
+      ],
+      "mobileId": 186287,
+      "phonetic": "まくら",
+      "word": "枕"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e1995d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "body pillow, hug pillow"
+        }
+      ],
+      "mobileId": 279975,
+      "phonetic": "だきまくら",
+      "related_words": {
+        "word": [
+          "枕"
+        ]
+      },
+      "word": "抱き枕"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770ac619",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(untalented) geisha who sells sex"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "geisha who steals money from sleeping travellers"
+        }
+      ],
+      "mobileId": 264801,
+      "phonetic": "まくらげいしゃ",
+      "word": "枕芸者"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193953e22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chợp mắt một ít"
+        }
+      ],
+      "mobileId": 22663,
+      "phonetic": "かりまくら",
+      "related_words": {
+        "word": [
+          "仮",
+          "枕"
+        ]
+      },
+      "word": "仮枕"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802766c693",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "腕枕をする",
+              "mean": "gối đầu lên tay .",
+              "transcription": "うでまくらをする"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "sự gối đầu tay; gối tay"
+        }
+      ],
+      "mobileId": 30813,
+      "phonetic": "うでまくら",
+      "related_words": {
+        "word": [
+          "腕",
+          "枕"
+        ]
+      },
+      "word": "腕枕"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9889351",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pillow fight"
+        }
+      ],
+      "mobileId": 277091,
+      "phonetic": "まくらたたき",
+      "word": "枕叩き"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e9773e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "private diary, pillow book"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "book of erotic pictures"
+        }
+      ],
+      "mobileId": 252922,
+      "phonetic": "まくらぞうし まくらそうし",
+      "word": "枕草紙"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f74314",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ăn trộm phòng ngủ hoặc kẻ trộm"
+        }
+      ],
+      "mobileId": 7884,
+      "phonetic": "まくらさがし",
+      "word": "枕捜し"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7719cab1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bringing out the pillows and futon (in Zen Buddhism), sleeping"
+        }
+      ],
+      "mobileId": 265297,
+      "phonetic": "かいちん",
+      "word": "開枕"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bd7f33",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bedding, bed"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "to sleep together in the same bed"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to sleep together using each other's bodies as pillow"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to sleep together using books as a pillow"
+        }
+      ],
+      "mobileId": 262333,
+      "phonetic": "ちんせき ちんしゃ",
+      "word": "枕籍"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,535 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aa5cffc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "adj-na, n, adj-no",
+          "mean": "Chân"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "sự thực; thực; sự thật; sự đúng; đúng; sự thuần tuý; thuần tuý"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "thật; thực; đúng; thuần tuý"
+        }
+      ],
+      "mobileId": 173046,
+      "opposite_word": [
+        "偽り",
+        "偽",
+        "嘘"
+      ],
+      "phonetic": "しん",
+      "related_words": {
+        "word": [
+          "写真",
+          "真実",
+          "真面目",
+          "真空",
+          "写真家",
+          "真ん中",
+          "真剣",
+          "真珠",
+          "真理",
+          "真紅"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "真",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "実",
+                "真実",
+                "真理",
+                "事実"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "実体",
+                "実意",
+                "赤心",
+                "本気",
+                "実",
+                "忠誠",
+                "真情",
+                "真面目",
+                "まじめ",
+                "信",
+                "信実",
+                "正直",
+                "真心",
+                "衷情",
+                "誠意",
+                "真率",
+                "丹誠",
+                "誠",
+                "丹心"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "信頼性",
+                "確実性",
+                "合法性",
+                "信憑性",
+                "真実性",
+                "真正"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "真相",
+                "実",
+                "本当",
+                "真実",
+                "事実",
+                "誠",
+                "本真"
+              ]
+            }
+          ],
+          "pos": "noun"
+        },
+        {
+          "base_form": "真",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "然も",
+                "正しく",
+                "真に",
+                "誠に",
+                "現に",
+                "実際に",
+                "全く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "真に",
+                "現に",
+                "実際に"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "極めて",
+                "頗る",
+                "根っから",
+                "いっそ",
+                "非常に",
+                "思い切り",
+                "正しく",
+                "実は",
+                "最も",
+                "とても",
+                "真に",
+                "随分",
+                "大して",
+                "とっても",
+                "めっきり",
+                "そう",
+                "たっぷり",
+                "極",
+                "誠に",
+                "余り",
+                "現に",
+                "その実",
+                "実際に",
+                "至極",
+                "いかにも",
+                "大変",
+                "甚だ",
+                "大層",
+                "きわめて",
+                "余程",
+                "余っ程"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "真"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aa60fa7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "真の",
+              "mean": "Điều tốt đẻp",
+              "transcription": "しんの"
+            }
+          ],
+          "kind": "n, pref",
+          "mean": "điều tốt; điều phải"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼女の言うことを真に受けた.",
+              "mean": "Tôi thật sự tin lời cô ấy nói.",
+              "transcription": "かのじょのいうことをしんにうけた."
+            }
+          ],
+          "kind": "n, pref",
+          "mean": "sự công bằng; sự xứng đáng; sự đích đáng"
+        },
+        {
+          "examples": [
+            {
+              "content": "真人間",
+              "mean": "Một con người trung thực.",
+              "transcription": "まにんげん"
+            },
+            {
+              "content": "真(っ)白",
+              "mean": "Trắng tinh khiết",
+              "transcription": "ま(っ)しろ"
+            }
+          ],
+          "kind": "n, pref",
+          "mean": "thật; chính cống; sự thật; thuần chủng"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼の戦争の話は真に迫っていた.",
+              "mean": "Anh ấy kể về cuộc chiến đấu quá sống động làm tôi có cảm giác như chính xác tôi đang ở đó.",
+              "transcription": "かれのせんそうのはなしはしんにせまっていた."
+            },
+            {
+              "content": "真のやみ",
+              "mean": "Đen như mực",
+              "transcription": "しんのやみ"
+            }
+          ],
+          "kind": "pref",
+          "mean": "sự đúng; sự chính xác"
+        },
+        {
+          "examples": [
+            {
+              "content": "頭の真上に",
+              "mean": "Đúng ngay trên đầu ai đó.",
+              "transcription": "あたまのまうえに"
+            },
+            {
+              "content": "真南に行く",
+              "mean": "Đi đúng hướng Nam.",
+              "transcription": "まみなみにいく"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự đúng; sự chính xác (về phương hướng)"
+        }
+      ],
+      "mobileId": 173047,
+      "opposite_word": [
+        "偽り",
+        "偽",
+        "嘘"
+      ],
+      "phonetic": "ま",
+      "related_words": {
+        "word": [
+          "写真",
+          "真実",
+          "真面目",
+          "真空",
+          "写真家",
+          "真ん中",
+          "真剣",
+          "真珠",
+          "真理",
+          "真紅"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "真",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "実",
+                "真実",
+                "真理",
+                "事実"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "実体",
+                "実意",
+                "赤心",
+                "本気",
+                "実",
+                "忠誠",
+                "真情",
+                "真面目",
+                "まじめ",
+                "信",
+                "信実",
+                "正直",
+                "真心",
+                "衷情",
+                "誠意",
+                "真率",
+                "丹誠",
+                "誠",
+                "丹心"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "信頼性",
+                "確実性",
+                "合法性",
+                "信憑性",
+                "真実性",
+                "真正"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "真相",
+                "実",
+                "本当",
+                "真実",
+                "事実",
+                "誠",
+                "本真"
+              ]
+            }
+          ],
+          "pos": "noun"
+        },
+        {
+          "base_form": "真",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "然も",
+                "正しく",
+                "真に",
+                "誠に",
+                "現に",
+                "実際に",
+                "全く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "真に",
+                "現に",
+                "実際に"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "極めて",
+                "頗る",
+                "根っから",
+                "いっそ",
+                "非常に",
+                "思い切り",
+                "正しく",
+                "実は",
+                "最も",
+                "とても",
+                "真に",
+                "随分",
+                "大して",
+                "とっても",
+                "めっきり",
+                "そう",
+                "たっぷり",
+                "極",
+                "誠に",
+                "余り",
+                "現に",
+                "その実",
+                "実際に",
+                "至極",
+                "いかにも",
+                "大変",
+                "甚だ",
+                "大層",
+                "きわめて",
+                "余程",
+                "余っ程"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "真"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fa5cb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuần khiết rót nước; rõ ràng rót nước"
+        }
+      ],
+      "mobileId": 7979,
+      "phonetic": "ましみず",
+      "related_words": {
+        "word": [
+          "真",
+          "水",
+          "清水"
+        ]
+      },
+      "word": "真清水"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a98c03b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "green peafowl (Pavo muticus)"
+        }
+      ],
+      "mobileId": 228277,
+      "phonetic": "まくじゃく マクジャク",
+      "word": "真孔雀"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b44d7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "apparent noon, true noon"
+        }
+      ],
+      "mobileId": 286736,
+      "phonetic": "しんしょうご",
+      "word": "真正午"
+    },
+    {
+      "_id": "432518852de0a80625d585a98216c3b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sevenband grouper (species of fish, Epinephelus septemfasciatus), convict grouper"
+        }
+      ],
+      "mobileId": 232356,
+      "phonetic": "まはた マハタ",
+      "word": "真羽太"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd031d8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hướng chính đông"
+        }
+      ],
+      "mobileId": 68890,
+      "phonetic": "まひがし",
+      "related_words": {
+        "word": [
+          "真",
+          "東"
+        ]
+      },
+      "word": "真東"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98d4317",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "true theory"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "true teachings"
+        }
+      ],
+      "mobileId": 277238,
+      "phonetic": "しんせつ",
+      "word": "真説"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a812b81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese common squid, Pacific flying squid (Todarodes pacificus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "golden cuttlefish (Sepia esculenta)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Japanese spineless cuttlefish (Sepiella japonica)"
+        }
+      ],
+      "mobileId": 227520,
+      "phonetic": "マイカ まいか",
+      "word": "真烏賊"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1d0b73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "greater white-fronted goose (Anser albifrons)"
+        }
+      ],
+      "mobileId": 224339,
+      "phonetic": "まがん マガン",
+      "word": "真雁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a362d39",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cẩu"
+        },
+        {
+          "examples": [
+            {
+              "content": "よくしつけられた犬",
+              "mean": "Con chó được đào tạo tốt",
+              "transcription": "よくしつけられたいぬ"
+            },
+            {
+              "content": "犬がテレビの前に座っている",
+              "mean": "Con chó đang ngồi trước TV",
+              "transcription": "いぬがテレビのまえにすわっている"
+            },
+            {
+              "content": "かわいらしい小犬",
+              "mean": "con cún đáng yêu",
+              "transcription": "かわいらしいこいぬ"
+            },
+            {
+              "content": "〜を捜し出すように訓練された犬",
+              "mean": "Chó được đào tạo để xác định vị trí (điều tra)",
+              "transcription": "〜をさがしだすようにくんれんされたいぬ"
+            },
+            {
+              "content": "どんな犬？",
+              "mean": "Loại chó gì vậy?",
+              "transcription": "どんないぬ？"
+            }
+          ],
+          "kind": "n",
+          "mean": "chó"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khuyển ."
+        }
+      ],
+      "mobileId": 171260,
+      "phonetic": "いぬ",
+      "related_words": {
+        "word": [
+          "雌犬",
+          "負け犬",
+          "子犬",
+          "野良犬",
+          "犬小屋",
+          "番犬",
+          "愛犬",
+          "猟犬",
+          "捨て犬",
+          "牝犬"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "犬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "飼い犬"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "間者",
+                "間諜",
+                "隠密",
+                "スパイ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "犬"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd951223",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim ưng vàng"
+        }
+      ],
+      "mobileId": 14524,
+      "phonetic": "いぬわし",
+      "word": "犬鷲"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3acceb50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pig and dog"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dullard, halfwit"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "my child"
+        }
+      ],
+      "mobileId": 229981,
+      "phonetic": "とんけん",
+      "word": "豚犬"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9380119",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "canine distemper"
+        }
+      ],
+      "mobileId": 274557,
+      "phonetic": "いぬジステンパー",
+      "word": "犬ジステンパー"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9947419",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lost dog, missing dog"
+        }
+      ],
+      "mobileId": 277473,
+      "phonetic": "まいごけん まいごいぬ",
+      "word": "迷子犬"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e869edb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(quân sự) chó trận; khuyển binh"
+        }
+      ],
+      "mobileId": 36902,
+      "phonetic": "ぐんよういぬ",
+      "related_words": {
+        "word": [
+          "用",
+          "犬",
+          "軍",
+          "軍用"
+        ]
+      },
+      "word": "軍用犬"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd94e64c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẻ súc sinh; hạng người vô lại"
+        }
+      ],
+      "mobileId": 14518,
+      "phonetic": "いぬちくしょう",
+      "word": "犬畜生"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95586a17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con chó súc vật bị lạc"
+        }
+      ],
+      "mobileId": 58914,
+      "phonetic": "すていぬ",
+      "related_words": {
+        "word": [
+          "犬"
+        ]
+      },
+      "word": "捨て犬"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd96d3e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước ngoài (phương tây) sinh sản (của) con chó"
+        }
+      ],
+      "mobileId": 73602,
+      "opposite_word": [
+        "和犬"
+      ],
+      "phonetic": "よういぬ",
+      "word": "洋犬"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d08676",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kai, Kai ken, Japanese dog breed"
+        }
+      ],
+      "mobileId": 279426,
+      "phonetic": "かいいぬ かいけん",
+      "word": "甲斐犬"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

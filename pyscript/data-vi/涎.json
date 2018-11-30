@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fdeb9c8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "誰だってよだれが出るほど欲しがるよ.",
+              "mean": "Thích đến mức ai cũng thèm rỏ dãi",
+              "transcription": "だれだってよだれがでるほどほしがるよ."
+            },
+            {
+              "content": "見ただけでよだれが出たよ.",
+              "mean": "Mặc dù là chỉ nhìn thôi nhưng nước dãi đã chảy rồi",
+              "transcription": "みただけでよだれがでたよ."
+            }
+          ],
+          "kind": "n",
+          "mean": "nước dãi"
+        }
+      ],
+      "mobileId": 188591,
+      "phonetic": "よだれ",
+      "word": "涎"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

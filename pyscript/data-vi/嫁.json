@@ -1,0 +1,217 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10766c240",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cô dâu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con dâu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nàng dâu ."
+        }
+      ],
+      "mobileId": 53600,
+      "opposite_word": [
+        "婿"
+      ],
+      "phonetic": "よめ",
+      "related_words": {
+        "word": [
+          "花嫁",
+          "お嫁さん",
+          "責任転嫁",
+          "兄嫁",
+          "転嫁",
+          "嫁ぐ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "嫁",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "新妻",
+                "新婦",
+                "お嫁さん",
+                "花嫁"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "夫人",
+                "細君",
+                "女性",
+                "家内",
+                "裏方",
+                "ミセス",
+                "女",
+                "婦人",
+                "令室",
+                "令夫人",
+                "奥様",
+                "刀自",
+                "室",
+                "御上",
+                "令閨",
+                "愚妻",
+                "人妻",
+                "妻",
+                "女房",
+                "上様"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "嫁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca028be31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "choosing a wife"
+        }
+      ],
+      "mobileId": 282241,
+      "phonetic": "よめえらび",
+      "word": "嫁選び"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9fc6642",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "newly-wed bride"
+        }
+      ],
+      "mobileId": 280835,
+      "phonetic": "しんよめ にいよめ",
+      "word": "新嫁"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9fc7d39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional koshogatsu ceremony where the newly-wed wife is hit with a sacred wooden pole on the rump to ensure her fertility"
+        }
+      ],
+      "mobileId": 280839,
+      "phonetic": "よめたたき",
+      "word": "嫁たたき"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930e117f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "em dâu"
+        }
+      ],
+      "mobileId": 18360,
+      "phonetic": "おとうとよめ",
+      "related_words": {
+        "word": [
+          "弟",
+          "嫁"
+        ]
+      },
+      "word": "弟嫁"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95bd05ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "streetwalker (trong thời kỳ edo)"
+        }
+      ],
+      "mobileId": 62118,
+      "phonetic": "そうよめ",
+      "word": "総嫁"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdad484d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "áp bức (bắt nạt, ăn hiếp) một cô vợ trẻ"
+        }
+      ],
+      "mobileId": 74351,
+      "phonetic": "よめいびり",
+      "word": "嫁いびり"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e034ad2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s",
+          "mean": "to wed, to be married"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to shift blame to someone else"
+        }
+      ],
+      "mobileId": 248106,
+      "phonetic": "かす",
+      "word": "嫁す"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dcad1e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s",
+          "mean": "to wed, to be married"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to shift blame to someone else"
+        }
+      ],
+      "mobileId": 221688,
+      "phonetic": "かする",
+      "word": "嫁する"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95bcf881",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "streetwalker (trong thời kỳ edo)"
+        }
+      ],
+      "mobileId": 62117,
+      "phonetic": "そうよめ",
+      "word": "惣嫁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

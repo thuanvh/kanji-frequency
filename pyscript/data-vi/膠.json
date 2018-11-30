@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280276afc39",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "keo dán"
+        }
+      ],
+      "mobileId": 30890,
+      "phonetic": "にかわ",
+      "related_words": {
+        "word": [
+          "膠原病",
+          "膠着",
+          "膠着状態"
+        ]
+      },
+      "word": "膠"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b351e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dán và sơn; sự thân tình lớn"
+        }
+      ],
+      "mobileId": 39225,
+      "phonetic": "にかわうるし",
+      "related_words": {
+        "word": [
+          "漆",
+          "膠"
+        ]
+      },
+      "word": "膠漆"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae29667",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "glueing"
+        }
+      ],
+      "mobileId": 230694,
+      "phonetic": "にかわづけ",
+      "word": "膠付け"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07d85e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "neuroglia, glia"
+        }
+      ],
+      "mobileId": 284958,
+      "phonetic": "しんけいこう",
+      "word": "神経膠"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e816559",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "collagen"
+        }
+      ],
+      "mobileId": 252201,
+      "phonetic": "こうげんしつ",
+      "word": "膠原質"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b13b8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh đản bạch tinh"
+        }
+      ],
+      "mobileId": 39155,
+      "phonetic": "こうげん びょう",
+      "related_words": {
+        "word": [
+          "原",
+          "病",
+          "膠"
+        ]
+      },
+      "word": "膠原病"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee4873f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "cộc lốc, cụt ngủn, ngắn gọn"
+        },
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "bắn thẳng, nhắm thẳng, thẳng, thẳng thừng (nói, từ chối)"
+        }
+      ],
+      "mobileId": 118318,
+      "phonetic": "にかわもない",
+      "related_words": {
+        "word": [
+          "無",
+          "膠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "膠も無い",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "素気ない",
+                "素っ気ない"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "膠も無い"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee489fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cộc lốc, cụt ngủn, ngắn gọn"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bắn thẳng, nhắm thẳng, thẳng, thẳng thừng (nói, từ chối)"
+        }
+      ],
+      "mobileId": 118319,
+      "phonetic": "にかわもない",
+      "word": "膠もない"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fa1eb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "collagen fiber, collagen fibre"
+        }
+      ],
+      "mobileId": 272575,
+      "phonetic": "こうげんせんい",
+      "word": "膠原線維"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e4a82a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "glioma"
+        }
+      ],
+      "mobileId": 271884,
+      "phonetic": "しんけいこうしゅ",
+      "word": "神経膠腫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

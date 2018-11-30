@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca053b411",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Arachnida"
+        }
+      ],
+      "mobileId": 283645,
+      "phonetic": "ちゅけいこう",
+      "word": "蛛形綱"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c775668d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "arachnids"
+        }
+      ],
+      "mobileId": 267236,
+      "phonetic": "ちゅけいるい しゅけいるい",
+      "word": "蛛形類"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ce0046",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yêu tinh"
+        }
+      ],
+      "mobileId": 62676,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "霊"
+        ]
+      },
+      "word": "騒霊"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680137258f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vi",
+          "mean": "ầm ĩ; xôn xao ."
+        }
+      ],
+      "mobileId": 42676,
+      "phonetic": "ざわめく",
+      "related_words": {
+        "word": [
+          "めく"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "騒めく",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "騒ぎ立てる",
+                "騒ぐ",
+                "ざわめく"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "騒めく"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e27943a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stir, commotion, noise"
+        }
+      ],
+      "mobileId": 249297,
+      "phonetic": "ざわめき",
+      "word": "騒めき"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

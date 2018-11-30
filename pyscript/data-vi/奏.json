@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6874c3a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hội tụ, độ hội tụ"
+        }
+      ],
+      "mobileId": 3719,
+      "phonetic": "ふくそう",
+      "related_words": {
+        "word": [
+          "伏"
+        ]
+      },
+      "word": "伏奏"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193bf7f55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "bản tấu tội của quan lại dâng lên vua"
+        }
+      ],
+      "mobileId": 23978,
+      "phonetic": "",
+      "word": "劾奏"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95beb02e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản xônat"
+        }
+      ],
+      "mobileId": 62173,
+      "phonetic": "そうきょく",
+      "related_words": {
+        "word": [
+          "曲"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "奏曲",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ソナタ",
+                "奏鳴曲"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "奏曲"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5f3a4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chơi một toàn bộ sự hợp thành mà không có sự gãy; liên tục chơi (trong nền (của) một giai điệu)"
+        }
+      ],
+      "mobileId": 114088,
+      "phonetic": "つうそう",
+      "related_words": {
+        "word": [
+          "通"
+        ]
+      },
+      "word": "通奏"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770ed740",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "reporting to the emperor"
+        }
+      ],
+      "mobileId": 264933,
+      "phonetic": "しんそう",
+      "word": "進奏"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa567c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "basso continuo"
+        }
+      ],
+      "mobileId": 228686,
+      "phonetic": "つうそうていおん",
+      "word": "通奏低音"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

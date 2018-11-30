@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a982544fc1",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adv, n-pref",
+          "mean": "ngay lập tức, cùng một lúc"
+        },
+        {
+          "examples": [],
+          "kind": "int",
+          "mean": "đó là (để nói)"
+        }
+      ],
+      "mobileId": 234301,
+      "phonetic": "そく",
+      "word": "即"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db2338a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "replying to someone's email immediately"
+        }
+      ],
+      "mobileId": 220868,
+      "phonetic": "そくレス",
+      "word": "即レス"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b91d952",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "immediate connection, direct connection"
+        }
+      ],
+      "mobileId": 244496,
+      "phonetic": "そくせつぞく",
+      "word": "即接続"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09b92a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prompt reply"
+        }
+      ],
+      "mobileId": 211848,
+      "phonetic": "そくへんじ",
+      "word": "即返事"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d09865",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sẵn sàng khai hỏa sức mạnh"
+        }
+      ],
+      "mobileId": 62761,
+      "phonetic": "そくせんりょく",
+      "word": "即戦力"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d1c8c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "thực hành; có thật; hiện thực; hữu lợi"
+        }
+      ],
+      "mobileId": 62799,
+      "phonetic": "そくぶってき",
+      "related_words": {
+        "word": [
+          "的",
+          "物",
+          "物的"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "即物的",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "リアル",
+                "写実的"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "即物的"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09b93d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prompt reply"
+        }
+      ],
+      "mobileId": 211849,
+      "phonetic": "そくへんしん",
+      "word": "即返信"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d74e4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hiệu quả tức thời"
+        }
+      ],
+      "mobileId": 62983,
+      "phonetic": "そくいさお",
+      "word": "即功"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e040454",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thing in itself (philosophy)"
+        }
+      ],
+      "mobileId": 248128,
+      "phonetic": "そくじ",
+      "word": "即自"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dc9b932",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "instant death"
+        }
+      ],
+      "mobileId": 221657,
+      "phonetic": "そくしぼう",
+      "word": "即死亡"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

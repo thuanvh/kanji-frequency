@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b09e50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "man among men, man's man"
+        }
+      ],
+      "mobileId": 212522,
+      "phonetic": "おとこ",
+      "word": "漢"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ac477f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ký tự số trong chữ Hán (nhất, nhị, tam, tứ ...)"
+        }
+      ],
+      "mobileId": 23381,
+      "opposite_word": [
+        "算用数字"
+      ],
+      "phonetic": "かんすうじ",
+      "related_words": {
+        "word": [
+          "数",
+          "数字",
+          "字"
+        ]
+      },
+      "word": "漢数字"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b1c594",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "triều nhà Hán (Trung Quốc)"
+        }
+      ],
+      "mobileId": 23548,
+      "phonetic": "かんちょう",
+      "word": "漢朝"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04ceea3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "just person, man of justice, righteous person, upright person"
+        }
+      ],
+      "mobileId": 283421,
+      "phonetic": "せいぎかん",
+      "word": "正義漢"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d540aff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Shu-Han (dynasty of China, 221-263 CE)"
+        }
+      ],
+      "mobileId": 217790,
+      "phonetic": "しょっかん しょくかん",
+      "word": "蜀漢"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6885d80e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cong đi; kẻ lừa đảo"
+        }
+      ],
+      "mobileId": 4259,
+      "phonetic": "ふとくかん",
+      "related_words": {
+        "word": [
+          "徳"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "不徳漢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "山師",
+                "ぺてん師",
+                "詐欺師"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "不徳漢"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19341176c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngân hà"
+        }
+      ],
+      "mobileId": 19995,
+      "phonetic": "かわかん",
+      "word": "河漢"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1075cfc70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẻ háo sắc; kẻ dâm đãng; kẻ dâm dục; kẻ phóng đãng ."
+        }
+      ],
+      "mobileId": 53407,
+      "phonetic": "こうしょくかん",
+      "word": "好色漢"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98914c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sky, heavens, firmament"
+        }
+      ],
+      "mobileId": 277105,
+      "phonetic": "しょうかん",
+      "word": "霄漢"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d796bc9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Later Han Dynasty (of China; 25-220 CE)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Later Han Dynasty (of China; 947-950 CE)"
+        }
+      ],
+      "mobileId": 219003,
+      "phonetic": "ごかん こうかん",
+      "word": "後漢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ed3419",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây kê, hạt kê"
+        }
+      ],
+      "mobileId": 25438,
+      "phonetic": "きび",
+      "related_words": {
+        "word": [
+          "玉蜀黍"
+        ]
+      },
+      "word": "黍"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a99be83",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "corn, maize"
+        }
+      ],
+      "mobileId": 228323,
+      "phonetic": "なんばんきび なんばきび",
+      "word": "南蛮黍"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ed5738",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bánh bao bột kê"
+        }
+      ],
+      "mobileId": 25444,
+      "phonetic": "きびだんご",
+      "related_words": {
+        "word": [
+          "子",
+          "団子",
+          "黍"
+        ]
+      },
+      "word": "黍団子"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ed6436",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuộc họ cá trích"
+        }
+      ],
+      "mobileId": 25445,
+      "phonetic": "きびななこ",
+      "word": "黍魚子"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d2bec3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "glutinous millet, sticky millet"
+        }
+      ],
+      "mobileId": 271298,
+      "phonetic": "もちきび モチキビ",
+      "word": "糯黍"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

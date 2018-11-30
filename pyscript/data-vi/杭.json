@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f4940a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giàn ."
+        }
+      ],
+      "mobileId": 186190,
+      "phonetic": "くい",
+      "synsets": [
+        {
+          "base_form": "杭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "支柱",
+                "ピロティ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "支柱",
+                "柱"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "杭"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81daf7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm lúng túng"
+        }
+      ],
+      "mobileId": 34445,
+      "phonetic": "きりくい",
+      "related_words": {
+        "word": [
+          "切",
+          "切り",
+          "杭"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "切り杭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "切り株",
+                "切株"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "切り杭"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d60fe80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mang cọc"
+        }
+      ],
+      "mobileId": 148798,
+      "phonetic": "しじくい",
+      "word": "支持杭"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f495949",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đóng cọc ."
+        }
+      ],
+      "mobileId": 186192,
+      "phonetic": "くいうち",
+      "word": "杭打ち"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e4a644",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đóng cọc; cọc"
+        }
+      ],
+      "mobileId": 7281,
+      "phonetic": "ぼうくい",
+      "word": "棒杭"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af95af3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fulcrum peg (fitted into the cavity in an oar as part of a traditional oarlock)"
+        }
+      ],
+      "mobileId": 231407,
+      "phonetic": "ろぐい",
+      "word": "櫓杭"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3eaecb89",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Cọc khoan nhồi"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "きせいぐい",
+      "word": "既製杭"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f4964d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "máy đóng cọc ."
+        }
+      ],
+      "mobileId": 186193,
+      "phonetic": "くいうちき",
+      "word": "杭打ち機"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ce2ccd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pile-driving"
+        }
+      ],
+      "mobileId": 213495,
+      "phonetic": "くいうちせつ",
+      "word": "杭打設"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f49494f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lực ma sát tại các mặt trụ tròn ."
+        }
+      ],
+      "mobileId": 186191,
+      "phonetic": "くいしゅうめんまさつりょく",
+      "word": "杭周面摩擦力"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

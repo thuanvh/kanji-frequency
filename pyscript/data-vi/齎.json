@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801545248",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）の精神に根本的な変化をもたらす",
+              "mean": "gây ra sự thay đổi cơ bản trong thần kinh con người",
+              "transcription": "（ひと）のせいしんにこんぽんてきなへんかをもたらす"
+            },
+            {
+              "content": "〔幸福・平和などを〕もたらす",
+              "mean": "mang lại Hạnh phúc, hòa bình...",
+              "transcription": "〔こうふく・へいわなどを〕もたらす"
+            },
+            {
+              "content": "〔結果を〕 もたらす",
+              "mean": "mang đến kết quả .",
+              "transcription": "〔けっかを〕もたらす"
+            }
+          ],
+          "kind": "v5s",
+          "mean": "đem đến; mang lại; mang đến; gây ra"
+        }
+      ],
+      "mobileId": 43245,
+      "phonetic": "もたらす",
+      "synsets": [
+        {
+          "base_form": "齎らす",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "呼ぶ",
+                "生ずる",
+                "来たす",
+                "もたらす",
+                "起す",
+                "致す",
+                "引き起こす",
+                "招く",
+                "生み出す"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "来たす",
+                "引き起こす",
+                "招く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "生ずる",
+                "来たす",
+                "もたらす",
+                "引き起こす",
+                "産む"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "齎らす"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

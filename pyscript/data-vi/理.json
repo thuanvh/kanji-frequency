@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cdbb1074",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "suy luận"
+        }
+      ],
+      "mobileId": 74782,
+      "phonetic": "り",
+      "word": "理"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b83e4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự trông nom, sự coi sóc, sự giám thị, sự quản lý"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự trông nom, sự giám sát"
+        }
+      ],
+      "mobileId": 23758,
+      "phonetic": "みきり",
+      "word": "幹理"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbf9fe9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thần thánh"
+        }
+      ],
+      "mobileId": 74931,
+      "phonetic": "りしん",
+      "related_words": {
+        "word": [
+          "神"
+        ]
+      },
+      "word": "理神"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d15572b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cord, cording, stria, striae"
+        }
+      ],
+      "mobileId": 215783,
+      "phonetic": "みゃくり",
+      "word": "脈理"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9288e7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lamina"
+        }
+      ],
+      "mobileId": 257568,
+      "phonetic": "ようり",
+      "word": "葉理"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a8a676",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hydraulic, hydrologic"
+        }
+      ],
+      "mobileId": 261667,
+      "phonetic": "すいり",
+      "word": "水理"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826eda10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bachelor of Science, BSc, BS"
+        }
+      ],
+      "mobileId": 235124,
+      "phonetic": "りがくし",
+      "related_words": {
+        "word": [
+          "士",
+          "理学"
+        ]
+      },
+      "word": "理学士"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77304c3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "schistosity"
+        }
+      ],
+      "mobileId": 266028,
+      "phonetic": "へんり",
+      "word": "片理"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688f3611",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "vô lý; vô lý"
+        }
+      ],
+      "mobileId": 4542,
+      "phonetic": "ふり",
+      "word": "不理"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae993c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "essence of all things"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "noumenon"
+        }
+      ],
+      "mobileId": 230908,
+      "phonetic": "りたい",
+      "word": "理体"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

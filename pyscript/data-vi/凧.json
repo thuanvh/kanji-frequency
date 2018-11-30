@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada233d58",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái diều ."
+        }
+      ],
+      "mobileId": 77492,
+      "phonetic": "たこ",
+      "related_words": {
+        "word": [
+          "凧揚げ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "凧",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "カイト"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "凧"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b7600e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kite string"
+        }
+      ],
+      "mobileId": 286833,
+      "phonetic": "たこいと",
+      "word": "凧糸"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684a517b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(thì) rất đại chúng; trong lớn yêu cầu"
+        }
+      ],
+      "mobileId": 2396,
+      "phonetic": "ひっぱりだこ",
+      "related_words": {
+        "word": [
+          "凧"
+        ]
+      },
+      "word": "引っ張り凧"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00bb9d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese kite"
+        }
+      ],
+      "mobileId": 281343,
+      "phonetic": "わだこ",
+      "word": "和凧"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada235a4d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "凧をあげる",
+              "mean": "Thả diều.",
+              "transcription": "たこをあげる"
+            },
+            {
+              "content": "トミー、凧揚げしようか。",
+              "mean": "Tommy, con có muốn chơi thả diều không? .",
+              "transcription": "トミー、たこあげしようか。"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "thả diều"
+        }
+      ],
+      "mobileId": 77493,
+      "phonetic": "たこあげ",
+      "related_words": {
+        "word": [
+          "揚げ",
+          "凧"
+        ]
+      },
+      "word": "凧揚げ"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e01d60e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thả diều"
+        }
+      ],
+      "mobileId": 111091,
+      "phonetic": "たこをあげる",
+      "related_words": {
+        "word": [
+          "凧"
+        ]
+      },
+      "word": "凧をあげる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

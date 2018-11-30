@@ -1,0 +1,269 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107ed717a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "cửa hàng; cửa hiệu; cơ sở (kinh doanh)"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "hiệu buôn"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "tiệm ."
+        }
+      ],
+      "mobileId": 55810,
+      "phonetic": "みせ",
+      "related_words": {
+        "word": [
+          "代理店",
+          "店員",
+          "支店",
+          "店舗",
+          "飲食店",
+          "店頭",
+          "広告代理店",
+          "閉店",
+          "店長",
+          "喫茶店"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "店",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ストアー",
+                "店舗",
+                "売店",
+                "舗",
+                "ストア",
+                "ショップ",
+                "商店"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "店"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107ed712e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa hàng; cửa hiệu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thành lập"
+        }
+      ],
+      "mobileId": 55809,
+      "phonetic": "てん",
+      "related_words": {
+        "word": [
+          "代理店",
+          "店員",
+          "支店",
+          "店舗",
+          "飲食店",
+          "店頭",
+          "広告代理店",
+          "閉店",
+          "店長",
+          "喫茶店"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "店",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ストアー",
+                "店舗",
+                "売店",
+                "舗",
+                "ストア",
+                "ショップ",
+                "商店"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "店"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adb88df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jewellers"
+        }
+      ],
+      "mobileId": 230464,
+      "phonetic": "ほうしょくてん",
+      "word": "宝飾店"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193756105",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quán ăn, tiệm ăn"
+        }
+      ],
+      "mobileId": 21655,
+      "phonetic": "かっぽうてん",
+      "related_words": {
+        "word": [
+          "店",
+          "割",
+          "割烹"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "割烹店",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "食べ物屋",
+                "料理店",
+                "食堂",
+                "飲食店",
+                "料理屋",
+                "レストラン",
+                "グリル",
+                "料亭"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "割烹店"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd32c0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đại lý hàng hải; đại lý giao nhận vận chuyển hàng hoá"
+        }
+      ],
+      "mobileId": 16448,
+      "phonetic": "うんそうてん",
+      "word": "運送店"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0548f90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "old shop, shop of long standing"
+        }
+      ],
+      "mobileId": 283673,
+      "phonetic": "しにせてん ろうほてん",
+      "word": "老舗店"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08edf82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "starting to work in a shop, joining a shop as an employee"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "going inside a shop"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "opening up a shop (in a building, etc.)"
+        }
+      ],
+      "mobileId": 285510,
+      "phonetic": "にゅうてん",
+      "related_words": {
+        "word": [
+          "店"
+        ]
+      },
+      "word": "入店"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a941e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa hàng chuyên bán một loại sản phẩm"
+        }
+      ],
+      "mobileId": 61492,
+      "phonetic": "せんもんてん",
+      "related_words": {
+        "word": [
+          "店",
+          "専門",
+          "門"
+        ]
+      },
+      "word": "専門店"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea0cf05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "watchmaker có"
+        }
+      ],
+      "mobileId": 116187,
+      "phonetic": "とけいてん",
+      "word": "時計店"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98120f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "optician, optician's store"
+        }
+      ],
+      "mobileId": 276847,
+      "phonetic": "がんきょうてん めがねてん",
+      "word": "眼鏡店"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

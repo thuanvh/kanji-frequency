@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107609741",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn, adj-no",
+          "mean": "vợ bé"
+        },
+        {
+          "examples": null,
+          "kind": "pn, adj-no",
+          "mean": "vợ lẽ ."
+        }
+      ],
+      "mobileId": 53471,
+      "opposite_word": [
+        "正妻",
+        "本妻"
+      ],
+      "phonetic": "めかけ",
+      "synsets": [
+        {
+          "base_form": "妾",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "二号さん",
+                "色女",
+                "囲い",
+                "側室",
+                "女",
+                "側女",
+                "情婦",
+                "二号",
+                "手つき"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "情婦",
+                "姦夫"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "妾"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d8aa23",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "serving as a concubine"
+        }
+      ],
+      "mobileId": 263191,
+      "phonetic": "めかけぼうこう",
+      "word": "妾奉公"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0982d26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "foreigner's mistress"
+        }
+      ],
+      "mobileId": 211729,
+      "phonetic": "がいしょう",
+      "word": "外妾"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e671e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "most thrilling relationships for a man (another man's wife, a maidservant, a mistress, a prostitute, and finally his own wife)"
+        }
+      ],
+      "mobileId": 271947,
+      "phonetic": "いっとうにひさんしょうしぎごさい",
+      "word": "一盗二婢三妾四妓五妻"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

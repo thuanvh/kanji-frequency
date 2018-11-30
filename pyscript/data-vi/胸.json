@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280275b8800",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "骨と皮ばかりの胸",
+              "mean": "Ngực toàn xương và da.",
+              "transcription": "ほねとかわばかりのむね"
+            },
+            {
+              "content": "シリコンを入れて大きくした胸",
+              "mean": "Bơm silicon vào làm cho ngực to lên.",
+              "transcription": "シリコンをいれておおきくしたむね"
+            },
+            {
+              "content": "まだ十分に成長していない胸",
+              "mean": "Ngực chưa phát triển hoàn thiện .",
+              "transcription": "まだじゅうぶんにせいちょうしていないむね"
+            }
+          ],
+          "kind": "n",
+          "mean": "ngực"
+        }
+      ],
+      "mobileId": 30626,
+      "phonetic": "むね",
+      "related_words": {
+        "word": [
+          "胸囲",
+          "胸元",
+          "度胸",
+          "胸郭",
+          "胸毛",
+          "胸騒ぎ",
+          "胸焼け",
+          "気胸",
+          "胸三寸",
+          "胸やけ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "胸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "心臓",
+                "ハート"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "胸元",
+                "胸板",
+                "ブレスト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "腹",
+                "五臓六腑",
+                "心",
+                "肝",
+                "内懐",
+                "魂",
+                "ハート",
+                "内心",
+                "心髄",
+                "胸三寸",
+                "懐"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "胸元",
+                "胸板",
+                "胸郭",
+                "ブレスト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "内懐",
+                "懐"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "肺",
+                "肺臓"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "バスト",
+                "おっぱい",
+                "乳",
+                "乳房",
+                "ブレスト"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "胸"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e805bca5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "cơ ngực"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "one's heart"
+        }
+      ],
+      "mobileId": 33671,
+      "phonetic": "むねすじ",
+      "related_words": {
+        "word": [
+          "胸",
+          "筋"
+        ]
+      },
+      "word": "胸筋"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e9effe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hemothorax, haemothorax"
+        }
+      ],
+      "mobileId": 272060,
+      "phonetic": "けっきょう",
+      "word": "血胸"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a5aaa4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one's heart"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "at one's discretion, in one's hands"
+        }
+      ],
+      "mobileId": 261571,
+      "phonetic": "むねひとつ",
+      "word": "胸一つ"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0370eff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "pigeon chest (Pectus carinatum, deformity of the chest, protruding ribs and sternum), pigeon breast"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "woman with big breasts"
+        }
+      ],
+      "mobileId": 208612,
+      "phonetic": "はとむね",
+      "word": "はと胸"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97cb080",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "becoming fraught with emotion"
+        }
+      ],
+      "mobileId": 276711,
+      "phonetic": "むねあつ",
+      "word": "胸熱"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef902f955",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thoracic duct"
+        }
+      ],
+      "mobileId": 272854,
+      "phonetic": "きょうかん",
+      "word": "胸管"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7d6699",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pacific golden plover (Pluvialis fulva)"
+        }
+      ],
+      "mobileId": 227400,
+      "phonetic": "むなぐろ ムナグロ",
+      "word": "胸黒"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd393620",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính toán vào một có cái đầu"
+        }
+      ],
+      "mobileId": 70614,
+      "phonetic": "むねつもり",
+      "word": "胸積もり"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77044248",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "unpleasant"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "being mean, mean person"
+        }
+      ],
+      "mobileId": 264594,
+      "phonetic": "むねわる",
+      "word": "胸悪"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

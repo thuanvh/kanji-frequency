@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a982098854",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "goldfield"
+        }
+      ],
+      "mobileId": 231944,
+      "phonetic": "さいきんち",
+      "word": "採金地"
+    },
+    {
+      "_id": "432518852de0a80625d585a98209828d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "gold mining, extraction of gold"
+        }
+      ],
+      "mobileId": 231943,
+      "phonetic": "さいきん",
+      "word": "採金"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09989c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "data index, (unique) index number"
+        }
+      ],
+      "mobileId": 211771,
+      "phonetic": "さいばん",
+      "word": "採番"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e3bc702",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "mining"
+        }
+      ],
+      "mobileId": 249942,
+      "phonetic": "くっさい",
+      "word": "掘採"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d9d2a32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "compensating for one's shortcomings by incorporating others' strong points"
+        }
+      ],
+      "mobileId": 220160,
+      "phonetic": "さいちょうほたん",
+      "word": "採長補短"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d1b1940",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bông nhặt"
+        }
+      ],
+      "mobileId": 146600,
+      "phonetic": "とめんき",
+      "related_words": {
+        "word": [
+          "器",
+          "綿"
+        ]
+      },
+      "word": "採綿器"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22025327",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Hàng nhân nhượng"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "とくさいひん",
+      "word": "特採品"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90fce3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "feed intake behavior, feeding behavior, foraging behavior, grazing behaviour"
+        }
+      ],
+      "mobileId": 273276,
+      "phonetic": "さいしょくこうどう",
+      "word": "採食行動"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

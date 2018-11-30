@@ -1,0 +1,248 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d8ea04a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（〜の件で）決定に達する",
+              "mean": "về việc... đã đi đến quyết định",
+              "transcription": "（ 〜のけんで）けっていにたっする"
+            },
+            {
+              "content": "最も重要な件",
+              "mean": "vấn đề quan trọng nhất",
+              "transcription": "もっともじゅうようなけん"
+            },
+            {
+              "content": "翻訳料の件ですが",
+              "mean": "tôi gọi vì vấn đề tiền dịch",
+              "transcription": "ほんやくりょうのけんですが"
+            },
+            {
+              "content": "一応成立する事件",
+              "mean": "vụ án đã được lập",
+              "transcription": "いちおうせいりつするじけん"
+            }
+          ],
+          "kind": "adj-no",
+          "mean": "vụ; trường hợp; vấn đề; việc"
+        }
+      ],
+      "mobileId": 143913,
+      "phonetic": "けん",
+      "related_words": {
+        "word": [
+          "条件",
+          "件名",
+          "件数",
+          "案件",
+          "事件",
+          "物件",
+          "人件費",
+          "要件",
+          "前提条件",
+          "用件"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "件",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "題",
+                "トピック",
+                "題目",
+                "話題",
+                "テーマ",
+                "主題"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "実例",
+                "事例",
+                "ケース",
+                "案件",
+                "出来事",
+                "事件",
+                "場合",
+                "例"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "物事",
+                "事項",
+                "事柄",
+                "一件",
+                "儀",
+                "事物",
+                "事",
+                "事象"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "物事",
+                "事柄",
+                "物",
+                "事物"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "件"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84c8b2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vấn đề trong câu hỏi"
+        }
+      ],
+      "mobileId": 35947,
+      "phonetic": "けんのいちけん",
+      "word": "件の一件"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd83e9eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một sự kiện;  một sự việc; một vấn đề; một vụ việc; một trường hợp"
+        }
+      ],
+      "mobileId": 13977,
+      "phonetic": "いちけん",
+      "related_words": {
+        "word": [
+          "件",
+          "一"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "一件",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "物事",
+                "事項",
+                "事柄",
+                "儀",
+                "事物",
+                "件",
+                "事",
+                "事象"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "一件"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0851562",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "several items, many items"
+        }
+      ],
+      "mobileId": 211124,
+      "phonetic": "すうけん",
+      "word": "数件"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d22f56c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Các dự án được liệt kê là một chủ đề. Nó được sử dụng để đề cập đến tiêu đề của tài liệu hoặc vấn đề được mô tả trong chủ đề của e-mail."
+        }
+      ],
+      "mobileId": 216224,
+      "phonetic": "けいだいのけん",
+      "word": "掲題の件"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde0d72a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vấn đề (mà) bạn có nói quanh"
+        }
+      ],
+      "mobileId": 75942,
+      "phonetic": "れいのけん",
+      "word": "例の件"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b66d40",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "an issue being settled, a case being closed"
+        }
+      ],
+      "mobileId": 212720,
+      "phonetic": "いっけんらくちゃく",
+      "related_words": {
+        "word": [
+          "件",
+          "一",
+          "着",
+          "落",
+          "一件"
+        ]
+      },
+      "word": "一件落着"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d15d575",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "all the papers (documents) relating to a case, dossier"
+        }
+      ],
+      "mobileId": 215797,
+      "phonetic": "いっけんしょるい",
+      "word": "一件書類"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96603d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(an item of) electronic mail (e-mail), e-mail message"
+        }
+      ],
+      "mobileId": 259575,
+      "phonetic": "でんしゆうけん",
+      "word": "電子郵件"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

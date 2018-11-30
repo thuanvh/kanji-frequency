@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e2c745",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "contest, match"
+        }
+      ],
+      "mobileId": 263511,
+      "phonetic": "くら",
+      "word": "競"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e2cc26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "footrace"
+        }
+      ],
+      "mobileId": 263512,
+      "phonetic": "かけくら",
+      "word": "駆け競"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02a3cb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v4h, vi",
+          "mean": "to compete, to contend, to vie"
+        }
+      ],
+      "mobileId": 190527,
+      "phonetic": "きおう",
+      "word": "競ふ"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8094043",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc bay đua (giữa bồ câu)"
+        }
+      ],
+      "mobileId": 33790,
+      "phonetic": "けいしょう",
+      "word": "競翔"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e2ec12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "staring contest"
+        }
+      ],
+      "mobileId": 263515,
+      "phonetic": "にらめくら",
+      "word": "睨め競"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96e6302",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hunting ground"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hunting contest"
+        }
+      ],
+      "mobileId": 259834,
+      "phonetic": "かりくら",
+      "word": "狩競"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e2b688",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jumping match, running match"
+        }
+      ],
+      "mobileId": 263509,
+      "phonetic": "とびくら",
+      "word": "飛び競"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e2e6af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "children's game in which (at least three) people stand back to back to each other and shove vigorously backwards"
+        }
+      ],
+      "mobileId": 263514,
+      "phonetic": "おしくら",
+      "word": "押し競"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e2abc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jumping match, running match"
+        }
+      ],
+      "mobileId": 263508,
+      "phonetic": "とびっくら",
+      "word": "飛びっ競"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

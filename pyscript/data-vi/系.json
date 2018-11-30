@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802706817a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "日系会社",
+              "mean": "các công ty thuộc hệ thống Nhật (công ty có vốn đầu tư Nhật Bản)",
+              "transcription": "にっけいかいしゃ"
+            },
+            {
+              "content": "もっとも発達した系",
+              "mean": "hệ thống được cải tiến hơn",
+              "transcription": "もっともはったつしたけい"
+            },
+            {
+              "content": "はしご形神経系",
+              "mean": "hệ thống dây thần kinh hình thang",
+              "transcription": "はしごがたしんけいけい"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "hệ; hệ thống; loại; nhóm; kiểu"
+        }
+      ],
+      "mobileId": 29192,
+      "phonetic": "けい",
+      "related_words": {
+        "word": [
+          "時系列",
+          "系統",
+          "系列",
+          "体系",
+          "生態系",
+          "理系",
+          "座標系",
+          "文系",
+          "日系",
+          "系譜"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "系",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "発祥",
+                "血筋",
+                "ソース",
+                "ルーツ",
+                "血統",
+                "家筋",
+                "家柄",
+                "素性",
+                "元祖"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仕組み",
+                "組織",
+                "編成",
+                "システム",
+                "仕組",
+                "配列",
+                "構造",
+                "系統",
+                "系列",
+                "体制",
+                "構成",
+                "体系",
+                "組立"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "系"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9523fd9a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(sinh học) hệ tuần hoàn"
+        }
+      ],
+      "mobileId": 57246,
+      "phonetic": "じゅんかんけい",
+      "word": "循環系"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b86cd49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "control system"
+        }
+      ],
+      "mobileId": 244145,
+      "phonetic": "せいぎょけい",
+      "word": "制御系"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d728707",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ thống (của) những hạt"
+        }
+      ],
+      "mobileId": 149355,
+      "phonetic": "しつてんけい",
+      "related_words": {
+        "word": [
+          "点",
+          "系",
+          "質"
+        ]
+      },
+      "word": "質点系"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a91d45c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lymphatic system"
+        }
+      ],
+      "mobileId": 257217,
+      "phonetic": "リンパけい",
+      "word": "リンパ系"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77abd97b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flow system"
+        }
+      ],
+      "mobileId": 270034,
+      "phonetic": "りゅうつうけい",
+      "word": "流通系"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae21f70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "star system"
+        }
+      ],
+      "mobileId": 230679,
+      "phonetic": "こうせいけい",
+      "word": "恒星系"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05f5d00",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "star system"
+        }
+      ],
+      "mobileId": 284024,
+      "phonetic": "せいけい",
+      "word": "星系"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95331081",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ thống thừa (chuỗi, hàng)"
+        }
+      ],
+      "mobileId": 57716,
+      "phonetic": "じょうちょうけい",
+      "word": "冗長系"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e807d39c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người cộng sản kiểm soát"
+        }
+      ],
+      "mobileId": 33744,
+      "phonetic": "きょうさんけい",
+      "word": "共産系"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

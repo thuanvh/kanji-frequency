@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7de840f7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "子うさぎ",
+              "mean": "thỏ con",
+              "transcription": "こうさぎ"
+            },
+            {
+              "content": "耳の大きな兔",
+              "mean": "thỏ tai to",
+              "transcription": "みみのおおきなうさぎ"
+            },
+            {
+              "content": "うさぎの皮",
+              "mean": "da thỏ .",
+              "transcription": "うさぎのかわ"
+            }
+          ],
+          "kind": "n",
+          "mean": "thỏ"
+        }
+      ],
+      "mobileId": 145368,
+      "phonetic": "うさぎ",
+      "word": "兔"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

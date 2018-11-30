@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdbf6373",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghiên cứu vũ trụ, nghiên cứu không gian"
+        }
+      ],
+      "mobileId": 15846,
+      "phonetic": "うちゅうけん",
+      "word": "宇宙研"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9287790",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rakugo research society, rakugo research club"
+        }
+      ],
+      "mobileId": 274063,
+      "phonetic": "おちけん らっけん",
+      "word": "落研"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cad35a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viện nghiên cứu ung thư"
+        }
+      ],
+      "mobileId": 24345,
+      "phonetic": "がんけん",
+      "word": "癌研"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa771b3da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Phòng thí nghiệm ."
+        }
+      ],
+      "mobileId": 108624,
+      "phonetic": "つうけん",
+      "related_words": {
+        "word": [
+          "通"
+        ]
+      },
+      "word": "通研"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c3f052",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "film studies, cinema studies"
+        }
+      ],
+      "mobileId": 270795,
+      "phonetic": "えいけん",
+      "word": "映研"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d48addf",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Câu lạc bộ nghiên cứu truyện tranh Nhật"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "câu lạc bộ truyện tranh Nhật"
+        }
+      ],
+      "mobileId": 217414,
+      "phonetic": "まんけん",
+      "word": "漫研"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f93ba2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giấy bột mài"
+        }
+      ],
+      "mobileId": 7940,
+      "phonetic": "みがくけんし",
+      "related_words": {
+        "word": [
+          "紙"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "磨研紙",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "磨き紙",
+                "サンドペーパー",
+                "ペーパー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "磨研紙"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ab8faea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "máy xát gạo; máy xát thóc ."
+        }
+      ],
+      "mobileId": 173356,
+      "phonetic": "けんまいき",
+      "word": "研米機"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

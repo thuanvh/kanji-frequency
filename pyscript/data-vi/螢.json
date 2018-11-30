@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a87f1c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "螢光塗料入りの弾丸",
+              "mean": "đạn sơn màu huỳnh quang .",
+              "transcription": "ほたるこうとりょういりのだんがん"
+            }
+          ],
+          "kind": "n",
+          "mean": "Huỳnh quang"
+        }
+      ],
+      "mobileId": 32060,
+      "phonetic": "けいこう",
+      "related_words": {
+        "word": [
+          "光"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "螢光",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蛍光"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "螢光"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a8aa74",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "螢石の結晶",
+              "mean": "Sự kết tinh Fluorite .",
+              "transcription": "ほたるせきのけっしょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "Fluorite (khoáng chất)"
+        }
+      ],
+      "mobileId": 32064,
+      "phonetic": "けいせき",
+      "related_words": {
+        "word": [
+          "石"
+        ]
+      },
+      "word": "螢石"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a89659",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ánh sáng đom đóm ."
+        }
+      ],
+      "mobileId": 32063,
+      "phonetic": "けいか",
+      "related_words": {
+        "word": [
+          "火"
+        ]
+      },
+      "word": "螢火"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8770299",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "siêng năng học"
+        }
+      ],
+      "mobileId": 37320,
+      "phonetic": "ほたるゆき",
+      "related_words": {
+        "word": [
+          "雪"
+        ]
+      },
+      "word": "螢雪"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a87fdc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đèn huỳnh quang; đèn neon; đèn nê-ông ."
+        }
+      ],
+      "mobileId": 32061,
+      "phonetic": "けいこうとう",
+      "related_words": {
+        "word": [
+          "光",
+          "灯"
+        ]
+      },
+      "word": "螢光灯"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a88afe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đèn huỳnh quang; đèn neon; đèn nê-ông ."
+        }
+      ],
+      "mobileId": 32062,
+      "phonetic": "けいこうとう",
+      "related_words": {
+        "word": [
+          "光"
+        ]
+      },
+      "word": "螢光燈"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

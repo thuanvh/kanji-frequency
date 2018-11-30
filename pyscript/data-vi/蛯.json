@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a5ecef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tôm ."
+        }
+      ],
+      "mobileId": 32011,
+      "phonetic": "えび",
+      "synsets": [
+        {
+          "base_form": "蛯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鰕",
+                "蝦",
+                "海老",
+                "シュリンプ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蛯"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd711666",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tôm hùm gai góc"
+        }
+      ],
+      "mobileId": 13393,
+      "phonetic": "いせえび",
+      "related_words": {
+        "word": [
+          "勢"
+        ]
+      },
+      "word": "伊勢蛯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

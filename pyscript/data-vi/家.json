@@ -1,0 +1,488 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10789d131",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "徳川家",
+              "mean": "gia tộc nhà Tokugawa",
+              "transcription": "とくがわか"
+            }
+          ],
+          "kind": "suf",
+          "mean": "nhà; nhà cửa; gia đình; gia tộc"
+        }
+      ],
+      "mobileId": 54176,
+      "opposite_word": [
+        "他所"
+      ],
+      "phonetic": "け",
+      "related_words": {
+        "word": [
+          "家族",
+          "家具",
+          "作家",
+          "家庭",
+          "専門家",
+          "家計簿",
+          "政治家",
+          "家賃",
+          "家電",
+          "写真家"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "家",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "住まい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "縁",
+                "縁故",
+                "続柄",
+                "血縁",
+                "親戚"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "実家",
+                "居",
+                "邸",
+                "自宅",
+                "住み処",
+                "アビタシオン",
+                "館",
+                "居住",
+                "邸宅",
+                "家宅",
+                "住",
+                "家作",
+                "住居",
+                "家屋",
+                "住宅",
+                "室",
+                "住家",
+                "住い",
+                "家居",
+                "住まい",
+                "住みか"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "居",
+                "居所",
+                "住み処",
+                "館",
+                "家宅",
+                "宿",
+                "戸",
+                "人屋",
+                "住居",
+                "家屋",
+                "人家",
+                "住宅",
+                "住家",
+                "令堂",
+                "住みか"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一門",
+                "家人",
+                "家族",
+                "家門",
+                "世帯",
+                "門",
+                "ファミリ",
+                "家庭"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "家"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107898384",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "橋本君ちでは次男が家を継ぐそうだ。",
+              "mean": "Nghe nói con trai thứ nhà Hashimoto sẽ tiếp nối sự nghiệp gia đình.",
+              "transcription": "はしもとくんちではじなんがいえをつぐそうだ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "gia đình"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà"
+        }
+      ],
+      "mobileId": 54172,
+      "opposite_word": [
+        "他所"
+      ],
+      "phonetic": "いえ",
+      "related_words": {
+        "word": [
+          "家族",
+          "家具",
+          "作家",
+          "家庭",
+          "専門家",
+          "家計簿",
+          "政治家",
+          "家賃",
+          "家電",
+          "写真家"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "家",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "住まい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "縁",
+                "縁故",
+                "続柄",
+                "血縁",
+                "親戚"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "実家",
+                "居",
+                "邸",
+                "自宅",
+                "住み処",
+                "アビタシオン",
+                "館",
+                "居住",
+                "邸宅",
+                "家宅",
+                "住",
+                "家作",
+                "住居",
+                "家屋",
+                "住宅",
+                "室",
+                "住家",
+                "住い",
+                "家居",
+                "住まい",
+                "住みか"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "居",
+                "居所",
+                "住み処",
+                "館",
+                "家宅",
+                "宿",
+                "戸",
+                "人屋",
+                "住居",
+                "家屋",
+                "人家",
+                "住宅",
+                "住家",
+                "令堂",
+                "住みか"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一門",
+                "家人",
+                "家族",
+                "家門",
+                "世帯",
+                "門",
+                "ファミリ",
+                "家庭"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "家"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10789b481",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "今日は午後家に帰ってから夕方福島へ行きます。",
+              "mean": "Chiều nay sau khi về nhà tôi sẽ đi Fukushima.",
+              "transcription": "きょうはごごかにかえってからゆうがたふくしまへいきます。"
+            },
+            {
+              "content": "日曜は家でゴロゴロしているのが一番だ。",
+              "mean": "Không có gì bằng được ở nhà vào chủ nhật.",
+              "transcription": "にちようはいえでゴロゴロしているのがいちばんだ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "nhà ở"
+        }
+      ],
+      "mobileId": 54175,
+      "opposite_word": [
+        "他所"
+      ],
+      "phonetic": "うち",
+      "related_words": {
+        "word": [
+          "家族",
+          "家具",
+          "作家",
+          "家庭",
+          "専門家",
+          "家計簿",
+          "政治家",
+          "家賃",
+          "家電",
+          "写真家"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "家",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "住まい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "縁",
+                "縁故",
+                "続柄",
+                "血縁",
+                "親戚"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "実家",
+                "居",
+                "邸",
+                "自宅",
+                "住み処",
+                "アビタシオン",
+                "館",
+                "居住",
+                "邸宅",
+                "家宅",
+                "住",
+                "家作",
+                "住居",
+                "家屋",
+                "住宅",
+                "室",
+                "住家",
+                "住い",
+                "家居",
+                "住まい",
+                "住みか"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "居",
+                "居所",
+                "住み処",
+                "館",
+                "家宅",
+                "宿",
+                "戸",
+                "人屋",
+                "住居",
+                "家屋",
+                "人家",
+                "住宅",
+                "住家",
+                "令堂",
+                "住みか"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一門",
+                "家人",
+                "家族",
+                "家門",
+                "世帯",
+                "門",
+                "ファミリ",
+                "家庭"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "家"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5e2b74",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mỗi cái nhà hoặc gia đình,họ"
+        }
+      ],
+      "mobileId": 12799,
+      "phonetic": "いえか",
+      "related_words": {
+        "word": [
+          "家"
+        ]
+      },
+      "word": "家家"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935ffeaa",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cái nhà cho sự thuê"
+        }
+      ],
+      "mobileId": 20965,
+      "phonetic": "かしか",
+      "word": "貸し家"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19362cb7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trường học tư, gia thục"
+        }
+      ],
+      "mobileId": 21061,
+      "phonetic": "いえじゅく",
+      "word": "家塾"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd93ca36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "canh tác cái nhà; căn nhà thôn quê"
+        }
+      ],
+      "mobileId": 14483,
+      "phonetic": "いなかや",
+      "word": "田舎家"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e1bb63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người dịch, máy truyền tin"
+        }
+      ],
+      "mobileId": 7187,
+      "phonetic": "ほんやくか",
+      "related_words": {
+        "word": [
+          "翻訳",
+          "家",
+          "訳"
+        ]
+      },
+      "word": "翻訳家"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5e38dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con muỗi (thường sống trong nhà) và các loài muỗi thuộc họ muỗi vằn (muỗi cu lếch)"
+        }
+      ],
+      "mobileId": 12801,
+      "phonetic": "いえか",
+      "word": "家蚊"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5ef3e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ruồi nhà"
+        }
+      ],
+      "mobileId": 12824,
+      "phonetic": "いえはえ",
+      "word": "家蠅"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

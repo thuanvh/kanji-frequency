@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad6866d",
+      "means": [
+        {
+          "examples": "",
+          "kind": "adv",
+          "mean": "đơn giản (không thể)"
+        }
+      ],
+      "mobileId": 230294,
+      "phonetic": "とてもとても",
+      "word": "迚も迚も"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa75e8650",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "現代では、人々は仕事や出世、さらに場合によっては、子どもたちのことでとても［非常に・あまりにも］忙しい。",
+              "mean": "con người ngày nay rất bận rộn vì công việc, vì sự thăng tiến và có đôi khi cả về con cái.",
+              "transcription": "げんだいでは、ひとびとはしごとやしゅっせ、さらにばあいによっては、こどもたちのことでとても［ひじょうに・あまりにも］いそがしい。"
+            }
+          ],
+          "kind": "adv",
+          "mean": "rất; cực kỳ"
+        }
+      ],
+      "mobileId": 108281,
+      "phonetic": "とても",
+      "word": "迚も"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad6859b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "simply (cannot), definitely (cannot), absolutely (cannot), by no means"
+        }
+      ],
+      "mobileId": 230293,
+      "phonetic": "とてもじゃないが",
+      "word": "迚もじゃないが"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0704109",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "no matter what, anyhow, in any case, at any rate, in any event, anyway"
+        }
+      ],
+      "mobileId": 284556,
+      "phonetic": "とてもかくても",
+      "word": "迚も斯くても"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

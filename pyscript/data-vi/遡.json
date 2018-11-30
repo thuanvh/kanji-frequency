@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cf2419",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chuộc lại"
+        }
+      ],
+      "mobileId": 62713,
+      "phonetic": "そ きゅう",
+      "word": "遡求"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d502eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đi ngược dòng; retroact; retrospect"
+        }
+      ],
+      "mobileId": 62910,
+      "phonetic": "そ じょう",
+      "word": "遡上"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770253f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "right of recourse, right for redemption"
+        }
+      ],
+      "mobileId": 264535,
+      "phonetic": "そきゅうけん",
+      "word": "遡求権"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0aa60b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anadromous fish (fish that migrates upstream, e.g. salmon)"
+        }
+      ],
+      "mobileId": 212320,
+      "phonetic": "そかぎょ さっかぎょ",
+      "word": "遡河魚"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

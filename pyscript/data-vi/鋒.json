@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b63e1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đầu thanh gươm; mũi gươm ."
+        }
+      ],
+      "mobileId": 109797,
+      "phonetic": "きっさき",
+      "word": "鋒"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779cf428",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "second athlete to compete in a 5-on-5 team competition (kendo, judo, etc.)"
+        }
+      ],
+      "mobileId": 269535,
+      "phonetic": "じほう",
+      "word": "次鋒"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68acb6c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mũi gươm; sự tiến quân"
+        }
+      ],
+      "mobileId": 5503,
+      "phonetic": "へいほこさき",
+      "related_words": {
+        "word": [
+          "兵"
+        ]
+      },
+      "word": "兵鋒"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c18100",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự nổi dậy; nổi loạn"
+        }
+      ],
+      "mobileId": 6171,
+      "phonetic": "ほこさきおこし",
+      "word": "鋒起"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd9ea52b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tắm"
+        }
+      ],
+      "mobileId": 73864,
+      "phonetic": "よく",
+      "related_words": {
+        "word": [
+          "浴衣",
+          "浴室",
+          "入浴",
+          "浴びる",
+          "海水浴",
+          "浴槽",
+          "日光浴",
+          "混浴",
+          "浴場",
+          "公衆浴場"
+        ]
+      },
+      "word": "浴"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08329be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rustic bathhouse (esp. at onsen)"
+        }
+      ],
+      "mobileId": 285129,
+      "phonetic": "よくしゃ",
+      "word": "浴舎"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b3ba16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đầy đủ tắm"
+        }
+      ],
+      "mobileId": 61814,
+      "phonetic": "ぜんしんよく",
+      "related_words": {
+        "word": [
+          "全",
+          "身",
+          "全身",
+          "浴"
+        ]
+      },
+      "word": "全身浴"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0612768",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vapor bath, vapour bath, steam bath"
+        }
+      ],
+      "mobileId": 284081,
+      "phonetic": "じょうきよく",
+      "word": "蒸気浴"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4b9c32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stone sauna, facility where one rests on towels laid on a slab of heated natural rock"
+        }
+      ],
+      "mobileId": 217506,
+      "phonetic": "がんばんよく",
+      "related_words": {
+        "word": [
+          "岩",
+          "盤",
+          "浴",
+          "岩盤"
+        ]
+      },
+      "word": "岩盤浴"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771c08c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bathing (in a Zen Temple)"
+        }
+      ],
+      "mobileId": 265372,
+      "phonetic": "かいよく",
+      "word": "開浴"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cddf6c5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tắm nước lạnh ; vòi tắm nước lạnh"
+        }
+      ],
+      "mobileId": 75896,
+      "phonetic": "れいすいよく",
+      "related_words": {
+        "word": [
+          "水",
+          "冷",
+          "浴"
+        ]
+      },
+      "word": "冷水浴"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561eaf0087",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mud bath, balneum coenosum"
+        }
+      ],
+      "mobileId": 253720,
+      "phonetic": "でいよく",
+      "word": "泥浴"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84398cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phơi tắm"
+        }
+      ],
+      "mobileId": 35671,
+      "phonetic": "くうきよく",
+      "word": "空気浴"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99b2874",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bloodbath, massacre"
+        }
+      ],
+      "mobileId": 277686,
+      "phonetic": "けつよく",
+      "word": "血浴"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

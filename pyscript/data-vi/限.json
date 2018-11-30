@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d171185",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số lượng tối thiểu, mức tối thiểu, tối thiểu"
+        }
+      ],
+      "mobileId": 146477,
+      "phonetic": "さいていげん",
+      "related_words": {
+        "word": [
+          "最低"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "最低限",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "最小限",
+                "最小限度",
+                "最低",
+                "最小値",
+                "下限"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "最低限"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b7f395b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bounds"
+        }
+      ],
+      "mobileId": 243900,
+      "phonetic": "じょうげげん",
+      "related_words": {
+        "word": [
+          "上",
+          "下",
+          "下限"
+        ]
+      },
+      "word": "上下限"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bda9ce2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "top (e.g. of the market)"
+        }
+      ],
+      "mobileId": 246811,
+      "phonetic": "さいこうげん",
+      "word": "最高限"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f2d3b9c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "最小限，これだけは言っておきたい。",
+              "mean": "Ít nhất tôi cũng muốn nói điều này.",
+              "transcription": "さいしょうげん，これだけはいっておきたい。"
+            },
+            {
+              "content": "損害を最小限に食い止めることが大事だ。",
+              "mean": "Điều quan trọng là giảm thiệt hại đến mức thấp nhất. .",
+              "transcription": "そんがいをさいしょうげんにくいとめることがだいじだ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "giới hạn nhỏ nhất"
+        }
+      ],
+      "mobileId": 185681,
+      "opposite_word": [
+        "最大限"
+      ],
+      "phonetic": "さいしょうげん",
+      "related_words": {
+        "word": [
+          "小",
+          "最小"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "最小限",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "最小限度",
+                "最低",
+                "最低限",
+                "最小値",
+                "下限"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "最小限"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a4a2d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "ctr",
+          "mean": "thời kỳ (của) thời gian (abbr. (của) jigenme)"
+        }
+      ],
+      "mobileId": 38767,
+      "phonetic": "げんめ",
+      "word": "限目"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08b78f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-pn",
+          "mean": "current-limiting"
+        }
+      ],
+      "mobileId": 285401,
+      "phonetic": "げんりゅう",
+      "word": "限流"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8c3caf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "transfinite"
+        }
+      ],
+      "mobileId": 219608,
+      "phonetic": "ちょうげん",
+      "word": "超限"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8c2d03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "transfinite induction"
+        }
+      ],
+      "mobileId": 219606,
+      "phonetic": "ちょうげんきのうほう",
+      "word": "超限帰納法"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8c3597",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "transfinite number"
+        }
+      ],
+      "mobileId": 219607,
+      "phonetic": "ちょうげんすう",
+      "word": "超限数"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825fa52e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "first period (e.g. first class in school day)"
+        }
+      ],
+      "mobileId": 234658,
+      "phonetic": "いちげんめ",
+      "word": "一限目"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

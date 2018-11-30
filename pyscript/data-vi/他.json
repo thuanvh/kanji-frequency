@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d82b965",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "ngoài ."
+        }
+      ],
+      "mobileId": 143710,
+      "opposite_word": [
+        "自"
+      ],
+      "phonetic": "ほか",
+      "word": "他"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e009714",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chức quận trưởng khác"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viewing by others"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "showing others"
+        }
+      ],
+      "mobileId": 111054,
+      "phonetic": "たけん",
+      "related_words": {
+        "word": [
+          "県"
+        ]
+      },
+      "word": "他県"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d82fa2c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "他動詞的目的節",
+              "mean": "Mệnh đề mục đích của tha động từ.",
+              "transcription": "たどうしてきもくてきぶし"
+            },
+            {
+              "content": "目的語のない他動詞",
+              "mean": "Tha động từ không có tân ngữ. .",
+              "transcription": "もくてきごのないたどうし"
+            }
+          ],
+          "kind": "n",
+          "mean": "tha động từ"
+        }
+      ],
+      "mobileId": 143718,
+      "opposite_word": [
+        "自動詞"
+      ],
+      "phonetic": "たどうし",
+      "related_words": {
+        "word": [
+          "動"
+        ]
+      },
+      "word": "他動詞"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d101c1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "other parties, other forces"
+        }
+      ],
+      "mobileId": 215611,
+      "phonetic": "たとう",
+      "word": "他党"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9df7dff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "discolouration of a mineral due to impurities (discoloration)"
+        }
+      ],
+      "mobileId": 263412,
+      "phonetic": "たしょく",
+      "word": "他色"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e017449",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những dân tộc khác; những người khác"
+        }
+      ],
+      "mobileId": 111081,
+      "phonetic": "たこくみん",
+      "related_words": {
+        "word": [
+          "国",
+          "国民",
+          "民"
+        ]
+      },
+      "word": "他国民"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e03e515",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thế giới khác"
+        }
+      ],
+      "mobileId": 111159,
+      "phonetic": "たせかい",
+      "related_words": {
+        "word": [
+          "世界",
+          "世"
+        ]
+      },
+      "word": "他世界"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e173cca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thái ấp khác, lãnh thổ của người khác"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "large quantity"
+        }
+      ],
+      "mobileId": 111774,
+      "phonetic": "たりょう",
+      "word": "他領"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9735944",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "injury caused by a second party, damage caused by another person"
+        }
+      ],
+      "mobileId": 276411,
+      "opposite_word": [
+        "自損"
+      ],
+      "phonetic": "たそん",
+      "word": "他損"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05b1567",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "other book, another book"
+        }
+      ],
+      "mobileId": 283887,
+      "phonetic": "たしょ",
+      "word": "他書"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

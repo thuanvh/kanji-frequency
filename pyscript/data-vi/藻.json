@@ -1,0 +1,177 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a01f64",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "海底の藻くずとなる",
+              "mean": "Bị chìm xuống đáy đại dương",
+              "transcription": "かいていのもくずとなる"
+            },
+            {
+              "content": "藻が密生していて湖の底が見えない状態だった",
+              "mean": "Bạn không thể nhìn thấy đáy hồ này vì rong tảo mọc dày đặc. .",
+              "transcription": "もがみっせいしていてみずうみのそこがみえないじょうたいだった"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "loài thực vật trong ao đầm sông hồ biển như bèo rong tảo"
+        }
+      ],
+      "mobileId": 31918,
+      "phonetic": "も",
+      "related_words": {
+        "word": [
+          "海藻",
+          "藻類"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "藻",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "藻類"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "藻"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01168b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fresh-water algae"
+        }
+      ],
+      "mobileId": 281519,
+      "phonetic": "たんすいそう",
+      "word": "淡水藻"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a927d08c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dinoflagellate of genus Ceratium"
+        }
+      ],
+      "mobileId": 257543,
+      "phonetic": "つのも ツノモ",
+      "word": "角藻"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac6d491",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "waterweed (any aquatic plant of genus Elodea, esp. common waterweed, Elodea canadensis)"
+        }
+      ],
+      "mobileId": 229766,
+      "phonetic": "カナダも",
+      "word": "カナダ藻"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a02526",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k",
+          "mean": "đấu tranh; vật lộn"
+        },
+        {
+          "examples": null,
+          "kind": "v5k",
+          "mean": "thiếu kiên nhẫn"
+        },
+        {
+          "examples": null,
+          "kind": "v5k",
+          "mean": "văn vẹo; luồn lách; len lỏi ."
+        }
+      ],
+      "mobileId": 31919,
+      "phonetic": "もがく",
+      "word": "藻掻く"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca020ab25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Phyllospadix iwatensis (species of seagrass)"
+        }
+      ],
+      "mobileId": 281997,
+      "phonetic": "すがも スガモ",
+      "word": "菅藻"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca020c658",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small pondweed (Potamogeton pusillus)"
+        }
+      ],
+      "mobileId": 281999,
+      "phonetic": "いとも イトモ",
+      "word": "糸藻"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef946754d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "watermelon snow, snow algae"
+        }
+      ],
+      "mobileId": 274999,
+      "phonetic": "ひょうせつそう",
+      "word": "氷雪藻"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef989a497",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "washed-up seaweed, stranded seaweed"
+        }
+      ],
+      "mobileId": 277126,
+      "phonetic": "よりも",
+      "word": "寄り藻"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a076e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stonewort (esp. Braun's stonewort, Chara braunii)"
+        }
+      ],
+      "mobileId": 269650,
+      "phonetic": "しゃじくも シャジクモ",
+      "word": "車軸藻"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

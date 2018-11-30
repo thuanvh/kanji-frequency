@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935e2152",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "két sắt nhỏ (trong toà nhà cho thuê kiên cố, an toàn)"
+        }
+      ],
+      "mobileId": 20909,
+      "phonetic": "かしきんこ",
+      "word": "貸し金庫"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bda0ad5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "safe, vault, storage cabinet"
+        }
+      ],
+      "mobileId": 246789,
+      "phonetic": "ほかんこ",
+      "related_words": {
+        "word": [
+          "保管",
+          "管",
+          "保"
+        ]
+      },
+      "word": "保管庫"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193d34dff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kho để máy móc"
+        }
+      ],
+      "mobileId": 24596,
+      "phonetic": "きかんこ",
+      "word": "機関庫"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c301cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "moisture-proof cabinet"
+        }
+      ],
+      "mobileId": 278981,
+      "phonetic": "ぼうしつこ",
+      "word": "防湿庫"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be1aaa8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, adj-no",
+          "mean": "inside (refrigerator, warehouse, etc.)"
+        }
+      ],
+      "mobileId": 247052,
+      "phonetic": "こない",
+      "word": "庫内"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f8e3fb0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kho vũ khí ."
+        }
+      ],
+      "mobileId": 187223,
+      "phonetic": "ぶきこ",
+      "related_words": {
+        "word": [
+          "武器",
+          "器"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "武器庫",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "武庫",
+                "造兵廠",
+                "兵器工場",
+                "兵器庫",
+                "兵器廠",
+                "武器倉"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "武器庫"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd397226",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhà kho gỗ thời xưa, không có trụ nhà, tường được đan bằng gỗ theo hình chữ Tỉnh (đan nong suốt)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ancient log storehouse"
+        }
+      ],
+      "mobileId": 11625,
+      "phonetic": "またこ",
+      "related_words": {
+        "word": [
+          "叉"
+        ]
+      },
+      "word": "叉庫"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107efe92b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự lưu kho ."
+        }
+      ],
+      "mobileId": 55861,
+      "phonetic": "くらいれ",
+      "related_words": {
+        "word": [
+          "入れ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "庫入れ",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "入庫",
+                "格納",
+                "備蓄",
+                "貯蔵",
+                "保管",
+                "蓄積",
+                "倉入れ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "庫入れ"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e386c0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thoa phấn tạp chí"
+        }
+      ],
+      "mobileId": 112830,
+      "phonetic": "だんやくこ",
+      "related_words": {
+        "word": [
+          "薬",
+          "弾",
+          "弾薬"
+        ]
+      },
+      "word": "弾薬庫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b11104",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "equipment room, equipment store (storage space)"
+        }
+      ],
+      "mobileId": 270208,
+      "phonetic": "きざいこ",
+      "word": "機材庫"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada237ccf",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "凱歌を奏する",
+              "mean": "ca bài ca chiến thắng (hát khúc ca khải hoàn)",
+              "transcription": "がいかをそうする"
+            }
+          ],
+          "kind": "n",
+          "mean": "Bài hát chiến thắng; khúc khải hoàn; khúc ca khải hoàn"
+        }
+      ],
+      "mobileId": 77496,
+      "phonetic": "がい",
+      "related_words": {
+        "word": [
+          "凱旋門",
+          "凱旋",
+          "凱歌"
+        ]
+      },
+      "word": "凱"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c08a85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơn gió dịu nhẹ thổi vào đầu hè (thổi từ hướng nam)"
+        }
+      ],
+      "mobileId": 24010,
+      "phonetic": "",
+      "word": "凱風"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

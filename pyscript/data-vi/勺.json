@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada5b42fc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "một thứ mười (của) một đi; chìm xuống; cái gáo"
+        }
+      ],
+      "mobileId": 78483,
+      "phonetic": "しゃく",
+      "word": "勺"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd866bea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một shaku"
+        }
+      ],
+      "mobileId": 14059,
+      "phonetic": "いちしゃく",
+      "word": "一勺"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

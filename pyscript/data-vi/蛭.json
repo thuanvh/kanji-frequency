@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a5ab23",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "大きな蛭",
+              "mean": "con đỉa bự/ con đỉa trâu",
+              "transcription": "おおきなひる"
+            }
+          ],
+          "kind": "n",
+          "mean": "con đỉa"
+        },
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "đỉa"
+        },
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "vắt ."
+        }
+      ],
+      "mobileId": 32005,
+      "phonetic": "ひる",
+      "synsets": [
+        {
+          "base_form": "蛭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "吸血鬼",
+                "ヒル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蛭"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d97f72",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "land leech (Haemadipsa zeylanica japonica)"
+        }
+      ],
+      "mobileId": 279724,
+      "phonetic": "やまびる ヤマビル",
+      "word": "山蛭"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca020b95e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Potamogeton distinctus (species of pondweed)"
+        }
+      ],
+      "mobileId": 281998,
+      "phonetic": "ひるむしろ ヒルムシロ",
+      "word": "蛭蓆"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821647fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sheep liver fluke (Fasciola hepatica)"
+        }
+      ],
+      "mobileId": 232344,
+      "phonetic": "かんてつ",
+      "word": "肝蛭"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561ebb540b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vermiculite"
+        }
+      ],
+      "mobileId": 254109,
+      "phonetic": "ひるいし",
+      "word": "蛭石"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6ceaf6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mangrove (of family Rhizophoraceae)"
+        }
+      ],
+      "mobileId": 251547,
+      "phonetic": "ひるぎ ヒルギ",
+      "word": "蛭木"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d98b2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Whitmania pigra (species of leech)"
+        }
+      ],
+      "mobileId": 279725,
+      "phonetic": "うまびる ウマビル",
+      "word": "馬蛭"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d99a2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Helobdella stagnalis (species of leech)"
+        }
+      ],
+      "mobileId": 279727,
+      "phonetic": "ぬまびる ヌマビル",
+      "word": "沼蛭"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d99170",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hirudo nipponia (species of blood-sucking leech)"
+        }
+      ],
+      "mobileId": 279726,
+      "phonetic": "ちすいびる チスイビル",
+      "word": "血吸蛭"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6d0ef8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grey mangrove (Avicennia marina), white mangrove"
+        }
+      ],
+      "mobileId": 251551,
+      "phonetic": "ひるぎだまし ヒルギダマシ",
+      "word": "蛭木騙"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

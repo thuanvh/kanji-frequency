@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adadf6c82",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cuống họng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "họng; cổ họng ."
+        }
+      ],
+      "mobileId": 80607,
+      "phonetic": "のど",
+      "related_words": {
+        "word": [
+          "耳鼻咽喉科",
+          "喉が渇く",
+          "咽喉",
+          "喉頭"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "喉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "咽喉",
+                "咽",
+                "咽頭"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ゴルジュ",
+                "山峡",
+                "渓谷",
+                "渓間"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "喉"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef481bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự kiêu hãnh vì có giọng hát hay, người tự hào vì có giọng hát hay; cuộc thi giọng hát hay"
+        }
+      ],
+      "mobileId": 118829,
+      "phonetic": "のどじまん",
+      "word": "喉自慢"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d19998d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "feeling of food or drink going down one's throat"
+        }
+      ],
+      "mobileId": 215923,
+      "phonetic": "のど ごし",
+      "word": "喉越し"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adadf89f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "Giải khát ."
+        }
+      ],
+      "mobileId": 80611,
+      "phonetic": "のどをうるおす",
+      "word": "喉を潤す"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef49779",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "đau họng"
+        }
+      ],
+      "mobileId": 118832,
+      "phonetic": "のどのいたみ",
+      "related_words": {
+        "word": [
+          "の",
+          "痛み",
+          "痛",
+          "喉"
+        ]
+      },
+      "word": "喉の痛み"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c026e9a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "to be thirsty"
+        }
+      ],
+      "mobileId": 208101,
+      "phonetic": "のどがかわく",
+      "related_words": {
+        "word": [
+          "喉",
+          "乾く",
+          "乾"
+        ]
+      },
+      "word": "喉が乾く"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef47cd1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khát nước"
+        }
+      ],
+      "mobileId": 118828,
+      "phonetic": "のどがかわく",
+      "related_words": {
+        "word": [
+          "喉",
+          "渇く"
+        ]
+      },
+      "word": "喉が渇く"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d199fa2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adj-i",
+          "mean": "going down smoothly, tasting good going down"
+        }
+      ],
+      "mobileId": 215924,
+      "phonetic": "のどごしのいい のどごしのよい",
+      "word": "喉越しの良い"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a829501",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ruby-throated hummingbird (Archilochus colubris)"
+        }
+      ],
+      "mobileId": 227564,
+      "phonetic": "のどあかはちどり ノドアカハチドリ",
+      "word": "喉赤蜂鳥"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adadf76c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "khản tiếng ."
+        }
+      ],
+      "mobileId": 80608,
+      "phonetic": "のどがかれる",
+      "word": "喉が嗄れる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adad28c76",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bệnh ho"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ho ."
+        }
+      ],
+      "mobileId": 80327,
+      "phonetic": "せき",
+      "related_words": {
+        "word": [
+          "咳嗽"
+        ]
+      },
+      "word": "咳"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adad2b6d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thuốc ho ."
+        }
+      ],
+      "mobileId": 80331,
+      "phonetic": "せきぐすり",
+      "word": "咳薬"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95874680",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuốc ho"
+        }
+      ],
+      "mobileId": 60395,
+      "phonetic": "せきとめ",
+      "word": "咳止め"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adad2b013",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hắng giọng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ho ."
+        }
+      ],
+      "mobileId": 80330,
+      "phonetic": "せきをする",
+      "word": "咳をする"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a8cf24d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chứng ho gà; ho gà ."
+        }
+      ],
+      "mobileId": 172622,
+      "phonetic": "ひゃくにちぜき",
+      "word": "百日咳"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adad2995e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ho ."
+        }
+      ],
+      "mobileId": 80328,
+      "phonetic": "せきがでる",
+      "word": "咳が出る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

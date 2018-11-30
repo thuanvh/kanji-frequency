@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a25f524",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "父が亡くなった",
+              "mean": "cha tôi đã mất",
+              "transcription": "ちちがなくなった"
+            },
+            {
+              "content": "子どもを愛する父",
+              "mean": "người bố cưng chiều con cái",
+              "transcription": "こどもをあいするちち"
+            }
+          ],
+          "kind": "n",
+          "mean": "bố; cha"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gia phụ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phụ thân"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thân phụ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thầy ."
+        }
+      ],
+      "mobileId": 171001,
+      "opposite_word": [
+        "母"
+      ],
+      "phonetic": "ちち",
+      "related_words": {
+        "word": [
+          "お父さん",
+          "叔父",
+          "祖父",
+          "父の日",
+          "父親",
+          "神父",
+          "親父",
+          "義父",
+          "父母",
+          "伯父さん"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "父",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "主",
+                "神",
+                "クリエーター",
+                "神様",
+                "ロード"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "乃父",
+                "お父さん",
+                "父上",
+                "師父",
+                "父親",
+                "男親",
+                "実父",
+                "親父"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "創業者",
+                "創設者",
+                "創建者",
+                "始祖",
+                "開祖",
+                "創立者",
+                "鼻祖",
+                "開山",
+                "元祖"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "神"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "父"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca060e7ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "same father"
+        }
+      ],
+      "mobileId": 284073,
+      "phonetic": "どうふ",
+      "word": "同父"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e8aeec9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cha thiên đường"
+        }
+      ],
+      "mobileId": 115458,
+      "phonetic": "てんちち",
+      "related_words": {
+        "word": [
+          "天",
+          "父"
+        ]
+      },
+      "word": "天父"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef952b341",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "deceased grandfather"
+        }
+      ],
+      "mobileId": 275382,
+      "phonetic": "おうふ",
+      "word": "王父"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a63c18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người cha quá cố, người cha đã mất (qua đời)"
+        }
+      ],
+      "mobileId": 61393,
+      "phonetic": "せんちち",
+      "related_words": {
+        "word": [
+          "先",
+          "父"
+        ]
+      },
+      "word": "先父"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef952a1fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "person one respects second only to one's father"
+        }
+      ],
+      "mobileId": 275380,
+      "phonetic": "あふ",
+      "word": "亜父"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef952b0f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mother and father"
+        }
+      ],
+      "mobileId": 275381,
+      "phonetic": "あもしし おもちち",
+      "word": "母父"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d9a285",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "father"
+        }
+      ],
+      "mobileId": 263221,
+      "phonetic": "あふ",
+      "word": "阿父"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef952c8d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "daddy, father, husband"
+        }
+      ],
+      "mobileId": 275384,
+      "phonetic": "おとう",
+      "related_words": {
+        "word": [
+          "父"
+        ]
+      },
+      "word": "お父"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d6cfec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "housefather, dorm father, houseparent"
+        }
+      ],
+      "mobileId": 279641,
+      "phonetic": "りょうふ",
+      "word": "寮父"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

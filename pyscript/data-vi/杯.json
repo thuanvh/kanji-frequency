@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f496bc4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "杯を干す",
+              "mean": "cạn chén .",
+              "transcription": "はいをほす"
+            }
+          ],
+          "kind": "n",
+          "mean": "cốc; chén"
+        }
+      ],
+      "mobileId": 186194,
+      "phonetic": "さかずき",
+      "related_words": {
+        "word": [
+          "乾杯",
+          "一杯",
+          "乾杯！",
+          "満杯",
+          "祝杯",
+          "天皇杯"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "杯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "グラス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "カップ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "カップ",
+                "優勝杯"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ゴブレット"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "杯"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d629b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n-adv, n",
+          "mean": "one cup after another, cup by cup"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to the limit, to the fullest extent, absolutely the limit, the best one can do, breaking even"
+        }
+      ],
+      "mobileId": 213759,
+      "phonetic": "いっぱいいっぱい",
+      "word": "一杯一杯"
+    },
+    {
+      "_id": "b2e169caae52ec7c9b5cabff7b4f35ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cúp bóng đá thế giới ."
+        }
+      ],
+      "mobileId": 139049,
+      "phonetic": "ダブルはい",
+      "word": "w杯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a945ce85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cup of poisoned alcohol"
+        }
+      ],
+      "mobileId": 258526,
+      "phonetic": "どくはい",
+      "word": "毒杯"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8572a8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một tổ (của) những cúp mục đích"
+        }
+      ],
+      "mobileId": 36296,
+      "phonetic": "くみはい",
+      "word": "組み杯"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef25fa8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chén rượu cuối cùng trước khi kết thúc buổi đại tiệc"
+        }
+      ],
+      "mobileId": 118756,
+      "phonetic": "おさめはい",
+      "word": "納杯"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3c73e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chalice (for Holy Communion)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Holy Chalice, Holy Grail"
+        }
+      ],
+      "mobileId": 217033,
+      "phonetic": "せいはい",
+      "related_words": {
+        "word": [
+          "杯"
+        ]
+      },
+      "word": "聖杯"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107499bf6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cúp thưởng của Thiên hoàng ."
+        }
+      ],
+      "mobileId": 53046,
+      "phonetic": "てんのうはい",
+      "related_words": {
+        "word": [
+          "天",
+          "天皇",
+          "杯"
+        ]
+      },
+      "word": "天皇杯"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df2b535",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small vessel or bowl in which sake cups are rinsed"
+        }
+      ],
+      "mobileId": 222974,
+      "phonetic": "さかずきあらい",
+      "word": "杯洗い"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d4094f3c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Tô"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "杯分"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

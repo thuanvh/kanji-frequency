@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d46f100",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "kéo dài thời gian lưu trú (một nơi nào đó)"
+        }
+      ],
+      "mobileId": 217356,
+      "phonetic": "えんぱく",
+      "word": "延泊"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d62a610",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Engen era (of the Southern Court) (1336.2.29-1340.4.28)"
+        }
+      ],
+      "mobileId": 218263,
+      "phonetic": "えんげん",
+      "word": "延元"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77614d2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "différance"
+        }
+      ],
+      "mobileId": 267603,
+      "phonetic": "さえん",
+      "word": "差延"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d631a53",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Embun era (of the Northern Court) (1356.3.28-1361.3.29)"
+        }
+      ],
+      "mobileId": 218274,
+      "phonetic": "えんぶん",
+      "word": "延文"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a99ed9b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "iron containing less than 0.04% carbon"
+        }
+      ],
+      "mobileId": 261363,
+      "phonetic": "のべかね",
+      "word": "延鉄"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107f4e1a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thanh (kim loại) ."
+        }
+      ],
+      "mobileId": 55936,
+      "phonetic": "のべぼう",
+      "related_words": {
+        "word": [
+          "棒"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "延棒",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "延べ棒",
+                "麪棒",
+                "麺棒"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "突張り",
+                "延べ棒",
+                "バール",
+                "棒",
+                "横木",
+                "突っ張り",
+                "小節",
+                "バー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "延棒"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5ea7bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Enryaku era (782.8.19-806.5.18)"
+        }
+      ],
+      "mobileId": 218137,
+      "phonetic": "えんりゃく",
+      "word": "延暦"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d608821",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Houen era (1135.4.27-1141.7.10)"
+        }
+      ],
+      "mobileId": 218196,
+      "phonetic": "ほうえん",
+      "word": "保延"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d643567",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Empou era (1673.9.21-1681.9.29)"
+        }
+      ],
+      "mobileId": 218316,
+      "phonetic": "えんぽう",
+      "word": "延宝"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d647191",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Enkyou era (1744.2.21-1748.7.12)"
+        }
+      ],
+      "mobileId": 218323,
+      "phonetic": "えんきょう",
+      "word": "延享"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e895a485",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự va chạm (cầu chì)"
+        }
+      ],
+      "mobileId": 38293,
+      "phonetic": "",
+      "word": "撃発"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689619bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự tấn công dữ tợn"
+        }
+      ],
+      "mobileId": 4764,
+      "phonetic": "",
+      "word": "奮撃"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb85b7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "bắn càn, bắn loạn xạ"
+        }
+      ],
+      "mobileId": 74700,
+      "phonetic": "",
+      "word": "乱撃"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e806a4e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pincer tấn công"
+        }
+      ],
+      "mobileId": 33702,
+      "phonetic": "",
+      "word": "挾撃"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aeaed2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "impulsive force"
+        }
+      ],
+      "mobileId": 230955,
+      "phonetic": "げきりょく",
+      "word": "撃力"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9548e17a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước đập mạnh"
+        }
+      ],
+      "mobileId": 58416,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "水",
+          "撃"
+        ]
+      },
+      "word": "水撃"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08be8bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "percussion hammer, firing hammer, cocking piece"
+        }
+      ],
+      "mobileId": 211336,
+      "phonetic": "げきてつ",
+      "word": "撃鉄"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93aa813",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "verbal attack"
+        }
+      ],
+      "mobileId": 274650,
+      "phonetic": "こうげき",
+      "word": "口撃"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de28a24",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự xâm nhập vào lãnh địa của kẻ địch và tấn công, sự xâm nhập vào lòng địch tấn công"
+        }
+      ],
+      "mobileId": 152979,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "撃"
+        ]
+      },
+      "word": "侵撃"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d6e917",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sneak attack (by a small group), surprise attack"
+        }
+      ],
+      "mobileId": 271448,
+      "phonetic": "えんげき",
+      "related_words": {
+        "word": [
+          "撃"
+        ]
+      },
+      "word": "掩撃"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

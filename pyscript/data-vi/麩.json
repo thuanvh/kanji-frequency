@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568014b1ef9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cám lúa mì; cháo đặc ."
+        }
+      ],
+      "mobileId": 43037,
+      "phonetic": "ふすま",
+      "related_words": {
+        "word": [
+          "天麩羅"
+        ]
+      },
+      "word": "麩"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0114af4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wheat gluten, seitan"
+        }
+      ],
+      "mobileId": 281515,
+      "phonetic": "おふ",
+      "word": "お麩"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3e163b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rắc bột bánh ngọt bột nhão trong mẫu (dạng) (của) một cái ống"
+        }
+      ],
+      "mobileId": 113014,
+      "phonetic": "ちくわふすま",
+      "word": "竹輪麩"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9df49ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yakifu, light, bread-like dish made from baked wheat gluten"
+        }
+      ],
+      "mobileId": 279905,
+      "phonetic": "やきふ",
+      "word": "焼き麩"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687a001b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhựa gạo"
+        }
+      ],
+      "mobileId": 3880,
+      "phonetic": "ふすましつ",
+      "related_words": {
+        "word": [
+          "質",
+          "麩"
+        ]
+      },
+      "word": "麩質"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0457c89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fried wheat gluten"
+        }
+      ],
+      "mobileId": 283197,
+      "phonetic": "あげふ",
+      "word": "揚げ麩"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

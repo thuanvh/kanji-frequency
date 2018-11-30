@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280272b3cad",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "その問題についての知識が、日本人には総じて不足している。",
+              "mean": "Nhìn tổng thể, người Nhật vẫn còn thiếu thông tin về vấn đề đó.",
+              "transcription": "そのもんだいについてのちしきが、にっぽんじんにはそうじてふそくしている。"
+            },
+            {
+              "content": "総じていえば私はバンドと演奏する方が性に合っている気がする。",
+              "mean": "Nói chung mình thích diễn cùng ban nhạc hơn. .",
+              "transcription": "そうじていえばわたしはバンドとえんそうするほうがせいにあっているきがする。"
+            }
+          ],
+          "kind": "n, pref",
+          "mean": "tổng thể, nói chung là"
+        }
+      ],
+      "mobileId": 29788,
+      "phonetic": "そう",
+      "related_words": {
+        "word": [
+          "総合",
+          "総務",
+          "総計",
+          "総額",
+          "総括",
+          "総理大臣",
+          "総資産",
+          "総数",
+          "国内総生産",
+          "総選挙"
+        ]
+      },
+      "word": "総"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f426a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "general manager"
+        }
+      ],
+      "mobileId": 280565,
+      "phonetic": "そうもとじめ",
+      "word": "総元締め"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db5d657",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stroke-count of a kanji"
+        }
+      ],
+      "mobileId": 220991,
+      "phonetic": "そうかくすう",
+      "word": "総画数"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd1a098",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "total cost"
+        }
+      ],
+      "mobileId": 221903,
+      "phonetic": "そうひよう",
+      "word": "総費用"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dff66cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "total income, gross earnings"
+        }
+      ],
+      "mobileId": 223381,
+      "phonetic": "そうしょとく",
+      "word": "総所得"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77039178",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "overall finish, mop-up"
+        }
+      ],
+      "mobileId": 264576,
+      "phonetic": "そうしあげ",
+      "word": "総仕上げ"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae3a058",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "involucre, involucrum"
+        }
+      ],
+      "mobileId": 230726,
+      "phonetic": "そうほう",
+      "word": "総苞"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280272b59b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lãi mộc ."
+        }
+      ],
+      "mobileId": 29790,
+      "phonetic": "そうりえき",
+      "word": "総利益"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280272bc2e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tổng cục trưởng ."
+        }
+      ],
+      "mobileId": 29801,
+      "phonetic": "そうきょくちょう",
+      "word": "総局長"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4ab042",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "all members of the Diet, members of both houses"
+        }
+      ],
+      "mobileId": 225807,
+      "phonetic": "そうぎいん",
+      "word": "総議員"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

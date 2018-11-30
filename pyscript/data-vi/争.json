@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd60bffe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "như thế nào"
+        }
+      ],
+      "mobileId": 12879,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "で"
+        ]
+      },
+      "word": "争で"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c7c373",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bắt đầu (của) một cuộc tranh luận"
+        }
+      ],
+      "mobileId": 62465,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "端"
+        ]
+      },
+      "word": "争端"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685bbaa4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "để cho một trăm trường học (của) tư duy dám chắc rằng"
+        }
+      ],
+      "mobileId": 2928,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "家",
+          "百"
+        ]
+      },
+      "word": "百家争鳴"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74f46d73",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phân tranh ."
+        }
+      ],
+      "mobileId": 101122,
+      "phonetic": "ぶんあらそする",
+      "word": "文争する"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7db7e6a0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "俗っぽい言葉を使って",
+              "mean": "Bằng cách sử dụng những từ ngữ thô tục.",
+              "transcription": "ぞくっぽいことばをつかって"
+            },
+            {
+              "content": "これが俗に言う \"灯台下(もと)暗し\" ということだ.",
+              "mean": "Như người ta thường nói \"Dưới chân đèn thì tối\"",
+              "transcription": "これがぞくにいう\"とうだいか(もと)くらし\"ということだ."
+            }
+          ],
+          "kind": "n",
+          "mean": "lóng (tiếng lóng); tục; tầm thường; trần thế; thô tục"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuộc về thói quen"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thói quen"
+        },
+        {
+          "examples": [
+            {
+              "content": "ちまたで話されている俗語",
+              "mean": "Tiếng lóng được nói trong giới dân đường phố.",
+              "transcription": "ちまたではなされているぞくご"
+            }
+          ],
+          "kind": "n",
+          "mean": "tiếng lóng; sự tục; sự tầm thường; sự trần thế; sự thô tục"
+        }
+      ],
+      "mobileId": 144560,
+      "opposite_word": [
+        "僧",
+        "雅"
+      ],
+      "phonetic": "ぞく",
+      "related_words": {
+        "word": [
+          "風俗",
+          "俗語",
+          "民俗学",
+          "世俗",
+          "民俗",
+          "低俗",
+          "俗称"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "俗",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "俚俗",
+                "俗気",
+                "卑陋",
+                "粗野",
+                "不意気",
+                "俗悪",
+                "卑俗",
+                "低劣",
+                "下品"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "習わし",
+                "パターン",
+                "定規",
+                "慣例",
+                "慣行",
+                "習慣",
+                "定型",
+                "常習",
+                "習癖"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "俗"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e65825",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hướng thế gian; những quan hệ thế gian"
+        }
+      ],
+      "mobileId": 63459,
+      "phonetic": "ぞくじょう",
+      "related_words": {
+        "word": [
+          "情",
+          "俗"
+        ]
+      },
+      "word": "俗情"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5bf89b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "vulgar"
+        }
+      ],
+      "mobileId": 251002,
+      "phonetic": "ぞくなる",
+      "word": "俗なる"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6829a056",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chống cự tới quy ước"
+        }
+      ],
+      "mobileId": 1342,
+      "phonetic": "はんぞく",
+      "word": "反俗"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09f1cdf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Korean shamanism"
+        }
+      ],
+      "mobileId": 286034,
+      "phonetic": "ふぞく",
+      "word": "巫俗"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e580bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quan điểm đại chúng"
+        }
+      ],
+      "mobileId": 63435,
+      "phonetic": "ぞくぎ",
+      "related_words": {
+        "word": [
+          "俗"
+        ]
+      },
+      "word": "俗議"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99caaf9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the masses, ordinary people"
+        }
+      ],
+      "mobileId": 277729,
+      "phonetic": "しゅうぞく",
+      "word": "衆俗"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99cb21a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the masses, the people, populace"
+        }
+      ],
+      "mobileId": 277730,
+      "phonetic": "ぐんぞく",
+      "word": "群俗"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd72e4c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những phong tục (của) những người man rợ"
+        }
+      ],
+      "mobileId": 13444,
+      "phonetic": "えびすぞく",
+      "related_words": {
+        "word": [
+          "俗",
+          "夷"
+        ]
+      },
+      "word": "夷俗"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80c168f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "côn đồ; kẻ hung ác, thằng bé tinh quái; thằng quỷ sứ con, (từ cổ, nghĩa cổ) người quê mùa thô kệch, villein"
+        }
+      ],
+      "mobileId": 33877,
+      "phonetic": "さとぞく",
+      "word": "郷俗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

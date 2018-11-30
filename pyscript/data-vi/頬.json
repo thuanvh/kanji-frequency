@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680113ae6e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "頬をつねって静かに引っ張る",
+              "mean": "Bẹo má ai đó.",
+              "transcription": "ほおをつねってしずかにひっぱる"
+            },
+            {
+              "content": "頬をそっとなでる",
+              "mean": "Vuốt má ai .",
+              "transcription": "ほおをそっとなでる"
+            }
+          ],
+          "kind": "n",
+          "mean": "má"
+        }
+      ],
+      "mobileId": 42094,
+      "phonetic": "ほほ",
+      "related_words": {
+        "word": [
+          "頬紅"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "頬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "頬っぺた"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "頬"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568011394c1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）の頬に（口は近づけるが）触れずに音だけのキスをする",
+              "mean": "Hôn gió thật kêu lên má ai.",
+              "transcription": "（ひと）のほおに（くちはちかづけるが）ふれずにおとだけのキスをする"
+            },
+            {
+              "content": "頬に付いた鮮やかな赤色のキス・マークをぬぐい取る",
+              "mean": "Lau vết son đỏ đậm dính trên má.",
+              "transcription": "ほおについたあざやかなあかいろのキス・マークをぬぐいとる"
+            }
+          ],
+          "kind": "n",
+          "mean": "má"
+        }
+      ],
+      "mobileId": 42093,
+      "phonetic": "ほお",
+      "related_words": {
+        "word": [
+          "頬紅"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "頬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "頬っぺた"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "頬"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770927d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "both cheeks"
+        }
+      ],
+      "mobileId": 264754,
+      "phonetic": "そうきょう",
+      "word": "双頬"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a25a5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cheek pouch (monkey, squirrel, etc.)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "iron mask that covers the chin and cheeks (worn by samurai)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Anadara kagoshimensis (species of ark clam)"
+        }
+      ],
+      "mobileId": 286138,
+      "phonetic": "さるぼお",
+      "word": "猿頬"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c9335d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "red cheeks, apple cheeks"
+        }
+      ],
+      "mobileId": 270968,
+      "phonetic": "あかいほお",
+      "word": "赤い頬"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7774c54c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "buccal"
+        }
+      ],
+      "mobileId": 268224,
+      "phonetic": "きょうそく",
+      "word": "頬側"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ce55ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một nụ cười"
+        }
+      ],
+      "mobileId": 6584,
+      "phonetic": "ほおえみ",
+      "word": "頬笑み"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aae83e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buccinator muscle"
+        }
+      ],
+      "mobileId": 228975,
+      "phonetic": "きょうきん",
+      "word": "頬筋"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cc4327",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "to blush"
+        }
+      ],
+      "mobileId": 213431,
+      "phonetic": "ほほそめる",
+      "word": "頬染める"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a25752",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Anadara kagoshimensis (species of ark clam)"
+        }
+      ],
+      "mobileId": 286137,
+      "phonetic": "さるぼうがい さるぼおがい サルボウガイ サルボオガイ",
+      "word": "猿頬貝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

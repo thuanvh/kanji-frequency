@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7711f3f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "slight, dim, faint"
+        }
+      ],
+      "mobileId": 265036,
+      "phonetic": "ほの",
+      "word": "仄"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68daa66a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lờ mờ, mập mờ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "yếu ớt, uể oải, nhút nhát, mờ nhạt, nhè nhẹ"
+        }
+      ],
+      "mobileId": 6967,
+      "phonetic": "",
+      "word": "仄仄"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68dac160",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lờ mờ, mập mờ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "yếu ớt, uể oải, nhút nhát, mờ nhạt, nhè nhẹ"
+        }
+      ],
+      "mobileId": 6970,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "と"
+        ]
+      },
+      "word": "仄仄と"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7711ff9f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "faint light, dim light"
+        }
+      ],
+      "mobileId": 265037,
+      "phonetic": "ほのあかり",
+      "word": "仄明かり"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68da9085",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "mờ tối, mờ mờ, lờ mờ"
+        }
+      ],
+      "mobileId": 6965,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "暗い"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "仄暗い",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "薄暗い"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "仄暗い"
+    },
+    {
+      "_id": "432518852de0a80625d585a982776148",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the three tones of Chinese that exclude the high-level, or first, tone"
+        }
+      ],
+      "mobileId": 235401,
+      "phonetic": "そくせい",
+      "word": "仄声"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68da9fb5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "trắng lờ mờ"
+        }
+      ],
+      "mobileId": 6966,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "白",
+          "白い"
+        ]
+      },
+      "word": "仄白い"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68daaff3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv-to",
+          "mean": "lờ mờ, mập mờ"
+        },
+        {
+          "examples": null,
+          "kind": "adv-to",
+          "mean": "yếu ớt, uể oải, nhút nhát, mờ nhạt, nhè nhẹ"
+        }
+      ],
+      "mobileId": 6968,
+      "phonetic": "",
+      "word": "仄々"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68dab4e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lờ mờ, mập mờ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "yếu ớt, uể oải, nhút nhát, mờ nhạt, nhè nhẹ"
+        }
+      ],
+      "mobileId": 6969,
+      "phonetic": "",
+      "word": "仄々と"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a28869f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "象の牙",
+              "mean": "Ngà voi",
+              "transcription": "ぞうのきば"
+            },
+            {
+              "content": "鋭くて大きな牙",
+              "mean": "Ngà vừa to vừa sắc nhọn",
+              "transcription": "するどくておおきなきば"
+            },
+            {
+              "content": "のこぎりで切り落とした牙",
+              "mean": "ngà cưa bằng cưaNHA",
+              "transcription": "のこぎりできりおとしたきば"
+            }
+          ],
+          "kind": "n",
+          "mean": "ngà"
+        },
+        {
+          "examples": [
+            {
+              "content": "牙をなると子供は熱病にかけることが多い",
+              "mean": "Mỗi khi mọc răng nanh, trẻ con thường hay bị sốt.",
+              "transcription": "きばをなるとこどもはねつびょうにかけることがおおい"
+            },
+            {
+              "content": "双牙類の動物",
+              "mean": "Loài động vật có răng nanh đôi",
+              "transcription": "そうきばるいのどうぶつ"
+            },
+            {
+              "content": "クマは大きな牙を誇示して威嚇した",
+              "mean": "Con gấu nhe bộ răng nanh to lớn để hăm dọa",
+              "transcription": "クマはおおきなきばをこじしていかくした"
+            }
+          ],
+          "kind": "n",
+          "mean": "răng nanh"
+        }
+      ],
+      "mobileId": 171045,
+      "phonetic": "きば",
+      "related_words": {
+        "word": [
+          "象牙",
+          "牙城"
+        ]
+      },
+      "word": "牙"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db6bd74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brokerage, mediation, fencing (of stolen goods)"
+        }
+      ],
+      "mobileId": 221022,
+      "phonetic": "がほ",
+      "word": "牙保"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e12885f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "broker, brokerage, brokerage fee"
+        }
+      ],
+      "mobileId": 248594,
+      "phonetic": "すあい すわい",
+      "word": "牙婆"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a956bf64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tooth of Buddha recovered from his cremated ashes"
+        }
+      ],
+      "mobileId": 259077,
+      "phonetic": "ぶつげ",
+      "word": "仏牙"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b150d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dragon's fang"
+        }
+      ],
+      "mobileId": 212549,
+      "phonetic": "がりゅう",
+      "word": "牙龍"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4f0515",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flagstaff decorated with ivory carried by the emperor or a general"
+        }
+      ],
+      "mobileId": 225950,
+      "phonetic": "がとう",
+      "word": "牙纛"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f16f33",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "portugal"
+        }
+      ],
+      "mobileId": 7693,
+      "phonetic": "ぶどうきば",
+      "related_words": {
+        "word": [
+          "牙"
+        ]
+      },
+      "word": "葡萄牙"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef926693b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "water scavenger beetles (Hydrophilidae family)"
+        }
+      ],
+      "mobileId": 273995,
+      "phonetic": "がむし ガムシ",
+      "word": "牙虫"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e42cd74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5g",
+          "mean": "to sharpen one's fangs"
+        }
+      ],
+      "mobileId": 250179,
+      "phonetic": "きばをとぐ",
+      "word": "牙をとぐ"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0c95e9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hungary"
+        }
+      ],
+      "mobileId": 205105,
+      "phonetic": "ハンガリー",
+      "word": "洪牙利"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

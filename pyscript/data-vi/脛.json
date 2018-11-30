@@ -1,0 +1,177 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027601ad2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "脛骨の軟骨発育不全症",
+              "mean": "Bệnh không phát triển đầy đủ các xương chân .",
+              "transcription": "けいこつのなんこつはついくふぜんしょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "cẳng chân; ống quyển (cẳng chân)"
+        }
+      ],
+      "mobileId": 30700,
+      "phonetic": "すね",
+      "related_words": {
+        "word": [
+          "向こう脛"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "脛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "脚部",
+                "下腿",
+                "脚",
+                "骭"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "脚部",
+                "骭",
+                "足"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "脛骨"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "脛"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95599b5d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lau chùi cái bên ngoài có cha mẹ"
+        }
+      ],
+      "mobileId": 58953,
+      "phonetic": "はぎかじり",
+      "word": "脛齧り"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95598c85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sử phần giáp che ống chân, xà cạp, tóp mỡ"
+        }
+      ],
+      "mobileId": 58952,
+      "phonetic": "はぎあて",
+      "related_words": {
+        "word": [
+          "脛",
+          "当て"
+        ]
+      },
+      "word": "脛当て"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802763dbc8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bắp chân ."
+        }
+      ],
+      "mobileId": 30775,
+      "phonetic": "ふくらはぎ",
+      "word": "脹脛"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd30a399",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cẳng chân, trèo, leo, đá vào ống chân"
+        }
+      ],
+      "mobileId": 70350,
+      "phonetic": "むこうはぎ",
+      "related_words": {
+        "word": [
+          "向こう",
+          "脛"
+        ]
+      },
+      "word": "向こう脛"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e2a48a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "to depend on somebody else's (financial) support (usu. one's parents')"
+        }
+      ],
+      "mobileId": 280008,
+      "phonetic": "すねをかじる",
+      "word": "脛をかじる"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280276b37ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bắp chân ."
+        }
+      ],
+      "mobileId": 30894,
+      "phonetic": "ふくらはぎ",
+      "word": "膨ら脛"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7390bee",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bắp chuối ."
+        }
+      ],
+      "mobileId": 107619,
+      "phonetic": "あしのふくらはぎ",
+      "word": "足の脹脛"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95599f14",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5t",
+          "mean": "để có một lương tâm phạm tội"
+        }
+      ],
+      "mobileId": 58954,
+      "phonetic": "はぎにきずもつ",
+      "word": "脛に疵持つ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

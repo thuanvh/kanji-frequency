@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92e40cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oliguria"
+        }
+      ],
+      "mobileId": 257753,
+      "phonetic": "ぼうにょう",
+      "word": "乏尿"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d150610",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "lớp suy giảm (của bóng bán dẫn)"
+        }
+      ],
+      "mobileId": 215774,
+      "phonetic": "くうぼうそう",
+      "word": "空乏層"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00826d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oligozoospermia, oligospermia"
+        }
+      ],
+      "mobileId": 281222,
+      "phonetic": "ぼうせいししょう",
+      "word": "乏精子症"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107957f19",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "寝が足りない",
+              "mean": "Thiếu ngủ .",
+              "transcription": "ねがたりない"
+            }
+          ],
+          "kind": "n",
+          "mean": "Sự ngủ"
+        }
+      ],
+      "mobileId": 54371,
+      "phonetic": "ね",
+      "word": "寝"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dad2a1e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fast asleep, bombed, crashed"
+        }
+      ],
+      "mobileId": 220692,
+      "phonetic": "ガンね",
+      "word": "ガン寝"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d85a70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rush mat for sleeping, sleeping mat"
+        }
+      ],
+      "mobileId": 263182,
+      "phonetic": "ねござ",
+      "word": "寝茣蓙"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107985902",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "buồn khi ngủ vì nhớ người ngủ cùng mình ."
+        }
+      ],
+      "mobileId": 54417,
+      "phonetic": "ねさびしい",
+      "word": "寝淋しい"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c029e486",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "to get enough sleep"
+        }
+      ],
+      "mobileId": 190513,
+      "phonetic": "ねたりる",
+      "word": "寝足りる"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c046a239",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "smoking in bed"
+        }
+      ],
+      "mobileId": 209113,
+      "phonetic": "ねたばこ ねタバコ",
+      "word": "寝たばこ"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eed193e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "tỉnh dậy, thức dậy"
+        }
+      ],
+      "mobileId": 118585,
+      "phonetic": "ねさめる",
+      "related_words": {
+        "word": [
+          "覚める"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "寝覚める",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "覚める",
+                "起きる",
+                "醒める",
+                "目覚める",
+                "寝醒める"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "覚める",
+                "目覚める"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "寝覚める"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eef1607",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pijama, quần áo ngủ"
+        }
+      ],
+      "mobileId": 118652,
+      "phonetic": "ねまき",
+      "related_words": {
+        "word": [
+          "巻",
+          "巻き"
+        ]
+      },
+      "word": "寝巻き"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb100dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thổn thức"
+        }
+      ],
+      "mobileId": 15414,
+      "phonetic": "うきね",
+      "word": "浮き寝"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03e91a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "catching up on one's sleep, storing up sleep, getting extra sleep while one has the chance"
+        }
+      ],
+      "mobileId": 282975,
+      "phonetic": "ねだめ",
+      "word": "寝だめ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

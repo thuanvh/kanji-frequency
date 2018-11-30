@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd41b8ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lỗ"
+        }
+      ],
+      "mobileId": 11900,
+      "phonetic": "あな",
+      "word": "孔"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7711634",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "通気孔に小型ロボットカメラを送り込む",
+              "mean": "đưa một robot quay phim kích cỡ nhỏ vào lỗ thông khí",
+              "transcription": "つうきあなにこがたロボットカメラをおくりこむ"
+            },
+            {
+              "content": "煙が天井の通気孔から出ていった",
+              "mean": "Khói thoát ra từ lỗ thông khí của giếng trời. .",
+              "transcription": "けむりがてんじょうのつうきあなからでていった"
+            }
+          ],
+          "kind": "n",
+          "mean": "lỗ thông khí"
+        }
+      ],
+      "mobileId": 108609,
+      "phonetic": "つうきこう",
+      "related_words": {
+        "word": [
+          "気",
+          "通",
+          "気孔"
+        ]
+      },
+      "word": "通気孔"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef954133e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hiatus, hiascent, esophageal hiatus, lyrifissure, hole"
+        }
+      ],
+      "mobileId": 275422,
+      "phonetic": "れっこう",
+      "word": "裂孔"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b341784",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "index hole"
+        }
+      ],
+      "mobileId": 241510,
+      "phonetic": "いちぎめこう",
+      "word": "位置決め孔"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6895e76e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lỗ phun khí"
+        }
+      ],
+      "mobileId": 4757,
+      "phonetic": "ふんきあな",
+      "word": "噴気孔"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aec1e6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gill slit"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pharyngeal slit"
+        }
+      ],
+      "mobileId": 230992,
+      "phonetic": "えらあな さいこう",
+      "related_words": {
+        "word": [
+          "鰓"
+        ]
+      },
+      "word": "鰓孔"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c76b13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "môn đệ (của) confucius; trường học nho giáo"
+        }
+      ],
+      "mobileId": 39879,
+      "phonetic": "あなもん",
+      "word": "孔門"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e7a6741",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "(Xây dựng) Lớp đất bao quanh thành cọc khi khoan nhồi"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "こうへき",
+      "word": "孔壁"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9535853",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "perforated, porous"
+        }
+      ],
+      "mobileId": 275399,
+      "phonetic": "ゆうこう",
+      "word": "有孔"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c72d03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Khổng Tử và Mạnh Tử"
+        }
+      ],
+      "mobileId": 39872,
+      "phonetic": "あなたけし",
+      "word": "孔孟"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a8dba3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Con cóc ."
+        }
+      ],
+      "mobileId": 32072,
+      "phonetic": "ひき",
+      "word": "蟆"
+    },
+    {
+      "_id": "432518852de0a80625d585a98255b09a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese toad (Bufo japonicus)"
+        }
+      ],
+      "mobileId": 234345,
+      "phonetic": "たにぐく",
+      "word": "谷蟆"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

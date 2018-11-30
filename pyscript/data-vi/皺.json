@@ -1,0 +1,137 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a911c04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nếp nhăn; nếp gấp ."
+        }
+      ],
+      "mobileId": 172700,
+      "phonetic": "しわ",
+      "synsets": [
+        {
+          "base_form": "皺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "褶襞"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "皺"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a936186f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "crumpled, wrinkled"
+        }
+      ],
+      "mobileId": 258014,
+      "phonetic": "しわしわ シワシワ",
+      "word": "皺皺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a07635b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "creased eboshi hat"
+        }
+      ],
+      "mobileId": 223632,
+      "phonetic": "さびえぼし",
+      "word": "皺烏帽子"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774655ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, adj-na",
+          "mean": "wrinkled"
+        }
+      ],
+      "mobileId": 266723,
+      "phonetic": "しわだらけ",
+      "word": "皺だらけ"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0190f8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "to smooth out, to straighten, to relax"
+        }
+      ],
+      "mobileId": 281761,
+      "phonetic": "しわをのばす",
+      "word": "皺を伸ばす"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0ddd6e90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "để bị nhàu; tới lời khuyên"
+        }
+      ],
+      "mobileId": 152803,
+      "phonetic": "しわがよる",
+      "word": "皺が寄る"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca032ba3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rough-toothed dolphin (Steno bredanensis)"
+        }
+      ],
+      "mobileId": 282575,
+      "phonetic": "しわはいるか シワハイルカ",
+      "word": "皺歯海豚"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e81cd81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5m",
+          "mean": "to wrinkle"
+        }
+      ],
+      "mobileId": 252213,
+      "phonetic": "しわばむ",
+      "word": "皺ばむ"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0173566",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1, vt",
+          "mean": "to wrinkle up (one's eyebrows, one's nose), to furrow, to crimple"
+        }
+      ],
+      "mobileId": 189893,
+      "phonetic": "しわをよせる",
+      "word": "皺を寄せる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

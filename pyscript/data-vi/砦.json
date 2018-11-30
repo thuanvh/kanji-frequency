@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ab96254",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "(Xây dựng)\nKhu thành (cổ)"
+        },
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "(Kỹ thuật chung) Cấm thành, thành lũy"
+        }
+      ],
+      "mobileId": 173366,
+      "phonetic": "とりで",
+      "synsets": [
+        {
+          "base_form": "砦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "堅塁",
+                "城",
+                "城郭",
+                "本塁",
+                "要塞",
+                "塁",
+                "堡塁"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "城郭",
+                "牙城",
+                "根城"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "堅塁",
+                "城郭",
+                "本陣",
+                "本塁",
+                "要塞",
+                "牙城",
+                "根城",
+                "堡塁"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "要塞",
+                "塁",
+                "堡塁"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "砦"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952d8f46",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pháo đài, là pháo đài của; bảo vệ"
+        }
+      ],
+      "mobileId": 57539,
+      "phonetic": "しろとりで",
+      "related_words": {
+        "word": [
+          "城",
+          "砦"
+        ]
+      },
+      "word": "城砦"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb113a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "để xây dựng một pháo đài"
+        }
+      ],
+      "mobileId": 116706,
+      "phonetic": "とりでをきずく",
+      "word": "砦を築く"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb1064e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "tới sự bắt một pháo đài"
+        }
+      ],
+      "mobileId": 116705,
+      "phonetic": "とりでをおとす",
+      "word": "砦を落とす"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

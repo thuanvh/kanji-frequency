@@ -1,0 +1,261 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a620ee7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜を足す",
+              "mean": "làm việc",
+              "transcription": "〜をたす"
+            },
+            {
+              "content": "〜がある",
+              "mean": "có việc bận",
+              "transcription": "〜がある"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "công việc; việc bận"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "用事"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "〜をなさない:vô dụng"
+        },
+        {
+          "examples": [
+            {
+              "content": "家庭用",
+              "mean": "dùng cho gia đình",
+              "transcription": "かていよう"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "dùng cho"
+        }
+      ],
+      "mobileId": 171938,
+      "phonetic": "よう",
+      "related_words": {
+        "word": [
+          "採用",
+          "専用",
+          "汎用",
+          "用事",
+          "未使用",
+          "運用",
+          "用意",
+          "使用",
+          "用途",
+          "引用"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "用",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "使い処",
+                "用途",
+                "機能",
+                "本旨",
+                "使い道",
+                "趣意",
+                "目当て",
+                "使い所",
+                "用法",
+                "実利",
+                "趣旨",
+                "狙い",
+                "職能",
+                "役割",
+                "効用",
+                "使い方",
+                "働き",
+                "役目",
+                "甲斐",
+                "目的"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "代",
+                "代価",
+                "費用",
+                "失費",
+                "代金",
+                "入用",
+                "経費",
+                "料",
+                "掛かり",
+                "勘定",
+                "コスト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "所用",
+                "用事",
+                "用件"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "用"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193791d20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cho nhà (thay vì doanh nghiệp) sự sử dụng; nơi cư ngụ sử dụng; gia đình,họ sử dụng"
+        }
+      ],
+      "mobileId": 21773,
+      "phonetic": "かていよう",
+      "related_words": {
+        "word": [
+          "家",
+          "用",
+          "庭",
+          "家庭"
+        ]
+      },
+      "word": "家庭用"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd282878",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "khách hàng (sự sử dụng)"
+        }
+      ],
+      "mobileId": 70084,
+      "phonetic": "みんせいよう",
+      "word": "民生用"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd95cd4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dụng cụ"
+        }
+      ],
+      "mobileId": 73573,
+      "phonetic": "ようき",
+      "word": "用器"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e4c7c9e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Giấy nháp"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "したがきよう",
+      "word": "下書き用"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9080be3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "for visitors or guests"
+        }
+      ],
+      "mobileId": 273021,
+      "phonetic": "らいきゃくよう",
+      "word": "来客用"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b785be8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "home, residential use"
+        }
+      ],
+      "mobileId": 243695,
+      "phonetic": "じたくよう",
+      "related_words": {
+        "word": [
+          "用",
+          "住宅",
+          "宅",
+          "住"
+        ]
+      },
+      "word": "住宅用"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b223a2a68",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Thưởng ngoạn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "観賞用"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d4024e3a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "車脱出用",
+              "mean": "dụng cụ thoát hiểm cho ô tô",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "dụng cụ thoát hiểm"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "だっしゅつよう",
+      "word": "脱出用"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a77f564",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mysterious influence, mysterious effect"
+        }
+      ],
+      "mobileId": 227225,
+      "phonetic": "みょうよう",
+      "word": "妙用"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

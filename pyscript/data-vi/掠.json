@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c17f95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "pillaging and setting fire to"
+        }
+      ],
+      "mobileId": 262465,
+      "phonetic": "ふんりゃく",
+      "word": "焚掠"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef991aeb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "letter of marque"
+        }
+      ],
+      "mobileId": 277384,
+      "phonetic": "しりゃくめんきょ",
+      "word": "私掠免許"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef991ba0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "letter of marque"
+        }
+      ],
+      "mobileId": 277385,
+      "phonetic": "しりゃくめんきょじょう",
+      "word": "私掠免許状"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef991c32e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "privateer, corsair"
+        }
+      ],
+      "mobileId": 277387,
+      "phonetic": "しりゃくせん",
+      "word": "私掠船"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

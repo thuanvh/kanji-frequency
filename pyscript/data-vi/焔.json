@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68da6f07",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cháy"
+        }
+      ],
+      "mobileId": 6962,
+      "phonetic": "ほのお",
+      "related_words": {
+        "word": [
+          "火焔"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "焔",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "火",
+                "ファイア",
+                "炎"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "焔"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9529f7df",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đốt cháy những cảm xúc mạnh mẽ; cháy sáng mong muốn"
+        }
+      ],
+      "mobileId": 57433,
+      "phonetic": "じょうほのお",
+      "word": "情焔"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8aa6606",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ngọn lửa và nhẹ"
+        }
+      ],
+      "mobileId": 38937,
+      "phonetic": "ひかりほのお",
+      "word": "光焔"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde9ce14",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thuốc súng; nitrat kali (bột trắng mặn dùng làm thuốc súng, để bảo quản thức ăn và làm thuốc chữa bệnh)"
+        }
+      ],
+      "mobileId": 17173,
+      "phonetic": "",
+      "word": "焔硝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

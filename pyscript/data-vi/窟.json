@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107ba733f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "王女は巌窟に捕らえられた",
+              "mean": "Nàng công chúa bị bắt giam vào trong một cái hang.",
+              "transcription": "おうじょはいわお窟にとらえられた"
+            },
+            {
+              "content": "巌窟の野獣",
+              "mean": "Hang của dã thú",
+              "transcription": "いわお窟のやじゅう"
+            }
+          ],
+          "kind": "n",
+          "mean": "Hang; hang động"
+        }
+      ],
+      "mobileId": 55012,
+      "phonetic": "がんくつ",
+      "word": "巌窟"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9444999",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buried earthen jar that makes sound when water drips into it (garden feature)"
+        }
+      ],
+      "mobileId": 274942,
+      "phonetic": "すいきんくつ",
+      "word": "水琴窟"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda5f551",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ở trong (của) một hang"
+        }
+      ],
+      "mobileId": 15051,
+      "phonetic": "",
+      "word": "窟の中"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0e01b70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "very shrewd in preparing a means of escape, being very good at escaping danger"
+        }
+      ],
+      "mobileId": 214084,
+      "phonetic": "こうとさんくつ",
+      "word": "狡兎三窟"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

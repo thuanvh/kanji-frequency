@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10712484c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đèn lồng ."
+        }
+      ],
+      "mobileId": 52175,
+      "phonetic": "ちょうちん",
+      "word": "堤燈"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b09138",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đèn đường ."
+        }
+      ],
+      "mobileId": 32196,
+      "phonetic": "がいとう",
+      "related_words": {
+        "word": [
+          "街"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "街燈",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "街灯"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "街燈"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107e66397",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "幻燈器",
+              "mean": "máy chiếu",
+              "transcription": "まぼろし燈器"
+            },
+            {
+              "content": "幻燈画",
+              "mean": "màn hình máy chiếu",
+              "transcription": "まぼろし燈画"
+            }
+          ],
+          "kind": "n",
+          "mean": "Máy chiếu"
+        }
+      ],
+      "mobileId": 55707,
+      "phonetic": "げんとう",
+      "related_words": {
+        "word": [
+          "幻"
+        ]
+      },
+      "word": "幻燈"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc1cd3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự dập tắt; sự làm tan vỡ; sự làm mất đi, sự làm tuyệt giống, sự thanh toán, sự tiêu diệt, sự tiêu huỷ"
+        }
+      ],
+      "mobileId": 151900,
+      "phonetic": "",
+      "word": "消燈"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86e9bc7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đèn huỳnh quang"
+        }
+      ],
+      "mobileId": 37047,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "光",
+          "蛍",
+          "蛍光"
+        ]
+      },
+      "word": "蛍光燈"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f2b56a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Dīpankara Buddha, Dipankara (the lamp bearer)"
+        }
+      ],
+      "mobileId": 264025,
+      "phonetic": "ねんとうぶつ",
+      "word": "燃燈仏"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a88afe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đèn huỳnh quang; đèn neon; đèn nê-ông ."
+        }
+      ],
+      "mobileId": 32062,
+      "phonetic": "けいこうとう",
+      "related_words": {
+        "word": [
+          "光"
+        ]
+      },
+      "word": "螢光燈"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d77cc4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kanto Festival (Akita)"
+        }
+      ],
+      "mobileId": 218942,
+      "phonetic": "あきたかんとうまつり",
+      "word": "秋田竿燈まつり"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b1ace7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "light used as a religious offering"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "paper lantern (hung up near the door of performers and geishas)"
+        }
+      ],
+      "mobileId": 261965,
+      "phonetic": "ごしんとう ごじんとう",
+      "word": "御神燈"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

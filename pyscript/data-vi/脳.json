@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027627df3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "脳出血",
+              "mean": "xuất huyết não",
+              "transcription": "のうしゅっけつ"
+            },
+            {
+              "content": "脳が弱い",
+              "mean": "trí nhớ kém",
+              "transcription": "のうがよわい"
+            }
+          ],
+          "kind": "n",
+          "mean": "não"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "óc ."
+        }
+      ],
+      "mobileId": 30735,
+      "phonetic": "のう",
+      "related_words": {
+        "word": [
+          "脳梗塞",
+          "洗脳",
+          "脳卒中",
+          "頭脳",
+          "電脳",
+          "脳出血",
+          "脳死",
+          "脳波",
+          "首脳",
+          "脳溢血"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "脳",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "大脳",
+                "頭脳",
+                "ブレーン",
+                "脳髄"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "脳"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802762dcc4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự giập xương não ."
+        }
+      ],
+      "mobileId": 30747,
+      "phonetic": "のうざしょう",
+      "word": "脳挫傷"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b74fcd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "não trước"
+        }
+      ],
+      "mobileId": 61929,
+      "phonetic": "ぜんのう",
+      "related_words": {
+        "word": [
+          "前",
+          "脳"
+        ]
+      },
+      "word": "前脳"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e527f14",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "não giữa"
+        }
+      ],
+      "mobileId": 113669,
+      "phonetic": "ちゅうのう",
+      "related_words": {
+        "word": [
+          "中",
+          "脳"
+        ]
+      },
+      "word": "中脳"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ffbc86",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "human brain"
+        }
+      ],
+      "mobileId": 280944,
+      "phonetic": "じんのう",
+      "word": "人脳"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dad775e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đứng đầu; dẫn dắt tinh thần"
+        }
+      ],
+      "mobileId": 151226,
+      "phonetic": "しゅのう",
+      "related_words": {
+        "word": [
+          "主",
+          "脳"
+        ]
+      },
+      "word": "主脳"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4c4100",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brain power"
+        }
+      ],
+      "mobileId": 217529,
+      "phonetic": "のうりょく",
+      "word": "脳力"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802762ea5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bệnh giang mai não ."
+        }
+      ],
+      "mobileId": 30749,
+      "phonetic": "のうばいどく",
+      "word": "脳梅毒"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802763453e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tế bào não ."
+        }
+      ],
+      "mobileId": 30759,
+      "phonetic": "のうさいぼう",
+      "related_words": {
+        "word": [
+          "脳",
+          "細胞"
+        ]
+      },
+      "word": "脳細胞"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a799816",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "corpus callosum"
+        }
+      ],
+      "mobileId": 227275,
+      "phonetic": "のうりょう",
+      "word": "脳梁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

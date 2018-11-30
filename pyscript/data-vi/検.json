@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e88a1f9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "sự dùng kính hiển vi; sự soi kính hiển vi"
+        }
+      ],
+      "mobileId": 37912,
+      "phonetic": "けんきょう",
+      "word": "検鏡"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c096b358",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "English proficiency examination, English proficiency test"
+        }
+      ],
+      "mobileId": 211682,
+      "phonetic": "えいけん",
+      "word": "英検"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf91461",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "driving school qualifying test"
+        }
+      ],
+      "mobileId": 247775,
+      "phonetic": "そっけん",
+      "word": "卒検"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bff9270",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drawing check, check of drawing"
+        }
+      ],
+      "mobileId": 247993,
+      "phonetic": "けんず",
+      "word": "検図"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e293f3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "University Entrance Qualification Examination (establishes the equivalent of high-school graduation prior to 2005)"
+        }
+      ],
+      "mobileId": 249352,
+      "phonetic": "だいけん",
+      "word": "大検"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a481b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "verification of the authenticity of a document (e.g. by seal or handwriting)"
+        }
+      ],
+      "mobileId": 261532,
+      "phonetic": "けんしん",
+      "word": "検真"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f6ab3fc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "検認試験",
+              "mean": "Cuộc thi xác nhận",
+              "transcription": "けん認しけん"
+            },
+            {
+              "content": "設計の検認",
+              "mean": "Sự kiểm nhận (kiểm chứng) thiết kế",
+              "transcription": "せっけいのけん認"
+            },
+            {
+              "content": "遺言の検認",
+              "mean": "Sự kiểm chứng lời trăng trối (di chúc) .",
+              "transcription": "ゆいごんのけん認"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "sự kiểm nhận; kiểm nhận; xác nhận; kiểm chứng"
+        }
+      ],
+      "mobileId": 186729,
+      "phonetic": "けんにん",
+      "word": "検認"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a21ec4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự điều tra nghiên cứu"
+        }
+      ],
+      "mobileId": 23062,
+      "phonetic": "かんけん",
+      "related_words": {
+        "word": [
+          "勘"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勘検",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "査察",
+                "リサーチ",
+                "査問",
+                "探索",
+                "審査",
+                "踏査",
+                "取り調べ",
+                "追究",
+                "究明",
+                "考査",
+                "詮索",
+                "追求",
+                "考証",
+                "吟味",
+                "捜査",
+                "調べ",
+                "追及",
+                "検討",
+                "検察",
+                "取調",
+                "調査",
+                "捜索",
+                "勘査",
+                "査定"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "勘検"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88563db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đo áp suất"
+        }
+      ],
+      "mobileId": 37763,
+      "phonetic": "",
+      "word": "検圧"
+    },
+    {
+      "_id": "432518852de0a80625d585a98225e6de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "electroscope"
+        }
+      ],
+      "mobileId": 232821,
+      "phonetic": "けんでんき",
+      "word": "検電器"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

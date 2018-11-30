@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd341b58",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khá; tốt hơn; thay vào đó"
+        }
+      ],
+      "mobileId": 70454,
+      "phonetic": "やすし",
+      "related_words": {
+        "word": [
+          "丁寧",
+          "丁寧な",
+          "丁寧に",
+          "丁寧語",
+          "寧ろ",
+          "安寧"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "寧",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "寧ろ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "むしろ",
+                "却って",
+                "寧ろ"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "寧"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c0a48b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "<Mỹ>"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hoà bình, tình trạng hoà bình, thái bình, sự thanh thản, yên tựnh"
+        }
+      ],
+      "mobileId": 39667,
+      "phonetic": "かんやすし",
+      "word": "康寧"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0890c39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "calm, peaceful, tranquil"
+        }
+      ],
+      "mobileId": 285319,
+      "phonetic": "ねいせい",
+      "word": "寧静"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde23809",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lenin"
+        }
+      ],
+      "mobileId": 75986,
+      "phonetic": "れつやすし",
+      "word": "列寧"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c16e44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "peace and quiet, tranquility, peace on earth"
+        }
+      ],
+      "mobileId": 262460,
+      "phonetic": "せいねい",
+      "word": "静寧"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770cad19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ladies' pavilion (of the inner Heian Palace)"
+        }
+      ],
+      "mobileId": 264858,
+      "phonetic": "じょうねいでん そうねいでん",
+      "word": "常寧殿"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

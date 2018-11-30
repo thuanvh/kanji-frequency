@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e0dadca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thought"
+        },
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "report on one's investigation into ..."
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "deceased father"
+        }
+      ],
+      "mobileId": 248438,
+      "phonetic": "こう",
+      "word": "考"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5bbf2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một có sở hữu những tư duy hoặc quan điểm (lịch sự)"
+        }
+      ],
+      "mobileId": 148637,
+      "phonetic": "わたしこう",
+      "word": "私考"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca054cc01",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "isn't it obvious?, that's common sense"
+        }
+      ],
+      "mobileId": 283679,
+      "phonetic": "じょうこう",
+      "word": "常考"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802745cacb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "suy ra ."
+        }
+      ],
+      "mobileId": 30269,
+      "phonetic": "かんがつく",
+      "word": "考つく"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca081aed2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "considering and examining, pondering and investigating"
+        }
+      ],
+      "mobileId": 285088,
+      "phonetic": "こうかく",
+      "word": "考覈"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6f9dfe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hiểu lầm, sự bất hoà"
+        }
+      ],
+      "mobileId": 149265,
+      "phonetic": "しつこう",
+      "synsets": [
+        {
+          "base_form": "失考",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "間違い",
+                "誤解",
+                "勘違い"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "失考"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

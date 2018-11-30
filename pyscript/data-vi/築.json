@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f2e1cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "... years since construction, ... years old (of a building)"
+        },
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "built in ..."
+        }
+      ],
+      "mobileId": 280528,
+      "phonetic": "ちく",
+      "word": "築"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771811ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mud wall with a roof, roofed mud wall"
+        }
+      ],
+      "mobileId": 265234,
+      "phonetic": "ついひじ",
+      "word": "築泥"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fb2635",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mud wall with a roof"
+        }
+      ],
+      "mobileId": 264306,
+      "phonetic": "ついがき ついかき つきがき",
+      "word": "築垣"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a956fbbb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "after construction, after building, since construction"
+        }
+      ],
+      "mobileId": 259084,
+      "phonetic": "ちくご",
+      "word": "築後"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a957292c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "relatively new (esp. a building)"
+        }
+      ],
+      "mobileId": 259093,
+      "phonetic": "ちくあさ",
+      "word": "築浅"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b60fa5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "袂を分かつ",
+              "mean": "Xa lánh, tách biệt ai",
+              "transcription": "たもとをわかつ"
+            },
+            {
+              "content": "彼の理論は恩師と袂を分かつ原因となった。",
+              "mean": "Bài luận văn của anh ta chính là nguyên nhân tách rời mối quan hệ giữa anh ta và giáo sư đại học của anh ta .",
+              "transcription": "かれのりろんはおんしとたもとをわかつげんいんとなった。"
+            }
+          ],
+          "kind": "n",
+          "mean": "tay áo"
+        }
+      ],
+      "mobileId": 32282,
+      "phonetic": "たもと",
+      "synsets": [
+        {
+          "base_form": "袂",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "袖",
+                "スリーブ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "辺",
+                "傍ら",
+                "傍",
+                "側ら",
+                "側",
+                "側辺",
+                "脇",
+                "横"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "袂"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a6235b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự chia tay, sự chia xa, sự chia lìa"
+        }
+      ],
+      "mobileId": 5284,
+      "phonetic": "ぶんたもと",
+      "related_words": {
+        "word": [
+          "分"
+        ]
+      },
+      "word": "分袂"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ae4759",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "to shed many tears, to weep, to wring dry one's sleeve (which has been soaked by tears)"
+        }
+      ],
+      "mobileId": 261855,
+      "phonetic": "たもとをしぼる",
+      "word": "袂を絞る"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3f2c31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5t",
+          "mean": "part from (with), part company with, break with"
+        }
+      ],
+      "mobileId": 217117,
+      "phonetic": "たもとをわかつ",
+      "word": "袂を分かつ"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00c5d8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tears on the sleeves (of one's kimono), weeping copiously"
+        }
+      ],
+      "mobileId": 281363,
+      "phonetic": "たもとのつゆ",
+      "word": "袂の露"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ae43cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "to do in unison, to do en masse"
+        }
+      ],
+      "mobileId": 261854,
+      "phonetic": "たもとをつらねる",
+      "word": "袂を連ねる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b5fdf7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "えりにふけがたまっている",
+              "mean": "có nhiều gầu bám trên cổ áo",
+              "transcription": "えりにふけがたまっている"
+            },
+            {
+              "content": "掛け衿",
+              "mean": "cổ áo có thể thay thế được .",
+              "transcription": "かけえり"
+            }
+          ],
+          "kind": "n",
+          "mean": "Cổ; cổ áo; ve áo"
+        }
+      ],
+      "mobileId": 32281,
+      "phonetic": "えり",
+      "synsets": [
+        {
+          "base_form": "衿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "襟",
+                "カラー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "首",
+                "襟"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "襟"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "衿"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8e60e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "usu. the drop between collar and bottom hem on kimono, yukata, etc."
+        }
+      ],
+      "mobileId": 219679,
+      "phonetic": "えりした",
+      "word": "衿下"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681b174e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "neckpiece (trên (về) một áo kimônô)"
+        }
+      ],
+      "mobileId": 866,
+      "phonetic": "はんえり",
+      "word": "半衿"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde4f70a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẻ (của) cổ áo"
+        }
+      ],
+      "mobileId": 17011,
+      "phonetic": "えりうら",
+      "word": "衿裏"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8e4e15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "collar core (stiff fabric, etc. inside a collar)"
+        }
+      ],
+      "mobileId": 219677,
+      "phonetic": "えりしん",
+      "word": "衿芯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

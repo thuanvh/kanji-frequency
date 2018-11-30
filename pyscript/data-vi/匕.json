@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada5d4c8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cái thìa"
+        }
+      ],
+      "mobileId": 78530,
+      "phonetic": "さじ",
+      "related_words": {
+        "word": [
+          "十匕"
+        ]
+      },
+      "word": "匕"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada5d4e24",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cái thìa ."
+        }
+      ],
+      "mobileId": 78531,
+      "phonetic": "ひ",
+      "related_words": {
+        "word": [
+          "十匕"
+        ]
+      },
+      "word": "匕"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aee9c0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stone knife (Jomon-period tool, shaped like a rice spoon)"
+        }
+      ],
+      "mobileId": 231068,
+      "phonetic": "せきひ",
+      "word": "石匕"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada5d5611",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thìa và đũa ."
+        }
+      ],
+      "mobileId": 78532,
+      "phonetic": "ひちょ",
+      "word": "匕箸"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aee90fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one spoon"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "one dagger"
+        }
+      ],
+      "mobileId": 231066,
+      "phonetic": "いっぴ",
+      "word": "一匕"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

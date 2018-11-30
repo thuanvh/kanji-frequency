@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f747e8f2a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "カリフラワーを房ごとに分ける",
+              "mean": "Tách súp lơ thành từng chùm một.",
+              "transcription": "カリフラワーをぼうごとにわける"
+            },
+            {
+              "content": "耳の前に垂れた髪の房",
+              "mean": "Búi tóc mai rủ xuống trước tai.",
+              "transcription": "みみのまえにたれたかみのぼう"
+            }
+          ],
+          "kind": "n",
+          "mean": "búi; chùm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nải ."
+        }
+      ],
+      "mobileId": 99294,
+      "phonetic": "ふさ",
+      "related_words": {
+        "word": [
+          "工房",
+          "冷房",
+          "乳房",
+          "文房具",
+          "厨房",
+          "暖房",
+          "女房",
+          "書房",
+          "独房",
+          "官房長官"
+        ]
+      },
+      "word": "房"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68793f0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, adv, adv-to",
+          "mean": "thành bụi, thành chùm, có nhiều chùm, có nhiều bụi; rậm rạp"
+        }
+      ],
+      "mobileId": 3854,
+      "phonetic": "ぼうぼう",
+      "word": "房房"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68794647",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "thành bụi, thành chùm, có nhiều chùm, có nhiều bụi; rậm rạp"
+        },
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "có tua, như tua"
+        },
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "xốp nhẹ (mây, tuyết), xù xoắn bồng"
+        },
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "phong phú, nhiều, chan chứa; thừa thãi, dư dật"
+        }
+      ],
+      "mobileId": 3855,
+      "phonetic": "ぼうぼうした",
+      "word": "房房した"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca078c4e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tufted toothpick, Edo-period toothbrush resembling a large toothpick burred at one end into a tuft"
+        }
+      ],
+      "mobileId": 284817,
+      "phonetic": "ふさようじ",
+      "word": "房楊枝"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a31657",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "green tassel hung above the northeast corner of the ring"
+        }
+      ],
+      "mobileId": 212081,
+      "phonetic": "あおぶさ",
+      "word": "青房"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cfaee7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "multi-person cell, shared cell"
+        }
+      ],
+      "mobileId": 279401,
+      "opposite_word": [
+        "独房"
+      ],
+      "phonetic": "ざっきょぼう",
+      "word": "雑居房"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fd9d2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acinus"
+        }
+      ],
+      "mobileId": 272686,
+      "phonetic": "せんぼう",
+      "word": "腺房"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e95f30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bên trong một phòng"
+        }
+      ],
+      "mobileId": 7433,
+      "phonetic": "ぼうちゅう",
+      "word": "房中"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a31ecb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red tassel hung above the southeast corner of the ring"
+        }
+      ],
+      "mobileId": 212083,
+      "phonetic": "あかぶさ",
+      "word": "赤房"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7d1bc1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Phòng ngủ ."
+        }
+      ],
+      "mobileId": 110220,
+      "phonetic": "けいぼう",
+      "word": "閨房"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dce5e79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gián điệp ."
+        }
+      ],
+      "mobileId": 144981,
+      "phonetic": "てい",
+      "related_words": {
+        "word": [
+          "探偵",
+          "偵察",
+          "偵察機"
+        ]
+      },
+      "word": "偵"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dce9df7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự do thám ."
+        }
+      ],
+      "mobileId": 144989,
+      "phonetic": "ていち",
+      "related_words": {
+        "word": [
+          "偵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "偵知",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "偵察",
+                "内偵",
+                "スパイ行為"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "偵知"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b21835",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mắc ."
+        }
+      ],
+      "mobileId": 109720,
+      "phonetic": "かぎ",
+      "word": "鉤"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b22015",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Dấu móc vuông ."
+        }
+      ],
+      "mobileId": 109721,
+      "phonetic": "かぎかっこ",
+      "related_words": {
+        "word": [
+          "括弧"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鉤括弧",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ブラケット"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鉤括弧"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df792e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "claw, talon"
+        }
+      ],
+      "mobileId": 223138,
+      "phonetic": "かぎづめ カギづめ かぎつめ",
+      "word": "鉤爪"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e40f18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grappling hook, grappling iron"
+        }
+      ],
+      "mobileId": 280052,
+      "phonetic": "ひっかけかぎ",
+      "word": "ひっかけ鉤"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19349daa4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rách toạc; vết rách"
+        }
+      ],
+      "mobileId": 20274,
+      "phonetic": "",
+      "word": "鉤裂き"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bb579d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hookworm"
+        }
+      ],
+      "mobileId": 39492,
+      "phonetic": "",
+      "word": "鉤虫"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b2277e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kim móc ."
+        }
+      ],
+      "mobileId": 109722,
+      "phonetic": "かぎばり",
+      "word": "鉤針"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934a12a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái mũi khoằm; cái mũi vẽ bằng một nét móc (tranh vẽ thời Heian)"
+        }
+      ],
+      "mobileId": 20281,
+      "phonetic": "",
+      "word": "鉤鼻"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b56679",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hook and eye (clothing fastener)"
+        }
+      ],
+      "mobileId": 286777,
+      "phonetic": "かぎホック",
+      "word": "鉤ホック"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0e96bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snell (fishing), leader, trace, cast"
+        }
+      ],
+      "mobileId": 215563,
+      "phonetic": "はりす ハリス",
+      "word": "鉤素"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

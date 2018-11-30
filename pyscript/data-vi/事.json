@@ -1,0 +1,290 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d5529f1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "自分の事は自分でやる",
+              "mean": "việc của mình mình làm",
+              "transcription": "じぶんのことはじぶんでやる"
+            }
+          ],
+          "kind": "n",
+          "mean": "công việc"
+        },
+        {
+          "examples": [
+            {
+              "content": "花は咲いたと言う事だ",
+              "mean": "nói là hoa đã nở rồi",
+              "transcription": "はなはさいたということだ"
+            }
+          ],
+          "kind": "n",
+          "mean": "lời; nội dung"
+        },
+        {
+          "examples": [
+            {
+              "content": "事の起こりは不注意からである",
+              "mean": "xảy ra sự cố là do không chú ý",
+              "transcription": "ことのおこりはふちゅういからである"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự cố"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự việc"
+        },
+        {
+          "examples": [
+            {
+              "content": "事の原因をつきつめる",
+              "mean": "truy tìm nguyên nhân sự việc",
+              "transcription": "ことのげんいんをつきつめる"
+            }
+          ],
+          "kind": "n",
+          "mean": "việc"
+        },
+        {
+          "examples": [
+            {
+              "content": "明日は８時までに来る事だ",
+              "mean": "cần phải đến vào trước 8 giờ ngày mai",
+              "transcription": "あしたははちじまでにくることだ"
+            },
+            {
+              "content": "Lưu ý",
+              "mean": " với nghĩa này động từ luôn đi với một động từ khác bỏ đuôi \"masu\" ở trước đó.",
+              "transcription": "Lưu ý"
+            }
+          ],
+          "kind": "n",
+          "mean": "yêu cầu; phải"
+        }
+      ],
+      "mobileId": 142889,
+      "phonetic": "こと",
+      "related_words": {
+        "word": [
+          "注意事項",
+          "仕事",
+          "事務所",
+          "議事録",
+          "工事",
+          "用事",
+          "工事中",
+          "返事",
+          "食事",
+          "事業所"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "事",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "物事",
+                "物件",
+                "什",
+                "事柄",
+                "物",
+                "代物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "出来事",
+                "事象"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "事項",
+                "事柄"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "事件"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "物事",
+                "事項",
+                "事柄",
+                "一件",
+                "儀",
+                "事物",
+                "件",
+                "事象"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "事柄"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "事"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db019f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "mixture of fact and fiction, half-truths"
+        }
+      ],
+      "mobileId": 220800,
+      "phonetic": "あることないこと",
+      "word": "有る事無い事"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681edcc4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhanh, nhanh chóng"
+        }
+      ],
+      "mobileId": 981,
+      "phonetic": "はやいこと",
+      "word": "早い事"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdafd511",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự điều tra, sự thẩm tra; sự thẩm vấn, sự hỏi, câu hỏi"
+        }
+      ],
+      "mobileId": 15378,
+      "phonetic": "うかがいごと",
+      "related_words": {
+        "word": [
+          "事"
+        ]
+      },
+      "word": "伺い事"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd39cb2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trò chơi; sự giải trí; sự tiêu khiển"
+        }
+      ],
+      "mobileId": 11639,
+      "phonetic": "あそびごと",
+      "word": "遊び事"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a88503",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc công; công việc của các quan chức chính phủ"
+        }
+      ],
+      "mobileId": 23267,
+      "phonetic": "かんごと",
+      "related_words": {
+        "word": [
+          "事"
+        ]
+      },
+      "word": "官事"
+    },
+    {
+      "_id": "13c287a9cd6fe5af7f6474cfb258cc34",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cánh bèo ."
+        }
+      ],
+      "mobileId": 27001,
+      "phonetic": "くだらないこと",
+      "word": "くだらない事"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8eb1510",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "để làm cho cái gì đó khác nhau; để làm cho một lớn là thứ (của)"
+        }
+      ],
+      "mobileId": 41047,
+      "phonetic": "ことたてる",
+      "related_words": {
+        "word": [
+          "事",
+          "立てる"
+        ]
+      },
+      "word": "事立てる"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ed5e56",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "không có sự cố; bình thản"
+        }
+      ],
+      "mobileId": 41111,
+      "phonetic": "ことなく",
+      "related_words": {
+        "word": [
+          "無",
+          "事"
+        ]
+      },
+      "word": "事無く"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ee1bbb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "như cái gì đó strange"
+        }
+      ],
+      "mobileId": 41135,
+      "phonetic": "ことめずらしく",
+      "word": "事珍しく"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

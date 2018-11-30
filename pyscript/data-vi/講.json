@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e0eed28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "(Buddhist) lecture meeting"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "religious association"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mutual assistance association (i.e. for financial assistance)"
+        }
+      ],
+      "mobileId": 248481,
+      "phonetic": "こう",
+      "word": "講"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680152b1a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sơ đồ hình chóp ."
+        }
+      ],
+      "mobileId": 43198,
+      "phonetic": "ねずみこう",
+      "word": "鼠講"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da75baf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự thuyết trình; sự thuyết giảng; sự giảng dạy"
+        }
+      ],
+      "mobileId": 151037,
+      "phonetic": "でこう",
+      "word": "出講"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0356705",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mutual financing association"
+        }
+      ],
+      "mobileId": 282668,
+      "phonetic": "むじんこう",
+      "word": "無尽講"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c01fd8f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, vt",
+          "mean": "closing down a course or a program (school, etc.)"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs, vt",
+          "mean": "end of a course or program (school, etc.)"
+        }
+      ],
+      "mobileId": 190178,
+      "opposite_word": [
+        "開講"
+      ],
+      "phonetic": "へいこう",
+      "word": "閉講"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0fc69f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fraternal religious group formed by Ise Shrine worshippers"
+        }
+      ],
+      "mobileId": 248501,
+      "phonetic": "いせこう",
+      "word": "伊勢講"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0357220",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(Buddhist) lecture meeting"
+        }
+      ],
+      "mobileId": 282669,
+      "phonetic": "こうえ",
+      "word": "講会"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87f5119",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "hoãn lớp học; không tham dự tiết học"
+        }
+      ],
+      "mobileId": 37580,
+      "phonetic": "けつこう",
+      "word": "欠講"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90cfa89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "memorial services for the founder of the sect (esp. for Shinran in Shin Buddhism)"
+        }
+      ],
+      "mobileId": 273179,
+      "phonetic": "ほうおんこう",
+      "word": "報恩講"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aeb82b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lecture (on a special topic)"
+        }
+      ],
+      "mobileId": 230974,
+      "phonetic": "とっこう",
+      "word": "特講"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

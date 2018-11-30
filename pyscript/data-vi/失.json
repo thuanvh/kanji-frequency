@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d73075f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự không biết tên ai đó"
+        }
+      ],
+      "mobileId": 149374,
+      "phonetic": "しつめい",
+      "related_words": {
+        "word": [
+          "名"
+        ]
+      },
+      "word": "失名"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed0c412",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(1) để mất cái gì đó;(2) có giải thoát (của)"
+        }
+      ],
+      "mobileId": 117709,
+      "phonetic": "しつくす",
+      "word": "失くす"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d708324",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biện pháp đối phó với sự thất nghiệp"
+        }
+      ],
+      "mobileId": 149294,
+      "phonetic": "しつたい",
+      "word": "失対"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d956b23",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Paradise Lost (poem by Milton)"
+        }
+      ],
+      "mobileId": 219905,
+      "phonetic": "しつらくえん",
+      "word": "失楽園"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96a7c05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "deactivation"
+        }
+      ],
+      "mobileId": 259705,
+      "phonetic": "しっかつ",
+      "word": "失活"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d33cbb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lỗi những người bắt"
+        }
+      ],
+      "mobileId": 6746,
+      "phonetic": "としつ",
+      "word": "捕失"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d72da2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bảo hiểm nạn thất nghiệp"
+        }
+      ],
+      "mobileId": 149366,
+      "phonetic": "しつほ",
+      "word": "失保"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7a3f26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(ethical) mistake"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "apraxia (inability to purposely perform some actions)"
+        }
+      ],
+      "mobileId": 227297,
+      "phonetic": "しっこう",
+      "word": "失行"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6f9dfe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hiểu lầm, sự bất hoà"
+        }
+      ],
+      "mobileId": 149265,
+      "phonetic": "しつこう",
+      "synsets": [
+        {
+          "base_form": "失考",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "間違い",
+                "誤解",
+                "勘違い"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "失考"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d72eb2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự chết, chết; hấp hối, thốt ra lúc chết, sắp tàn"
+        }
+      ],
+      "mobileId": 149372,
+      "phonetic": "しついのち",
+      "related_words": {
+        "word": [
+          "命"
+        ]
+      },
+      "word": "失命"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca072d8cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "certainly, truly"
+        }
+      ],
+      "mobileId": 284642,
+      "phonetic": "さだ",
+      "word": "定"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1077cabbe",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "自分の定位置に戻る",
+              "mean": "quay trở lại vị trí của mình .",
+              "transcription": "じぶんのていいちにもどる"
+            }
+          ],
+          "kind": "n",
+          "mean": "vị trí gốc"
+        }
+      ],
+      "mobileId": 53939,
+      "phonetic": "ていいち",
+      "related_words": {
+        "word": [
+          "位置",
+          "位"
+        ]
+      },
+      "word": "定位置"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1077fa3c3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "定比例の法則",
+              "mean": "định luật tỷ lệ cố định",
+              "transcription": "ていひれいのほうそく"
+            },
+            {
+              "content": "定比例の法則",
+              "mean": "định luật tỷ lệ cố định",
+              "transcription": "ていひれいのほうそく"
+            }
+          ],
+          "kind": "n",
+          "mean": "Tỉ lệ cố định"
+        }
+      ],
+      "mobileId": 53991,
+      "phonetic": "ていひれい",
+      "related_words": {
+        "word": [
+          "例",
+          "比",
+          "比例"
+        ]
+      },
+      "word": "定比例"
+    },
+    {
+      "_id": "432518852de0a80625d585a98271b2aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "surface plate"
+        }
+      ],
+      "mobileId": 235216,
+      "phonetic": "じょうばん",
+      "word": "定盤"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e78cb83",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đánh giá giá trị (kỹ nghệ)"
+        }
+      ],
+      "mobileId": 114871,
+      "phonetic": "ていかく",
+      "word": "定格"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3e80a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự duyệt lại (của) một lối đi"
+        }
+      ],
+      "mobileId": 147719,
+      "phonetic": "",
+      "word": "刪定"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a952999b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fireman (in Edo)"
+        }
+      ],
+      "mobileId": 258930,
+      "phonetic": "じょうびけし",
+      "word": "定火消し"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826393f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "right concentration"
+        }
+      ],
+      "mobileId": 234787,
+      "phonetic": "しょうじょう",
+      "word": "正定"
+    },
+    {
+      "_id": "432518852de0a80625d585a98264d476",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "leaving a state of intense concentration"
+        }
+      ],
+      "mobileId": 234823,
+      "phonetic": "しゅつじょう",
+      "word": "出定"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e79aea4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phát biểu tuyệt đối"
+        }
+      ],
+      "mobileId": 114905,
+      "phonetic": "ていげん",
+      "word": "定言"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

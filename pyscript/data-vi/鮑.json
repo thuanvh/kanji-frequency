@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680143420c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bào ngư ."
+        }
+      ],
+      "mobileId": 42903,
+      "phonetic": "あわび",
+      "word": "鮑"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7765d69b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dried stretched abalone flesh"
+        }
+      ],
+      "mobileId": 267748,
+      "phonetic": "あわびのし",
+      "word": "鮑熨斗"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da7111a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "var. of knot often used to tie mizu-hiki"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "woman's hairstyle, braided in this fashion"
+        }
+      ],
+      "mobileId": 220496,
+      "phonetic": "あわびむすび",
+      "word": "鮑結び"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dee5bda",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "secret, unrequited love"
+        }
+      ],
+      "mobileId": 222824,
+      "phonetic": "あわびのかたおもい",
+      "word": "鮑の片思い"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dee6190",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp",
+          "mean": "tình yêu bí mật, không được đáp lại"
+        }
+      ],
+      "mobileId": 222825,
+      "phonetic": "あわびのかいのかたおもい",
+      "word": "鮑の貝の片思い"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

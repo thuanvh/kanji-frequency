@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed950f7a24",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "confucius"
+        }
+      ],
+      "mobileId": 56613,
+      "phonetic": "あまはじめ",
+      "word": "尼甫"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f5fd0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tên cá nhân (của) bạn"
+        }
+      ],
+      "mobileId": 63974,
+      "phonetic": "たいはじめ",
+      "word": "台甫"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107df9f05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đầu năm ."
+        }
+      ],
+      "mobileId": 55618,
+      "phonetic": "ねんぽ",
+      "related_words": {
+        "word": [
+          "年"
+        ]
+      },
+      "word": "年甫"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df2f366",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những tương lai mới vào phiên họp thương mại đầu tiên (của) tháng"
+        }
+      ],
+      "mobileId": 153491,
+      "phonetic": "しんはじめ",
+      "word": "新甫"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

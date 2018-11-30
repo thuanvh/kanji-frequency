@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757ff3ce00",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "私と彼女の間に溝ができてしまった。どうしたらその溝を埋められるかわからない。",
+              "mean": "Giữa tôi và cô ấy, đã có khoảng cách rồi, tôi không biết làm sao để lấp lại khoảng cách đó.CÂU",
+              "transcription": "わたしとかのじょのまにみぞができてしまった。どうしたらそのみぞをうめられるかわからない。"
+            }
+          ],
+          "kind": "num",
+          "mean": "khoảng cách"
+        },
+        {
+          "examples": null,
+          "kind": "num",
+          "mean": "rãnh ."
+        }
+      ],
+      "mobileId": 188969,
+      "phonetic": "みぞ",
+      "related_words": {
+        "word": [
+          "排水溝",
+          "側溝",
+          "海溝",
+          "溝鼠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "溝",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "隔たり",
+                "違い",
+                "差",
+                "ずれ",
+                "格差",
+                "差異",
+                "ギャップ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "樋",
+                "側溝"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "堀",
+                "堀割"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "溝"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74bdb43d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cống"
+        },
+        {
+          "examples": [
+            {
+              "content": "ぬれた道路を滑って排水溝へ突っ込む",
+              "mean": "xuyên về phía rãnh thoát nước dọc theo con đường ẩm ướt",
+              "transcription": "ぬれたどうろをすべってはいすいみぞへつっこむ"
+            },
+            {
+              "content": "髪の毛を洗った後は、落ちてる髪を拾うようにしなさい。排水溝が詰まっちゃうからね。",
+              "mean": "Hãy thu gom tóc của bạn lại sau khi gội. Nó sẽ làm tắc cống. .",
+              "transcription": "かみのけをあらったのちは、おちてるかみをひろうようにしなさい。はいすいみぞがつまっちゃうからね。"
+            }
+          ],
+          "kind": "n",
+          "mean": "rãnh thoát nước"
+        }
+      ],
+      "mobileId": 100258,
+      "phonetic": "はいすいこう",
+      "related_words": {
+        "word": [
+          "水",
+          "溝",
+          "排水"
+        ]
+      },
+      "word": "排水溝"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c72195",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clearance groove, under cut"
+        }
+      ],
+      "mobileId": 270891,
+      "phonetic": "にげみぞ",
+      "word": "逃げ溝"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd1a1996",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm rãnh mòn đường ray"
+        }
+      ],
+      "mobileId": 69629,
+      "phonetic": "みぞレール",
+      "word": "溝レール"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9339f05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sulcus, groove in the surface of the brain"
+        }
+      ],
+      "mobileId": 274420,
+      "phonetic": "のうこう",
+      "word": "脳溝"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770a2762",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drain and pool for collecting sewage, etc."
+        }
+      ],
+      "mobileId": 264785,
+      "phonetic": "こうりゅう",
+      "word": "溝溜"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec9aed2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tấm bê tông phủ bên trên rãnh thoát nước"
+        }
+      ],
+      "mobileId": 117475,
+      "phonetic": "みぞいた",
+      "word": "溝板"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec9b798",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bùn lắng dưới đáy"
+        }
+      ],
+      "mobileId": 117477,
+      "phonetic": "みぞどろ",
+      "word": "溝泥"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9338a7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lateral sulcus (brain structure), Sylvian fissure, lateral fissure"
+        }
+      ],
+      "mobileId": 274417,
+      "phonetic": "がいそくこう",
+      "word": "外側溝"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d2838be",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "箱形下水溝",
+              "mean": "Cống thoát nước hình hộp",
+              "transcription": "はこがたげすいみぞ"
+            },
+            {
+              "content": "詰まった下水溝",
+              "mean": "Rãnh thoát nước bị tắc",
+              "transcription": "つまったげすいみぞ"
+            },
+            {
+              "content": "ふたのない下水溝",
+              "mean": "Cống thoát nước không có nắp đậy .",
+              "transcription": "ふたのないげすいみぞ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cống nước thải; rãnh nước thải"
+        }
+      ],
+      "mobileId": 141977,
+      "phonetic": "げすいこう",
+      "related_words": {
+        "word": [
+          "水",
+          "下",
+          "溝",
+          "下水"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "下水溝",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "下水道",
+                "下水管",
+                "下水"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "下水溝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

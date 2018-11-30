@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568014a6ab7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "con lai"
+        },
+        {
+          "examples": [
+            {
+              "content": "成虫のダニは鹿に寄生して生き残る",
+              "mean": "Rệp sống kí sinh trên hươu",
+              "transcription": "せいちゅうのダニはしかにきせいしていきのこる"
+            },
+            {
+              "content": "角が生え始めたばかりの子鹿",
+              "mean": "Hươu vừa mới mọc sừng",
+              "transcription": "かくがはえはじめたばかりのこじか"
+            }
+          ],
+          "kind": "n",
+          "mean": "hươu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nai ."
+        }
+      ],
+      "mobileId": 43023,
+      "phonetic": "しか",
+      "related_words": {
+        "word": [
+          "馬鹿",
+          "馬鹿野郎",
+          "馬鹿にする",
+          "馬鹿者",
+          "馬鹿馬鹿しい",
+          "馬鹿げた",
+          "子鹿",
+          "牡鹿",
+          "親馬鹿"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鹿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鹿肉"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "牡鹿"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鹿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac990f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chevrotain (Tragulidae spp.), mouse deer"
+        }
+      ],
+      "mobileId": 229850,
+      "phonetic": "まめじか マメジカ",
+      "word": "豆鹿"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a2605b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chevrotain (Tragulidae spp.), mouse deer"
+        }
+      ],
+      "mobileId": 277911,
+      "phonetic": "ねずみじか ネズミジカ",
+      "word": "鼠鹿"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d321fcf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "serow, wild goat"
+        }
+      ],
+      "mobileId": 216695,
+      "phonetic": "かもしか カモシカ",
+      "word": "氈鹿"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ee1e17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "simple deer-hunting blind (horizontal branches and brushwood)"
+        }
+      ],
+      "mobileId": 272183,
+      "phonetic": "しかぎ",
+      "word": "鹿木"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773635f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "white-tailed deer (Odocoileus virginianus), whitetail deer"
+        }
+      ],
+      "mobileId": 266215,
+      "phonetic": "おじろじか オジロジカ",
+      "word": "尾白鹿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a177249",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red deer (Cervus elaphus)"
+        }
+      ],
+      "mobileId": 224148,
+      "phonetic": "あかしか アカシカ",
+      "word": "赤鹿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6a1ef5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Formosan sika, Taiwan sika (Cervus nippon taiouanus)"
+        }
+      ],
+      "mobileId": 226778,
+      "phonetic": "たいわんじか タイワンジカ",
+      "word": "台湾鹿"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d97cf10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sika deer (Cervus nippon), sika, spotted deer, Japanese deer"
+        }
+      ],
+      "mobileId": 219974,
+      "phonetic": "にほんじか ニホンジカ",
+      "word": "日本鹿"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e522bb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giant fallow deer (extinct)"
+        }
+      ],
+      "mobileId": 250671,
+      "phonetic": "おおつのじか",
+      "word": "大角鹿"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,239 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f747de3f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cánh cửa"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa ."
+        }
+      ],
+      "mobileId": 99277,
+      "phonetic": "と",
+      "related_words": {
+        "word": [
+          "井戸",
+          "戸籍",
+          "一戸建て",
+          "戸惑う",
+          "瀬戸",
+          "納戸",
+          "瀬戸内海",
+          "網戸",
+          "戸惑い",
+          "戸数"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "戸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "門口",
+                "玄関",
+                "入り口",
+                "戸口",
+                "ドア",
+                "門",
+                "出入り口",
+                "出入口"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "門口",
+                "玄関",
+                "入り口",
+                "戸口",
+                "門戸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "居",
+                "居所",
+                "住み処",
+                "館",
+                "家宅",
+                "宿",
+                "人屋",
+                "住居",
+                "家屋",
+                "人家",
+                "住宅",
+                "住家",
+                "家",
+                "令堂",
+                "住みか"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドア"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "門口",
+                "扉",
+                "玄関",
+                "入り口",
+                "戸口",
+                "ドア",
+                "乗車口",
+                "門",
+                "門戸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "戸"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d997e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từng cái cho ở; mỗi cái nhà"
+        }
+      ],
+      "mobileId": 40480,
+      "phonetic": "とと",
+      "word": "戸戸"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a59e93f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"door\" radical"
+        }
+      ],
+      "mobileId": 226277,
+      "phonetic": "とかんむり",
+      "word": "戸冠"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0aa082a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "runner (of a sliding door)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tree wax, insect wax, Chinese wax"
+        }
+      ],
+      "mobileId": 286385,
+      "phonetic": "とばしり",
+      "word": "戸走り"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d4ea8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "batten door, battened door, ledged door, strong door with crosspieces placed on the reverse side"
+        }
+      ],
+      "mobileId": 263082,
+      "phonetic": "さんど",
+      "word": "桟戸"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6835d516",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tất cả các cái nhà; nhiều cái nhà"
+        }
+      ],
+      "mobileId": 1751,
+      "phonetic": "まんこ",
+      "related_words": {
+        "word": [
+          "万",
+          "戸"
+        ]
+      },
+      "word": "万戸"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936d1885",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa một cánh"
+        }
+      ],
+      "mobileId": 21398,
+      "phonetic": "かたと",
+      "word": "片戸"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77013a93",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "front door"
+        }
+      ],
+      "mobileId": 264496,
+      "phonetic": "おもてど",
+      "word": "表戸"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9afd742",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reed sliding door"
+        }
+      ],
+      "mobileId": 261908,
+      "phonetic": "よしど",
+      "word": "葭戸"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fb358b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "latticed shutters (in traditional Japanese and Chinese architecture)"
+        }
+      ],
+      "mobileId": 264307,
+      "phonetic": "しとみど",
+      "word": "蔀戸"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

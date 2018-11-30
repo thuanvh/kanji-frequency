@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685080f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một tập hợp; một yêu cầu"
+        }
+      ],
+      "mobileId": 2581,
+      "phonetic": "いちそろいえ",
+      "related_words": {
+        "word": [
+          "一"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "一揃え",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一式",
+                "揃い",
+                "一揃い",
+                "組",
+                "一組",
+                "セット"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "一揃え"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

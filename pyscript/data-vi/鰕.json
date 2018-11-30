@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680145347a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tôm ."
+        }
+      ],
+      "mobileId": 42933,
+      "phonetic": "えび",
+      "synsets": [
+        {
+          "base_form": "鰕",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蛯",
+                "蝦",
+                "海老",
+                "シュリンプ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鰕"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

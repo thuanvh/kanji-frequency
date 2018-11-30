@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8f9ccd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "tập hợp; tuyển tập"
+        }
+      ],
+      "mobileId": 150285,
+      "opposite_word": [
+        "散"
+      ],
+      "phonetic": "しゅう",
+      "word": "集"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca014a5b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Collection of Poems of Ancient and Modern Times"
+        }
+      ],
+      "mobileId": 281613,
+      "phonetic": "こきんしゅう",
+      "word": "古今集"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01f839d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "dwelling together, living concentratedly"
+        }
+      ],
+      "mobileId": 281955,
+      "phonetic": "しゅうじゅう",
+      "word": "集住"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91f5786",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "link collection"
+        }
+      ],
+      "mobileId": 273782,
+      "phonetic": "リンクしゅう",
+      "related_words": {
+        "word": [
+          "リンク"
+        ]
+      },
+      "word": "リンク集"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833baa496c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "glossary"
+        }
+      ],
+      "mobileId": 245279,
+      "phonetic": "なんごしゅう",
+      "word": "難語集"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bc8a6bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nomenclature"
+        }
+      ],
+      "mobileId": 246239,
+      "phonetic": "めいしょうしゅう",
+      "word": "名称集"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9c1895",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự thu thập những lá phiếu bầu cử"
+        }
+      ],
+      "mobileId": 150677,
+      "phonetic": "しゅうひょう",
+      "word": "集票"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777b567f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "agglomerated rural settlement"
+        }
+      ],
+      "mobileId": 268445,
+      "opposite_word": [
+        "散村"
+      ],
+      "phonetic": "しゅうそん",
+      "word": "集村"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4f97b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "gathered together and compiled"
+        }
+      ],
+      "mobileId": 225969,
+      "phonetic": "しゅうしゅう",
+      "word": "集輯"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95606853",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tập hợp (của) văn học ghi nhanh (những bài luận)"
+        }
+      ],
+      "mobileId": 59166,
+      "phonetic": "ずいひつしゅう",
+      "word": "随筆集"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,265 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107134714",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "日報",
+              "mean": "báo cáo hàng ngày",
+              "transcription": "にっぽう"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "báo cáo"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "sự báo thù ."
+        }
+      ],
+      "mobileId": 52186,
+      "phonetic": "ほう",
+      "related_words": {
+        "word": [
+          "情報",
+          "報告",
+          "個人情報",
+          "広報",
+          "報告書",
+          "詳細情報",
+          "報酬",
+          "警報",
+          "速報",
+          "日報"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "報",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "音沙汰",
+                "便り",
+                "知らせ",
+                "ニュース",
+                "情報",
+                "消息",
+                "沙汰",
+                "音信",
+                "報道"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "廣報",
+                "弘報",
+                "報告",
+                "報知",
+                "便り",
+                "知らせ",
+                "通信",
+                "案内書",
+                "ニュース",
+                "一報",
+                "情報",
+                "案内",
+                "通知",
+                "伝言",
+                "消息",
+                "広報",
+                "通報",
+                "報道"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "報"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c4fec6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vt của pair (đôi, cặp), vt của price"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mối liên hệ với quần chúng, mối quan hệ với quần chúng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính công khai; sự làm cho thiên hạ biết đến, sự quảng cáo, sự rao hàng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự cung cấp tin tức; sự thông tin, tin tức, tài liệu; kiến thức, điều buộc tội"
+        }
+      ],
+      "mobileId": 39806,
+      "phonetic": "ひろしほう",
+      "related_words": {
+        "word": [
+          "報"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "廣報",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "弘報",
+                "報告",
+                "報知",
+                "便り",
+                "知らせ",
+                "通信",
+                "案内書",
+                "ニュース",
+                "報",
+                "一報",
+                "情報",
+                "案内",
+                "通知",
+                "伝言",
+                "消息",
+                "広報",
+                "通報",
+                "報道"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "パブリックリレーション",
+                "弘報",
+                "広報"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "廣報"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0198905",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "circumstantial retribution, circumstances (e.g. geographical, societal) one is born into because of karma in previous lives"
+        }
+      ],
+      "mobileId": 281777,
+      "phonetic": "えほう",
+      "word": "依報"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9bf86ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "city newsletter, city bulletin, city report"
+        }
+      ],
+      "mobileId": 278863,
+      "phonetic": "しほう",
+      "word": "市報"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8d6e30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản tin tức trong công ty"
+        }
+      ],
+      "mobileId": 150212,
+      "phonetic": "しゃないほう",
+      "word": "社内報"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0500304",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "short communication, short note, concise communication"
+        }
+      ],
+      "mobileId": 283522,
+      "phonetic": "たんぽう",
+      "word": "短報"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833ba720d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "broadcast, multi-destination delivery"
+        }
+      ],
+      "mobileId": 245179,
+      "phonetic": "どうほう",
+      "word": "同報"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d7d90b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thông tin bí mật; thông báo riêng tư"
+        }
+      ],
+      "mobileId": 149712,
+      "phonetic": "わたしほう",
+      "word": "私報"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c027deb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2y-k, vt",
+          "mean": "to reward, to recompense, to repay"
+        }
+      ],
+      "mobileId": 190443,
+      "phonetic": "むくゆ",
+      "word": "報ゆ"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88982ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghiên cứu thiết lập thông cáo"
+        }
+      ],
+      "mobileId": 37895,
+      "phonetic": "けんきゅうじょほう",
+      "word": "研究所報"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

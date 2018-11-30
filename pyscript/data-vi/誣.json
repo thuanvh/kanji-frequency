@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b6333f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slander"
+        }
+      ],
+      "mobileId": 286800,
+      "phonetic": "ふもう",
+      "word": "誣罔"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b6577b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "slander"
+        }
+      ],
+      "mobileId": 286803,
+      "phonetic": "ふぼう",
+      "word": "誣謗"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4c4726",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự vu cáo, sự vu khống; lời vu oan; sự nói xấu, lời phỉ báng; lời nói xấu, vu cáo, vu khống, vu oan; nói xấu; phỉ báng"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "phần còn lại, chỗ còn lại, dư, số dư, quyền thừa kế, những loại sách ế"
+        }
+      ],
+      "mobileId": 148160,
+      "phonetic": "",
+      "word": "讒誣"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

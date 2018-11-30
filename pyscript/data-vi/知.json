@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d47ed2b",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "sự khôn ngoan"
+        },
+        {
+          "examples": "",
+          "kind": "",
+          "mean": "kiến thức cao hơn"
+        }
+      ],
+      "mobileId": 217390,
+      "phonetic": "ち",
+      "word": "知"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a994235",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dusky tripletooth goby (Tridentiger obscurus)"
+        }
+      ],
+      "mobileId": 228301,
+      "phonetic": "ちちぶ チチブ",
+      "word": "知知武"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0470855",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "absolute knowledge"
+        }
+      ],
+      "mobileId": 283246,
+      "phonetic": "ぜったいち",
+      "word": "絶対知"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0471dcc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wits, brains"
+        }
+      ],
+      "mobileId": 209126,
+      "phonetic": "ちのう",
+      "word": "知嚢"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3fc63b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuộc tính người trí thức; ip"
+        }
+      ],
+      "mobileId": 113067,
+      "phonetic": "ちざい",
+      "word": "知財"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a09eb89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "explicit knowledge (knowledge management terminology)"
+        }
+      ],
+      "mobileId": 223712,
+      "phonetic": "けいしきち",
+      "word": "形式知"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a16db3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự thấy trước, sự nhìn xa thấy trước; sự lo xa, đầu ruồi"
+        }
+      ],
+      "mobileId": 61248,
+      "phonetic": "せんち",
+      "related_words": {
+        "word": [
+          "先"
+        ]
+      },
+      "word": "先知"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e435232",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hiểu biết nhiều về Nhật Bản, sự hiểu biết rõ về tình hình Nhật Bản (đối với người nước ngoài)"
+        }
+      ],
+      "mobileId": 113180,
+      "phonetic": "ちび",
+      "word": "知日"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dce9df7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự do thám ."
+        }
+      ],
+      "mobileId": 144989,
+      "phonetic": "ていち",
+      "related_words": {
+        "word": [
+          "偵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "偵知",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "偵察",
+                "内偵",
+                "スパイ行為"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "偵知"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a09f704",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tacit knowledge (knowledge management terminology)"
+        }
+      ],
+      "mobileId": 223713,
+      "phonetic": "あんもくち",
+      "word": "暗黙知"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,314 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fbffb10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "lễ pháp"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "phép thuật; giáo nghi"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "pháp luật; phép tắc; luật ."
+        }
+      ],
+      "mobileId": 188055,
+      "phonetic": "ほう",
+      "related_words": {
+        "word": [
+          "方法",
+          "寸法",
+          "法人",
+          "魔法",
+          "使用方法",
+          "法律",
+          "文法",
+          "魔法使い",
+          "違法",
+          "財団法人"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "法",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "礼式",
+                "礼儀作法",
+                "礼",
+                "エチケット",
+                "儀礼",
+                "典礼",
+                "礼節",
+                "作法",
+                "礼儀"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仕方",
+                "筋道",
+                "為ん術",
+                "仕様",
+                "手立て",
+                "手",
+                "手口",
+                "方式",
+                "方途",
+                "途方",
+                "手法",
+                "方法",
+                "術",
+                "手段",
+                "やり方"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "法令",
+                "規定",
+                "準則",
+                "掟",
+                "準縄",
+                "典則",
+                "決め",
+                "規律",
+                "定め",
+                "法則",
+                "規準",
+                "規則",
+                "ルール",
+                "約束"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "法令",
+                "規程",
+                "格",
+                "戒律",
+                "原則",
+                "規定",
+                "準則",
+                "掟",
+                "規格",
+                "定規",
+                "会則",
+                "典則",
+                "律",
+                "規律",
+                "定め",
+                "法則",
+                "規準",
+                "規則",
+                "ルール",
+                "本則",
+                "規制"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "除法",
+                "モード"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "法令",
+                "法典",
+                "法制",
+                "律令",
+                "ロー",
+                "法律",
+                "王法"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "条例",
+                "法令",
+                "法規",
+                "法律"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "条例",
+                "法令",
+                "規程",
+                "規定",
+                "準則",
+                "規格",
+                "定規",
+                "会則",
+                "法則",
+                "規準",
+                "規則",
+                "ルール",
+                "規制"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "法"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd910236",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những pháp luật (của) sự di truyền"
+        }
+      ],
+      "mobileId": 14398,
+      "phonetic": "いでんほう",
+      "related_words": {
+        "word": [
+          "法",
+          "伝",
+          "遺伝"
+        ]
+      },
+      "word": "遺伝法"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e13913",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pháp luật cơ bản"
+        }
+      ],
+      "mobileId": 25039,
+      "phonetic": "きじゅんほう",
+      "word": "基準法"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a68543",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "man-made law"
+        }
+      ],
+      "mobileId": 286270,
+      "phonetic": "じんていほう",
+      "word": "人定法"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0ad0a35",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "disposition of troops, battle formation"
+        }
+      ],
+      "mobileId": 286489,
+      "phonetic": "じんぽう",
+      "word": "陣法"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0ae904f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "applicable law, governing law, proper law"
+        }
+      ],
+      "mobileId": 286540,
+      "phonetic": "じゅんきょほう",
+      "related_words": {
+        "word": [
+          "準拠",
+          "法",
+          "準"
+        ]
+      },
+      "word": "準拠法"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107a948fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "luật thiếu niên ."
+        }
+      ],
+      "mobileId": 54758,
+      "phonetic": "しょうねんほう",
+      "related_words": {
+        "word": [
+          "年",
+          "少年",
+          "法"
+        ]
+      },
+      "word": "少年法"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8045d5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pháp luật luật lệ"
+        }
+      ],
+      "mobileId": 33620,
+      "phonetic": "きょうかいほう",
+      "word": "教会法"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027e7a6e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "luật tiến hành xét sử ."
+        }
+      ],
+      "mobileId": 33048,
+      "phonetic": "そしょうほう",
+      "word": "訴訟法"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83c60f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "luật đánh bắt thủy hải sản"
+        }
+      ],
+      "mobileId": 35434,
+      "phonetic": "ぎょぎょうほう",
+      "word": "漁業法"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

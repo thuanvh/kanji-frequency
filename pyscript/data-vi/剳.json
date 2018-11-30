@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada493fc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cái liềm ."
+        }
+      ],
+      "mobileId": 78206,
+      "phonetic": "とう",
+      "word": "剳"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda240d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xăm"
+        }
+      ],
+      "mobileId": 14940,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "青"
+        ]
+      },
+      "word": "剳青"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

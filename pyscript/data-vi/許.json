@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd5a7cf2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ở dưới (esp. ảnh hưởng hoặc sự chỉ đạo)"
+        }
+      ],
+      "mobileId": 71658,
+      "phonetic": "もと",
+      "word": "許"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd60ed7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "như thế nào nhiều"
+        }
+      ],
+      "mobileId": 12884,
+      "phonetic": "いかもと",
+      "word": "如何許"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5044a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "licence, license, certificate, permit"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(letter of) pardon"
+        }
+      ],
+      "mobileId": 250608,
+      "phonetic": "きょじょう",
+      "word": "許状"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7735fdc9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "a little, a few, a bit, a touch, a smidge"
+        }
+      ],
+      "mobileId": 266209,
+      "phonetic": "しょうきょ",
+      "word": "少許"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936e0b94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "theo lệ"
+        }
+      ],
+      "mobileId": 21426,
+      "phonetic": "かたちもと",
+      "word": "形許"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3acccaaf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "you (used toward one's equals or inferiors)"
+        }
+      ],
+      "mobileId": 229976,
+      "phonetic": "そのもと",
+      "word": "其の許"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95244976",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thừa nhận; sự phê chuẩn"
+        }
+      ],
+      "mobileId": 57253,
+      "phonetic": "じゅんもと",
+      "related_words": {
+        "word": [
+          "准"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "准許",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "是認",
+                "可決",
+                "称賛",
+                "表彰",
+                "賛成",
+                "許可",
+                "受付",
+                "容認",
+                "裁許",
+                "嘉賞",
+                "裁可",
+                "賞賛",
+                "同意",
+                "賛同",
+                "承認",
+                "決裁"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "是認",
+                "可決",
+                "賛成",
+                "許可",
+                "容認",
+                "裁許",
+                "嘉賞",
+                "裁可",
+                "同意",
+                "賛同",
+                "承認",
+                "決裁"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "准許"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6818942c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chóp mũi; trước mũi, trước mắt"
+        }
+      ],
+      "mobileId": 785,
+      "phonetic": "はなもと",
+      "related_words": {
+        "word": [
+          "鼻"
+        ]
+      },
+      "word": "鼻許"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68311b93",
+      "means": [
+        {
+          "examples": null,
+          "kind": "prt",
+          "mean": "xấp xỉ; đúng; duy nhất; đơn thuần; không gì nhưng"
+        }
+      ],
+      "mobileId": 1594,
+      "phonetic": "もとり",
+      "word": "許り"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a565557",
+      "means": [
+        {
+          "examples": null,
+          "kind": "prt",
+          "mean": "not only"
+        }
+      ],
+      "mobileId": 226174,
+      "phonetic": "ばかりか",
+      "word": "許りか"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f1ebaef",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "暁の空に金星が見える。",
+              "mean": "Ta có thể nhìn thấy sao Kim trên bầu trời lúc bình minh. .",
+              "transcription": "あかつきのそらにきんぼしがみえる。"
+            }
+          ],
+          "kind": "n",
+          "mean": "bình minh"
+        }
+      ],
+      "mobileId": 185469,
+      "opposite_word": [
+        "黄昏"
+      ],
+      "phonetic": "あかつき",
+      "related_words": {
+        "word": [
+          "暁の空",
+          "早暁"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "暁",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "黎明",
+                "払暁",
+                "明け方",
+                "夜明け",
+                "明け",
+                "曙",
+                "早暁",
+                "日の出",
+                "暁天",
+                "鶏鳴"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "暁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca009869c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cold winter dawn"
+        }
+      ],
+      "mobileId": 281268,
+      "phonetic": "かんぎょう かんきょう",
+      "word": "寒暁"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b99249",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sound of a horn announcing daybreak"
+        }
+      ],
+      "mobileId": 262211,
+      "phonetic": "ぎょうかく",
+      "word": "暁角"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef994ad78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "waking up just before daybreak"
+        }
+      ],
+      "mobileId": 277478,
+      "phonetic": "あかつきおき",
+      "word": "暁起き"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9be657a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crow cawing in the morning, crows crying in the morning"
+        }
+      ],
+      "mobileId": 262364,
+      "phonetic": "ぎょうあ",
+      "word": "暁鴉"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2e1466",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bầu trời lúc rạng đông"
+        }
+      ],
+      "mobileId": 11269,
+      "phonetic": "あかつきのそら",
+      "related_words": {
+        "word": [
+          "の",
+          "空",
+          "暁"
+        ]
+      },
+      "word": "暁の空"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aac1f64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Paleocene epoch"
+        }
+      ],
+      "mobileId": 228898,
+      "phonetic": "ぎょうしんせい",
+      "word": "暁新世"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed956a90a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khi thành công"
+        }
+      ],
+      "mobileId": 59492,
+      "phonetic": "せいこうのあかつきには",
+      "word": "成功の暁には"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db21065",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "trong mùa xuân (mà) một cung cấp chỗ ngủ cho một giấc ngủ mà biết không hửng sáng"
+        }
+      ],
+      "mobileId": 151378,
+      "phonetic": "しゅんみんあかつきをおぼえず",
+      "word": "春眠暁を覚えず"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

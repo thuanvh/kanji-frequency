@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107c33d78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "bên trái"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tả"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "trái ."
+        }
+      ],
+      "mobileId": 55126,
+      "opposite_word": [
+        "右"
+      ],
+      "phonetic": "ひだり",
+      "related_words": {
+        "word": [
+          "左右",
+          "左利き",
+          "左側",
+          "左下",
+          "左記",
+          "左手",
+          "左端",
+          "左官",
+          "左折",
+          "左回り"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "左",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "左手",
+                "左側"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "左党",
+                "左派",
+                "左翼"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "左翼"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "左手"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "左"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684815a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hướng xuống (xuôi)(thì) bên ngoài tồi tệ; việc mang một áo kimônô với cạnh phải(đúng) gấp lại dưới trái"
+        }
+      ],
+      "mobileId": 2326,
+      "phonetic": "ひだりまえ",
+      "related_words": {
+        "word": [
+          "前",
+          "左"
+        ]
+      },
+      "word": "左前"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6848350e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đòn Hidaiyotsu trong sumo"
+        }
+      ],
+      "mobileId": 2330,
+      "opposite_word": [
+        "右四つ"
+      ],
+      "phonetic": "ひだりよっつ",
+      "word": "左四つ"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a139cb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "left hook (e.g. in boxing, etc.)"
+        }
+      ],
+      "mobileId": 224027,
+      "phonetic": "ひだりフック",
+      "word": "左フック"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b6584ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "left-justification"
+        }
+      ],
+      "mobileId": 243087,
+      "phonetic": "ひだりそろえ",
+      "word": "左揃え"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2da438",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biểu đồ bên trái"
+        }
+      ],
+      "mobileId": 147180,
+      "phonetic": "ひだりひょう",
+      "word": "左表"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2e2c3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phía trái, bên trái, hướng bên trái"
+        }
+      ],
+      "mobileId": 147194,
+      "opposite_word": [
+        "右方"
+      ],
+      "phonetic": "ひだりかた",
+      "word": "左方"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c9de15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "left breast, left side of the chest"
+        }
+      ],
+      "mobileId": 270989,
+      "phonetic": "ひだりむね",
+      "related_words": {
+        "word": [
+          "左",
+          "胸"
+        ]
+      },
+      "word": "左胸"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a99d5516",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "bản đồ bên trái (biểu đồ), hiển thị ở bên trái"
+        }
+      ],
+      "mobileId": 261316,
+      "phonetic": "さず",
+      "word": "左図"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b6550ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "left shift (bitwise, arithmetic)"
+        }
+      ],
+      "mobileId": 243081,
+      "phonetic": "ひだりシフト",
+      "word": "左シフト"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

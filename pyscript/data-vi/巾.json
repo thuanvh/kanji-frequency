@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e824e514",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khăn ăn; vải"
+        }
+      ],
+      "mobileId": 34678,
+      "phonetic": "はば",
+      "word": "巾"
+    },
+    {
+      "_id": "432518852de0a80625d585a98230e9d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "nilpotent"
+        }
+      ],
+      "mobileId": 233175,
+      "phonetic": "きんれい",
+      "word": "巾零"
+    },
+    {
+      "_id": "432518852de0a80625d585a98230f289",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "unipotent"
+        }
+      ],
+      "mobileId": 233176,
+      "phonetic": "きんたん",
+      "word": "巾単"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85d93dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người nhắc;  người nhắc vở"
+        }
+      ],
+      "mobileId": 36499,
+      "phonetic": "くろはば",
+      "related_words": {
+        "word": [
+          "黒"
+        ]
+      },
+      "word": "黒巾"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc7bee1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khoảng dao động của giá cả ."
+        }
+      ],
+      "mobileId": 144886,
+      "phonetic": "ねはば",
+      "related_words": {
+        "word": [
+          "値"
+        ]
+      },
+      "word": "値巾"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68629cbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khăn choàng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fin (e.g. of fish)"
+        }
+      ],
+      "mobileId": 3155,
+      "phonetic": "かたはば",
+      "related_words": {
+        "word": [
+          "肩"
+        ]
+      },
+      "word": "肩巾"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd2135b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiều rộng (của) một y phục"
+        }
+      ],
+      "mobileId": 69861,
+      "phonetic": "みはば",
+      "related_words": {
+        "word": [
+          "身"
+        ]
+      },
+      "word": "身巾"
+    },
+    {
+      "_id": "432518852de0a80625d585a98220f8d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Red Turban Rebellion (China, 1351-1366 CE)"
+        }
+      ],
+      "mobileId": 232671,
+      "phonetic": "こうきんのらん",
+      "word": "紅巾の乱"
+    },
+    {
+      "_id": "432518852de0a80625d585a98220eb1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Yellow Turban Rebellion (China, 184 CE)"
+        }
+      ],
+      "mobileId": 232670,
+      "phonetic": "こうきんのらん",
+      "word": "黄巾の乱"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681bb08a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "để trở thành rộng hơn"
+        }
+      ],
+      "mobileId": 882,
+      "phonetic": "はばがでる",
+      "word": "巾が出る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

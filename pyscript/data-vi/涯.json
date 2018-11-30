@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08b8978",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "horizon"
+        }
+      ],
+      "mobileId": 211325,
+      "phonetic": "はて",
+      "word": "涯"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954800ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mép nước"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "water damage"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flood disaster"
+        }
+      ],
+      "mobileId": 58390,
+      "phonetic": "",
+      "word": "水涯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

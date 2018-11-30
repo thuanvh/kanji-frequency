@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ccac1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "ctr",
+          "mean": "counter for ships (large boats)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "counter for half of a pair (e.g. half of a folding screen)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "counter for fish, birds, arrows, etc."
+        }
+      ],
+      "mobileId": 213449,
+      "opposite_word": [
+        "双"
+      ],
+      "phonetic": "せき",
+      "word": "隻"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8857d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một con thuyền; một con tàu"
+        }
+      ],
+      "mobileId": 14118,
+      "phonetic": "いちせき",
+      "related_words": {
+        "word": [
+          "一"
+        ]
+      },
+      "word": "一隻"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74efa355",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một vài chiếc (tàu) ."
+        }
+      ],
+      "mobileId": 101057,
+      "phonetic": "すうせき",
+      "related_words": {
+        "word": [
+          "数"
+        ]
+      },
+      "word": "数隻"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74efae79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một vài chiếc tàu ."
+        }
+      ],
+      "mobileId": 101058,
+      "phonetic": "すうせきのふね",
+      "related_words": {
+        "word": [
+          "の",
+          "数",
+          "船"
+        ]
+      },
+      "word": "数隻の船"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280277b0862",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hàng đủ trọng tải ."
+        }
+      ],
+      "mobileId": 31238,
+      "phonetic": "ふねいっせきぶんのつみにりょう",
+      "word": "船一隻分の積み荷量"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

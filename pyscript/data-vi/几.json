@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ceb115",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bảng"
+        }
+      ],
+      "mobileId": 24466,
+      "phonetic": "つくえ,  きにょう",
+      "related_words": {
+        "word": [
+          "几帳面な"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "几",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "机",
+                "テーブル",
+                "卓",
+                "卓子"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "几"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db73e90",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cắm trại ghế đẩu; gấp ghế đẩu"
+        }
+      ],
+      "mobileId": 151549,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "几"
+        ]
+      },
+      "word": "牀几"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193d1526c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phát biểu (của) sự kính trọng thêm vào tên (của) adressee trên (về) một bức thư (lit. dưới bàn)"
+        }
+      ],
+      "mobileId": 24541,
+      "phonetic": "",
+      "word": "几下"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cf4146",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kỷ án; cái bàn (từ cổ nên hiếm dùng)"
+        }
+      ],
+      "mobileId": 24480,
+      "phonetic": "き あん",
+      "word": "几案"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f85ac72",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼は歌がうまい。",
+              "mean": "Anh ta hát hay. .",
+              "transcription": "かれはうたがうまい。"
+            }
+          ],
+          "kind": "n",
+          "mean": "bài hát"
+        }
+      ],
+      "mobileId": 187106,
+      "phonetic": "うた",
+      "related_words": {
+        "word": [
+          "歌詞",
+          "歌姫",
+          "歌手",
+          "歌う",
+          "国歌",
+          "主題歌",
+          "歌舞伎",
+          "子守歌",
+          "演歌",
+          "賛美歌"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "歌",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "歌謡",
+                "歌唱",
+                "唄",
+                "唱歌",
+                "歌曲",
+                "シャソン",
+                "演歌",
+                "ソング",
+                "歌謡曲"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "歌"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682023fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bài hát đại chúng"
+        }
+      ],
+      "mobileId": 1023,
+      "phonetic": "はやりうた",
+      "word": "流行り歌"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda50b0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bài thơ ngày hội hoặc bài hát"
+        }
+      ],
+      "mobileId": 15021,
+      "phonetic": "いわいか",
+      "word": "祝い歌"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfa59da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bài hát trong yến tiệc hay tế lễ ở triều đình trong thời kỳ Heian"
+        }
+      ],
+      "mobileId": 17704,
+      "phonetic": "だいうた",
+      "word": "大歌"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdef8a8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những bài hát lao động"
+        }
+      ],
+      "mobileId": 76396,
+      "phonetic": "ろうどうか",
+      "related_words": {
+        "word": [
+          "歌",
+          "労働",
+          "働",
+          "労"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "労働歌",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ワークソング"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "労働歌"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94bb81e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bag for holding waka manuscript paper"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vocal sac"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pen-name of Fujitani Mitsue (1798-1824)"
+        }
+      ],
+      "mobileId": 275165,
+      "phonetic": "うたぶくろ",
+      "word": "歌袋"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96b468c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "var. of ancient ballad"
+        }
+      ],
+      "mobileId": 259728,
+      "phonetic": "くめうた",
+      "word": "久米歌"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f85e0de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hứng thơ; thi hứng ."
+        }
+      ],
+      "mobileId": 187109,
+      "phonetic": "かきょう",
+      "word": "歌境"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fb0647",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "song sung by children during the New Year's bird-driving procession (later adopted by door-to-door musicians)"
+        }
+      ],
+      "mobileId": 264301,
+      "phonetic": "とりおいうた",
+      "word": "鳥追い歌"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf3aba4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bài hát cổ động (trong thể thao)"
+        }
+      ],
+      "mobileId": 17489,
+      "phonetic": "おうえんか",
+      "related_words": {
+        "word": [
+          "歌",
+          "応援"
+        ]
+      },
+      "word": "応援歌"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

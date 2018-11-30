@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280279a6bf1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "蒿雀がたくさん山の方へ飛んでいく",
+              "mean": "Một đàn chim sẻ bay về phía núi xa",
+              "transcription": "蒿雀がたくさんさんのほうへとんでいく"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "chim sẻ"
+        }
+      ],
+      "mobileId": 31795,
+      "phonetic": "あおじ",
+      "word": "蒿雀"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

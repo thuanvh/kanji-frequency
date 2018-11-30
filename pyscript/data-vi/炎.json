@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a0b014f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ほのうを火気厳禁の所を遠く離させる",
+              "mean": "Để lửa xa nơi cấm lửa .",
+              "transcription": "ほのうをかきげんきんのところをとおくはなさせる"
+            }
+          ],
+          "kind": "n",
+          "mean": "ngọn lửa"
+        }
+      ],
+      "mobileId": 170470,
+      "phonetic": "ほのお",
+      "related_words": {
+        "word": [
+          "膀胱炎",
+          "陽炎",
+          "肺炎",
+          "炎症",
+          "口内炎",
+          "火炎",
+          "気管支炎",
+          "胃炎",
+          "肝炎",
+          "腱鞘炎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "炎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "火",
+                "ファイア",
+                "焔"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "炎"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a0b039b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "viêm ."
+        }
+      ],
+      "mobileId": 170471,
+      "phonetic": "ほむら",
+      "related_words": {
+        "word": [
+          "膀胱炎",
+          "陽炎",
+          "肺炎",
+          "炎症",
+          "口内炎",
+          "火炎",
+          "気管支炎",
+          "胃炎",
+          "肝炎",
+          "腱鞘炎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "炎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "火",
+                "ファイア",
+                "焔"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "炎"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e351e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ngăn ngừa hoả hoạn; sự phòng cháy nổ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "seeing at distance"
+        }
+      ],
+      "mobileId": 7235,
+      "phonetic": "ぼうえん",
+      "related_words": {
+        "word": [
+          "炎"
+        ]
+      },
+      "word": "防炎"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09c943a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "colitis"
+        }
+      ],
+      "mobileId": 285957,
+      "phonetic": "けっちょうえん",
+      "word": "結腸炎"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9536bee2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viêm tĩnh mạch"
+        }
+      ],
+      "mobileId": 57827,
+      "phonetic": "じょうみゃくえん",
+      "related_words": {
+        "word": [
+          "炎",
+          "脈",
+          "静脈"
+        ]
+      },
+      "word": "静脈炎"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953eb316",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "viêm thận"
+        }
+      ],
+      "mobileId": 58082,
+      "phonetic": "じんえん",
+      "word": "腎炎"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107ac0a26",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bệnh viêm tiểu đường"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Viêm đường tiết niệu; viêm niệu đạo ."
+        }
+      ],
+      "mobileId": 54816,
+      "phonetic": "にょうどうえん",
+      "word": "尿道炎"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e20e39d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viêm túi mật"
+        }
+      ],
+      "mobileId": 112070,
+      "phonetic": "たんのうえん",
+      "word": "胆嚢炎"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecc34ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngọn lửa bên trong"
+        }
+      ],
+      "mobileId": 117558,
+      "phonetic": "うちえん",
+      "related_words": {
+        "word": [
+          "炎"
+        ]
+      },
+      "word": "内炎"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d47e385",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "viêm da"
+        }
+      ],
+      "mobileId": 217388,
+      "phonetic": "ひふえん",
+      "word": "皮膚炎"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

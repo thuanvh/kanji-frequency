@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f460561",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "杏仁豆腐",
+              "mean": "thạch quả hạnh",
+              "transcription": "きょうにんとうふ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cây hạnh"
+        }
+      ],
+      "mobileId": 186136,
+      "phonetic": "あんず",
+      "related_words": {
+        "word": [
+          "銀杏",
+          "杏子"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "杏",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "アプリコット"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "杏"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c99827",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "apricot flower"
+        }
+      ],
+      "mobileId": 262735,
+      "phonetic": "きょうか",
+      "word": "杏花"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd55f105",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mứt mơ"
+        }
+      ],
+      "mobileId": 12539,
+      "phonetic": "あんずジャム",
+      "related_words": {
+        "word": [
+          "杏",
+          "ジャム"
+        ]
+      },
+      "word": "杏ジャム"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd55d00c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nấm hương (cantharellus cibarius)"
+        }
+      ],
+      "mobileId": 12536,
+      "phonetic": "あんずたけ",
+      "related_words": {
+        "word": [
+          "杏"
+        ]
+      },
+      "word": "杏茸"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e71bd50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sake made from apricot"
+        }
+      ],
+      "mobileId": 251690,
+      "phonetic": "あんずしゅ",
+      "word": "杏酒"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820074d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Order of the Precious Crown, Apricot"
+        }
+      ],
+      "mobileId": 231655,
+      "phonetic": "ほうかんきょうようしょう",
+      "word": "宝冠杏葉章"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

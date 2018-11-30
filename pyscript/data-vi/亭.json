@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7702b87e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "arbor, arbour, bower, pavilion"
+        },
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "suffix forming the final part of the pseudonyms of some writers and performers"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "suffix forming the final part of the name of a restaurant"
+        }
+      ],
+      "mobileId": 264548,
+      "phonetic": "てい ちん",
+      "word": "亭"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c701e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pavilion in a garden (used to keep cool), gazebo"
+        }
+      ],
+      "mobileId": 262646,
+      "phonetic": "りょうてい",
+      "word": "涼亭"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d6f3f2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Buổi trưa ."
+        }
+      ],
+      "mobileId": 143323,
+      "phonetic": "ていご",
+      "synsets": [
+        {
+          "base_form": "亭午",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "真昼",
+                "午刻",
+                "昼",
+                "正午"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "亭午"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdf821fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đa dạng theater wakatake"
+        }
+      ],
+      "mobileId": 76676,
+      "phonetic": "わかたけてい",
+      "word": "若竹亭"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed958606a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sekitei (tên (của) một quán trọ)"
+        }
+      ],
+      "mobileId": 60354,
+      "phonetic": "いしてい",
+      "word": "石亭"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd4cfd9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khách sạn nhỏ; nhà trọ"
+        }
+      ],
+      "mobileId": 75572,
+      "phonetic": "たびてい",
+      "word": "旅亭"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

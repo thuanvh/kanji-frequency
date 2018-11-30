@@ -1,0 +1,272 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107f78e44",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼は弁が立つ.",
+              "mean": "Anh ta có tài hùng biện.",
+              "transcription": "かれはべんがたつ."
+            }
+          ],
+          "kind": "n",
+          "mean": "có tài hùng biện"
+        },
+        {
+          "examples": [
+            {
+              "content": "関西弁で話す",
+              "mean": "Nói bằng phương ngữ vùng Kansai .",
+              "transcription": "かんさいべんではなす"
+            }
+          ],
+          "kind": "n",
+          "mean": "thổ ngữ; phương ngữ"
+        }
+      ],
+      "mobileId": 55977,
+      "phonetic": "べん",
+      "related_words": {
+        "word": [
+          "弁護士",
+          "弁当",
+          "弁理士",
+          "弁当箱",
+          "花弁",
+          "勘弁",
+          "弁償",
+          "合弁",
+          "弁護人",
+          "駅弁"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "弁",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "バルブ",
+                "ピストン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "バルブ",
+                "弁膜"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "言語",
+                "言葉",
+                "ランゲージ",
+                "口言葉",
+                "口演"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "花びら",
+                "花弁",
+                "花片"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "弁"
+    },
+    {
+      "_id": "432518852de0a80625d585a982244a5b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Osaka dialect"
+        }
+      ],
+      "mobileId": 232774,
+      "phonetic": "おおさかべん",
+      "related_words": {
+        "word": [
+          "大",
+          "大阪",
+          "弁"
+        ]
+      },
+      "word": "大阪弁"
+    },
+    {
+      "_id": "432518852de0a80625d585a9823ebfe7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tsugaru Dialect (Tsugaru region of Aomori Prefecture)"
+        }
+      ],
+      "mobileId": 233609,
+      "phonetic": "つがるべん",
+      "word": "津軽弁"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dbb88ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "artificial valve"
+        }
+      ],
+      "mobileId": 221176,
+      "phonetic": "じんこうべん",
+      "word": "人工弁"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bd34ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người nói, người diễn thuyết, người thuyết minh, loud_speaker, Speaker chủ tịch hạ nghị viện (Anh, Mỹ)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người diễn thuyết; nhà hùng biện, người nói chuyện trong các dịp lễ long trọng (ở các đại học Ôc, phớt và Căm, brít)"
+        }
+      ],
+      "mobileId": 6044,
+      "phonetic": "べんしゃ",
+      "related_words": {
+        "word": [
+          "者",
+          "弁"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "弁者",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "話者",
+                "演者",
+                "議長"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雄弁家",
+                "弁士",
+                "能弁家"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "弁者"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5b7c34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kyushu dialect"
+        }
+      ],
+      "mobileId": 226331,
+      "phonetic": "きゅうしゅうべん",
+      "word": "九州弁"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae38e1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vexillum, vane (of a feather)"
+        }
+      ],
+      "mobileId": 230722,
+      "phonetic": "うべん",
+      "word": "羽弁"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c4d6a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tài hùng biện"
+        }
+      ],
+      "mobileId": 39801,
+      "phonetic": "くちべん",
+      "related_words": {
+        "word": [
+          "口",
+          "弁"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "口弁",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "能弁",
+                "雄弁",
+                "弁才",
+                "能辯"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "口弁"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822f5a28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Oversight Department (division of the daijokan responsible for controlling central and provincial governmental offices)"
+        }
+      ],
+      "mobileId": 233125,
+      "phonetic": "べんかん おおともいのつかさ",
+      "word": "弁官"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef950995d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "skin flap, flap"
+        }
+      ],
+      "mobileId": 275318,
+      "phonetic": "ひべん",
+      "word": "皮弁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

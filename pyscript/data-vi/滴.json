@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757ff67ddf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giọt (nước, sương) ."
+        }
+      ],
+      "mobileId": 189026,
+      "phonetic": "しずく",
+      "related_words": {
+        "word": [
+          "点滴",
+          "水滴",
+          "滴下",
+          "滴る"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "滴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "粒",
+                "珠",
+                "玉"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "滴"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08c867f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "rainproof, treated against drops of water penetrating"
+        }
+      ],
+      "mobileId": 211357,
+      "phonetic": "ぼうてき",
+      "word": "防滴"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954ff5c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vài giọt"
+        }
+      ],
+      "mobileId": 58644,
+      "phonetic": "すうてき",
+      "word": "数滴"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757ff6d151",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "độ chuẩn (hóa học) ."
+        }
+      ],
+      "mobileId": 189030,
+      "phonetic": "てきていりょう",
+      "word": "滴定量"
+    },
+    {
+      "_id": "432518852de0a80625d585a98277a87a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lipid droplet"
+        }
+      ],
+      "mobileId": 235409,
+      "phonetic": "しぼうてき",
+      "word": "脂肪滴"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da4b643",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "titration"
+        }
+      ],
+      "mobileId": 220408,
+      "phonetic": "てきてい",
+      "word": "滴定"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ba1de3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "droplet"
+        }
+      ],
+      "mobileId": 278681,
+      "phonetic": "えきてき",
+      "word": "液滴"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ec4ab9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "a drop in the ocean (bucket)"
+        }
+      ],
+      "mobileId": 214482,
+      "phonetic": "そうかいいってき",
+      "word": "滄海一滴"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e855be2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coulombic titration, coulometric titration"
+        }
+      ],
+      "mobileId": 252328,
+      "phonetic": "でんりょうてきてい",
+      "word": "電量滴定"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0edc785",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "a drop in the ocean (bucket)"
+        }
+      ],
+      "mobileId": 214523,
+      "phonetic": "たいかいいってき",
+      "word": "大海一滴"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3ea812b3",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Cặn bã、rác rưởi"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "粕"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93fd560",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sake lees with black or brown specks (from oxidation enzymes produced by the yeast)"
+        }
+      ],
+      "mobileId": 274804,
+      "phonetic": "くろかす",
+      "word": "黒粕"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9055d9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fish meal"
+        }
+      ],
+      "mobileId": 272934,
+      "phonetic": "ぎょかす うおかす",
+      "word": "魚粕"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93fd835",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fish fertilizer, fertilizer made from fish scraps"
+        }
+      ],
+      "mobileId": 274805,
+      "phonetic": "あらかす",
+      "word": "荒粕"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96e2af3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "residue (e.g. from sugar cane or beets)"
+        }
+      ],
+      "mobileId": 259827,
+      "phonetic": "あめかぜ",
+      "word": "飴粕"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93fc018",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shavings, filings"
+        }
+      ],
+      "mobileId": 274801,
+      "phonetic": "けずりかす",
+      "word": "削り粕"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93fe4bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dried and pressed boiled herring (used as fertilizer)"
+        }
+      ],
+      "mobileId": 274806,
+      "phonetic": "にしんかす",
+      "word": "鰊粕"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0000c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oil cake, scrap cake"
+        }
+      ],
+      "mobileId": 215117,
+      "phonetic": "しめかす",
+      "word": "〆粕"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90554ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rapeseed meal, rapeseed lees"
+        }
+      ],
+      "mobileId": 272933,
+      "phonetic": "なたねかす",
+      "word": "なたね粕"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

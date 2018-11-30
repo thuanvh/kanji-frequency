@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada7b1a0e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "それは卸で買ってあげられると思います。",
+              "mean": "Tôi nghĩ là có thể mua buôn chỗ hàng này cho anh được. .",
+              "transcription": "それはおろしでかってあげられるとおもいます。"
+            }
+          ],
+          "kind": "n",
+          "mean": "buôn; xỉ"
+        }
+      ],
+      "mobileId": 79027,
+      "phonetic": "おろし",
+      "word": "卸"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931f6dfc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rượu cồn buôn buôn bán"
+        }
+      ],
+      "mobileId": 18935,
+      "phonetic": "おろししゅはん",
+      "related_words": {
+        "word": [
+          "酒"
+        ]
+      },
+      "word": "卸酒販"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931f7624",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bán buôn"
+        }
+      ],
+      "mobileId": 18936,
+      "phonetic": "おろししょう",
+      "word": "卸商"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef943b7aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mashing of steamed rice, mold and water with wooden poles in traditional sake making"
+        }
+      ],
+      "mobileId": 274927,
+      "phonetic": "やまおろし",
+      "word": "山卸"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931f9db6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người bán buôn"
+        }
+      ],
+      "mobileId": 18941,
+      "phonetic": "おろしとんや",
+      "word": "卸問屋"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a856651",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wholesale company, wholesaler"
+        }
+      ],
+      "mobileId": 227660,
+      "phonetic": "おろしがいしゃ",
+      "word": "卸会社"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0041b72",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "intermediate wholesaler, middle trader, middleman, broker"
+        }
+      ],
+      "mobileId": 281084,
+      "phonetic": "なかおろし",
+      "word": "仲卸"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193d8128e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bán sỉ (người bán buôn) trong hết sức những kim loại"
+        }
+      ],
+      "mobileId": 24752,
+      "phonetic": "ききんぞくおろし",
+      "word": "貴金属卸"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada7b619f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giá bán sỉ ."
+        }
+      ],
+      "mobileId": 79031,
+      "phonetic": "おろしね",
+      "word": "卸ね"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9703ca7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cargo unloading"
+        }
+      ],
+      "mobileId": 259891,
+      "phonetic": "しゃが",
+      "word": "卸下"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

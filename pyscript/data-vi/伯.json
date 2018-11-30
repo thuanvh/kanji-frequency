@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d9e4d7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bác; bá tước; anh cả ."
+        }
+      ],
+      "mobileId": 144123,
+      "opposite_word": [
+        "叔"
+      ],
+      "phonetic": "はく",
+      "related_words": {
+        "word": [
+          "伯爵",
+          "伯母さん",
+          "伯母",
+          "伯父さん",
+          "伯父",
+          "画伯"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "伯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "伯爵"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "伯"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bbea59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "berlin"
+        }
+      ],
+      "mobileId": 6002,
+      "phonetic": "はくりん",
+      "word": "伯林"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9bfdbdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "going to Brazil, moving to Brazil"
+        }
+      ],
+      "mobileId": 278876,
+      "phonetic": "とはく",
+      "word": "渡伯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9300cc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "landgrave"
+        }
+      ],
+      "mobileId": 257811,
+      "phonetic": "ほうはく",
+      "word": "方伯"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6806a68a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anh em, huynh đệ; chú bác, anh em trai của bố mẹ"
+        }
+      ],
+      "mobileId": 208,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "伯"
+        ]
+      },
+      "word": "伯叔"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6810fde3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con trai eldest"
+        }
+      ],
+      "mobileId": 555,
+      "phonetic": "はくけい",
+      "related_words": {
+        "word": [
+          "兄",
+          "伯"
+        ]
+      },
+      "word": "伯兄"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99fed63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kappa (mythical water-dwelling creature)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "river god"
+        }
+      ],
+      "mobileId": 277839,
+      "phonetic": "かはく かわろう",
+      "word": "河伯"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c16707",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người quý tộc, người quý phái"
+        }
+      ],
+      "mobileId": 39692,
+      "phonetic": "ほうはく",
+      "related_words": {
+        "word": [
+          "伯",
+          "侯"
+        ]
+      },
+      "word": "侯伯"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f040f06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nhật Bản và Brazil ."
+        }
+      ],
+      "mobileId": 184943,
+      "phonetic": "にっぱく",
+      "word": "日伯"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd960f95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "săn sóc"
+        }
+      ],
+      "mobileId": 14557,
+      "phonetic": "いはく",
+      "related_words": {
+        "word": [
+          "医",
+          "伯"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "医伯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドクトル",
+                "医員",
+                "薬師",
+                "医師",
+                "医者",
+                "医家",
+                "内科医",
+                "国手",
+                "開業医",
+                "ドクター",
+                "医"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "医伯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

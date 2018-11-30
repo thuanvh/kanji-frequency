@@ -1,0 +1,119 @@
+{
+  "data": [
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c034a657",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-na, n",
+          "mean": "đạt yêu cầu, phong nha, tốt, xứng đáng"
+        }
+      ],
+      "mobileId": 200316,
+      "phonetic": "ろく",
+      "word": "碌"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69abe8c5e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ろくに考えもしないで",
+              "mean": "chẳng có một chút suy nghĩ nào",
+              "transcription": "ろくにかんがえもしないで"
+            },
+            {
+              "content": "Lưu ý",
+              "mean": " với nghĩa này động từ luôn đi với một động từ khác bỏ đuôi \"masu\" ở trước đó.",
+              "transcription": "Lưu ý"
+            }
+          ],
+          "kind": "adv",
+          "mean": "kha khá; tươm tất"
+        }
+      ],
+      "mobileId": 173443,
+      "phonetic": "ろくに",
+      "related_words": {
+        "word": [
+          "に"
+        ]
+      },
+      "word": "碌に"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdf28af8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-pn",
+          "mean": "thỏa mãn; tươm tất"
+        }
+      ],
+      "mobileId": 76498,
+      "phonetic": "ろくな",
+      "word": "碌な"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdf27e78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xin (đi rong); vô dụng; vô dụng"
+        }
+      ],
+      "mobileId": 76496,
+      "phonetic": "ろくでなし",
+      "related_words": {
+        "word": [
+          "で"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "碌でなし",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "与太"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "碌でなし"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a973372d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp, adj-i",
+          "mean": "không có gì, vô giá trị"
+        }
+      ],
+      "mobileId": 259984,
+      "phonetic": "ろくでもない",
+      "word": "碌でもない"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3acbd4ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "(not) enough, (in)sufficiently, (un)satisfactorily"
+        }
+      ],
+      "mobileId": 229939,
+      "phonetic": "ろくすっぽ ろくずっぽ ろくすっぽう",
+      "word": "碌すっぽ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

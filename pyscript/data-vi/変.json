@@ -1,0 +1,352 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107217945",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "dấu giáng (âm nhạc)"
+        },
+        {
+          "examples": [
+            {
+              "content": "あの人は頭が変だ",
+              "mean": "Ông ấy là người không bình thường cho lắm.",
+              "transcription": "あのひとはあたまがへんだ"
+            },
+            {
+              "content": "変な男が家の前をうろうろしている.",
+              "mean": "Một người đàn ông kỳ quái đang đi quanh quẩn phía trước cửa nhà.",
+              "transcription": "へんなおとこがいえのまえをうろうろしている."
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "sự kì quái"
+        },
+        {
+          "examples": [
+            {
+              "content": "四安の変",
+              "mean": "sự biến Tây An",
+              "transcription": "よんやすのへん"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "sự kiện; sự biến"
+        },
+        {
+          "examples": [
+            {
+              "content": "君は今日ちょっと変だよ.",
+              "mean": "Hôm nay bạn làm sao ý.",
+              "transcription": "きみはきょうちょっとへんだよ."
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "sự thay đổi khác thường"
+        },
+        {
+          "examples": [
+            {
+              "content": "頭の変",
+              "mean": "cách nghĩ kì quái",
+              "transcription": "あたまのへん"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "kì quái"
+        },
+        {
+          "examples": [
+            {
+              "content": "四季の変",
+              "mean": "thay đổi của bốn mùa .",
+              "transcription": "しきのへん"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "thay đổi khác thường"
+        }
+      ],
+      "mobileId": 52412,
+      "phonetic": "へん",
+      "related_words": {
+        "word": [
+          "変更",
+          "変換",
+          "大変",
+          "変態",
+          "相変わらず",
+          "変数",
+          "変化",
+          "変動",
+          "変わる",
+          "変更履歴"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "変",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "突飛",
+                "奇異",
+                "妙",
+                "変梃りん",
+                "奇矯",
+                "奇妙"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "突飛",
+                "特別",
+                "怪奇",
+                "可笑しい",
+                "物珍しい",
+                "珍奇",
+                "妙",
+                "奇怪",
+                "変梃りん",
+                "変わった",
+                "奇矯",
+                "不思議",
+                "怪しい",
+                "怪しげ",
+                "変梃",
+                "奇妙",
+                "妖しい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "妙",
+                "疑わしい",
+                "訝しい",
+                "胡散臭い",
+                "怪しい",
+                "怪しげ",
+                "いかがわしい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "突飛",
+                "怪奇",
+                "一風変わった",
+                "奇異",
+                "妙",
+                "奇怪",
+                "奇抜",
+                "奇矯",
+                "エキセントリック"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "怪奇",
+                "不気味",
+                "奇怪"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "可笑しい",
+                "奇異",
+                "妙",
+                "変梃りん",
+                "変わった",
+                "奇矯",
+                "変梃",
+                "奇妙"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "妙"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "変"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b2cfe8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cầm (lấy) một sự quay; phát triển vào trong"
+        }
+      ],
+      "mobileId": 5701,
+      "phonetic": "へんしょう",
+      "related_words": {
+        "word": [
+          "変",
+          "症"
+        ]
+      },
+      "word": "変症"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b342a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đổi, chuyển hoán/đổi, biến đổi"
+        }
+      ],
+      "mobileId": 5716,
+      "phonetic": "へんじ",
+      "related_words": {
+        "word": [
+          "変",
+          "字"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "変字",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "変換",
+                "改宗",
+                "兌換",
+                "換算",
+                "コンヴァージョン",
+                "改心",
+                "転換",
+                "帰依",
+                "転向",
+                "借り換え",
+                "コンバージョン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "変字"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dfc8b71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "irregular conjugation (inflection, declension) of verbs ending in \"nu\" (in written Japanese)"
+        }
+      ],
+      "mobileId": 223287,
+      "phonetic": "ナへん",
+      "word": "ナ変"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19338f650",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự làm tan rã, sự làm rã ra, sự phân huỷ"
+        }
+      ],
+      "mobileId": 19743,
+      "phonetic": "",
+      "word": "壊変"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf8406d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự chuyển sang màu vàng (ví dụ như bị ánh sáng mặt trời chiếu vào nên ánh sắc vàng; gạo chuyển sang màu mốc ...)"
+        }
+      ],
+      "mobileId": 17635,
+      "phonetic": "きへん",
+      "word": "黄変"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f3dce0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "variation"
+        }
+      ],
+      "mobileId": 280556,
+      "phonetic": "へんぶん",
+      "word": "変分"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d19ea99",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "thứ hai thay đổi; ủng hộ tai họa"
+        }
+      ],
+      "mobileId": 146567,
+      "phonetic": "さいへん",
+      "related_words": {
+        "word": [
+          "変",
+          "再"
+        ]
+      },
+      "word": "再変"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db240f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "adapting oneself to the requirements of the moment, playing it by ear"
+        }
+      ],
+      "mobileId": 220870,
+      "phonetic": "きへん",
+      "word": "機変"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682e1068",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "contravariant (math)"
+        }
+      ],
+      "mobileId": 1489,
+      "phonetic": "はんへん",
+      "related_words": {
+        "word": [
+          "変",
+          "反"
+        ]
+      },
+      "word": "反変"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

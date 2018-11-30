@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e457e64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường rẽ, đường chia nhiều ngã; đường phố; xã hội, thế gian; hiện trường, nơi sự việc diễn ra"
+        }
+      ],
+      "mobileId": 113257,
+      "phonetic": "ちまた",
+      "word": "巷"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cded4dd1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phố hẹp và bẩn thỉu"
+        }
+      ],
+      "mobileId": 76324,
+      "phonetic": "",
+      "word": "陋巷"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0fda9b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red-light district, pleasure quarter"
+        }
+      ],
+      "mobileId": 215048,
+      "phonetic": "りゅうこうかがい",
+      "word": "柳巷花街"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d8d818",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "street gossips and idle rumors, hearsay"
+        }
+      ],
+      "mobileId": 213849,
+      "phonetic": "がいだんこうご",
+      "word": "街談巷語"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dafe9f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảnh (của) sự tàn sát"
+        }
+      ],
+      "mobileId": 151309,
+      "phonetic": "しゅらのちまた",
+      "related_words": {
+        "word": [
+          "の",
+          "修羅",
+          "巷"
+        ]
+      },
+      "word": "修羅の巷"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7451fcdf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thế giới tội ác ngầm ."
+        }
+      ],
+      "mobileId": 98652,
+      "phonetic": "あくのちまた",
+      "related_words": {
+        "word": [
+          "の",
+          "悪",
+          "巷"
+        ]
+      },
+      "word": "悪の巷"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

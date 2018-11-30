@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aab6596",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼はマラソンで２着になった。",
+              "mean": "Anh ấy về nhì trong cuộc thi marathon.",
+              "transcription": "かれはマラソンでにちゃくになった。"
+            },
+            {
+              "content": "この飛行機の成田着は午後３時だ。",
+              "mean": "Chiếc máy bay này đến Narita lúc 3 giờ chiều.",
+              "transcription": "このひこうきのなりたぎはごごさんじだ。"
+            },
+            {
+              "content": "ジャケット一着",
+              "mean": "Một cái áo jacket .",
+              "transcription": "ジャケットいちちゃく"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "bộ; đến (đâu đó); về đích"
+        }
+      ],
+      "mobileId": 173130,
+      "opposite_word": [
+        "発",
+        "脱"
+      ],
+      "phonetic": "ちゃく",
+      "related_words": {
+        "word": [
+          "到着",
+          "着る",
+          "着く",
+          "水着",
+          "下着",
+          "接着剤",
+          "到着する",
+          "着丈",
+          "落ち着く",
+          "付着"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "着",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "来着",
+                "到達",
+                "到着",
+                "参着"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "着"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87d1d7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mặc quần áo áo dài"
+        }
+      ],
+      "mobileId": 37514,
+      "phonetic": "けしょうぎ",
+      "related_words": {
+        "word": [
+          "着",
+          "化粧"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "化粧着",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ガウン",
+                "部屋着"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ネグリジェ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "化粧着"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935b7111",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "Mặc nhiều quần áo(vào mùa đông), mặc nhiều lớp."
+        }
+      ],
+      "mobileId": 20824,
+      "phonetic": "かさねぎ",
+      "related_words": {
+        "word": [
+          "着",
+          "重",
+          "重ね"
+        ]
+      },
+      "word": "重ね着"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e9c67d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s",
+          "mean": "tới quần áo thay đổi"
+        }
+      ],
+      "mobileId": 25318,
+      "phonetic": "きなおす",
+      "related_words": {
+        "word": [
+          "直",
+          "着",
+          "直す"
+        ]
+      },
+      "word": "着直す"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7f05c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "việc dính chặt hoặc embedding (của) mảnh vỡ mặc bên trong chống đối bề mặt"
+        }
+      ],
+      "mobileId": 13820,
+      "phonetic": "うつりぎ",
+      "word": "移着"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca065bac1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "affixing with glue, clinging (as if glued)"
+        }
+      ],
+      "mobileId": 284219,
+      "phonetic": "こちゃく",
+      "word": "糊着"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0261e6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "way of wearing, way one wears a garment"
+        }
+      ],
+      "mobileId": 282163,
+      "phonetic": "きかた",
+      "related_words": {
+        "word": [
+          "着",
+          "方"
+        ]
+      },
+      "word": "着方"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e47d843",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đội mũ; đội nón"
+        }
+      ],
+      "mobileId": 113329,
+      "opposite_word": [
+        "脱帽"
+      ],
+      "phonetic": "ちゃくぼう",
+      "word": "着帽"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e89651d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phát hiện ứng dụng; phân phối một giọt hoặc đốm (của) cái gì đó"
+        }
+      ],
+      "mobileId": 115406,
+      "phonetic": "てんぎ",
+      "word": "点着"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bd8e642",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "long (i.e. ankle-length) tradional Japanese garment (esp. a kimono)"
+        }
+      ],
+      "mobileId": 246757,
+      "phonetic": "ながぎ",
+      "word": "長着"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

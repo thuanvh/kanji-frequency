@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fb3407c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bàu"
+        },
+        {
+          "examples": [
+            {
+              "content": "小さな池",
+              "mean": "ao nhỏ",
+              "transcription": "ちいさないけ"
+            },
+            {
+              "content": "海水池",
+              "mean": "ao nước mặn",
+              "transcription": "かいすいち"
+            },
+            {
+              "content": "夏に水が枯れる池",
+              "mean": "ao bị cạn nước vào mùa hè",
+              "transcription": "なつにみずがかれるいけ"
+            },
+            {
+              "content": "一面に氷の張った池",
+              "mean": "ao bị đóng băng",
+              "transcription": "いちめんにこおりのはったいけ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái ao; ao"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hồ ."
+        }
+      ],
+      "mobileId": 187884,
+      "phonetic": "いけ",
+      "related_words": {
+        "word": [
+          "電池",
+          "乾電池",
+          "蓄電池",
+          "貯水池",
+          "古池",
+          "溜池"
+        ]
+      },
+      "word": "池"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9532a96e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hào lâu đài"
+        }
+      ],
+      "mobileId": 57705,
+      "phonetic": "しろち",
+      "word": "城池"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef948505b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shore of a pond, pond bank"
+        }
+      ],
+      "mobileId": 275057,
+      "phonetic": "ちてい",
+      "word": "池汀"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f94326",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reservoir"
+        }
+      ],
+      "mobileId": 280740,
+      "phonetic": "きゅうすいち",
+      "word": "給水池"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db598aa",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "pin có thể sạc lại"
+        }
+      ],
+      "mobileId": 220986,
+      "phonetic": "じゅうでんち",
+      "word": "充電池"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953fa9d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giếng nhân tạo, giếng đào"
+        }
+      ],
+      "mobileId": 58116,
+      "phonetic": "じんこうち",
+      "related_words": {
+        "word": [
+          "人",
+          "池",
+          "人工"
+        ]
+      },
+      "word": "人工池"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e15d077",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bể chứa nước; đồ chưa, kho, kho dự trữ, nguồn, chứa vào bể chứa nước"
+        }
+      ],
+      "mobileId": 111730,
+      "phonetic": "ためち",
+      "word": "溜め池"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ecc0f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inkstone tốt; inkhorn"
+        }
+      ],
+      "mobileId": 7541,
+      "phonetic": "ぼくち",
+      "related_words": {
+        "word": [
+          "池",
+          "墨"
+        ]
+      },
+      "word": "墨池"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a629e62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ao trữ nước ."
+        }
+      ],
+      "mobileId": 171952,
+      "phonetic": "ようすいち",
+      "related_words": {
+        "word": [
+          "水",
+          "用",
+          "池"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "用水池",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "人造湖",
+                "溜池",
+                "貯水池"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "用水池"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd966c6c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ao nghề nuôi cá"
+        }
+      ],
+      "mobileId": 73589,
+      "phonetic": "ようぎょち",
+      "word": "養魚池"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

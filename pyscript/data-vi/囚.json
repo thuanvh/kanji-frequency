@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193da04bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bị kết án tù, người tù, kết án, tuyên bố có tội, làm cho nhận thức thấy (sai lầm, tội tù...)"
+        }
+      ],
+      "mobileId": 24814,
+      "phonetic": "きけつしゅう",
+      "word": "既決囚"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e32321e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tù nhân vượt ngục"
+        }
+      ],
+      "mobileId": 112629,
+      "phonetic": "だつごくしゅう",
+      "word": "脱獄囚"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4f4147",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prisoner"
+        }
+      ],
+      "mobileId": 225959,
+      "phonetic": "るいしゅう",
+      "word": "累囚"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77eb4b8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prisoner"
+        }
+      ],
+      "mobileId": 272100,
+      "phonetic": "ごくしゅう",
+      "word": "獄囚"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5fcb42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tù nhân lễ phép (mẫu); tù nhân tốt được hưởng một vài đặc ân (người được ủy thác)"
+        }
+      ],
+      "mobileId": 71820,
+      "phonetic": "もはんしゅう",
+      "word": "模範囚"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f4083b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người chưa bị kết án tù; người bị giam đang trong quá trình xét xử ."
+        }
+      ],
+      "mobileId": 186009,
+      "phonetic": "みけつしゅう",
+      "related_words": {
+        "word": [
+          "未",
+          "未決"
+        ]
+      },
+      "word": "未決囚"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d3cc82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự giam cầm"
+        }
+      ],
+      "mobileId": 6761,
+      "phonetic": "ほ しゅう",
+      "word": "捕囚"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0564498",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prisoner, convict"
+        }
+      ],
+      "mobileId": 283735,
+      "phonetic": "ざいしゅう",
+      "word": "罪囚"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3d24aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "convict, prisoner"
+        }
+      ],
+      "mobileId": 217054,
+      "phonetic": "ふくえきしゅう",
+      "word": "服役囚"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f93e1d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc phạm tội tử hình; phạm tội tử hình ."
+        }
+      ],
+      "mobileId": 187335,
+      "phonetic": "しけいしゅう",
+      "related_words": {
+        "word": [
+          "死",
+          "死刑",
+          "刑"
+        ]
+      },
+      "word": "死刑囚"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

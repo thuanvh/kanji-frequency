@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74742e44",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜勘定",
+              "mean": "tính toán trong lòng .",
+              "transcription": "〜かんじょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "ngực áo; ngực; bộ ngực"
+        }
+      ],
+      "mobileId": 99116,
+      "phonetic": "ふところ",
+      "related_words": {
+        "word": [
+          "懐かしい",
+          "懐中電灯",
+          "懐古",
+          "懐炉",
+          "人懐かしい",
+          "懐かしむ",
+          "懐く",
+          "虚心坦懐",
+          "人懐っこい",
+          "懐柔"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "懐",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "腹",
+                "五臓六腑",
+                "心",
+                "肝",
+                "内懐",
+                "魂",
+                "ハート",
+                "内心",
+                "心髄",
+                "胸三寸",
+                "胸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "内懐",
+                "胸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "懐"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f4c9f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dài (lâu) - thương yêu hy vọng"
+        }
+      ],
+      "mobileId": 25688,
+      "phonetic": "ひさふところ",
+      "word": "久懐"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e825dde9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự nghĩ đến một cách sung sướng; ý nghĩ hạnh phúc"
+        }
+      ],
+      "mobileId": 34705,
+      "phonetic": "",
+      "word": "欣懐"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a19f2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one's own thought, one's own idea"
+        }
+      ],
+      "mobileId": 277888,
+      "phonetic": "ひかい",
+      "word": "鄙懐"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68863ca4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bỏ vào túi tiền"
+        }
+      ],
+      "mobileId": 4273,
+      "phonetic": "ふところぜに",
+      "word": "懐銭"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c19944",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảm xúc trước cái đẹp"
+        }
+      ],
+      "mobileId": 24047,
+      "phonetic": "まさふところ",
+      "related_words": {
+        "word": [
+          "懐"
+        ]
+      },
+      "word": "雅懐"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85c58c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngân quỹ chặt"
+        }
+      ],
+      "mobileId": 36462,
+      "phonetic": "くるしいふところ",
+      "word": "苦しい懐"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e18dd3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "tính ngay thật, tính thẳng thắn, tính bộc trực"
+        }
+      ],
+      "mobileId": 111822,
+      "phonetic": "ひろしふところ",
+      "word": "坦懐"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a959dae5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "amiable, affable, likable"
+        }
+      ],
+      "mobileId": 259174,
+      "phonetic": "なつこい",
+      "word": "懐こい"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688627f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đứng tài chính (của) ai đó"
+        }
+      ],
+      "mobileId": 4271,
+      "phonetic": "ふところぐあい",
+      "word": "懐具合"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

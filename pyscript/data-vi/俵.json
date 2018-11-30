@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc00e2f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "炭を俵に詰める",
+              "mean": "đem than đựng vào trong túi cỏ .",
+              "transcription": "すみをたわらにつめる"
+            }
+          ],
+          "kind": "n",
+          "mean": "bì cỏ; túi rơm; bao bì làm bằng rơm"
+        }
+      ],
+      "mobileId": 144761,
+      "phonetic": "たわら",
+      "related_words": {
+        "word": [
+          "土俵"
+        ]
+      },
+      "word": "俵"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a28bb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bales forming the edge of the ring"
+        }
+      ],
+      "mobileId": 212063,
+      "phonetic": "しょうぶだわら",
+      "word": "勝負俵"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afe9dca",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "米俵をひょいと持ち上げる",
+              "mean": "anh ấy nhấc bổng túi gạo lên .",
+              "transcription": "べいたわらをひょいともちあげる"
+            }
+          ],
+          "kind": "n",
+          "mean": "túi gạo"
+        }
+      ],
+      "mobileId": 174492,
+      "phonetic": "こめだわら",
+      "related_words": {
+        "word": [
+          "米",
+          "俵"
+        ]
+      },
+      "word": "米俵"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a84eddf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Elaeagnus multiflora var. hortensis (variety of goumi)"
+        }
+      ],
+      "mobileId": 227644,
+      "phonetic": "たわらぐみ タワラグミ",
+      "word": "俵茱萸"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a29b22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bales forming the outer rim of the ring"
+        }
+      ],
+      "mobileId": 212066,
+      "phonetic": "かどだわら",
+      "word": "角俵"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a6f225",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bales forming the steps to climb onto the ring"
+        }
+      ],
+      "mobileId": 212200,
+      "phonetic": "ふみだわら",
+      "word": "踏み俵"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a29362",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "4 bales on the edge of the ring set slightly back"
+        }
+      ],
+      "mobileId": 212065,
+      "phonetic": "とくだわら",
+      "word": "徳俵"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e17ff3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng hóa trong rơm phồng lên"
+        }
+      ],
+      "mobileId": 111796,
+      "phonetic": "たわらぶつ",
+      "related_words": {
+        "word": [
+          "物",
+          "俵"
+        ]
+      },
+      "word": "俵物"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e7b3656",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Edo-period form of torture in which criminals were stuffed into straw bags with their heads exposed, piled together, and whipped (commonly used on Christians)"
+        }
+      ],
+      "mobileId": 251998,
+      "phonetic": "たわらぜめ",
+      "word": "俵責め"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a0b8eaa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bao tải than ."
+        }
+      ],
+      "mobileId": 170482,
+      "phonetic": "すみだわら",
+      "related_words": {
+        "word": [
+          "炭",
+          "俵"
+        ]
+      },
+      "word": "炭俵"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9549b07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "junior Shinto priest"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Shinto priest, generic title for a member of the Shinto priesthood"
+        }
+      ],
+      "mobileId": 258998,
+      "phonetic": "はふり ほうり",
+      "word": "祝"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ce1151",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "noro, member of a hereditary caste of female mediums in Okinawa"
+        }
+      ],
+      "mobileId": 262869,
+      "phonetic": "のろ",
+      "word": "祝女"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771dca02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "celebration for the completion of a project"
+        }
+      ],
+      "mobileId": 265424,
+      "phonetic": "らくせいいわい",
+      "word": "落成祝"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9902d04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Saturdays, Sundays, and holidays"
+        }
+      ],
+      "mobileId": 277340,
+      "phonetic": "どにちしゅく",
+      "related_words": {
+        "word": [
+          "日",
+          "土"
+        ]
+      },
+      "word": "土日祝"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b038e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "consecration (of a person or thing, in Catholicism), sanctification, prayer of sanctification, ritual of consecration"
+        }
+      ],
+      "mobileId": 278344,
+      "phonetic": "しゅくべつ",
+      "word": "祝別"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77642248",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "celebrating in advance, advance blessing (e.g. of crops)"
+        }
+      ],
+      "mobileId": 267697,
+      "phonetic": "よしゅく",
+      "word": "予祝"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af7a5cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "longevity celebration (of age 42, 61, 70, 77, 80, 88, 90 or 99)"
+        }
+      ],
+      "mobileId": 231350,
+      "phonetic": "がのいわい",
+      "word": "賀の祝"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d814e88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, vs-i",
+          "mean": "to celebrate one's recovery from illness"
+        }
+      ],
+      "mobileId": 219241,
+      "phonetic": "かいきいわいをする",
+      "word": "快気祝をする"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77693f75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Day-of-the-Boar Festival"
+        }
+      ],
+      "mobileId": 267861,
+      "phonetic": "いのこのいわい",
+      "word": "亥の子の祝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

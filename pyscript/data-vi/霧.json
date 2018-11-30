@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e81c4354",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phủ sương mù; sương mù"
+        }
+      ],
+      "mobileId": 34402,
+      "opposite_word": [
+        "霞"
+      ],
+      "phonetic": "きり",
+      "related_words": {
+        "word": [
+          "五里霧中",
+          "霧雨",
+          "濃霧",
+          "夕霧",
+          "朝霧",
+          "噴霧器",
+          "煙霧",
+          "雲散霧消",
+          "霧笛"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "霧",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "霞",
+                "フォグ",
+                "煙霧",
+                "靄"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "霞",
+                "煙霧",
+                "靄"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "霞",
+                "靄",
+                "ミスト"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "霧"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94ab892",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "vanishing like mist"
+        }
+      ],
+      "mobileId": 258684,
+      "phonetic": "むしょう",
+      "word": "霧消"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77335a7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snow grain"
+        }
+      ],
+      "mobileId": 266126,
+      "phonetic": "むせつ",
+      "word": "霧雪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771b6f26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "summer fog, summer mist"
+        }
+      ],
+      "mobileId": 265351,
+      "phonetic": "なつぎり",
+      "word": "夏霧"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b9f987",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fog bow, fogbow, mistbow, white rainbow"
+        }
+      ],
+      "mobileId": 270483,
+      "phonetic": "きりにじ",
+      "word": "霧虹"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f035a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "steam fog, sea smoke"
+        }
+      ],
+      "mobileId": 272251,
+      "phonetic": "じょうきぎり",
+      "word": "蒸気霧"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca009a50f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "winter fog, fog during winter"
+        }
+      ],
+      "mobileId": 281273,
+      "phonetic": "ふゆぎり",
+      "word": "冬霧"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10725f1ba",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Sương đêm"
+        }
+      ],
+      "mobileId": 52487,
+      "opposite_word": [
+        "朝霧"
+      ],
+      "phonetic": "ゆうぎり",
+      "related_words": {
+        "word": [
+          "霧",
+          "夕"
+        ]
+      },
+      "word": "夕霧"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd3abf65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không khí mù sương"
+        }
+      ],
+      "mobileId": 70660,
+      "phonetic": "きりきり",
+      "related_words": {
+        "word": [
+          "霧"
+        ]
+      },
+      "word": "霧雰"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774db596",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "radiation fog"
+        }
+      ],
+      "mobileId": 266960,
+      "phonetic": "ほうしゃぎり",
+      "word": "放射霧"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

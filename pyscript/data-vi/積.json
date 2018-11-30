@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95840513",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sản phẩm (math)"
+        }
+      ],
+      "mobileId": 60287,
+      "opposite_word": [
+        "商"
+      ],
+      "phonetic": "せき",
+      "related_words": {
+        "word": [
+          "見積もり",
+          "見積書",
+          "面積",
+          "積極的",
+          "累積",
+          "見積り",
+          "蓄積",
+          "積算",
+          "積極的に",
+          "体積"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "積",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "交差点",
+                "交わり",
+                "交叉点"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "乗積"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "積"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c099cbbc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cross product, vector product, outer product"
+        }
+      ],
+      "mobileId": 211784,
+      "phonetic": "ベクトルせき",
+      "word": "ベクトル積"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e603fc4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "intersection"
+        }
+      ],
+      "mobileId": 251132,
+      "phonetic": "せきしゅうごう",
+      "word": "積集合"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22281e4e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "円柱の断面積",
+              "mean": "Diện tích mặt cắt của trụ tròn ( diện tích mặt đáy)",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Diện tích mặt cắt"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "だんめんせき",
+      "word": "断面積"
+    },
+    {
+      "_id": "edf7f33f53832e93b36c90d5fd11b687",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "横積厳禁",
+              "mean": "Nghiêm cấm xếp nằm ngang( phải để dọc đúng chiều)",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Nằm ngang"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "",
+      "word": "横積"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9517d684",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chất đống"
+        }
+      ],
+      "mobileId": 56869,
+      "phonetic": "じゅうせき",
+      "related_words": {
+        "word": [
+          "重",
+          "積"
+        ]
+      },
+      "word": "重積"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c097be92",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "sản phẩm logic, AND hoạt động, kết hợp, giao lộ"
+        }
+      ],
+      "mobileId": 211717,
+      "phonetic": "ろんりせき",
+      "related_words": {
+        "word": [
+          "論理",
+          "積"
+        ]
+      },
+      "word": "論理積"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d14e9cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự chất hàng (lên xe, tàu), hàng chở (trên xe, sự nạp đạn"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "gạch vụn bỏ đi, đá vụn bỏ đi, sỏi; cuội, (địa lý, địa chất) sa khoáng mảnh vụn"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự khai thác đá, công việc khai thác đá"
+        }
+      ],
+      "mobileId": 146410,
+      "phonetic": "のせき",
+      "related_words": {
+        "word": [
+          "積"
+        ]
+      },
+      "word": "載積"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad9dace",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tích số ."
+        }
+      ],
+      "mobileId": 173962,
+      "phonetic": "せきすう",
+      "word": "積数"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ada7e12",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giao chậm ."
+        }
+      ],
+      "mobileId": 173980,
+      "phonetic": "つみおくれ",
+      "word": "積遅れ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af7c5a6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "筺体接地",
+              "mean": "Gầm khung",
+              "transcription": "筺体せっち"
+            },
+            {
+              "content": "キャビネット（の）筺体",
+              "mean": "Gầm của ngăn kéo .",
+              "transcription": "キャビネット（の） 筺体"
+            }
+          ],
+          "kind": "n",
+          "mean": "khung gầm; khung chính"
+        }
+      ],
+      "mobileId": 174389,
+      "phonetic": "きょうたい",
+      "word": "筺体"
+    },
+    {
+      "_id": "432518852de0a80625d585a982a66b18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cabinet enclosure"
+        }
+      ],
+      "mobileId": 236924,
+      "phonetic": "キャビネットきょうたい",
+      "word": "キャビネット筺体"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

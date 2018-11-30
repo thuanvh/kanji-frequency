@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107b9994c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mũi đất (nhô ra biển) ."
+        }
+      ],
+      "mobileId": 55000,
+      "phonetic": "さき",
+      "synsets": [
+        {
+          "base_form": "崎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "端",
+                "穂",
+                "先頭",
+                "先端",
+                "穂先",
+                "先",
+                "先登",
+                "岬",
+                "頂",
+                "尖端"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "岬"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "端",
+                "穂",
+                "先端",
+                "穂先",
+                "先",
+                "岬",
+                "尖端"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "崎"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107b9a14c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Độ dốc của ngọn núi ."
+        }
+      ],
+      "mobileId": 55001,
+      "phonetic": "きがい",
+      "word": "崎崖"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81b888f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nagasaki"
+        }
+      ],
+      "mobileId": 34382,
+      "phonetic": "さきひ",
+      "word": "崎陽"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a99468",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "standing form of \"cape\" character"
+        }
+      ],
+      "mobileId": 278121,
+      "phonetic": "たつさき",
+      "word": "立つ崎"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

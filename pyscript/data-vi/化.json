@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d031203",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "action of making something, -ification"
+        }
+      ],
+      "mobileId": 215212,
+      "phonetic": "か",
+      "word": "化"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82b7b39",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hiện đại hoá; sự đổi mới"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "hiện đại hoá; đổi mới, thành hiện đại; thành mới"
+        }
+      ],
+      "mobileId": 34891,
+      "phonetic": "きんだいか",
+      "related_words": {
+        "word": [
+          "代",
+          "近代"
+        ]
+      },
+      "word": "近代化"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e860edc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự thần tượng hoá, sự tôn sùng, sự sùng bái, sự chiêm ngưỡng"
+        }
+      ],
+      "mobileId": 36609,
+      "phonetic": "ぐうぞうか",
+      "related_words": {
+        "word": [
+          "像",
+          "偶",
+          "偶像"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "偶像化",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "欽慕",
+                "礼拝",
+                "感心",
+                "偶像礼拝",
+                "崇拝",
+                "憧憬",
+                "心酔",
+                "偶像崇拝",
+                "偶像視",
+                "賛美",
+                "敬慕",
+                "尊敬",
+                "礼讃",
+                "尊崇",
+                "愛慕",
+                "傾倒"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "偶像化"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8622a2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "hiện thân, sự biểu hiện"
+        }
+      ],
+      "mobileId": 36651,
+      "opposite_word": [
+        "抽象化"
+      ],
+      "phonetic": "ぐたいか",
+      "related_words": {
+        "word": [
+          "体",
+          "具",
+          "具体",
+          "具体化する"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "具体化",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "具現",
+                "権化",
+                "体現",
+                "化身"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "実現"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "具体化"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8687e51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự quân phiệt hoá, sự quân sự hoá"
+        }
+      ],
+      "mobileId": 36851,
+      "phonetic": "ぐんたいか",
+      "related_words": {
+        "word": [
+          "軍",
+          "軍隊"
+        ]
+      },
+      "word": "軍隊化"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86ce03f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "trở thành là một chỉ là vỏ hoặc bộ luật không còn giá trị"
+        }
+      ],
+      "mobileId": 36989,
+      "phonetic": "けいがいか",
+      "word": "形骸化"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca045d92c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "making (something) free of charge, dispensing with fees"
+        }
+      ],
+      "mobileId": 283208,
+      "phonetic": "むりょうか",
+      "word": "無料化"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0475024",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "mummification"
+        }
+      ],
+      "mobileId": 283254,
+      "phonetic": "ミイラか",
+      "word": "ミイラ化"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04d5d45",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chemotherapy"
+        }
+      ],
+      "mobileId": 283434,
+      "phonetic": "かりょう",
+      "word": "化療"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05d8645",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "castle magically created by the Buddha"
+        }
+      ],
+      "mobileId": 283967,
+      "phonetic": "げじょう",
+      "word": "化城"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

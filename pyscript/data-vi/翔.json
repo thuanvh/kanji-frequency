@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8094043",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc bay đua (giữa bồ câu)"
+        }
+      ],
+      "mobileId": 33790,
+      "phonetic": "けいしょう",
+      "word": "競翔"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95ae7b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "soaring"
+        }
+      ],
+      "mobileId": 259214,
+      "phonetic": "はんしょう",
+      "word": "帆翔"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

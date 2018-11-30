@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e9c4848",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Chuyển đi chỗ khác"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "たい しょ",
+      "word": "退所"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca083daeb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "leaving a park, garden, zoo, etc."
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "leaving kindergarten (e.g. end of day, on completion, expulsion)"
+        }
+      ],
+      "mobileId": 285149,
+      "phonetic": "たいえん",
+      "word": "退園"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d7143c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "leaving a club, quitting a club"
+        }
+      ],
+      "mobileId": 279650,
+      "opposite_word": [
+        "入部"
+      ],
+      "phonetic": "たいぶ",
+      "word": "退部"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03bf32b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "leaving (a library, museum, etc.), exiting"
+        }
+      ],
+      "mobileId": 282894,
+      "phonetic": "たいかん",
+      "word": "退館"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca083b6c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eradication of malignant spirits (esp. used in fantasy and science fiction)"
+        }
+      ],
+      "mobileId": 285146,
+      "phonetic": "たいま",
+      "word": "退魔"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687f07b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự xác định"
+        }
+      ],
+      "mobileId": 4039,
+      "phonetic": "ふしさ",
+      "word": "不退"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933418ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thoái bộ, sự thoái lui; sự đi giật lùi, sự đi ngược trở lại, hồi quy"
+        }
+      ],
+      "mobileId": 19579,
+      "phonetic": "うみしさ",
+      "word": "海退"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd89bfc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "regression (of cancer), involution (of an organ), atrophy"
+        }
+      ],
+      "mobileId": 222117,
+      "phonetic": "たいしゅく",
+      "word": "退縮"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825e0a79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giving up government service and engaging in agriculture"
+        }
+      ],
+      "mobileId": 234604,
+      "phonetic": "たいこう",
+      "word": "退耕"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77bc9bb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "retirement from active life"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "moving out of accommodation, finding a new residence"
+        }
+      ],
+      "mobileId": 270570,
+      "phonetic": "たいきょ",
+      "word": "退居"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

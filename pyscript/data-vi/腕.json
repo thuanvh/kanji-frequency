@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027660c99",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "両腕（の筋肉）が凝っている",
+              "mean": "Cơ bắp của hai cánh tay đang tê cứng",
+              "transcription": "りょううで（のきんにく）がこっている"
+            }
+          ],
+          "kind": "n",
+          "mean": "cánh tay"
+        }
+      ],
+      "mobileId": 30804,
+      "opposite_word": [
+        "脚",
+        "足"
+      ],
+      "phonetic": "うで",
+      "related_words": {
+        "word": [
+          "腕時計",
+          "腕立て伏せ",
+          "腕輪",
+          "上腕",
+          "前腕",
+          "腕白",
+          "腕力",
+          "腕章",
+          "凄腕",
+          "手腕"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "腕",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "アーム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "手",
+                "アーム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "技能",
+                "技術",
+                "腕前",
+                "技",
+                "技量",
+                "スキル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "技能",
+                "技術",
+                "伎倆",
+                "腕前",
+                "技",
+                "技量",
+                "スキル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "才能",
+                "英気",
+                "器量",
+                "能",
+                "技術",
+                "伎倆",
+                "才腕",
+                "能力",
+                "技量",
+                "実力",
+                "スキル",
+                "甲斐性"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "腕"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc2ce5f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Vật tay, trò chơi vật cổ tay"
+        }
+      ],
+      "mobileId": 15959,
+      "phonetic": "うでずもう",
+      "word": "腕相撲"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc2e0c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự vận động bằng cánh tay"
+        }
+      ],
+      "mobileId": 15963,
+      "phonetic": "うでわたり",
+      "word": "腕渡り"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08fb62d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "way of holding a calligraphy brush, position of the arm used for a particular type of calligraphy"
+        }
+      ],
+      "mobileId": 285541,
+      "phonetic": "わんぽう",
+      "word": "腕法"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08fbc7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "way of holding a calligraphy brush, with elbow away from the body and arm in the air"
+        }
+      ],
+      "mobileId": 285542,
+      "phonetic": "けんわん",
+      "word": "懸腕"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0362ddd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "tired, weary"
+        }
+      ],
+      "mobileId": 282696,
+      "phonetic": "かいだるい",
+      "word": "腕弛い"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688512f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cánh tay to"
+        }
+      ],
+      "mobileId": 4236,
+      "phonetic": "ふというで",
+      "word": "太い腕"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc2d418",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đẩy - lên trên"
+        }
+      ],
+      "mobileId": 15960,
+      "phonetic": "うでりつ",
+      "related_words": {
+        "word": [
+          "腕"
+        ]
+      },
+      "word": "腕立"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0626c5d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "arm hair"
+        }
+      ],
+      "mobileId": 284117,
+      "phonetic": "うでげ",
+      "word": "腕毛"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95bb5858",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "cẳng tay[fɔ:r'ɑ:m], chuẩn bị vũ khí trước, trang bị trước; chuẩn bị trước, biết trước là sãn sàng trước"
+        }
+      ],
+      "mobileId": 62066,
+      "phonetic": "ぜんうで",
+      "related_words": {
+        "word": [
+          "前",
+          "腕"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "前腕",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "前膊"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "前腕"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

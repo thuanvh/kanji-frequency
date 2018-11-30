@@ -1,0 +1,647 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d462901",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "chủ; người chủ; chủ sở hữu (tài sản)"
+        }
+      ],
+      "mobileId": 142617,
+      "phonetic": "あるじ, ぬし, しゅう",
+      "word": "主"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d463383",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "chủ yếu; chính; chính yếu; quan trọng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "điều chủ yếu; điều quan trọng"
+        }
+      ],
+      "mobileId": 142618,
+      "opposite_word": [
+        "従",
+        "客"
+      ],
+      "phonetic": "おも",
+      "related_words": {
+        "word": [
+          "主任",
+          "ご主人",
+          "主婦",
+          "主人公",
+          "主に",
+          "主人",
+          "主張",
+          "主な",
+          "主催",
+          "民主党"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "主",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "オーナー",
+                "所持者",
+                "持主",
+                "店主",
+                "経営者",
+                "所有者",
+                "持ち主"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ホスト",
+                "主人",
+                "主人役"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "殿様",
+                "主人",
+                "君主",
+                "雇い主",
+                "主君",
+                "殿",
+                "君",
+                "マスター"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "神",
+                "神様"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "父",
+                "神",
+                "クリエーター",
+                "神様",
+                "ロード"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先生",
+                "親方",
+                "名人",
+                "宗匠",
+                "部長",
+                "巨匠",
+                "師匠",
+                "主人",
+                "主君",
+                "マスター",
+                "達人"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先生",
+                "名人",
+                "宗匠",
+                "巨匠",
+                "師匠",
+                "主人",
+                "主君",
+                "達人"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雇い人",
+                "使用者",
+                "主人",
+                "雇人",
+                "雇い主",
+                "雇主"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "オーナー",
+                "所持者",
+                "持主",
+                "飼主",
+                "所有者",
+                "飼い主",
+                "保有者",
+                "持ち主"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先生",
+                "名人",
+                "宗匠",
+                "覇者",
+                "優勝者",
+                "巨匠",
+                "師匠",
+                "勝者",
+                "主人",
+                "主君",
+                "勝利者",
+                "達人",
+                "ビクター"
+              ]
+            }
+          ],
+          "pos": "noun"
+        },
+        {
+          "base_form": "主",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "第一"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "主"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d464a3d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "より多くの従業員を必要としている雇用主",
+              "mean": "nhà tuyển dụng cần thêm người",
+              "transcription": "よりおおくのじゅうぎょういんをひつようとしているこようぬし"
+            },
+            {
+              "content": "そのテレビ会社は収入のほとんどを、広告主1社から得ていた",
+              "mean": "Công ty truyền hình đó có nhiều thu nhập từ nhà quảng cáo",
+              "transcription": "そのテレビかいしゃはしゅうにゅうのほとんどを、こうこくぬし1しゃからえていた"
+            }
+          ],
+          "kind": null,
+          "mean": "chủ; người chủ; chủ sở hữu (tài sản)"
+        }
+      ],
+      "mobileId": 142619,
+      "opposite_word": [
+        "従",
+        "客"
+      ],
+      "phonetic": "しゅ",
+      "related_words": {
+        "word": [
+          "主任",
+          "ご主人",
+          "主婦",
+          "主人公",
+          "主に",
+          "主人",
+          "主張",
+          "主な",
+          "主催",
+          "民主党"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "主",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "オーナー",
+                "所持者",
+                "持主",
+                "店主",
+                "経営者",
+                "所有者",
+                "持ち主"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ホスト",
+                "主人",
+                "主人役"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "殿様",
+                "主人",
+                "君主",
+                "雇い主",
+                "主君",
+                "殿",
+                "君",
+                "マスター"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "神",
+                "神様"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "父",
+                "神",
+                "クリエーター",
+                "神様",
+                "ロード"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先生",
+                "親方",
+                "名人",
+                "宗匠",
+                "部長",
+                "巨匠",
+                "師匠",
+                "主人",
+                "主君",
+                "マスター",
+                "達人"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先生",
+                "名人",
+                "宗匠",
+                "巨匠",
+                "師匠",
+                "主人",
+                "主君",
+                "達人"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雇い人",
+                "使用者",
+                "主人",
+                "雇人",
+                "雇い主",
+                "雇主"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "オーナー",
+                "所持者",
+                "持主",
+                "飼主",
+                "所有者",
+                "飼い主",
+                "保有者",
+                "持ち主"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先生",
+                "名人",
+                "宗匠",
+                "覇者",
+                "優勝者",
+                "巨匠",
+                "師匠",
+                "勝者",
+                "主人",
+                "主君",
+                "勝利者",
+                "達人",
+                "ビクター"
+              ]
+            }
+          ],
+          "pos": "noun"
+        },
+        {
+          "base_form": "主",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "第一"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "主"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d464db6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "金持ちの農場主",
+              "mean": "địa chủ giàu có .",
+              "transcription": "かねもちののうじょうぬし"
+            }
+          ],
+          "kind": "n",
+          "mean": "chủ; địa chủ; chúa"
+        }
+      ],
+      "mobileId": 142620,
+      "opposite_word": [
+        "従",
+        "客"
+      ],
+      "phonetic": "ぬし",
+      "related_words": {
+        "word": [
+          "主任",
+          "ご主人",
+          "主婦",
+          "主人公",
+          "主に",
+          "主人",
+          "主張",
+          "主な",
+          "主催",
+          "民主党"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "主",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "オーナー",
+                "所持者",
+                "持主",
+                "店主",
+                "経営者",
+                "所有者",
+                "持ち主"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ホスト",
+                "主人",
+                "主人役"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "殿様",
+                "主人",
+                "君主",
+                "雇い主",
+                "主君",
+                "殿",
+                "君",
+                "マスター"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "神",
+                "神様"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "父",
+                "神",
+                "クリエーター",
+                "神様",
+                "ロード"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先生",
+                "親方",
+                "名人",
+                "宗匠",
+                "部長",
+                "巨匠",
+                "師匠",
+                "主人",
+                "主君",
+                "マスター",
+                "達人"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先生",
+                "名人",
+                "宗匠",
+                "巨匠",
+                "師匠",
+                "主人",
+                "主君",
+                "達人"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雇い人",
+                "使用者",
+                "主人",
+                "雇人",
+                "雇い主",
+                "雇主"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "オーナー",
+                "所持者",
+                "持主",
+                "飼主",
+                "所有者",
+                "飼い主",
+                "保有者",
+                "持ち主"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先生",
+                "名人",
+                "宗匠",
+                "覇者",
+                "優勝者",
+                "巨匠",
+                "師匠",
+                "勝者",
+                "主人",
+                "主君",
+                "勝利者",
+                "達人",
+                "ビクター"
+              ]
+            }
+          ],
+          "pos": "noun"
+        },
+        {
+          "base_form": "主",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "第一"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "主"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932f12fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người chủ trì cuộc họp"
+        }
+      ],
+      "mobileId": 19423,
+      "phonetic": "かいぬし",
+      "related_words": {
+        "word": [
+          "主",
+          "会"
+        ]
+      },
+      "word": "会主"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6bf26b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "performer of an action, agent, actor"
+        }
+      ],
+      "mobileId": 226837,
+      "phonetic": "どうさしゅ",
+      "word": "動作主"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b219ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người tài trợ quảng cáo; người quảng cáo"
+        }
+      ],
+      "mobileId": 39185,
+      "phonetic": "こうこくぬし",
+      "related_words": {
+        "word": [
+          "主",
+          "広告"
+        ]
+      },
+      "word": "広告主"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca045b737",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese sweet eaten with koicha"
+        }
+      ],
+      "mobileId": 283204,
+      "phonetic": "おもがし",
+      "word": "主菓子"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825598c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "territorial ruler (Yamato-period)"
+        }
+      ],
+      "mobileId": 234341,
+      "phonetic": "あがたぬし",
+      "word": "県主"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada565be5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chủ tài khoản ."
+        }
+      ],
+      "mobileId": 78423,
+      "phonetic": "かんじょうぬし",
+      "word": "勘定主"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

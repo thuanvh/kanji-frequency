@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6864192b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghèo; trở nên nghèo; sống trong nghèo khổ"
+        }
+      ],
+      "mobileId": 3198,
+      "opposite_word": [
+        "富"
+      ],
+      "phonetic": "ひん",
+      "related_words": {
+        "word": [
+          "貧乏",
+          "貧血",
+          "貧しい",
+          "貧困",
+          "貧弱",
+          "貧乏人",
+          "貧弱な",
+          "貧富",
+          "貧乏な",
+          "貧乏神"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "貧",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "金欠",
+                "貧窮",
+                "貧困",
+                "貧寒",
+                "貧窮化",
+                "貧苦",
+                "窮乏",
+                "困窮",
+                "貧乏"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "貧"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f746ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "poor village"
+        }
+      ],
+      "mobileId": 264177,
+      "phonetic": "ひんそん",
+      "word": "貧村"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7149a94",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "貧家に生まれる",
+              "mean": "sinh ra trong gia đình nghèo khó .",
+              "transcription": "ひんかにうまれる"
+            }
+          ],
+          "kind": "n",
+          "mean": "nhà nghèo"
+        }
+      ],
+      "mobileId": 107031,
+      "opposite_word": [
+        "富家"
+      ],
+      "phonetic": "ひんか",
+      "related_words": {
+        "word": [
+          "家",
+          "貧"
+        ]
+      },
+      "word": "貧家"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686a11b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(nghèo nàn ok?)"
+        }
+      ],
+      "mobileId": 3370,
+      "phonetic": "ひんぼう",
+      "related_words": {
+        "word": [
+          "棒",
+          "貧"
+        ]
+      },
+      "word": "貧棒"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dc08acf",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, adj-no",
+          "mean": "ngực nhỏ"
+        }
+      ],
+      "mobileId": 221348,
+      "phonetic": "ひんにゅう",
+      "word": "貧乳"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6864cc78",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khiêm tốn và nghèo"
+        }
+      ],
+      "mobileId": 3217,
+      "opposite_word": [
+        "富貴"
+      ],
+      "phonetic": "",
+      "word": "貧賤"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a59c04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "edentates (i.e. anteaters, sloths, armadillos)"
+        }
+      ],
+      "mobileId": 269827,
+      "phonetic": "ひんしるい",
+      "word": "貧歯類"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f689ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rich and poor, high and low, people of all ranks"
+        }
+      ],
+      "mobileId": 214822,
+      "phonetic": "ひんぷきせん",
+      "word": "貧富貴賤"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abe7e6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oligochaetes"
+        }
+      ],
+      "mobileId": 229509,
+      "phonetic": "ひんもうるい",
+      "word": "貧毛類"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa713b165",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "cái khó bó cái khôn ."
+        }
+      ],
+      "mobileId": 107017,
+      "phonetic": "ひんすればどんする",
+      "word": "貧すれば鈍する"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

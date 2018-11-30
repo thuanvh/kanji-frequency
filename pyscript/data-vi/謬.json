@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4c72f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sai lầm, lỗi"
+        }
+      ],
+      "mobileId": 12238,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "謬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "エラー",
+                "間違い",
+                "過怠",
+                "過誤",
+                "越度",
+                "錯誤",
+                "落ち度",
+                "過失",
+                "ミス",
+                "過ち",
+                "失策",
+                "誤り",
+                "失敗",
+                "失錯",
+                "失態",
+                "誤謬"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "間違い",
+                "過怠",
+                "事誤り",
+                "過誤",
+                "過失",
+                "瑕疵",
+                "ミス",
+                "過ち",
+                "誤り",
+                "誤謬"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "謬"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68680408",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ảo tưởng; sai lầm quan điểm"
+        }
+      ],
+      "mobileId": 3309,
+      "phonetic": "",
+      "word": "謬論"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6867f7fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "báo cáo sai (tiếng đồn)"
+        }
+      ],
+      "mobileId": 3308,
+      "phonetic": "",
+      "word": "謬伝"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9313d75",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, adj-no",
+          "mean": "không thể sai lầm"
+        }
+      ],
+      "mobileId": 257855,
+      "phonetic": "むびゅう",
+      "word": "無謬"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96eaa96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fallacy, conjecture"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "baseless thing, random thing"
+        }
+      ],
+      "mobileId": 259844,
+      "phonetic": "びゅうもう",
+      "word": "謬妄"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6889e2e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính không thể sai lầm được giáo hoàng"
+        }
+      ],
+      "mobileId": 4393,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "性"
+        ]
+      },
+      "word": "不謬性"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777d0264",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fallibilism"
+        }
+      ],
+      "mobileId": 268510,
+      "phonetic": "かびゅうしゅぎ",
+      "word": "可謬主義"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

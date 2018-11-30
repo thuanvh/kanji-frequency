@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e0da848",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n-suf",
+          "mean": "công nhân"
+        }
+      ],
+      "mobileId": 248436,
+      "phonetic": "こう",
+      "word": "工"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85f56e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiểu ryuukyuu lên dây đàn âm nhạc dụng cụ"
+        }
+      ],
+      "mobileId": 36558,
+      "phonetic": "こうこうよん",
+      "word": "工工四"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a2d459",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khuyến khích công nghiệp"
+        }
+      ],
+      "mobileId": 23084,
+      "phonetic": "すすむこう",
+      "word": "勧工"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10716e8d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thợ sơn ."
+        }
+      ],
+      "mobileId": 52254,
+      "phonetic": "とそうこう",
+      "word": "塗装工"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107be254c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "工作品にとって計算してください",
+              "mean": "Hãy tính theo sản phẩm. .",
+              "transcription": "こうさくひんにとってけいさんしてください"
+            }
+          ],
+          "kind": "n",
+          "mean": "sản phẩm"
+        }
+      ],
+      "mobileId": 55076,
+      "phonetic": "こうさくひん",
+      "word": "工作品"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4d0d05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kết thúc công nhân"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(a) finisher"
+        }
+      ],
+      "mobileId": 148182,
+      "phonetic": "しあがこう",
+      "word": "仕上工"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6f8f22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "japanning; sơn mài làm việc"
+        }
+      ],
+      "mobileId": 149264,
+      "phonetic": "うるしこう",
+      "word": "漆工"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a3a134",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thợ xếp chữ, máy xếp chữ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thợ sắp chữ"
+        }
+      ],
+      "mobileId": 5197,
+      "phonetic": "ぶんせんこう",
+      "word": "文選工"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74f03f87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thợ ráp và chỉnh máy móc ."
+        }
+      ],
+      "mobileId": 101063,
+      "phonetic": "せいびこう",
+      "word": "整備工"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900efbe035",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thợ hàn chì"
+        }
+      ],
+      "mobileId": 119063,
+      "phonetic": "はいかんこう",
+      "related_words": {
+        "word": [
+          "管"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "配管工",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "水道屋"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "配管工"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

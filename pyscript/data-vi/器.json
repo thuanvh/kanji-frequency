@@ -1,0 +1,316 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adae6ce78",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼女は、猫用のうつわに水を継ぎ足さなければならなかった",
+              "mean": "cô ấy phải đổ thêm nước vào bát của con mèo",
+              "transcription": "かのじょは、ねこようのうつわにみずをつぎたさなければならなかった"
+            },
+            {
+              "content": "洗面器",
+              "mean": "Chậu rửa mặt",
+              "transcription": "せんめんき"
+            }
+          ],
+          "kind": "n",
+          "mean": "chậu; bát..."
+        },
+        {
+          "examples": [
+            {
+              "content": "山口君は指導者の器ではない。",
+              "mean": "Yamaguchi không có khí chất để trở thành người lãnh đạo.",
+              "transcription": "やまぐちくんはしどうしゃのうつわではない。"
+            },
+            {
+              "content": "器の大きな人",
+              "mean": "một người có tài năng lớn .",
+              "transcription": "うつわのおおきなひと"
+            }
+          ],
+          "kind": "n",
+          "mean": "khí chất; tài năng"
+        }
+      ],
+      "mobileId": 80709,
+      "phonetic": "うつわ",
+      "related_words": {
+        "word": [
+          "機器",
+          "武器",
+          "楽器",
+          "周辺機器",
+          "加湿器",
+          "女性器",
+          "性器",
+          "容器",
+          "不器用",
+          "食器"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "器",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鉢",
+                "ボウル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "入物",
+                "器物",
+                "入れ物",
+                "容器"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コンテナー",
+                "入物",
+                "コンテナ",
+                "器物",
+                "入れ物",
+                "容器"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "器"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a1e362",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bộ suy giảm"
+        }
+      ],
+      "mobileId": 38682,
+      "phonetic": "げんすいき",
+      "related_words": {
+        "word": [
+          "器",
+          "減衰"
+        ]
+      },
+      "word": "減衰器"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e864f786",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thực hiện (của) chiến tranh"
+        }
+      ],
+      "mobileId": 36740,
+      "phonetic": "ぐんき",
+      "related_words": {
+        "word": [
+          "軍",
+          "器"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "軍器",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "軍需品",
+                "武器",
+                "甲兵",
+                "兵器"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "銃剣",
+                "兵仗",
+                "武器",
+                "甲兵",
+                "兵器"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "軍器"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd576f4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "máy ổn định, bộ ổn định; chất ổn định; chất ổn định, bộ phận thăng bằng (ở sườn tàu thuỷ, ở đuôi máy bay)"
+        }
+      ],
+      "mobileId": 12584,
+      "phonetic": "あんていき",
+      "related_words": {
+        "word": [
+          "安定",
+          "器"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "安定器",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "スタビライザー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "安定器"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68751835",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bộ hoàn điệu"
+        }
+      ],
+      "mobileId": 3731,
+      "phonetic": "ふくちょうき",
+      "word": "復調器"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68788fc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bộ biên mã"
+        }
+      ],
+      "mobileId": 3833,
+      "phonetic": "ふごうき",
+      "related_words": {
+        "word": [
+          "号",
+          "符号",
+          "器"
+        ]
+      },
+      "word": "符号器"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c150ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bảo vật; báu vật; đồ quý hiếm; người tài giỏi"
+        }
+      ],
+      "mobileId": 6166,
+      "phonetic": "たからき",
+      "word": "宝器"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b1671d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Thiết bị cảm ứng"
+        },
+        {
+          "examples": [],
+          "kind": "undefined",
+          "mean": "undefined"
+        },
+        {
+          "examples": [],
+          "kind": "undefined",
+          "mean": "undefined"
+        }
+      ],
+      "mobileId": 23539,
+      "phonetic": "かんちき",
+      "related_words": {
+        "word": [
+          "器",
+          "感知"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "感知器",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "探知機",
+                "センサー",
+                "デテクター"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "感知器"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9520b3ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(truyền hình, rađiô, cái máy thu etc.)"
+        }
+      ],
+      "mobileId": 57145,
+      "phonetic": "じゅしんき",
+      "word": "受信器"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9581821f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dụng cụ để sửa cho thẳng, máy chỉnh lưu, máy cất lại, máy tinh cất, bộ tách sóng"
+        }
+      ],
+      "mobileId": 60211,
+      "phonetic": "せいりゅうき",
+      "related_words": {
+        "word": [
+          "流",
+          "器"
+        ]
+      },
+      "word": "整流器"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

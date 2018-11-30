@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d497a57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref, suf",
+          "mean": "cheap"
+        },
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "rash, thoughtless, careless, indiscreet, frivolous"
+        }
+      ],
+      "mobileId": 217437,
+      "opposite_word": [
+        "高",
+        "危"
+      ],
+      "phonetic": "やす",
+      "word": "安"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5c45b4",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, adj-no",
+          "mean": "Mặc cả giá"
+        }
+      ],
+      "mobileId": 226359,
+      "phonetic": "げきやす",
+      "word": "激安"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be3a3151",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đô la rẻ, sự hạ giá của đô la"
+        }
+      ],
+      "mobileId": 91146,
+      "phonetic": "ドルやす",
+      "word": "ドル安"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d9f88c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "cheap and cute"
+        }
+      ],
+      "mobileId": 220241,
+      "phonetic": "やすかわ",
+      "word": "安可愛"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5ecf6c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ten'an era (857.2.21-859.4.15)"
+        }
+      ],
+      "mobileId": 218144,
+      "phonetic": "てんあん",
+      "word": "天安"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd547c87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "an toàn; vững chắc; chắc chắn; ổn định"
+        }
+      ],
+      "mobileId": 12491,
+      "phonetic": "やすかた",
+      "word": "安固"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b220a48b5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "アマゾンでずーっと爆安で売られてるけどなんかあるのかなあ…",
+              "mean": "không biết có cái gì mà bọn amazon bán suốt cái này với giá rẻ bất ngờ à",
+              "transcription": ""
+            }
+          ],
+          "kind": "",
+          "mean": "rẻ bất ngờ　"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ばくやす",
+      "word": "爆安"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd6e48f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "saloon rẻ"
+        }
+      ],
+      "mobileId": 72271,
+      "phonetic": "やすさかば",
+      "related_words": {
+        "word": [
+          "酒",
+          "場",
+          "酒場"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "安酒場",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ホンキートンク"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "安酒場"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3eaecda4",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Hàng giá rẻ của chuỗi Don Quijote. Dùng thay cho từ「激安」hay gặp"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "きょうやす",
+      "word": "驚安"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9626680",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "isolated fall of a security or currency in an otherwise strong market"
+        }
+      ],
+      "mobileId": 275870,
+      "phonetic": "どっぽやす",
+      "word": "独歩安"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

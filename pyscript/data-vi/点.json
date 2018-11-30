@@ -1,0 +1,296 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a0c5c98",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "わるい点",
+              "mean": "điểm xấu",
+              "transcription": "わるいてん"
+            },
+            {
+              "content": "よい点",
+              "mean": "điểm tốt .",
+              "transcription": "よいてん"
+            }
+          ],
+          "kind": "n",
+          "mean": "điểm"
+        }
+      ],
+      "mobileId": 170497,
+      "phonetic": "てん",
+      "related_words": {
+        "word": [
+          "拠点",
+          "点検",
+          "問題点",
+          "欠点",
+          "点灯",
+          "視点",
+          "注意点",
+          "交差点",
+          "原点",
+          "点滅"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "点",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ポイント",
+                "地",
+                "個所",
+                "スポット",
+                "場",
+                "場所",
+                "所",
+                "地点",
+                "箇所"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ポイント",
+                "得点"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "科目",
+                "ディテール",
+                "ポイント",
+                "項目",
+                "論点",
+                "委細",
+                "箇条",
+                "個所",
+                "条項",
+                "品目",
+                "眼目",
+                "種目",
+                "個条",
+                "アイテム",
+                "焦点",
+                "約款",
+                "デテール",
+                "箇所",
+                "細部"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ポイント",
+                "グレード",
+                "点数",
+                "評価",
+                "クラス",
+                "等級",
+                "スコア"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ちょぼ",
+                "点点",
+                "ドット"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ポイント",
+                "場所",
+                "地点",
+                "箇所"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一点",
+                "ドット"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "句読点",
+                "パンクチュエーション",
+                "句読"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ポイント",
+                "点数",
+                "スコア",
+                "得点"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "点"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68739bc2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "điểm phát chỉ"
+        }
+      ],
+      "mobileId": 3682,
+      "phonetic": "ふくしゃてん",
+      "related_words": {
+        "word": [
+          "点",
+          "輻射"
+        ]
+      },
+      "word": "輻射点"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ea0d10",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đánh dấu hoặc những của hồi môn đã nhấn mạnh lối đi văn bản\r\nđánh dấu để làm dễ dàng đọc (của) kanbun"
+        }
+      ],
+      "mobileId": 7455,
+      "phonetic": "つくりてん",
+      "word": "旁点"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad366f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "autumn equinoctal point"
+        }
+      ],
+      "mobileId": 230196,
+      "phonetic": "しゅうぶんてん",
+      "word": "秋分点"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8faffcb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chuyển qua đánh dấu; phân loại những sự dánh dấu (ghi điểm)"
+        }
+      ],
+      "mobileId": 41551,
+      "phonetic": "ごうかくてん",
+      "word": "合格点"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e829f13b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "điểm gần mặt trời, điểm cận nhật"
+        }
+      ],
+      "mobileId": 34837,
+      "opposite_word": [
+        "遠日点"
+      ],
+      "phonetic": "きんじつてん",
+      "related_words": {
+        "word": [
+          "日",
+          "点"
+        ]
+      },
+      "word": "近日点"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b372b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ rào mắt cáo"
+        }
+      ],
+      "mobileId": 39230,
+      "phonetic": "こうしてん",
+      "related_words": {
+        "word": [
+          "子",
+          "点",
+          "格",
+          "格子"
+        ]
+      },
+      "word": "格子点"
+    },
+    {
+      "_id": "432518852de0a80625d585a9827f3d22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "access point"
+        }
+      ],
+      "mobileId": 235657,
+      "phonetic": "アクセスてん",
+      "word": "アクセス点"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0c3263",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "làm hoàn hảo ghi điểm"
+        }
+      ],
+      "mobileId": 69180,
+      "phonetic": "まんてん",
+      "related_words": {
+        "word": [
+          "万",
+          "点"
+        ]
+      },
+      "word": "万点"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900edd02a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "mấy điểm"
+        }
+      ],
+      "mobileId": 118071,
+      "phonetic": "なんてん",
+      "word": "何点"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

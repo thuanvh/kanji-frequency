@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e108f6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phát hành; con cái; máu cha"
+        }
+      ],
+      "mobileId": 111555,
+      "phonetic": "たね",
+      "word": "胤"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a83b02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "huyết thống của vua, hậu duệ của vua (hoàng đế)"
+        }
+      ],
+      "mobileId": 38869,
+      "phonetic": "すめらぎたね",
+      "word": "皇胤"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e10d884",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "anh  cùng cha khác mẹ, anh  cùng mẹ khác cha"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chị  cùng cha khác mẹ, chị  cùng mẹ khác cha"
+        }
+      ],
+      "mobileId": 111567,
+      "phonetic": "たねちがい",
+      "related_words": {
+        "word": [
+          "違い",
+          "胤"
+        ]
+      },
+      "word": "胤違い"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd952945",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người nối nghiệp; người nối ngôi; người thừa tự"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con cháu; người nối dõi"
+        }
+      ],
+      "mobileId": 14526,
+      "phonetic": "",
+      "word": "胤裔"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

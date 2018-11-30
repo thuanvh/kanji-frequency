@@ -1,0 +1,217 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af48506",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Lồi"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": ""
+        }
+      ],
+      "mobileId": 231253,
+      "opposite_word": [
+        "凹"
+      ],
+      "phonetic": "でこ",
+      "word": "凸"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea6cb7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lồi câu"
+        }
+      ],
+      "mobileId": 116370,
+      "phonetic": "とつかく",
+      "related_words": {
+        "word": [
+          "角"
+        ]
+      },
+      "word": "凸角"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9eec842",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "convex, cuspid, gibbous"
+        }
+      ],
+      "mobileId": 263905,
+      "phonetic": "とつけい",
+      "word": "凸形"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930dc3df",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mày, lông mày, trán, bờ, cầu tàu"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trán"
+        }
+      ],
+      "mobileId": 18349,
+      "phonetic": "ごとつ",
+      "word": "御凸"
+    },
+    {
+      "_id": "332167954327f6e41c4a167bfeb3a436",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "おでこの女の子",
+              "mean": "cô bé trán dô",
+              "transcription": "おでこのおんなのこ"
+            },
+            {
+              "content": "（人）のおでこにキスをする",
+              "mean": "hôn lên trán ai",
+              "transcription": "（ひと）のおでこにキスをする"
+            },
+            {
+              "content": "おでこが広い",
+              "mean": "trán rộng",
+              "transcription": "おでこがひろい"
+            },
+            {
+              "content": "おでこに手を置いてください",
+              "mean": "hãy đặt tay lên trán của em đi ! .",
+              "transcription": "おでこにてをおいてください"
+            }
+          ],
+          "kind": "n",
+          "mean": "trán; trán dô"
+        }
+      ],
+      "mobileId": 51046,
+      "phonetic": "おでこ",
+      "synsets": [
+        {
+          "base_form": "お凸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "前額",
+                "前額部",
+                "額"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "お凸"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada2508e9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "凸状の外面",
+              "mean": "bề ngoài nổi",
+              "transcription": "とつじょうのがいめん"
+            },
+            {
+              "content": "凸状隆起",
+              "mean": "nổi bật với kiểu lồi lên .",
+              "transcription": "とつじょうりゅうき"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "kiểu lồi"
+        }
+      ],
+      "mobileId": 77509,
+      "phonetic": "とつじょう",
+      "related_words": {
+        "word": [
+          "状"
+        ]
+      },
+      "word": "凸状"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e608cfe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "convex set"
+        }
+      ],
+      "mobileId": 251142,
+      "phonetic": "とつしゅうごう",
+      "word": "凸集合"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada2510c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thấu kính lồi ."
+        }
+      ],
+      "mobileId": 77510,
+      "phonetic": "とっきょう",
+      "related_words": {
+        "word": [
+          "鏡"
+        ]
+      },
+      "word": "凸鏡"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea79dd7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính lồi, độ lồi"
+        }
+      ],
+      "mobileId": 116399,
+      "phonetic": "とつえん",
+      "related_words": {
+        "word": [
+          "円"
+        ]
+      },
+      "word": "凸円"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d363348",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "hai mặt lồi ."
+        }
+      ],
+      "mobileId": 142310,
+      "phonetic": "りょうとつ",
+      "word": "両凸"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

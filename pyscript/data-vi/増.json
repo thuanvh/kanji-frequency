@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ccab0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "increase"
+        }
+      ],
+      "mobileId": 213448,
+      "opposite_word": [
+        "減"
+      ],
+      "phonetic": "ぞう",
+      "word": "増"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d65f863",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tăng tự nhiên (dân số ...)"
+        }
+      ],
+      "mobileId": 148975,
+      "phonetic": "しぜんぞう",
+      "word": "自然増"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d69da8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cost increase"
+        }
+      ],
+      "mobileId": 271439,
+      "phonetic": "ふたんぞう",
+      "word": "負担増"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1071b5d34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "việc tăng thêm và sửa lại (ấn bản) ."
+        }
+      ],
+      "mobileId": 52317,
+      "phonetic": "ぞうてい",
+      "word": "増訂"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e26d23",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tăng thêm (của) máu; hematopoiesis"
+        }
+      ],
+      "mobileId": 63340,
+      "phonetic": "ぞうち",
+      "word": "増血"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825b54ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "expansion (in space) of a sales area, increase in the number of beds (in a hospital, etc.)"
+        }
+      ],
+      "mobileId": 234522,
+      "phonetic": "ぞうしょう",
+      "related_words": {
+        "word": [
+          "床"
+        ]
+      },
+      "word": "増床"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dc4f2d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sensitization, hypersensitization"
+        }
+      ],
+      "mobileId": 221492,
+      "phonetic": "ぞうかん",
+      "word": "増感"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b83c21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "increased tax revenue, tax increases"
+        }
+      ],
+      "mobileId": 270432,
+      "phonetic": "ぜいしゅうぞう",
+      "word": "税収増"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d3dd944",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phụ nữ sắp đến trung niên ."
+        }
+      ],
+      "mobileId": 142454,
+      "phonetic": "ちゅうどしま",
+      "related_words": {
+        "word": [
+          "中",
+          "年",
+          "中年",
+          "年増"
+        ]
+      },
+      "word": "中年増"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d429d32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "extension and structural alteration of building"
+        }
+      ],
+      "mobileId": 217226,
+      "phonetic": "ぞうかいちく",
+      "word": "増改築"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

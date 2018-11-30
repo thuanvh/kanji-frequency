@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93afbfb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dining"
+        }
+      ],
+      "mobileId": 258177,
+      "phonetic": "さん ざん",
+      "word": "餐"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a1f42f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "phân phối (những biểu tượng trong quan hệ)"
+        }
+      ],
+      "mobileId": 5141,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "分"
+        ]
+      },
+      "word": "分餐"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd294ca3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "há hốc mồm ra"
+        }
+      ],
+      "mobileId": 11105,
+      "phonetic": "",
+      "word": "愛餐"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5b11f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lord's Supper (in Protestantism)"
+        }
+      ],
+      "mobileId": 250969,
+      "phonetic": "ばいさん",
+      "word": "陪餐"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74681b3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bữa tiệc của hai người đang yêu nhau ."
+        }
+      ],
+      "mobileId": 98965,
+      "phonetic": "あいさんかい",
+      "word": "愛餐会"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

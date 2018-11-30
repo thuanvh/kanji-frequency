@@ -1,0 +1,225 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3a107b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giá trị; giá cả; đáng giá"
+        }
+      ],
+      "mobileId": 11650,
+      "phonetic": "あたい",
+      "related_words": {
+        "word": [
+          "単価",
+          "評価",
+          "価格",
+          "定価",
+          "評価する",
+          "有価証券",
+          "価値",
+          "投資有価証券",
+          "価値観",
+          "低価格"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "価",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "値段",
+                "代",
+                "チャージ",
+                "代価",
+                "値",
+                "価格",
+                "料金",
+                "代金",
+                "課金",
+                "料"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "値打ち",
+                "値",
+                "価格",
+                "バリュー",
+                "金目",
+                "価値"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "価"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a05133",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "'veiləns/  /'veilənsi/, valance, hoá trị"
+        }
+      ],
+      "mobileId": 38629,
+      "phonetic": "げんしか",
+      "related_words": {
+        "word": [
+          "子",
+          "原",
+          "原子",
+          "価"
+        ]
+      },
+      "word": "原子価"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77814c68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acid value"
+        }
+      ],
+      "mobileId": 268650,
+      "phonetic": "さんか",
+      "word": "酸価"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8884337",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giá (của) một tổ kén"
+        }
+      ],
+      "mobileId": 37855,
+      "phonetic": "まゆか",
+      "related_words": {
+        "word": [
+          "価",
+          "繭"
+        ]
+      },
+      "word": "繭価"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddcfb19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giá trị dinh dưỡng"
+        }
+      ],
+      "mobileId": 16753,
+      "phonetic": "えいようか",
+      "related_words": {
+        "word": [
+          "栄養",
+          "価"
+        ]
+      },
+      "word": "栄養価"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9fb825d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "valence, valency"
+        }
+      ],
+      "mobileId": 280802,
+      "phonetic": "けつごうか",
+      "word": "結合価"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3a1663",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "vô giá; không định giá được, rất nực cười, khôi hài, ngộ, lố bịch"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "vô giá"
+        }
+      ],
+      "mobileId": 11651,
+      "phonetic": "あたいせんきん",
+      "word": "価千金"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd53e60d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự rẻ, sự rẻ tiền"
+        }
+      ],
+      "mobileId": 12470,
+      "phonetic": "あんか",
+      "word": "案価"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07582e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "breeding value"
+        }
+      ],
+      "mobileId": 284722,
+      "phonetic": "いくしゅか",
+      "word": "育種価"
+    },
+    {
+      "_id": "ac12816c3281c52ce90ba353b6d30ae6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "陽イオン価数",
+              "mean": "Số trị ion dương",
+              "transcription": "ひイオンかすう"
+            },
+            {
+              "content": "陰イオン価数",
+              "mean": "Số trị ion âm",
+              "transcription": "かげイオンかすう"
+            },
+            {
+              "content": "イオン価数",
+              "mean": "Số trị ion .",
+              "transcription": "イオンかすう"
+            }
+          ],
+          "kind": "n",
+          "mean": "giá trị ion"
+        }
+      ],
+      "mobileId": 133734,
+      "phonetic": "イオンか",
+      "word": "イオン価"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

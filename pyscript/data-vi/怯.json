@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ff8da5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coward"
+        }
+      ],
+      "mobileId": 264447,
+      "phonetic": "きょうじゃく きょじゃく",
+      "word": "怯弱"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be0539ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hồi hộp, rụt rè, nhút nhát"
+        }
+      ],
+      "mobileId": 89475,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "悪"
+        ]
+      },
+      "word": "悪怯れる"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

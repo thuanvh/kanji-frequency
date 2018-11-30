@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027be3069",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tà áo"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vạt"
+        },
+        {
+          "examples": [
+            {
+              "content": "肩から裾にかけてグッとクッとすぼまる形",
+              "mean": "Vạt áo phồng to lên từ vai xuống phía dưới",
+              "transcription": "かたからすそにかけてグッとクッとすぼまるかたち"
+            },
+            {
+              "content": "テーパー状に広がる裾引き形状とする",
+              "mean": "làm ống tay áo loe hình côn .",
+              "transcription": "テーパーじょうにひろがるすそびきけいじょうとする"
+            }
+          ],
+          "kind": "n",
+          "mean": "vạt áo"
+        }
+      ],
+      "mobileId": 32439,
+      "phonetic": "すそ",
+      "synsets": [
+        {
+          "base_form": "裾",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "裳裾",
+                "ヘム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "下部",
+                "下様",
+                "ボトム",
+                "下方",
+                "底"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "根本",
+                "基底",
+                "基部",
+                "下様",
+                "尻",
+                "底"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "裾"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9557d172",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chia sẻ (một quà tặng)"
+        }
+      ],
+      "mobileId": 58897,
+      "phonetic": "すそわけ",
+      "word": "裾分け"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de7a55a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rear footsweep"
+        }
+      ],
+      "mobileId": 222615,
+      "phonetic": "すそはらい",
+      "word": "裾払い"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05e50fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "exemption (from a regulation, etc. usu. because of small scale)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cut-off cuffs (trousers, etc.)"
+        }
+      ],
+      "mobileId": 283989,
+      "phonetic": "すそぎり",
+      "word": "裾切り"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9016ef3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "taking a hem up, hemming up"
+        }
+      ],
+      "mobileId": 272803,
+      "phonetic": "すそあげ",
+      "word": "裾上げ"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193092777",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự phân chia, sự phân bổ"
+        }
+      ],
+      "mobileId": 18198,
+      "phonetic": "ごすそわけ",
+      "word": "御裾分け"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9557a664",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để bị mòn ở (tại) đường viền"
+        }
+      ],
+      "mobileId": 58891,
+      "phonetic": "すそがきれる",
+      "word": "裾が切れる"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aad3e0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vạt áo ."
+        }
+      ],
+      "mobileId": 173155,
+      "phonetic": "きもののすそ",
+      "word": "着物の裾"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

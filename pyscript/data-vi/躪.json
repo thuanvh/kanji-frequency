@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed951d119f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giẫm chân xuống; tràn qua"
+        }
+      ],
+      "mobileId": 57023,
+      "phonetic": "",
+      "word": "蹂躪"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa71082f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự cướp đi trinh tiết; sự cưỡng đoạt trinh tiết ."
+        }
+      ],
+      "mobileId": 106962,
+      "phonetic": "ていそうじゅうりん",
+      "related_words": {
+        "word": [
+          "操",
+          "貞操"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "貞操蹂躪",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "レイプ",
+                "辱",
+                "強姦",
+                "手込め",
+                "暴行"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "貞操蹂躪"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953f75c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "& đúng giẫm chân trên (về) con người"
+        }
+      ],
+      "mobileId": 58109,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "人",
+          "権",
+          "人権"
+        ]
+      },
+      "word": "人権蹂躪"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

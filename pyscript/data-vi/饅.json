@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00c8030",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "salad of fish and vegetables, dressed with crushed mustard leaves and greens seasoned with sake lees, miso and vinegar"
+        }
+      ],
+      "mobileId": 281367,
+      "phonetic": "あおぬた",
+      "word": "青饅"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280274fca4b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "肉饅頭",
+              "mean": "Phần trên bánh bao nhân thịt hấp .",
+              "transcription": "にくまんじゅう"
+            }
+          ],
+          "kind": "n",
+          "mean": "bánh bao nhân thịt hấp"
+        }
+      ],
+      "mobileId": 30457,
+      "phonetic": "にくまん",
+      "related_words": {
+        "word": [
+          "肉"
+        ]
+      },
+      "word": "肉饅"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c54110",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Bánh bao nhân ngọt kiểu Nhật"
+        }
+      ],
+      "mobileId": 213204,
+      "phonetic": "あんまん",
+      "word": "餡饅"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

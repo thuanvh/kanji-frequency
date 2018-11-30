@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7027c0d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "沈黙に関する諺",
+              "mean": "tục ngữ liên quan đến sự yên lặng",
+              "transcription": "ちんもくにかんすることわざ"
+            },
+            {
+              "content": "人生の指針とすべき諺",
+              "mean": "tục ngữ là phương châm của con người",
+              "transcription": "じんせいのししんとすべきことわざ"
+            },
+            {
+              "content": "しばしば引用される諺",
+              "mean": "tục ngữ thường được trích dẫn .",
+              "transcription": "しばしばいんようされることわざ"
+            }
+          ],
+          "kind": "n",
+          "mean": "tục ngữ"
+        }
+      ],
+      "mobileId": 106751,
+      "phonetic": "ことわざ",
+      "synsets": [
+        {
+          "base_form": "諺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "成句",
+                "金言",
+                "俚諺",
+                "格言",
+                "箴言",
+                "俗諺"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "マキシム",
+                "金言",
+                "格言",
+                "箴言"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "諺"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a1a64c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vulgar proverb, popular saying"
+        }
+      ],
+      "mobileId": 277889,
+      "phonetic": "ひげん",
+      "word": "鄙諺"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07c4a80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "legal maxim"
+        }
+      ],
+      "mobileId": 284919,
+      "phonetic": "ほうげん",
+      "word": "法諺"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a9f663",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "colloquialism, slang"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "proverb"
+        }
+      ],
+      "mobileId": 269975,
+      "phonetic": "げんご",
+      "word": "諺語"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

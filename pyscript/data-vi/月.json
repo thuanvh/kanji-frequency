@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f2f9635",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mặt trăng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thái âm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tháng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trăng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vầng trăng ."
+        }
+      ],
+      "mobileId": 185724,
+      "opposite_word": [
+        "太陽",
+        "日"
+      ],
+      "phonetic": "つき",
+      "related_words": {
+        "word": [
+          "生年月日",
+          "三日月",
+          "月曜日",
+          "月日",
+          "一月",
+          "毎月",
+          "八月",
+          "年月日",
+          "年月",
+          "正月"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "月",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "月光",
+                "月灯かり",
+                "月明",
+                "月明かり",
+                "月影",
+                "月色",
+                "ムーンライト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "暦月"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ムーン",
+                "月の輪"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "月"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e666a20",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mỗi tháng"
+        }
+      ],
+      "mobileId": 114303,
+      "phonetic": "つきつき",
+      "related_words": {
+        "word": [
+          "月"
+        ]
+      },
+      "word": "月月"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7e6b8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "star (white patch on the forehead of a horse)"
+        }
+      ],
+      "mobileId": 227433,
+      "phonetic": "ほしづき",
+      "word": "星月"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae28514",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "first day of the month"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "first ten days of the lunar month"
+        }
+      ],
+      "mobileId": 230691,
+      "phonetic": "つきたち",
+      "word": "月立ち"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193bcb506",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tháng mười ((của) lịch mặt trăng)"
+        }
+      ],
+      "mobileId": 23895,
+      "phonetic": "いつき",
+      "word": "亥月"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09f6a66",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chandra (Hindu moon god also revered as one of the twelve devas in Shingon Buddhism)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "moon"
+        }
+      ],
+      "mobileId": 286045,
+      "phonetic": "がってんし",
+      "word": "月天子"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde24881",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ghi vào lịch tháng"
+        }
+      ],
+      "mobileId": 75988,
+      "phonetic": "こよみつき",
+      "related_words": {
+        "word": [
+          "月",
+          "暦"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "暦月",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "月"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "暦月"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be154198",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trăng lưỡi liềm"
+        }
+      ],
+      "mobileId": 89979,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "月"
+        ]
+      },
+      "word": "彎月"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e66f8ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đầu tháng"
+        }
+      ],
+      "mobileId": 114320,
+      "phonetic": "つきはじめ",
+      "word": "月始め"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d85586b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "this month"
+        }
+      ],
+      "mobileId": 219375,
+      "phonetic": "ほんげつ",
+      "related_words": {
+        "word": [
+          "月",
+          "本"
+        ]
+      },
+      "word": "本月"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a1912c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mồ hóng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhọ nồi ."
+        }
+      ],
+      "mobileId": 170774,
+      "phonetic": "すす",
+      "related_words": {
+        "word": [
+          "煤煙"
+        ]
+      },
+      "word": "煤"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc3b2e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bồ hóng (của) bị cháy héo hon"
+        }
+      ],
+      "mobileId": 151959,
+      "phonetic": "まつすす",
+      "word": "松煤"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

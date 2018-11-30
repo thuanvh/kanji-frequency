@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f23224f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, suf",
+          "mean": "niên lịch; niên giám; lịch ."
+        }
+      ],
+      "mobileId": 185526,
+      "phonetic": "こよみ",
+      "related_words": {
+        "word": [
+          "西暦",
+          "旧暦",
+          "暦日",
+          "太陽暦"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "暦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "カレンダー",
+                "カレンダ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "暦"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0ad21ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese calendar"
+        }
+      ],
+      "mobileId": 286492,
+      "phonetic": "ちゅうごくれき",
+      "word": "中国暦"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bd03c73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "calendar week"
+        }
+      ],
+      "mobileId": 246476,
+      "phonetic": "れきしゅう",
+      "word": "暦週"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5f1366",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tenryaku era (947.4.22-957.10.27)"
+        }
+      ],
+      "mobileId": 218153,
+      "phonetic": "てんりゃく",
+      "word": "天暦"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d60ebe9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Eiryaku era (1160.1.10-1161.9.4)"
+        }
+      ],
+      "mobileId": 218205,
+      "phonetic": "えいりゃく",
+      "word": "永暦"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d62e3cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ryakuou era (of the Northern Court) (1338.8.28-1342.4.27)"
+        }
+      ],
+      "mobileId": 218269,
+      "phonetic": "りゃくおう",
+      "word": "暦応"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770e9f42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "astronomical ephemeris, ephemeris"
+        }
+      ],
+      "mobileId": 264924,
+      "phonetic": "てんたいれき",
+      "word": "天体暦"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b5a28a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small calendar (or almanac) affixed to a pillar or wall"
+        }
+      ],
+      "mobileId": 262092,
+      "phonetic": "はしらごよみ",
+      "word": "柱暦"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b74117",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abbreviated koyomi (Japanese traditional calendar), koyomi presented in a smaller, easy to use, format"
+        }
+      ],
+      "mobileId": 262137,
+      "phonetic": "りゃくれき",
+      "word": "略暦"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5930f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "various information recorded in the almanac (as regards astronomy, astrology, etc.)"
+        }
+      ],
+      "mobileId": 226257,
+      "phonetic": "れきちゅう",
+      "word": "暦注"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

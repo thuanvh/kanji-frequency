@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107603809",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "em"
+        },
+        {
+          "examples": [
+            {
+              "content": "妹さんの仕事は何ですか",
+              "mean": "em gái bạn làm nghề gì thế?",
+              "transcription": "いもうとさんのしごとはなにですか"
+            },
+            {
+              "content": "双子の妹",
+              "mean": "em gái sinh đôi",
+              "transcription": "ふたごのいもうと"
+            },
+            {
+              "content": "一番末の妹",
+              "mean": "em gái út .",
+              "transcription": "いちばんまつのいもうと"
+            }
+          ],
+          "kind": "n",
+          "mean": "em gái"
+        }
+      ],
+      "mobileId": 53462,
+      "opposite_word": [
+        "姉"
+      ],
+      "phonetic": "いもうと",
+      "related_words": {
+        "word": [
+          "姉妹",
+          "妹さん",
+          "姉妹都市",
+          "従姉妹",
+          "義妹"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "妹",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "妹さん"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "妹"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9b0649",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con gái trẻ hơn"
+        }
+      ],
+      "mobileId": 14707,
+      "phonetic": "いもうとむすめ",
+      "word": "妹娘"
+    },
+    {
+      "_id": "622cc39a952b667c2efb0cae5ef7f796",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Vợ chồng em gái (tôi)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "いもうとふうふ",
+      "word": "妹夫婦"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f37e34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "youngest sister"
+        }
+      ],
+      "mobileId": 280548,
+      "phonetic": "まつまい",
+      "word": "末妹"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9ae9d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chị, em gái trẻ hơn"
+        }
+      ],
+      "mobileId": 14704,
+      "phonetic": "いもうとさん",
+      "related_words": {
+        "word": [
+          "さん",
+          "妹"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "妹さん",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "妹"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "妹さん"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9afc70",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "em rể"
+        }
+      ],
+      "mobileId": 14706,
+      "opposite_word": [
+        "姉婿"
+      ],
+      "phonetic": "いもうとむこ",
+      "word": "妹婿"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9af605",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người được xem như là em gái; người thân thiết như là em gái"
+        }
+      ],
+      "mobileId": 14705,
+      "phonetic": "いもうとぶん",
+      "word": "妹分"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3307aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one's deceased younger sister"
+        }
+      ],
+      "mobileId": 225044,
+      "phonetic": "ぼうまい",
+      "word": "亡妹"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0608cee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "half-sister (younger, different mother)"
+        }
+      ],
+      "mobileId": 284062,
+      "phonetic": "いぼまい",
+      "word": "異母妹"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e297659",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn",
+          "mean": "little sister, younger sister"
+        }
+      ],
+      "mobileId": 249362,
+      "phonetic": "しょうまい",
+      "word": "小妹"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

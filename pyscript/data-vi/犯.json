@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d47c4a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "perpetrators of (some) crime, (some type of) crime"
+        }
+      ],
+      "mobileId": 217382,
+      "phonetic": "はん",
+      "word": "犯"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5329a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "single crime consisting of multiple independent crimes (i.e. robbery, which consists of theft and threats or use of violence)"
+        }
+      ],
+      "mobileId": 226077,
+      "phonetic": "けつごうはん",
+      "word": "結合犯"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a30e5c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rapist"
+        }
+      ],
+      "mobileId": 224978,
+      "phonetic": "ごうかんはん",
+      "word": "強姦犯"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9aff775",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "malum in se, act inherently wrong by nature"
+        }
+      ],
+      "mobileId": 278335,
+      "phonetic": "しぜんはん",
+      "word": "自然犯"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d77448d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "criminal offense"
+        }
+      ],
+      "mobileId": 218925,
+      "phonetic": "けいほうはん",
+      "word": "刑法犯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9de064b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "copycat criminal"
+        }
+      ],
+      "mobileId": 263368,
+      "phonetic": "もほうはん",
+      "word": "模倣犯"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a529f5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "criminal instigator"
+        }
+      ],
+      "mobileId": 226063,
+      "phonetic": "きょうさはん",
+      "word": "教唆犯"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89ed633",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phạm tội bị bắt quả tang"
+        }
+      ],
+      "mobileId": 38576,
+      "phonetic": "げんこうはん",
+      "word": "現行犯"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86753a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phạm tội quân đội"
+        }
+      ],
+      "mobileId": 36815,
+      "phonetic": "ぐんじはん",
+      "related_words": {
+        "word": [
+          "事",
+          "軍",
+          "軍事"
+        ]
+      },
+      "word": "軍事犯"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d677348",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tội phạm tư tưởng"
+        }
+      ],
+      "mobileId": 149019,
+      "phonetic": "しそうはん",
+      "related_words": {
+        "word": [
+          "想",
+          "思想"
+        ]
+      },
+      "word": "思想犯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

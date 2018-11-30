@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc8d35f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "若いうちは倹約し、老後に使いなさい",
+              "mean": "khi trẻ hãy tiết kiệm và khi về già thì hưởng thụ",
+              "transcription": "わかいうちはけんやくし、ろうごにつかいなさい"
+            },
+            {
+              "content": "賢明ではない倹約",
+              "mean": "tiết kiệm không rõ ràng",
+              "transcription": "けんめいではないけんやく"
+            }
+          ],
+          "kind": "n",
+          "mean": "kinh tế; tiết kiệm"
+        }
+      ],
+      "mobileId": 144904,
+      "phonetic": "けん",
+      "word": "倹"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e704962",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "tiết kiệm; kinh tế"
+        }
+      ],
+      "mobileId": 114626,
+      "phonetic": "",
+      "word": "倹しい"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89304f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "keo kiệt và tham lam, bủn xỉn"
+        }
+      ],
+      "mobileId": 38199,
+      "phonetic": "",
+      "word": "倹吝"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e704ddd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sống thanh đạm"
+        }
+      ],
+      "mobileId": 114627,
+      "phonetic": "",
+      "word": "倹しく暮し"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7052da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s",
+          "mean": "tới sống thanh đạm"
+        }
+      ],
+      "mobileId": 114628,
+      "phonetic": "",
+      "word": "倹しく暮す"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

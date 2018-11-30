@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f7404126e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bào đệ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "em"
+        },
+        {
+          "examples": [
+            {
+              "content": "双子の弟",
+              "mean": "em trai sinh đôi",
+              "transcription": "ふたごのおとうと"
+            },
+            {
+              "content": "最愛の弟",
+              "mean": "em trai được thương yêu nhất",
+              "transcription": "さいあいのおとうと"
+            },
+            {
+              "content": "一番下の弟",
+              "mean": "em trai út",
+              "transcription": "いちばんかのおとうと"
+            },
+            {
+              "content": "（人）のすぐ下の弟",
+              "mean": "em trai ngay sau mình",
+              "transcription": "（ひと）のすぐしたのおとうと"
+            },
+            {
+              "content": "私の弟と一緒に旅行しています",
+              "mean": "tôi đang đi du lịch cùng với em trai .",
+              "transcription": "わたしのおとうとといっしょにりょこうしています"
+            }
+          ],
+          "kind": "n",
+          "mean": "em trai"
+        }
+      ],
+      "mobileId": 97575,
+      "opposite_word": [
+        "兄",
+        "師"
+      ],
+      "phonetic": "おとうと",
+      "related_words": {
+        "word": [
+          "弟子",
+          "従兄弟",
+          "弟さん",
+          "師弟",
+          "舎弟",
+          "徒弟"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "弟",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "実兄",
+                "兄貴",
+                "兄",
+                "兄さん"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "弟"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930de29e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "em trai (kính ngữ, chỉ em trai người khác)"
+        }
+      ],
+      "mobileId": 18354,
+      "phonetic": "おとうとお",
+      "word": "弟御"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930deb4e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "em trai (em người khác)"
+        }
+      ],
+      "mobileId": 18355,
+      "phonetic": "おとうとさん",
+      "related_words": {
+        "word": [
+          "さん",
+          "弟"
+        ]
+      },
+      "word": "弟さん"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930e08e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những con gái trẻ hơn"
+        }
+      ],
+      "mobileId": 18359,
+      "phonetic": "おとうとむすめ",
+      "related_words": {
+        "word": [
+          "娘",
+          "弟"
+        ]
+      },
+      "word": "弟娘"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08b50e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "royal prince, crown prince's younger brother"
+        }
+      ],
+      "mobileId": 211318,
+      "phonetic": "おうてい",
+      "word": "王弟"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930e117f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "em dâu"
+        }
+      ],
+      "mobileId": 18360,
+      "phonetic": "おとうとよめ",
+      "related_words": {
+        "word": [
+          "弟",
+          "嫁"
+        ]
+      },
+      "word": "弟嫁"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95119074",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anh(em) trai trẻ"
+        }
+      ],
+      "mobileId": 56678,
+      "phonetic": "じゃくおとうと",
+      "related_words": {
+        "word": [
+          "弟",
+          "弱"
+        ]
+      },
+      "word": "弱弟"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771621c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "12th lunar month"
+        }
+      ],
+      "mobileId": 265168,
+      "phonetic": "おとづき おとうづき おととづき",
+      "word": "弟月"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930e2132",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chú; bác; cậu; dượng, bác, người có hiệu cầm đồ, chú Xam, Dutch"
+        }
+      ],
+      "mobileId": 18362,
+      "phonetic": "おとうとおじ",
+      "related_words": {
+        "word": [
+          "弟",
+          "小",
+          "父"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "弟小父",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "おじさん",
+                "伯父さん",
+                "伯父",
+                "叔父"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "弟小父"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930fdcda",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "công chúa trẻ nhất"
+        }
+      ],
+      "mobileId": 18423,
+      "phonetic": "おとうとひめ",
+      "related_words": {
+        "word": [
+          "弟",
+          "姫"
+        ]
+      },
+      "word": "弟姫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

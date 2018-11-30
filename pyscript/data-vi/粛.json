@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da16637",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "yên lặng; êm ái; long trọng"
+        }
+      ],
+      "mobileId": 150846,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "として"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "粛として",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "静かに"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "粛として"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da16854",
+      "means": [
+        {
+          "examples": null,
+          "kind": "int",
+          "mean": "với vẻ kính trọng là của bạn"
+        }
+      ],
+      "mobileId": 150847,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "白"
+        ]
+      },
+      "word": "粛白"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de4efd3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự cưỡng bức chính xác"
+        }
+      ],
+      "mobileId": 153055,
+      "phonetic": "",
+      "word": "振粛"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da0d56b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "làm héo; tai họa"
+        }
+      ],
+      "mobileId": 150823,
+      "phonetic": "",
+      "word": "粛殺"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd966c3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây bụi có gai"
+        }
+      ],
+      "mobileId": 14568,
+      "phonetic": "いばら",
+      "synsets": [
+        {
+          "base_form": "茨",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "刺",
+                "荊",
+                "とげ",
+                "棘",
+                "荊棘"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "茨"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e4dd63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "thorny"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "miserable"
+        }
+      ],
+      "mobileId": 280077,
+      "phonetic": "いばらだらけ イバラだらけ",
+      "word": "茨だらけ"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd968a03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng rào gai"
+        }
+      ],
+      "mobileId": 14570,
+      "phonetic": "いばらかき",
+      "word": "茨垣"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd96a118",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một vương miện (của) những gai góc"
+        }
+      ],
+      "mobileId": 14572,
+      "phonetic": "いばらのかんむり",
+      "word": "茨の冠"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd96a995",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường (dẫn) có gai"
+        }
+      ],
+      "mobileId": 14573,
+      "phonetic": "いばらのみち",
+      "word": "茨の道"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abdbc6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Smilax china (species of sarsaparilla)"
+        }
+      ],
+      "mobileId": 229482,
+      "phonetic": "さるとりいばら サルトリイバラ",
+      "word": "猿捕茨"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ae0cc8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "widower, divorced man not remarried"
+        }
+      ],
+      "mobileId": 278271,
+      "phonetic": "やもめ",
+      "word": "鰥"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801455675",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鰥寡（男やもめ）がだらしないのはよく言われていることだ",
+              "mean": "Người ta thường nói những người góa vợ sống rất bừa bãi, không gọn gàng",
+              "transcription": "鰥寡 （おとこやもめ）がだらしないのはよくいわれていることだ"
+            },
+            {
+              "content": "その鰥寡は再婚したいと思っていない",
+              "mean": "bà góa đó không muốn đi bước nữa (tái hôn) .",
+              "transcription": "その鰥寡はさいこんしたいとおもっていない"
+            }
+          ],
+          "kind": "n",
+          "mean": "người cô quả; bà góa; phụ nữ góa chồng; đàn ông góa vợ; người góa vợ; người góa chồng"
+        }
+      ],
+      "mobileId": 42934,
+      "phonetic": "かんか",
+      "related_words": {
+        "word": [
+          "寡"
+        ]
+      },
+      "word": "鰥寡"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd79a6af",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người góa vợ"
+        }
+      ],
+      "mobileId": 72622,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "夫"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鰥夫",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "寡",
+                "男やもめ",
+                "寡男"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鰥夫"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939da77e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "với không ai ở trên người mà tới phụ thuộc; nói ra cảnh cô đơn"
+        }
+      ],
+      "mobileId": 22928,
+      "phonetic": "",
+      "word": "鰥寡孤独"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

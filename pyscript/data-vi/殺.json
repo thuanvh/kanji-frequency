@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2b597e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giết; giết; đồ tể; lạng mỏng bên ngoài; chia ra từng phần; diminish; giảm bớt; thối, ươn"
+        }
+      ],
+      "mobileId": 147102,
+      "opposite_word": [
+        "生"
+      ],
+      "phonetic": "さつ",
+      "word": "殺"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95164e12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gấp hai chơi"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "death by shooting"
+        }
+      ],
+      "mobileId": 56819,
+      "phonetic": "おもや",
+      "related_words": {
+        "word": [
+          "重"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "重殺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ゲッツー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "重殺"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da0d56b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "làm héo; tai họa"
+        }
+      ],
+      "mobileId": 150823,
+      "phonetic": "",
+      "word": "粛殺"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08e4978",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "obliteration, annihilation"
+        }
+      ],
+      "mobileId": 211415,
+      "phonetic": "めっさつ",
+      "word": "滅殺"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c33419",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sparing life and taking life, letting live and killing"
+        }
+      ],
+      "mobileId": 262524,
+      "phonetic": "せいさつ",
+      "word": "生殺"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0128447",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "deadly curse"
+        }
+      ],
+      "mobileId": 281550,
+      "phonetic": "じゅさつ",
+      "word": "呪殺"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd821a77",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự rủ rê giết chóc"
+        }
+      ],
+      "mobileId": 72920,
+      "phonetic": "",
+      "word": "誘殺"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b23bdd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "way of murdering, killing method, way of using a sword"
+        }
+      ],
+      "mobileId": 278412,
+      "phonetic": "さっぽう",
+      "word": "殺法"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e807acb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "(bóng chày) ép cầu thủ, khiến cầu thủ phải ra ngoài sân"
+        }
+      ],
+      "mobileId": 33739,
+      "phonetic": "きょうや",
+      "word": "挟殺"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d57297c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "culling"
+        }
+      ],
+      "mobileId": 217884,
+      "phonetic": "さつしょぶん",
+      "word": "殺処分"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

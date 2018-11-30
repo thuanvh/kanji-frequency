@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3238c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xóa một bột bánh"
+        }
+      ],
+      "mobileId": 112630,
+      "phonetic": "だつさんしん",
+      "word": "奪三振"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0ded5157",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự lấn chiếm, sự chiếm đoạt, sự cướp đoạt"
+        }
+      ],
+      "mobileId": 153315,
+      "phonetic": "",
+      "word": "侵奪"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf6e69c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự lạm tiêu, sự biển thủ, sự tham ô"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự biển thủ, sự tham ô"
+        }
+      ],
+      "mobileId": 17594,
+      "phonetic": "よこだつ",
+      "related_words": {
+        "word": [
+          "横"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "横奪",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "横領",
+                "着服"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "窃取",
+                "盗み",
+                "横領",
+                "横取り",
+                "着服",
+                "窃盗",
+                "泥坊",
+                "失敬",
+                "窃盗罪",
+                "略奪",
+                "泥棒",
+                "偸盗",
+                "掠奪"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "横奪"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e315447",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "cách công cụ"
+        }
+      ],
+      "mobileId": 112599,
+      "phonetic": "だつかく",
+      "related_words": {
+        "word": [
+          "格"
+        ]
+      },
+      "word": "奪格"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f91fd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ablative absolute"
+        }
+      ],
+      "mobileId": 280735,
+      "phonetic": "ぜったいだつかく",
+      "word": "絶対奪格"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e324556",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(mùa có) ghi người nắm giữ bên trong (cho) đa số các cuộc bãi công - outs"
+        }
+      ],
+      "mobileId": 112631,
+      "phonetic": "だつさんしんおう",
+      "word": "奪三振王"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

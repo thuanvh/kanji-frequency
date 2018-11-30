@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0080df1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "shipping (by sea or air)"
+        }
+      ],
+      "mobileId": 281218,
+      "phonetic": "こうそう",
+      "word": "航送"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bd52d01",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "time machine"
+        }
+      ],
+      "mobileId": 246640,
+      "phonetic": "こうじき",
+      "word": "航時機"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d7da13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đi thuyền buồm phía bắc"
+        }
+      ],
+      "mobileId": 6886,
+      "phonetic": "きたこう",
+      "word": "北航"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952cff65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đi ngược dòng"
+        }
+      ],
+      "mobileId": 57521,
+      "phonetic": "うえわたる",
+      "related_words": {
+        "word": [
+          "上"
+        ]
+      },
+      "word": "上航"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada725654",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đi thuyền về phía nam ."
+        }
+      ],
+      "mobileId": 78888,
+      "phonetic": "なんこう",
+      "related_words": {
+        "word": [
+          "南"
+        ]
+      },
+      "word": "南航"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda8056c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "kéo mạnh; sự dắt"
+        }
+      ],
+      "mobileId": 15119,
+      "phonetic": "",
+      "word": "引航"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca069ffd9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "foreign voyage, outward voyage"
+        }
+      ],
+      "mobileId": 284356,
+      "phonetic": "がいこう",
+      "word": "外航"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada12a2d8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "内航海運業",
+              "mean": "ngành hàng hải nội địa",
+              "transcription": "うちこうかいうんぎょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "Đường cảng trong nước"
+        }
+      ],
+      "mobileId": 77192,
+      "phonetic": "ないこう",
+      "word": "内航"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e955479",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "về hướng đông"
+        }
+      ],
+      "mobileId": 115796,
+      "phonetic": "ひがしこう",
+      "related_words": {
+        "word": [
+          "東"
+        ]
+      },
+      "word": "東航"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0168fc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vi",
+          "mean": "to voyage"
+        }
+      ],
+      "mobileId": 189871,
+      "phonetic": "こうする",
+      "word": "航する"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

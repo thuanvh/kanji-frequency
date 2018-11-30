@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8e05e20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trầm tư cô đơn"
+        }
+      ],
+      "mobileId": 40713,
+      "phonetic": "",
+      "word": "孤愁"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d99b66b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự than khóc, lời than van"
+        }
+      ],
+      "mobileId": 150599,
+      "phonetic": "",
+      "word": "愁歎"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cd373e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sad thought, depressing reflection"
+        }
+      ],
+      "mobileId": 262843,
+      "phonetic": "あんしゅう",
+      "word": "暗愁"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

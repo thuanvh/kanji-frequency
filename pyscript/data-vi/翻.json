@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d12c87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one double"
+        }
+      ],
+      "mobileId": 279448,
+      "phonetic": "イーファン",
+      "word": "一翻"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c3db9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "reprinting, reissuing"
+        }
+      ],
+      "mobileId": 279009,
+      "phonetic": "ほんいん",
+      "word": "翻印"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68df66b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự chuyển chữ, bản chuyển chữ"
+        }
+      ],
+      "mobileId": 7117,
+      "phonetic": "こぼしじ",
+      "word": "翻字"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d191d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "value honor, round wind, seat wind, and dragon tiles"
+        }
+      ],
+      "mobileId": 279460,
+      "phonetic": "ファンパイ",
+      "word": "翻牌"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e06457",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "(hiếm có) quay lộn ngược"
+        }
+      ],
+      "mobileId": 7146,
+      "phonetic": "",
+      "word": "翻倒"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bc69d1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "transcription"
+        }
+      ],
+      "mobileId": 246175,
+      "phonetic": "ほんおん",
+      "word": "翻音"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f99a6c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fickle friendship"
+        }
+      ],
+      "mobileId": 214918,
+      "phonetic": "ほんうんふくう",
+      "word": "翻雲覆雨"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c080fc5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "somersault"
+        }
+      ],
+      "mobileId": 210994,
+      "phonetic": "もんどり もどり",
+      "word": "翻筋斗"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc63b8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ván thứ hai (chơi bài trung hoa)"
+        }
+      ],
+      "mobileId": 75142,
+      "phonetic": "にこぼしやく",
+      "word": "二翻役"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0d1b45",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá thái dương"
+        }
+      ],
+      "mobileId": 69208,
+      "phonetic": "こぼししゃぎょ",
+      "related_words": {
+        "word": [
+          "車",
+          "魚"
+        ]
+      },
+      "word": "翻車魚"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

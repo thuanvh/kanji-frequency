@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c44698",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf, ctr",
+          "mean": "counter for rules"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rule, regulation"
+        }
+      ],
+      "mobileId": 270806,
+      "phonetic": "そく",
+      "word": "則"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84b9cb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiêu chuẩn; cai trị"
+        }
+      ],
+      "mobileId": 35922,
+      "phonetic": "のりそく",
+      "word": "矩則"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d6db23",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dormitory rules"
+        }
+      ],
+      "mobileId": 279643,
+      "phonetic": "りょうそく",
+      "word": "寮則"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada07fdbc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quy tắc ."
+        }
+      ],
+      "mobileId": 77027,
+      "phonetic": "てんそく",
+      "related_words": {
+        "word": [
+          "典"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "典則",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "法令",
+                "規定",
+                "準則",
+                "掟",
+                "準縄",
+                "決め",
+                "規律",
+                "定め",
+                "法則",
+                "規準",
+                "規則",
+                "ルール",
+                "法",
+                "約束"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "法令",
+                "規程",
+                "格",
+                "戒律",
+                "原則",
+                "規定",
+                "準則",
+                "掟",
+                "規格",
+                "定規",
+                "会則",
+                "律",
+                "規律",
+                "定め",
+                "法則",
+                "規準",
+                "規則",
+                "ルール",
+                "本則",
+                "規制",
+                "法"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "典則"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193bf84c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quy tắc chung; nguyên lý chung"
+        }
+      ],
+      "mobileId": 23980,
+      "phonetic": "がいそく",
+      "word": "概則"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca034b060",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fair and equitable principle"
+        }
+      ],
+      "mobileId": 282644,
+      "phonetic": "しんぎそく",
+      "word": "信義則"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820d815f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(in China) 9th note of the ancient chromatic scale (approx. A sharp)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "seventh lunar month"
+        }
+      ],
+      "mobileId": 232077,
+      "phonetic": "いそく",
+      "word": "夷則"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107427dd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "luật Trời ."
+        }
+      ],
+      "mobileId": 52930,
+      "phonetic": "てんそく",
+      "related_words": {
+        "word": [
+          "天"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "天則",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "法則"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "天則"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca078796c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "power law"
+        }
+      ],
+      "mobileId": 284809,
+      "phonetic": "べきじょうそく",
+      "word": "冪乗則"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d12d4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hiến dâng không ích kỷ tới công lý"
+        }
+      ],
+      "mobileId": 62778,
+      "phonetic": "のりてんさわたし",
+      "word": "則天去私"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,217 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa76d239e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "学校に通いながらアルバイトをする",
+              "mean": "vừa đi học vừa đi làm thêm",
+              "transcription": "がっこうにかよいながらアルバイトをする"
+            },
+            {
+              "content": "政界の情報通",
+              "mean": "Nhà phê bình chính trị",
+              "transcription": "せいかいのじょうほうどおり"
+            }
+          ],
+          "kind": "adj-na, n-suf",
+          "mean": "bức"
+        }
+      ],
+      "mobileId": 108546,
+      "phonetic": "つう",
+      "related_words": {
+        "word": [
+          "通常",
+          "普通",
+          "通信",
+          "通り",
+          "通知",
+          "通訳",
+          "普通預金",
+          "通信販売",
+          "通関",
+          "通路"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "通",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "遊び人"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "通"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8a21eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một bộ sao chép (tài liệu)"
+        }
+      ],
+      "mobileId": 14169,
+      "phonetic": "いっ つう",
+      "related_words": {
+        "word": [
+          "一",
+          "通"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "一通",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "人並",
+                "人並み"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "一通"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02480f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "marriage"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "intermarriage"
+        }
+      ],
+      "mobileId": 282110,
+      "phonetic": "つうこん",
+      "word": "通婚"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d90854f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "having good knowledge of a certain matter, person who has good knowledge of a certain matter, informed source"
+        }
+      ],
+      "mobileId": 219743,
+      "phonetic": "じじょうつう",
+      "word": "事情通"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bc07e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thịnh vượng, phát đạt, phồn vinh, thành công, thuận, thuận lợi"
+        }
+      ],
+      "mobileId": 39511,
+      "phonetic": "とおるどおり",
+      "word": "亨通"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e866fcdc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đàn ông làm thơ trong những quan hệ quân đội"
+        }
+      ],
+      "mobileId": 36802,
+      "phonetic": "ぐんじどおり",
+      "word": "軍事通"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca047e2b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gourmet, gastronome"
+        }
+      ],
+      "mobileId": 283268,
+      "phonetic": "りょうりつう",
+      "word": "料理通"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d5e6989",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "2 bức (thư)"
+        }
+      ],
+      "mobileId": 143073,
+      "phonetic": "につう",
+      "word": "二通"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95b8d4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ferry boat, barge"
+        }
+      ],
+      "mobileId": 259237,
+      "phonetic": "つうせん",
+      "word": "通船"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a1b8f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự thâm nhập"
+        }
+      ],
+      "mobileId": 61256,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "通"
+        ]
+      },
+      "word": "穿通"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

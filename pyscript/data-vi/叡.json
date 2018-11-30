@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd618f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thừa nhận của vua; sự khen ngợi của vua"
+        }
+      ],
+      "mobileId": 16546,
+      "phonetic": "あきらかん",
+      "word": "叡感"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd945b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiếu chỉ"
+        }
+      ],
+      "mobileId": 16636,
+      "phonetic": "あきらむね",
+      "related_words": {
+        "word": [
+          "旨"
+        ]
+      },
+      "word": "叡旨"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8931fb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "liên quan đến, có quan hệ"
+        }
+      ],
+      "mobileId": 38201,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "連"
+        ]
+      },
+      "word": "牽連"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88f2106",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự kiềm chế(thì) chỉ riêng được hút trong cái gì đó"
+        }
+      ],
+      "mobileId": 38074,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "束"
+        ]
+      },
+      "word": "牽束"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

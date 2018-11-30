@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280274c51a2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "つんぼになる",
+              "mean": "Thành kẻ điếc",
+              "transcription": "つんぼになる"
+            },
+            {
+              "content": "つんぼさじきに置かれる",
+              "mean": "Bị trở thành kẻ điếc (Bị không cho biết mọi chuyện) .",
+              "transcription": "つんぼさじきにおかれる"
+            }
+          ],
+          "kind": "n",
+          "mean": "Sự điếc; kẻ điếc"
+        }
+      ],
+      "mobileId": 30404,
+      "phonetic": "つんぼ",
+      "related_words": {
+        "word": [
+          "聾唖"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "聾",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "聾唖",
+                "難聴"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "聾"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdecb3ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trường dành cho người điếc"
+        }
+      ],
+      "mobileId": 76307,
+      "phonetic": "つんぼがっこう",
+      "related_words": {
+        "word": [
+          "学校",
+          "校",
+          "聾"
+        ]
+      },
+      "word": "聾学校"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06268e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "total deafness"
+        }
+      ],
+      "mobileId": 284116,
+      "phonetic": "ぜんろう",
+      "word": "全聾"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

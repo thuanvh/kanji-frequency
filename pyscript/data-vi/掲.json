@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed952c4f73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "nêu trên, đề cập ở trên"
+        }
+      ],
+      "mobileId": 57500,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "上"
+        ]
+      },
+      "word": "上掲"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d22f56c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Các dự án được liệt kê là một chủ đề. Nó được sử dụng để đề cập đến tiêu đề của tài liệu hoặc vấn đề được mô tả trong chủ đề của e-mail."
+        }
+      ],
+      "mobileId": 216224,
+      "phonetic": "けいだいのけん",
+      "word": "掲題の件"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

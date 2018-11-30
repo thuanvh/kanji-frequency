@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca070b1f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sage, wise man, philosopher, disciple"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "sagacity, wisdom, intelligence"
+        }
+      ],
+      "mobileId": 284570,
+      "phonetic": "てつ",
+      "word": "哲"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d3b8313",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Triết học Trung hoa ."
+        }
+      ],
+      "mobileId": 142406,
+      "phonetic": "ちゅうてつ",
+      "word": "中哲"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdaae4ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "triết học ấn độ"
+        }
+      ],
+      "mobileId": 15214,
+      "phonetic": "しるしあきら",
+      "word": "印哲"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b62fba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những cựu người đàn ông (của) tính khôn ngoan và sự trinh tiết"
+        }
+      ],
+      "mobileId": 61894,
+      "phonetic": "ぜんあきら",
+      "word": "前哲"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9508dd62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mười môn đệ của thi nhân Basho; mười môn đệ của Khổng Tử"
+        }
+      ],
+      "mobileId": 56401,
+      "phonetic": "じゅうあきら",
+      "related_words": {
+        "word": [
+          "十"
+        ]
+      },
+      "word": "十哲"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca070b3e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "ten disciples of Confucius"
+        }
+      ],
+      "mobileId": 284572,
+      "phonetic": "こうもんのじってつ",
+      "word": "孔門の十哲"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

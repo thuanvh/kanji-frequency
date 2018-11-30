@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d465fc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf, n",
+          "mean": "history"
+        }
+      ],
+      "mobileId": 217337,
+      "phonetic": "し",
+      "related_words": {
+        "word": [
+          "歴史",
+          "世界史",
+          "歴史的",
+          "日本史",
+          "歴史的な",
+          "歴史上",
+          "歴史学",
+          "史上",
+          "正史",
+          "史料"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "史",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "由縁",
+                "物語",
+                "過去",
+                "前歴",
+                "ストーリー",
+                "沿革",
+                "来歴",
+                "故事",
+                "由来",
+                "因縁",
+                "由緒",
+                "歴史",
+                "素性",
+                "謂れ",
+                "経緯",
+                "履歴"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "歴史"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "史乗",
+                "歴史"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "史"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82ba927",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lịch sử hiện đại"
+        }
+      ],
+      "mobileId": 34897,
+      "phonetic": "きんだいし",
+      "related_words": {
+        "word": [
+          "代",
+          "近代",
+          "史"
+        ]
+      },
+      "word": "近代史"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00bd430",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "life cycle, life history"
+        }
+      ],
+      "mobileId": 281346,
+      "phonetic": "せいかつし",
+      "word": "生活史"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca030b56d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "local history"
+        }
+      ],
+      "mobileId": 282508,
+      "phonetic": "ちほうし",
+      "word": "地方史"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19320aee3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lịch sử âm nhạc"
+        }
+      ],
+      "mobileId": 18975,
+      "phonetic": "おんがくし",
+      "related_words": {
+        "word": [
+          "音楽",
+          "楽",
+          "音",
+          "史"
+        ]
+      },
+      "word": "音楽史"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95460988",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lịch sử (của) văn minh"
+        }
+      ],
+      "mobileId": 58315,
+      "phonetic": "じんぶんし",
+      "related_words": {
+        "word": [
+          "人",
+          "文",
+          "史"
+        ]
+      },
+      "word": "人文史"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc541e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lịch sử bí mật"
+        }
+      ],
+      "mobileId": 75109,
+      "phonetic": "りめんし",
+      "related_words": {
+        "word": [
+          "裏",
+          "面",
+          "裏面",
+          "史"
+        ]
+      },
+      "word": "裏面史"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db7ac41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lịch sử thương mại"
+        }
+      ],
+      "mobileId": 151563,
+      "phonetic": "しょうぎょうし",
+      "related_words": {
+        "word": [
+          "業",
+          "商業",
+          "商",
+          "史"
+        ]
+      },
+      "word": "商業史"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280273d73f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lịch sử nghệ thuật ."
+        }
+      ],
+      "mobileId": 30126,
+      "phonetic": "びじゅつし",
+      "word": "美術史"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9a7f91",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lịch sử phương đông"
+        }
+      ],
+      "mobileId": 115967,
+      "phonetic": "とうようし",
+      "word": "東洋史"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

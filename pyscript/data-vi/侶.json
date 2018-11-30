@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900eabd7a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bạn; người theo"
+        }
+      ],
+      "mobileId": 116541,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "僧侶",
+          "伴侶"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "侶",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "伴",
+                "従者",
+                "宗徒",
+                "信徒",
+                "随行",
+                "フロア"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "伴",
+                "同侶",
+                "交友",
+                "僚",
+                "コンパニオン",
+                "仲間",
+                "連れ",
+                "相手",
+                "傍輩",
+                "同士",
+                "供人",
+                "伴侶",
+                "侶伴",
+                "同伴者",
+                "お供"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "侶"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec08780",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bạn"
+        }
+      ],
+      "mobileId": 117194,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "同",
+          "侶"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "同侶",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "伴",
+                "交友",
+                "僚",
+                "侶",
+                "コンパニオン",
+                "仲間",
+                "連れ",
+                "相手",
+                "傍輩",
+                "同士",
+                "供人",
+                "伴侶",
+                "侶伴",
+                "同伴者",
+                "お供"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "同侶"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd4deea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bạn"
+        }
+      ],
+      "mobileId": 75573,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "侶",
+          "伴"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "侶伴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "常連",
+                "仲間",
+                "同士"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "伴",
+                "同侶",
+                "交友",
+                "僚",
+                "侶",
+                "コンパニオン",
+                "仲間",
+                "連れ",
+                "相手",
+                "傍輩",
+                "同士",
+                "供人",
+                "伴侶",
+                "同伴者",
+                "お供"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "侶伴"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

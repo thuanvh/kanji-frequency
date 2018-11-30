@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1070ba489",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "乾性耳垢",
+              "mean": "dáy tai khô",
+              "transcription": "かんせいみみあか"
+            },
+            {
+              "content": "歯垢",
+              "mean": "Bựa răng, mảng bám răng",
+              "transcription": "はあか"
+            },
+            {
+              "content": "耳垢",
+              "mean": "Ráy tai, dáy tai",
+              "transcription": "みみあか"
+            }
+          ],
+          "kind": "n",
+          "mean": "cặn; cáu bẩn (ở trong nước)"
+        },
+        {
+          "examples": [
+            {
+              "content": "足指の間にたまる垢",
+              "mean": "ghét kẽ chân",
+              "transcription": "あしゆびのまにたまるあか"
+            },
+            {
+              "content": "爪の垢",
+              "mean": "Ghét (bẩn) móng tay .",
+              "transcription": "つめのあか"
+            }
+          ],
+          "kind": "n",
+          "mean": "ghét (bẩn từ da dẻ)"
+        }
+      ],
+      "mobileId": 52072,
+      "phonetic": "あか",
+      "related_words": {
+        "word": [
+          "無垢",
+          "歯垢",
+          "耳垢",
+          "恥垢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "垢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "汚物",
+                "汚れ",
+                "不浄"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "垢"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f917c54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bựa răng ."
+        }
+      ],
+      "mobileId": 187290,
+      "phonetic": "しこう",
+      "related_words": {
+        "word": [
+          "歯",
+          "垢"
+        ]
+      },
+      "word": "歯垢"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1070ba87d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "Trở nên dơ bẩn ."
+        }
+      ],
+      "mobileId": 52073,
+      "phonetic": "あかじみる",
+      "word": "垢染みる"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822d1444",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "smegma"
+        }
+      ],
+      "mobileId": 233060,
+      "phonetic": "ちこう",
+      "related_words": {
+        "word": [
+          "恥",
+          "垢"
+        ]
+      },
+      "word": "恥垢"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca041f03f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "substitute account, second account, alternative account"
+        }
+      ],
+      "mobileId": 283080,
+      "phonetic": "サブあか サブアカ",
+      "word": "サブ垢"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680114c7f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gàu (trên da đầu) ."
+        }
+      ],
+      "mobileId": 42114,
+      "phonetic": "ふけ",
+      "related_words": {
+        "word": [
+          "頭",
+          "垢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "頭垢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "雲脂"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "頭垢"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027480078",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "cứt ráy"
+        },
+        {
+          "examples": [
+            {
+              "content": "耳垢分泌過剰",
+              "mean": "Tiết ra quá nhiều ráy tai",
+              "transcription": "みみあかぶんぴつかじょう"
+            },
+            {
+              "content": "耳垢を分泌する",
+              "mean": "Tiết ra cứt ráy .",
+              "transcription": "みみあかをぶんぴつする"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "ráy tai"
+        }
+      ],
+      "mobileId": 30321,
+      "phonetic": "みみあか",
+      "related_words": {
+        "word": [
+          "耳",
+          "垢"
+        ]
+      },
+      "word": "耳垢"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd3df3ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dịch nhầy từ mắt; ghét bụi ở mắt; ghèn mắt"
+        }
+      ],
+      "mobileId": 70768,
+      "phonetic": "めあか",
+      "word": "目垢"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e021fc2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "scrubbing, getting grime off"
+        }
+      ],
+      "mobileId": 248071,
+      "phonetic": "あかすり",
+      "word": "垢すり"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fa1b75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vaginal smear"
+        }
+      ],
+      "mobileId": 272574,
+      "phonetic": "ちつこう",
+      "word": "膣垢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6823fd96",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khoảng cách lớn; suốt dọc đường; từ xa"
+        }
+      ],
+      "mobileId": 1146,
+      "phonetic": "はるかはるか",
+      "word": "遥遥"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6823f513",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "từ xa; qua một khoảng cách lớn; suốt dọc đường"
+        }
+      ],
+      "mobileId": 1145,
+      "phonetic": "はるか々",
+      "word": "遥々"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

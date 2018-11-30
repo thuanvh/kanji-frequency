@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af264fb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "縦笛に息を吹き込む",
+              "mean": "thổi vào sáo",
+              "transcription": "たてふえにいきをふきこむ"
+            },
+            {
+              "content": "縦笛に息を吹き込む",
+              "mean": "thổi vào sáo",
+              "transcription": "たてふえにいきをふきこむ"
+            },
+            {
+              "content": "確かなものを捨てて運に頼る者は、道化師の笛に合わせて踊るが良い。",
+              "mean": "anh ta nhất định từ bỏ và phó mặc cho số phận, nhưng khi người ta thổi sáo thì có thể anh ta lại muốn nhảy theo.",
+              "transcription": "たしかなものをすててうんにたよるものは、どうけしのふえにあわせておどるがよい。"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái còi; cái sáo"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "còi"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ống sáo"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sáo ."
+        }
+      ],
+      "mobileId": 174279,
+      "phonetic": "ふえ",
+      "related_words": {
+        "word": [
+          "口笛",
+          "警笛",
+          "汽笛",
+          "角笛",
+          "鼓笛隊",
+          "霧笛"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "笛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "警笛"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "チューブ",
+                "管",
+                "導管",
+                "筒",
+                "パイプ",
+                "煙管"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "フルート"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "口笛",
+                "汽笛",
+                "ちんちん"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "笛"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e286049",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bamboo flute used in Qing music"
+        }
+      ],
+      "mobileId": 249326,
+      "phonetic": "しんてき",
+      "word": "清笛"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77868f80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "longspine snipefish (Macroramphosus scolopax), common bellowsfish, snipe-fish, snipefish, spine trumpet fish, trumpetfish"
+        }
+      ],
+      "mobileId": 268825,
+      "phonetic": "さぎふえ サギフエ",
+      "word": "鷺笛"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820d2e97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pitch pipe"
+        }
+      ],
+      "mobileId": 232065,
+      "phonetic": "ちょうしぶえ",
+      "word": "調子笛"
+    },
+    {
+      "_id": "432518852de0a80625d585a9823fc773",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Korean flute (horizontal bamboo flute with six holes; highest-pitched flute used in gagaku)"
+        }
+      ],
+      "mobileId": 233643,
+      "phonetic": "こまぶえ",
+      "word": "高麗笛"
+    },
+    {
+      "_id": "432518852de0a80625d585a9823fd52f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dragon flute (medium-pitched bamboo transverse flute with seven-holes)"
+        }
+      ],
+      "mobileId": 233644,
+      "phonetic": "りゅうてき りょうてき",
+      "word": "竜笛"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af15151",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trúc ."
+        }
+      ],
+      "mobileId": 174255,
+      "phonetic": "たけぶえ",
+      "word": "竹笛"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02af0d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sea whistle, sound made by a traditional diver when returning to shore"
+        }
+      ],
+      "mobileId": 282319,
+      "phonetic": "いそぶえ",
+      "word": "磯笛"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821e0a1e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kagura flute (six-holed horizontal flute)"
+        }
+      ],
+      "mobileId": 232578,
+      "phonetic": "かぐらぶえ",
+      "word": "神楽笛"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c1fa8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Edo-period mouth harp (with a hairpin-like frame and a long straight tongue)"
+        }
+      ],
+      "mobileId": 213097,
+      "phonetic": "びやぼん",
+      "word": "琵琶笛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

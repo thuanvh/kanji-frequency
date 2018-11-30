@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900eff7350",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bong ra; tách ra; được mang ra khỏi; mờ dần; discolor"
+        }
+      ],
+      "mobileId": 119168,
+      "phonetic": "",
+      "word": "剥"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca007d868",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scrawled filefish (Aluterus scriptus)"
+        }
+      ],
+      "mobileId": 281211,
+      "phonetic": "そうしはぎ ソウシハギ",
+      "word": "草紙剥"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68af756a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vt",
+          "mean": "ăn cắp vặt"
+        }
+      ],
+      "mobileId": 5592,
+      "phonetic": "へずる, へつる, むくる,",
+      "word": "剥る"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9553c4ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "miếng mỏng thịt hoặc cá"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "peeping"
+        }
+      ],
+      "mobileId": 58765,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "身"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "剥身",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "切り身",
+                "一片",
+                "スライス",
+                "切れ",
+                "ピース",
+                "切身",
+                "一切れ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "剥身"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df4d529",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "namahage, folklore demons of the Oga Peninsula (villagers dress up as them on New Year's Eve and frighten children)"
+        }
+      ],
+      "mobileId": 223044,
+      "phonetic": "なまはげ ナマハゲ",
+      "word": "生剥"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95540afb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "món Sukiyaki"
+        }
+      ],
+      "mobileId": 58773,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "剥焼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "寿喜焼",
+                "鋤焼き"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "剥焼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77843d85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unicorn leatherjacket (Aluterus monoceros)"
+        }
+      ],
+      "mobileId": 268747,
+      "phonetic": "うすばはぎ ウスバハギ",
+      "word": "薄葉剥"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d87556e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "black scraper fish (Novodon modestus)"
+        }
+      ],
+      "mobileId": 219444,
+      "phonetic": "うまづらはぎ",
+      "word": "馬面剥"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a956b0ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "middle dot (typographical symbol used between parallel terms, names in katakana, etc.), full-stop mark at mid-character height, interpoint (interword separation)"
+        }
+      ],
+      "mobileId": 259074,
+      "phonetic": "なかぽつ なかポツ",
+      "word": "・"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68081689",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miếng; lát mỏng"
+        }
+      ],
+      "mobileId": 258,
+      "phonetic": "",
+      "word": "剥片"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

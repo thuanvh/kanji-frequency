@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee22d51",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự làm giả, đồ giả; giả"
+        }
+      ],
+      "mobileId": 118242,
+      "opposite_word": [
+        "真"
+      ],
+      "phonetic": "にせ",
+      "related_words": {
+        "word": [
+          "贋作",
+          "贋物",
+          "真贋"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "贋",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "模写",
+                "複写",
+                "贋物",
+                "リプリケーション",
+                "写し",
+                "模造",
+                "レプリカ",
+                "偽物",
+                "複製",
+                "副書"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "如何様",
+                "偽",
+                "フェイク",
+                "贋物",
+                "まやかし",
+                "天麩羅",
+                "インチキ",
+                "贋作",
+                "偽物",
+                "偽作",
+                "如何物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "贋造",
+                "変造",
+                "偽",
+                "偽書",
+                "贋物",
+                "捏造",
+                "偽物",
+                "擬製",
+                "偽作",
+                "偽造罪",
+                "偽本",
+                "偽造"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "贋"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee2341c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con dấu giả"
+        }
+      ],
+      "mobileId": 118243,
+      "phonetic": "にせしるし",
+      "related_words": {
+        "word": [
+          "印",
+          "贋"
+        ]
+      },
+      "word": "贋印"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee264af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bức thư giả mạo, bức thư giả danh"
+        }
+      ],
+      "mobileId": 118247,
+      "phonetic": "にせてがみ",
+      "related_words": {
+        "word": [
+          "紙",
+          "手",
+          "手紙",
+          "贋"
+        ]
+      },
+      "word": "贋手紙"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1f8106",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "black locust, robinia pseudoacacia"
+        }
+      ],
+      "mobileId": 216120,
+      "phonetic": "にせアカシア ニセアカシア",
+      "word": "贋アカシア"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

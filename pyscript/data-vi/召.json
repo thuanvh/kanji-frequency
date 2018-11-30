@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db2e706",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gọi; nhắn cho; sự mặc; mang; bắt (ngấm) (một tắm); cưỡi bên trong; mua; ăn; uống; bắt (một lạnh)"
+        }
+      ],
+      "mobileId": 151409,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "召還",
+          "召喚",
+          "召使",
+          "召集",
+          "召す",
+          "召喚状",
+          "召集する"
+        ]
+      },
+      "word": "召"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db79ba2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "death (of a Christian)"
+        }
+      ],
+      "mobileId": 221048,
+      "phonetic": "しょうてん",
+      "word": "召天"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dbf080d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gọi cùng nhau; sự mời"
+        }
+      ],
+      "mobileId": 151805,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "召"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "召請",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "招請",
+                "招待",
+                "招致",
+                "招待状",
+                "勧誘",
+                "誘い",
+                "招き"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "召請"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc6dbb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gọi; tiên đoán sự gọi"
+        }
+      ],
+      "mobileId": 152063,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "命",
+          "召"
+        ]
+      },
+      "word": "召命"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

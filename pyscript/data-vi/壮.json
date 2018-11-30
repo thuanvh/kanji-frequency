@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf9b0e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "vibrancy, strength, bravery, manliness"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(esp. of men) one's prime (approx. age 30)"
+        }
+      ],
+      "mobileId": 247799,
+      "phonetic": "そう",
+      "word": "壮"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada535bb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "hùng tráng ."
+        }
+      ],
+      "mobileId": 78373,
+      "phonetic": "ゆうそう",
+      "related_words": {
+        "word": [
+          "勇"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勇壮",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "大胆",
+                "健気",
+                "不敵",
+                "凛凛しい",
+                "壮絶",
+                "勇邁",
+                "勇ましい",
+                "甲斐甲斐しい",
+                "壮烈"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "勇壮"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d9dc191",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "heroic words, big talk, boasting, bragging, grandiloquence, rodomontade"
+        }
+      ],
+      "mobileId": 220179,
+      "phonetic": "そうげんたいご",
+      "word": "壮言大語"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ca4dcd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r",
+          "mean": "say mê (chấp nhận (của)) một sự can đảm những người"
+        }
+      ],
+      "mobileId": 62547,
+      "phonetic": "たけしとする",
+      "word": "壮とする"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

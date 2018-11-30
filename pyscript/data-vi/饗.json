@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e31c2e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "treating someone (to food or drink), entertaining someone (as one's guest)"
+        }
+      ],
+      "mobileId": 249629,
+      "phonetic": "きょう あえ",
+      "word": "饗"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e31bcc2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "entertaining someone as one's guest"
+        }
+      ],
+      "mobileId": 249628,
+      "phonetic": "あるじもうけ",
+      "word": "饗設け"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8098a73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vt",
+          "mean": "sự đãi, sự thết đãi, sự chiêu đãi"
+        }
+      ],
+      "mobileId": 33798,
+      "phonetic": "きょうする",
+      "word": "饗する"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7764c858",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "large banquet"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "court banquet (Heian period)"
+        }
+      ],
+      "mobileId": 267717,
+      "phonetic": "たいきょう おおあえ",
+      "word": "大饗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

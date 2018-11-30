@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af18ff9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cần; trục; cành ."
+        }
+      ],
+      "mobileId": 174259,
+      "phonetic": "さお",
+      "related_words": {
+        "word": [
+          "釣竿",
+          "釣り竿"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "竿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ポール",
+                "棹",
+                "棒",
+                "柱"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "竿"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e67fb75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cần câu xếp, cần câu gấp"
+        }
+      ],
+      "mobileId": 114351,
+      "phonetic": "つぎさお",
+      "word": "継ぎ竿"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773ac77e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "birdlime-covered pole"
+        }
+      ],
+      "mobileId": 266365,
+      "phonetic": "とりさしざお",
+      "word": "鳥刺し竿"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d34c4a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ánh sáng ban ngày rộng"
+        }
+      ],
+      "mobileId": 147416,
+      "phonetic": "さんさお",
+      "word": "三竿"
+    },
+    {
+      "_id": "4a879669dfc9cec32da10b6c215b4c4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cần câu cá ."
+        }
+      ],
+      "mobileId": 66060,
+      "phonetic": "つりさお",
+      "word": "つり竿"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e286d49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one pole (esp. used for fishing poles), one rod"
+        }
+      ],
+      "mobileId": 249327,
+      "phonetic": "いっかん",
+      "word": "一竿"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5d8bae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chọc (chống) trên (về) treo hiệu giặt để khô đi nào"
+        }
+      ],
+      "mobileId": 71751,
+      "phonetic": "ものほしさお",
+      "related_words": {
+        "word": [
+          "物",
+          "竿",
+          "物干し"
+        ]
+      },
+      "word": "物干し竿"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d77cc4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kanto Festival (Akita)"
+        }
+      ],
+      "mobileId": 218942,
+      "phonetic": "あきたかんとうまつり",
+      "word": "秋田竿燈まつり"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e259202",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "steepness, steep place"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "harsh (look), sharp (tongue)"
+        }
+      ],
+      "mobileId": 249233,
+      "phonetic": "けん",
+      "word": "険"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be16927d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dốc núi alps"
+        }
+      ],
+      "mobileId": 90018,
+      "phonetic": "アルプスのけん",
+      "word": "アルプスの険"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7df066f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）をじろりと見る(険の有る目)",
+              "mean": "liếc ai đó với cái nhìn sắc sảo .",
+              "transcription": "（ひと）をじろりとみる(けんのあるめ)"
+            }
+          ],
+          "kind": "n",
+          "mean": "có cái nhìn sắc sảo; con mắt sắc"
+        }
+      ],
+      "mobileId": 110446,
+      "phonetic": "けんのあるめ",
+      "word": "険の有る目"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

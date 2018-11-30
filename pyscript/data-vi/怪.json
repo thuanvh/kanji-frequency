@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193288d41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bí mật; sự ngạc nhiên; sự kỳ quái"
+        }
+      ],
+      "mobileId": 19221,
+      "phonetic": "かい",
+      "word": "怪"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19334cb41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bí mật của những bí mật"
+        }
+      ],
+      "mobileId": 19605,
+      "phonetic": "あやなかのかい",
+      "word": "怪中の怪"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef997bc0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "strange tree, mysterious tree"
+        }
+      ],
+      "mobileId": 277581,
+      "phonetic": "かいぼく",
+      "word": "怪木"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193315de5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phân tích, phép phân tích, giải tích"
+        }
+      ],
+      "mobileId": 19492,
+      "phonetic": "かいせき",
+      "word": "怪石"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca062cede",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eerie yet strangely fascinating performance"
+        }
+      ],
+      "mobileId": 284128,
+      "phonetic": "かいえん",
+      "word": "怪演"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193306175",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự kiện kỳ lạ, vụ việc kỳ lạ"
+        }
+      ],
+      "mobileId": 19459,
+      "phonetic": "かいじけん",
+      "related_words": {
+        "word": [
+          "件",
+          "事",
+          "事件"
+        ]
+      },
+      "word": "怪事件"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19338c06a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "văn chương đáng bị chê trách; bài viết [tài liệu] nặc danh nói xấu hay phỉ báng"
+        }
+      ],
+      "mobileId": 19737,
+      "phonetic": "かいぶんしょ",
+      "related_words": {
+        "word": [
+          "文",
+          "文書"
+        ]
+      },
+      "word": "怪文書"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8908cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "suspicious phone call"
+        }
+      ],
+      "mobileId": 219506,
+      "phonetic": "かいでんわ",
+      "word": "怪電話"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193292cbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trận mưa lạ [có gió lốc và đem theo các vật lạ như cá]"
+        }
+      ],
+      "mobileId": 19244,
+      "phonetic": "かいう",
+      "word": "怪雨"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca066626f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mystery, strange event, mysterious affair"
+        }
+      ],
+      "mobileId": 284235,
+      "phonetic": "かいじ",
+      "related_words": {
+        "word": [
+          "事"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "怪事",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "不可思議",
+                "驚き",
+                "驚異",
+                "不思議"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "神秘",
+                "不可思議",
+                "不可解",
+                "ミステリー",
+                "はっきりしないこと",
+                "不思議"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "怪事"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

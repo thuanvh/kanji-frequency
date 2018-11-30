@@ -1,0 +1,219 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd99c7e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự làm sạch tôn giáo"
+        }
+      ],
+      "mobileId": 14671,
+      "phonetic": "とき",
+      "related_words": {
+        "word": [
+          "書斎",
+          "斎場"
+        ]
+      },
+      "word": "斎"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd98f4c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tránh, tránh xa, huỷ bỏ, thủ tiêu ; bác bỏ (lý lẽ, lời biện hộ)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tránh, xa lánh, lảng xa"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ghét, ghét cay ghét đắng; ghê tởm"
+        }
+      ],
+      "mobileId": 14643,
+      "phonetic": "ときむ",
+      "related_words": {
+        "word": [
+          "斎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "斎む",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "避ける",
+                "避く",
+                "免れる",
+                "遠ざける"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "斎む"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd619133",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tránh né xung quanh một miếu thờ"
+        }
+      ],
+      "mobileId": 12907,
+      "phonetic": "ときかき",
+      "related_words": {
+        "word": [
+          "斎",
+          "垣"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "斎垣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "生け垣",
+                "垣",
+                "生垣",
+                "垣根"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "フェンス",
+                "塀",
+                "囲い",
+                "柵",
+                "垣",
+                "垣根"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "斎垣"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9a5fc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "linh mục shinto cổ xưa gia đình,họ"
+        }
+      ],
+      "mobileId": 14689,
+      "phonetic": "ときぶ",
+      "word": "斎部"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d13e3be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngày nhanh"
+        }
+      ],
+      "mobileId": 146379,
+      "phonetic": "ときび",
+      "related_words": {
+        "word": [
+          "日",
+          "斎"
+        ]
+      },
+      "word": "斎日"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04cb1f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "carrying out (a religious festival or ceremony)"
+        }
+      ],
+      "mobileId": 283412,
+      "phonetic": "さいこう",
+      "word": "斎行"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f6f971",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "last death anniversary for which there is a memorial service held (usu. the 32nd or 49th)"
+        }
+      ],
+      "mobileId": 280660,
+      "phonetic": "あげどき",
+      "word": "揚げ斎"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770f4487",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "morning meal (for priests, monks, etc.)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "food offering at a Buddhist ceremony"
+        }
+      ],
+      "mobileId": 264945,
+      "phonetic": "さいじき",
+      "word": "斎食"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822185ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ise Shrine Offering Association (secular organization formed from Jingu-kyo in 1899; dissolved in 1946)"
+        }
+      ],
+      "mobileId": 232686,
+      "phonetic": "じんぐうほうさいかい",
+      "word": "神宮奉斎会"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770f4df6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "imperial event at which high monks recited the Golden Light Sutra to pray for national security and good harvests (held annually at the palace from the 8th to the 14th of the first lunar month, between the Nara and Muromachi periods)"
+        }
+      ],
+      "mobileId": 264946,
+      "phonetic": "ごさいえ みさいえ",
+      "word": "御斎会"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

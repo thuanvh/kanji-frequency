@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801441edb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鯉釣りをする",
+              "mean": "Câu cá chép",
+              "transcription": "こいづりをする"
+            },
+            {
+              "content": "鯉口",
+              "mean": "Miệng cá chép",
+              "transcription": "こいぐち"
+            },
+            {
+              "content": "鯉を養殖する",
+              "mean": "Nuôi cá chép",
+              "transcription": "こいをようしょくする"
+            }
+          ],
+          "kind": "n",
+          "mean": "cá chép"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chép ."
+        }
+      ],
+      "mobileId": 42916,
+      "phonetic": "こい",
+      "related_words": {
+        "word": [
+          "鯉のぼり",
+          "錦鯉",
+          "鯉幟"
+        ]
+      },
+      "word": "鯉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7783e3c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "striped mullet (Mugil cephalus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "redlip mullet (Chelon haematocheilus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Indo-Pacific tarpon (Megalops cyprinoides)"
+        }
+      ],
+      "mobileId": 268731,
+      "phonetic": "いせごい イセゴイ",
+      "word": "伊勢鯉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7787c468",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hemibarbus barbus (species of cyprinid)"
+        }
+      ],
+      "mobileId": 268862,
+      "phonetic": "にごい ニゴイ",
+      "word": "似鯉"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9cfc70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự sinh sản của cá chép"
+        }
+      ],
+      "mobileId": 73802,
+      "phonetic": "ようこい",
+      "word": "養鯉"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cf59f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "koi carp caught during the cold season"
+        }
+      ],
+      "mobileId": 262907,
+      "phonetic": "かんごい",
+      "word": "寒鯉"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0247fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "đối đầu với một thất vọng tình trạng; để quanh bị cắt đứt và không có khả năng để làm bất cứ cái gì"
+        }
+      ],
+      "mobileId": 68864,
+      "phonetic": "まないたのこい",
+      "word": "俎板の鯉"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd025679",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đối đầu với một thất vọng tình trạng; để quanh bị cắt đứt và không có khả năng để làm bất cứ cái gì"
+        }
+      ],
+      "mobileId": 68865,
+      "phonetic": "まないたのこい",
+      "word": "俎の鯉"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e46ba5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "koi herpes virus (KHV)"
+        }
+      ],
+      "mobileId": 250302,
+      "phonetic": "こいヘルペスウイルス",
+      "word": "鯉ヘルペスウイルス"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ef1094",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bất thình lình(mọc) lên"
+        }
+      ],
+      "mobileId": 7624,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "勃起",
+          "勃発"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "上騰",
+                "亢進",
+                "上り",
+                "リフト",
+                "栄達",
+                "上昇",
+                "向上"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "勃"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d7ba07d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5t",
+          "mean": "to have an erection"
+        }
+      ],
+      "mobileId": 219067,
+      "phonetic": "たつ",
+      "word": "勃つ"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0e325d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bulgaria"
+        }
+      ],
+      "mobileId": 205940,
+      "phonetic": "ブルガリア",
+      "word": "勃牙利"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c028d0ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5t, vi",
+          "mean": "to become erect (penis, nipple, etc.), to tower (like an erection)"
+        }
+      ],
+      "mobileId": 190476,
+      "phonetic": "そそりたつ",
+      "word": "そそり勃つ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801436258",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cá đao"
+        },
+        {
+          "examples": [
+            {
+              "content": "泳いでいて鮫を見たときは、死ぬほど恐かった",
+              "mean": "Tôi sợ gần chết khi trông thấy một con cá mập đang bơi",
+              "transcription": "およいでいてさめをみたときは、しぬほどこわかった"
+            },
+            {
+              "content": "鮫に襲われる危険",
+              "mean": "Sự nguy hiểm khi bị cá mập tấn công .",
+              "transcription": "さめにおそわれるきけん"
+            }
+          ],
+          "kind": "n",
+          "mean": "cá mập"
+        }
+      ],
+      "mobileId": 42905,
+      "phonetic": "さめ",
+      "word": "鮫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3966de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bluntnose sixgill shark (Hexanchus griseus)"
+        }
+      ],
+      "mobileId": 225244,
+      "phonetic": "かぐらざめ カグラザメ",
+      "word": "神楽鮫"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e6f2178",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "salmon) /'rɔk, sæmən/, cá nhám góc"
+        }
+      ],
+      "mobileId": 114593,
+      "phonetic": "すみさめ",
+      "word": "角鮫"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef3101c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá nhám cưa"
+        }
+      ],
+      "mobileId": 118782,
+      "phonetic": "のこさめ",
+      "word": "鋸鮫"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a05a30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "whitecheek shark (Carcharhinus dussumieri, species of the Indo-West Pacific)"
+        }
+      ],
+      "mobileId": 261407,
+      "phonetic": "すみつきざめ スミツキザメ",
+      "word": "墨付鮫"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a06c8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spinner shark (Carcharhinus brevipinna), long-nose grey shark"
+        }
+      ],
+      "mobileId": 261410,
+      "phonetic": "はなざめ ハナザメ",
+      "word": "花鮫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a38c13b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nurse shark (Ginglymostoma cirratum)"
+        }
+      ],
+      "mobileId": 225228,
+      "phonetic": "こもりざめ コモリザメ",
+      "word": "子守鮫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a399ea2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "starspotted smooth-hound (species of hound shark, Mustelus manazo)"
+        }
+      ],
+      "mobileId": 225252,
+      "phonetic": "ほしざめ ホシザメ",
+      "word": "星鮫"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680104898f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cá mập xanh ."
+        }
+      ],
+      "mobileId": 41807,
+      "phonetic": "あおざめ",
+      "word": "青鮫"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2f1ea0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "da cá mập (dùng để đánh bóng đồ vật)"
+        }
+      ],
+      "mobileId": 147221,
+      "phonetic": "さめがわ",
+      "word": "鮫皮"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

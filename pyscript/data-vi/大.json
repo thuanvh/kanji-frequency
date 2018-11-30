@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d49778c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "big, large"
+        }
+      ],
+      "mobileId": 217436,
+      "opposite_word": [
+        "小",
+        "細"
+      ],
+      "phonetic": "おお",
+      "related_words": {
+        "word": [
+          "大丈夫",
+          "大変",
+          "大好き",
+          "大切",
+          "大人",
+          "大学",
+          "大丈夫ですか？",
+          "大学院",
+          "拡大",
+          "大体"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "大",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "非常",
+                "過激",
+                "甚だしい",
+                "馬鹿",
+                "滅茶滅茶"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "でっかい",
+                "大きい",
+                "太い",
+                "でかい",
+                "広い",
+                "偉い"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "大"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7913e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grand mal (seizure)"
+        }
+      ],
+      "mobileId": 227258,
+      "phonetic": "だいほっさ",
+      "word": "大発作"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a98d536",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cane toad, marine toad, giant toad (Bufo marinus)"
+        }
+      ],
+      "mobileId": 228279,
+      "phonetic": "おおひきがえる オオヒキガエル",
+      "word": "大蟇"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1bfd5b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, adj-no, adv",
+          "mean": "Càng sớm càng tốt"
+        }
+      ],
+      "mobileId": 224311,
+      "phonetic": "だいしきゅう",
+      "related_words": {
+        "word": [
+          "大",
+          "急",
+          "至急"
+        ]
+      },
+      "word": "大至急"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a38580b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese giant weevil (Sipalinus gigas)"
+        }
+      ],
+      "mobileId": 225214,
+      "phonetic": "おおぞうむし オオゾウムシ",
+      "word": "大象虫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afc91cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grand coalition, grand alliance"
+        }
+      ],
+      "mobileId": 231522,
+      "phonetic": "だいれんりつ",
+      "word": "大連立"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4a2554",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sebastes iracundus (species of rockfish)"
+        }
+      ],
+      "mobileId": 225788,
+      "phonetic": "おおさが オオサガ",
+      "word": "大佐賀"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfa8a10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quý bà (của) cái nhà"
+        }
+      ],
+      "mobileId": 17709,
+      "phonetic": "だいおくさま",
+      "related_words": {
+        "word": [
+          "様",
+          "大",
+          "奥",
+          "奥様"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "大奥様",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ハウスワイフ",
+                "主婦"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "大奥様"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfbd7a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tạo ra ((của) một tờ báo)"
+        }
+      ],
+      "mobileId": 17748,
+      "phonetic": "だいくみ",
+      "word": "大組み"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfdbbee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nói ra sự thất bại; thu nhập lỗi; sai đoán"
+        }
+      ],
+      "mobileId": 17810,
+      "phonetic": "だいはずれ",
+      "related_words": {
+        "word": [
+          "大",
+          "外",
+          "外れ"
+        ]
+      },
+      "word": "大外れ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

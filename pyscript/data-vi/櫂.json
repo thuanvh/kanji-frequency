@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f7fe4a3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "櫂を水につける",
+              "mean": "khuấy nước bằng mài chèo",
+              "transcription": "かいをみずにつける"
+            },
+            {
+              "content": "風に見放されたら、オール［櫂］で漕げ。",
+              "mean": "Ngay cả khi cách làm của bạn không được thì hãy đừng từ bỏ mục đích của mình, hãy thực hiện nó theo một cách khác",
+              "transcription": "かぜにみはなされたら、オール［かい］でこげ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "Mái chèo"
+        }
+      ],
+      "mobileId": 187001,
+      "phonetic": "かい",
+      "synsets": [
+        {
+          "base_form": "櫂",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "オール"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ラケット"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "櫂"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fad08a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "type of oar"
+        }
+      ],
+      "mobileId": 264292,
+      "phonetic": "うちがい",
+      "word": "打ち櫂"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afb9153",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sculls and paddles"
+        }
+      ],
+      "mobileId": 231493,
+      "phonetic": "ろかい",
+      "word": "櫓櫂"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

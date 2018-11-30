@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e052bb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "con rồng"
+        }
+      ],
+      "mobileId": 111196,
+      "phonetic": "りゅう",
+      "word": "龍"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5696c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đê chắn sóng, nốt ruồi, chuột chũi, mù tịt"
+        }
+      ],
+      "mobileId": 71527,
+      "phonetic": "どりゅう",
+      "related_words": {
+        "word": [
+          "土"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "土龍",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "土竜",
+                "田鼠"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "土龍"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8fa08cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đế quốc mặc áo choàng"
+        }
+      ],
+      "mobileId": 41513,
+      "phonetic": "",
+      "word": "袞龍"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc9d52e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "splendid horse"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ngựa hay"
+        }
+      ],
+      "mobileId": 75246,
+      "phonetic": "りゅうば",
+      "word": "龍馬"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77bc9e97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oolong (tea)"
+        }
+      ],
+      "mobileId": 270572,
+      "phonetic": "ウーロン",
+      "word": "烏龍"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c9ec0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dựa vào con rồng (lit.)\r\nngười đàn ông lớn; người khác thường trốn(dấu) giữa những khối lượng (khối)"
+        }
+      ],
+      "mobileId": 24314,
+      "phonetic": "がりゅう",
+      "word": "臥龍"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c987ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mưa con rồng; che giấu thiên tài"
+        }
+      ],
+      "mobileId": 39955,
+      "phonetic": "みずちりゅう",
+      "word": "蛟龍"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04d95b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "golden dragon"
+        }
+      ],
+      "mobileId": 283441,
+      "phonetic": "きんりゅう きんりょう",
+      "word": "金龍"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc7293a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người anh hùng, nhân vật nam chính"
+        }
+      ],
+      "mobileId": 75167,
+      "phonetic": "りゅうとら",
+      "related_words": {
+        "word": [
+          "虎"
+        ]
+      },
+      "word": "龍虎"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99be965",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coiled dragon, dragon coiled on the earth, which has not yet ascended to the sky"
+        }
+      ],
+      "mobileId": 277706,
+      "phonetic": "はんりょう",
+      "word": "蟠龍"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

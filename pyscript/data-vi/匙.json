@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada62369d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cái muỗng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cái thìa"
+        },
+        {
+          "examples": [
+            {
+              "content": "大さじ３杯の砂糖",
+              "mean": "3 muỗng to đường kính .",
+              "transcription": "おおさじさんはいのさとう"
+            }
+          ],
+          "kind": "n",
+          "mean": "thìa"
+        }
+      ],
+      "mobileId": 78600,
+      "phonetic": "さじ",
+      "related_words": {
+        "word": [
+          "大匙"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "匙",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "スプーン",
+                "刀圭"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "匙"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d29f214",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ra lệnh; sự xem xét; làm những sự cho phép cho"
+        }
+      ],
+      "mobileId": 147057,
+      "phonetic": "さじかげん",
+      "word": "匙加減"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c9143d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small shovel"
+        }
+      ],
+      "mobileId": 262719,
+      "phonetic": "えんし えんぴ",
+      "word": "円匙"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107a4705d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thìa cà phê ."
+        }
+      ],
+      "mobileId": 54653,
+      "phonetic": "こさじ",
+      "related_words": {
+        "word": [
+          "小",
+          "匙"
+        ]
+      },
+      "word": "小匙"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aee9945",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stone knife (Jomon-period tool, shaped like a rice spoon)"
+        }
+      ],
+      "mobileId": 231067,
+      "phonetic": "いしさじ",
+      "word": "石匙"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfc28f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "muỗng canh"
+        }
+      ],
+      "mobileId": 17759,
+      "phonetic": "だいさじ",
+      "related_words": {
+        "word": [
+          "大",
+          "匙"
+        ]
+      },
+      "word": "大匙"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e9cc0c8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "えいひ",
+              "mean": "",
+              "transcription": ""
+            }
+          ],
+          "kind": "",
+          "mean": "Cây kẹp bông cotton, cây móc, kẹp ( phẫu thuật học)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "えいひ",
+      "word": "鋭匙"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ecd888",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "incense scoop"
+        }
+      ],
+      "mobileId": 272139,
+      "phonetic": "こうすくい きょうじ こうさじ",
+      "word": "香匙"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aeea97e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rice spoon"
+        }
+      ],
+      "mobileId": 231069,
+      "phonetic": "いいがい",
+      "word": "飯匙"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b22d31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lens loop"
+        }
+      ],
+      "mobileId": 286672,
+      "phonetic": "りんひ",
+      "word": "輪匙"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777f086f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "interpretation of radiograms, radiographic image interpretation"
+        }
+      ],
+      "mobileId": 268575,
+      "phonetic": "どくえい",
+      "word": "読影"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e1ed7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reading music"
+        }
+      ],
+      "mobileId": 279983,
+      "phonetic": "どくふ",
+      "word": "読譜"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2e39dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lip reading (esp. in context of deaf people), lipreading, speech reading, speechreading"
+        }
+      ],
+      "mobileId": 249521,
+      "phonetic": "どくわ",
+      "word": "読話"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad9a930",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "積ん読する〔本を〕",
+              "mean": "Tích trữ sách.",
+              "transcription": "つん読する〔ほんを〕"
+            },
+            {
+              "content": "彼はよく本を買うが積ん読だ.",
+              "mean": "Anh ta thường mua sách nhưng không bao giờ đọc. .",
+              "transcription": "かれはよくほんをかうがつん読だ."
+            }
+          ],
+          "kind": "n",
+          "mean": "việc mua sách nhưng không đọc"
+        }
+      ],
+      "mobileId": 173954,
+      "phonetic": "つんどく",
+      "word": "積ん読"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bfc0d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đọc đáp lại"
+        }
+      ],
+      "mobileId": 39639,
+      "phonetic": "",
+      "word": "交読"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d1501d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tăng tốc đọc"
+        }
+      ],
+      "mobileId": 62783,
+      "phonetic": "",
+      "word": "速読"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0c5948",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "duyệt"
+        }
+      ],
+      "mobileId": 69186,
+      "phonetic": "",
+      "word": "漫読"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef975fe67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reader model, amateur model who appears in fashion magazines"
+        }
+      ],
+      "mobileId": 276501,
+      "phonetic": "どくモ",
+      "word": "読モ"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d033539",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-no, n",
+          "mean": "đã đọc"
+        }
+      ],
+      "mobileId": 215219,
+      "phonetic": "きどく",
+      "word": "既読"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c17421",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dyslexia, paralexia, reading disorder"
+        }
+      ],
+      "mobileId": 278926,
+      "phonetic": "どくじしょうがい",
+      "word": "読字障害"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

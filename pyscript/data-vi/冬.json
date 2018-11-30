@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada1bde59",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đông"
+        },
+        {
+          "examples": [
+            {
+              "content": "冬が来たのでジェニファーは冬服を物置から出して洗濯した",
+              "mean": "Khi mùa Đông đến, Jennifer đã lấy quần áo ấm từ giá treo đi giặt.",
+              "transcription": "ふゆがきたのでジェニファーはふゆふくをものおきからだしてせんたくした"
+            },
+            {
+              "content": "市場は去年の冬から沈滞状態が続いている",
+              "mean": "Thị trường trở nên ảm đạm kể từ mùa đông năm ngoái. .",
+              "transcription": "しじょうはきょねんのふゆからちんたいじょうたいがつづいている"
+            }
+          ],
+          "kind": "n-adv, n-t",
+          "mean": "mùa đông"
+        }
+      ],
+      "mobileId": 77353,
+      "opposite_word": [
+        "夏"
+      ],
+      "phonetic": "ふゆ",
+      "related_words": {
+        "word": [
+          "冬休み",
+          "夏炉冬扇",
+          "冬眠",
+          "真冬",
+          "冬季",
+          "冬至",
+          "越冬",
+          "暖冬"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "冬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "三冬",
+                "冬季",
+                "ウィンター"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "冬"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688e221c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "những sự chuẩn bị cho mùa đông"
+        }
+      ],
+      "mobileId": 4514,
+      "phonetic": "ふゆじたく",
+      "word": "冬支度"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688e4192",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vi",
+          "mean": "trở nên lạnh lẽo"
+        }
+      ],
+      "mobileId": 4518,
+      "phonetic": "ふゆめく",
+      "word": "冬めく"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00954c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "winter vegetables"
+        }
+      ],
+      "mobileId": 281261,
+      "phonetic": "ふゆやさい",
+      "word": "冬野菜"
+    },
+    {
+      "_id": "432518852de0a80625d585a982382e12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ministry of Works (Zhou-dynasty China)"
+        }
+      ],
+      "mobileId": 233394,
+      "phonetic": "とうかん",
+      "word": "冬官"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77eccb26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giant butterbur"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Japanese silverleaf (Farfugium japonicum)"
+        }
+      ],
+      "mobileId": 272137,
+      "phonetic": "かんとう かんどう",
+      "word": "款冬"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94f4dad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "every winter"
+        }
+      ],
+      "mobileId": 258827,
+      "phonetic": "まいふゆ",
+      "word": "毎冬"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688dfdde",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trú đông, sự đưa đi tránh rét, sự qua đông"
+        }
+      ],
+      "mobileId": 4510,
+      "phonetic": "ふゆごし",
+      "word": "冬越し"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688e0a91",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự ngủ đông, sự nghỉ đông ở vùng ấm áp, sự không hoạt động, sự không làm gì, sự nằm lì"
+        }
+      ],
+      "mobileId": 4511,
+      "phonetic": "ふゆこもり",
+      "word": "冬籠り"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca009a50f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "winter fog, fog during winter"
+        }
+      ],
+      "mobileId": 281273,
+      "phonetic": "ふゆぎり",
+      "word": "冬霧"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

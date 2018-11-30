@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a63e63",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "蜘の糸",
+              "mean": "tơ nhện",
+              "transcription": "蜘のいと"
+            },
+            {
+              "content": "蜘の巣",
+              "mean": "mạng nhện",
+              "transcription": "蜘のす"
+            }
+          ],
+          "kind": "n",
+          "mean": "nhện"
+        }
+      ],
+      "mobileId": 32016,
+      "phonetic": "くも",
+      "word": "蜘"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

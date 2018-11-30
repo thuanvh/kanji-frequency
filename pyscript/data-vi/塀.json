@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10714b2f5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "境界の塀",
+              "mean": "Bức tường chia ranh giới.",
+              "transcription": "きょうかいのへい"
+            },
+            {
+              "content": "しっくいの塀",
+              "mean": "Tường bằng thạch cao .",
+              "transcription": "しっくいのへい"
+            }
+          ],
+          "kind": "n",
+          "mean": "tường; vách; tường vây quanh"
+        }
+      ],
+      "mobileId": 52225,
+      "phonetic": "へい",
+      "synsets": [
+        {
+          "base_form": "塀",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "壁",
+                "隔壁",
+                "垣",
+                "障壁",
+                "垣根"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "フェンス",
+                "囲い",
+                "柵",
+                "垣",
+                "斎垣",
+                "垣根"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "塀"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7718079d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mud wall with a roof, roofed mud wall"
+        }
+      ],
+      "mobileId": 265233,
+      "phonetic": "ついじべい",
+      "word": "築地塀"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9db6b21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tall fence"
+        }
+      ],
+      "mobileId": 263288,
+      "phonetic": "たかべい",
+      "word": "高塀"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde7187b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bức tường gạch"
+        }
+      ],
+      "mobileId": 76134,
+      "phonetic": "れんがへい",
+      "word": "煉瓦塀"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d46398",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "over a wall, crossing a fence"
+        }
+      ],
+      "mobileId": 279555,
+      "phonetic": "へいごし",
+      "word": "塀越し"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be40c349",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rải bê tông tường khối"
+        }
+      ],
+      "mobileId": 91349,
+      "phonetic": "ブロックへい",
+      "word": "ブロック塀"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f4e6db5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "板塀を作る",
+              "mean": "làm hàng rào",
+              "transcription": "いたへいをつくる"
+            },
+            {
+              "content": "私は家の周りの板塀にペンキを塗った",
+              "mean": "tôi đã sơn hàng rào xung quanh nhà",
+              "transcription": "わたしはいえのまわりのいたへいにペンキをぬった"
+            },
+            {
+              "content": "板塀を巡らした家",
+              "mean": "ngôi nhà được bao quanh bởi hàng rào .",
+              "transcription": "いたへいをめぐらしたいえ"
+            }
+          ],
+          "kind": "n",
+          "mean": "hàng rào; lan can tàu"
+        }
+      ],
+      "mobileId": 186280,
+      "phonetic": "いたべい",
+      "related_words": {
+        "word": [
+          "板",
+          "塀"
+        ]
+      },
+      "word": "板塀"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eef87f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tường gạch trát bùn và lợp ngói"
+        }
+      ],
+      "mobileId": 118669,
+      "phonetic": "ねりへい",
+      "word": "練り塀"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ab52b1d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "石塀を作る",
+              "mean": "xây dựng 1 bức tường đá .",
+              "transcription": "いしへいをつくる"
+            }
+          ],
+          "kind": "n",
+          "mean": "tường bằng đá"
+        }
+      ],
+      "mobileId": 173287,
+      "phonetic": "いしべい",
+      "related_words": {
+        "word": [
+          "石",
+          "塀"
+        ]
+      },
+      "word": "石塀"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ae9ca3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "tới hàng rào bên trong; bao vây với một tường"
+        }
+      ],
+      "mobileId": 5558,
+      "phonetic": "へいをめぐらす",
+      "word": "塀を巡らす"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

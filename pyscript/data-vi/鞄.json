@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568010b98ba",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "手製のかばん",
+              "mean": "giỏ đan bằng tay",
+              "transcription": "てせいのかばん"
+            },
+            {
+              "content": "革製のかばん",
+              "mean": "túi da",
+              "transcription": "かわせいのかばん"
+            },
+            {
+              "content": "シースルーのかばん",
+              "mean": "cặp trong suốt",
+              "transcription": "シースルーのかばん"
+            },
+            {
+              "content": "かばんにつめる",
+              "mean": "cho vào túi (cặp)",
+              "transcription": "かばんにつめる"
+            },
+            {
+              "content": "（社）日本鞄協会",
+              "mean": "Hiệp hội túi Nhật Bản",
+              "transcription": "（しゃ）にっぽんかばんきょうかい"
+            },
+            {
+              "content": "私の母もルイ・ヴィトンの鞄を幾つか持ってるわ",
+              "mean": "mẹ mình cũng có mấy cái túi Louis Vuitton đấy",
+              "transcription": "わたしのははもルイ・ヴィトンのかばんをいくつかもってるわ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cặp; túi; balô; cặp sách; túi xách; giỏ"
+        }
+      ],
+      "mobileId": 41965,
+      "phonetic": "かばん",
+      "synsets": [
+        {
+          "base_form": "鞄",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "バッグ",
+                "袋"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鞄"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9dea55b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "school bag (usu. handheld or hung from the shoulder), schoolbag"
+        }
+      ],
+      "mobileId": 279881,
+      "phonetic": "がくせいかばん",
+      "word": "学生鞄"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193811937",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thư ký riêng"
+        }
+      ],
+      "mobileId": 22032,
+      "phonetic": "かばんじ",
+      "word": "鞄持"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac9988e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "school bag, school satchel"
+        }
+      ],
+      "mobileId": 229851,
+      "phonetic": "つうがくかばん つうがくカバン",
+      "word": "通学鞄"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193810cb3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ghuộm khoeo kẻ tôi tớ, kẻ hay bợ đỡ, kẻ xu nịnh, kẻ học làm sang; kẻ thích người sang"
+        }
+      ],
+      "mobileId": 22031,
+      "phonetic": "かばんもち",
+      "word": "鞄持ち"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd45a8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái va li"
+        }
+      ],
+      "mobileId": 75559,
+      "phonetic": "りょこうかばん",
+      "word": "旅行鞄"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931d32d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái cặp để giấy tờ, tài liệu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cặp (giấy tờ, hồ sơ), danh sách vốn đầu tư (của một công ty, một nhà ngân hàng), chức vị bộ trưởng"
+        }
+      ],
+      "mobileId": 18857,
+      "phonetic": "おりかばん",
+      "word": "折り鞄"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f748843b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cặp (kẹp giấy tờ tài liệu) ."
+        }
+      ],
+      "mobileId": 99448,
+      "phonetic": "てさげかばん",
+      "word": "手提げ鞄"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98c2491",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small bag, small satchel"
+        }
+      ],
+      "mobileId": 277199,
+      "phonetic": "こかばん",
+      "word": "小鞄"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8397a46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cowhide phồng lên"
+        }
+      ],
+      "mobileId": 35333,
+      "phonetic": "うしのかばん",
+      "word": "牛の鞄"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

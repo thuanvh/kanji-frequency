@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027081ac9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chừng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cỡ chừng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "độ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "độ chừng"
+        },
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "khoảng; xấp xỉ"
+        },
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "phỏng chừng"
+        },
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "ước độ"
+        },
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "vào khoảng ."
+        }
+      ],
+      "mobileId": 29211,
+      "phonetic": "やく",
+      "related_words": {
+        "word": [
+          "契約",
+          "予約",
+          "約束",
+          "予約する",
+          "契約書",
+          "要約",
+          "規約",
+          "解約",
+          "契約する",
+          "契約期間"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "約",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "先ず",
+                "殆ど",
+                "ざっと",
+                "大凡",
+                "おおよそ",
+                "およそ",
+                "略",
+                "凡そ",
+                "ほとんど"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "約"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd69a9a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "khoảng nửa năm"
+        }
+      ],
+      "mobileId": 72134,
+      "phonetic": "やくはんとし",
+      "word": "約半年"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f39e18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm gãy một lời hứa"
+        }
+      ],
+      "mobileId": 25651,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "約"
+        ]
+      },
+      "word": "棄約"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9df49fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "peace settlement"
+        }
+      ],
+      "mobileId": 279906,
+      "phonetic": "わやく",
+      "related_words": {
+        "word": [
+          "和",
+          "訳"
+        ]
+      },
+      "word": "和約"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f38ec2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "chương trình [công ước] không thể sửa đổi"
+        }
+      ],
+      "mobileId": 25650,
+      "phonetic": "すんでやく",
+      "related_words": {
+        "word": [
+          "約"
+        ]
+      },
+      "word": "既約"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a307cb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "punctuation marks and other special symbols (term used in printing)"
+        }
+      ],
+      "mobileId": 224966,
+      "phonetic": "やくもの",
+      "word": "約物"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802708210a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khoảng một nửa ."
+        }
+      ],
+      "mobileId": 29212,
+      "phonetic": "やくはんぶん",
+      "related_words": {
+        "word": [
+          "分",
+          "約",
+          "半分",
+          "半"
+        ]
+      },
+      "word": "約半分"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b9b779",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, pref",
+          "mean": "approximate total (of)"
+        }
+      ],
+      "mobileId": 278670,
+      "phonetic": "けいやく",
+      "word": "計約"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df385a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự giao hẹn, sự thề ước, sự thề hẹn"
+        }
+      ],
+      "mobileId": 153510,
+      "phonetic": "しんやく",
+      "related_words": {
+        "word": [
+          "約",
+          "信"
+        ]
+      },
+      "word": "信約"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e3cbd11",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "consideration (in contract law, the thing given or done by the promisee in exchange for the promise)"
+        }
+      ],
+      "mobileId": 249981,
+      "phonetic": "やくいん",
+      "word": "約因"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

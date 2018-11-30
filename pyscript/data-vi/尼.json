@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107aaff4d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "bà xơ; ma xơ"
+        },
+        {
+          "examples": [
+            {
+              "content": "私のおじは牧師で、おばは尼だ",
+              "mean": "Chú tôi là linh mục, cô tôi là ma xơ",
+              "transcription": "わたしのおじはぼくしで、おばはあまだ"
+            },
+            {
+              "content": "茶色の法衣姿の尼さん",
+              "mean": "Tu sĩ mặc áo màu nâu",
+              "transcription": "ちゃいろのほうえすがたのにさん"
+            },
+            {
+              "content": "私のおじは牧師で、おばは尼だ",
+              "mean": "Chú tôi là linh mục, cô tôi là ma xơ",
+              "transcription": "わたしのおじはぼくしで、おばはあまだ"
+            }
+          ],
+          "kind": "n",
+          "mean": "bà xơ; tu sĩ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ni cô"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sư ni ."
+        }
+      ],
+      "mobileId": 54789,
+      "phonetic": "あま",
+      "related_words": {
+        "word": [
+          "尼僧"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "尼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "売女"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "修道女"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "修道女",
+                "尼僧"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "尼"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed950f7a24",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "confucius"
+        }
+      ],
+      "mobileId": 56613,
+      "phonetic": "あまはじめ",
+      "word": "尼甫"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca083e731",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jewel, pearl, gemstone"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Cintamani stone, wish-fulfilling jewel"
+        }
+      ],
+      "mobileId": 285150,
+      "phonetic": "まに",
+      "word": "摩尼"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afb3c99",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "native of Amagasaki"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bitch"
+        }
+      ],
+      "mobileId": 231480,
+      "phonetic": "あまっこ",
+      "word": "尼っ子"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9b0021",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bà xơ, nữ tu sĩ, ni cô, chim áo dài"
+        }
+      ],
+      "mobileId": 150643,
+      "phonetic": "しゅうどうあま",
+      "word": "修道尼"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a986016",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "muni (Indian ascetic or sage)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Buddha"
+        }
+      ],
+      "mobileId": 228262,
+      "phonetic": "むに",
+      "word": "牟尼"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a993cdf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cattle egret (Bubulcus ibis)"
+        }
+      ],
+      "mobileId": 228298,
+      "phonetic": "あまさぎ アマサギ",
+      "word": "尼鷺"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afb817f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "female Buddhist novice"
+        }
+      ],
+      "mobileId": 231488,
+      "phonetic": "しゃみに",
+      "word": "沙弥尼"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0bd2e3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nile (river)"
+        }
+      ],
+      "mobileId": 204712,
+      "phonetic": "ナイル ないる",
+      "word": "尼羅"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c041d5cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Indonesia"
+        }
+      ],
+      "mobileId": 200728,
+      "phonetic": "インドネシア",
+      "word": "印度尼西亜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a681433",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "charmed and cursed"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "something that bewilders, something that leads one astray, the work of demons"
+        }
+      ],
+      "mobileId": 226711,
+      "phonetic": "まじ",
+      "word": "蠱"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a680605",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "charmed and cursed"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "something that bewilders, something that leads one astray, the work of demons"
+        }
+      ],
+      "mobileId": 226710,
+      "phonetic": "まじもの",
+      "word": "蠱物"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0116a2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "to be drawn in by something wicked, to be won over by something wicked"
+        }
+      ],
+      "mobileId": 189702,
+      "phonetic": "まじこる",
+      "word": "蠱る"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c775c69ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "poisoning someone"
+        }
+      ],
+      "mobileId": 267435,
+      "phonetic": "こどく",
+      "word": "蠱毒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

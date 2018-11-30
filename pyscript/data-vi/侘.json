@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c027c06c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2b-k, vi",
+          "mean": "to be worried, to be grieved, to pine for"
+        }
+      ],
+      "mobileId": 190440,
+      "phonetic": "わぶ",
+      "word": "侘ぶ"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02382da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2r-s, vi",
+          "mean": "to be worried, to be grieved"
+        }
+      ],
+      "mobileId": 190296,
+      "phonetic": "わぶる",
+      "word": "侘ぶる"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be00ef7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "có vị cho sự yên tĩnh và đơn giản; wabi và sabi"
+        }
+      ],
+      "mobileId": 89326,
+      "phonetic": "わびとさび",
+      "word": "侘と寂"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af0f7d6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "剣道では、竹でできた刀のような棒をそれぞれ身に着けた2人が決闘します。",
+              "mean": "Trong kiếm đạo, hai người đấu với nhau được trang bị thanh gậy tre có hình dạng như thanh kiếm.",
+              "transcription": "けんどうでは、たけでできたかたなのようなぼうをそれぞれみにつけた2にんがけっとうします。"
+            }
+          ],
+          "kind": "n",
+          "mean": "cây tre"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tre ."
+        }
+      ],
+      "mobileId": 174244,
+      "phonetic": "たけ",
+      "related_words": {
+        "word": [
+          "竹林",
+          "竹の子",
+          "竹刀",
+          "松竹梅",
+          "竹馬",
+          "爆竹",
+          "竹輪",
+          "竹とんぼ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "竹",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "バンブー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "竹"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3d67f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vật chất tre"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "amassing of wealth"
+        }
+      ],
+      "mobileId": 112992,
+      "phonetic": "たけざい",
+      "related_words": {
+        "word": [
+          "竹"
+        ]
+      },
+      "word": "竹材"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d7133ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(ateji) cái gậy tre đã đánh những người hay suy nghĩ vào trong sự tỉnh táo lớn hơn"
+        }
+      ],
+      "mobileId": 149318,
+      "phonetic": "たけへら",
+      "word": "竹箆"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db37037",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "an antiquated lighter consisting of a tube of bamboo containing live coals (hidane)"
+        }
+      ],
+      "mobileId": 220905,
+      "phonetic": "うちたけ",
+      "word": "打ち竹"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7764c50e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "farmer's rake"
+        }
+      ],
+      "mobileId": 267716,
+      "phonetic": "さらい さらえ",
+      "word": "竹杷"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c7bf38",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cut bamboo"
+        }
+      ],
+      "mobileId": 262674,
+      "phonetic": "まるたけ",
+      "word": "丸竹"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d077f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bamboo mat"
+        }
+      ],
+      "mobileId": 262941,
+      "phonetic": "たかむしろ",
+      "word": "竹席"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96b6c3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "type of bamboo"
+        }
+      ],
+      "mobileId": 259732,
+      "phonetic": "ほうちく",
+      "word": "方竹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f36ae6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thin strip of bamboo"
+        }
+      ],
+      "mobileId": 280544,
+      "phonetic": "たけひご",
+      "word": "竹籤"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f372aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bamboo gun (toy)"
+        }
+      ],
+      "mobileId": 280545,
+      "phonetic": "たけでっぽう",
+      "word": "竹鉄砲"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

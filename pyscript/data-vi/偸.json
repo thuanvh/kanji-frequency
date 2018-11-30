@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5ca996",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lẻn đi"
+        }
+      ],
+      "mobileId": 114001,
+      "phonetic": "",
+      "word": "偸"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dcfd315",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái liếc trộm; cái nhìn trộm ."
+        }
+      ],
+      "mobileId": 145000,
+      "phonetic": "とうし",
+      "word": "偸視"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

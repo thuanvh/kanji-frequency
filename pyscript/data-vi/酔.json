@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e1235e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "type of imperial banquet held during the Heian period and later"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "being dead drunk, being very drunk"
+        }
+      ],
+      "mobileId": 263459,
+      "phonetic": "えんすい えんずい",
+      "word": "淵酔"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680154338e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ngáy; ngáy; ngáy ngủ ."
+        }
+      ],
+      "mobileId": 43244,
+      "phonetic": "かんすい",
+      "related_words": {
+        "word": [
+          "鼾"
+        ]
+      },
+      "word": "鼾酔"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824c6ea7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "intoxicating, intoxication"
+        }
+      ],
+      "mobileId": 234047,
+      "phonetic": "ますい",
+      "word": "魔酔"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08da24e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Drunken Fist, Drunken Boxing"
+        }
+      ],
+      "mobileId": 211394,
+      "phonetic": "すいけん",
+      "related_words": {
+        "word": [
+          "拳"
+        ]
+      },
+      "word": "酔拳"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e251431",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cotton rosemallow (Hibiscus mutabilis cv. Versicolor), Confederate rose"
+        }
+      ],
+      "mobileId": 249217,
+      "phonetic": "すいふよう",
+      "word": "酔芙蓉"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a965c564",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drunken elephant piece, used in some variants of shogi"
+        }
+      ],
+      "mobileId": 259568,
+      "phonetic": "すいぞう",
+      "word": "酔象"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68836ece",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "dư vị khó chịu do dùng thức uống có nồng độ cồn cao, vết tích, tàn tích"
+        }
+      ],
+      "mobileId": 4182,
+      "phonetic": "ふつかよい",
+      "related_words": {
+        "word": [
+          "日",
+          "二"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "二日酔い",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "二日酔"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "二日酔"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd978f72",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "tới khói; tới sự cháy âm ỉ; để nói lắp bắp"
+        }
+      ],
+      "mobileId": 14599,
+      "phonetic": "いぶしぶる",
+      "synsets": [
+        {
+          "base_form": "燻ぶる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "煙る",
+                "燻る"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "燻ぶる"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e822369",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "smoking (esp. as a means of preserving food)"
+        }
+      ],
+      "mobileId": 252225,
+      "phonetic": "くんえん",
+      "word": "燻煙"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193388ab8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngoài trời nhắm vào với khói dầy đặc để khước từ muỗi"
+        }
+      ],
+      "mobileId": 19733,
+      "phonetic": "かいぶし",
+      "word": "蚊燻"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9dd6e3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "smoked salmon, lox"
+        }
+      ],
+      "mobileId": 279847,
+      "phonetic": "いぶしざけ",
+      "word": "燻鮭"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

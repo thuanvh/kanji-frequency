@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8ff480",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự tràn ra; sự chảy tràn của một chất lỏng"
+        }
+      ],
+      "mobileId": 14359,
+      "phonetic": "いつ りゅう",
+      "related_words": {
+        "word": [
+          "流"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "溢流",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "溢水",
+                "オーバーフロー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "溢流"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab90c9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "to flood, to overflow, to brim over"
+        }
+      ],
+      "mobileId": 229324,
+      "phonetic": "あふる",
+      "word": "溢る"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca097492d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "galactorrhea, lactorrhea, regurgitation of milk"
+        }
+      ],
+      "mobileId": 285779,
+      "phonetic": "いつにゅう",
+      "word": "溢乳"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94232e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s",
+          "mean": "to boil over"
+        }
+      ],
+      "mobileId": 258412,
+      "phonetic": "ゆでこぼす",
+      "word": "茹で溢す"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

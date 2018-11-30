@@ -1,0 +1,291 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568014238c2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "カリカリに揚げた魚",
+              "mean": "cá chiên giòn",
+              "transcription": "カリカリにあげたさかな"
+            },
+            {
+              "content": "すごく大きな魚",
+              "mean": "một con cá cực lớn",
+              "transcription": "すごくおおきなさかな"
+            },
+            {
+              "content": "二度も同じエサにかかるような魚は、ばかな魚。",
+              "mean": "con cái hai lần mắc phải cùng một mồi câu là con cá ngu ngốc",
+              "transcription": "にどもおなじエサにかかるようなさかなは、ばかなさかな。"
+            },
+            {
+              "content": "川の魚を捕る",
+              "mean": "đánh bắt cá trên sông",
+              "transcription": "かわのさかなをとる"
+            },
+            {
+              "content": "魚は夜眠ると思いますか",
+              "mean": "bạn có nghĩ là cá ngủ đêm không",
+              "transcription": "さかなはよるねむるとおもいますか"
+            }
+          ],
+          "kind": "n",
+          "mean": "cá"
+        }
+      ],
+      "mobileId": 42879,
+      "phonetic": "うお",
+      "related_words": {
+        "word": [
+          "金魚",
+          "人魚",
+          "秋刀魚",
+          "雑魚",
+          "魚座",
+          "焼き魚",
+          "熱帯魚",
+          "魚介類",
+          "魚雷",
+          "魚屋"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "魚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "魚肉",
+                "とと",
+                "フィッシュ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "とと",
+                "鱗",
+                "フィッシュ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "魚"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801423e8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá ."
+        }
+      ],
+      "mobileId": 42880,
+      "phonetic": "さかな",
+      "related_words": {
+        "word": [
+          "金魚",
+          "人魚",
+          "秋刀魚",
+          "雑魚",
+          "魚座",
+          "焼き魚",
+          "熱帯魚",
+          "魚介類",
+          "魚雷",
+          "魚屋"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "魚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "魚肉",
+                "とと",
+                "フィッシュ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "とと",
+                "鱗",
+                "フィッシュ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "魚"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4ca63e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sweetfish (cá hồi nước ngọt)"
+        }
+      ],
+      "mobileId": 12247,
+      "phonetic": "としぎょ",
+      "related_words": {
+        "word": [
+          "年",
+          "魚"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "年魚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鮭",
+                "サーモン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "年魚"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933a3e04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá di trú"
+        }
+      ],
+      "mobileId": 19788,
+      "phonetic": "かいゆうぎょ",
+      "word": "回遊魚"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938666d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người hay giả vờ là mình không biết (thường chỉ phụ nữ)"
+        }
+      ],
+      "mobileId": 22198,
+      "phonetic": "かばぎょ",
+      "word": "蒲魚"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4a4c16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pacific ocean perch (Sebastes alutus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "comb goby (Ctenotrypauchen microcephalus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Matsubara's red rockfish (Sebastes matsubarae)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Japanese dace (Tribolodon hakonensis)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "any edible red saltwater fish"
+        }
+      ],
+      "mobileId": 225792,
+      "phonetic": "あかうお アカウオ",
+      "word": "赤魚"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8e7db8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blueback (any fish with a bluish back, such as the Japanese sardine)"
+        }
+      ],
+      "mobileId": 227955,
+      "phonetic": "あおざかな",
+      "related_words": {
+        "word": [
+          "青",
+          "魚"
+        ]
+      },
+      "word": "青魚"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802799c866",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cá hấp ."
+        }
+      ],
+      "mobileId": 31787,
+      "phonetic": "むしさかな",
+      "word": "蒸し魚"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01a07d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "farmed fish, farm-raised fish, cultivated fish, hatchery fish"
+        }
+      ],
+      "mobileId": 281791,
+      "phonetic": "ようしょくぎょ",
+      "word": "養殖魚"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107d42343",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "干魚をたき火であぶる",
+              "mean": "Nướng cá khô bằng củi .",
+              "transcription": "ひぎょをたきびであぶる"
+            }
+          ],
+          "kind": "n",
+          "mean": "cá khô"
+        }
+      ],
+      "mobileId": 55437,
+      "phonetic": "かんぎょ",
+      "word": "干魚"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

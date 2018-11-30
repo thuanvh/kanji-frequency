@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107b9bbb8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "険しい崖を登る",
+              "mean": "leo lên vách đá hiểm trở",
+              "transcription": "けわしいがけをのぼる"
+            },
+            {
+              "content": "崖の上から投身自殺をする",
+              "mean": "tự sát nhảy từ vách đá xuống",
+              "transcription": "がけのうえからとうしんじさつをする"
+            },
+            {
+              "content": "その山にはゴツゴツした崖がたくさんある",
+              "mean": "núi này có nhiều vách đá dốc đứng .",
+              "transcription": "そのやまにはゴツゴツしたがけがたくさんある"
+            }
+          ],
+          "kind": "n",
+          "mean": "vách đá dốc đứng"
+        }
+      ],
+      "mobileId": 55002,
+      "phonetic": "がけ",
+      "related_words": {
+        "word": [
+          "断崖"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "崖",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "断崖",
+                "岸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "崖"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05a4dd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "below a cliff"
+        }
+      ],
+      "mobileId": 283859,
+      "phonetic": "がいか がけした",
+      "word": "崖下"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c048a7cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "landslide, landslip"
+        }
+      ],
+      "mobileId": 209170,
+      "phonetic": "がけくずれ",
+      "word": "崖崩れ"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932fb080",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vách đá nhô ra biển"
+        }
+      ],
+      "mobileId": 19442,
+      "phonetic": "かいしょくがけ",
+      "word": "海食崖"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107b9a14c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Độ dốc của ngọn núi ."
+        }
+      ],
+      "mobileId": 55001,
+      "phonetic": "きがい",
+      "word": "崎崖"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98803d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cliff top"
+        }
+      ],
+      "mobileId": 277074,
+      "phonetic": "がいじょう がけうえ",
+      "word": "崖上"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7730a7ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fault scarp, fault escarpment"
+        }
+      ],
+      "mobileId": 266038,
+      "phonetic": "だんそうがい",
+      "word": "断層崖"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c07be369",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Thời điểm quan trọng, cạnh(vách đá, vách núi)"
+        }
+      ],
+      "mobileId": 210825,
+      "phonetic": "がけっぷち",
+      "word": "崖っ縁"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e5e5f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "fiscal cliff, sharp decline in the United States budget deficit that could have occurred beginning in 2013"
+        }
+      ],
+      "mobileId": 280107,
+      "phonetic": "ざいせいのがけ",
+      "word": "財政の崖"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

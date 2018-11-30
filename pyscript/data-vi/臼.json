@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802775018e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cối ."
+        }
+      ],
+      "mobileId": 31118,
+      "phonetic": "うす",
+      "related_words": {
+        "word": [
+          "脱臼"
+        ]
+      },
+      "word": "臼"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3e29d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cối giã tay bằng đá dày"
+        }
+      ],
+      "mobileId": 11780,
+      "phonetic": "あつうす",
+      "word": "厚臼"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027751122",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "天気予報によると明日は臼曇の日です",
+              "mean": "Theo dự báo thời tiết ngày mai trời có nhiều mây .",
+              "transcription": "てんきよほうによるとあしたはうすくもりのひです"
+            }
+          ],
+          "kind": "n",
+          "mean": "trời mây hơi đục; trời nhiều mây"
+        }
+      ],
+      "mobileId": 31120,
+      "phonetic": "うすぐもり",
+      "word": "臼曇"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6c519f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lower millstone, nether millstone"
+        }
+      ],
+      "mobileId": 251530,
+      "phonetic": "したうす",
+      "word": "下臼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e00fe3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acetabular roof"
+        }
+      ],
+      "mobileId": 271744,
+      "phonetic": "きゅうがい",
+      "word": "臼蓋"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683e69ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cối xay, quay tay"
+        }
+      ],
+      "mobileId": 2025,
+      "phonetic": "ひきうす",
+      "word": "碾き臼"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6861537a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nằm ngang ném đá vào cối xay bàn tay"
+        }
+      ],
+      "mobileId": 3108,
+      "phonetic": "ひらうす",
+      "related_words": {
+        "word": [
+          "平",
+          "臼"
+        ]
+      },
+      "word": "平臼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e01f0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acetabulum, cotyloid cavity"
+        }
+      ],
+      "mobileId": 271745,
+      "phonetic": "ひきゅう",
+      "word": "髀臼"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdce11a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tảng đá cối xay ở bên trên"
+        }
+      ],
+      "mobileId": 16294,
+      "phonetic": "うえうす",
+      "related_words": {
+        "word": [
+          "上",
+          "臼"
+        ]
+      },
+      "word": "上臼"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02041e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vt",
+          "mean": "to pound (rice, etc.)"
+        }
+      ],
+      "mobileId": 190191,
+      "phonetic": "うすづく うすつく",
+      "word": "臼搗く"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cb7f5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "không rõ ràng; sự lúng túng"
+        }
+      ],
+      "mobileId": 6496,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "這這",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "這々",
+                "困惑",
+                "当惑"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "這這"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cb7cf0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không rõ ràng; sự lúng túng"
+        }
+      ],
+      "mobileId": 6495,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "々"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "這々",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "困惑",
+                "当惑",
+                "這這"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "這々"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf6af86",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dwarf Japanese garden juniper (Juniperus chinensis var. procumbens)"
+        }
+      ],
+      "mobileId": 247710,
+      "phonetic": "はいびゃくしん ハイビャクシン",
+      "word": "這柏槇"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8c0e59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "zig-zag rice leafhopper (Recilia dorsalis)"
+        }
+      ],
+      "mobileId": 227877,
+      "phonetic": "いなずまよこばい イナズマヨコバイ",
+      "word": "稲妻横這"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca087e457",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shore juniper (Juniperus conferta)"
+        }
+      ],
+      "mobileId": 285286,
+      "phonetic": "はいねず ハイネズ",
+      "word": "這杜松"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

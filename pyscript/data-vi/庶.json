@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bffe447",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "samurai and commoners"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "normal people (as opposed to people of a high social standing)"
+        }
+      ],
+      "mobileId": 248003,
+      "phonetic": "ししょ",
+      "word": "士庶"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dd1d882",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mọi vật, tất cả, mọi cái, tất cả mọi thứ, cái quan trọng bậc nhất, điều quan trọng bậc nhất"
+        }
+      ],
+      "mobileId": 152433,
+      "phonetic": "",
+      "word": "庶事"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f0661a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bình thường, phàm nhân"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ordinary book"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ordinary handwriting"
+        }
+      ],
+      "mobileId": 7665,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "凡"
+        ]
+      },
+      "word": "凡庶"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dd5c615",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuyên bố không hợp pháp dòng dõi gia đình,họ"
+        }
+      ],
+      "mobileId": 152551,
+      "opposite_word": [
+        "嫡流"
+      ],
+      "phonetic": "",
+      "word": "庶流"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d94f23b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dân chúng, quần chúng nhân dân"
+        }
+      ],
+      "mobileId": 150454,
+      "phonetic": "",
+      "word": "衆庶"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280276a760e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bắp đùi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bắp vế"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đùi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vế ."
+        }
+      ],
+      "mobileId": 30878,
+      "phonetic": "もも",
+      "related_words": {
+        "word": [
+          "大腿",
+          "下腿"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "腿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "太股",
+                "股",
+                "大腿"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "股"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "腿"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6886846a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bắp đùi, bắp vế"
+        }
+      ],
+      "mobileId": 4283,
+      "phonetic": "ふとしもも",
+      "related_words": {
+        "word": [
+          "腿"
+        ]
+      },
+      "word": "太腿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a80ed75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "high knee (exercise drill where one brings one's knees up high while walking or running)"
+        }
+      ],
+      "mobileId": 227511,
+      "phonetic": "ももあげ",
+      "word": "腿上げ"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4c469e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "femur (in entomology)"
+        }
+      ],
+      "mobileId": 250481,
+      "phonetic": "たいせつ",
+      "word": "腿節"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a879660",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bones of the upper and lower leg"
+        }
+      ],
+      "mobileId": 227727,
+      "phonetic": "たいこつ",
+      "word": "腿骨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adb4bb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Harris's hawk (Parabuteo unicinctus), Harris hawk"
+        }
+      ],
+      "mobileId": 230453,
+      "phonetic": "ももあかノスリ モモアカノスリ",
+      "word": "腿赤ノスリ"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fd9845",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Merostomata (group comprising the sea scorpions and the horseshoe crabs)"
+        }
+      ],
+      "mobileId": 272685,
+      "phonetic": "たいこうるい",
+      "word": "腿口類"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280276a767c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đình đám ."
+        }
+      ],
+      "mobileId": 30879,
+      "phonetic": "たいしゅえんをもよおす",
+      "word": "腿酒宴を催す"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027f61d8d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "2002年11月15日、お客様のご注文の商品を発送致しました。商品がお手元に届くまで2〜3週間かかります。私共の店から御買い上げいただき、誠にありがとうございました。",
+              "mean": "kính thưa quý khách, chúng tôi đã giao hàng theo đơn đặt hàng của quý khách hôm 15/11/02. Hàng sẽ đến nơi trong vòng 2~ 3 tuần nữa . Rất hân hạnh được phục vụ.",
+              "transcription": "2002ねん11つき15にち、おきゃくさまのごちゅうもんのしょうひんをはっそういたしました。しょうひんがおてもとにとどくまで2 〜 3しゅうかんかかります。わたしどものみせからおかいあげいただき、まことにありがとうございました。"
+            },
+            {
+              "content": "同氏に対しご高配とご支援を賜れますなら、誠にありがたく存じます",
+              "mean": "chúng tôi đánh giá cao lòng thành và sự hợp tác mà bạn ưu ái dành cho ông ấy .",
+              "transcription": "どうしにたいしごこうはいとごしえんをたまわれますなら、まことにありがたくぞんじます"
+            }
+          ],
+          "kind": "adv, n",
+          "mean": "niềm tin; sự tín nhiệm; sự trung thành; sự chân thành"
+        },
+        {
+          "examples": [
+            {
+              "content": "そちらに訪問した際は温かく迎えてくださり、誠にありがとうございました。",
+              "mean": "xin chân thành cảm ơn vì sự tiếp đón nồng hậu trong thời gian tôi ở lại đây.",
+              "transcription": "そちらにほうもんしたさいはあたたかくむかえてくださり、まことにありがとうございました。"
+            },
+            {
+              "content": "ご注文いただきまして、誠にありがとうございました。",
+              "mean": "xin chân thành cảm ơn quý khách đã đặt hàng",
+              "transcription": "ごちゅうもんいただきまして、まことにありがとうございました。"
+            }
+          ],
+          "kind": "adv, n",
+          "mean": "sự thực; sự chính xác; độ chân thực; tính thật thà; tính trung thực"
+        },
+        {
+          "examples": [
+            {
+              "content": "〜をご利用いただき誠にありがとうございました。",
+              "mean": "Chân thành cảm ơn quý khách đã sử dụng ~",
+              "transcription": "〜をごりよういただきまことにありがとうございました。"
+            },
+            {
+              "content": "それでは御買い上げいただき、誠にありがとうございました。またのご来店を心よりお待ちしております。《レ／末文》",
+              "mean": "Chúng tôi xin chân thành cảm ơn quý khách đã ghé mua hàng tại cửa hàng của chúng tôi và rất mong lần sau quý khách sẽ lại ghé qua mua sắm.",
+              "transcription": "それではごかいあげいただき、まことにありがとうございました。またのごらいてんをこころよりおまちしております。 《レ／まつぶん》"
+            }
+          ],
+          "kind": "adv, n",
+          "mean": "niềm tin; tín nhiệm; trung thành"
+        },
+        {
+          "examples": [
+            {
+              "content": "商品を迅速に発送していただき、誠にありがとうございました。",
+              "mean": "xin chân thành cảm ơn vì giao hàng sớm của quý công ty.",
+              "transcription": "しょうひんをじんそくにはっそうしていただき、まことにありがとうございました。"
+            },
+            {
+              "content": "御社の製品に関するお手紙をいただき、誠にありがとうございました。",
+              "mean": "xin chân thành cảm ơn quý công ty đã gửi thư về các sản phẩm của công ty chúng tôi. .",
+              "transcription": "おんしゃのせいひんにかんするおてがみをいただき、まことにありがとうございました。"
+            }
+          ],
+          "kind": "adv, n",
+          "mean": "thực; chính xác; chân thực; thật thà; trung thực"
+        }
+      ],
+      "mobileId": 33315,
+      "opposite_word": [
+        "偽り"
+      ],
+      "phonetic": "まこと",
+      "related_words": {
+        "word": [
+          "誠実",
+          "誠実な",
+          "誠意",
+          "忠誠",
+          "誠心誠意",
+          "誠実に",
+          "誠に",
+          "不誠実"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "誠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "実体",
+                "実意",
+                "赤心",
+                "本気",
+                "実",
+                "忠誠",
+                "真情",
+                "真面目",
+                "まじめ",
+                "信",
+                "信実",
+                "正直",
+                "真心",
+                "衷情",
+                "誠意",
+                "真率",
+                "真",
+                "丹誠",
+                "丹心"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "貞節",
+                "実",
+                "忠誠",
+                "律儀",
+                "操守",
+                "信",
+                "節操",
+                "信実",
+                "真実性",
+                "信義",
+                "操",
+                "忠義",
+                "丹心",
+                "忠実"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "信"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "真相",
+                "実",
+                "本当",
+                "真実",
+                "事実",
+                "真",
+                "本真"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "リアリティー",
+                "現実"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "誠"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca099ef7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sincerity"
+        }
+      ],
+      "mobileId": 285867,
+      "phonetic": "せいじょう",
+      "word": "誠情"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f9672a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hợp lý, đáng tin cậy, có miệng lưỡi khéo léo"
+        }
+      ],
+      "mobileId": 7946,
+      "phonetic": "まことしやかに",
+      "word": "誠しやかに"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abb67b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Joushouji sect (of Shin Buddhism)"
+        }
+      ],
+      "mobileId": 229401,
+      "phonetic": "じょうしょうじは",
+      "word": "誠照寺派"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f98133",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "làm với thành thật"
+        }
+      ],
+      "mobileId": 7948,
+      "phonetic": "まことをつくす",
+      "word": "誠を尽くす"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e13abab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Truth comes out of falsehood"
+        }
+      ],
+      "mobileId": 248635,
+      "phonetic": "うそからでたまこと",
+      "word": "嘘から出た誠"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,353 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801188671",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "diện mạo"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gương mặt"
+        },
+        {
+          "examples": [
+            {
+              "content": "君のおかげで私の顔がつぶれた。",
+              "mean": "Tại anh mà tôi bị mất mặt đấy !",
+              "transcription": "きみのおかげでわたしのかおがつぶれた。"
+            },
+            {
+              "content": "お前は嘘を言ってるね，ちゃんと顔に書いてあるよ。",
+              "mean": "Cậu đang nói dối đấy nhỉ, nó còn hiện trên mặt cậu kìa.",
+              "transcription": "おまえはうそをいってるね，ちゃんとかおにかいてあるよ。"
+            },
+            {
+              "content": "僕たちの先生はまじめな顔をしてよく冗談を言う。",
+              "mean": "Thầy giáo của chúng tôi luôn pha trò bằng một khuôn mặt nghiêm nghị.",
+              "transcription": "ぼくたちのせんせいはまじめなかおをしてよくじょうだんをいう。"
+            },
+            {
+              "content": "彼の顔を知っている。",
+              "mean": "Cậu có biết mặt anh ấy không.",
+              "transcription": "かれのかおをしっている。"
+            },
+            {
+              "content": "私は恥ずかしくて彼の顔を見ることもできなかった。",
+              "mean": "Tôi xấu hổ đến mức không dám nhìn mặt anh ta.",
+              "transcription": "わたしははずかしくてかれのかおをみることもできなかった。"
+            },
+            {
+              "content": "彼女はとても愛らしい顔をしている。",
+              "mean": "Cô ấy có một khuôn mặt rất đáng yêu.",
+              "transcription": "かのじょはとてもあいらしいかおをしている。"
+            }
+          ],
+          "kind": "n",
+          "mean": "khuôn mặt; mặt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "顔から火が出る:Xấu hổ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "顔が利く:có ảnh hưởng, có quan hệ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "大きな顔:lên mặt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "顔が広い:quen biết rộng ."
+        }
+      ],
+      "mobileId": 42169,
+      "phonetic": "かお",
+      "related_words": {
+        "word": [
+          "笑顔",
+          "朝顔",
+          "横顔",
+          "素顔",
+          "顔料",
+          "似顔絵",
+          "顔写真",
+          "童顔",
+          "顔面",
+          "顔の"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "顔",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "面",
+                "顔色",
+                "表情",
+                "顔付き"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "面",
+                "人面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "見掛け",
+                "形相",
+                "風袋",
+                "見栄",
+                "うわべ",
+                "表構え",
+                "身なり",
+                "外見",
+                "外面",
+                "見せ掛け",
+                "格好",
+                "風姿",
+                "ルックス",
+                "外形",
+                "見栄え",
+                "恰好",
+                "見せかけ",
+                "姿",
+                "体裁",
+                "表面",
+                "風体",
+                "態",
+                "見映",
+                "外観",
+                "容姿"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "形相",
+                "血相",
+                "顔色",
+                "表情",
+                "顔付き"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "面目",
+                "点前",
+                "顔面",
+                "立前",
+                "表",
+                "面子",
+                "建て前"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "観",
+                "様相",
+                "形相",
+                "身なり",
+                "外見",
+                "見せ掛け",
+                "格好",
+                "血相",
+                "形状",
+                "恰好",
+                "見せかけ",
+                "姿",
+                "顔色",
+                "表情",
+                "顔付き",
+                "風体"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "顔"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933e9849",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hình thành (của) cái đầu; sử dụng làm - lên trên"
+        }
+      ],
+      "mobileId": 19920,
+      "phonetic": "かおづくり",
+      "word": "顔作り"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cc08c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mặt hạ cánh (được sử dụng bởi những người cưỡi ngựa bmx)"
+        }
+      ],
+      "mobileId": 24382,
+      "phonetic": "かおぎ",
+      "word": "顔着"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd068297",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xung quanh giáp mặt; mặt mặt trăng"
+        }
+      ],
+      "mobileId": 68995,
+      "phonetic": "まるがお",
+      "related_words": {
+        "word": [
+          "丸",
+          "顔"
+        ]
+      },
+      "word": "丸顔"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5cf6e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vẻ mặt hiểu biết"
+        }
+      ],
+      "mobileId": 71736,
+      "phonetic": "ものしりがお",
+      "word": "物知り顔"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f747037ab",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "憂い顔をしている",
+              "mean": "có vẻ mặt đau buồn .",
+              "transcription": "ういかおをしている"
+            }
+          ],
+          "kind": "n",
+          "mean": "khuôn mặt u buồn"
+        }
+      ],
+      "mobileId": 99063,
+      "phonetic": "うれいがお",
+      "related_words": {
+        "word": [
+          "顔",
+          "憂い"
+        ]
+      },
+      "word": "憂い顔"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f747f07e5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "所得顔で",
+              "mean": "Với vẻ mặt đắc thắng .",
+              "transcription": "ところえがおで"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "khuôn mặt đắc thắng"
+        }
+      ],
+      "mobileId": 99307,
+      "phonetic": "ところえがお",
+      "word": "所得顔"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da4a457",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vẻ mặt cứ như mình là chủ"
+        }
+      ],
+      "mobileId": 150948,
+      "phonetic": "しゅじんがお",
+      "related_words": {
+        "word": [
+          "人",
+          "主",
+          "顔",
+          "主人"
+        ]
+      },
+      "word": "主人顔"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dab6606",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khuôn mặt trang điểm ."
+        }
+      ],
+      "mobileId": 144365,
+      "phonetic": "つくりがお",
+      "related_words": {
+        "word": [
+          "顔",
+          "作",
+          "作り"
+        ]
+      },
+      "word": "作り顔"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d18312c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "typically Caucasian face"
+        }
+      ],
+      "mobileId": 215874,
+      "phonetic": "ソースがお",
+      "word": "ソース顔"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

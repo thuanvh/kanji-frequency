@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10759ae69",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "事故に遭うなんて､かわいそうなやつ",
+              "mean": "thằng ấy đáng thương thật, lại gặp phải tai nạn .",
+              "transcription": "じこにあうなんて、かわいそうなやつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "gã ấy; thằng ấy; thằng cha; vật ấy"
+        }
+      ],
+      "mobileId": 53355,
+      "phonetic": "やつ",
+      "related_words": {
+        "word": [
+          "奴隷",
+          "冷奴",
+          "彼奴",
+          "売国奴",
+          "守銭奴"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "奴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "やつ",
+                "ガイ",
+                "野郎"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "やつ",
+                "ガイ",
+                "野郎",
+                "少年",
+                "若者",
+                "兄さん"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "下部",
+                "下男",
+                "家僕",
+                "下僕",
+                "僕"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "奴"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a671e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn, adj-no",
+          "mean": "gã này; anh chàng này; người này"
+        }
+      ],
+      "mobileId": 38816,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "奴"
+        ]
+      },
+      "word": "此奴"
+    },
+    {
+      "_id": "432518852de0a80625d585a98225ae53",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "servant of the imperial court"
+        }
+      ],
+      "mobileId": 232813,
+      "phonetic": "みやつこ みやづこ",
+      "word": "御奴"
+    },
+    {
+      "_id": "432518852de0a80625d585a982479776",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "me"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "you"
+        }
+      ],
+      "mobileId": 233899,
+      "phonetic": "わけ",
+      "word": "戯奴"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0153e21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "person with an itobin hairstyle"
+        }
+      ],
+      "mobileId": 281634,
+      "phonetic": "いとびんやっこ",
+      "word": "糸鬢奴"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d392f17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tay chân nhỏ nhặt"
+        }
+      ],
+      "mobileId": 147550,
+      "phonetic": "さんしたやつ",
+      "word": "三下奴"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9efd3bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "moron, idiot"
+        }
+      ],
+      "mobileId": 263935,
+      "phonetic": "べらぼうめ",
+      "word": "べらぼう奴"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85d642a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nô lệ da đen"
+        }
+      ],
+      "mobileId": 36491,
+      "phonetic": "くろいやつ",
+      "word": "黒い奴"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027743e0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thằng cha đáng ngờ ."
+        }
+      ],
+      "mobileId": 31102,
+      "phonetic": "くさいやつ",
+      "word": "臭い奴"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824b036a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Edo-period hairstyle worn by samurai's attendants"
+        }
+      ],
+      "mobileId": 233998,
+      "phonetic": "やっこあたま",
+      "word": "奴頭"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

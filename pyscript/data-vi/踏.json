@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a2bade",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giẫm chân xuống"
+        }
+      ],
+      "mobileId": 61285,
+      "phonetic": "",
+      "word": "践踏"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688bc6a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "<Sử> cối xay guồng (bánh xe cối xay quay bằng sức nặng của người hay súc vật giẫm lên các bậc ở vòng quanh rìa trong của nó; trước kia do những người tù vận hành, coi như hình phạt), <BóNG> việc hàng ngày buồn tẻ; việc lao dịch; công việc hàng ngày đơn điệu, công việc hàng ngày mệt mỏi"
+        }
+      ],
+      "mobileId": 4450,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "車"
+        ]
+      },
+      "word": "踏車"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22094d6b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "bước cầu thang"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ふみづら",
+      "word": "踏面"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00db0e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "outing in spring"
+        }
+      ],
+      "mobileId": 281404,
+      "phonetic": "とうせい",
+      "word": "踏青"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04f5c03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "foot-operated bellows, foot bellows"
+        }
+      ],
+      "mobileId": 209400,
+      "phonetic": "たたら",
+      "word": "踏鞴"
+    },
+    {
+      "_id": "432518852de0a80625d585a982724138",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "simple change (horse gait)"
+        }
+      ],
+      "mobileId": 235238,
+      "phonetic": "たんじゅんとうほへんかん",
+      "word": "単純踏歩変換"
+    },
+    {
+      "_id": "432518852de0a80625d585a982723c65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lead change (horse gait)"
+        }
+      ],
+      "mobileId": 235237,
+      "phonetic": "とうほへんかん",
+      "word": "踏歩変換"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

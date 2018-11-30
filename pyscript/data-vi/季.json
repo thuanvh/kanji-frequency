@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cec8d5",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "mùa; thời tiết; từ chỉ mùa trong thơ"
+        }
+      ],
+      "mobileId": 24469,
+      "phonetic": "き",
+      "word": "季"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f031ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cuối mùa (nghĩa đen và nghĩa bóng)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "end of term"
+        }
+      ],
+      "mobileId": 25547,
+      "phonetic": "きまつ",
+      "word": "季末"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fef9be",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đóng những năm (thời kỳ, những ngày)(kẻ) cuối cùng trình diễn"
+        }
+      ],
+      "mobileId": 8123,
+      "phonetic": "すえき",
+      "related_words": {
+        "word": [
+          "末"
+        ]
+      },
+      "word": "末季"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802780f7e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Mùa hoa ."
+        }
+      ],
+      "mobileId": 31387,
+      "phonetic": "かき",
+      "related_words": {
+        "word": [
+          "花"
+        ]
+      },
+      "word": "花季"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d0629a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "seasonal word (in haiku)"
+        }
+      ],
+      "mobileId": 262938,
+      "phonetic": "きことば",
+      "word": "季詞"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdcbad36",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mùa săn bắn"
+        }
+      ],
+      "mobileId": 75298,
+      "phonetic": "りょうき",
+      "word": "猟季"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d501757",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mùa khô ."
+        }
+      ],
+      "mobileId": 142810,
+      "phonetic": "かんそうき",
+      "related_words": {
+        "word": [
+          "乾燥",
+          "乾"
+        ]
+      },
+      "word": "乾燥季"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

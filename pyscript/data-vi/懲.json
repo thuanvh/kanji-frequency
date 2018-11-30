@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74767402",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trừng phạt cái ác ."
+        }
+      ],
+      "mobileId": 99140,
+      "opposite_word": [
+        "勧善"
+      ],
+      "phonetic": "ちょうあく",
+      "word": "懲悪"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c099b4dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reformatory"
+        }
+      ],
+      "mobileId": 211781,
+      "phonetic": "ちょうじかん",
+      "word": "懲治監"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

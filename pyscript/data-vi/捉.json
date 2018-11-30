@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e643d8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để tiếp tục giữ tới; tới sự nắm chặt"
+        }
+      ],
+      "mobileId": 114233,
+      "phonetic": "",
+      "word": "捉まる"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74b6d52b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chộp ."
+        }
+      ],
+      "mobileId": 100144,
+      "phonetic": "つかまえる",
+      "synsets": [
+        {
+          "base_form": "捉まえる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "獲る",
+                "採る",
+                "捕らえる",
+                "捕る",
+                "捕える",
+                "捕まえる",
+                "捉える"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "組み付く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "握る",
+                "捕まえる",
+                "掴む"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "捕らえる",
+                "捕える",
+                "挙げる",
+                "捕まえる",
+                "召し捕る",
+                "搦め捕る"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "抑える",
+                "捕らえる",
+                "捕える",
+                "捕まえる",
+                "召し捕る",
+                "捉える"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "捕らえる",
+                "分捕る",
+                "乗り取る",
+                "捕える",
+                "乗っ取る",
+                "捕まえる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "捉まえる"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

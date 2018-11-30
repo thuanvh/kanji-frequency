@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a50bb98",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "act of fleeing into hiding"
+        }
+      ],
+      "mobileId": 226005,
+      "phonetic": "とうざん",
+      "word": "逃竄"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa76866f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lúc nào cũng muốn né tránh; lúc nào cũng muốn lảng tránh ."
+        }
+      ],
+      "mobileId": 108466,
+      "phonetic": "にげごし",
+      "word": "逃腰"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa76858b2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự chạy trốn"
+        }
+      ],
+      "mobileId": 108465,
+      "phonetic": "ちょうさん",
+      "word": "逃散"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e78fa1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "本の雌しべを持つ《植物》",
+              "mean": "Có năm nhuỵ .",
+              "transcription": "ほんのめしべをもつ《しょくぶつ》"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "con cái; cái"
+        }
+      ],
+      "mobileId": 110599,
+      "opposite_word": [
+        "雄"
+      ],
+      "phonetic": "めす",
+      "related_words": {
+        "word": [
+          "雌犬",
+          "雌牛",
+          "雌馬",
+          "雌雄"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "雌",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "牝犬",
+                "雌犬"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "メス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "雌"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e812a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhị cái ."
+        }
+      ],
+      "mobileId": 110606,
+      "phonetic": "めしべ",
+      "related_words": {
+        "word": [
+          "雌"
+        ]
+      },
+      "word": "雌蘂"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d63368a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "nữ tính; tính cái; mái"
+        }
+      ],
+      "mobileId": 148884,
+      "phonetic": "めすせい",
+      "related_words": {
+        "word": [
+          "性",
+          "雌"
+        ]
+      },
+      "word": "雌性"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd491d18",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ốc vít đầu lõm"
+        }
+      ],
+      "mobileId": 71112,
+      "opposite_word": [
+        "雄捻子"
+      ],
+      "phonetic": "めすねじ",
+      "word": "雌捻子"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0d01bc",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Lợn cái/ heo cái"
+        }
+      ],
+      "mobileId": 223821,
+      "phonetic": "めぶた",
+      "word": "雌豚"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e90ecf6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "orpiment"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gamboge"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "falsification, alteration"
+        }
+      ],
+      "mobileId": 252710,
+      "phonetic": "しおう きに",
+      "word": "雌黄"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd491389",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vít cái (đầu lõm)"
+        }
+      ],
+      "mobileId": 71111,
+      "opposite_word": [
+        "雄螺子"
+      ],
+      "phonetic": "めすねじ",
+      "related_words": {
+        "word": [
+          "子",
+          "雌"
+        ]
+      },
+      "word": "雌螺子"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e7e375",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "慌てて産もうとする雌犬は、目の不自由な子犬を産んでしまう。",
+              "mean": "Con chó cái nóng nảy đẻ được bốn con chó con mù",
+              "transcription": "あわててうもうとするめすけんは、めのふじゆうなこいぬをうんでしまう。"
+            },
+            {
+              "content": "繁殖用雌犬",
+              "mean": "Ổ chó",
+              "transcription": "はんしょくようめすいぬ"
+            }
+          ],
+          "kind": "n",
+          "mean": "chó cái"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chó đực ."
+        }
+      ],
+      "mobileId": 110604,
+      "phonetic": "めすいぬ",
+      "related_words": {
+        "word": [
+          "犬",
+          "雌"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "雌犬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "牝犬",
+                "雌"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "雌犬"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e832a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gà mái ."
+        }
+      ],
+      "mobileId": 110609,
+      "opposite_word": [
+        "雄鶏"
+      ],
+      "phonetic": "めんどり",
+      "word": "雌鶏"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef922f372",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Themeda triandra var. japonica (variety of kangaroo grass)"
+        }
+      ],
+      "mobileId": 273881,
+      "phonetic": "めがるかや メガルカヤ",
+      "word": "雌刈萱"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

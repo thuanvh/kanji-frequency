@@ -1,0 +1,266 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a37888d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "銀行用送り状",
+              "mean": "hóa đơn ngân hàng",
+              "transcription": "ぎんこうようおくりじょう"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "giấy (mời, chia buồn)"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "trạng thái; tình trạng ."
+        }
+      ],
+      "mobileId": 171284,
+      "phonetic": "じょう",
+      "related_words": {
+        "word": [
+          "状態",
+          "状況",
+          "現状",
+          "招待状",
+          "形状",
+          "委任状",
+          "症状",
+          "年賀状",
+          "進行状況",
+          "推薦状"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "状",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "有り様",
+                "容体",
+                "具合い",
+                "具合",
+                "様子",
+                "工合",
+                "様態",
+                "コンディション",
+                "状況",
+                "状態"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "雁の便り",
+                "文",
+                "便り",
+                "郵便",
+                "投書",
+                "雁書",
+                "信書",
+                "書簡",
+                "書面",
+                "信",
+                "雁の使い",
+                "手紙",
+                "雁の文",
+                "レター",
+                "便"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "状"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b3870f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "優勝者に表彰状が授けられた",
+              "mean": "giấy biểu dương dành tặng cho nhà vô địch",
+              "transcription": "ゆうしょうしゃにひょうしょうじょうがさづけられた"
+            },
+            {
+              "content": "大統領の表彰状",
+              "mean": "Giấy tuyên dương của Tổng Thống .",
+              "transcription": "だいとうりょうのひょうしょうじょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "giấy biểu dương; giấy tuyên dương; huân chương"
+        }
+      ],
+      "mobileId": 32243,
+      "phonetic": "ひょうしょうじょう",
+      "related_words": {
+        "word": [
+          "表",
+          "状"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "表彰状",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "賞状",
+                "表彰"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "表彰状"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280271164c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giấy giới thiệu ."
+        }
+      ],
+      "mobileId": 29397,
+      "phonetic": "しょうかいじょう",
+      "word": "紹介状"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeeab4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hình đĩa"
+        }
+      ],
+      "mobileId": 17326,
+      "phonetic": "えんばんじょう",
+      "related_words": {
+        "word": [
+          "円",
+          "盤",
+          "状",
+          "円盤"
+        ]
+      },
+      "word": "円盤状"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f6ef65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "màng; như màng; dạng màng"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "mỏng nhẹ, mờ mờ, có váng, dạng màng"
+        }
+      ],
+      "mobileId": 7873,
+      "phonetic": "まくじょう",
+      "word": "膜状"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d61a57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản cáo trạng"
+        }
+      ],
+      "mobileId": 40359,
+      "phonetic": "こくはつじょう",
+      "word": "告発状"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0331299",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "warning letter (e.g. of infringement), written warning"
+        }
+      ],
+      "mobileId": 282585,
+      "phonetic": "けいこくじょう",
+      "word": "警告状"
+    },
+    {
+      "_id": "432518852de0a80625d585a982c64739",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "star configuration"
+        }
+      ],
+      "mobileId": 237960,
+      "phonetic": "スターじょう",
+      "word": "スター状"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada00d250",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bảng công khai"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lá thư ngỏ; thư ngỏ ."
+        }
+      ],
+      "mobileId": 76932,
+      "phonetic": "こうかいじょう",
+      "related_words": {
+        "word": [
+          "公開",
+          "公",
+          "状"
+        ]
+      },
+      "word": "公開状"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f744f8b32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thư chia buồn ."
+        }
+      ],
+      "mobileId": 98615,
+      "phonetic": "くやみじょう",
+      "related_words": {
+        "word": [
+          "状"
+        ]
+      },
+      "word": "悔み状"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

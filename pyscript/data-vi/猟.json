@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a3ed6fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "săn"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự săn; sự săn bắt"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "猟官制度:chế độ chia chiến lợi phẩm ."
+        }
+      ],
+      "mobileId": 171406,
+      "phonetic": "りょう",
+      "related_words": {
+        "word": [
+          "狩猟",
+          "猟犬",
+          "猟師"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "猟",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "狩り",
+                "ハント",
+                "狩猟"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "狩り",
+                "狩猟"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "猟"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4b189c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "săn bằng lưới"
+        }
+      ],
+      "mobileId": 12189,
+      "phonetic": "あみりょう",
+      "word": "網猟"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938c223f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đi săn vịt trời"
+        }
+      ],
+      "mobileId": 22379,
+      "phonetic": "かもりょう",
+      "related_words": {
+        "word": [
+          "鴨",
+          "猟"
+        ]
+      },
+      "word": "鴨猟"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdcdd1d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phóng đãng; sự dâm đãng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính dâm dục, tính dâm dật, tính vô sỉ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trác tráng, sự truỵ lạc, sự cám đỗ, sự làm hư hỏng, sự làm bại hoại"
+        }
+      ],
+      "mobileId": 75362,
+      "phonetic": "りょうしょく",
+      "word": "猟色"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a633f92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hunting companion"
+        }
+      ],
+      "mobileId": 226562,
+      "phonetic": "りょうゆう",
+      "word": "猟友"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdcbad36",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mùa săn bắn"
+        }
+      ],
+      "mobileId": 75298,
+      "phonetic": "りょうき",
+      "word": "猟季"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4d4ffe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "game animal"
+        }
+      ],
+      "mobileId": 250510,
+      "phonetic": "りょうじゅう",
+      "word": "猟獣"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04d65fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "animal trapping, hunting with traps"
+        }
+      ],
+      "mobileId": 283437,
+      "phonetic": "わなりょう",
+      "word": "わな猟"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdcf0490",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim bị săn làm thịt"
+        }
+      ],
+      "mobileId": 75401,
+      "phonetic": "りょうとり",
+      "word": "猟鳥"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8d6be8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "suspension of hunting"
+        }
+      ],
+      "mobileId": 219652,
+      "phonetic": "きゅうりょう",
+      "word": "休猟"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

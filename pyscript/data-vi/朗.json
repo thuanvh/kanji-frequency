@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04daf4e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "bright and brilliant"
+        }
+      ],
+      "mobileId": 209345,
+      "phonetic": "こうろう",
+      "word": "晃朗"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8a94c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự sáng ngời; sự rực rỡ, sự sáng dạ, sự thông minh, sự nhanh trí"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trong trẻo (nước, không khí...), sự rõ ràng, sự sáng tỏ, sự thông suốt, tình trạng không có gì cản trở"
+        }
+      ],
+      "mobileId": 73205,
+      "phonetic": "とおるろう",
+      "word": "融朗"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8cc6e25",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rực rỡ và sáng sủa"
+        }
+      ],
+      "mobileId": 40048,
+      "phonetic": "あきらろうたる",
+      "word": "晃朗たる"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

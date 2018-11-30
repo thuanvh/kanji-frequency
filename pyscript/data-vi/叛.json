@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68283f5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phản thần, nghịch thần"
+        }
+      ],
+      "mobileId": 1298,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "叛臣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "反乱者",
+                "反賊",
+                "叛賊",
+                "反逆者",
+                "反逆人"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "叛臣"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada9fb3b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tinh thần chống đối ."
+        }
+      ],
+      "mobileId": 79570,
+      "phonetic": "はんしん",
+      "related_words": {
+        "word": [
+          "心"
+        ]
+      },
+      "word": "叛心"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6827e9c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chống đối người lãnh đạo"
+        }
+      ],
+      "mobileId": 1288,
+      "phonetic": "",
+      "word": "叛将"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6829194a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kết quả (của) cuộc nổi loạn"
+        }
+      ],
+      "mobileId": 1327,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "跡"
+        ]
+      },
+      "word": "叛跡"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6829ade9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chống đối"
+        }
+      ],
+      "mobileId": 1344,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "叛賊",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "反乱者",
+                "叛臣",
+                "反賊",
+                "反逆者",
+                "反逆人"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "叛賊"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada9f9e0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phản"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phản bội ."
+        }
+      ],
+      "mobileId": 79568,
+      "phonetic": "そむく",
+      "word": "叛く"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931baeee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "không tuân lệnh một có parent(s)"
+        }
+      ],
+      "mobileId": 18806,
+      "phonetic": "",
+      "word": "親に叛く"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568014bb0ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sợi gai; sợi lanh ."
+        }
+      ],
+      "mobileId": 43052,
+      "phonetic": "あさいと",
+      "related_words": {
+        "word": [
+          "麻"
+        ]
+      },
+      "word": "麻絲"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df24356",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese-style stir-fry containing green peppers and meat, pepper steak (US)"
+        }
+      ],
+      "mobileId": 222958,
+      "phonetic": "チンジャオロース チンジャオロースー チンジャオロウスー",
+      "word": "青椒肉絲"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

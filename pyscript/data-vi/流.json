@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fcc9442",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "イタリア流",
+              "mean": "phong cách Ý",
+              "transcription": "イタリアりゅう"
+            }
+          ],
+          "kind": "n-suf, n",
+          "mean": "dòng; phong cách; tính chất"
+        },
+        {
+          "examples": [
+            {
+              "content": "メリカ流に",
+              "mean": "Theo trào lưu văn hóa Mỹ.",
+              "transcription": "メリカりゅうに"
+            },
+            {
+              "content": "日本流のあいさつ",
+              "mean": "Kiểu chào hỏi theo văn hóa Nhật bản.",
+              "transcription": "にっぽんりゅうのあいさつ"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n-suf, n",
+          "mean": "văn hóa nhóm; tiểu văn hóa"
+        }
+      ],
+      "mobileId": 188299,
+      "phonetic": "りゅう",
+      "related_words": {
+        "word": [
+          "流行",
+          "流れ",
+          "交流",
+          "流れ星",
+          "電流",
+          "流出",
+          "流通",
+          "流星",
+          "流動資産",
+          "国際交流"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "流",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "趨勢",
+                "潮流",
+                "流れ",
+                "動向",
+                "トレンド",
+                "大局"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "流"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc9efe2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tài nghệ, sự khéo léo, tay nghề"
+        }
+      ],
+      "mobileId": 75249,
+      "phonetic": "ながれりゅう",
+      "word": "流流"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f14278",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiểu bình thường"
+        }
+      ],
+      "mobileId": 7689,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "流",
+          "凡"
+        ]
+      },
+      "word": "凡流"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824fd4b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "influx of Taiwanese pop culture (into Japan)"
+        }
+      ],
+      "mobileId": 234153,
+      "phonetic": "たいりゅう",
+      "word": "台流"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef923c9d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coastal current, littoral current, alongshore current"
+        }
+      ],
+      "mobileId": 273907,
+      "phonetic": "えんがんりゅう",
+      "word": "沿岸流"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c38e6d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one's own way of thinking, one's independent approach"
+        }
+      ],
+      "mobileId": 279001,
+      "phonetic": "オレりゅう おれりゅう",
+      "word": "オレ流"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9e1bff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chảy vòng quanh"
+        }
+      ],
+      "mobileId": 150733,
+      "phonetic": "しゅうりゅう",
+      "related_words": {
+        "word": [
+          "流",
+          "周"
+        ]
+      },
+      "word": "周流"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d683dd8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kobori, swimming while wearing armor"
+        }
+      ],
+      "mobileId": 218444,
+      "phonetic": "こぼりりゅう",
+      "word": "小堀流"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77396a27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "laminar flow"
+        }
+      ],
+      "mobileId": 266320,
+      "phonetic": "そうりゅう",
+      "word": "層流"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e817705a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dòng biển bắc [nam] cực"
+        }
+      ],
+      "mobileId": 34246,
+      "phonetic": "きょくりゅう",
+      "word": "極流"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

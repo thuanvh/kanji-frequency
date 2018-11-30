@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801282112",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơm ."
+        }
+      ],
+      "mobileId": 42437,
+      "phonetic": "めし",
+      "related_words": {
+        "word": [
+          "晩御飯",
+          "炊飯器",
+          "晩ご飯",
+          "昼ご飯",
+          "夕飯",
+          "御飯",
+          "朝飯前",
+          "炒飯",
+          "朝御飯",
+          "昼御飯"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "飯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "稲",
+                "白米",
+                "米飯",
+                "米穀",
+                "供米",
+                "舎利",
+                "米",
+                "御飯",
+                "上米",
+                "ライス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "飯"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8c87f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bột, lượng sữa vắt, bữa ăn, ăn, ăn cơm"
+        }
+      ],
+      "mobileId": 14249,
+      "phonetic": "いちめし",
+      "related_words": {
+        "word": [
+          "一",
+          "飯"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "一飯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "食事"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "一飯"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824197df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soft rice (cooked in a pot)"
+        }
+      ],
+      "mobileId": 233697,
+      "phonetic": "ひめいい",
+      "word": "姫飯"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9beaf25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "free food, free meal"
+        }
+      ],
+      "mobileId": 278832,
+      "phonetic": "タダめし ただめし タダメシ",
+      "word": "タダ飯"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0b38f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cooked white rice"
+        }
+      ],
+      "mobileId": 215458,
+      "phonetic": "はくはん しろめし",
+      "related_words": {
+        "word": [
+          "白",
+          "飯"
+        ]
+      },
+      "word": "白飯"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778f1c63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "steamed rice (esp. cold rice reheated by steaming it)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mochi rice with red beans steamed in a steaming basket, rice with red beans (eaten on celebratory occasions)"
+        }
+      ],
+      "mobileId": 269098,
+      "phonetic": "むしめし",
+      "word": "蒸し飯"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778f4b47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soba and rice cooked together along with meat, vegetables, etc. on a metal plate"
+        }
+      ],
+      "mobileId": 269104,
+      "phonetic": "そばめし",
+      "word": "そば飯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d0b7ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rice boiled with chestnuts"
+        }
+      ],
+      "mobileId": 262946,
+      "phonetic": "くりめし",
+      "word": "栗飯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f36f9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rice boiled with adzuki beans"
+        }
+      ],
+      "mobileId": 264045,
+      "phonetic": "あずきめし",
+      "word": "小豆飯"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e70c5b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ăn, thức ăn"
+        }
+      ],
+      "mobileId": 25230,
+      "phonetic": "",
+      "word": "喫飯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

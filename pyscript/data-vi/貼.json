@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa720b4a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thuốc cao"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thuốc dán ."
+        }
+      ],
+      "mobileId": 107206,
+      "phonetic": "はりぐすり",
+      "word": "貼薬"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6b43f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "áo bành tô mặc trong, lớp dưới, lớp đáy, lông măng"
+        }
+      ],
+      "mobileId": 149135,
+      "phonetic": "したは",
+      "related_words": {
+        "word": [
+          "下"
+        ]
+      },
+      "word": "下貼"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00d0afc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "removing the weather stripping in spring"
+        }
+      ],
+      "mobileId": 281383,
+      "phonetic": "めばりはぐ",
+      "word": "目貼剥ぐ"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

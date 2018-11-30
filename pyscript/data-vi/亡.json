@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e5a5d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đứa con đã chết"
+        }
+      ],
+      "mobileId": 7311,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "子"
+        ]
+      },
+      "word": "亡子"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e9038e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ông đã chết ((mà) một có muộn)"
+        }
+      ],
+      "mobileId": 7424,
+      "phonetic": "",
+      "word": "亡祖父"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68eb5c3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bạn đã chết, người bạn quá cố"
+        }
+      ],
+      "mobileId": 7496,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "友"
+        ]
+      },
+      "word": "亡友"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e6f4f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bất lịch sự, sự thiếu lễ độ; sự thô lỗ, sự thô bạo"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tình trạng không có pháp luật, tình trạng không hợp pháp, tình trạng lộn xộn, tình trạng vô trật tự, tình trạng hỗn loạn"
+        }
+      ],
+      "mobileId": 7351,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "状"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "亡状",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "失礼",
+                "不埒",
+                "不躾",
+                "無礼",
+                "非礼",
+                "烏滸の沙汰",
+                "不作法",
+                "不行儀",
+                "失敬",
+                "伝法"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "不躾",
+                "非礼",
+                "不作法",
+                "不行儀"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "亡状"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280277ea23c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mù màu ."
+        }
+      ],
+      "mobileId": 31336,
+      "phonetic": "しきもう",
+      "word": "色亡"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e5a114",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người chị đã mất, người chị quá cố"
+        }
+      ],
+      "mobileId": 7310,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "姉"
+        ]
+      },
+      "word": "亡姉"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d65a8e8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "値段は予告なしにかわることがございます。",
+              "mean": "Giá có thể thay đổi mà không có thông báo trước.",
+              "transcription": "ねだんはよこくなしにかわることがございます。"
+            },
+            {
+              "content": "亡夫の仕事を引き継ぐ",
+              "mean": "Tiếp tục công việc của người chồng quá cố.",
+              "transcription": "亡夫のしごとをひきつぐ"
+            }
+          ],
+          "kind": "n",
+          "mean": "người chồng đã quá cố; vong phu; người chồng đã mất"
+        }
+      ],
+      "mobileId": 143212,
+      "opposite_word": [
+        "亡妻"
+      ],
+      "phonetic": "ぼうふ",
+      "word": "亡夫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770e717d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "customer at a brothel, john, someone who has forgotten the eight virtues"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "brothel, owner of a brothel"
+        }
+      ],
+      "mobileId": 264918,
+      "phonetic": "ぼうはち",
+      "word": "亡八"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68eabaca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bà vợ quá cố; người vợ đã chết; người đàn bà đã chết"
+        }
+      ],
+      "mobileId": 7477,
+      "phonetic": "",
+      "word": "亡婦"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68eae01f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người mẹ đã mất, người mẹ quá cố"
+        }
+      ],
+      "mobileId": 7483,
+      "opposite_word": [
+        "亡父"
+      ],
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "母"
+        ]
+      },
+      "word": "亡母"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

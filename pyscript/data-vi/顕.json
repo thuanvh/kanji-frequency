@@ -1,0 +1,150 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9824e02a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "exposure, clarity"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "exoteric Buddhism"
+        }
+      ],
+      "mobileId": 234101,
+      "phonetic": "けん",
+      "word": "顕"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e79d384",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Không hiểu rõ, không biết rõ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ふけん",
+      "word": "不顕"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e34b639",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sensible heat"
+        }
+      ],
+      "mobileId": 249721,
+      "phonetic": "けんねつ",
+      "word": "顕熱"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7fde1f3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜の電顕的研究を行う",
+              "mean": "Tiến hành nghiên cứu kính hiển vi điện tử của ~ .",
+              "transcription": "〜のでんあらわてきけんきゅうをおこなう"
+            }
+          ],
+          "kind": "exp, n",
+          "mean": "Kính hiển vi điện tử"
+        }
+      ],
+      "mobileId": 110987,
+      "phonetic": "でんけん",
+      "word": "電顕"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97c691d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "development, developing (color)"
+        }
+      ],
+      "mobileId": 276701,
+      "phonetic": "けんしょく",
+      "word": "顕色"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd500c57",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để xuất hiện; để đi vào tầm nhìn; để trở thành rõ ràng; để đi ra; gồm; để vật chất hóa; tới tốc hành chính mình"
+        }
+      ],
+      "mobileId": 12345,
+      "phonetic": "あらわわれる",
+      "word": "顕われる"
+    },
+    {
+      "_id": "432518852de0a80625d585a98204ed2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "dominance"
+        }
+      ],
+      "mobileId": 231798,
+      "phonetic": "けんせい",
+      "word": "顕性"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e1fa46b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "this world, present world (as opposed to the realm of the dead)"
+        }
+      ],
+      "mobileId": 249043,
+      "opposite_word": [
+        "幽界"
+      ],
+      "phonetic": "げんかい",
+      "word": "顕界"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c8c362",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "discovery, detection, exposure"
+        }
+      ],
+      "mobileId": 270950,
+      "phonetic": "けんろ",
+      "word": "顕露"
+    },
+    {
+      "_id": "432518852de0a80625d585a98204f36c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inapparent infection, subclinical infection"
+        }
+      ],
+      "mobileId": 231799,
+      "phonetic": "ふけんせいかんせん",
+      "word": "不顕性感染"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

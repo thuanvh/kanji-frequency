@@ -1,0 +1,287 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7ddae588",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cội"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nguyên bản; gốc; cơ sở; căn bản"
+        },
+        {
+          "examples": [
+            {
+              "content": "〜　大統領",
+              "mean": "nguyên tổng thống",
+              "transcription": "〜だいとうりょう"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "nguyên; cựu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vốn dĩ; nguyên là; vốn là ."
+        }
+      ],
+      "mobileId": 145190,
+      "phonetic": "もと",
+      "related_words": {
+        "word": [
+          "元気",
+          "次元",
+          "還元",
+          "復元",
+          "二次元",
+          "お元気ですか。",
+          "元素",
+          "地元",
+          "足元",
+          "諸元"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "元",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "種",
+                "素材",
+                "材料",
+                "ねた"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "誘因",
+                "原因",
+                "因",
+                "素因"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "発祥",
+                "素性"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "本元",
+                "基",
+                "根源",
+                "出処",
+                "源",
+                "元凶",
+                "出所",
+                "情報源",
+                "出どころ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "土台",
+                "基本",
+                "基盤",
+                "進数",
+                "基",
+                "本",
+                "基礎",
+                "拠点",
+                "根底",
+                "根拠",
+                "基地",
+                "付け根",
+                "根拠地",
+                "本拠",
+                "本拠地"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "土台",
+                "基本",
+                "基盤",
+                "進数",
+                "基",
+                "本",
+                "基礎",
+                "基数",
+                "拠点",
+                "根底",
+                "根拠",
+                "基地",
+                "付け根",
+                "根拠地",
+                "本拠",
+                "本拠地"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "元"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89b7992",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đứng đầu kẻ cướp"
+        }
+      ],
+      "mobileId": 38471,
+      "phonetic": "もとあく",
+      "related_words": {
+        "word": [
+          "元",
+          "悪"
+        ]
+      },
+      "word": "元悪"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5a9d13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm chủ người đấu thầu"
+        }
+      ],
+      "mobileId": 71661,
+      "phonetic": "もとうけにん",
+      "related_words": {
+        "word": [
+          "人",
+          "元"
+        ]
+      },
+      "word": "元請け人"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1003b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phần tử đơn vị"
+        }
+      ],
+      "mobileId": 111536,
+      "phonetic": "たんいもと",
+      "word": "単位元"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ebd627",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "base of the throat, bottom of the neck"
+        }
+      ],
+      "mobileId": 280303,
+      "phonetic": "くびもと",
+      "word": "首元"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7ddc1862",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cột mốc số không ."
+        }
+      ],
+      "mobileId": 145203,
+      "phonetic": "げんぴょう",
+      "related_words": {
+        "word": [
+          "元"
+        ]
+      },
+      "word": "元標"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dd05832",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhiều nhân tố (hệ số) hoặc những phần tử"
+        }
+      ],
+      "mobileId": 152387,
+      "phonetic": "しょもと",
+      "related_words": {
+        "word": [
+          "元",
+          "諸"
+        ]
+      },
+      "word": "諸元"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dce137e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "archetype"
+        }
+      ],
+      "mobileId": 221793,
+      "phonetic": "げんけい",
+      "word": "元型"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5fadec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chougen era (1028.7.25-1037.4.21)"
+        }
+      ],
+      "mobileId": 218171,
+      "phonetic": "ちょうげん",
+      "word": "長元"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d629b64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Gentoku era (1329.8.29-1331.8.9)"
+        }
+      ],
+      "mobileId": 218260,
+      "phonetic": "げんとく",
+      "word": "元徳"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

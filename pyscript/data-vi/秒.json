@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad05832",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "秒単位まで正確な",
+              "mean": "chính xác tới đơn vị của giây .",
+              "transcription": "びょうたんいまでせいかくな"
+            }
+          ],
+          "kind": "n",
+          "mean": "giây"
+        }
+      ],
+      "mobileId": 173776,
+      "phonetic": "びょう",
+      "related_words": {
+        "word": [
+          "一秒",
+          "秒針",
+          "秒速",
+          "数秒",
+          "分秒",
+          "秒読み",
+          "毎秒"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "秒",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "二番"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "セカンド"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "秒"
+    },
+    {
+      "_id": "432518852de0a80625d585a982e86143",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nanosecond, billionth of a second, ns"
+        }
+      ],
+      "mobileId": 239086,
+      "phonetic": "ナノびょう",
+      "word": "ナノ秒"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b1ea4e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "millisecond"
+        }
+      ],
+      "mobileId": 240787,
+      "phonetic": "ミリびょう",
+      "related_words": {
+        "word": [
+          "秒"
+        ]
+      },
+      "word": "ミリ秒"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcc7a15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một giây nhuận"
+        }
+      ],
+      "mobileId": 16254,
+      "phonetic": "うるうびょう",
+      "word": "閏秒"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74ef6d6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vài giây ."
+        }
+      ],
+      "mobileId": 101052,
+      "phonetic": "すうびょう",
+      "related_words": {
+        "word": [
+          "数",
+          "秒"
+        ]
+      },
+      "word": "数秒"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad05987",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồng hồ bấm giây ."
+        }
+      ],
+      "mobileId": 173777,
+      "phonetic": "びょうどけい",
+      "word": "秒時計"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a91e86e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "watt-second"
+        }
+      ],
+      "mobileId": 257254,
+      "phonetic": "ワットびょう",
+      "word": "ワット秒"
+    },
+    {
+      "_id": "432518852de0a80625d585a982fead3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "picosecond"
+        }
+      ],
+      "mobileId": 239788,
+      "phonetic": "ピコびょう",
+      "word": "ピコ秒"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2f1fba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "instant killing"
+        }
+      ],
+      "mobileId": 249544,
+      "phonetic": "びょうさつ",
+      "word": "秒殺"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7d2f47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một giây"
+        }
+      ],
+      "mobileId": 13766,
+      "phonetic": "いちびょう",
+      "related_words": {
+        "word": [
+          "一",
+          "秒"
+        ]
+      },
+      "word": "一秒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

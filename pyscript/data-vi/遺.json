@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bde156e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ashes (of the deceased), remains from cremation"
+        }
+      ],
+      "mobileId": 246933,
+      "phonetic": "いはい",
+      "word": "遺灰"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6b85a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tàn tích của sự đổ nát (lịch sử)"
+        }
+      ],
+      "mobileId": 13220,
+      "phonetic": "のこし",
+      "word": "遺址"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6ded3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tập hợp (của) những sự ghi bởi người đã chết"
+        }
+      ],
+      "mobileId": 13295,
+      "phonetic": "のこしゅう",
+      "word": "遺集"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7782ad17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scent (of an animal while hunting)"
+        }
+      ],
+      "mobileId": 268694,
+      "phonetic": "いしゅう",
+      "word": "遺臭"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6b4d8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự để lại, vật để lại"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thừa kế, của thừa kế, gia tài, di sản"
+        }
+      ],
+      "mobileId": 13215,
+      "phonetic": "のこざい",
+      "related_words": {
+        "word": [
+          "財"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "遺財",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "継承",
+                "家督",
+                "遺産",
+                "承継",
+                "相続"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "遺財"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd7c27e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sẽ; di chúc"
+        }
+      ],
+      "mobileId": 72707,
+      "phonetic": "のこつげ",
+      "word": "遺告"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca044ae10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "persistence, vestigial remnant"
+        }
+      ],
+      "mobileId": 283173,
+      "phonetic": "いざん",
+      "word": "遺残"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd68a067",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chần chừ mùi (của) người cho (quần áo, etc.)"
+        }
+      ],
+      "mobileId": 13132,
+      "phonetic": "のここう",
+      "word": "遺香"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6f174b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kí ức; kỷ niệm còn lại"
+        }
+      ],
+      "mobileId": 13333,
+      "phonetic": "のここと",
+      "related_words": {
+        "word": [
+          "事"
+        ]
+      },
+      "word": "遺事"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd71ca66",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tác phẩm xuất bản sau khi tác giả chết; di cảo"
+        }
+      ],
+      "mobileId": 13413,
+      "phonetic": "のこくさ",
+      "related_words": {
+        "word": [
+          "草"
+        ]
+      },
+      "word": "遺草"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

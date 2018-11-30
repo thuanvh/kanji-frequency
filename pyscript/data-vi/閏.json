@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c7d516",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "embolism, intercalation"
+        }
+      ],
+      "mobileId": 213287,
+      "phonetic": "うるう",
+      "related_words": {
+        "word": [
+          "閏年"
+        ]
+      },
+      "word": "閏"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcc7791",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhảy qua ngày"
+        }
+      ],
+      "mobileId": 16253,
+      "phonetic": "うるうび",
+      "word": "閏日"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcc7a15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một giây nhuận"
+        }
+      ],
+      "mobileId": 16254,
+      "phonetic": "うるうびょう",
+      "word": "閏秒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

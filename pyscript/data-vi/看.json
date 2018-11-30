@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b2633b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ đứng nhìn tốt, chỗ dễ nhìn, quan điểm, điểm nhìn"
+        }
+      ],
+      "mobileId": 23567,
+      "phonetic": "みてん",
+      "related_words": {
+        "word": [
+          "点"
+        ]
+      },
+      "word": "看点"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a5d0d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "canh phòng; giám sát"
+        }
+      ],
+      "mobileId": 23189,
+      "phonetic": "みし",
+      "word": "看視"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd246f97",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để thấu suốt (kẻ) khác có những tư duy; để có một mắt sắc; thâm nhập; tới sải"
+        }
+      ],
+      "mobileId": 69966,
+      "phonetic": "みやぶる",
+      "related_words": {
+        "word": [
+          "破る"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "看破る",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "汲み取る",
+                "見破る"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "看破る"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a2d1ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lookout, watch, person on guard"
+        }
+      ],
+      "mobileId": 286152,
+      "phonetic": "かんしじん",
+      "word": "看視人"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e896028",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Trông nom"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "みとった",
+      "word": "見看った"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

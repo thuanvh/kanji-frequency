@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e8c11ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "sự chảy mạnh ra ; sự đi ra, sự thoát ra, sự chảy ra, lượng chảy ra, chảy mạnh ra"
+        }
+      ],
+      "mobileId": 115497,
+      "opposite_word": [
+        "没",
+        "入"
+      ],
+      "phonetic": "いずる",
+      "word": "出"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0568454",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "won pachinko ball"
+        }
+      ],
+      "mobileId": 283744,
+      "phonetic": "でだま",
+      "word": "出玉"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c024d6f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "to just appear, to be half out, to be on the tip of one's tongue"
+        }
+      ],
+      "mobileId": 190338,
+      "phonetic": "でかかる",
+      "word": "出かかる"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0af33e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "unloading goods from a container truck, etc."
+        }
+      ],
+      "mobileId": 212474,
+      "phonetic": "でバン デバン",
+      "word": "出バン"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e6335ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kéo dài chất lượng; tốt mang"
+        }
+      ],
+      "mobileId": 114203,
+      "phonetic": "つかいで",
+      "related_words": {
+        "word": [
+          "使い"
+        ]
+      },
+      "word": "使い出"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e8cb737",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "cầm (lấy) người nào đó có chỗ"
+        }
+      ],
+      "mobileId": 115520,
+      "phonetic": "でかわる",
+      "related_words": {
+        "word": [
+          "替わる"
+        ]
+      },
+      "word": "出替わる"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e8d459e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khi định ra ngoài, lúc định ra ngoài"
+        }
+      ],
+      "mobileId": 115536,
+      "phonetic": "でさい",
+      "related_words": {
+        "word": [
+          "際"
+        ]
+      },
+      "word": "出際"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e8dce28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5u, vi",
+          "mean": "để nhớ một người đến thăm"
+        }
+      ],
+      "mobileId": 115557,
+      "phonetic": "でちがう",
+      "related_words": {
+        "word": [
+          "違う"
+        ]
+      },
+      "word": "出違う"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b0c724",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "depiction, including in a picture, delineation"
+        }
+      ],
+      "mobileId": 278364,
+      "phonetic": "てんしゅつ",
+      "word": "点出"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dac2951",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cuộc thám hiểm"
+        }
+      ],
+      "mobileId": 151187,
+      "phonetic": "でぐん",
+      "related_words": {
+        "word": [
+          "軍"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "出軍",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "探険",
+                "探検",
+                "出兵",
+                "発送",
+                "出師",
+                "発信"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "探険",
+                "探検",
+                "出兵",
+                "出師"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "出軍"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

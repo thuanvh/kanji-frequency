@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3acbac27",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wolverine (Gulo gulo), glutton, carcajou"
+        }
+      ],
+      "mobileId": 229929,
+      "phonetic": "くずり クズリ",
+      "word": "屈狸"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77186f3d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "Gập gan bàn chân"
+        }
+      ],
+      "mobileId": 265246,
+      "phonetic": "そこくつ",
+      "word": "底屈"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b01e4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "tình trạng gập ra phía sau"
+        }
+      ],
+      "mobileId": 39120,
+      "opposite_word": [
+        "前屈"
+      ],
+      "phonetic": "",
+      "word": "後屈"
+    },
+    {
+      "_id": "432518852de0a80625d585a98247d8c2",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "cong vênh"
+        }
+      ],
+      "mobileId": 233906,
+      "phonetic": "ざくつ",
+      "related_words": {
+        "word": [
+          "座"
+        ]
+      },
+      "word": "座屈"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8505c9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bắp thịt cơ gấp"
+        }
+      ],
+      "mobileId": 36069,
+      "phonetic": "",
+      "word": "屈筋"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ed5d1e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính chán ngắt, tỉnh tẻ, tính nhạt nhẽo, tính thiếu hấp dẫn"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nỗi buồn tẻ, nỗi buồn chán, điều khó chịu"
+        }
+      ],
+      "mobileId": 63684,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "怠屈",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "退屈",
+                "倦怠",
+                "アンニュイ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "怠屈"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e830ea1",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Gập lòng bàn tay"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "しょうくつ",
+      "word": "掌屈"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a60793",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bending"
+        }
+      ],
+      "mobileId": 261582,
+      "phonetic": "くっとう",
+      "word": "屈撓"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b0739f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự cong về phía trước"
+        }
+      ],
+      "mobileId": 61717,
+      "opposite_word": [
+        "後屈"
+      ],
+      "phonetic": "ぜん くつ",
+      "related_words": {
+        "word": [
+          "前"
+        ]
+      },
+      "word": "前屈"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771869c0",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Gập bàn chân (hướng lên trên)"
+        },
+        {
+          "examples": [],
+          "kind": "undefined",
+          "mean": "undefined"
+        }
+      ],
+      "mobileId": 265245,
+      "phonetic": "はいくつ",
+      "word": "背屈"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

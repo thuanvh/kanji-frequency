@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b823f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gỉ; gỉ sét"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "han ."
+        }
+      ],
+      "mobileId": 109831,
+      "phonetic": "さび",
+      "word": "錆"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6df2b026",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "anti-rust"
+        }
+      ],
+      "mobileId": 222972,
+      "phonetic": "ぼうせい",
+      "word": "防錆"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937bc2f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gỉ sét"
+        }
+      ],
+      "mobileId": 21858,
+      "phonetic": "きむさび",
+      "word": "金錆"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77aceb7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rusting, onset of rust"
+        }
+      ],
+      "mobileId": 270067,
+      "phonetic": "はっせい",
+      "word": "発錆"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c001f479",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vi",
+          "mean": "to rust together, to be rust-covered, to be rust-eaten"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to lose one's skill"
+        }
+      ],
+      "mobileId": 189193,
+      "phonetic": "さびつく",
+      "word": "錆つく"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687d1f52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thép không gỉ"
+        }
+      ],
+      "mobileId": 3978,
+      "phonetic": "ふせいこう",
+      "related_words": {
+        "word": [
+          "鋼"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "不錆鋼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ステンレススチール",
+                "不銹鋼"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "不錆鋼"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd100dc9",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp",
+          "mean": "Gieo nhân nào gặt quả ấy,mình phải chịu những hậu quả mà mình gây ra"
+        }
+      ],
+      "mobileId": 69301,
+      "phonetic": "みからでたさび",
+      "word": "身から出た錆"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

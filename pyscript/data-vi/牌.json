@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6839860a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, ctr",
+          "mean": "lợp ngói (mah - jongg)"
+        }
+      ],
+      "mobileId": 1866,
+      "phonetic": "ぱい, はい",
+      "word": "牌"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ccd33c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "value honor, round wind, seat wind, and dragon tiles"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "winning hand containing one kong (or pung) of a value honor"
+        }
+      ],
+      "mobileId": 279303,
+      "phonetic": "やくはい",
+      "word": "役牌"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d16cf0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wind tiles"
+        }
+      ],
+      "mobileId": 279455,
+      "phonetic": "フォンパイ かぜはい",
+      "word": "風牌"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5aa9c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tile that may be discarded without risking benefiting an opponent"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "no-risk choice, easily handled person"
+        }
+      ],
+      "mobileId": 218002,
+      "phonetic": "あんぜんパイ",
+      "word": "安全牌"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd5363bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "việc xác định một mảnh gần phác họa một trò chơi mahjong"
+        }
+      ],
+      "mobileId": 71429,
+      "phonetic": "",
+      "word": "摸牌"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cdba48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "discarded tiles"
+        }
+      ],
+      "mobileId": 279336,
+      "phonetic": "すてはい すてパイ",
+      "word": "捨て牌"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d142f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flower tiles"
+        }
+      ],
+      "mobileId": 279451,
+      "phonetic": "ファパイ はなはい はなパイ",
+      "word": "花牌"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da8b99b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "'safe' tile (one that won't be taken up by other players if discarded)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "someone that can be safely ignored (e.g. in some competitive situation)"
+        }
+      ],
+      "mobileId": 220550,
+      "phonetic": "あんパイ",
+      "word": "安牌"
+    },
+    {
+      "_id": "432518852de0a80625d585a9823413a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shuffling of tiles"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cleaning mahjong tiles"
+        }
+      ],
+      "mobileId": 233278,
+      "phonetic": "シーパイ せんパイ",
+      "word": "洗牌"
+    },
+    {
+      "_id": "432518852de0a80625d585a982341de8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "suited tiles"
+        }
+      ],
+      "mobileId": 233279,
+      "phonetic": "シューパイ すうパイ シュウパイ",
+      "word": "数牌"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9823d369c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "sparse"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "not close (of a relationship)"
+        }
+      ],
+      "mobileId": 233559,
+      "opposite_word": [
+        "密"
+      ],
+      "phonetic": "そ",
+      "word": "疎"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d7a880",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vague recollection, faint memory"
+        }
+      ],
+      "mobileId": 279670,
+      "phonetic": "おろおぼえ",
+      "related_words": {
+        "word": [
+          "覚え"
+        ]
+      },
+      "word": "疎覚え"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e51e3f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trình bày chi tiết bình luận"
+        }
+      ],
+      "mobileId": 113646,
+      "phonetic": "ちゅううと",
+      "word": "注疎"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b8e1bc4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "loosely-coupled"
+        }
+      ],
+      "mobileId": 244377,
+      "phonetic": "そけつごう",
+      "word": "疎結合"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca077683d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sparse matrix"
+        }
+      ],
+      "mobileId": 284780,
+      "phonetic": "そぎょうれつ",
+      "word": "疎行列"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c018a523",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vt",
+          "mean": "to thin out (e.g. seedlings)"
+        }
+      ],
+      "mobileId": 189943,
+      "phonetic": "うろぬく",
+      "word": "疎抜く"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95dbd5d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giải thích (cho mục đích (của) việc thuyết phục một quan tòa)"
+        }
+      ],
+      "mobileId": 63132,
+      "phonetic": "うとあきら",
+      "word": "疎明"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b8e30ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Loosely-Coupled MultiProcessor"
+        }
+      ],
+      "mobileId": 244379,
+      "phonetic": "そけつごうマルチプロセッサ",
+      "word": "疎結合マルチプロセッサ"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b8e2416",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "loosely coupled system"
+        }
+      ],
+      "mobileId": 244378,
+      "phonetic": "そけつごうシステム",
+      "word": "疎結合システム"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c023a1c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2y-s, vi",
+          "mean": "to partially heal, to get a bit better"
+        }
+      ],
+      "mobileId": 190299,
+      "phonetic": "おろいゆ",
+      "word": "疎癒ゆ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

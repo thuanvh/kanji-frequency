@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7347682",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "超大国は宇宙開発でしのぎを削っている。",
+              "mean": "Các siêu cường quốc đang chạy đua phát triển khoa học vũ trụ..",
+              "transcription": "ちょうたいこくはうちゅうかいはつでしのぎをけずっている。"
+            }
+          ],
+          "kind": "n, n-suf, pref",
+          "mean": "siêu"
+        }
+      ],
+      "mobileId": 107545,
+      "phonetic": "ちょう",
+      "word": "超"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0288d0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abrupt plot change, unexpected story development, story development from out of left field"
+        }
+      ],
+      "mobileId": 282233,
+      "phonetic": "ちょうてんかい",
+      "word": "超展開"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820222f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hyperspace, superspace"
+        }
+      ],
+      "mobileId": 231705,
+      "phonetic": "ちょうくうかん",
+      "word": "超空間"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa73514a0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "コバルト基超合金",
+              "mean": "Siêu hợp kim của nhóm Coban .",
+              "transcription": "コバルトもとちょうごうきん"
+            }
+          ],
+          "kind": "n",
+          "mean": "siêu hợp kim"
+        }
+      ],
+      "mobileId": 107557,
+      "phonetic": "ちょうごうきん",
+      "word": "超合金"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7355cc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Siêu văn bản (tin học) ."
+        }
+      ],
+      "mobileId": 107563,
+      "phonetic": "ちょうぶんめん",
+      "related_words": {
+        "word": [
+          "文",
+          "面",
+          "文面"
+        ]
+      },
+      "word": "超文面"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa735a32f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "超特急ひかり号",
+              "mean": "Đoàn tàu siêu tốc Hikari .",
+              "transcription": "ちょうとっきゅうひかりごう"
+            }
+          ],
+          "kind": "n",
+          "mean": "siêu tốc hành (tàu)"
+        }
+      ],
+      "mobileId": 107569,
+      "phonetic": "ちょうとっきゅう",
+      "related_words": {
+        "word": [
+          "急",
+          "特急"
+        ]
+      },
+      "word": "超特急"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7372220",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "超高速度衝突",
+              "mean": "sự va chạm siêu tốc .",
+              "transcription": "ちょうこうそくどしょうとつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "siêu tốc"
+        }
+      ],
+      "mobileId": 107594,
+      "phonetic": "ちょうこうそくど",
+      "word": "超高速度"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95ba9d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "super-rotation"
+        }
+      ],
+      "mobileId": 275664,
+      "phonetic": "ちょうかいてん",
+      "word": "超回転"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95bbb71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "superocean, super ocean"
+        }
+      ],
+      "mobileId": 275667,
+      "phonetic": "ちょうかいよう",
+      "word": "超海洋"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95bf725",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "void"
+        }
+      ],
+      "mobileId": 275672,
+      "phonetic": "ちょうくうどう",
+      "word": "超空洞"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

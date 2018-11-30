@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d17c0cc",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Giác hơi"
+        }
+      ],
+      "mobileId": 215864,
+      "phonetic": "きゅう やいと",
+      "word": "灸"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7bba5e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "châm cứu ."
+        }
+      ],
+      "mobileId": 109892,
+      "phonetic": "しんきゅう",
+      "word": "鍼灸"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778ab106",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "malabar grouper (Epinephelus malabaricus), estuary cod, greasy cod, spotted river cod, estuary rock cod"
+        }
+      ],
+      "mobileId": 268961,
+      "phonetic": "やいとはた ヤイトハタ",
+      "word": "灸羽田"
+    },
+    {
+      "_id": "432518852de0a80625d585a982131d1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "schizomid (any arachnid of order Schizomida)"
+        }
+      ],
+      "mobileId": 232253,
+      "phonetic": "やいとむし ヤイトムシ",
+      "word": "灸虫"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a91399",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pháp châm cứu ."
+        }
+      ],
+      "mobileId": 109556,
+      "phonetic": "しんきゅう",
+      "word": "針灸"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d80be5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "to rake over the coals, to scold, to chastise, to roast"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to burn moxa on the skin"
+        }
+      ],
+      "mobileId": 219222,
+      "phonetic": "きゅうをすえる",
+      "word": "灸を据える"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99f3d96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acupuncture and moxibustion clinic"
+        }
+      ],
+      "mobileId": 277815,
+      "phonetic": "しんきゅういん",
+      "word": "鍼灸院"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9f0e5dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acupuncturist and practitioner of moxibustion"
+        }
+      ],
+      "mobileId": 263969,
+      "phonetic": "しんきゅうし",
+      "related_words": {
+        "word": [
+          "師",
+          "鍼"
+        ]
+      },
+      "word": "鍼灸師"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97a9649",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp, v1",
+          "mean": "Giác hơi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to burn moxa on the skin"
+        }
+      ],
+      "mobileId": 276650,
+      "phonetic": "おきゅうをすえる",
+      "word": "お灸を据える"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

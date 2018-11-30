@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6e5eaa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyển sách viết về những điềm báo trong kinh sách cổ của Trung Hoa"
+        }
+      ],
+      "mobileId": 13310,
+      "phonetic": "ぬきしょ",
+      "word": "緯書"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af28d90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "declination"
+        }
+      ],
+      "mobileId": 231197,
+      "phonetic": "せきい",
+      "word": "赤緯"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a797bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vĩ độ thiên cầu; vĩ độ hoàng đạo"
+        }
+      ],
+      "mobileId": 38850,
+      "phonetic": "きぬき",
+      "word": "黄緯"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

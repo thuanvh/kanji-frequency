@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9591eac6",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Rau cần tây"
+        }
+      ],
+      "mobileId": 60749,
+      "phonetic": "せり",
+      "word": "芹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b6260b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "parsley (Petroselinum crispum)"
+        }
+      ],
+      "mobileId": 278544,
+      "phonetic": "オランダぜり オランダゼリ",
+      "word": "オランダ芹"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c772909ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Mackenzie's water hemlock (Cicuta virosa)"
+        }
+      ],
+      "mobileId": 265792,
+      "phonetic": "どくぜり ドクゼリ",
+      "word": "毒芹"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ec8245",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cnidium japonicum (species of umbellifer)"
+        }
+      ],
+      "mobileId": 263826,
+      "phonetic": "はまぜり ハマゼリ",
+      "word": "浜芹"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d38f74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mitsuba (Cryptotaenia japonica), Japanese honewort, Japanese honeywort, Japanese chervil, Japanese parsley"
+        }
+      ],
+      "mobileId": 271327,
+      "phonetic": "みつばぜり ミツバゼリ",
+      "word": "三葉芹"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

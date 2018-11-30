@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af69476",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "măng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "măng tre ."
+        }
+      ],
+      "mobileId": 174367,
+      "phonetic": "たけのこ",
+      "word": "筍"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af57d1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "horse botfly larva"
+        }
+      ],
+      "mobileId": 231282,
+      "phonetic": "たけのこむし",
+      "word": "筍虫"
+    },
+    {
+      "_id": "432518852de0a80625d585a9823dffd5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "auger shell (Terebra subulata), terebra"
+        }
+      ],
+      "mobileId": 233585,
+      "phonetic": "たけのこがい",
+      "word": "筍貝"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d663410",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp",
+          "mean": "1.Mọc như nấm ( Ý muốn nói: Liên tiếp xuất hiện sự việc nào đó)\n2.Mùa nấm"
+        }
+      ],
+      "mobileId": 218384,
+      "phonetic": "うごのたけのこ",
+      "word": "雨後の筍"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

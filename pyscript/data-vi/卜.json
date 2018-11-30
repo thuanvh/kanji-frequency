@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc7ea42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đoán, sự tiên đoán; sự bói toán, lời đoán đúng, lời đoán giỏi; sự đoán tài"
+        }
+      ],
+      "mobileId": 16110,
+      "phonetic": "ぼく",
+      "word": "卜"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68eef259",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những xương kể sử dụng động vật vận may"
+        }
+      ],
+      "mobileId": 7619,
+      "phonetic": "ぼくぼね",
+      "word": "卜骨"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938b7644",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuật bói toán bằng mu rùa"
+        }
+      ],
+      "mobileId": 22356,
+      "phonetic": "かめぼく",
+      "related_words": {
+        "word": [
+          "亀",
+          "卜"
+        ]
+      },
+      "word": "亀卜"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc96768",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bói toán; dự đoán; chọn lựa; ổn định; cố định, sửa chữa"
+        }
+      ],
+      "mobileId": 16158,
+      "phonetic": "ぼくう",
+      "related_words": {
+        "word": [
+          "卜"
+        ]
+      },
+      "word": "卜う"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ec4c3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s",
+          "mean": "bói toán; dự đoán; cố định; chọn lựa"
+        }
+      ],
+      "mobileId": 7526,
+      "phonetic": "ぼくする",
+      "word": "卜する"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ecae10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuật xem điềm mà bói, điềm, triệu, linh cảm, lời đoán trước"
+        }
+      ],
+      "mobileId": 7536,
+      "phonetic": "ぼくうらない",
+      "related_words": {
+        "word": [
+          "卜"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "卜占",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "幸先",
+                "知らせ",
+                "兆し",
+                "徴候",
+                "前表",
+                "先触れ",
+                "オーメン",
+                "前兆",
+                "萌し",
+                "サイン",
+                "兆",
+                "兆候"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "卜占"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a6b658",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đoán, sự tiên đoán; sự bói toán, lời đoán đúng, lời đoán giỏi; sự đoán tài"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bói toán, lời bói toán; lời tiên tri"
+        }
+      ],
+      "mobileId": 61411,
+      "phonetic": "うらないぼく",
+      "related_words": {
+        "word": [
+          "卜"
+        ]
+      },
+      "word": "占卜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

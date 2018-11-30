@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f645767",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "言葉には棘がある",
+              "mean": "lời nói (như) có gai nhọn",
+              "transcription": "ことばにはとげがある"
+            },
+            {
+              "content": "ヤマアラシの棘",
+              "mean": "lông nhím",
+              "transcription": "ヤマアラシのとげ"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "gai; lông (nhím)"
+        }
+      ],
+      "mobileId": 186639,
+      "phonetic": "とげ",
+      "synsets": [
+        {
+          "base_form": "棘",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "叢林",
+                "茂み",
+                "雑木林"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "刺"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "刺",
+                "荊",
+                "とげ",
+                "茨",
+                "荊棘"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "棘"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821ba2d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ryukyu spiny rat (Tokudaia osimensis)"
+        }
+      ],
+      "mobileId": 232506,
+      "phonetic": "とげねずみ トゲネズミ",
+      "word": "棘鼠"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822c0a2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "spiny ray (of a fin)"
+        }
+      ],
+      "mobileId": 233028,
+      "phonetic": "きょくじょう",
+      "word": "棘条"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c8688b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spinous process"
+        }
+      ],
+      "mobileId": 262696,
+      "phonetic": "きょくとっき",
+      "word": "棘突起"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a12e927",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bone spur, osteophyte"
+        }
+      ],
+      "mobileId": 224008,
+      "phonetic": "こつきょく こっきょく",
+      "word": "骨棘"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a75bc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ridge-tailed monitor (Varanus acanthurus, species of monitor lizard found throughout the arid northern regions of Australia), spiny-tailed monitor"
+        }
+      ],
+      "mobileId": 261623,
+      "phonetic": "とげおおおとかげ トゲオオオトカゲ",
+      "word": "棘尾大蜥蜴"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92f3f4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Echinodermata (phylum of marine invertebrates)"
+        }
+      ],
+      "mobileId": 274279,
+      "phonetic": "きょくひどうぶつもん",
+      "word": "棘皮動物門"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f647361",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "棘皮動物卵",
+              "mean": "Trứng của động vật da gai",
+              "transcription": "きょくひどうぶつたまご"
+            },
+            {
+              "content": "化石の棘皮動物",
+              "mean": "Động vật da gai hóa thạch .",
+              "transcription": "かせきのきょくひどうぶつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Động vật da gai"
+        }
+      ],
+      "mobileId": 186640,
+      "phonetic": "きょくひどうぶつ",
+      "word": "棘皮動物"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d08334",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Muennink's spiny rat (Tokudaia muenninki), Okinawa spinous country-rat"
+        }
+      ],
+      "mobileId": 279425,
+      "phonetic": "おきなわとげねずみ オキナワトゲネズミ",
+      "word": "沖縄棘鼠"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22124955",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Lớp gai (thuộc biểu bì)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ゆうきょくそう",
+      "word": "有棘層"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

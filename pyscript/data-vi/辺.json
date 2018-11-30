@@ -1,0 +1,318 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa75870c2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "三角形の三つの辺",
+              "mean": "ba cạnh của một tam giác",
+              "transcription": "さんかっけいのみっつのあたり"
+            }
+          ],
+          "kind": "n",
+          "mean": "cạnh (hình học)"
+        },
+        {
+          "examples": [
+            {
+              "content": "この辺は閑静だ.",
+              "mean": "Vùng này thật yên tĩnh.",
+              "transcription": "このあたりはかんせいだ."
+            },
+            {
+              "content": "彼はどこかこの辺に住んでいる.",
+              "mean": "Anh ta sống ở một nơi nào đó quanh đây.",
+              "transcription": "かれはどこかこのあたりにすんでいる."
+            }
+          ],
+          "kind": "n",
+          "mean": "nơi xa; nơi hẻo lánh"
+        },
+        {
+          "examples": [
+            {
+              "content": "では、この辺で止めよう",
+              "mean": "vậy thì đến mức đó là dừng",
+              "transcription": "では、このあたりでとめよう"
+            }
+          ],
+          "kind": "n",
+          "mean": "trình độ; mức độ"
+        },
+        {
+          "examples": [
+            {
+              "content": "この辺に学校がないか",
+              "mean": "vùng này có trường học nào không nhỉ.",
+              "transcription": "このあたりにがっこうがないか"
+            }
+          ],
+          "kind": "n",
+          "mean": "vùng"
+        }
+      ],
+      "mobileId": 108200,
+      "phonetic": "へん",
+      "related_words": {
+        "word": [
+          "周辺",
+          "周辺機器",
+          "浜辺",
+          "辺り",
+          "この辺",
+          "海辺",
+          "長辺",
+          "上辺",
+          "平行四辺形",
+          "窓辺"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "辺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "果て",
+                "端",
+                "縁",
+                "エッジ",
+                "側",
+                "際"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "付近",
+                "近く",
+                "近辺",
+                "周り",
+                "周囲",
+                "附近",
+                "傍",
+                "周辺",
+                "側",
+                "近傍",
+                "界隈",
+                "側辺",
+                "近所",
+                "辺り",
+                "近隣"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "傍ら",
+                "袂",
+                "傍",
+                "側ら",
+                "側",
+                "側辺",
+                "脇",
+                "横"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "辺"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c479c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những nghi lễ công cộng; những quan hệ công cộng"
+        }
+      ],
+      "mobileId": 39792,
+      "phonetic": "おおやけあたり",
+      "related_words": {
+        "word": [
+          "公",
+          "辺"
+        ]
+      },
+      "word": "公辺"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688a723b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính chất chung, tính toàn thể, tính phổ thông, tính phổ biến"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính có mặt bất cứ nơi nào; tính đồng thời ở khắp mọi nơi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự có mặt ở khắp mọi nơi"
+        }
+      ],
+      "mobileId": 4409,
+      "phonetic": "ひろしあたり",
+      "related_words": {
+        "word": [
+          "辺",
+          "普"
+        ]
+      },
+      "word": "普辺"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdffc7c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vùng lân cận (của) một ngọn đồi"
+        }
+      ],
+      "mobileId": 17879,
+      "phonetic": "おかあたり",
+      "word": "丘辺"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d1fac0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rẽ"
+        }
+      ],
+      "mobileId": 62803,
+      "phonetic": "がわあたり",
+      "related_words": {
+        "word": [
+          "側",
+          "辺"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "側辺",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "辺",
+                "付近",
+                "近く",
+                "近辺",
+                "周り",
+                "周囲",
+                "附近",
+                "傍",
+                "周辺",
+                "側",
+                "近傍",
+                "界隈",
+                "近所",
+                "辺り",
+                "近隣"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "辺",
+                "傍ら",
+                "袂",
+                "傍",
+                "側ら",
+                "側",
+                "脇",
+                "横"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "側辺"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a987c8f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "precincts of the Imperial palace"
+        }
+      ],
+      "mobileId": 260634,
+      "phonetic": "うちわたり",
+      "word": "内辺"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111aafbc",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Chiều ngang hình chữ nhật."
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "たんぺん",
+      "word": "短辺"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed6583e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ở đâu, chỗ nào\r\n\r\nở đằng kia, chỗ kia"
+        }
+      ],
+      "mobileId": 117875,
+      "phonetic": "",
+      "word": "那辺"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99be0d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sapwood, alburnum"
+        }
+      ],
+      "mobileId": 277705,
+      "opposite_word": [
+        "心材"
+      ],
+      "phonetic": "へんざい",
+      "word": "辺材"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99c001a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adv",
+          "mean": "about here, in this neighborhood"
+        }
+      ],
+      "mobileId": 277709,
+      "phonetic": "ここらへん",
+      "word": "ここら辺"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

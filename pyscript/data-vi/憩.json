@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74720118",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あの公園は市民の憩いの場です。",
+              "mean": "Cái công viên đó là địa điểm nghỉ ngơi của cư dân thành phố. .",
+              "transcription": "あのこうえんはしみんのいこいのばです。"
+            }
+          ],
+          "kind": "n",
+          "mean": "nghỉ ngơi"
+        }
+      ],
+      "mobileId": 99091,
+      "phonetic": "いこい",
+      "word": "憩"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8721619",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "số nhiều diverticula, túi thừa"
+        }
+      ],
+      "mobileId": 37159,
+      "phonetic": "いこいしつ",
+      "word": "憩室"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b87967",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "diverticulitis"
+        }
+      ],
+      "mobileId": 286874,
+      "phonetic": "けいしつえん",
+      "word": "憩室炎"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

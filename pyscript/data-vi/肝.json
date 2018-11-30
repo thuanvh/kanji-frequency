@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280275106dd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "肝（臓）癌を克服した人",
+              "mean": "Người đã khỏi bệnh ung thư gan.",
+              "transcription": "きも（ 臓 ）がんをこくふくしたひと"
+            },
+            {
+              "content": "肝（臓）癌の早期発見",
+              "mean": "Phát hiện ung thư gan giai đoạn đầu",
+              "transcription": "きも（ 臓 ）がんのそうきはっけん"
+            },
+            {
+              "content": "肝（細胞）癌由来増殖因子",
+              "mean": "Nhân tố gây bệnh ung thư gan",
+              "transcription": "きも（さいぼう）がんゆらいぞうしょくいんし"
+            },
+            {
+              "content": "酒を飲み過ぎると肝(臓)を悪くする",
+              "mean": "Nếu uống quá nhiều rượu sẽ không tốt cho gan",
+              "transcription": "さけをのみすぎるときも( 臓 )をわるくする"
+            }
+          ],
+          "kind": "n",
+          "mean": "gan"
+        }
+      ],
+      "mobileId": 30476,
+      "phonetic": "きも",
+      "related_words": {
+        "word": [
+          "肝臓",
+          "肝炎",
+          "肝心",
+          "肝硬変",
+          "肝要"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "肝",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "レバー",
+                "肝臓"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "腹",
+                "五臓六腑",
+                "心",
+                "内懐",
+                "魂",
+                "ハート",
+                "内心",
+                "心髄",
+                "胸三寸",
+                "胸",
+                "懐"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "心",
+                "魂",
+                "マインド",
+                "神",
+                "心霊",
+                "胆玉",
+                "スピリット",
+                "霊",
+                "精神"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "肝"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f1b77c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trách nhiệm của cha đỡ đầu, trách nhiệm của mẹ đỡ đầu"
+        }
+      ],
+      "mobileId": 25592,
+      "phonetic": "きもいり",
+      "word": "肝入り"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821647fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sheep liver fluke (Fasciola hepatica)"
+        }
+      ],
+      "mobileId": 232344,
+      "phonetic": "かんてつ",
+      "word": "肝蛭"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d7740cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liver disease"
+        }
+      ],
+      "mobileId": 218924,
+      "phonetic": "かんしっかん",
+      "word": "肝疾患"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77bea1b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "internal organs, entrails"
+        }
+      ],
+      "mobileId": 270628,
+      "phonetic": "むらぎも むらきも",
+      "word": "群肝"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f1de19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thử gan (làm chuyện gì); sự thách thức"
+        }
+      ],
+      "mobileId": 25596,
+      "phonetic": "かんためし",
+      "related_words": {
+        "word": [
+          "試し",
+          "肝"
+        ]
+      },
+      "word": "肝試し"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939f4d04",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Chức năng gan"
+        }
+      ],
+      "mobileId": 22971,
+      "phonetic": "かんきのう",
+      "word": "肝機能"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c062ce8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "monkfish liver, goosefish liver"
+        }
+      ],
+      "mobileId": 210016,
+      "phonetic": "あんきも",
+      "related_words": {
+        "word": [
+          "肝"
+        ]
+      },
+      "word": "あん肝"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90f7ad5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hepatic artery"
+        }
+      ],
+      "mobileId": 273262,
+      "phonetic": "かんどうみゃく",
+      "word": "肝動脈"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dbc5dca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liver cancer (esp. hepatoma)"
+        }
+      ],
+      "mobileId": 221204,
+      "phonetic": "かんがん かんガン",
+      "word": "肝癌"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

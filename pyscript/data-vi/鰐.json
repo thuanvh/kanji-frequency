@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801450818",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "cá sấu"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sấu ."
+        }
+      ],
+      "mobileId": 42931,
+      "phonetic": "わに",
+      "word": "鰐"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9470a48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "freshwater crocodile (Crocodylus johnsoni), Australian freshwater crocodile, Johnston's crocodile"
+        }
+      ],
+      "mobileId": 275019,
+      "phonetic": "オーストラリアわに オーストラリアワニ",
+      "word": "オーストラリア鰐"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1d0a40",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese alligator (Alligator sinesis)"
+        }
+      ],
+      "mobileId": 224338,
+      "phonetic": "ようすこうわに",
+      "word": "揚子江鰐"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9471576",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Philippine crocodile (Crocodylus mindorensis)"
+        }
+      ],
+      "mobileId": 275020,
+      "phonetic": "フィリピンわに フィリピンワニ",
+      "word": "フィリピン鰐"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e3f1dc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "alligator snapping turtle (Macroclemys temminckii)"
+        }
+      ],
+      "mobileId": 250051,
+      "phonetic": "わにがめ ワニガメ",
+      "word": "鰐亀"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1d093a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "American alligator (Alligator mississippiensis)"
+        }
+      ],
+      "mobileId": 224337,
+      "phonetic": "ミシシッピわに",
+      "word": "ミシシッピ鰐"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9471971",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mugger crocodile (Crocodylus palustris), marsh crocodile, Indian crocodile, Indus crocodile, Persian crocodile"
+        }
+      ],
+      "mobileId": 275021,
+      "phonetic": "ぬまわに ヌマワニ",
+      "word": "沼鰐"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e62c8db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "saltwater crocodile (Crocodylus porosus), estuarine crocodile"
+        }
+      ],
+      "mobileId": 251220,
+      "phonetic": "いりえわに イリエワニ",
+      "word": "入江鰐"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc0b171",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "có chân vòng kiềng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "có ngón chân quặp vào"
+        }
+      ],
+      "mobileId": 15886,
+      "phonetic": "うちわに",
+      "related_words": {
+        "word": [
+          "鰐"
+        ]
+      },
+      "word": "内鰐"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f23cd6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crocodile, alligator, crocodilian"
+        }
+      ],
+      "mobileId": 280507,
+      "phonetic": "がくぎょ",
+      "word": "鰐魚"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

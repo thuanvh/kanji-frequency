@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900eac2d35",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồng chí; thành viên (bạn)"
+        }
+      ],
+      "mobileId": 116552,
+      "phonetic": "ともがら",
+      "related_words": {
+        "word": [
+          "先輩",
+          "後輩",
+          "我輩",
+          "吾輩",
+          "輩出"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "輩",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "同類",
+                "同業者",
+                "僚友",
+                "同志",
+                "同輩",
+                "朋輩",
+                "同役",
+                "傍輩",
+                "同僚",
+                "同士",
+                "儕輩"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一党",
+                "連中",
+                "仲間",
+                "徒党",
+                "連",
+                "一味",
+                "群れ",
+                "グループ",
+                "徒"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仲間",
+                "同士",
+                "同人",
+                "友達",
+                "友"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "輩"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed957b8bca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người trẻ tuổi"
+        }
+      ],
+      "mobileId": 60023,
+      "phonetic": "せいねんともがら",
+      "word": "青年輩"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193804f4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người có địa vị thấp kém; người thuộc tầng lớp thấp; người có thân phận thấp kém"
+        }
+      ],
+      "mobileId": 22008,
+      "phonetic": "しもともがら",
+      "related_words": {
+        "word": [
+          "下",
+          "輩"
+        ]
+      },
+      "word": "下輩"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda89fc7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn, adj-no",
+          "mean": "chúng tôi, chúng ta"
+        }
+      ],
+      "mobileId": 74194,
+      "phonetic": "よともがら",
+      "word": "余輩"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdfa8c9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đôi ta, hai chúng ta"
+        }
+      ],
+      "mobileId": 76752,
+      "phonetic": "わがともがら",
+      "word": "我が輩"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdfa8f8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đôi ta, hai chúng ta"
+        }
+      ],
+      "mobileId": 76753,
+      "phonetic": "わがともがら",
+      "word": "吾が輩"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0f1ccc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lawless people, gang, malcontents, recalcitrants"
+        }
+      ],
+      "mobileId": 215578,
+      "phonetic": "ふていのやから",
+      "word": "不逞の輩"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

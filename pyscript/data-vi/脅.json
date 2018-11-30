@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e80215e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "doạ, đe doạ, hăm doạ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "buộc, ép, ép buộc"
+        }
+      ],
+      "mobileId": 33551,
+      "phonetic": "",
+      "word": "脅"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193102ae6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "doạ, đe doạ, hăm doạ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "buộc, ép, ép buộc"
+        }
+      ],
+      "mobileId": 18434,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "脅やかす",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "劫かす",
+                "凄む",
+                "脅す",
+                "脅かす",
+                "脅しつける"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "劫かす",
+                "脅かす"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "脅やかす"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8049a59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đe doạ, lời đe doạ, lời hăm doạ"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hăm doạ, sự đe doạ, sự doạ dẫm"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "mối đe doạ, đe doạ"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hâm doạ để tống tiền, tiền lấy được do hăm doạ, hâm doạ để làm tiền, tống tiền"
+        }
+      ],
+      "mobileId": 33630,
+      "phonetic": "",
+      "word": "脅喝"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e804874f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự đe doạ, lời đe doạ, lời hăm doạ"
+        }
+      ],
+      "mobileId": 33625,
+      "phonetic": "",
+      "word": "脅嚇"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

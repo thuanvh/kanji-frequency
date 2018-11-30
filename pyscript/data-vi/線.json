@@ -1,0 +1,243 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280272da55f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "đường dây (điện thoại); đường ray; dây dẫn; đường"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "tuyến ."
+        }
+      ],
+      "mobileId": 29841,
+      "phonetic": "せん",
+      "related_words": {
+        "word": [
+          "電線",
+          "内線",
+          "無線",
+          "新幹線",
+          "配線",
+          "無線機",
+          "赤外線",
+          "回線",
+          "水平線",
+          "直線"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "線",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "線路",
+                "行列",
+                "筋",
+                "伍",
+                "行",
+                "路線",
+                "ライン",
+                "列"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ライン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "分け目",
+                "分界",
+                "ライン",
+                "差異"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ケーブル",
+                "回線",
+                "電線"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "直線",
+                "ライン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "筋",
+                "ライン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "線"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22155bad",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Mặt cắt"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "線断面"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a0fef1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng nhánh; đinh thúc ngựa"
+        }
+      ],
+      "mobileId": 5106,
+      "phonetic": "ぶんきせん",
+      "related_words": {
+        "word": [
+          "分",
+          "線",
+          "分岐"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "分岐線",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "引き込み線",
+                "支線"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "支脈",
+                "とげ",
+                "拍車"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "分岐線"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f2235b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cáp ngầm"
+        }
+      ],
+      "mobileId": 7716,
+      "phonetic": "うません",
+      "word": "埋線"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193679b82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường xoắn ốc"
+        }
+      ],
+      "mobileId": 21220,
+      "phonetic": "うずせん",
+      "word": "渦線"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae0557c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "particle beam"
+        }
+      ],
+      "mobileId": 230618,
+      "phonetic": "りゅうしせん",
+      "word": "粒子線"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae91265",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "X-ray"
+        }
+      ],
+      "mobileId": 230894,
+      "phonetic": "レントゲンせん",
+      "word": "レントゲン線"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e2a0bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những hàng trong thao tác"
+        }
+      ],
+      "mobileId": 25094,
+      "phonetic": "きせつせん",
+      "word": "既設線"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4fb0b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gun rifling"
+        }
+      ],
+      "mobileId": 225973,
+      "phonetic": "こうせん",
+      "word": "腔線"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e844fe16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "râu, radiô anten"
+        }
+      ],
+      "mobileId": 35717,
+      "phonetic": "くうちゅうせん",
+      "word": "空中線"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

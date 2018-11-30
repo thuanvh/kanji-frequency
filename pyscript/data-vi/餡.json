@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568012d7ac8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あんずジャム",
+              "mean": "mứt mơ",
+              "transcription": "あんずジャム"
+            },
+            {
+              "content": "あんこ",
+              "mean": "mứt đậu đỏ",
+              "transcription": "あんこ"
+            }
+          ],
+          "kind": "n",
+          "mean": "mứt đậu đỏ"
+        }
+      ],
+      "mobileId": 42524,
+      "phonetic": "あん",
+      "synsets": [
+        {
+          "base_form": "餡",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "当て物",
+                "詰め物",
+                "詰物"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "餡"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568012d8801",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あんころもち",
+              "mean": "bánh bao nhân mứt đậu đỏ .",
+              "transcription": "あんころもち"
+            },
+            {
+              "content": "あんころもち",
+              "mean": "bánh bao nhân mứt đậu đỏ .",
+              "transcription": "あんころもち"
+            },
+            {
+              "content": "あれが好きなんだ、タキヤキ...だったっけ？ほらあの魚の形で、あんこが詰まってるやつ",
+              "mean": "tôi thích ăn loại bánh đó, gọi là bánh gì nhỉ, takiyaki thì phải. Đấy, bánh có hình con cá và phết mứt đậu đỏ .",
+              "transcription": "あれがすきなんだ、 タキヤキ ...だったっけ？ほらあのさかなのかたちで、あんこがつまってるやつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "mứt đậu đỏ"
+        }
+      ],
+      "mobileId": 42525,
+      "phonetic": "あんこ",
+      "word": "餡こ"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fc59ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sweet paste of white beans and miso"
+        }
+      ],
+      "mobileId": 272644,
+      "phonetic": "みそあん",
+      "word": "味噌餡"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08fe3ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bread roll filled with anko"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "paint thinner placed inside a bag used as a drug"
+        }
+      ],
+      "mobileId": 211471,
+      "phonetic": "あんパン アンパン",
+      "word": "餡パン"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9864390",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mochi wrapped with sweet bean jam"
+        }
+      ],
+      "mobileId": 277018,
+      "phonetic": "あんころ",
+      "word": "餡ころ"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa14552",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mochi rice cake with red bean jam filling, mochi rice cake covered in red bean jam"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mochi rice cake"
+        }
+      ],
+      "mobileId": 228557,
+      "phonetic": "あんもち あんも",
+      "word": "餡餅"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e16109",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slightly crushed sweetened red-bean paste"
+        }
+      ],
+      "mobileId": 263467,
+      "phonetic": "つぶしあん",
+      "word": "潰し餡"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c54110",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Bánh bao nhân ngọt kiểu Nhật"
+        }
+      ],
+      "mobileId": 213204,
+      "phonetic": "あんまん",
+      "word": "餡饅"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd53f598",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước xốt hồ bột dày làm (của) kuzu hoặc katakuriko rắc bột"
+        }
+      ],
+      "mobileId": 12473,
+      "phonetic": "あんかけ",
+      "word": "餡かけ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

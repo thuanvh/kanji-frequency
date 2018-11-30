@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd73c2a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "quá mức, quá thể, tột bực, vô cùng"
+        }
+      ],
+      "mobileId": 13471,
+      "phonetic": "いたく",
+      "synsets": [
+        {
+          "base_form": "甚く",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "極めて",
+                "頗る",
+                "殊の外",
+                "非常に",
+                "思い切り",
+                "良く",
+                "最も",
+                "とても",
+                "重々に",
+                "能く",
+                "めきめき",
+                "随分",
+                "よく",
+                "至って",
+                "中中",
+                "めっきり",
+                "極",
+                "誠に",
+                "至極",
+                "大変",
+                "大層",
+                "きわめて",
+                "善く",
+                "中々",
+                "余程",
+                "重重に",
+                "かなり",
+                "ひどく"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "極めて",
+                "頗る",
+                "非常に",
+                "最も",
+                "とても",
+                "極",
+                "一方ならず",
+                "至極",
+                "大変",
+                "甚だ",
+                "大層",
+                "きわめて",
+                "ひどく"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "甚く"
+    },
+    {
+      "_id": "432518852de0a80625d585a98265a728",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "extremely deep (i.e. profound)"
+        }
+      ],
+      "mobileId": 234854,
+      "phonetic": "じんしん じんじん",
+      "word": "甚深"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7715bd74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "intense cold"
+        }
+      ],
+      "mobileId": 265157,
+      "phonetic": "じんかん",
+      "word": "甚寒"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c5f48e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v5r",
+          "mean": "Tra tấn , hành hạ"
+        }
+      ],
+      "mobileId": 213229,
+      "phonetic": "いたぶる",
+      "word": "甚振る"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

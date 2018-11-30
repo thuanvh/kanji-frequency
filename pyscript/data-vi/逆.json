@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa768d576",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kình địch"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nghịch"
+        },
+        {
+          "examples": [
+            {
+              "content": "逆電流",
+              "mean": "dòng điện ngược chiều",
+              "transcription": "ぎゃくでんりゅう"
+            },
+            {
+              "content": "私の考え方は逆だ",
+              "mean": "quan điểm của tôi và anh trái ngược nhau",
+              "transcription": "わたしのかんがえかたはぎゃくだ"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "sự ngược lại; sự tương phản"
+        },
+        {
+          "examples": [
+            {
+              "content": "その逆が真実だった",
+              "mean": "sự thực là điều hoàn toàn trái ngược",
+              "transcription": "そのぎゃくがしんじつだった"
+            },
+            {
+              "content": "しかし実際の〜は全くその逆",
+              "mean": "Thế nhưng thực tế của ~ là hoàn toàn ngược lại",
+              "transcription": "しかしじっさいの〜はまったくそのぎゃく"
+            },
+            {
+              "content": "その仕事が会社のイメージアップとなるか、その逆かは定かではない",
+              "mean": "không thể xác định được công việc đó có giúp nâng cao hình ảnh của công ty hay không hay là ngược lại .",
+              "transcription": "そのしごとがかいしゃのイメージアップとなるか、そのぎゃくかはさだかではない"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "ngược lại; tương phản; trái ngược"
+        }
+      ],
+      "mobileId": 108473,
+      "opposite_word": [
+        "順"
+      ],
+      "phonetic": "ぎゃく",
+      "related_words": {
+        "word": [
+          "逆に",
+          "逆転",
+          "反逆者",
+          "反逆",
+          "逆襲",
+          "逆さま",
+          "逆さ",
+          "逆噴射",
+          "逆流",
+          "逆数"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "逆",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "裏腹",
+                "あべこべ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "正反対",
+                "あべこべ"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "逆"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8378855",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ma trận ngược lại (math)"
+        }
+      ],
+      "mobileId": 35274,
+      "phonetic": "ぎゃくぎょうれつ",
+      "related_words": {
+        "word": [
+          "行",
+          "列",
+          "逆",
+          "行列"
+        ]
+      },
+      "word": "逆行列"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0013731",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inverted position (tarot card, etc.), reversed position"
+        }
+      ],
+      "mobileId": 280989,
+      "phonetic": "ぎゃくいち",
+      "word": "逆位置"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0af9048",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "man who marries a wealthy or upwardly-mobile woman, (male) gold digger"
+        }
+      ],
+      "mobileId": 212486,
+      "phonetic": "ぎゃくたま",
+      "word": "逆玉"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e97c4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reverse discrimination"
+        }
+      ],
+      "mobileId": 280228,
+      "opposite_word": [
+        "差別"
+      ],
+      "phonetic": "ぎゃくさべつ",
+      "word": "逆差別"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96d3543",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inverse element"
+        }
+      ],
+      "mobileId": 276211,
+      "phonetic": "ぎゃくげん",
+      "word": "逆元"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a25f98e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(logical) inversion"
+        }
+      ],
+      "mobileId": 224639,
+      "phonetic": "ぎゃっかん ぎゃくかん",
+      "word": "逆換"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a911557",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reverse fault"
+        }
+      ],
+      "mobileId": 228034,
+      "phonetic": "ぎゃくだんそう",
+      "word": "逆断層"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8377d7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(toán học) hàm số nghịch"
+        }
+      ],
+      "mobileId": 35273,
+      "phonetic": "ぎゃくかんすう",
+      "word": "逆関数"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e838359b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "máy đếm - đề nghị"
+        }
+      ],
+      "mobileId": 35297,
+      "phonetic": "ぎゃくていあん",
+      "related_words": {
+        "word": [
+          "提案",
+          "案",
+          "逆"
+        ]
+      },
+      "word": "逆提案"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

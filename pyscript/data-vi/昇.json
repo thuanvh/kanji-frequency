@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e29f012",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "lift-off (e.g. of rockets, planes, etc.), take-off"
+        }
+      ],
+      "mobileId": 249383,
+      "phonetic": "りしょう",
+      "word": "離昇"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96482f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anabatic wind"
+        }
+      ],
+      "mobileId": 275938,
+      "phonetic": "かっしょうふう",
+      "word": "滑昇風"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821194dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anadromous fish (fish that migrates upstream, e.g. salmon)"
+        }
+      ],
+      "mobileId": 232206,
+      "phonetic": "しょうりゅうぎょ",
+      "word": "昇流魚"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

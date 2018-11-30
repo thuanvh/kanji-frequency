@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69afa4922",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hòm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hộp"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiện hàng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thùng ."
+        }
+      ],
+      "mobileId": 174417,
+      "phonetic": "はこ",
+      "related_words": {
+        "word": [
+          "ごみ箱",
+          "宝箱",
+          "貯金箱",
+          "弁当箱",
+          "箱庭",
+          "木箱",
+          "下駄箱",
+          "箱舟",
+          "私書箱",
+          "筆箱"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "箱",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "桟敷",
+                "匣",
+                "ボックス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ケイス",
+                "ケース",
+                "匣",
+                "入物",
+                "入れ物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "匣",
+                "ボックス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "甲羅",
+                "甲殻",
+                "殻",
+                "匣",
+                "覆い",
+                "皮",
+                "革"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "箱"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68095958",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lò than hồng (người làm đồ đồng) cho vào túi trong một làm bằng gỗ đánh bốc"
+        }
+      ],
+      "mobileId": 297,
+      "phonetic": "はこひばち",
+      "word": "箱火鉢"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280279f5f5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hộp thuốc ."
+        }
+      ],
+      "mobileId": 31901,
+      "phonetic": "くすりばこ",
+      "related_words": {
+        "word": [
+          "薬",
+          "箱"
+        ]
+      },
+      "word": "薬箱"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aad19cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fare box, place where one puts the money required to ride public transportation"
+        }
+      ],
+      "mobileId": 228924,
+      "phonetic": "うんちんばこ",
+      "word": "運賃箱"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88a31d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đóng góp hoặc sự tặng đánh bốc"
+        }
+      ],
+      "mobileId": 37915,
+      "phonetic": "けんきんばこ",
+      "word": "献金箱"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdab8ebc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hải cẩu (con dấu) (tem) đánh bốc"
+        }
+      ],
+      "mobileId": 15242,
+      "phonetic": "しるしばこ",
+      "related_words": {
+        "word": [
+          "箱",
+          "印"
+        ]
+      },
+      "word": "印箱"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ec25c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tập hợp đánh bốc"
+        }
+      ],
+      "mobileId": 7522,
+      "phonetic": "ぼきんばこ",
+      "word": "募金箱"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2fd974",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cái hộp rỗng"
+        }
+      ],
+      "mobileId": 11319,
+      "phonetic": "あきばこ",
+      "related_words": {
+        "word": [
+          "空",
+          "箱"
+        ]
+      },
+      "word": "空き箱"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b06138",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "suggestion box"
+        }
+      ],
+      "mobileId": 286603,
+      "phonetic": "ていあんばこ",
+      "word": "提案箱"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107a68fd8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hộp nhỏ ."
+        }
+      ],
+      "mobileId": 54701,
+      "phonetic": "こばこ",
+      "related_words": {
+        "word": [
+          "小",
+          "箱"
+        ]
+      },
+      "word": "小箱"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

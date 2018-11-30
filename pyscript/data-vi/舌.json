@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280277688e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lưỡi ."
+        }
+      ],
+      "mobileId": 31141,
+      "phonetic": "した",
+      "related_words": {
+        "word": [
+          "毒舌",
+          "二枚舌",
+          "舌打ち",
+          "饒舌",
+          "百舌",
+          "舌足らず"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "舌",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "言語",
+                "言い方",
+                "国語",
+                "言葉遣い",
+                "口先",
+                "言葉",
+                "ラング",
+                "ランゲージ",
+                "口説",
+                "口気",
+                "用語"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "舌"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ae072d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "âm lưỡi (như r, t, s hay タ, ダ, ナ, ラ)"
+        }
+      ],
+      "mobileId": 61645,
+      "phonetic": "したおん",
+      "word": "舌音"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da06ed7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tongue piercing, tongue stud"
+        }
+      ],
+      "mobileId": 220272,
+      "phonetic": "したピアス",
+      "word": "舌ピアス"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f5cd50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nói nhanh và mạnh (ngữ điệu)"
+        }
+      ],
+      "mobileId": 7835,
+      "phonetic": "まきした",
+      "word": "巻き舌"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3eb9e4c2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "若いうちからこんなものばっかり食べてたら舌肥えるんだよ",
+              "mean": "Còn trẻ mà toàn ăn những món như vậy coi chừng quen miệng(kén ăn) đó",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Quen miệng ( Với món ăn ngon), kén ăn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "",
+      "word": "舌肥える"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6abb9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "liếm môi (trước khi ăn hay uống cái gì ngon)(nghĩa bóng) tỏ vẻ khoái trá, thỏa mãn"
+        }
+      ],
+      "mobileId": 149119,
+      "phonetic": "したなめずり",
+      "word": "舌舐めずり"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f5f6f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tongue (of a shoe)"
+        }
+      ],
+      "mobileId": 272434,
+      "phonetic": "したがわ",
+      "word": "舌革"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a625448",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"tongue\" radical at left"
+        }
+      ],
+      "mobileId": 226527,
+      "phonetic": "したへん",
+      "word": "舌偏"
+    },
+    {
+      "_id": "432518852de0a80625d585a982581601",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tongue worm (any worm of phylum Pentastomida)"
+        }
+      ],
+      "mobileId": 234417,
+      "phonetic": "したむし シタムシ",
+      "word": "舌虫"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f745708d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẻ xấu miệng; kẻ ngồi lê mách lẻo ."
+        }
+      ],
+      "mobileId": 98716,
+      "phonetic": "あくぜつ",
+      "related_words": {
+        "word": [
+          "悪",
+          "舌"
+        ]
+      },
+      "word": "悪舌"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

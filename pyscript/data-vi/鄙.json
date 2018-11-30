@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685691fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vùng quê"
+        }
+      ],
+      "mobileId": 2760,
+      "phonetic": "ひな",
+      "word": "鄙"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a1a6f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "countryfolk, villager, provincial"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "greedy person, underclass, low-standing person"
+        }
+      ],
+      "mobileId": 277890,
+      "phonetic": "ひなびと ひじん とひとま とひと",
+      "word": "鄙人"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a19f2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one's own thought, one's own idea"
+        }
+      ],
+      "mobileId": 277888,
+      "phonetic": "ひかい",
+      "word": "鄙懐"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02e18dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vulgar expression, vulgarism, slang expression"
+        }
+      ],
+      "mobileId": 208332,
+      "phonetic": "ひげん",
+      "word": "鄙言"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a1a64c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vulgar proverb, popular saying"
+        }
+      ],
+      "mobileId": 277889,
+      "phonetic": "ひげん",
+      "word": "鄙諺"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774a7839",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "appearing rustic"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ancient song played at the court"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "comical tanka"
+        }
+      ],
+      "mobileId": 266857,
+      "phonetic": "ひなぶり",
+      "word": "鄙振り"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c024e7f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v4r, vi",
+          "mean": "to be far away from the city, to be remote"
+        }
+      ],
+      "mobileId": 190340,
+      "phonetic": "ひなさかる ひなざかる",
+      "word": "鄙離る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

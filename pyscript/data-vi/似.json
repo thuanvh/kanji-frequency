@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900ede2f7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "(thường đi sau danh từ, biểu thị việc giống với danh từ đó). Ví dụ : 父親似の子供 (đứa trẻ giống bố)"
+        }
+      ],
+      "mobileId": 118109,
+      "phonetic": "に",
+      "word": "似"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee35bfc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vi",
+          "mean": "giống, rất giống ; hợp với, phù hợp, thích hợp"
+        }
+      ],
+      "mobileId": 118281,
+      "phonetic": "につく",
+      "related_words": {
+        "word": [
+          "付",
+          "付く"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "似付く",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "合う",
+                "嵌る",
+                "似合う",
+                "嵌まる",
+                "填る",
+                "適する"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "合う",
+                "嵌る",
+                "似合う",
+                "嵌まる",
+                "填る"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "似付く"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee6c203",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "giống với (người nào, vật gì)"
+        }
+      ],
+      "mobileId": 118384,
+      "phonetic": "による",
+      "related_words": {
+        "word": [
+          "寄る"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "似寄る",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "似る",
+                "見える"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "似ている",
+                "似る"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "似寄る"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7787c468",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hemibarbus barbus (species of cyprinid)"
+        }
+      ],
+      "mobileId": 268862,
+      "phonetic": "にごい ニゴイ",
+      "word": "似鯉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a01584d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, adj-na",
+          "mean": "greatly resembling"
+        }
+      ],
+      "mobileId": 223445,
+      "phonetic": "げきに",
+      "word": "激似"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c023e0a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fake, copy"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "barge, lighter"
+        }
+      ],
+      "mobileId": 208000,
+      "phonetic": "にたり",
+      "word": "似たり"
+    },
+    {
+      "_id": "b561b13ae6751b79ec119ece470f621f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "聖書では「人間は神の似姿に創造された」と啓示されています。",
+              "mean": "Kinh Thánh mạc khải rằng, con người được dựng nên theo hình ảnh Thiên Chúa.",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "mô phỏng; theo hình ảnh"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "にすがた",
+      "word": "似姿"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0322b3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bryde's whale (Balaenoptera brydei)"
+        }
+      ],
+      "mobileId": 282554,
+      "phonetic": "にたりくじら ニタリクジラ",
+      "word": "似鯨"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561ebf271d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "deepsea smelt (Glossanodon semifasciatus)"
+        }
+      ],
+      "mobileId": 254231,
+      "phonetic": "にぎす ニギス",
+      "word": "似鱚"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d9fea24",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "空港はどこも似たり寄ったりで、列車の駅の方が個性がある。",
+              "mean": "Sân bay cái nào cũng tương tự như nhau còn nhà ga tàu hỏa thì lại có đặc điểm riêng",
+              "transcription": "くうこうはどこもにたりよったりで、れっしゃのえきのほうがこせいがある。"
+            },
+            {
+              "content": "二人の候補者はいずれも似たり寄ったりだ",
+              "mean": "Hai ứng cử viên luôn tương tự như nhau .",
+              "transcription": "ににんのこうほしゃはいずれもにたりよったりだ"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "Tương tự như nhau; na ná như nhau"
+        }
+      ],
+      "mobileId": 144153,
+      "phonetic": "にたりよったり",
+      "word": "似たり寄ったり"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

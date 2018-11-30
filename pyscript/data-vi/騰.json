@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95335cd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tiến tới(mọc) lên; nhảy"
+        }
+      ],
+      "mobileId": 57726,
+      "phonetic": "うえあが",
+      "related_words": {
+        "word": [
+          "上"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "上騰",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "勃",
+                "亢進",
+                "上り",
+                "リフト",
+                "栄達",
+                "上昇",
+                "向上"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ジャンプ",
+                "跳躍"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "暴騰",
+                "騰貴",
+                "飛躍",
+                "急騰",
+                "増加"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "騰貴",
+                "前進",
+                "増進",
+                "先進",
+                "増加",
+                "値上がり",
+                "前借金",
+                "上昇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "上騰"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

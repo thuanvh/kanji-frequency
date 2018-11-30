@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8854f22",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sức khỏe"
+        }
+      ],
+      "mobileId": 37761,
+      "phonetic": "けん",
+      "related_words": {
+        "word": [
+          "健康",
+          "健康診断",
+          "健康保険",
+          "健全",
+          "健康的",
+          "健診",
+          "世界保健機関",
+          "保健所",
+          "健康的な",
+          "健闘"
+        ]
+      },
+      "word": "健"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8908088",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ném tốt"
+        }
+      ],
+      "mobileId": 38118,
+      "phonetic": "けんとう",
+      "related_words": {
+        "word": [
+          "健"
+        ]
+      },
+      "word": "健投"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e891cd9a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người đi bộ tốt"
+        }
+      ],
+      "mobileId": 38161,
+      "phonetic": "けんふ",
+      "related_words": {
+        "word": [
+          "歩",
+          "健"
+        ]
+      },
+      "word": "健歩"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e04bb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stomachic, stomach medicine"
+        }
+      ],
+      "mobileId": 263437,
+      "phonetic": "けんいやく",
+      "word": "健胃薬"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88d58e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sức sống, mạnh mẽ"
+        }
+      ],
+      "mobileId": 38016,
+      "phonetic": "けんさち",
+      "related_words": {
+        "word": [
+          "健",
+          "祥"
+        ]
+      },
+      "word": "健祥"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77020c04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "strong and full of vigour"
+        }
+      ],
+      "mobileId": 264524,
+      "phonetic": "ごうけん",
+      "word": "豪健"
+    },
+    {
+      "_id": "edf7f33f53832e93b36c90d5fd128fa4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Từ chuyên môn dùng trong 介護",
+              "mean": "",
+              "transcription": ""
+            }
+          ],
+          "kind": "",
+          "mean": "Phần cơ thể không bị liệt (Đối với bệnh nhân tai biến)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "Kensoku",
+      "word": "健側"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88d87b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kiểm tra sức khỏe"
+        }
+      ],
+      "mobileId": 38022,
+      "phonetic": "けんみ",
+      "related_words": {
+        "word": [
+          "健"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "健診",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "健康診断",
+                "検診"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "健診"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e891b6eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đánh tốt"
+        }
+      ],
+      "mobileId": 38157,
+      "phonetic": "けんぼう",
+      "related_words": {
+        "word": [
+          "棒",
+          "健"
+        ]
+      },
+      "word": "健棒"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e048d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "strong stomach"
+        }
+      ],
+      "mobileId": 263436,
+      "phonetic": "けんい",
+      "word": "健胃"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

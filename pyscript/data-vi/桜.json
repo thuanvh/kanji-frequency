@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f60366d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "井の頭公園の桜は今が満開だ。",
+              "mean": "Hoa anh đào ở công viên Inokashira hiện giờ đã nở tung.",
+              "transcription": "いのかしらこうえんのさくらはいまがまんかいだ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "Anh đào"
+        }
+      ],
+      "mobileId": 186559,
+      "phonetic": "さくら",
+      "related_words": {
+        "word": [
+          "桜花",
+          "桜んぼ",
+          "桜色",
+          "夜桜",
+          "桜草",
+          "八重桜",
+          "桜桃",
+          "山桜"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "桜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "桜色",
+                "薔薇色",
+                "桃色",
+                "ローゼ",
+                "桃",
+                "褪紅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "櫻"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "桜"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683ca60f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hoa anh đào nở sớm (khoảng dịp xuân phân)"
+        }
+      ],
+      "mobileId": 1973,
+      "phonetic": "ひがんざくら",
+      "word": "彼岸桜"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aedda29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clove cherry (Prunus apetala)"
+        }
+      ],
+      "mobileId": 231045,
+      "phonetic": "ちょうじざくら チョウジザクラ",
+      "word": "丁字桜"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aee4b37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Fuji cherry (Prunus incisa)"
+        }
+      ],
+      "mobileId": 231058,
+      "phonetic": "ふじざくら",
+      "word": "富士桜"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7588d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sakura shrimp (Sergia lucens)"
+        }
+      ],
+      "mobileId": 227153,
+      "phonetic": "さくらえび さくらエビ サクラエビ",
+      "word": "桜海老"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dfaabbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fairy primrose (Primula Malacoides)"
+        }
+      ],
+      "mobileId": 223231,
+      "phonetic": "おとめざくら",
+      "word": "乙女桜"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1f6e67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese bird cherry (Prunus grayana), Gray's bird cherry, Gray's chokecherry"
+        }
+      ],
+      "mobileId": 216117,
+      "phonetic": "うわみずざくら うわみぞざくら ウワミズザクラ",
+      "word": "上溝桜"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f606d94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngày hội mùa anh đào ."
+        }
+      ],
+      "mobileId": 186565,
+      "phonetic": "さくらまつり",
+      "related_words": {
+        "word": [
+          "桜",
+          "祭り",
+          "祭"
+        ]
+      },
+      "word": "桜祭り"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4a494d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "moss phlox (Phlox subulata), moss pink"
+        }
+      ],
+      "mobileId": 225791,
+      "phonetic": "しばざくら シバザクラ",
+      "related_words": {
+        "word": [
+          "桜",
+          "芝"
+        ]
+      },
+      "word": "芝桜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca072bbbb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Prunus buergeriana (species of flowering cherry)"
+        }
+      ],
+      "mobileId": 284638,
+      "phonetic": "いぬざくら イヌザクラ",
+      "word": "犬桜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,305 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d7e0e0a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "神も仏もあったもんじゃない。",
+              "mean": "Không hề có công lý trên thế giới này/ làm gì có thần hay Phật trên thế gian này",
+              "transcription": "かみもほとけもあったもんじゃない。"
+            },
+            {
+              "content": "知らぬが仏",
+              "mean": "Cái gì mà bạn không biết thì sẽ không làm hại bạn. .",
+              "transcription": "しらぬがほとけ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Phật thích ca; đạo phật"
+        }
+      ],
+      "mobileId": 143595,
+      "opposite_word": [
+        "神"
+      ],
+      "phonetic": "ぶつ",
+      "related_words": {
+        "word": [
+          "仏教",
+          "仏像",
+          "大仏",
+          "仏壇",
+          "仏教徒",
+          "仏様",
+          "仏陀",
+          "成仏する",
+          "成仏",
+          "仏語"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "仏",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "故人",
+                "死人",
+                "亡者",
+                "亡き人",
+                "死者"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "故人",
+                "仏様",
+                "死亡者",
+                "死人",
+                "亡者",
+                "亡き人",
+                "死者",
+                "亡き者"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "仏"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d7e2dce",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "仏のような人",
+              "mean": "Một người tốt bụng như Phật.",
+              "transcription": "ふつのようなひと"
+            },
+            {
+              "content": "地獄で仏に会ったようだった.",
+              "mean": "Khi tôi đang lúc khó khăn tôi đã gặp đước một người rất tốt như ông Phật.PHẬT",
+              "transcription": "じごくでほとけにあったようだった."
+            }
+          ],
+          "kind": "n",
+          "mean": "con người nhân từ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đức Phật; tượng phật; ông Bụt"
+        },
+        {
+          "examples": [
+            {
+              "content": "仏の夜",
+              "mean": "đêm khuya tĩnh mịch .",
+              "transcription": "ふつのよる"
+            }
+          ],
+          "kind": "n",
+          "mean": "khoảng thời gian tĩnh mịch; sự tĩnh mịch"
+        }
+      ],
+      "mobileId": 143596,
+      "opposite_word": [
+        "神"
+      ],
+      "phonetic": "ほとけ",
+      "related_words": {
+        "word": [
+          "仏教",
+          "仏像",
+          "大仏",
+          "仏壇",
+          "仏教徒",
+          "仏様",
+          "仏陀",
+          "成仏する",
+          "成仏",
+          "仏語"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "仏",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "故人",
+                "死人",
+                "亡者",
+                "亡き人",
+                "死者"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "故人",
+                "仏様",
+                "死亡者",
+                "死人",
+                "亡者",
+                "亡き人",
+                "死者",
+                "亡き者"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "仏"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689b72a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những đồ thờ tự trên bàn thờ Phật"
+        }
+      ],
+      "mobileId": 4933,
+      "phonetic": "ふつき",
+      "related_words": {
+        "word": [
+          "仏",
+          "器"
+        ]
+      },
+      "word": "仏器"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a702a65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crown of a buddha's head"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "brusqueness, grumpiness"
+        }
+      ],
+      "mobileId": 226979,
+      "phonetic": "ぶっちょう",
+      "word": "仏頂"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c3c852",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flowers or flower arrangements for a butsudan (household Buddhist altar)"
+        }
+      ],
+      "mobileId": 213157,
+      "phonetic": "ぶっか ぶつか ぶつばな",
+      "word": "仏花"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c83581",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "Britain and France, Anglo-French"
+        }
+      ],
+      "mobileId": 213298,
+      "phonetic": "えいふつ",
+      "word": "英仏"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdf4db8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "russia và pháp"
+        }
+      ],
+      "mobileId": 76567,
+      "phonetic": "ろふつ",
+      "word": "露仏"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec48406",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đức và pháp; tiếng pháp đức"
+        }
+      ],
+      "mobileId": 117319,
+      "phonetic": "どくふつ",
+      "word": "独仏"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d7e55a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà sư; tăng lữ ."
+        }
+      ],
+      "mobileId": 143599,
+      "phonetic": "ぶっそう",
+      "related_words": {
+        "word": [
+          "仏",
+          "僧"
+        ]
+      },
+      "word": "仏僧"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d7f3770",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "事故の後、その男性は敬けんな仏教徒になった",
+              "mean": "Sau vụ tai nạn, người đàn ông trở thành một tín đồ trung thành của Phật giáo.",
+              "transcription": "じこののち、そのだんせいはけいけんなぶっきょうとになった"
+            },
+            {
+              "content": "自分自身を仏教徒であると考える",
+              "mean": "Tự coi mình là tín đồ của Phật giáo. .",
+              "transcription": "じぶんじしんをぶっきょうとであるとかんがえる"
+            }
+          ],
+          "kind": "n",
+          "mean": "tín đồ phật giáo"
+        }
+      ],
+      "mobileId": 143619,
+      "phonetic": "ぶっきょうと",
+      "related_words": {
+        "word": [
+          "仏",
+          "仏教",
+          "徒"
+        ]
+      },
+      "word": "仏教徒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

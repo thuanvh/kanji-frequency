@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f62bce3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bao ."
+        }
+      ],
+      "mobileId": 186615,
+      "phonetic": "こん",
+      "word": "梱"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f62b027",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiện hàng"
+        }
+      ],
+      "mobileId": 186614,
+      "phonetic": "こり",
+      "word": "梱"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09fc151",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "including something in a package"
+        }
+      ],
+      "mobileId": 211983,
+      "phonetic": "どうこん",
+      "related_words": {
+        "word": [
+          "同"
+        ]
+      },
+      "word": "同梱"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7caf2e5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "開こん検査",
+              "mean": "kiểm tra mở",
+              "transcription": "ひらこんけんさ"
+            },
+            {
+              "content": "開こんしてインストールすると",
+              "mean": "mở ra và cài đặt",
+              "transcription": "ひらこんしてインストールすると"
+            },
+            {
+              "content": "開梱日",
+              "mean": "ngày mở kiện.",
+              "transcription": "ひらきこりび"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "sự mở kiện; việc mở kiện; mở; mở ra"
+        }
+      ],
+      "mobileId": 110137,
+      "phonetic": "かいこん",
+      "word": "開梱"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

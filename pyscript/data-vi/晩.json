@@ -1,0 +1,306 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f1be24b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "buổi tối"
+        },
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "đêm"
+        },
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "muộn"
+        },
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "tối ."
+        }
+      ],
+      "mobileId": 185407,
+      "opposite_word": [
+        "朝"
+      ],
+      "phonetic": "ばん",
+      "related_words": {
+        "word": [
+          "晩御飯",
+          "今晩",
+          "最後の晩餐",
+          "一晩",
+          "昨晩",
+          "晩餐会",
+          "毎晩",
+          "今晩は!",
+          "晩餐",
+          "晩夏"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "晩",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "夜",
+                "ナイト",
+                "夜分",
+                "夜間"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "夕べ",
+                "夕暮れ",
+                "夕方",
+                "イブニング",
+                "夕刻",
+                "日暮れ",
+                "夕",
+                "夕まぐれ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "夜",
+                "ナイト",
+                "夜中",
+                "夜半",
+                "夜分",
+                "夜間"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "晩"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683863cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vào buổi tối"
+        }
+      ],
+      "mobileId": 1832,
+      "phonetic": "ばんに",
+      "word": "晩に"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7718b80e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evening cool, cool evening air"
+        }
+      ],
+      "mobileId": 265260,
+      "phonetic": "ばんりょう",
+      "word": "晩涼"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68363ae2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bữa cơm (trưa, chiều), tiệc, tiệc chiêu đãi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bữa cơm chiều, bữa cơm tối"
+        }
+      ],
+      "mobileId": 1765,
+      "phonetic": "ばんごはん",
+      "related_words": {
+        "word": [
+          "飯",
+          "晩"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "晩ご飯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "昼餉",
+                "午餐",
+                "夕食",
+                "夜食",
+                "昼ご飯",
+                "昼餐",
+                "晩御飯",
+                "ランチョン",
+                "晩餐",
+                "ダイニング",
+                "晩飯",
+                "昼飯",
+                "夕飯",
+                "御飯",
+                "粗飯",
+                "サパー",
+                "食事",
+                "昼御飯",
+                "昼めし",
+                "ディナー",
+                "昼食",
+                "ランチ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "晩ご飯"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef962bafc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "that night, that evening"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "over the course of the evening"
+        }
+      ],
+      "mobileId": 275881,
+      "phonetic": "そのばん",
+      "word": "その晩"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a8af50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "late-ripening citrus (e.g. pomelo)"
+        }
+      ],
+      "mobileId": 278092,
+      "phonetic": "ばんかん",
+      "word": "晩柑"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1c7d1e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bữa ăn tối ."
+        }
+      ],
+      "mobileId": 185423,
+      "phonetic": "ばんめし",
+      "related_words": {
+        "word": [
+          "飯",
+          "晩"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "晩飯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "昼餉",
+                "午餐",
+                "夕食",
+                "夜食",
+                "昼ご飯",
+                "昼餐",
+                "晩御飯",
+                "ランチョン",
+                "晩餐",
+                "ダイニング",
+                "昼飯",
+                "夕飯",
+                "御飯",
+                "粗飯",
+                "サパー",
+                "食事",
+                "晩ご飯",
+                "昼御飯",
+                "昼めし",
+                "ディナー",
+                "昼食",
+                "ランチ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "晩飯"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9017e44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evening (used in greetings), good evening"
+        }
+      ],
+      "mobileId": 272806,
+      "phonetic": "おばん",
+      "word": "お晩"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1c3039",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hoàng hôn ."
+        }
+      ],
+      "mobileId": 185416,
+      "phonetic": "ばんしょう",
+      "related_words": {
+        "word": [
+          "晩"
+        ]
+      },
+      "word": "晩照"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1c4979",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vạn phúc ."
+        }
+      ],
+      "mobileId": 185418,
+      "phonetic": "ばんふく",
+      "word": "晩福"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

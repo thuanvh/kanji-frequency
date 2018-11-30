@@ -1,0 +1,294 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107cd924d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đai"
+        },
+        {
+          "examples": [
+            {
+              "content": "かすかな光の帯",
+              "mean": "thắt lưng có ánh sáng nhạt",
+              "transcription": "かすかなひかりのおび"
+            },
+            {
+              "content": "AからBに伸びる帯",
+              "mean": "dải dây kéo dài từ A đến B",
+              "transcription": "AからBにのびるおび"
+            },
+            {
+              "content": "着陸帯(臨時の)",
+              "mean": "thắt lưng an toàn khi hạ cánh (đeo tạm thời) .",
+              "transcription": "ちゃくりくたい(りんじの)"
+            }
+          ],
+          "kind": "n",
+          "mean": "dây thắt lưng; thắt lưng; dải dây"
+        }
+      ],
+      "mobileId": 55332,
+      "phonetic": "おび",
+      "related_words": {
+        "word": [
+          "携帯電話",
+          "携帯",
+          "時間帯",
+          "価格帯",
+          "世帯主",
+          "世帯",
+          "付帯",
+          "包帯",
+          "帯域",
+          "熱帯魚"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "帯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "囃子",
+                "徒党",
+                "バンド",
+                "鉢巻き",
+                "群れ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "囃子",
+                "徒党",
+                "バンド",
+                "群れ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "サンチュール",
+                "ベルト",
+                "三尺帯",
+                "三尺",
+                "バンド",
+                "腰帯",
+                "下紐"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "帯"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107cd9929",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "việc mang (tính dẫn, hóa trị) ."
+        }
+      ],
+      "mobileId": 55333,
+      "phonetic": "たい",
+      "related_words": {
+        "word": [
+          "携帯電話",
+          "携帯",
+          "時間帯",
+          "価格帯",
+          "世帯主",
+          "世帯",
+          "付帯",
+          "包帯",
+          "帯域",
+          "熱帯魚"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "帯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "囃子",
+                "徒党",
+                "バンド",
+                "鉢巻き",
+                "群れ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "囃子",
+                "徒党",
+                "バンド",
+                "群れ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "サンチュール",
+                "ベルト",
+                "三尺帯",
+                "三尺",
+                "バンド",
+                "腰帯",
+                "下紐"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "帯"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935d0dbe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vành đai núi lửa"
+        }
+      ],
+      "mobileId": 20877,
+      "phonetic": "かざんたい",
+      "word": "火山帯"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933ff973",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đặt giá phạm vi"
+        }
+      ],
+      "mobileId": 19963,
+      "phonetic": "かかくたい",
+      "related_words": {
+        "word": [
+          "価格",
+          "帯",
+          "格",
+          "価"
+        ]
+      },
+      "word": "価格帯"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca096e5e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "comfort zone"
+        }
+      ],
+      "mobileId": 285766,
+      "phonetic": "かいかんたい",
+      "word": "快感帯"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95016210",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khu vực động đất; vành đai động đất"
+        }
+      ],
+      "mobileId": 56159,
+      "phonetic": "じしんたい",
+      "related_words": {
+        "word": [
+          "地",
+          "地震",
+          "帯"
+        ]
+      },
+      "word": "地震帯"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0395c98",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tank tread, continuous track, caterpillar track, endless track, crawler track"
+        }
+      ],
+      "mobileId": 282805,
+      "phonetic": "りたい",
+      "word": "履帯"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bf74ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hoàng đạo"
+        }
+      ],
+      "mobileId": 39630,
+      "phonetic": "こうどうたい",
+      "related_words": {
+        "word": [
+          "道",
+          "帯",
+          "黄",
+          "黄道"
+        ]
+      },
+      "word": "黄道帯"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f58f3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trộn lẫn phần nhỏ; trộn số (math)"
+        }
+      ],
+      "mobileId": 63962,
+      "phonetic": "おびぶんすう",
+      "related_words": {
+        "word": [
+          "分",
+          "数",
+          "帯",
+          "分数"
+        ]
+      },
+      "word": "帯分数"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef931049b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "orogenic belt, orogenic zone"
+        }
+      ],
+      "mobileId": 274334,
+      "phonetic": "ぞうざんたい",
+      "word": "造山帯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

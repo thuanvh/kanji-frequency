@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d02520d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, adj-na",
+          "mean": "Duyên dáng, thanh lịch"
+        }
+      ],
+      "mobileId": 215188,
+      "opposite_word": [
+        "俗"
+      ],
+      "phonetic": "みやび",
+      "word": "雅"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c19944",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảm xúc trước cái đẹp"
+        }
+      ],
+      "mobileId": 24047,
+      "phonetic": "まさふところ",
+      "related_words": {
+        "word": [
+          "懐"
+        ]
+      },
+      "word": "雅懐"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca013104e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "elegant, handsome and refined"
+        }
+      ],
+      "mobileId": 281566,
+      "phonetic": "たんが",
+      "word": "端雅"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae15fcf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "minor festal song (subgenre of the Shi Jing)"
+        }
+      ],
+      "mobileId": 230657,
+      "phonetic": "しょうが",
+      "word": "小雅"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd7de682",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tinh luyện"
+        }
+      ],
+      "mobileId": 72773,
+      "phonetic": "かそけみやび",
+      "synsets": [
+        {
+          "base_form": "幽雅",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "精製",
+                "優雅",
+                "風流",
+                "渋味",
+                "趣",
+                "風雅",
+                "優美"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "幽雅"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c1865c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thợ sơn, hoạ sĩ, dây néo, cắt đứt, đoạn tuyệt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghệ sĩ, hoạ sĩ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giá vẽ ; giá bảng đen"
+        }
+      ],
+      "mobileId": 24044,
+      "phonetic": "みやびか",
+      "word": "雅歌"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c19ff3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà văn; người trang nhã; tài tử"
+        }
+      ],
+      "mobileId": 24048,
+      "phonetic": "まさきゃく",
+      "related_words": {
+        "word": [
+          "客"
+        ]
+      },
+      "word": "雅客"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c966e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "có duyên, duyên dáng, yêu kiều, phong nhã, thanh nhã"
+        }
+      ],
+      "mobileId": 24297,
+      "phonetic": "みやびみ",
+      "related_words": {
+        "word": [
+          "味"
+        ]
+      },
+      "word": "雅味"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd244eb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "thanh lịch; duyên dáng"
+        }
+      ],
+      "mobileId": 69963,
+      "phonetic": "まさびた",
+      "synsets": [
+        {
+          "base_form": "雅びた",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "麗しい",
+                "優しい",
+                "優婉",
+                "雅びやか",
+                "瀟洒",
+                "エレガント",
+                "優艶",
+                "典雅",
+                "都雅",
+                "上品",
+                "典麗"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "麗しい",
+                "優婉",
+                "床しい",
+                "雅びやか",
+                "奥床しい",
+                "優艶",
+                "淑やか",
+                "典雅",
+                "奥ゆかしい",
+                "典麗"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "雅びた"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

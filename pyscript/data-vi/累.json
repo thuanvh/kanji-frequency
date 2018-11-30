@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cdd9866f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lo lắng; ảnh hưởng tội lỗi; sự liên quan; sự liên can"
+        }
+      ],
+      "mobileId": 75719,
+      "phonetic": "るい",
+      "word": "累"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e7f9a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính chất trần tục, tính chất thời lưu"
+        }
+      ],
+      "mobileId": 63512,
+      "phonetic": "ぞくるい",
+      "related_words": {
+        "word": [
+          "俗"
+        ]
+      },
+      "word": "俗累"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4f4147",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prisoner"
+        }
+      ],
+      "mobileId": 225959,
+      "phonetic": "るいしゅう",
+      "word": "累囚"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08cd54b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "accumulated loss"
+        }
+      ],
+      "mobileId": 211364,
+      "phonetic": "るいそん",
+      "word": "累損"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd9fc59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ thống đánh thuế giảm dần"
+        }
+      ],
+      "mobileId": 75735,
+      "phonetic": "るいげんぜい",
+      "word": "累減税"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdda9293",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "liên tiếp phát sinh"
+        }
+      ],
+      "mobileId": 75753,
+      "phonetic": "るいよ",
+      "word": "累世"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04f7a1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "to cause trouble (for someone), to have an unfavourable effect on (unfavorable)"
+        }
+      ],
+      "mobileId": 209403,
+      "phonetic": "るいをおよぼす",
+      "word": "累を及ぼす"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e102981",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kéo theo những người(cái) khác bên trong lo lắng"
+        }
+      ],
+      "mobileId": 111540,
+      "phonetic": "たにるいをおよぼす",
+      "word": "他に累を及ぼす"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

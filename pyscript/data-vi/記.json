@@ -1,0 +1,233 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cee4c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "ghi vào sử sách"
+        }
+      ],
+      "mobileId": 24471,
+      "phonetic": "き",
+      "related_words": {
+        "word": [
+          "記憶",
+          "記念日",
+          "日記",
+          "記録",
+          "記事",
+          "記号",
+          "表記",
+          "上記",
+          "記念",
+          "記載"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "記",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "資料",
+                "記録",
+                "ドキュメント",
+                "実録",
+                "文書",
+                "書類"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "方策",
+                "ドキュメント",
+                "一札",
+                "文書"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "帳面",
+                "書留",
+                "筆記",
+                "調書",
+                "記録",
+                "台帳",
+                "ドキュメント",
+                "文書",
+                "帳簿"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "帳面",
+                "調書",
+                "記録",
+                "年譜",
+                "ブック",
+                "文書"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "象徴",
+                "シンボル",
+                "印",
+                "章",
+                "表象",
+                "記号",
+                "符丁",
+                "信号",
+                "表徴",
+                "符号",
+                "マーク",
+                "紋章",
+                "表号"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "記"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e0103b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ghi chép để nhớ; sự ghi nhớ"
+        }
+      ],
+      "mobileId": 25002,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "記"
+        ]
+      },
+      "word": "記誦"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e6708f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "memorization"
+        }
+      ],
+      "mobileId": 280126,
+      "phonetic": "きめい",
+      "word": "記銘"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bea9782",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "full account"
+        }
+      ],
+      "mobileId": 247332,
+      "phonetic": "てんまつき",
+      "word": "顛末記"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9291974",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vyakarana (assurance of future enlightenment)"
+        }
+      ],
+      "mobileId": 257587,
+      "phonetic": "じゅき",
+      "word": "授記"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01fd00b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "forecast of the future"
+        }
+      ],
+      "mobileId": 281966,
+      "phonetic": "みらいき",
+      "word": "未来記"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a958b524",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "diploma, testamur, graduation certificate"
+        }
+      ],
+      "mobileId": 259135,
+      "phonetic": "がくいき",
+      "related_words": {
+        "word": [
+          "記",
+          "位",
+          "学位"
+        ]
+      },
+      "word": "学位記"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a999fde7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "sao chép vào một tài liệu đặc biệt"
+        }
+      ],
+      "mobileId": 261210,
+      "phonetic": "いき",
+      "word": "移記"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa5ef4e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Leviticus (book of the Bible)"
+        }
+      ],
+      "mobileId": 228703,
+      "phonetic": "レビき",
+      "word": "レビ記"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ed743d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc viết âm nhạc ghi điểm"
+        }
+      ],
+      "mobileId": 25448,
+      "phonetic": "きふ",
+      "word": "記譜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

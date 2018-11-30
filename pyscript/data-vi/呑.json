@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ac12b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự phụ vào; sự thêm vào, sự sáp nhập, sự thôn tính"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự hợp, sự hợp nhất"
+        }
+      ],
+      "mobileId": 5480,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "并呑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "并合",
+                "合体",
+                "併呑",
+                "併合"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "并呑"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa79c4ea9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người nghiện rượu ."
+        }
+      ],
+      "mobileId": 109307,
+      "phonetic": "さけのみ",
+      "word": "酒呑"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9299d0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "heavy drinker, boozer, tippler"
+        }
+      ],
+      "mobileId": 274101,
+      "phonetic": "のみし",
+      "word": "呑師"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09a7183",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acid reflux, heart-burn"
+        }
+      ],
+      "mobileId": 211809,
+      "phonetic": "どんさん",
+      "word": "呑酸"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5f1f1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Oni (demon), said to be one of the most wicked and powerful monster in Japanese mythology"
+        }
+      ],
+      "mobileId": 251098,
+      "phonetic": "しゅてんどうじ",
+      "word": "酒呑童子"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

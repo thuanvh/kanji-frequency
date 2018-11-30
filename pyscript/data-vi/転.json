@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0382282",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, adv-to",
+          "mean": "turning around (once)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "suddenly, abruptly"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "completely (wrapped in something), quickly (unwrapping something)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "beautiful, round (eyes)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flail (for threshing grain)"
+        }
+      ],
+      "mobileId": 208641,
+      "phonetic": "くるり",
+      "word": "転"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fd9f2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không hoạt động (thang máy)"
+        }
+      ],
+      "mobileId": 25961,
+      "phonetic": "きゅうてん",
+      "related_words": {
+        "word": [
+          "休"
+        ]
+      },
+      "word": "休転"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a720e8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "expounding the teachings of Buddha, spinning the dharma wheel"
+        }
+      ],
+      "mobileId": 227043,
+      "phonetic": "てんぼうりん",
+      "word": "転法輪"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d01dcb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "backward somersault, back handspring, backflip"
+        }
+      ],
+      "mobileId": 215173,
+      "phonetic": "バクてん バックてん",
+      "word": "バク転"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f3a152",
+      "means": [
+        {
+          "kind": "n, vs",
+          "mean": "lẩn tránh vấn đề, ba phải"
+        }
+      ],
+      "mobileId": 214719,
+      "phonetic": "にてんさんてん",
+      "related_words": {
+        "word": [
+          "三",
+          "二"
+        ]
+      },
+      "word": "二転三転"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04c1fb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "eloquent, fluent, smooth-spoken, sonorous, facile, silver-tongued"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(of eyebrows) shapely"
+        }
+      ],
+      "mobileId": 209299,
+      "phonetic": "えんてん",
+      "word": "宛転"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2850a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuning peg (of a shamisen, etc.)"
+        }
+      ],
+      "mobileId": 249323,
+      "phonetic": "てんじゅ",
+      "word": "転手"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77099740",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "prank, joke"
+        }
+      ],
+      "mobileId": 264768,
+      "phonetic": "てんごう",
+      "word": "転合"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa74cdd5d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chuyển âm; sự biến âm ."
+        }
+      ],
+      "mobileId": 107942,
+      "phonetic": "てんおん",
+      "word": "転音"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9aa16d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "looking for a new job"
+        }
+      ],
+      "mobileId": 278139,
+      "phonetic": "てんかつ",
+      "word": "転活"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

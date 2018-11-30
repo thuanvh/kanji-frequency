@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a301a8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "朝の虹は船乗りの警告で、夜の虹は船乗りの喜び。",
+              "mean": "Cầu vồng buổi sáng là cảnh báo lên thuyền, cầu vồng buổi tối là dấu hiệu niềm vui khi lên thuyền",
+              "transcription": "あさのにじはふなのりのけいこくで、よるのにじはふなのりのよろこび。"
+            },
+            {
+              "content": "一度に二つも虹が見えると、雨が降るのを予告する。",
+              "mean": "Nếu hai chiếc cầu vồng xuất hiện 1 lần thì trời chuẩn bị mưa .",
+              "transcription": "いちどにふたつもにじがみえると、あめがふるのをよこくする。"
+            }
+          ],
+          "kind": "n",
+          "mean": "cầu vồng"
+        }
+      ],
+      "mobileId": 31961,
+      "phonetic": "にじ",
+      "related_words": {
+        "word": [
+          "虹色",
+          "虹彩"
+        ]
+      },
+      "word": "虹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef927638f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "supernumerary rainbow"
+        }
+      ],
+      "mobileId": 274029,
+      "phonetic": "かじょうにじ",
+      "word": "過剰虹"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77776d31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "arched beam used in shrine and temple construction"
+        }
+      ],
+      "mobileId": 268318,
+      "phonetic": "こうりょう",
+      "word": "虹梁"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68754c71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cầu vồng thứ nhì"
+        }
+      ],
+      "mobileId": 3739,
+      "phonetic": "ふくにじ",
+      "related_words": {
+        "word": [
+          "虹",
+          "副"
+        ]
+      },
+      "word": "副虹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9275d48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reflection rainbow"
+        }
+      ],
+      "mobileId": 274028,
+      "phonetic": "はんしゃこう",
+      "word": "反射虹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9276bb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "moonbow, lunar rainbow, whitish rainbow cast by moonlight, lunar bow, space rainbow"
+        }
+      ],
+      "mobileId": 274030,
+      "phonetic": "げっこう",
+      "word": "月虹"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dad3f35",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cầu vồng sơ cấp"
+        }
+      ],
+      "mobileId": 151220,
+      "phonetic": "しゅにじ",
+      "related_words": {
+        "word": [
+          "虹",
+          "主"
+        ]
+      },
+      "word": "主虹"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a31d0c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "虹色の輝き",
+              "mean": "Màu rực rỡ của cầu vồng",
+              "transcription": "にじしょくのかがやき"
+            },
+            {
+              "content": "足に虹色のペディキュアをしている",
+              "mean": "Sơn móng chân màu cầu vồng lên chân .",
+              "transcription": "あしににじしょくのペディキュアをしている"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "màu cầu vồng"
+        }
+      ],
+      "mobileId": 31963,
+      "phonetic": "にじいろ",
+      "related_words": {
+        "word": [
+          "虹",
+          "色"
+        ]
+      },
+      "word": "虹色"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b09ab3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kỹ thuật công nghiệp"
+        }
+      ],
+      "mobileId": 39137,
+      "phonetic": "",
+      "word": "虹霓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b9f987",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fog bow, fogbow, mistbow, white rainbow"
+        }
+      ],
+      "mobileId": 270483,
+      "phonetic": "きりにじ",
+      "word": "霧虹"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

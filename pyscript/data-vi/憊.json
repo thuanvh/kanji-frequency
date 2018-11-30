@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9824d90e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "exhaustion"
+        }
+      ],
+      "mobileId": 234085,
+      "phonetic": "ひはい",
+      "word": "疲憊"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8910746",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự mệt mỏi cùng cực, sự chán nản mệt mỏi"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "offering drink"
+        }
+      ],
+      "mobileId": 38136,
+      "phonetic": "",
+      "word": "倦憊"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824d8f0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "heat exhaustion"
+        }
+      ],
+      "mobileId": 234084,
+      "phonetic": "ねつひはい",
+      "word": "熱疲憊"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

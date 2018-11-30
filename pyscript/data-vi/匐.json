@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686aa67e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bò"
+        }
+      ],
+      "mobileId": 3392,
+      "phonetic": "",
+      "word": "匐"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada5d4841",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bệnh ecpet mảng tròn (y) ."
+        }
+      ],
+      "mobileId": 78529,
+      "phonetic": "ふっこうしん",
+      "related_words": {
+        "word": [
+          "行"
+        ]
+      },
+      "word": "匐行疹"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

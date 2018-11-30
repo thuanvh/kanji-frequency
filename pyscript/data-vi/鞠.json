@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd05e1f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quả bóng; bóng đá"
+        }
+      ],
+      "mobileId": 68976,
+      "phonetic": "まり",
+      "synsets": [
+        {
+          "base_form": "鞠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボール",
+                "球",
+                "玉"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボール",
+                "コウ丸",
+                "球"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鞠"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cb79a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "investigating (e.g. a criminal)"
+        }
+      ],
+      "mobileId": 279264,
+      "phonetic": "すいきく",
+      "word": "推鞠"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777f6996",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "examination, interrogation, questioning"
+        }
+      ],
+      "mobileId": 268586,
+      "phonetic": "きくもん",
+      "word": "鞠問"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

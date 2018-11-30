@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7720bea8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf, ctr",
+          "mean": "printing, impression, issue"
+        }
+      ],
+      "mobileId": 265521,
+      "phonetic": "さつ",
+      "word": "刷"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b5f5ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những sự chứng minh thuyền galê"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "galley proof"
+        }
+      ],
+      "mobileId": 39315,
+      "phonetic": "こうせいすり",
+      "related_words": {
+        "word": [
+          "校正",
+          "正",
+          "校"
+        ]
+      },
+      "word": "校正刷"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e1f8a8f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "刷版とは主にオフセット印刷機に使用する印刷の原版の事を指します。",
+              "mean": "Là thuật ngữ chỉ tấm in dùng cho tổ hợp máy in offset",
+              "transcription": ""
+            }
+          ],
+          "kind": "",
+          "mean": "tấm in"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "すりばん",
+      "word": "刷版"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d462735",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "first print (run)"
+        }
+      ],
+      "mobileId": 217330,
+      "phonetic": "しょさつ しょずり はつずり",
+      "word": "初刷"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2adfb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quét; công tắc đảo chiều điện quét"
+        }
+      ],
+      "mobileId": 147088,
+      "phonetic": "すりこ",
+      "related_words": {
+        "word": [
+          "子"
+        ]
+      },
+      "word": "刷子"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2bc2af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số ((của) những (quyển) sách) in"
+        }
+      ],
+      "mobileId": 147116,
+      "phonetic": "すりすう",
+      "related_words": {
+        "word": [
+          "数"
+        ]
+      },
+      "word": "刷数"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92462bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "se-tenant"
+        }
+      ],
+      "mobileId": 257439,
+      "phonetic": "れんさつ",
+      "word": "連刷"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

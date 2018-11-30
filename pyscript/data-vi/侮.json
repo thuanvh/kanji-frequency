@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6897dd5b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xem thường, coi khinh, khinh miệt"
+        }
+      ],
+      "mobileId": 4816,
+      "phonetic": "あなど",
+      "word": "侮"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef997096d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "contempt for Japan, anti-Japanese sentiment"
+        }
+      ],
+      "mobileId": 277562,
+      "phonetic": "ぶにち",
+      "word": "侮日"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689e5c57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự khinh thường; sự sỉ nhục; sự lăng nhục"
+        }
+      ],
+      "mobileId": 5025,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "侮慢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "軽蔑",
+                "侮蔑",
+                "侮り",
+                "軽侮",
+                "蔑視",
+                "嘲り",
+                "侮辱"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "あざけり",
+                "侮辱"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "軽蔑",
+                "侮蔑",
+                "侮り",
+                "軽視",
+                "軽侮",
+                "蔑視",
+                "侮辱"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "侮慢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

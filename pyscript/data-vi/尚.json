@@ -1,0 +1,293 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107a9b631",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "春なお浅し",
+              "mean": "Xuân vẫn chưa tới/ Xuân còn lâu mới tới.",
+              "transcription": "はるなおあさし"
+            }
+          ],
+          "kind": "adv, conj",
+          "mean": "chưa"
+        },
+        {
+          "examples": [
+            {
+              "content": "英語をうまく話すことはむずかしいが, りっぱな英語を書くことはなおむずかしい",
+              "mean": "nói thạo tiếng Anh đã khó mà viết thì còn khó hơn nữa",
+              "transcription": "えいごをうまくはなすことはむずかしいが,りっぱなえいごをかくことはなおむずかしい"
+            },
+            {
+              "content": "彼は手術してなお悪くなった",
+              "mean": "Anh ta còn tệ hơn nữa sau khi phẫu thuật.",
+              "transcription": "かれはしゅじゅつしてなおわるくなった"
+            }
+          ],
+          "kind": "adv, conj",
+          "mean": "ngoài ra; hơn nữa;"
+        },
+        {
+          "examples": [
+            {
+              "content": "山の上は夏でも〜寒い",
+              "mean": "trên núi dù là mùa hè vẫn còn lạnh .",
+              "transcription": "やまのうえはなつでも〜さむい"
+            }
+          ],
+          "kind": "adv, conj",
+          "mean": "vẫn còn; vẫn thế"
+        }
+      ],
+      "mobileId": 54768,
+      "phonetic": "なお",
+      "related_words": {
+        "word": [
+          "高尚",
+          "時期尚早",
+          "和尚",
+          "尚且つ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "尚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "さらに",
+                "一段と",
+                "もっと",
+                "更に",
+                "加えて"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "さらに",
+                "尚且つ",
+                "もっと",
+                "又",
+                "更に"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "さらに"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "今尚",
+                "未だに",
+                "今以て",
+                "未だ",
+                "依然として"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "尚"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca069c6a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na, adj-no",
+          "mean": "prematurity"
+        }
+      ],
+      "mobileId": 284348,
+      "phonetic": "そうしょう",
+      "word": "早尚"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd995400",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "làm dịu; ngay cả bây giờ"
+        }
+      ],
+      "mobileId": 14654,
+      "phonetic": "いまなお",
+      "related_words": {
+        "word": [
+          "今",
+          "尚"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "今尚",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "尚",
+                "未だに",
+                "今以て",
+                "未だ",
+                "依然として"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "今尚"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecd7f38",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "hơn nữa, bên cạnh đó, ngoài ra"
+        }
+      ],
+      "mobileId": 117602,
+      "phonetic": "なおまた",
+      "word": "尚又"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0451f42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "all the more"
+        }
+      ],
+      "mobileId": 209066,
+      "phonetic": "なおなお",
+      "word": "尚々"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02c67a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sho clan, royal family of the Ryukyu Kingdom"
+        }
+      ],
+      "mobileId": 282368,
+      "phonetic": "しょうし",
+      "word": "尚氏"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecd4800",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "ngoài ra, hơn nữa, vả lại, vả chăng, ngoài... ra"
+        }
+      ],
+      "mobileId": 117596,
+      "phonetic": "なおかつ",
+      "related_words": {
+        "word": [
+          "尚"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "尚且つ",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "兎にも角にも",
+                "兎に角",
+                "兎や角",
+                "兎も角も",
+                "併せて",
+                "兎も有れ",
+                "何れ",
+                "兎も角",
+                "又",
+                "どうせ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "さらに",
+                "尚",
+                "もっと",
+                "又",
+                "更に"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "併せて",
+                "又",
+                "亦",
+                "外に",
+                "加えて"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "尚且つ"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecd51e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "/prə'vaizouz/, điều khoản, điều qui định; điều kiện (trong một hiệp định, giao kèo...)"
+        }
+      ],
+      "mobileId": 117597,
+      "phonetic": "なおかき",
+      "word": "尚書き"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca069c274",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, adj-na, n",
+          "mean": "premature"
+        }
+      ],
+      "mobileId": 284347,
+      "phonetic": "じきそうしょう",
+      "word": "時期早尚"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecd629c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adv",
+          "mean": "hơn thế nữa"
+        }
+      ],
+      "mobileId": 117600,
+      "phonetic": "なおのこと",
+      "word": "尚の事"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680144b532",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cá da trơn ."
+        }
+      ],
+      "mobileId": 42925,
+      "phonetic": "なまず",
+      "word": "鯰"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77868c98",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "upside-down catfish (Synodontis nigriventris)"
+        }
+      ],
+      "mobileId": 268824,
+      "phonetic": "さかさなまず サカサナマズ",
+      "word": "逆さ鯰"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561ebf1bad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "electric catfish (any species of family Malapteruridae, esp. species Malapterurus electricus)"
+        }
+      ],
+      "mobileId": 254228,
+      "phonetic": "でんきなまず デンキナマズ",
+      "word": "電気鯰"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9090ff9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "electric catfish (any species of family Malapteruridae, esp. species Malapterurus electricus)"
+        }
+      ],
+      "mobileId": 256608,
+      "phonetic": "しびれなまず シビレナマズ",
+      "word": "痺鯰"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778aed48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Wels catfish (Silurus glanis)"
+        }
+      ],
+      "mobileId": 268967,
+      "phonetic": "ヨーロッパおおなまず ヨーロッパオオナマズ",
+      "word": "ヨーロッパ大鯰"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77890611",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lake Biwa catfish (Silurus biwaensis)"
+        }
+      ],
+      "mobileId": 268903,
+      "phonetic": "びわこおおなまず ビワコオオナマズ",
+      "word": "琵琶湖大鯰"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

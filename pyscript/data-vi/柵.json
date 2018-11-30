@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f5497d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng rào cọc"
+        }
+      ],
+      "mobileId": 186398,
+      "phonetic": "さく",
+      "synsets": [
+        {
+          "base_form": "柵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "フェンス",
+                "塀",
+                "囲い",
+                "垣",
+                "斎垣",
+                "垣根"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "柵"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f54a687",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bờ giậu"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bờ rào ."
+        }
+      ],
+      "mobileId": 186399,
+      "phonetic": "しがらみ",
+      "synsets": [
+        {
+          "base_form": "柵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "フェンス",
+                "塀",
+                "囲い",
+                "垣",
+                "斎垣",
+                "垣根"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "柵"
+    },
+    {
+      "_id": "432518852de0a80625d585a982735d64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "no-entry barrier"
+        }
+      ],
+      "mobileId": 235271,
+      "phonetic": "たちいりきんしさく",
+      "word": "立入禁止柵"
+    },
+    {
+      "_id": "622cc39a952b667c2efb0cae5efbf354",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Hàng rào bảo vệ (Tay vịn lan can cầu)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ぼうごさく",
+      "word": "防護柵"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b2786b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "electric fence"
+        }
+      ],
+      "mobileId": 278420,
+      "phonetic": "でんきさく",
+      "word": "電気柵"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d4155d76",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "どうして脱柵した？",
+              "mean": "Sao a lại bỏ trốn?",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Bỏ trốn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "脱柵"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab11e51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "palisade layer"
+        }
+      ],
+      "mobileId": 229066,
+      "phonetic": "さくじょうそしき",
+      "word": "柵状組織"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

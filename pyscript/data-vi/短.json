@@ -1,0 +1,150 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a55972",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fault, defect, weak point"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "minor"
+        }
+      ],
+      "mobileId": 269816,
+      "opposite_word": [
+        "長"
+      ],
+      "phonetic": "たん",
+      "word": "短"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a7fa89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brevity, shortness"
+        }
+      ],
+      "mobileId": 286319,
+      "phonetic": "みじかさ",
+      "word": "短さ"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02a9a82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "shortening a vowel"
+        }
+      ],
+      "mobileId": 282307,
+      "phonetic": "たんこ",
+      "word": "短呼"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c051fce7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "to be too short"
+        }
+      ],
+      "mobileId": 209481,
+      "phonetic": "みじかすぎる",
+      "word": "短すぎる"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e19fa75",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mệnh đề ngắn, câu cú ngắn"
+        }
+      ],
+      "mobileId": 111854,
+      "opposite_word": [
+        "長句"
+      ],
+      "phonetic": "たんく",
+      "word": "短句"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1c9245",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự không làm việc cả ngày, sự không làm việc cả tuần"
+        }
+      ],
+      "mobileId": 111939,
+      "phonetic": "みじかひ",
+      "word": "短日"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b09dbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đơn giản"
+        }
+      ],
+      "mobileId": 23515,
+      "phonetic": "",
+      "word": "簡短"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111aafbc",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Chiều ngang hình chữ nhật."
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "たんぺん",
+      "word": "短辺"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1e84ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hướng ngắn (bơi)"
+        }
+      ],
+      "mobileId": 111993,
+      "opposite_word": [
+        "長水路"
+      ],
+      "phonetic": "たんすいろ",
+      "word": "短水路"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e2231af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tóc ngắn"
+        }
+      ],
+      "mobileId": 112123,
+      "phonetic": "たんけ",
+      "word": "短毛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

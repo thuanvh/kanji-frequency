@@ -1,0 +1,349 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74fe61f1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "こちらはどの方ですか",
+              "mean": "đây là vị nào?",
+              "transcription": "こちらはどのほうですか"
+            },
+            {
+              "content": "独身の方々",
+              "mean": "các vị còn độc thân.",
+              "transcription": "どくしんのかたがた"
+            }
+          ],
+          "kind": "n",
+          "mean": "Ｖị; ngài"
+        }
+      ],
+      "mobileId": 101311,
+      "opposite_word": [
+        "円"
+      ],
+      "phonetic": "かた",
+      "related_words": {
+        "word": [
+          "方法",
+          "方向",
+          "東方",
+          "方針",
+          "一方",
+          "一方通行",
+          "貴方",
+          "夕方",
+          "使用方法",
+          "両方"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "方",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "側",
+                "方面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "方位",
+                "方向",
+                "向き",
+                "方角",
+                "針路"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "道のり",
+                "道筋",
+                "方向",
+                "方角"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "方"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74fe6c49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phương diện"
+        },
+        {
+          "examples": [
+            {
+              "content": "北の方を見る",
+              "mean": "nhìn về phương bắc .",
+              "transcription": "きたのかたをみる"
+            }
+          ],
+          "kind": "n, n-adv",
+          "mean": "phương hướng; phía; phương"
+        }
+      ],
+      "mobileId": 101312,
+      "opposite_word": [
+        "円"
+      ],
+      "phonetic": "ほう",
+      "related_words": {
+        "word": [
+          "方法",
+          "方向",
+          "東方",
+          "方針",
+          "一方",
+          "一方通行",
+          "貴方",
+          "夕方",
+          "使用方法",
+          "両方"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "方",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "側",
+                "方面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "方位",
+                "方向",
+                "向き",
+                "方角",
+                "針路"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "道のり",
+                "道筋",
+                "方向",
+                "方角"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "方"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68acbf0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tôi; mỏ (cổ xưa, rất tầm thường, nhưng được nhìn thấy được sử dụng)"
+        }
+      ],
+      "mobileId": 5504,
+      "phonetic": "へいかた",
+      "word": "弊方"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933917ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự trích ra (của) những gốc"
+        }
+      ],
+      "mobileId": 19747,
+      "phonetic": "ひらきかた",
+      "word": "開方"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcb292f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bán, người phát hàng, thứ bán được, đồ bán được"
+        }
+      ],
+      "mobileId": 16215,
+      "phonetic": "うりかた",
+      "related_words": {
+        "word": [
+          "方"
+        ]
+      },
+      "word": "売り方"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85d1858",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "buổi chiều, buổi tối, tối đêm, lúc xế bóng"
+        },
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "lúc mặt trời lặn"
+        },
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "lúc sẩm tối, lúc chập tối, lúc hoàng hôn"
+        }
+      ],
+      "mobileId": 36481,
+      "opposite_word": [
+        "明け方"
+      ],
+      "phonetic": "くれかた",
+      "word": "暮れ方"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd585bae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cách (mà) một giữ ((mà) (sự) viết (của) ai đó quét); như thế nào tới sự cầm giữ (những đũa)"
+        }
+      ],
+      "mobileId": 71585,
+      "phonetic": "もちかた",
+      "word": "持ち方"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adab19d3f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "車が右方通行(つうこう)の国",
+              "mean": "Đất nước nơi mà xe cộ đều phải đi lại ở bên phải đường.",
+              "transcription": "くるまがみぎかたつうこう(つうこう)のくに"
+            },
+            {
+              "content": "右方の表面(ひょうめん)",
+              "mean": "Mặt phải của tấm vải",
+              "transcription": "みぎかたのひょうめん(ひょうめん)"
+            },
+            {
+              "content": "〜が右方に動かないようにする",
+              "mean": "sao cho không di chuyển sang bên phải .",
+              "transcription": "〜がみぎかたにうごかないようにする"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "bên phải"
+        }
+      ],
+      "mobileId": 79774,
+      "opposite_word": [
+        "左方"
+      ],
+      "phonetic": "うほう",
+      "related_words": {
+        "word": [
+          "右",
+          "方"
+        ]
+      },
+      "word": "右方"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eaeabd4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(1) cảnh sát; (2) phương pháp bắt tội phạm"
+        }
+      ],
+      "mobileId": 116634,
+      "phonetic": "とりかた",
+      "word": "捕り方"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0801a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cắt; cắt"
+        }
+      ],
+      "mobileId": 111289,
+      "phonetic": "たちかた",
+      "related_words": {
+        "word": [
+          "方",
+          "裁",
+          "裁ち"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "裁ち方",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "切れ込み",
+                "裁ち",
+                "切れ目",
+                "切断",
+                "カット",
+                "切目",
+                "分け前",
+                "切り傷",
+                "切り疵",
+                "切り通し",
+                "切通",
+                "切り創"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "切れ込み",
+                "裁ち",
+                "切れ目",
+                "切断",
+                "切目",
+                "切り傷",
+                "切り疵",
+                "切り通し",
+                "切り創"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "裁ち方"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

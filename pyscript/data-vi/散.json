@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c05a090f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "bulk storage, loose articles"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coins, small change"
+        }
+      ],
+      "mobileId": 209739,
+      "opposite_word": [
+        "集"
+      ],
+      "phonetic": "ばら バラ",
+      "word": "散"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6834d784",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "tháo ra, gỡ mối, làm cho ra manh mối; làm sáng tỏ, sổ sợi x ra"
+        }
+      ],
+      "mobileId": 1717,
+      "phonetic": "ちける",
+      "word": "散ける"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e30da9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mydriasis, (excessive) dilation of the pupil"
+        }
+      ],
+      "mobileId": 263518,
+      "opposite_word": [
+        "縮瞳"
+      ],
+      "phonetic": "さんどう",
+      "word": "散瞳"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d41057e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người tham gia cuộc giao tranh nhỏ, nhóm quân tham gia cuộc giao tranh nhỏ"
+        }
+      ],
+      "mobileId": 147797,
+      "phonetic": "ちへい",
+      "word": "散兵"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d942d16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự tập hợp và phân phối; sự tụ tập và phân tán"
+        }
+      ],
+      "mobileId": 150431,
+      "phonetic": "",
+      "word": "聚散"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74eda2c2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼は多額の金をばらまいて票を集めたといううわさだ",
+              "mean": "có tin đồn là ông ta vung ra rất nhiều tiền để mua những là phiếu bầu .",
+              "transcription": "かれはたがくのきんをばらまいてひょうをあつめたといううわさだ"
+            }
+          ],
+          "kind": "v5k, uk",
+          "mean": "gieo rắc; phổ biến; phung phí (tiền bạc); vung (tiền)"
+        }
+      ],
+      "mobileId": 101026,
+      "phonetic": "ばらまく",
+      "related_words": {
+        "word": [
+          "蒔く"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "散蒔く",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "撒き散らす",
+                "撒く",
+                "振り撒く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "撒き散らす",
+                "振り撒く",
+                "押し広める"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "散播く",
+                "振り撒く"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "散蒔く"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ad9e95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lysis"
+        },
+        {
+          "examples": null,
+          "kind": "vs",
+          "mean": "to lyse"
+        }
+      ],
+      "mobileId": 278257,
+      "phonetic": "かんさん",
+      "word": "渙散"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8477a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "broadcasting (e.g. seed), disseminating"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "distributing (e.g. favours), pork barrelling"
+        }
+      ],
+      "mobileId": 219346,
+      "phonetic": "ばらまき",
+      "word": "散播き"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d00404",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional Chinese cold remedy (a medical powder with antipyretic and diaphoretic effects)"
+        }
+      ],
+      "mobileId": 271198,
+      "phonetic": "しょうきさん",
+      "word": "正気散"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a309bd3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "powdered tea"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "freshly-brewed, aromatic tea"
+        }
+      ],
+      "mobileId": 224968,
+      "phonetic": "さんちゃ",
+      "word": "散茶"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

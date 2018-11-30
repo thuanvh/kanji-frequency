@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aaef8bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "con ngươi"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tròng mắt ."
+        }
+      ],
+      "mobileId": 173192,
+      "phonetic": "ひとみ",
+      "related_words": {
+        "word": [
+          "瞳孔"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "瞳",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "瞳孔",
+                "黒星",
+                "眸子"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "瞳"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e31512",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miosis, myosis, (excessive) constriction of the pupil"
+        }
+      ],
+      "mobileId": 263519,
+      "opposite_word": [
+        "散瞳"
+      ],
+      "phonetic": "しゅくどう",
+      "word": "縮瞳"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e30da9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mydriasis, (excessive) dilation of the pupil"
+        }
+      ],
+      "mobileId": 263518,
+      "opposite_word": [
+        "縮瞳"
+      ],
+      "phonetic": "さんどう",
+      "word": "散瞳"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aaf04b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "căng mắt nhìn ."
+        }
+      ],
+      "mobileId": 173193,
+      "phonetic": "ひとみをこらす",
+      "word": "瞳を凝らす"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e32505",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mydriatic agent, mydriatic drug"
+        }
+      ],
+      "mobileId": 263520,
+      "phonetic": "さんどうやく",
+      "word": "散瞳薬"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e527d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Here's looking at you, kid, Here's cheers to your eyes"
+        }
+      ],
+      "mobileId": 271905,
+      "phonetic": "きみのひとみにかんぱい",
+      "word": "君の瞳に乾杯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

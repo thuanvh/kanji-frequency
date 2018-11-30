@@ -1,0 +1,278 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada8c4c42",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "また来週",
+              "mean": "hẹn gặp lại tuần sau",
+              "transcription": "またらいしゅう"
+            }
+          ],
+          "kind": "adv, conj, pref",
+          "mean": "lại"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼は語学家であり、また数学家でもある",
+              "mean": "anh ta là một nhà ngôn ngữ học và (lại còn) là một nhà toán học .",
+              "transcription": "かれはごがくかであり、またすうがくかでもある"
+            }
+          ],
+          "kind": "adv, conj, pref",
+          "mean": "lại còn; và; ngoài ra; hơn nữa"
+        }
+      ],
+      "mobileId": 79221,
+      "phonetic": "また",
+      "related_words": {
+        "word": [
+          "又は"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "又",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "同じく",
+                "亦"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "さらに",
+                "又又",
+                "改めて",
+                "再び",
+                "又もや",
+                "重ねて",
+                "又しても"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "兎にも角にも",
+                "兎に角",
+                "兎や角",
+                "兎も角も",
+                "併せて",
+                "兎も有れ",
+                "尚且つ",
+                "何れ",
+                "兎も角",
+                "どうせ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "同じく",
+                "亦",
+                "同様に",
+                "等しく"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "さらに",
+                "尚",
+                "尚且つ",
+                "もっと",
+                "更に"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "併せて",
+                "尚且つ",
+                "亦",
+                "外に",
+                "加えて"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "又"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fc7277",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "elder ủng hộ anh (em) họ"
+        }
+      ],
+      "mobileId": 8036,
+      "phonetic": "またじゅうけい",
+      "word": "又従兄"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fc6850",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "anh/chị/em cháu chú cháu bác"
+        }
+      ],
+      "mobileId": 8035,
+      "phonetic": "またじゅうてい",
+      "word": "又従弟"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fc8250",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hợp đồng phụ, thầu lại; ký hợp đồng phụ"
+        }
+      ],
+      "mobileId": 8038,
+      "phonetic": "またうけ",
+      "related_words": {
+        "word": [
+          "又"
+        ]
+      },
+      "word": "又請け"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fd2c36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "hai lần, gấp hai, suy nghĩ chín chắn khi làm gì, không nghĩ nhiều về, không để tâm lắm đến, quên ngay"
+        }
+      ],
+      "mobileId": 8060,
+      "phonetic": "またと",
+      "related_words": {
+        "word": [
+          "と",
+          "又"
+        ]
+      },
+      "word": "又と"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933dea93",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "uốn cong làm bằng gỗ hỗ trợ ở trên (của) chùm (tia) chính (của) một cái nhà, bây giờ chủ yếu; trang trí (hình dạng evocates một frog mở - chân)"
+        }
+      ],
+      "mobileId": 19902,
+      "phonetic": "かえるまた",
+      "word": "蛙又"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada8c8557",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chị em sinh đôi ."
+        }
+      ],
+      "mobileId": 79226,
+      "phonetic": "またいとこ",
+      "related_words": {
+        "word": [
+          "弟",
+          "兄",
+          "又",
+          "従兄弟"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "又従兄弟",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "再従弟",
+                "再従兄弟",
+                "再従兄"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "又従兄弟"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dee3084",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grandniece"
+        }
+      ],
+      "mobileId": 222820,
+      "phonetic": "まためい",
+      "word": "又姪"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fc844d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hợp đồng phụ, thầu lại; ký hợp đồng phụ"
+        }
+      ],
+      "mobileId": 8039,
+      "phonetic": "またうけおい",
+      "related_words": {
+        "word": [
+          "又",
+          "負"
+        ]
+      },
+      "word": "又請負"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fccce6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người hầu bậc thấp thứ nhì"
+        }
+      ],
+      "mobileId": 8047,
+      "phonetic": "またげらい",
+      "related_words": {
+        "word": [
+          "家",
+          "又",
+          "来",
+          "家来"
+        ]
+      },
+      "word": "又家来"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

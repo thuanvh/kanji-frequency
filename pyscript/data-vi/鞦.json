@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77225656",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crupper"
+        }
+      ],
+      "mobileId": 265572,
+      "phonetic": "しりがい",
+      "word": "鞦"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010bdd0f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "公園に行ってブランコで遊ぶ",
+              "mean": "tới công viên chơi xích đu .",
+              "transcription": "こうえんにいってブランコであそぶ"
+            }
+          ],
+          "kind": "n",
+          "mean": "xích đu; cái xích đu"
+        }
+      ],
+      "mobileId": 41969,
+      "phonetic": "ぶらんこ",
+      "word": "鞦韆"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd59a7d2",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "cái giếng"
+        }
+      ],
+      "mobileId": 12655,
+      "phonetic": "い",
+      "related_words": {
+        "word": [
+          "天井",
+          "井戸",
+          "天井裏",
+          "伊井",
+          "井戸水",
+          "井戸端会議",
+          "油井",
+          "井戸端",
+          "天井桟敷",
+          "青天井"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "井",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "井泉",
+                "井戸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "井"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a23f44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wooden watchtower, battlefield watchtower"
+        }
+      ],
+      "mobileId": 286134,
+      "phonetic": "せいろう",
+      "word": "井楼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779207b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "well water"
+        }
+      ],
+      "mobileId": 269200,
+      "phonetic": "せいすい",
+      "word": "井水"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd902467",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tốt là dây thừng"
+        }
+      ],
+      "mobileId": 14367,
+      "phonetic": "いつな",
+      "related_words": {
+        "word": [
+          "井",
+          "綱"
+        ]
+      },
+      "word": "井綱"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77905b9e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frog in a well, someone with a narrow perspective"
+        }
+      ],
+      "mobileId": 269142,
+      "phonetic": "せいあ",
+      "word": "井蛙"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9578d1c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đáy giếng; chỗ hẹp"
+        }
+      ],
+      "mobileId": 59941,
+      "phonetic": "いそこ",
+      "related_words": {
+        "word": [
+          "底",
+          "井"
+        ]
+      },
+      "word": "井底"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9287a7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "artesian well, artesian aquifer"
+        }
+      ],
+      "mobileId": 274065,
+      "phonetic": "じふんせい",
+      "word": "自噴井"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d6373e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giếng nước ."
+        }
+      ],
+      "mobileId": 143184,
+      "phonetic": "せいせん",
+      "related_words": {
+        "word": [
+          "泉",
+          "井"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "井泉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "井",
+                "井戸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "井戸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "井泉"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d241738",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phun ra khoan"
+        }
+      ],
+      "mobileId": 146874,
+      "phonetic": "けずい",
+      "word": "削井"
+    },
+    {
+      "_id": "432518852de0a80625d585a982619c02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "small water spring"
+        }
+      ],
+      "mobileId": 234721,
+      "phonetic": "いさらい",
+      "word": "いさら井"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

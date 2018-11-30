@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada3768f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n-pref, n",
+          "mean": "cái đầu tiên; cái mới"
+        },
+        {
+          "examples": [
+            {
+              "content": "初物",
+              "mean": "vật phẩm đầu .",
+              "transcription": "はつもの"
+            }
+          ],
+          "kind": "adj-no, n-pref, n",
+          "mean": "đầu tiên; mới"
+        }
+      ],
+      "mobileId": 77854,
+      "opposite_word": [
+        "終"
+      ],
+      "phonetic": "はつ",
+      "related_words": {
+        "word": [
+          "初期化",
+          "最初",
+          "初期値",
+          "初期設定",
+          "初期",
+          "初心者",
+          "最初の",
+          "初回",
+          "初め",
+          "初恋"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "初",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "目新しい",
+                "新",
+                "真新しい",
+                "新た",
+                "新鮮",
+                "新しい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "清い",
+                "天衣無縫",
+                "初初しい",
+                "初々しい",
+                "うぶ",
+                "他愛ない"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "第一"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "初"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6813025c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thiếu nữ đi du lịch xa bằng đường biển"
+        }
+      ],
+      "mobileId": 624,
+      "phonetic": "はつこうかい",
+      "word": "初航海"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68134715",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lần đầu"
+        }
+      ],
+      "mobileId": 633,
+      "phonetic": "はつに",
+      "word": "初に"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193479278",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "năm mới có sự ghi (quyết định)"
+        }
+      ],
+      "mobileId": 20202,
+      "phonetic": "しょはつ",
+      "related_words": {
+        "word": [
+          "初"
+        ]
+      },
+      "word": "書初"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd3fd34d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "năm đầu tiên của thời đại Minh Trị"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "famous place"
+        }
+      ],
+      "mobileId": 70828,
+      "phonetic": "めいはつ",
+      "word": "明初"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97332cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "debut, opening, first public exhibition"
+        }
+      ],
+      "mobileId": 276406,
+      "phonetic": "はつこうかい",
+      "word": "初公開"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dd0e403",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "/prai'mipəri:/, người đẻ con so"
+        }
+      ],
+      "mobileId": 152403,
+      "phonetic": "はつさんぷ",
+      "related_words": {
+        "word": [
+          "初"
+        ]
+      },
+      "word": "初産婦"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dcb7b73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bắt đầu; người mới học; người mới ra đời; người mới vào nghề"
+        }
+      ],
+      "mobileId": 152212,
+      "phonetic": "はつがくしゃ",
+      "related_words": {
+        "word": [
+          "者",
+          "初",
+          "学者"
+        ]
+      },
+      "word": "初学者"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77654738",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scenery seen on the morning of the first day of the year"
+        }
+      ],
+      "mobileId": 267732,
+      "phonetic": "はつげしき",
+      "word": "初景色"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7706301c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "first wind of the season (esp. the first wind of autumn)"
+        }
+      ],
+      "mobileId": 264660,
+      "phonetic": "はつかぜ",
+      "word": "初風"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

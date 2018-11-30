@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef96b59a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "visit to Myanmar, visit to Burma"
+        }
+      ],
+      "mobileId": 276155,
+      "phonetic": "ほうめん",
+      "word": "訪緬"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0afdf2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Burma"
+        }
+      ],
+      "mobileId": 286578,
+      "phonetic": "めんでん",
+      "word": "緬甸"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac452de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Anglo-Burmese Wars (1823-1826, 1852-1853, 1885-1887)"
+        }
+      ],
+      "mobileId": 229687,
+      "phonetic": "えいめんせんそう",
+      "word": "英緬戦争"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,227 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a754de7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "病は気から.",
+              "mean": "Lo lắng là mầm mống của bệnh tật/ Bệnh từ tâm mà ra",
+              "transcription": "やまいはきから."
+            },
+            {
+              "content": "重い病に倒れる",
+              "mean": "kiệt quệ vì bệnh nặng/ ngã trọng bệnh/ lâm trọng bệnh .",
+              "transcription": "おもいやまいにたおれる"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự ốm; sự có bệnh"
+        }
+      ],
+      "mobileId": 172226,
+      "phonetic": "やまい",
+      "related_words": {
+        "word": [
+          "病気",
+          "糖尿病",
+          "病院",
+          "病気になる",
+          "臆病",
+          "病気の",
+          "病棟",
+          "心臓病",
+          "白血病",
+          "病名"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "病",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "疾病",
+                "疾患",
+                "病気"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "障害",
+                "不調",
+                "異常",
+                "違和"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "疾病"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "病"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6e32f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh teo cơ"
+        }
+      ],
+      "mobileId": 13304,
+      "phonetic": "いしゅくびょう",
+      "word": "萎縮病"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014f636c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh than (ở cây) ."
+        }
+      ],
+      "mobileId": 43124,
+      "phonetic": "くろほびょう",
+      "word": "黒穂病"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e827a162",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nghèo nàn; cảnh nghèo nàn, cảnh bần cùng, sự nghèo nàn, sự thiếu thốn; sự thấp kém, sự tồi tàn"
+        }
+      ],
+      "mobileId": 34763,
+      "phonetic": "きんけつびょう",
+      "word": "金欠病"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802764243e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh thận ."
+        }
+      ],
+      "mobileId": 30783,
+      "phonetic": "じんぞうびょう",
+      "word": "腎臓病"
+    },
+    {
+      "_id": "432518852de0a80625d585a982029304",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bright's disease (i.e. chronic nephritis)"
+        }
+      ],
+      "mobileId": 231720,
+      "phonetic": "ブライトびょう",
+      "word": "ブライト病"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10742754d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bệnh hủi; bệnh phong; bệnh cùi hủi ."
+        }
+      ],
+      "mobileId": 52929,
+      "phonetic": "てんけいびょう",
+      "related_words": {
+        "word": [
+          "天",
+          "病",
+          "刑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "天刑病",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ハンセン病",
+                "癩病"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "天刑病"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd75511a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "căn bản bệnh; yamaidare"
+        }
+      ],
+      "mobileId": 72489,
+      "phonetic": "やまいたれ",
+      "word": "病垂れ"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74305f7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh tim"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đau tim ."
+        }
+      ],
+      "mobileId": 98195,
+      "phonetic": "しんぞうびょう",
+      "related_words": {
+        "word": [
+          "心",
+          "心臓",
+          "病",
+          "臓"
+        ]
+      },
+      "word": "心臓病"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74415bb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bệnh cấp tính ."
+        }
+      ],
+      "mobileId": 98428,
+      "phonetic": "きゅうせいびょう",
+      "word": "急性病"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf27139",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rụt rè, nhút nhát, bẽn lẽn, e lệ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "do dự, ngập ngừng, lưỡng lự, không nhất quyết"
+        }
+      ],
+      "mobileId": 17448,
+      "phonetic": "おく",
+      "related_words": {
+        "word": [
+          "臆病"
+        ]
+      },
+      "word": "臆"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8faced6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự can đảm và sự hèn nhát"
+        }
+      ],
+      "mobileId": 41543,
+      "phonetic": "つよしおく",
+      "related_words": {
+        "word": [
+          "臆"
+        ]
+      },
+      "word": "剛臆"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19315ccf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adv",
+          "mean": "gan dạ, bạo dạn"
+        }
+      ],
+      "mobileId": 18620,
+      "phonetic": "こわめずおくせず",
+      "word": "怖めず臆せず"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

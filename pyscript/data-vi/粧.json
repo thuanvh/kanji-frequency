@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0fff333",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s",
+          "mean": "to adorn oneself, to dress oneself up"
+        },
+        {
+          "examples": null,
+          "kind": "aux-v",
+          "mean": "to give an air of, to make oneself seem like"
+        }
+      ],
+      "mobileId": 215116,
+      "phonetic": "めかす",
+      "word": "粧す"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87d0716",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "yêu tinh"
+        }
+      ],
+      "mobileId": 37512,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "仮"
+        ]
+      },
+      "word": "仮粧"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02b5090",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "Trang điểm"
+        },
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "Ăn mặc đẹp; Ăn mặc lòe loẹt"
+        }
+      ],
+      "mobileId": 200029,
+      "phonetic": "おめかし",
+      "word": "お粧し"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0085cb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5m, vi",
+          "mean": "to dress oneself up, to deck oneself out"
+        }
+      ],
+      "mobileId": 189396,
+      "phonetic": "めかしこむ",
+      "word": "粧し込む"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

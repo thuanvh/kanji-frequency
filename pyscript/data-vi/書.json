@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f290782",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "bản ."
+        }
+      ],
+      "mobileId": 185595,
+      "phonetic": "しょ",
+      "word": "書"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68664e89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(quyển) sách nghệ thuật"
+        }
+      ],
+      "mobileId": 3259,
+      "phonetic": "びじゅつしょ",
+      "word": "美術書"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6841ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lý lẽ, sự tranh cãi, sự tranh luận, tóm tắt, Argumen"
+        }
+      ],
+      "mobileId": 13121,
+      "phonetic": "いけんしょ",
+      "related_words": {
+        "word": [
+          "意見",
+          "意"
+        ]
+      },
+      "word": "意見書"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd86d242",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một bức thư; một quyển sách; văn kiện; tài liệu"
+        }
+      ],
+      "mobileId": 14074,
+      "phonetic": "いちしょ",
+      "word": "一書"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027c873fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "biểu mẫu ."
+        }
+      ],
+      "mobileId": 32621,
+      "phonetic": "みほんしょ",
+      "word": "見本書"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027deb697",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản vẽ ."
+        }
+      ],
+      "mobileId": 32903,
+      "phonetic": "けいかくしょ",
+      "related_words": {
+        "word": [
+          "計画",
+          "計",
+          "画"
+        ]
+      },
+      "word": "計画書"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027e1faea",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bản liệt kê ."
+        }
+      ],
+      "mobileId": 32965,
+      "phonetic": "きにゅうしょ",
+      "word": "記入書"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5acd42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "book nut, bibliomaniac, bookworm"
+        }
+      ],
+      "mobileId": 226305,
+      "phonetic": "しょち",
+      "word": "書痴"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1071ea32c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bản tuyên bố ."
+        }
+      ],
+      "mobileId": 52367,
+      "phonetic": "せいめいしょ",
+      "word": "声明書"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05b1567",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "other book, another book"
+        }
+      ],
+      "mobileId": 283887,
+      "phonetic": "たしょ",
+      "word": "他書"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

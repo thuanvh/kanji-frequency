@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193958ebc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự lưu hoá (xử lý cao su bằng lưu huỳnh)"
+        }
+      ],
+      "mobileId": 22670,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "加"
+        ]
+      },
+      "word": "加硫"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19395aaf6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự lưu hoá"
+        }
+      ],
+      "mobileId": 22674,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "法",
+          "加",
+          "加硫"
+        ]
+      },
+      "word": "加硫法"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01a8e8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pyrrhotite"
+        }
+      ],
+      "mobileId": 281806,
+      "phonetic": "じりゅうてっこう",
+      "word": "磁硫鉄鉱"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9268fa1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "arsenopyrite"
+        }
+      ],
+      "mobileId": 257502,
+      "phonetic": "りゅうひてっこう",
+      "word": "硫砒鉄鉱"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

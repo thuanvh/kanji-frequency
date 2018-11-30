@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8a5f166",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "hốc, khoang (trong cơ thể)"
+        }
+      ],
+      "mobileId": 38803,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "腔",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "空洞",
+                "肺胞",
+                "窪み"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "腔"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771ffad8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coelenteron"
+        }
+      ],
+      "mobileId": 265498,
+      "phonetic": "こうちょう",
+      "word": "腔腸"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b57a30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "articular cavity, cavum articulare"
+        }
+      ],
+      "mobileId": 278520,
+      "phonetic": "かんせつこう",
+      "word": "関節腔"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dc99c0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "medullary cavity (of bone)"
+        }
+      ],
+      "mobileId": 221652,
+      "phonetic": "こつずいこう",
+      "word": "骨髄腔"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e0d2b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "false lumen"
+        }
+      ],
+      "mobileId": 279953,
+      "phonetic": "かいりくう",
+      "word": "解離腔"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef902e166",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pleural cavity"
+        }
+      ],
+      "mobileId": 272852,
+      "phonetic": "きょうまくくう きょうまくこう",
+      "word": "胸膜腔"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7736bb56",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pulp cavity"
+        }
+      ],
+      "mobileId": 266232,
+      "phonetic": "しずいこう しずいくう",
+      "word": "歯髄腔"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4fb0b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gun rifling"
+        }
+      ],
+      "mobileId": 225973,
+      "phonetic": "こうせん",
+      "word": "腔線"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecc7cb5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lumen"
+        }
+      ],
+      "mobileId": 117569,
+      "phonetic": "",
+      "word": "内腔"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dfc3b25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bên trong cái tai"
+        }
+      ],
+      "mobileId": 153794,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "耳"
+        ]
+      },
+      "word": "耳腔"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

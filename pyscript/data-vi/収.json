@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d99089c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đánh thuế người thu thập"
+        }
+      ],
+      "mobileId": 150577,
+      "phonetic": "おさむぜいり",
+      "related_words": {
+        "word": [
+          "税",
+          "吏"
+        ]
+      },
+      "word": "収税吏"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9a2760",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sorption (trong hóa học vật lý)"
+        }
+      ],
+      "mobileId": 150616,
+      "phonetic": "おさむぎ",
+      "related_words": {
+        "word": [
+          "着"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "収着",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "吸収",
+                "吸着"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "収着"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0251a4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2m-s, vt",
+          "mean": "to dedicate, to make an offering, to pay (fees)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to supply"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to store"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to finish, to bring to a close"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to restore (something to its place)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to achieve (e.g. a result)"
+        }
+      ],
+      "mobileId": 190351,
+      "phonetic": "おさむ",
+      "word": "収む"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d923951",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sưu tầm; những tập hợp"
+        }
+      ],
+      "mobileId": 150371,
+      "phonetic": "おさむきん",
+      "related_words": {
+        "word": [
+          "金"
+        ]
+      },
+      "word": "収金"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96e1249",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "lifting and recovery (e.g. in marine salvage)"
+        }
+      ],
+      "mobileId": 259822,
+      "phonetic": "ようしゅう",
+      "word": "揚収"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf28fde",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "box-office takings, box-office revenue"
+        }
+      ],
+      "mobileId": 247580,
+      "phonetic": "こうしゅう",
+      "word": "興収"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d94a804",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tụ lại lên trên; tập hợp; sự tích trữ"
+        }
+      ],
+      "mobileId": 150445,
+      "phonetic": "",
+      "word": "収輯"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9dfae8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sản lượng thu vào"
+        }
+      ],
+      "mobileId": 150730,
+      "phonetic": "おさむりつ",
+      "related_words": {
+        "word": [
+          "率"
+        ]
+      },
+      "word": "収率"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d9c9af4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tịch thu (của) những quyền sở hữu"
+        }
+      ],
+      "mobileId": 150691,
+      "phonetic": "おさむぼつ",
+      "related_words": {
+        "word": [
+          "没"
+        ]
+      },
+      "word": "収没"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7747c1d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "removal"
+        }
+      ],
+      "mobileId": 266768,
+      "phonetic": "しゅうきょ",
+      "word": "収去"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

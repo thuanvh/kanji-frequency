@@ -1,0 +1,221 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adaf597d7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "国は岡山ですが，大阪に来て２０年になります。",
+              "mean": "Quê tôi ở Okayama nhưng tôi đã đến sống ở Osaka 20 năm rồi.",
+              "transcription": "くにはおかやまですが，おおさかにきてにぜろねんになります。"
+            },
+            {
+              "content": "第二次世界大戦後ドイツは２つの国に分断された。",
+              "mean": "Sau chiến tranh thế giới thứ hai, nước Đức bị chia làm hai quốc gia.",
+              "transcription": "だいにじせかいたいせんごドイツはふたつのくににぶんだんされた。"
+            },
+            {
+              "content": "国を治める",
+              "mean": "Điều hành (cai trị) đất nước .",
+              "transcription": "くにをおさめる"
+            }
+          ],
+          "kind": "n",
+          "mean": "đất nước; quốc gia; quê nhà"
+        }
+      ],
+      "mobileId": 80898,
+      "phonetic": "くに",
+      "related_words": {
+        "word": [
+          "外国人",
+          "中国",
+          "韓国",
+          "外国",
+          "全国",
+          "国内",
+          "国籍",
+          "国語",
+          "米国",
+          "アメリカ合衆国"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "国",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "国家",
+                "連邦"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "邦"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "分野",
+                "世界",
+                "領域"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "国"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e853fd59",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "những nước"
+        }
+      ],
+      "mobileId": 36188,
+      "phonetic": "くにこく",
+      "related_words": {
+        "word": [
+          "国"
+        ]
+      },
+      "word": "国国"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027fcf643",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước ký kết ."
+        }
+      ],
+      "mobileId": 33403,
+      "phonetic": "ちょういんこく",
+      "word": "調印国"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81323af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cao thầu những sức mạnh; những bên ký kết"
+        }
+      ],
+      "mobileId": 34105,
+      "phonetic": "きょうやくこく",
+      "word": "協約国"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8542d1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự lấy làm kiêu hãnh về đất nước (làng quê) của mình, lòng tự hào dân tộc, lòng tự hào đối với quê hương"
+        }
+      ],
+      "mobileId": 36193,
+      "phonetic": "くにじまん",
+      "word": "国自慢"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca049fd69",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "queendom, country ruled by a queen"
+        }
+      ],
+      "mobileId": 283332,
+      "phonetic": "じょおうこく",
+      "word": "女王国"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca055845d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khanate"
+        }
+      ],
+      "mobileId": 283708,
+      "phonetic": "ハンこく ハーンこく",
+      "word": "ハン国"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68273bfe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một nửa một kuni (tỉnh)"
+        }
+      ],
+      "mobileId": 1259,
+      "phonetic": "はんこく",
+      "word": "半国"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d23f14",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chế độ bảo hộ; nước bị bảo hộ, chức vị quan bảo quốc; thời gian nhiếp chính"
+        }
+      ],
+      "mobileId": 6708,
+      "phonetic": "ほごこく",
+      "related_words": {
+        "word": [
+          "国",
+          "保護",
+          "保"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "保護国",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "保護領"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "保護国"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a041b97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Mongolia"
+        }
+      ],
+      "mobileId": 223532,
+      "phonetic": "モンゴルこく",
+      "word": "モンゴル国"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

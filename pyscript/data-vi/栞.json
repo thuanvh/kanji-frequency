@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d506d64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thẻ đánh dấu trang sách"
+        }
+      ],
+      "mobileId": 148289,
+      "phonetic": "しおり",
+      "synsets": [
+        {
+          "base_form": "栞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "案内書",
+                "ガイドブック",
+                "ガイド",
+                "入門",
+                "案内",
+                "必携",
+                "手引き",
+                "便覧",
+                "手引",
+                "道標"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先達",
+                "案内書",
+                "ガイド",
+                "手引き",
+                "手引",
+                "道標"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "栞"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e0c0fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để đặt một nhãn sách giữa những trang (của) một (quyển) sách"
+        }
+      ],
+      "mobileId": 7156,
+      "phonetic": "",
+      "word": "本に栞を挿む"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

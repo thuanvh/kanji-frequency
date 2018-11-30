@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280279780f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "diệp"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lá"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lá cây ."
+        }
+      ],
+      "mobileId": 31729,
+      "phonetic": "は",
+      "related_words": {
+        "word": [
+          "言葉",
+          "紅葉",
+          "観葉植物",
+          "若葉",
+          "葉書",
+          "花言葉",
+          "落ち葉",
+          "合言葉",
+          "四つ葉のクローバー",
+          "早口言葉"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "葉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "木ノ葉"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "葉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abe52fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spider mite (any mite of family Tetranychidae)"
+        }
+      ],
+      "mobileId": 229504,
+      "phonetic": "はだに ハダニ",
+      "word": "葉壁蝨"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc99641",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(1) chấm dứt bỏ đi; đỉnh bỏ đi; lần cuối bỏ đi"
+        }
+      ],
+      "mobileId": 16166,
+      "phonetic": "",
+      "word": "杪葉"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e106ac",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Lá ở cây gần gốc hoặc thân cây."
+        }
+      ],
+      "mobileId": 7163,
+      "phonetic": "もと は",
+      "word": "本葉"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938ce113",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lá cây hoa thảo mộc"
+        }
+      ],
+      "mobileId": 22404,
+      "phonetic": "はなは",
+      "word": "花葉"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938ced7c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "mặt lá dưới"
+        }
+      ],
+      "mobileId": 22405,
+      "phonetic": "した ば",
+      "related_words": {
+        "word": [
+          "葉",
+          "下"
+        ]
+      },
+      "word": "下葉"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0959939",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "banana leaf"
+        }
+      ],
+      "mobileId": 285728,
+      "phonetic": "しょうよう",
+      "word": "蕉葉"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c32ca2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "maple leaf"
+        }
+      ],
+      "mobileId": 213138,
+      "phonetic": "ふうよう",
+      "word": "楓葉"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90d860e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mulberry leaf"
+        }
+      ],
+      "mobileId": 273200,
+      "phonetic": "くわば",
+      "word": "桑葉"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92e741e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fertile frond"
+        }
+      ],
+      "mobileId": 257758,
+      "phonetic": "ほうしよう",
+      "word": "胞子葉"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

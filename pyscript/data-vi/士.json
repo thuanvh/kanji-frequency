@@ -1,0 +1,249 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07b2d63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "man (esp. one who is well-respected)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "samurai"
+        },
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "person (in a certain profession, esp. licensed), member"
+        }
+      ],
+      "mobileId": 284884,
+      "phonetic": "し",
+      "related_words": {
+        "word": [
+          "弁護士",
+          "富士山",
+          "博士",
+          "戦士",
+          "騎士",
+          "武士道",
+          "消防士",
+          "紳士",
+          "武士",
+          "兵士"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "士",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "紳士",
+                "貴紳",
+                "士君子",
+                "檀那",
+                "人士"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "武者",
+                "武士",
+                "武家",
+                "侍"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "士"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8656444",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đi lính"
+        }
+      ],
+      "mobileId": 36755,
+      "phonetic": "ぐんし",
+      "related_words": {
+        "word": [
+          "軍",
+          "士"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "軍士",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "兵士",
+                "軍卒",
+                "戦士",
+                "兵卒",
+                "兵員",
+                "武弁",
+                "兵隊",
+                "軍人",
+                "兵"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "軍士"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932c22b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(quần chúng được chứng nhận) kế toán"
+        }
+      ],
+      "mobileId": 19336,
+      "phonetic": "かいけいし",
+      "related_words": {
+        "word": [
+          "会",
+          "計",
+          "士",
+          "公認会計士"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "会計士",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "出納係",
+                "主計",
+                "元締め",
+                "勘定係",
+                "会計係",
+                "会計",
+                "会計官"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "会計士"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e9e4c9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người  tốt nghiệp trường chuyên môn"
+        }
+      ],
+      "mobileId": 116097,
+      "phonetic": "とくぎょうし",
+      "word": "得業士"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cc4fc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mahjong player, mahjong enthusiast"
+        }
+      ],
+      "mobileId": 279289,
+      "phonetic": "ジャンし",
+      "word": "雀士"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d38e0c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tuyển mộ (jsdf)"
+        }
+      ],
+      "mobileId": 147543,
+      "phonetic": "さんし",
+      "word": "三士"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d09cdc2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "therapist"
+        }
+      ],
+      "mobileId": 215408,
+      "phonetic": "りょうほうし",
+      "word": "療法士"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9408387",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "certified measurer"
+        }
+      ],
+      "mobileId": 258352,
+      "phonetic": "けいりょうし",
+      "word": "計量士"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a971b44c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese scholar-bureaucrat, Chinese scholar-official"
+        }
+      ],
+      "mobileId": 259937,
+      "phonetic": "したいふ",
+      "word": "士大夫"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6827829b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "luật sư xét xử"
+        }
+      ],
+      "mobileId": 1271,
+      "phonetic": "はんし",
+      "related_words": {
+        "word": [
+          "士",
+          "判"
+        ]
+      },
+      "word": "判士"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

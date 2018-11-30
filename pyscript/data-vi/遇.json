@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c091c279",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "reception, welcome"
+        }
+      ],
+      "mobileId": 211531,
+      "phonetic": "せつぐう",
+      "word": "接遇"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e860ba66",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vt",
+          "mean": "đãi ngộ; đối xử tốt; tiếp đãi"
+        }
+      ],
+      "mobileId": 36604,
+      "phonetic": "ぐうする",
+      "related_words": {
+        "word": [
+          "する"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "遇する",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "紛らす",
+                "紛らわす",
+                "振舞う",
+                "振る舞う",
+                "もてなす"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仕向る",
+                "扱う",
+                "あしらう",
+                "もてなす",
+                "取り扱う",
+                "仕向ける"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "遇する"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ed80b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự trái ngược; ghép đôi"
+        }
+      ],
+      "mobileId": 63687,
+      "phonetic": "たいぐう",
+      "word": "対遇"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7743685c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "ill-treatment, abuse"
+        }
+      ],
+      "mobileId": 266635,
+      "phonetic": "ぎゃくぐう",
+      "word": "虐遇"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86134d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hạnh phúc và những nỗi đau đớn"
+        }
+      ],
+      "mobileId": 36618,
+      "phonetic": "ぐうふぐう",
+      "word": "遇不遇"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd77321b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một lần gặp gỡ"
+        }
+      ],
+      "mobileId": 13577,
+      "phonetic": "いちぐう",
+      "word": "一遇"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa77d4fe6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ngày chẵn ."
+        }
+      ],
+      "mobileId": 108844,
+      "phonetic": "ぐうじつ",
+      "word": "遇実"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3e298a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "được đánh giá bởi một có người chủ; cuộc gặp (người nào đó)"
+        }
+      ],
+      "mobileId": 113017,
+      "phonetic": "ねぐう",
+      "related_words": {
+        "word": [
+          "値"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "値遇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "エンカウンター",
+                "出会い",
+                "出会",
+                "遭遇",
+                "巡り合い",
+                "鉢合わせ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "値遇"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ea40b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kagutsuchi, fire deity who burned to death his mother Izanami during childbirth (and was therefore beheaded by his father Izanagi)"
+        }
+      ],
+      "mobileId": 263749,
+      "phonetic": "かぐつち",
+      "word": "軻遇突智"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959a90c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(cơ hội) nghìn năm có một, ngàn năm có một"
+        }
+      ],
+      "mobileId": 61027,
+      "phonetic": "せんざいいちぐう",
+      "word": "千載一遇"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

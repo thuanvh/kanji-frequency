@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7db0866a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự cùng nhau ."
+        }
+      ],
+      "mobileId": 144467,
+      "phonetic": "とも",
+      "related_words": {
+        "word": [
+          "子供",
+          "提供",
+          "提供する",
+          "子供達",
+          "供給者",
+          "試供品",
+          "子供服",
+          "供給する",
+          "子供の日",
+          "電力供給"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "供",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "付け届け",
+                "貰い物",
+                "土産",
+                "給付",
+                "使い物",
+                "頂き物",
+                "現在",
+                "贈呈"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "付添い",
+                "お付き",
+                "従者",
+                "付き",
+                "付き添い人",
+                "伽",
+                "付人",
+                "供人",
+                "随行",
+                "付き添い",
+                "侍者",
+                "随行員",
+                "付け人",
+                "お供"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "供"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e846c8f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hy sinh; động vật cúng thần"
+        }
+      ],
+      "mobileId": 35776,
+      "phonetic": "",
+      "word": "供犠"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7757d251",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "monk who attends to the principal image of a temple"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Buddhist monk serving at an attached Shinto shrine"
+        }
+      ],
+      "mobileId": 267288,
+      "phonetic": "ぐそう",
+      "word": "供僧"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d53f846",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giving to a monk, offerings made to monks"
+        }
+      ],
+      "mobileId": 217788,
+      "phonetic": "そうぐ",
+      "word": "僧供"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09be19a",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, adj-no",
+          "mean": "(sản phẩm) đang thử nghiệm, mẫu thí nghiệm"
+        }
+      ],
+      "mobileId": 285931,
+      "phonetic": "きょうし",
+      "related_words": {
+        "word": [
+          "供"
+        ]
+      },
+      "word": "供試"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e813e8bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đề nghị"
+        }
+      ],
+      "mobileId": 34130,
+      "phonetic": "きょうりょう",
+      "word": "供料"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86188c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đề nghị; đề nghị và tôn kính"
+        }
+      ],
+      "mobileId": 36631,
+      "phonetic": "きょうさい",
+      "related_words": {
+        "word": [
+          "祭",
+          "供"
+        ]
+      },
+      "word": "供祭"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eac55f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đoàn tuỳ tùng"
+        }
+      ],
+      "mobileId": 116558,
+      "phonetic": "きょうそろい",
+      "related_words": {
+        "word": [
+          "供",
+          "揃い"
+        ]
+      },
+      "word": "供揃い"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e861b1a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đưa cho những sự đề nghị"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "offering full report superior"
+        }
+      ],
+      "mobileId": 36636,
+      "phonetic": "ともすすむ",
+      "related_words": {
+        "word": [
+          "供"
+        ]
+      },
+      "word": "供進"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825da87f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inner offerer (any of the 10 high-ranking monks serving at the inner offering hall)"
+        }
+      ],
+      "mobileId": 234591,
+      "phonetic": "ないぐ",
+      "word": "内供"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

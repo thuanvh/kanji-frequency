@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4cd06d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "(động vật) con cái"
+        }
+      ],
+      "mobileId": 148176,
+      "phonetic": "",
+      "word": "仔"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d8042c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Mèo con ."
+        }
+      ],
+      "mobileId": 143651,
+      "phonetic": "こねこ",
+      "related_words": {
+        "word": [
+          "猫"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "仔猫",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "小猫",
+                "子猫"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "仔猫"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d803058",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "仔牛が樫の木に角突いた",
+              "mean": "Con bê húc sừng vào cây sồi",
+              "transcription": "仔牛がかしのきにかくついた"
+            }
+          ],
+          "kind": "n",
+          "mean": "con bê; thịt bê; bê"
+        }
+      ],
+      "mobileId": 143649,
+      "phonetic": "こうし",
+      "related_words": {
+        "word": [
+          "牛"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "仔牛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "子牛",
+                "小牛",
+                "カーフ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "仔牛"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f166d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phôi, cái còn phôi thai, còn phôi thai, còn trứng nước, chưa phát triển"
+        }
+      ],
+      "mobileId": 63826,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "胎仔",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "胚子",
+                "受精卵",
+                "胎児"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "胎仔"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebea2f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xả rác"
+        }
+      ],
+      "mobileId": 117132,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "同",
+          "腹"
+        ]
+      },
+      "word": "同腹仔"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d804f1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cừu non ."
+        }
+      ],
+      "mobileId": 143652,
+      "phonetic": "こひつじ",
+      "related_words": {
+        "word": [
+          "羊"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "仔羊",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ラム",
+                "小羊",
+                "子羊"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "仔羊"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6e16e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ấu trùng"
+        }
+      ],
+      "mobileId": 149217,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "虫"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "仔虫",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "幼生",
+                "幼虫"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "仔虫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

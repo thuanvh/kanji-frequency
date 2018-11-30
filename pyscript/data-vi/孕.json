@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd12adbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để trở thành có thai"
+        }
+      ],
+      "mobileId": 69387,
+      "phonetic": "",
+      "word": "孕る"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9419b28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "conception, pregnancy, fecundation"
+        }
+      ],
+      "mobileId": 274858,
+      "phonetic": "にんよう",
+      "word": "妊孕"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99ea4e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pregnant woman"
+        }
+      ],
+      "mobileId": 277798,
+      "phonetic": "ようふ",
+      "word": "孕婦"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9418d94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fertility"
+        }
+      ],
+      "mobileId": 274856,
+      "phonetic": "にんようのう",
+      "word": "妊孕能"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

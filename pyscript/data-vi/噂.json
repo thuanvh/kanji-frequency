@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adae5b8c2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この薬は副作用があるという噂がある。",
+              "mean": "Có tin đồn rằng thuốc này có tác dụng phụ.",
+              "transcription": "このくすりはふくさようがあるといううわさがある。"
+            },
+            {
+              "content": "浩二は聖子にプロポーズしたという噂だ。",
+              "mean": "Tôi nghe đồn Koji đã cầu hôn Seiko.",
+              "transcription": "こうじはせいこにプロポーズしたといううわさだ。"
+            },
+            {
+              "content": "その会社についての悪い噂が本当になった。",
+              "mean": "Lời đồn đại không tốt về công ty đó cuối cùng đã trở thành sự thật.",
+              "transcription": "そのかいしゃについてのわるいうわさがほんとうになった。"
+            },
+            {
+              "content": "その噂はたちまち学園中に広がった。",
+              "mean": "Lời đồn đại đó nhanh chóng lan khắp khu học xá.",
+              "transcription": "そのうわさはたちまちがくえんなかにひろがった。"
+            }
+          ],
+          "kind": "n, vs, adj-no",
+          "mean": "lời đồn đại; tin đồn; tiếng đồn"
+        },
+        {
+          "examples": [
+            {
+              "content": "昨日あなたの噂をしたばかりですよ。",
+              "mean": "Hôm qua bọn chúng tớ chỉ toàn tán gẫu về cậu.",
+              "transcription": "きのうあなたのうわさをしたばかりですよ。"
+            },
+            {
+              "content": "人はみんな他人の噂をするのが好きだ。",
+              "mean": "Con người rất thích bàn tán về chuyện của người khác. .",
+              "transcription": "ひとはみんなたにんのうわさをするのがすきだ。"
+            }
+          ],
+          "kind": "n, vs, adj-no",
+          "mean": "tán gẫu về người khác"
+        }
+      ],
+      "mobileId": 80702,
+      "phonetic": "うわさ",
+      "synsets": [
+        {
+          "base_form": "噂",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "デマ",
+                "巷談",
+                "俗言",
+                "評判",
+                "風聞",
+                "蜚語",
+                "取沙汰"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "噂"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdceceba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đúng theo tin đồn"
+        }
+      ],
+      "mobileId": 16314,
+      "phonetic": "うわさどおり",
+      "word": "噂通り"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdced41d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "ngồi lê mách lẻo"
+        }
+      ],
+      "mobileId": 16316,
+      "phonetic": "うわさばなし",
+      "word": "噂話"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcee30d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ngồi lê mách lẻo"
+        }
+      ],
+      "mobileId": 16317,
+      "phonetic": "うわさはなし",
+      "word": "噂話し"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adae5e26f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼らは私のファッションについてうわさしているのだと思った",
+              "mean": "tôi đoán họ đang bàn tán về trang phục, cách ăn mặc của tôi",
+              "transcription": "かれらはわたしのファッションについてうわさしているのだとおもった"
+            },
+            {
+              "content": "たった今あんたの噂してたのよ。最近あんたやせたからさあ、どうやってやせたかって話してたの。",
+              "mean": "chúng tớ vừa nói chuyện phiếm về cậu đấy. Gần đây, cậu gầy đi, nên chúng tớ bàn tán tại sao cậu lại gầy đi được",
+              "transcription": "たったいまあんたのうわさしてたのよ。さいきんあんたやせたからさあ、どうやってやせたかってはなしてたの。"
+            },
+            {
+              "content": "（人）に隠れてうわさする",
+              "mean": "phao tin đồn nhảm đằng sau ai .",
+              "transcription": "（ひと）にかくれてうわさする"
+            }
+          ],
+          "kind": null,
+          "mean": "đồn; nói chuyện phiếm; bàn tán; buôn chuyện"
+        }
+      ],
+      "mobileId": 80703,
+      "phonetic": "うわさする",
+      "word": "噂する"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adae60b49",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "君のうわさをしていたんだよ、くしゃみが出なかった",
+              "mean": "bọn chị nói chuyện phiếm về em đấy, có bị hắt hơi không",
+              "transcription": "きみのうわさをしていたんだよ、くしゃみがでなかった"
+            },
+            {
+              "content": "うわさをして回る人",
+              "mean": "kẻ ngồi lê đôi mách",
+              "transcription": "うわさをしてまわるひと"
+            },
+            {
+              "content": "くしゃみをしたから、誰かが君のうわさをしているに違いない",
+              "mean": "nếu bị hắt hơi, chắc chắn là có ai đó đang nói chuyện về mình",
+              "transcription": "くしゃみをしたから、だれかがきみのうわさをしているにちがいない"
+            },
+            {
+              "content": "悪い事をした者は、皆がそのうわさをしていると思ってしまう。",
+              "mean": "người làm việc xấu xa thường có tật giật mình, nghĩ rằng mọi người đang bàn tán về mình .",
+              "transcription": "わるいことをしたものは、みながそのうわさをしているとおもってしまう。"
+            }
+          ],
+          "kind": null,
+          "mean": "bàn tán; đồn; nói chuyện phiếm; buôn chuyện"
+        }
+      ],
+      "mobileId": 80704,
+      "phonetic": "うわさをする",
+      "word": "噂をする"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdced149",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "tới ngồi lê mách lẻo quanh"
+        }
+      ],
+      "mobileId": 16315,
+      "phonetic": "うわさにのぼる",
+      "word": "噂に上る"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcef61e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5s",
+          "mean": "tới những tiếng đồn trải ra"
+        }
+      ],
+      "mobileId": 16319,
+      "phonetic": "うわさをながす",
+      "word": "噂を流す"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db405ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "amorous rumour (rumor), romantic gossip"
+        }
+      ],
+      "mobileId": 220923,
+      "phonetic": "ういたうわさ",
+      "word": "浮いた噂"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcee989",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "tới ngồi lê mách lẻo quanh"
+        }
+      ],
+      "mobileId": 16318,
+      "phonetic": "うわさをたてられる",
+      "word": "噂を立てられる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

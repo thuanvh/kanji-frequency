@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd9b15c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "kể lại nghệ thuật thơ"
+        }
+      ],
+      "mobileId": 16653,
+      "phonetic": "",
+      "word": "詠誦"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d9d157a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Truyền thống ."
+        }
+      ],
+      "mobileId": 144104,
+      "phonetic": "でんしょう",
+      "related_words": {
+        "word": [
+          "伝"
+        ]
+      },
+      "word": "伝誦"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e0103b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ghi chép để nhớ; sự ghi nhớ"
+        }
+      ],
+      "mobileId": 25002,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "記"
+        ]
+      },
+      "word": "記誦"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dbc3441",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đọc đi đọc lại"
+        }
+      ],
+      "mobileId": 151721,
+      "phonetic": "",
+      "word": "誦習"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

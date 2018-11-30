@@ -1,0 +1,221 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10724e34b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hạ"
+        },
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "mùa hè; mùa hạ ."
+        }
+      ],
+      "mobileId": 52465,
+      "opposite_word": [
+        "冬"
+      ],
+      "phonetic": "なつ",
+      "related_words": {
+        "word": [
+          "夏休み",
+          "夏祭り",
+          "初夏",
+          "夏季休暇",
+          "真夏",
+          "夏至",
+          "夏炉冬扇",
+          "夏日",
+          "晩夏",
+          "夏服"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "夏",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "夏時",
+                "九夏",
+                "サマー",
+                "夏季",
+                "夏場",
+                "夏期"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "夏"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b113b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "summer fur, summer coat, summer plumage"
+        }
+      ],
+      "mobileId": 286627,
+      "phonetic": "なつげ",
+      "word": "夏毛"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed2e30e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quần áo mùa hè"
+        }
+      ],
+      "mobileId": 117773,
+      "phonetic": "なつぎ",
+      "related_words": {
+        "word": [
+          "夏",
+          "着"
+        ]
+      },
+      "word": "夏着"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed2ed52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(thực vật học) cây hoa cúc nở sớm vào mùa hè"
+        }
+      ],
+      "mobileId": 117774,
+      "phonetic": "なつきく",
+      "related_words": {
+        "word": [
+          "夏",
+          "菊"
+        ]
+      },
+      "word": "夏菊"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed34e48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "loại củ cải ngon nhất có vào mà hè (có hình dáng thon dài và rất nồng, được trồng vào đầu mùa xuân và thu hoạch vào mùa hè)"
+        }
+      ],
+      "mobileId": 117785,
+      "phonetic": "なつだいこん",
+      "word": "夏大根"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed39007",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bộ đồ giừơng (khăn trải giừơng và chăn) dành cho mùa hè"
+        }
+      ],
+      "mobileId": 117792,
+      "phonetic": "なつふとん",
+      "word": "夏布団"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed3b2a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lễ hội mùa hè"
+        }
+      ],
+      "mobileId": 117797,
+      "phonetic": "なつまつり",
+      "related_words": {
+        "word": [
+          "夏",
+          "祭り",
+          "祭"
+        ]
+      },
+      "word": "夏祭り"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7718968e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "villa arranged appropriately for summer, mansion arranged appropriately for summer"
+        }
+      ],
+      "mobileId": 265255,
+      "phonetic": "なつやかた",
+      "word": "夏館"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7719f32d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "summer cloud, summer clouds"
+        }
+      ],
+      "mobileId": 265304,
+      "phonetic": "なつぐも かうん",
+      "word": "夏雲"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19361ea3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-t",
+          "mean": "time) /'sʌmətaim/, mùa hạ, mùa hè"
+        }
+      ],
+      "mobileId": 21028,
+      "phonetic": "なつとき",
+      "related_words": {
+        "word": [
+          "時",
+          "夏"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "夏時",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "夏",
+                "九夏",
+                "サマー",
+                "夏季",
+                "夏場",
+                "夏期"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "夏時"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

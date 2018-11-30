@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7bb0191",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chốt"
+        },
+        {
+          "examples": [
+            {
+              "content": "その任務の成功の鍵",
+              "mean": "chìa khóa để hoàn thành nhiệm vụ",
+              "transcription": "そのにんむのせいこうのかぎ"
+            },
+            {
+              "content": "ねじ巻き用の鍵",
+              "mean": "chìa khóa để vặn vít",
+              "transcription": "ねじまきようのかぎ"
+            },
+            {
+              "content": "2番目の鍵",
+              "mean": "chìa khóa thứ 2",
+              "transcription": "2ばんめのかぎ"
+            }
+          ],
+          "kind": "n",
+          "mean": "khoá; cái chìa khoá; chìa khóa"
+        }
+      ],
+      "mobileId": 109883,
+      "phonetic": "かぎ",
+      "related_words": {
+        "word": [
+          "鍵盤",
+          "合鍵",
+          "鍵穴",
+          "黒鍵",
+          "鍵を掛ける",
+          "打鍵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鍵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "キー",
+                "緒",
+                "糸口",
+                "手掛かり",
+                "示唆",
+                "ヒント",
+                "端緒",
+                "傍証",
+                "手がかり",
+                "足掛かり",
+                "足掛り"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "キー",
+                "緒",
+                "秘訣",
+                "手掛かり",
+                "決め手",
+                "ヒント",
+                "手がかり",
+                "足掛かり",
+                "足掛り"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "キー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "キー",
+                "緒",
+                "糸口",
+                "手掛かり",
+                "暗示",
+                "示唆",
+                "ヒント",
+                "端緒",
+                "仄めかし",
+                "手がかり"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "スパナ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鍵"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac1aad4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "internal lock"
+        }
+      ],
+      "mobileId": 229611,
+      "phonetic": "うちかぎ",
+      "word": "内鍵"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6843084b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "che giấu những bí mật; nguyên lý bí mật"
+        }
+      ],
+      "mobileId": 2161,
+      "phonetic": "ひかぎ",
+      "word": "秘鍵"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7bb4072",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鍵束をジャラジャラと鳴らす",
+              "mean": "lắc chùm chìa khóa làm phát ra âm thanh xủng xoẻng",
+              "transcription": "かぎたばをジャラジャラとならす"
+            },
+            {
+              "content": "大きな鍵束",
+              "mean": "chùm chìa khóa to",
+              "transcription": "おおきなかぎたば"
+            },
+            {
+              "content": "鍵束のジャラジャラいう音",
+              "mean": "âm thanh leng keng của chùm chìa khóa .",
+              "transcription": "かぎたばのジャラジャラいうおと"
+            }
+          ],
+          "kind": "n",
+          "mean": "Chùm chìa khóa"
+        }
+      ],
+      "mobileId": 109888,
+      "phonetic": "かぎたば",
+      "word": "鍵束"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bb28370",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "private key, secret key"
+        }
+      ],
+      "mobileId": 245542,
+      "phonetic": "ひみつかぎ",
+      "word": "秘密鍵"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b5ff1b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "public key"
+        }
+      ],
+      "mobileId": 242908,
+      "phonetic": "こうかいかぎ",
+      "word": "公開鍵"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e95c9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lock-opening, lock-picking"
+        }
+      ],
+      "mobileId": 280222,
+      "phonetic": "かぎあけ",
+      "word": "鍵開け"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bd5ec07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "white keys"
+        }
+      ],
+      "mobileId": 246666,
+      "phonetic": "はっけん",
+      "word": "白鍵"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a22bec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa khóa; chìa và khoá; điểm mấu chốt"
+        }
+      ],
+      "mobileId": 23063,
+      "phonetic": "せきかぎ",
+      "word": "関鍵"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8e78fcf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phím đen (phím nửa âm trên thang âm của đàn piano, đàn organ)"
+        }
+      ],
+      "mobileId": 40928,
+      "phonetic": "くろかぎ",
+      "related_words": {
+        "word": [
+          "黒",
+          "鍵"
+        ]
+      },
+      "word": "黒鍵"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d24791a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dưới; phía dưới; bên dưới; phần dưới; phần sau; tập sau ."
+        }
+      ],
+      "mobileId": 141940,
+      "opposite_word": [
+        "上"
+      ],
+      "phonetic": "した",
+      "related_words": {
+        "word": [
+          "以下",
+          "廊下",
+          "上下",
+          "下手",
+          "下着",
+          "地下鉄",
+          "部下",
+          "下記",
+          "下痢",
+          "下部"
+        ]
+      },
+      "word": "下"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89ada4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "(cái) thấp nhất ((của) loại (của) nó)(cái) nghèo nhất"
+        }
+      ],
+      "mobileId": 38454,
+      "phonetic": "したのした",
+      "word": "下の下"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933ca2a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hạ thấp cái nhà ((của) nghị viện, etc.)"
+        }
+      ],
+      "mobileId": 19868,
+      "phonetic": "しもいんぎ",
+      "related_words": {
+        "word": [
+          "下",
+          "下院"
+        ]
+      },
+      "word": "下院議"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdde689e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nách"
+        }
+      ],
+      "mobileId": 16800,
+      "phonetic": "わきか",
+      "related_words": {
+        "word": [
+          "下"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "腋下",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "腋窩"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "腋下"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6c04fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tiềm thức"
+        }
+      ],
+      "mobileId": 13235,
+      "phonetic": "いしきか",
+      "word": "意識下"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5525ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inferior conjunction"
+        }
+      ],
+      "mobileId": 226138,
+      "phonetic": "かごう",
+      "word": "下合"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5fda1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bottom of the sleeve"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "height of the sleeve (of traditional Japanese clothing)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "secret, secret bribe"
+        }
+      ],
+      "mobileId": 226457,
+      "phonetic": "そでした",
+      "word": "袖下"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9f5bd4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "edict from a senior official in government or military which had the status of a binding official document"
+        }
+      ],
+      "mobileId": 228492,
+      "phonetic": "くだしぶみ",
+      "word": "下文"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8987808",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "làm nhục sự sinh"
+        }
+      ],
+      "mobileId": 38384,
+      "opposite_word": [
+        "高貴"
+      ],
+      "phonetic": "",
+      "word": "下賤"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8574be0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một người cấp dưới (thành viên (của) một nhóm)"
+        }
+      ],
+      "mobileId": 36300,
+      "phonetic": "くみか",
+      "word": "組み下"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

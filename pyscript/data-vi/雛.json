@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e93ad8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "白鳥の雛",
+              "mean": "Gà trắng",
+              "transcription": "はくちょうのひな"
+            },
+            {
+              "content": "卵から雛を孵す",
+              "mean": "ấp trứng nở ra gà con .",
+              "transcription": "たまごからひなをかえす"
+            }
+          ],
+          "kind": "n",
+          "mean": "gà con"
+        }
+      ],
+      "mobileId": 110641,
+      "phonetic": "ひよこ",
+      "related_words": {
+        "word": [
+          "雛型",
+          "雛人形"
+        ]
+      },
+      "word": "雛"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e92cba",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "口を雛鳥の餌いっぱいにして飛んでくる",
+              "mean": "~bay đến với đầy miệng thức ăn cho gà con .",
+              "transcription": "くちをひなどりのえさいっぱいにしてとんでくる"
+            }
+          ],
+          "kind": "n",
+          "mean": "gà con"
+        }
+      ],
+      "mobileId": 110640,
+      "phonetic": "ひいな",
+      "word": "雛"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6856b5e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm mẫu; một cái thu nhỏ; mẫu; mẫu; chỉ định mẫu (dạng)"
+        }
+      ],
+      "mobileId": 2765,
+      "phonetic": "ひながた",
+      "related_words": {
+        "word": [
+          "型",
+          "雛"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "雛型",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "模型"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "見本",
+                "抽出",
+                "標本"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "マネキン",
+                "ファッションモデル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "パターン",
+                "図案",
+                "デザイン",
+                "模型",
+                "製図",
+                "ドラフト",
+                "型紙"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "雛型"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7788f7a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese bleak (Aphyocypris chinensis)"
+        }
+      ],
+      "mobileId": 268899,
+      "phonetic": "ひなもろこ ヒナモロコ",
+      "word": "雛諸子"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686114ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cây đậu xanh"
+        }
+      ],
+      "mobileId": 3101,
+      "phonetic": "ひなまめ",
+      "word": "雛豆"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c8da13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "child geisha, geisha apprentice"
+        }
+      ],
+      "mobileId": 262712,
+      "phonetic": "すうぎ",
+      "word": "雛妓"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6856d218",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cô gái có liên hoan (3 tháng ba)"
+        }
+      ],
+      "mobileId": 2770,
+      "phonetic": "ひなまつり",
+      "word": "雛祭り"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d38e086",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Empress doll (in display with Emperor doll)"
+        }
+      ],
+      "mobileId": 216922,
+      "phonetic": "めびな",
+      "word": "女雛"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7719ee0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "young priest"
+        }
+      ],
+      "mobileId": 265303,
+      "phonetic": "すうそう",
+      "word": "雛僧"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fcd64f4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "búp bê giấy"
+        }
+      ],
+      "mobileId": 188311,
+      "phonetic": "ながしびな",
+      "word": "流し雛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

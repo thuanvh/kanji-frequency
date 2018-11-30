@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802712c53c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "bộ"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "tổ ."
+        }
+      ],
+      "mobileId": 29432,
+      "phonetic": "くみ",
+      "related_words": {
+        "word": [
+          "組織",
+          "取り組み",
+          "組み合わせ",
+          "仕組み",
+          "組立",
+          "番組",
+          "組み立て",
+          "取り組む",
+          "組合",
+          "組み立てる"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "組",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一揃え",
+                "一式",
+                "揃い",
+                "一揃い",
+                "一組",
+                "セット"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "分隊",
+                "班",
+                "チーム"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "組"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193322fae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giải tán một tổ chức"
+        }
+      ],
+      "mobileId": 19520,
+      "phonetic": "かいぐみ",
+      "word": "解組"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802708f16d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đội đỏ ."
+        }
+      ],
+      "mobileId": 29236,
+      "phonetic": "あかぐみ",
+      "word": "紅組"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280271446d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bộ chứng từ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bộ hối phiếu ."
+        }
+      ],
+      "mobileId": 29448,
+      "phonetic": "くみてがた",
+      "word": "組手形"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b8e556e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "first character position of line"
+        }
+      ],
+      "mobileId": 244384,
+      "phonetic": "くみしたん",
+      "word": "組始端"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7747c583",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coordinated group gymnastics (in which teams form pyramids or other shapes)"
+        }
+      ],
+      "mobileId": 266769,
+      "phonetic": "くみたいそう",
+      "related_words": {
+        "word": [
+          "体",
+          "組",
+          "体操",
+          "操"
+        ]
+      },
+      "word": "組体操"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f3ef717",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Khung gỗ ."
+        }
+      ],
+      "mobileId": 185977,
+      "phonetic": "きぐみ",
+      "word": "木組"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a138e50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "structure of an artwork, pictorial design"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pictures inserted in a book"
+        }
+      ],
+      "mobileId": 224024,
+      "phonetic": "えぐみ",
+      "word": "絵組"
+    },
+    {
+      "_id": "432518852de0a80625d585a9823179b8",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "kẻ thua cuộc (những người có 'thất bại' về mặt xã hội, kinh tế, v.v.)"
+        }
+      ],
+      "mobileId": 233193,
+      "phonetic": "まけぐみ",
+      "related_words": {
+        "word": [
+          "組",
+          "負け",
+          "負"
+        ]
+      },
+      "word": "負け組"
+    },
+    {
+      "_id": "432518852de0a80625d585a982317f1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "winners (those who have succeeded socially, economically, etc.)"
+        }
+      ],
+      "mobileId": 233194,
+      "phonetic": "かちぐみ",
+      "related_words": {
+        "word": [
+          "組"
+        ]
+      },
+      "word": "勝ち組"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

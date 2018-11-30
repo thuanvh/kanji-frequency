@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a1c8190",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự xông khói; xông khói ."
+        }
+      ],
+      "mobileId": 170831,
+      "phonetic": "くんじょう",
+      "word": "熏蒸"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9582321b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính ngay thẳng đạo đức; sự công bằng, sự chính đáng"
+        }
+      ],
+      "mobileId": 60230,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "籠"
+        ]
+      },
+      "word": "蒸籠"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9536f0f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dân chúng; thường dân"
+        }
+      ],
+      "mobileId": 57832,
+      "phonetic": "",
+      "word": "蒸民"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85fa73f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự hun khói, sự xông khói, sự phun khói (để tẩy uế, trừ sâu...)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự hút thuốc; hành động hút thuốc, thói quen hút thuốc"
+        }
+      ],
+      "mobileId": 36570,
+      "phonetic": "",
+      "word": "薫蒸"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c5660b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "steamed mochi, manju, bread"
+        }
+      ],
+      "mobileId": 262594,
+      "phonetic": "じょうべい",
+      "word": "蒸餅"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85fb573",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hun khói, sự xông khói, sự phun khói (để tẩy uế, trừ sâu...)"
+        }
+      ],
+      "mobileId": 36571,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "毒",
+          "消毒"
+        ]
+      },
+      "word": "薫蒸消毒"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a1c8ddb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuốc xông ."
+        }
+      ],
+      "mobileId": 170832,
+      "phonetic": "くんじょうざい",
+      "word": "熏蒸剤"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

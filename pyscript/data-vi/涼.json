@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef98d52aa",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Mát, không khí mát lạnh, mát lạnh, sảng khoái."
+        }
+      ],
+      "mobileId": 277242,
+      "phonetic": "りょう",
+      "word": "涼"
+    },
+    {
+      "_id": "432518852de0a80625d585a982519ffa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "morning chill (of a summer's day)"
+        }
+      ],
+      "mobileId": 234214,
+      "phonetic": "あさすず",
+      "word": "朝涼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7718b80e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evening cool, cool evening air"
+        }
+      ],
+      "mobileId": 265260,
+      "phonetic": "ばんりょう",
+      "word": "晩涼"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c701e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pavilion in a garden (used to keep cool), gazebo"
+        }
+      ],
+      "mobileId": 262646,
+      "phonetic": "りょうてい",
+      "word": "涼亭"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7718c265",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cool evening air"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cooling oneself outside during the summer"
+        }
+      ],
+      "mobileId": 265261,
+      "phonetic": "やりょう",
+      "word": "夜涼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7717443f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sixth lunar month"
+        }
+      ],
+      "mobileId": 265206,
+      "phonetic": "すずくれづき",
+      "word": "涼暮月"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd233f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "thích thú"
+        }
+      ],
+      "mobileId": 75493,
+      "phonetic": "りょうをとる",
+      "word": "涼を取る"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd23868",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nguội lạnh đi (văn học)"
+        }
+      ],
+      "mobileId": 75494,
+      "phonetic": "りょうをとる",
+      "related_words": {
+        "word": [
+          "とる"
+        ]
+      },
+      "word": "涼をとる"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fce76f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "supplementation, causing bowel movements, heating, and cooling (four main treatments of traditional Chinese medicine)"
+        }
+      ],
+      "mobileId": 272659,
+      "phonetic": "ほしゃおんりょう",
+      "word": "補瀉温涼"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7710b91d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ladies' pavilion (of Heian Palace)"
+        }
+      ],
+      "mobileId": 264992,
+      "phonetic": "こうろうでん こうりょうでん",
+      "word": "後涼殿"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

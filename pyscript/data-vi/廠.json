@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e4866c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xưởng chế tạo vũ khí"
+        }
+      ],
+      "mobileId": 63408,
+      "phonetic": "ぞうへいしょう",
+      "related_words": {
+        "word": [
+          "兵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "造兵廠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "武庫",
+                "兵器工場",
+                "武器庫",
+                "兵器庫",
+                "兵器廠",
+                "武器倉"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "造兵廠"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a959b4fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "iron works"
+        }
+      ],
+      "mobileId": 259168,
+      "phonetic": "てっこうしょう",
+      "word": "鉄工廠"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

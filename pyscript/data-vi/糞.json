@@ -1,0 +1,226 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027057ce4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "自分の犬の糞くらい拾うべきよ！常識よね",
+              "mean": "mày phải hót phân (cứt) cho con chó của mày. Đó là điều bình thường",
+              "transcription": "じぶんのいぬのくそくらいひろうべきよ！じょうしきよね"
+            },
+            {
+              "content": "鳥が車に落とした糞",
+              "mean": "phân (cứt) chim rơi trên xe ôtô",
+              "transcription": "とりがくるまにおとしたくそ"
+            },
+            {
+              "content": "乾いた牛の糞",
+              "mean": "phân (cứt) bò khô",
+              "transcription": "かわいたうしのくそ"
+            },
+            {
+              "content": "ゾウの糞",
+              "mean": "phân (cứt) voi",
+              "transcription": "ゾウのくそ"
+            },
+            {
+              "content": "ハトの糞",
+              "mean": "phân (cứt) chim bồ câu .",
+              "transcription": "ハトのくそ"
+            }
+          ],
+          "kind": "n",
+          "mean": "phân; cứt"
+        }
+      ],
+      "mobileId": 29173,
+      "phonetic": "くそ",
+      "related_words": {
+        "word": [
+          "糞便",
+          "下手糞",
+          "糞尿",
+          "鼻糞",
+          "人糞"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "糞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ばば",
+                "大便",
+                "うんち",
+                "うんこ",
+                "くそ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "船尾"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "妖魔"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "糞"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af3e925",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "greenbottle"
+        }
+      ],
+      "mobileId": 231237,
+      "phonetic": "くそばえ クソバエ",
+      "word": "糞蠅"
+    },
+    {
+      "_id": "432518852de0a80625d585a9827024d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coproma (hardened feces inside the colon), fecaloma, stercoroma"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "coprolite"
+        }
+      ],
+      "mobileId": 235168,
+      "phonetic": "ふんせき",
+      "word": "糞石"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94ad877",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "idiot"
+        }
+      ],
+      "mobileId": 275140,
+      "phonetic": "くそたわけ",
+      "word": "糞戯け"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77417d93",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clay pot used to collect night-soil"
+        }
+      ],
+      "mobileId": 266575,
+      "phonetic": "くそつぼ",
+      "word": "糞壺"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5c7181",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khó hiểu; bibô; nói lắp bắp; tiếng lóng; sự vô nghĩa; biệt ngữ"
+        }
+      ],
+      "mobileId": 113993,
+      "phonetic": "ちんくそかんくそ",
+      "related_words": {
+        "word": [
+          "糞",
+          "珍"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "珍糞漢糞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "珍糞漢"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "珍糞漢糞"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c023cd2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v4r, vt",
+          "mean": "to expel (faeces)"
+        }
+      ],
+      "mobileId": 190306,
+      "phonetic": "くそまる",
+      "word": "糞放る"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84b9132",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khiêu khích làm dịu đi"
+        }
+      ],
+      "mobileId": 35921,
+      "phonetic": "くそおちつき",
+      "word": "糞落ち着き"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94a838a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shamelessly flattering, brown-nosing, licking excrement"
+        }
+      ],
+      "mobileId": 275131,
+      "phonetic": "しょうふん",
+      "word": "嘗糞"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94b007f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frog (esp. the wrinkled frog or Asian grass frog), toad (esp. the Japanese toad)"
+        }
+      ],
+      "mobileId": 275145,
+      "phonetic": "くそがえる",
+      "word": "糞蛙"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

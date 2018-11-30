@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f744ab53a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "位置の恒性",
+              "mean": "Không thay đổi vị trí",
+              "transcription": "いちのつねせい"
+            },
+            {
+              "content": "恒性に伝える",
+              "mean": "Truyền đạt nguyên xi .",
+              "transcription": "つねせいにつたえる"
+            }
+          ],
+          "kind": "n",
+          "mean": "tính không thay đổi; tính ổn định; nguyên xi; bất biến"
+        }
+      ],
+      "mobileId": 98546,
+      "phonetic": "こうせい",
+      "word": "恒性"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f744ac00e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "気体恒数",
+              "mean": "Hằng số thể khí .",
+              "transcription": "きたいつねすう"
+            }
+          ],
+          "kind": "n",
+          "mean": "hằng số"
+        }
+      ],
+      "mobileId": 98547,
+      "phonetic": "こうすう",
+      "word": "恒数"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ad040d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "num",
+          "mean": "10 ^ 52; số lượng vô tận (sự chuyển dịch (của) sanskrit ganga (những tốp) dòng sông)"
+        }
+      ],
+      "mobileId": 39019,
+      "phonetic": "つねかわいさご",
+      "word": "恒河沙"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

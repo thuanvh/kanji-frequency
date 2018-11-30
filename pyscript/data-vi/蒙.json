@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd4f4e93",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự không hiểu biết"
+        }
+      ],
+      "mobileId": 71308,
+      "phonetic": "こうむ",
+      "word": "蒙"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca071405a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "stupid, foolish"
+        }
+      ],
+      "mobileId": 284589,
+      "phonetic": "ぐもう",
+      "word": "愚蒙"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd504eed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mongolia"
+        }
+      ],
+      "mobileId": 71337,
+      "phonetic": "こうむふる",
+      "related_words": {
+        "word": [
+          "古"
+        ]
+      },
+      "word": "蒙古"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd506d14",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếng Mông-cổ"
+        }
+      ],
+      "mobileId": 71340,
+      "phonetic": "こうむこご",
+      "word": "蒙古語"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada12bc1d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "内蒙古大学",
+              "mean": "Trường đại học Nội Mông .",
+              "transcription": "うちこうむこだいがく"
+            }
+          ],
+          "kind": "n",
+          "mean": "Nội Mông (Mông Cổ)"
+        }
+      ],
+      "mobileId": 77194,
+      "phonetic": "ないもう",
+      "word": "内蒙"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae9b397",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp, v5k",
+          "mean": "soi sáng"
+        }
+      ],
+      "mobileId": 230911,
+      "phonetic": "もうをひらく",
+      "word": "蒙を啓く"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd508504",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nếp quạt"
+        }
+      ],
+      "mobileId": 71343,
+      "phonetic": "こうむこひだ",
+      "word": "蒙古襞"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1072c4f33",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vùng Ngoại Mông ."
+        }
+      ],
+      "mobileId": 52566,
+      "phonetic": "がいもうこ",
+      "word": "外蒙古"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6d18e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mongolism, Down's Syndrome"
+        }
+      ],
+      "mobileId": 218595,
+      "phonetic": "もうこしょう",
+      "word": "蒙古症"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd507953",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chủng người Mông Cổ"
+        }
+      ],
+      "mobileId": 71341,
+      "phonetic": "こうむこじんしゅ",
+      "word": "蒙古人種"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

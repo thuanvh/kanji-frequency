@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10773b37c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adv",
+          "mean": "từng cái; một trong ."
+        }
+      ],
+      "mobileId": 53809,
+      "phonetic": "いずれ",
+      "word": "孰"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d09e469",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, adj-no",
+          "mean": "bất kỳ"
+        }
+      ],
+      "mobileId": 215411,
+      "phonetic": "いずれか",
+      "word": "孰か"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7096cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đằng nào, bất cứ ... nào; không lâu, trong thời gian ngắn"
+        }
+      ],
+      "mobileId": 13377,
+      "phonetic": "",
+      "word": "孰れ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

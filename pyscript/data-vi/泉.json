@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fbfa6d5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "泉から水を飲む",
+              "mean": "uống nước suối",
+              "transcription": "いずみからみずをのむ"
+            },
+            {
+              "content": "原子泉",
+              "mean": "suối nguyên tử",
+              "transcription": "はらこいずみ"
+            },
+            {
+              "content": "干上がった泉",
+              "mean": "suối cạn",
+              "transcription": "ひあがったいずみ"
+            },
+            {
+              "content": "くめども尽きぬ泉",
+              "mean": "dòng suối vô tận .",
+              "transcription": "くめどもつきぬいずみ"
+            }
+          ],
+          "kind": "n",
+          "mean": "suối"
+        }
+      ],
+      "mobileId": 188044,
+      "phonetic": "いずみ",
+      "related_words": {
+        "word": [
+          "温泉",
+          "源泉",
+          "黄泉",
+          "泉水"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "泉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "噴水"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "流出"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "泉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8b9588",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "acidic spring"
+        }
+      ],
+      "mobileId": 227858,
+      "phonetic": "さんせいせん",
+      "word": "酸性泉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7764700e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drinking spring water, taking the waters, onsen water used for medical treatment"
+        }
+      ],
+      "mobileId": 267707,
+      "phonetic": "いんせん",
+      "word": "飲泉"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d6373e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giếng nước ."
+        }
+      ],
+      "mobileId": 143184,
+      "phonetic": "せいせん",
+      "related_words": {
+        "word": [
+          "泉",
+          "井"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "井泉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "井",
+                "井戸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "井戸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "井泉"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae4853e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "suối khoáng chứa Rađi"
+        }
+      ],
+      "mobileId": 129657,
+      "phonetic": "ラジウムいずみ",
+      "word": "ラジウム泉"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92622cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hot spring water quality, spring quality, hot spring type"
+        }
+      ],
+      "mobileId": 257490,
+      "phonetic": "せんしつ",
+      "word": "泉質"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9574841",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bubbling spring, gushing spring, fountain"
+        }
+      ],
+      "mobileId": 259096,
+      "phonetic": "ゆうせん",
+      "word": "湧泉"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd708eb3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh sốt do bác sỹ Izumi phát hiện ra nguyên nhân gây bệnh (giống với bệnh ban đỏ)"
+        }
+      ],
+      "mobileId": 13376,
+      "phonetic": "いずみねつ",
+      "word": "泉熱"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a56feaf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "a spring that gushes forth from a valley"
+        }
+      ],
+      "mobileId": 226194,
+      "phonetic": "けいせん",
+      "word": "渓泉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8b8ccb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "simple thermal hot spring (containing less than one thousand ppm of dissolved minerals)"
+        }
+      ],
+      "mobileId": 227856,
+      "phonetic": "たんじゅんせん",
+      "word": "単純泉"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

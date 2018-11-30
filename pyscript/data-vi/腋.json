@@ -1,0 +1,126 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6134af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unstitched, open side of some traditional Japanese clothing, clothing with such an open side"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "robe worn by military officials with a round collar, unstitched open sides and no ran"
+        }
+      ],
+      "mobileId": 226496,
+      "phonetic": "けってき けつえき",
+      "word": "闕腋"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdde689e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nách"
+        }
+      ],
+      "mobileId": 16800,
+      "phonetic": "わきか",
+      "related_words": {
+        "word": [
+          "下"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "腋下",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "腋窩"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "腋下"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a61412c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stitched side of some traditional Japanese clothing, clothing with such a stitched side"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "robe with a round collar, stitched sides and a ran, worn by the emperor and high-ranking officials"
+        }
+      ],
+      "mobileId": 226498,
+      "phonetic": "ほうえき",
+      "word": "縫腋"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e816b3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "axillary growth"
+        }
+      ],
+      "mobileId": 252202,
+      "phonetic": "えきせい",
+      "word": "腋生"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a610737",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "robe worn by military officials with a round collar, unstitched open sides and no ran"
+        }
+      ],
+      "mobileId": 226491,
+      "phonetic": "けってきのほう",
+      "word": "闕腋の袍"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a613ca2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "robe with a round collar, stitched sides and a ran, worn by the emperor and high-ranking officials"
+        }
+      ],
+      "mobileId": 226497,
+      "phonetic": "ほうえきのほう",
+      "word": "縫腋の袍"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a54cc5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "an expensive fur coat will not be made with a single fox alone, to rule a country requires many great men"
+        }
+      ],
+      "mobileId": 226126,
+      "phonetic": "せんきんのきゅうはいっこのえきにあらず",
+      "word": "千金の裘は一狐の腋に非ず"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

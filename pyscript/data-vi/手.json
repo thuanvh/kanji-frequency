@@ -1,0 +1,262 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f748085ba",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "時は、血気盛んな若者をならす乗り手。",
+              "mean": "thời gian là kẻ cắp của tuổi trẻ",
+              "transcription": "ときは、けっきさかんなわかものをならすのりて。"
+            },
+            {
+              "content": "〜において議論の余地のない最大手",
+              "mean": "không được cãi lại lãnh đạo trong ... .",
+              "transcription": "〜においてぎろんのよちのないさいおおて"
+            }
+          ],
+          "kind": "n",
+          "mean": "bàn tay"
+        }
+      ],
+      "mobileId": 99335,
+      "opposite_word": [
+        "脚",
+        "足"
+      ],
+      "phonetic": "て",
+      "related_words": {
+        "word": [
+          "上手",
+          "苦手",
+          "手数料",
+          "手順",
+          "入手",
+          "下手",
+          "相手",
+          "手紙",
+          "手続き",
+          "手配"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "手",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "手跡",
+                "肉筆",
+                "手書き",
+                "筆跡"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仕方",
+                "筋道",
+                "為ん術",
+                "仕様",
+                "手立て",
+                "手口",
+                "方式",
+                "方途",
+                "途方",
+                "手法",
+                "方法",
+                "術",
+                "法",
+                "手段",
+                "やり方"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ハンド"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "アーム",
+                "腕"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "アクション",
+                "行動",
+                "動き"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "様式",
+                "仕口",
+                "筆法",
+                "仕方",
+                "仕様",
+                "流儀",
+                "スタイル",
+                "方式",
+                "方法",
+                "やり方"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "把っ手",
+                "ハンドル",
+                "柄",
+                "つまみ",
+                "握り",
+                "グリップ",
+                "把手"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "人手"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "手"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d08873",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "each (carrying)"
+        }
+      ],
+      "mobileId": 271219,
+      "phonetic": "てにてに",
+      "word": "手に手に"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d44606b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hand, hands"
+        }
+      ],
+      "mobileId": 217278,
+      "phonetic": "おてて",
+      "word": "御手手"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a306212",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "swimmer"
+        }
+      ],
+      "mobileId": 224961,
+      "phonetic": "およぎて",
+      "word": "泳ぎ手"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19310e818",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người nhảy múa, diễn viên múa, vũ nữ"
+        }
+      ],
+      "mobileId": 18458,
+      "phonetic": "おどりしゅ",
+      "related_words": {
+        "word": [
+          "手",
+          "踊り"
+        ]
+      },
+      "word": "踊り手"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05db6d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sniper"
+        }
+      ],
+      "mobileId": 283973,
+      "phonetic": "そげきしゅ",
+      "word": "狙撃手"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0797d70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ceremonial hand-clapping (e.g. at end of event, meeting, etc.)"
+        }
+      ],
+      "mobileId": 284841,
+      "phonetic": "てじめ",
+      "word": "手締め"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a26906",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ape hand (deformity), simian hand"
+        }
+      ],
+      "mobileId": 286140,
+      "phonetic": "さるて さるで",
+      "word": "猿手"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01a46eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rough hands, red hands"
+        }
+      ],
+      "mobileId": 281797,
+      "phonetic": "てあれ",
+      "word": "手荒れ"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0956c65",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "kế hoạch, sắp xếp"
+        }
+      ],
+      "mobileId": 211639,
+      "phonetic": "てつがい",
+      "word": "手番"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

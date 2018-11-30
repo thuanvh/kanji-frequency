@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a693475",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thị trấn; con phố ."
+        }
+      ],
+      "mobileId": 172057,
+      "phonetic": "まち",
+      "related_words": {
+        "word": [
+          "市町村",
+          "町村",
+          "町役場",
+          "下町",
+          "町長",
+          "港町",
+          "小町",
+          "城下町",
+          "町民",
+          "町内"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "町",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "タウン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "里",
+                "聚落",
+                "人里",
+                "ビレッジ",
+                "村",
+                "集落"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "町"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0410922",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inn town, post town, post-station town"
+        }
+      ],
+      "mobileId": 283049,
+      "phonetic": "しゅくばまち",
+      "word": "宿場町"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e25dd51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "the whole town"
+        }
+      ],
+      "mobileId": 249244,
+      "phonetic": "まちぜんたい",
+      "word": "町全体"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a69b73d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tổ chức thành phố; sự điều hành thành phố ."
+        }
+      ],
+      "mobileId": 172071,
+      "phonetic": "ちょうせい",
+      "word": "町政"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a2a729",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "country town, rural town"
+        }
+      ],
+      "mobileId": 269717,
+      "phonetic": "いなかまち",
+      "word": "田舎町"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea87f1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "neighboring (kề bên) thị thành"
+        }
+      ],
+      "mobileId": 116432,
+      "phonetic": "となりまち",
+      "related_words": {
+        "word": [
+          "町",
+          "隣"
+        ]
+      },
+      "word": "隣町"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93bc613",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "most specific part of an address (postal term), neighbourhood"
+        }
+      ],
+      "mobileId": 274684,
+      "phonetic": "ちょういき",
+      "related_words": {
+        "word": [
+          "町"
+        ]
+      },
+      "word": "町域"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9711e29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Omachi rice, late growing wet-land rice variety, often used in sake production"
+        }
+      ],
+      "mobileId": 276339,
+      "phonetic": "おまち",
+      "word": "雄町"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a69fb92",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "街角で知らない人に呼び止められた。",
+              "mean": "Tôi bị một người lạ gọi lại ở góc phố. .",
+              "transcription": "まちかどでしらないひとによびとめられた。"
+            }
+          ],
+          "kind": "n",
+          "mean": "góc phố"
+        }
+      ],
+      "mobileId": 172078,
+      "phonetic": "まちかど",
+      "word": "町角"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fe279c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà máy nhỏ trong thành phố; backstreet (nhỏ) phân xưởng"
+        }
+      ],
+      "mobileId": 8093,
+      "phonetic": "まち こうば",
+      "related_words": {
+        "word": [
+          "町",
+          "工場",
+          "場"
+        ]
+      },
+      "word": "町工場"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10761a326",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mẹ chồng ."
+        }
+      ],
+      "mobileId": 53494,
+      "opposite_word": [
+        "舅"
+      ],
+      "phonetic": "しゅうとめ",
+      "related_words": {
+        "word": [
+          "姑息"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "姑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "義母"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "姑"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f7281e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cha mẹ - bên trong - pháp luật"
+        }
+      ],
+      "mobileId": 25753,
+      "phonetic": "しゅうとしゅうと",
+      "related_words": {
+        "word": [
+          "姑"
+        ]
+      },
+      "word": "舅姑"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d00c18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ma Gu, legendary Taoist immortal with long talon-like fingernails"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "backscratcher"
+        }
+      ],
+      "mobileId": 271200,
+      "phonetic": "まこ まご",
+      "word": "麻姑"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820e769f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(in China) 5th note of the ancient chromatic scale (approx. F sharp)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "third lunar month"
+        }
+      ],
+      "mobileId": 232106,
+      "phonetic": "こせん",
+      "word": "姑洗"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef965b15c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "daughter-in-law and mother-in-law (relationship, conflict, etc.)"
+        }
+      ],
+      "mobileId": 275979,
+      "phonetic": "よめしゅうとめ",
+      "word": "嫁姑"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f9de6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "things happening exactly as one pleases (wishes), someone being very attentive to one's wishes"
+        }
+      ],
+      "mobileId": 214925,
+      "phonetic": "まこそうよう",
+      "word": "麻姑掻痒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

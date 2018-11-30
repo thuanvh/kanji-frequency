@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f4ec0a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rừng"
+        }
+      ],
+      "mobileId": 186291,
+      "phonetic": "はやし",
+      "related_words": {
+        "word": [
+          "林檎",
+          "森林",
+          "竹林",
+          "林業",
+          "植林",
+          "原生林",
+          "雑木林",
+          "山林",
+          "林道",
+          "林間"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "林",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "森林",
+                "森"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "木立ち",
+                "木立"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "森林",
+                "森",
+                "ラフォーレ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "林"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f4ecddd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "rừng cấm ."
+        }
+      ],
+      "mobileId": 186292,
+      "phonetic": "りん",
+      "related_words": {
+        "word": [
+          "林檎",
+          "森林",
+          "竹林",
+          "林業",
+          "植林",
+          "原生林",
+          "雑木林",
+          "山林",
+          "林道",
+          "林間"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "林",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "森林",
+                "森"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "木立ち",
+                "木立"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "森林",
+                "森",
+                "ラフォーレ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "林"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c82832",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rừng công cộng"
+        }
+      ],
+      "mobileId": 39905,
+      "phonetic": "こうゆうりん",
+      "related_words": {
+        "word": [
+          "有",
+          "林",
+          "公"
+        ]
+      },
+      "word": "公有林"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd29204b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rừng do người dân sở hữu"
+        }
+      ],
+      "mobileId": 70115,
+      "phonetic": "みんゆうりん",
+      "word": "民有林"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a7118c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "forest or grove of trees surrounding a residence"
+        }
+      ],
+      "mobileId": 278043,
+      "phonetic": "やしきりん やしきばやし",
+      "word": "屋敷林"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d72cc07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rừng trồng; rừng nhân tạo ."
+        }
+      ],
+      "mobileId": 143397,
+      "phonetic": "じんこうりん",
+      "related_words": {
+        "word": [
+          "人",
+          "林",
+          "人工"
+        ]
+      },
+      "word": "人工林"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dc89d95",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "shaolin (ở trung quốc)"
+        }
+      ],
+      "mobileId": 152127,
+      "phonetic": "しょうはやし",
+      "word": "少林"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d2e5d4e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rừng phòng hộ, rừng chống xói mòn"
+        }
+      ],
+      "mobileId": 147199,
+      "phonetic": "さぼうりん",
+      "word": "砂防林"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd8ee08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái cây rừng"
+        }
+      ],
+      "mobileId": 75699,
+      "phonetic": "りん ぼく",
+      "word": "林木"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aef5e58",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "forestry"
+        }
+      ],
+      "mobileId": 231090,
+      "phonetic": "りんむ",
+      "word": "林務"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f268897",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "曙(アケボノ)の女神",
+              "mean": "Nữ thần Bình Minh .",
+              "transcription": "あけぼの( アケボノ )のめがみ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Hửng sáng; lúc rạng đông; rạng đông; bắt đầu một ngày mới"
+        }
+      ],
+      "mobileId": 185566,
+      "phonetic": "あけぼの",
+      "synsets": [
+        {
+          "base_form": "曙",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "黎明",
+                "払暁",
+                "明け方",
+                "夜明け",
+                "明け",
+                "暁",
+                "早暁",
+                "日の出",
+                "暁天",
+                "鶏鳴"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "曙"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826c247b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Swertia bimaculata (species of felwort)"
+        }
+      ],
+      "mobileId": 235043,
+      "phonetic": "あけぼのそう アケボノソウ",
+      "word": "曙草"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a74578",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "era during mid-1990s dominated by grand champions Akebono and Takanohana II"
+        }
+      ],
+      "mobileId": 212212,
+      "phonetic": "あけたか",
+      "word": "曙貴"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97c9d8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "salmon (color, colour), pink with a yellow tinge"
+        }
+      ],
+      "mobileId": 276708,
+      "phonetic": "あけぼのいろ",
+      "word": "曙色"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a97e1d24",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blackback butterflyfish (Chaetodon melannotus, species found in the Indo-Pacific)"
+        }
+      ],
+      "mobileId": 260325,
+      "phonetic": "あけぼのちょうちょううお アケボノチョウチョウウオ",
+      "word": "曙蝶々魚"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a778b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "era during mid-1990s dominated by grand champions Akebono and Takanohana II"
+        }
+      ],
+      "mobileId": 212219,
+      "phonetic": "あけたかじだい",
+      "word": "曙貴時代"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

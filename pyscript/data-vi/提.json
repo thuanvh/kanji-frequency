@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5415df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ceremonial sake decanter with a spout and semicircular handle"
+        }
+      ],
+      "mobileId": 217791,
+      "phonetic": "ひさげ",
+      "word": "提"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953336ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giới thiệu (một hóa đơn); sự biểu diễn; sự khởi hành đang du hành"
+        }
+      ],
+      "mobileId": 57720,
+      "phonetic": "うえひさげ",
+      "related_words": {
+        "word": [
+          "上"
+        ]
+      },
+      "word": "上提"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b62882",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thesis (of an argument), claim, assertion"
+        }
+      ],
+      "mobileId": 278545,
+      "phonetic": "ていだい",
+      "word": "提題"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e642f19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "proposed theory, proposition"
+        }
+      ],
+      "mobileId": 251267,
+      "phonetic": "ていせつ",
+      "word": "提説"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774895a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "synecdoche"
+        }
+      ],
+      "mobileId": 266793,
+      "phonetic": "ていゆ",
+      "word": "提喩"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e3a8a70",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Jambudvipa, continent of the terrestrial world"
+        }
+      ],
+      "mobileId": 249899,
+      "phonetic": "えんぶだい",
+      "word": "閻浮提"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

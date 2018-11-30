@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada86d134",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "コックはヨットの厨で食事の支度をした",
+              "mean": "Nhà bếp đang chuẩn bị bữa ăn ở bếp của con tàu .",
+              "transcription": "コックはヨットのくりやでしょくじのしたくをした"
+            }
+          ],
+          "kind": "n",
+          "mean": "Nhà bếp"
+        }
+      ],
+      "mobileId": 79157,
+      "phonetic": "くりや",
+      "related_words": {
+        "word": [
+          "厨房"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "厨",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "厨房",
+                "キッチン",
+                "台所",
+                "勝手",
+                "内所"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "厨"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96c803b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Internet tough guy"
+        }
+      ],
+      "mobileId": 276189,
+      "phonetic": "こうはちゅう",
+      "word": "硬派厨"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d28406",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chef, head cook"
+        }
+      ],
+      "mobileId": 262999,
+      "phonetic": "ちゅうじん くりやびと",
+      "word": "厨人"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09443ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ragequitter, person who disconnects from an online game (when losing)"
+        }
+      ],
+      "mobileId": 285691,
+      "phonetic": "せつだんちゅう",
+      "word": "切断厨"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d28f9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chef, head cook"
+        }
+      ],
+      "mobileId": 263000,
+      "phonetic": "ちゅうさい",
+      "word": "厨宰"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05bed6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "head palace chef"
+        }
+      ],
+      "mobileId": 283922,
+      "phonetic": "しゅちゅうちょう",
+      "word": "主厨長"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05be52c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chef (Western cuisine)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cook or waiter on a ship"
+        }
+      ],
+      "mobileId": 283920,
+      "phonetic": "しちゅうし",
+      "word": "司厨士"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05bec50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "head steward (e.g. on a ship)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "palace chef"
+        }
+      ],
+      "mobileId": 283921,
+      "phonetic": "しちゅうちょう",
+      "word": "司厨長"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

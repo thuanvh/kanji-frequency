@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed742c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhấn ((của) lời nói (của) ai đó)"
+        }
+      ],
+      "mobileId": 117901,
+      "phonetic": "なまり",
+      "synsets": [
+        {
+          "base_form": "訛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "方言"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "抑揚",
+                "アクセント"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "訛"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94ed98b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "non-standard pronunciation, dialect"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mistaken rumor, baseless gossip"
+        }
+      ],
+      "mobileId": 275260,
+      "phonetic": "かげん",
+      "word": "訛言"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

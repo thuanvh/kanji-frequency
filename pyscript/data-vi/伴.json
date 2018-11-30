@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900eabd36c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bạn; người theo"
+        }
+      ],
+      "mobileId": 116540,
+      "phonetic": "とも",
+      "related_words": {
+        "word": [
+          "伴う",
+          "伴侶",
+          "同伴者",
+          "伴奏",
+          "同伴"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "伴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "侶",
+                "従者",
+                "宗徒",
+                "信徒",
+                "随行",
+                "フロア"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "同侶",
+                "交友",
+                "僚",
+                "侶",
+                "コンパニオン",
+                "仲間",
+                "連れ",
+                "相手",
+                "傍輩",
+                "同士",
+                "供人",
+                "伴侶",
+                "侶伴",
+                "同伴者",
+                "お供"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "伴"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be6de6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Camellia japonica 'Bokuhan' (cultivar of common camellia)"
+        }
+      ],
+      "mobileId": 247213,
+      "phonetic": "ぼくはん ボクハン",
+      "word": "朴伴"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68371971",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngôi sao bạn"
+        }
+      ],
+      "mobileId": 1796,
+      "phonetic": "ともぼし",
+      "word": "伴星"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd4deea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bạn"
+        }
+      ],
+      "mobileId": 75573,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "侶",
+          "伴"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "侶伴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "常連",
+                "仲間",
+                "同士"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "伴",
+                "同侶",
+                "交友",
+                "僚",
+                "侶",
+                "コンパニオン",
+                "仲間",
+                "連れ",
+                "相手",
+                "傍輩",
+                "同士",
+                "供人",
+                "伴侶",
+                "同伴者",
+                "お供"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "侶伴"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6828e8a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự di truyền liên kết giới tính"
+        }
+      ],
+      "mobileId": 1320,
+      "phonetic": "ともせいいでん",
+      "word": "伴性遺伝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e830e289",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tình bạn; những quan hệ thân thiện; kết nối; quan hệ; sự chiếu cố; tử tế; sự thân tình; thiện ý"
+        }
+      ],
+      "mobileId": 35056,
+      "phonetic": "よしみ",
+      "synsets": [
+        {
+          "base_form": "誼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "修交",
+                "親善",
+                "友情",
+                "修好",
+                "友宜",
+                "友好",
+                "友誼",
+                "交誼"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "馴染み",
+                "別懇",
+                "入魂",
+                "親密",
+                "交情",
+                "慇懃",
+                "懇親",
+                "馴染",
+                "昵懇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "別懇",
+                "入魂",
+                "親密"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "誼"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e830e612",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tình bạn; những quan hệ thân thiện; kết nối; quan hệ; sự chiếu cố; tử tế; sự thân tình; thiện ý"
+        }
+      ],
+      "mobileId": 35057,
+      "phonetic": "よしみみ",
+      "word": "誼み"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,258 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc07ea5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "倉に入れる",
+              "mean": "cho vào nhà kho",
+              "transcription": "くらにいれる"
+            },
+            {
+              "content": "爆弾倉",
+              "mean": "kho chứa bom",
+              "transcription": "ばくだんくら"
+            },
+            {
+              "content": "穀物倉",
+              "mean": "nhà kho ngũ cốc",
+              "transcription": "こくもつくら"
+            }
+          ],
+          "kind": "n",
+          "mean": "nhà kho; kho"
+        }
+      ],
+      "mobileId": 144765,
+      "phonetic": "くら",
+      "related_words": {
+        "word": [
+          "倉庫",
+          "倉庫業",
+          "保税倉庫",
+          "倉入れ",
+          "穀倉"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "倉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウエアハウス",
+                "蔵",
+                "倉庫"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ストアー",
+                "百貨店",
+                "デポー",
+                "蔵",
+                "商家",
+                "店舗",
+                "停車場",
+                "舗",
+                "商舗",
+                "ストア",
+                "バス発着場",
+                "倉庫",
+                "商店"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "デポー",
+                "蔵",
+                "預かり所"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "蔵",
+                "倉庫"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "小屋",
+                "納屋"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "倉"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e859b422",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chủ nhà kho"
+        }
+      ],
+      "mobileId": 36384,
+      "phonetic": "くらぬし",
+      "related_words": {
+        "word": [
+          "主",
+          "倉"
+        ]
+      },
+      "word": "倉主"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e859aa4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cất vào kho kiểu"
+        }
+      ],
+      "mobileId": 36383,
+      "phonetic": "くらづくり",
+      "related_words": {
+        "word": [
+          "作",
+          "倉",
+          "作り"
+        ]
+      },
+      "word": "倉作り"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2814fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pegbox (of a shamisen, etc.)"
+        }
+      ],
+      "mobileId": 249316,
+      "phonetic": "いとぐら",
+      "word": "糸倉"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdbab3a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kho hàng (mã lai) bên trong một tòa nhà hoặc hỗn hợp"
+        }
+      ],
+      "mobileId": 15708,
+      "phonetic": "うちくら",
+      "word": "内倉"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cdd51b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kho lúa gạo, kho chứa ngủ cốc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Zen monastery"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "two wheels"
+        }
+      ],
+      "mobileId": 62670,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "倉"
+        ]
+      },
+      "word": "倉廩"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7717f004",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "public storehouse used to store grain or valuables collected for taxation (ritsuryo system)"
+        }
+      ],
+      "mobileId": 265228,
+      "phonetic": "しょうそう",
+      "word": "正倉"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f8e1e81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kho vũ khí ."
+        }
+      ],
+      "mobileId": 187221,
+      "phonetic": "ぶきぐら",
+      "related_words": {
+        "word": [
+          "武器",
+          "器",
+          "倉"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "武器倉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "武庫",
+                "造兵廠",
+                "兵器工場",
+                "武器庫",
+                "兵器庫",
+                "兵器廠"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "武器倉"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9535773a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vựa lúa (lịch sử)"
+        }
+      ],
+      "mobileId": 57790,
+      "phonetic": "つねひらくら",
+      "word": "常平倉"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

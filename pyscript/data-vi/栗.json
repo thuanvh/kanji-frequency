@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f566968",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "栗拾いに行く",
+              "mean": "đi nhặt hạt dẻ",
+              "transcription": "くりひろいにいく"
+            },
+            {
+              "content": "（人）のために火中の栗を拾う",
+              "mean": "nhặt vài hạt dẻ từ trong đám lửa ra cho (ai)",
+              "transcription": "（ひと）のためにかちゅうのくりをひろう"
+            },
+            {
+              "content": "炭火で栗を焼く",
+              "mean": "nướng hạt dẻ bằng than củi .",
+              "transcription": "すみびでくりをやく"
+            }
+          ],
+          "kind": "n",
+          "mean": "hạt dẻ"
+        }
+      ],
+      "mobileId": 186429,
+      "phonetic": "くり",
+      "related_words": {
+        "word": [
+          "片栗粉",
+          "栗鼠",
+          "栗色",
+          "甘栗"
+        ]
+      },
+      "word": "栗"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959efcb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "run sợ với sự sợ hãi"
+        }
+      ],
+      "mobileId": 61179,
+      "phonetic": "せんせんくりくり",
+      "word": "戦戦栗栗"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d0b7ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rice boiled with chestnuts"
+        }
+      ],
+      "mobileId": 262946,
+      "phonetic": "くりめし",
+      "word": "栗飯"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd661121",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nướng những hạt dẻ"
+        }
+      ],
+      "mobileId": 72020,
+      "phonetic": "やきくり",
+      "word": "焼き栗"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae47b461",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hạt dẻ châu ¢u"
+        }
+      ],
+      "mobileId": 129637,
+      "phonetic": "ヨーロッパくり",
+      "word": "ヨーロッパ栗"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a961df34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "deep brown color"
+        }
+      ],
+      "mobileId": 259444,
+      "phonetic": "くりうめ",
+      "word": "栗梅"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19370f330",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hạt dẻ sấy khô"
+        }
+      ],
+      "mobileId": 21519,
+      "phonetic": "かちくり",
+      "word": "勝ち栗"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be02d63e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gạch vụn bỏ đi, đá vụn bỏ đi, sỏi; cuội, (địa lý, địa chất) sa khoáng mảnh vụn"
+        }
+      ],
+      "mobileId": 89392,
+      "phonetic": "わりくり",
+      "related_words": {
+        "word": [
+          "栗",
+          "割",
+          "割り"
+        ]
+      },
+      "word": "割り栗"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e9d0f05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "barometer earthstar (Astraeus hygrometricus)"
+        }
+      ],
+      "mobileId": 253111,
+      "phonetic": "つちぐり ツチグリ",
+      "word": "土栗"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e523451",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sweet made with soft beans (e.g. adzuki) and chestnuts"
+        }
+      ],
+      "mobileId": 250672,
+      "phonetic": "くりぜんざい",
+      "related_words": {
+        "word": [
+          "栗"
+        ]
+      },
+      "word": "栗ぜんざい"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

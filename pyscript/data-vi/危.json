@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5888b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "danger"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Chinese \"rooftop\" constellation (one of the 28 mansions)"
+        }
+      ],
+      "mobileId": 226238,
+      "opposite_word": [
+        "安"
+      ],
+      "phonetic": "き",
+      "word": "危"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a589413",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese \"rooftop\" constellation (one of the 28 mansions)"
+        }
+      ],
+      "mobileId": 226239,
+      "phonetic": "うみやめぼし",
+      "word": "危宿"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d2b054",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "steep, towering rock"
+        }
+      ],
+      "mobileId": 263003,
+      "phonetic": "きがん",
+      "word": "危岩"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193d81ded",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "nỗi e sợ; mối nghi ngại"
+        }
+      ],
+      "mobileId": 24754,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "疑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "危疑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鬼胎",
+                "気掛かり",
+                "気遣い",
+                "憂慮",
+                "憂懼",
+                "危懼",
+                "懸念",
+                "憂患",
+                "心配",
+                "憂心",
+                "恐れ",
+                "危惧",
+                "危虞"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "危疑"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c024a0f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sitting up straight"
+        }
+      ],
+      "mobileId": 208028,
+      "phonetic": "きざ",
+      "word": "危座"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193dcd003",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự ngồi thẳng"
+        }
+      ],
+      "mobileId": 24902,
+      "phonetic": "",
+      "word": "危坐"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd43f722",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bức tranh khêu gợi hoặc không đứng đắn"
+        }
+      ],
+      "mobileId": 11969,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "絵"
+        ]
+      },
+      "word": "危絵"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd44113e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khả năng (của) sự nguy hiểm"
+        }
+      ],
+      "mobileId": 11972,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "気"
+        ]
+      },
+      "word": "危気"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193d7e134",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khủng hoảng; cơn khủng hoảng, ; sự lên cơn"
+        }
+      ],
+      "mobileId": 24744,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "極"
+        ]
+      },
+      "word": "危極"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ef6169",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đỉnh núi cao hiểm trở"
+        }
+      ],
+      "mobileId": 25520,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "峰"
+        ]
+      },
+      "word": "危峰"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

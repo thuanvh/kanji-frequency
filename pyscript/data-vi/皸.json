@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a91025b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あかぎれになった手",
+              "mean": "Tay có những vết nứt",
+              "transcription": "あかぎれになったて"
+            }
+          ],
+          "kind": "n",
+          "mean": "Vết nứt nẻ; vết mẩn trên da; nứt nẻ chân tay"
+        }
+      ],
+      "mobileId": 172697,
+      "phonetic": "あかぎれ",
+      "word": "皸"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685850b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "bị nứt nẻ (da)"
+        }
+      ],
+      "mobileId": 2823,
+      "phonetic": "ひびがきれる",
+      "word": "皸が切れる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

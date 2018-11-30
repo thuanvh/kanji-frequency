@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adaea44e7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "電子メールを1日＿回チェックする",
+              "mean": "Kiểm tra thư điện tử ~ lần một ngày",
+              "transcription": "でんしメールを1にち＿かいチェックする"
+            },
+            {
+              "content": "一日（いちにち）＿回歯を磨く（歯磨きをする)",
+              "mean": "đánh răng ~ lần mỗi ngày",
+              "transcription": "いちにち（いちにち） ＿かいはをみがく（はみがきをする)"
+            },
+            {
+              "content": "次回〜を訪問する折に（人）に会いたいと思う",
+              "mean": "Hy vọng được gặp ai đó trong dịp đến thăm ~ lần tiếp theo",
+              "transcription": "じかい〜をほうもんするおりに（ひと）にあいたいとおもう"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "lần"
+        }
+      ],
+      "mobileId": 80757,
+      "phonetic": "かい",
+      "related_words": {
+        "word": [
+          "次回",
+          "今回",
+          "回数",
+          "回答",
+          "回復",
+          "回転",
+          "前回",
+          "回路図",
+          "回る",
+          "回避"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "回",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "イニング"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "とき",
+                "時",
+                "折",
+                "度"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "回"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193350a85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thông điệp (của giáo hội để phổ biến tôn giáo)"
+        }
+      ],
+      "mobileId": 19613,
+      "phonetic": "かいみことのり",
+      "word": "回勅"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a09ea3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs",
+          "mean": "to wind around"
+        }
+      ],
+      "mobileId": 223711,
+      "phonetic": "けんかい",
+      "word": "巻回"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a1c5b4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hui (Islamic ethnic minority group of China)"
+        }
+      ],
+      "mobileId": 224320,
+      "phonetic": "かいぞく",
+      "related_words": {
+        "word": [
+          "回",
+          "族"
+        ]
+      },
+      "word": "回族"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd86ec2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự luân hồi đạo phật (của) những linh hồn"
+        }
+      ],
+      "mobileId": 75685,
+      "phonetic": "わかい",
+      "word": "輪回"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef933ded2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "angular gyrus, angular convolution"
+        }
+      ],
+      "mobileId": 274428,
+      "phonetic": "かくかい",
+      "word": "角回"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19339bab6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "- thời gian sau cùng vòng quanh"
+        }
+      ],
+      "mobileId": 19768,
+      "phonetic": "かいめ",
+      "word": "回目"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95943fec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n-t",
+          "mean": "kéo dài thời gian; kéo dài; trước"
+        }
+      ],
+      "mobileId": 60821,
+      "phonetic": "さきかい",
+      "word": "先回"
+    },
+    {
+      "_id": "432518852de0a80625d585a982321161",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "moving rotationally, revolving"
+        }
+      ],
+      "mobileId": 233210,
+      "phonetic": "かいどう",
+      "word": "回動"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04beb7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coastal indentations"
+        }
+      ],
+      "mobileId": 209292,
+      "phonetic": "うらみ うらわ うらま",
+      "word": "浦回"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

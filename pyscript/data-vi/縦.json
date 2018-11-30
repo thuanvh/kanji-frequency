@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027330f93",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bề dọc"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chiều dọc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "độ dài; độ cao"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dọc ."
+        }
+      ],
+      "mobileId": 29924,
+      "opposite_word": [
+        "横"
+      ],
+      "phonetic": "たて",
+      "related_words": {
+        "word": [
+          "縦横",
+          "縦書き",
+          "縦線",
+          "操縦",
+          "操縦する",
+          "縦断",
+          "縦縞",
+          "縦横無尽"
+        ]
+      },
+      "word": "縦"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aea12a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "reading vertically down horizontal text (e.g. as a simple code)"
+        }
+      ],
+      "mobileId": 230924,
+      "phonetic": "たてよみ",
+      "word": "縦読み"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aea9aac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ordinate"
+        }
+      ],
+      "mobileId": 230942,
+      "phonetic": "たてざひょう",
+      "word": "縦座標"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dc5c8ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ripsaw"
+        }
+      ],
+      "mobileId": 221524,
+      "phonetic": "たてびき たてひき",
+      "word": "縦挽き"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027335dd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường thẳng đứng ."
+        }
+      ],
+      "mobileId": 29932,
+      "opposite_word": [
+        "横線"
+      ],
+      "phonetic": "じゅうせん",
+      "related_words": {
+        "word": [
+          "縦",
+          "線"
+        ]
+      },
+      "word": "縦線"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0dddd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường thẳng đứng quay máy tiện; vtl"
+        }
+      ],
+      "mobileId": 111470,
+      "phonetic": "たてせんばん",
+      "word": "縦旋盤"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9eb4737",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ringlets, ringlet curls, sausage curls"
+        }
+      ],
+      "mobileId": 263786,
+      "phonetic": "たてロール",
+      "word": "縦ロール"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0ebf23",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chia theo hàng dọc"
+        }
+      ],
+      "mobileId": 111498,
+      "phonetic": "たてわり",
+      "word": "縦割り"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e022fc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "downpipe, drainspout, water pipe"
+        }
+      ],
+      "mobileId": 248074,
+      "phonetic": "たてどい",
+      "word": "縦樋"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d2fc4ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "vertical, portrait style, longitudinal"
+        }
+      ],
+      "mobileId": 216629,
+      "phonetic": "たてがた",
+      "related_words": {
+        "word": [
+          "縦",
+          "型"
+        ]
+      },
+      "word": "縦型"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

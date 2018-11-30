@@ -1,0 +1,316 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d39b80e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "人間の体の中",
+              "mean": "bên trong cơ thể con người",
+              "transcription": "にんげんのからだのなか"
+            }
+          ],
+          "kind": "n",
+          "mean": "bên trong"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼女は大勢の応募者の中から選ばれた。",
+              "mean": "Cô ấy được chọn ra từ giữa rất nhiều người ứng tuyển.",
+              "transcription": "かのじょはたいせいのおうぼしゃのなかからえらばれた。"
+            }
+          ],
+          "kind": "n",
+          "mean": "giữa"
+        },
+        {
+          "examples": [
+            {
+              "content": "お忙しい中でよくおいでくださいました。",
+              "mean": "Rất vui vì (trong khi) bận thế mà anh vẫn đến.",
+              "transcription": "おいそがしいちゅうでよくおいでくださいました。"
+            }
+          ],
+          "kind": "n",
+          "mean": "trong khi"
+        },
+        {
+          "examples": [
+            {
+              "content": "講堂の中では静かにしなさい。",
+              "mean": "Hãy yên lặng ở trong giảng đường. .",
+              "transcription": "こうどうのなかではしずかにしなさい。"
+            }
+          ],
+          "kind": "n",
+          "mean": "trong; ở trong"
+        }
+      ],
+      "mobileId": 142371,
+      "opposite_word": [
+        "外"
+      ],
+      "phonetic": "なか",
+      "related_words": {
+        "word": [
+          "中古",
+          "準備中",
+          "中学生",
+          "中国",
+          "工事中",
+          "午前中",
+          "途中",
+          "中止",
+          "中間",
+          "中学校"
+        ]
+      },
+      "word": "中"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d3a3b5f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "いくら食べてもなかなか太っていません。",
+              "mean": "ăn mãi mà không béo lên được",
+              "transcription": "いくらたべてもなかなかふとっていません。"
+            },
+            {
+              "content": "Lưu ý",
+              "mean": " với nghĩa này động từ luôn đi với một động từ khác bỏ đuôi \"masu\" ở trước đó.",
+              "transcription": "Lưu ý"
+            }
+          ],
+          "kind": "adv, adj-na",
+          "mean": "...mãi mà..."
+        },
+        {
+          "examples": [
+            {
+              "content": "この問題は中中解けない。",
+              "mean": "Vấn đề này không thể giải quyết ngay được.",
+              "transcription": "このもんだいはなかちゅうとけない。"
+            }
+          ],
+          "kind": "adv, adj-na",
+          "mean": "ngay; dễ dàng"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼女は中中料理が上手だ。",
+              "mean": "Cô ấy nấu ăn rất giỏi. .",
+              "transcription": "かのじょはちゅうちゅうりょうりがじょうずだ。"
+            }
+          ],
+          "kind": "adv, adj-na",
+          "mean": "rất"
+        }
+      ],
+      "mobileId": 142380,
+      "phonetic": "なかなか",
+      "related_words": {
+        "word": [
+          "中"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "中中",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "極めて",
+                "頗る",
+                "殊の外",
+                "非常に",
+                "思い切り",
+                "良く",
+                "最も",
+                "とても",
+                "重々に",
+                "能く",
+                "めきめき",
+                "随分",
+                "よく",
+                "至って",
+                "めっきり",
+                "極",
+                "誠に",
+                "至極",
+                "大変",
+                "大層",
+                "きわめて",
+                "善く",
+                "中々",
+                "余程",
+                "重重に",
+                "かなり",
+                "ひどく",
+                "甚く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一寸",
+                "可也",
+                "随分",
+                "とっても",
+                "可成",
+                "割合",
+                "割り合い",
+                "割り方",
+                "ちょっと",
+                "中々",
+                "余程",
+                "かなり"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "好い加減に",
+                "幾分",
+                "可也",
+                "随分",
+                "可成",
+                "中々",
+                "まずまず",
+                "かなり"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "中中"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d759523",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "(to be pushed) toward the middle (of a crowd) (usually against your will)"
+        }
+      ],
+      "mobileId": 218870,
+      "phonetic": "なかへなかへ",
+      "word": "中へ中へ"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7f2085",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tất cả đêm xuyên qua"
+        }
+      ],
+      "mobileId": 13825,
+      "phonetic": "いちやなか",
+      "related_words": {
+        "word": [
+          "中",
+          "夜",
+          "一",
+          "一夜"
+        ]
+      },
+      "word": "一夜中"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd7bf42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đang giờ mở cửa, đang giờ kinh doanh"
+        }
+      ],
+      "mobileId": 16590,
+      "phonetic": "えいぎょうちゅう",
+      "related_words": {
+        "word": [
+          "中",
+          "営業",
+          "業"
+        ]
+      },
+      "word": "営業中"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111acddd",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "lệch màu vải"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ちゅうき",
+      "word": "中希"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83b8daf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giữa đường"
+        }
+      ],
+      "mobileId": 35408,
+      "phonetic": "くだりちゅう",
+      "word": "行中"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04f9cf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "undergoing treatment (medical), receiving treatment"
+        }
+      ],
+      "mobileId": 283508,
+      "phonetic": "ちりょうちゅう",
+      "word": "治療中"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09fc577",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "medium-sized chrysanthemum"
+        }
+      ],
+      "mobileId": 286055,
+      "phonetic": "ちゅうぎく",
+      "word": "中菊"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca037424c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "on location"
+        }
+      ],
+      "mobileId": 282736,
+      "phonetic": "ロケちゅう",
+      "word": "ロケ中"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

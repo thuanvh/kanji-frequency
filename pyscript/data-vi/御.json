@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f742646c5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "pref",
+          "mean": "ngự"
+        }
+      ],
+      "mobileId": 98010,
+      "phonetic": "ご",
+      "related_words": {
+        "word": [
+          "制御",
+          "御免なさい",
+          "制御盤",
+          "晩御飯",
+          "御社",
+          "防御",
+          "制御装置",
+          "御飯",
+          "有り難う御座います",
+          "御免"
+        ]
+      },
+      "word": "御"
+    },
+    {
+      "_id": "432518852de0a80625d585a982477a78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "honorific or polite prefix"
+        }
+      ],
+      "mobileId": 233893,
+      "phonetic": "おみ",
+      "word": "御御"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c097ac4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miso soup"
+        }
+      ],
+      "mobileId": 211714,
+      "phonetic": "おみおつけ",
+      "word": "御御御付け"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c097aff4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(term of respect for) another's wife or daughter"
+        }
+      ],
+      "mobileId": 211715,
+      "phonetic": "おごうさま",
+      "word": "御御様"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdff2f96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khuôn mặt, gương mặt"
+        }
+      ],
+      "mobileId": 17857,
+      "phonetic": "ごかお",
+      "word": "御顔"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdff7460",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cắt cụt tóc"
+        }
+      ],
+      "mobileId": 17868,
+      "phonetic": "ごかっぱ",
+      "related_words": {
+        "word": [
+          "御",
+          "河",
+          "河童",
+          "童"
+        ]
+      },
+      "word": "御河童"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdffbc1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sở trường"
+        }
+      ],
+      "mobileId": 17877,
+      "phonetic": "ごかぶ",
+      "word": "御株"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19300a7fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tâm trạng không vui, tâm trạng khó chịu, trạng thái giận dữ"
+        }
+      ],
+      "mobileId": 17902,
+      "phonetic": "ごかんむり",
+      "word": "御冠"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19305d12c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thông thường; bình thường; rập khuôn"
+        }
+      ],
+      "mobileId": 18078,
+      "phonetic": "ごさだまり",
+      "word": "御定まり"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193082565",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự kết thúc, sự đóng, kết thúc, cuối cùng"
+        }
+      ],
+      "mobileId": 18161,
+      "phonetic": "ごしまい",
+      "word": "御仕舞い"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

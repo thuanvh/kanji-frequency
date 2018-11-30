@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774895a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "synecdoche"
+        }
+      ],
+      "mobileId": 266793,
+      "phonetic": "ていゆ",
+      "word": "提喩"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686cb025",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự nói bóng gió; gợi ý; biểu tượng"
+        }
+      ],
+      "mobileId": 3460,
+      "phonetic": "",
+      "word": "風喩"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686cbcbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "gợi ý; sự nói bóng gió; biểu tượng"
+        }
+      ],
+      "mobileId": 3462,
+      "phonetic": "ふう ゆ",
+      "word": "諷喩"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

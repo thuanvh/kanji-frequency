@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad2210f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tên; nhãn hiệu ."
+        }
+      ],
+      "mobileId": 173823,
+      "phonetic": "しょう",
+      "related_words": {
+        "word": [
+          "名称",
+          "略称",
+          "称号",
+          "呼称",
+          "敬称",
+          "通称",
+          "愛称",
+          "対称",
+          "仮称",
+          "自称"
+        ]
+      },
+      "word": "称"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a7516d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chanting the invocation to Amida Buddha"
+        }
+      ],
+      "mobileId": 269884,
+      "phonetic": "くしょう",
+      "word": "口称"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94e92cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "layman's terms, simple name, uncomplicated term"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "singular"
+        }
+      ],
+      "mobileId": 275253,
+      "phonetic": "たんしょう",
+      "word": "単称"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95039fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "praising, admiring, exalting"
+        }
+      ],
+      "mobileId": 275303,
+      "phonetic": "ほうしょう",
+      "word": "褒称"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94e8455",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "jocular name, jocular term, humoristic nickname"
+        }
+      ],
+      "mobileId": 275251,
+      "phonetic": "ぎしょう",
+      "word": "戯称"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d9bb915",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "official name"
+        }
+      ],
+      "mobileId": 220110,
+      "phonetic": "せいしょう",
+      "word": "正称"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77bb31c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "misnomer, misnaming"
+        }
+      ],
+      "mobileId": 270526,
+      "phonetic": "ごしょう",
+      "word": "誤称"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a263705",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(logical) universal"
+        }
+      ],
+      "mobileId": 224646,
+      "phonetic": "ぜんしょう",
+      "word": "全称"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca045dba7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "patronymic, patronym"
+        }
+      ],
+      "mobileId": 283210,
+      "phonetic": "ふしょう",
+      "related_words": {
+        "word": [
+          "父",
+          "称"
+        ]
+      },
+      "word": "父称"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959c227c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tên depreciatory (hiếm có)"
+        }
+      ],
+      "mobileId": 61079,
+      "phonetic": "",
+      "word": "賤称"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

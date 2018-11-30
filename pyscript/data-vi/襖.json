@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027c06e02",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "襖は木で骨を組み、両面から紙や布を貼ったもの",
+              "mean": "Tấm màn kéo dùng gỗ làm khung màn và 2 mặt dán giấy hoặc vải .",
+              "transcription": "ふすまはきでほねをくみ、りょうめんからかみやぬのをはったもの"
+            }
+          ],
+          "kind": "n",
+          "mean": "màn kéo; tấm cửa kéo"
+        }
+      ],
+      "mobileId": 32477,
+      "phonetic": "ふすま",
+      "word": "襖"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07cd7ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "through a fusuma"
+        }
+      ],
+      "mobileId": 284934,
+      "phonetic": "ふすまごし",
+      "word": "襖越し"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5b7515",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "images drawn or painted on fusuma"
+        }
+      ],
+      "mobileId": 218029,
+      "phonetic": "ふすまえ",
+      "word": "襖絵"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

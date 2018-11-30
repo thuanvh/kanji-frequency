@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770eb20d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tax paid to avoid forced labor (ritsuryo period)"
+        }
+      ],
+      "mobileId": 264927,
+      "phonetic": "よう ちからしろ",
+      "word": "庸"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd977c19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tài năng tầm thường"
+        }
+      ],
+      "mobileId": 73624,
+      "phonetic": "いさおさい",
+      "word": "庸才"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd968a3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái thước đo ngu ngốc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "young lord or master"
+        }
+      ],
+      "mobileId": 73591,
+      "phonetic": "いさおくん",
+      "word": "庸君"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd98e624",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người bình thường, người thường, người xoàng"
+        }
+      ],
+      "mobileId": 73672,
+      "phonetic": "いさおじん",
+      "related_words": {
+        "word": [
+          "人"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "庸人",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "下男",
+                "市民"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "庸人"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02c6493",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dependency, vassal state"
+        }
+      ],
+      "mobileId": 282367,
+      "phonetic": "ふよう",
+      "word": "付庸"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

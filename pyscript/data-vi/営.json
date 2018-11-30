@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd9a680",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trại lính; doanh trại"
+        }
+      ],
+      "mobileId": 16651,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "所"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "営所",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "キャンプ",
+                "屯",
+                "幕営",
+                "露営",
+                "軍営",
+                "軍陣",
+                "陣営"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "営所"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b50483",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "geomorphic agent, agency of geophysical change"
+        }
+      ],
+      "mobileId": 286763,
+      "phonetic": "えいりょく",
+      "word": "営力"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689f34d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền đồn; doanh trại nhỏ"
+        }
+      ],
+      "mobileId": 5056,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "分"
+        ]
+      },
+      "word": "分営"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8033805",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "liên doanh"
+        }
+      ],
+      "mobileId": 33586,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "共"
+        ]
+      },
+      "word": "共営"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db3bb68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "operated bởi chính phủ"
+        }
+      ],
+      "mobileId": 151435,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "省"
+        ]
+      },
+      "word": "省営"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d901cbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "tòa nhà làm việc"
+        }
+      ],
+      "mobileId": 150301,
+      "phonetic": "",
+      "word": "修営"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

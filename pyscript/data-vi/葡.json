@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7726017f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-pref, n-suf",
+          "mean": "Portugal"
+        }
+      ],
+      "mobileId": 265692,
+      "phonetic": "ぽ",
+      "word": "葡"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f0af643",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Từ điển tiếng Nhật - Bồ Đào Nha ."
+        }
+      ],
+      "mobileId": 185107,
+      "phonetic": "にっぽじしょ",
+      "word": "日葡辞書"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c052a46e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Dictionarium Latino Lusitanicum, ac Iaponicum, (Latin- Portuguese-Japanese dictionary, pub. 1595)"
+        }
+      ],
+      "mobileId": 209502,
+      "phonetic": "らぽにちじてん",
+      "word": "羅葡日辞典"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

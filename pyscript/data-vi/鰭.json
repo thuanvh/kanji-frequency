@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801455f81",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vây bọc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vây cá ."
+        }
+      ],
+      "mobileId": 42935,
+      "phonetic": "ひれ",
+      "word": "鰭"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b43c0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shark fin"
+        }
+      ],
+      "mobileId": 212648,
+      "phonetic": "ふかひれ フカヒレ",
+      "word": "鱶鰭"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a86bd81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pelvic fin, ventral fin"
+        }
+      ],
+      "mobileId": 227703,
+      "phonetic": "はらびれ",
+      "word": "腹鰭"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822bfc18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "adipose fin"
+        }
+      ],
+      "mobileId": 233026,
+      "phonetic": "あぶらびれ",
+      "word": "脂鰭"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77832fe4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "white cloud mountain minnow (Tanichthys albonubes), Canton danio"
+        }
+      ],
+      "mobileId": 268707,
+      "phonetic": "あかひれ アカヒレ",
+      "word": "赤鰭"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a85af3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sailfin poacher (Podothecus sachi)"
+        }
+      ],
+      "mobileId": 227669,
+      "phonetic": "とくびれ トクビレ",
+      "word": "特鰭"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a863690",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fin ray"
+        }
+      ],
+      "mobileId": 227687,
+      "phonetic": "きじょう",
+      "word": "鰭条"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a86b2d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pectoral fin"
+        }
+      ],
+      "mobileId": 227702,
+      "phonetic": "むなびれ",
+      "word": "胸鰭"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f0912f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cạo râu (kiểu con cá); punctatus"
+        }
+      ],
+      "mobileId": 41211,
+      "phonetic": "しょうひれ",
+      "related_words": {
+        "word": [
+          "小",
+          "鰭"
+        ]
+      },
+      "word": "小鰭"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3c719c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anal fin (of a fish)"
+        }
+      ],
+      "mobileId": 217032,
+      "phonetic": "しりびれ",
+      "word": "臀鰭"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

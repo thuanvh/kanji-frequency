@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef983eef7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "slow, at ease"
+        }
+      ],
+      "mobileId": 276943,
+      "phonetic": "マンマンデ マンマンデー",
+      "word": "慢慢的"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689e5c57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự khinh thường; sự sỉ nhục; sự lăng nhục"
+        }
+      ],
+      "mobileId": 5025,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "侮慢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "軽蔑",
+                "侮蔑",
+                "侮り",
+                "軽侮",
+                "蔑視",
+                "嘲り",
+                "侮辱"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "あざけり",
+                "侮辱"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "軽蔑",
+                "侮蔑",
+                "侮り",
+                "軽視",
+                "軽侮",
+                "蔑視",
+                "侮辱"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "侮慢"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d001cf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tự hào; kiêu ngạo; kiêu ngạo"
+        }
+      ],
+      "mobileId": 145753,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "強"
+        ]
+      },
+      "word": "強慢"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c01b5b8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "to be conceited"
+        }
+      ],
+      "mobileId": 190029,
+      "phonetic": "まんじる",
+      "word": "慢じる"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

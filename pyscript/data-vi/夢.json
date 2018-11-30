@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107317e7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chiêm bao"
+        },
+        {
+          "examples": [
+            {
+              "content": "...するという人類の夢",
+              "mean": "giấc mơ của nhân loại là làm...",
+              "transcription": "...するというじんるいのゆめ"
+            }
+          ],
+          "kind": "n",
+          "mean": "giấc mơ; ước mơ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mơ ."
+        }
+      ],
+      "mobileId": 52651,
+      "opposite_word": [
+        "現"
+      ],
+      "phonetic": "ゆめ",
+      "related_words": {
+        "word": [
+          "悪夢",
+          "夢中",
+          "夢想家",
+          "夢想",
+          "夢幻",
+          "夢を見る",
+          "夢見る",
+          "無我夢中",
+          "正夢",
+          "夢精"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "夢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドリーム",
+                "憧れ",
+                "大望",
+                "願事",
+                "志望",
+                "憧憬",
+                "志",
+                "野望",
+                "大志",
+                "宿望",
+                "望み",
+                "願い事",
+                "野心",
+                "意気込み",
+                "希望",
+                "願望",
+                "理想"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドリーム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "念願",
+                "欲望",
+                "志願",
+                "志望",
+                "想い",
+                "欲",
+                "願い",
+                "望み",
+                "希望",
+                "欲求",
+                "願望",
+                "思い"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "夢"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dcfbdb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "beyond one's wildest dreams, dream within a dream"
+        }
+      ],
+      "mobileId": 221841,
+      "phonetic": "ゆめのまたゆめ",
+      "word": "夢のまた夢"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd91a3ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mơ đọc"
+        }
+      ],
+      "mobileId": 73441,
+      "phonetic": "ゆめはんだん",
+      "word": "夢判断"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7e582f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một giấc mơ; một thứ thoáng qua"
+        }
+      ],
+      "mobileId": 13800,
+      "phonetic": "いちゆめ",
+      "word": "一夢"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107e5b708",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ảo mộng ."
+        }
+      ],
+      "mobileId": 55700,
+      "phonetic": "げんむ",
+      "word": "幻夢"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd917054",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuật bói mộng"
+        }
+      ],
+      "mobileId": 73436,
+      "phonetic": "ゆめうらない",
+      "related_words": {
+        "word": [
+          "夢",
+          "占い"
+        ]
+      },
+      "word": "夢占い"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda6b66b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự lo xa mơ"
+        }
+      ],
+      "mobileId": 74126,
+      "phonetic": "よちゆめ",
+      "related_words": {
+        "word": [
+          "夢",
+          "予知"
+        ]
+      },
+      "word": "予知夢"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ef5b14",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dream journal, dream diary"
+        }
+      ],
+      "mobileId": 272223,
+      "phonetic": "ゆめにっき",
+      "related_words": {
+        "word": [
+          "日",
+          "夢",
+          "記",
+          "日記"
+        ]
+      },
+      "word": "夢日記"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b6e678",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kẹo (thú vị) mơ"
+        }
+      ],
+      "mobileId": 23715,
+      "phonetic": "あまゆめ",
+      "word": "甘夢"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e800bf3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cổ xưa mơ; lướt qua thứ"
+        }
+      ],
+      "mobileId": 33500,
+      "phonetic": "きゅうゆめ",
+      "related_words": {
+        "word": [
+          "夢"
+        ]
+      },
+      "word": "旧夢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

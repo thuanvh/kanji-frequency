@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027846b3d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "薄緑色の苔",
+              "mean": "Rêu màu xanh nhạt",
+              "transcription": "うすりょくしょくのこけ"
+            },
+            {
+              "content": "苔に覆われた石",
+              "mean": "Đá bị rêu bao phủ",
+              "transcription": "こけにおおわれたいし"
+            },
+            {
+              "content": "苔の生えた庭",
+              "mean": "Khu vườn mọc đầy rêu",
+              "transcription": "こけのはえたにわ"
+            },
+            {
+              "content": "森に生える苔",
+              "mean": "Rêu mọc trong rừng",
+              "transcription": "もりにはえるこけ"
+            },
+            {
+              "content": "広く分布している種類の苔",
+              "mean": "rêu các loại mọc khắp nơi .",
+              "transcription": "ひろくぶんぷしているしゅるいのこけ"
+            }
+          ],
+          "kind": "n",
+          "mean": "rêu"
+        }
+      ],
+      "mobileId": 31445,
+      "phonetic": "こけ",
+      "related_words": {
+        "word": [
+          "海苔"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "苔",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蘚苔"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "苔"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca082eea1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "whiteworm lichen (Thamnolia vermicularis)"
+        }
+      ],
+      "mobileId": 285123,
+      "phonetic": "むしごけ ムシゴケ",
+      "word": "虫苔"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680103bfbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rêu xanh ."
+        }
+      ],
+      "mobileId": 41787,
+      "phonetic": "あおこけ",
+      "word": "青苔"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6815859e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "loại rêu tuần lộc (ở Bắc cực); cây địa y"
+        }
+      ],
+      "mobileId": 700,
+      "phonetic": "はなこけ",
+      "word": "花苔"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00946bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vi",
+          "mean": "to become covered in moss, to be moss-covered, to have moss growing on itself, to become aged (e.g. building, stone)"
+        }
+      ],
+      "mobileId": 189424,
+      "phonetic": "こけむす",
+      "word": "苔生す"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f191f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "phủ đầy rêu, có rêu, như rêu"
+        }
+      ],
+      "mobileId": 63831,
+      "phonetic": "こけじょう",
+      "related_words": {
+        "word": [
+          "状",
+          "苔"
+        ]
+      },
+      "word": "苔状"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9a91c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Miquel's mazus (species of small flowering plant, Mazus miquelii)"
+        }
+      ],
+      "mobileId": 228351,
+      "phonetic": "さぎごけ サギゴケ",
+      "word": "鷺苔"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ace3855",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Iceland moss (Cetraria islandica), Iceland lichen"
+        }
+      ],
+      "mobileId": 230029,
+      "phonetic": "アイスランドごけ イスランドごけ",
+      "word": "アイスランド苔"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5b891a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "moss garden"
+        }
+      ],
+      "mobileId": 218031,
+      "phonetic": "こけにわ",
+      "word": "苔庭"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d92ada",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "địa y, bệnh liken"
+        }
+      ],
+      "mobileId": 40467,
+      "phonetic": "こけるい",
+      "related_words": {
+        "word": [
+          "類",
+          "苔"
+        ]
+      },
+      "word": "苔類"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

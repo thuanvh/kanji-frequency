@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dd96012",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự rút lui; để lùi lại; để rút"
+        }
+      ],
+      "mobileId": 152662,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "斥く",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "臥せる",
+                "引き揚げる",
+                "引き取る",
+                "取り下げる",
+                "引っ込む",
+                "引き上げる",
+                "引き去る",
+                "下る",
+                "退く",
+                "下がる",
+                "引上げる",
+                "立ち退く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "臥せる",
+                "引き下がる",
+                "引き揚げる",
+                "引っ込む",
+                "引き上げる",
+                "下る",
+                "退く",
+                "下がる",
+                "引上げる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "斥く"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953be7f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự loại trừ (hợp pháp)"
+        },
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "xóa tên"
+        },
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "trục xuất"
+        },
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "ngừng hoạt động"
+        }
+      ],
+      "mobileId": 57988,
+      "phonetic": "",
+      "word": "除斥"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d93ea73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(time limit imposed by the) statute of limitations"
+        }
+      ],
+      "mobileId": 219855,
+      "phonetic": "じょせききかん",
+      "word": "除斥期間"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

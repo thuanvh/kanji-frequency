@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a9195ee",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "そんなことをしても益はない。",
+              "mean": "Dù có làm việc như vậy thì cũng chẳng có tác dụng gì cả.",
+              "transcription": "そんなことをしてもえきはない。"
+            },
+            {
+              "content": "子どもを打って何の益があるのか。",
+              "mean": "Đánh trẻ con thì có ích lợi gì ?",
+              "transcription": "こどもをうってなにのえきがあるのか。"
+            }
+          ],
+          "kind": "n",
+          "mean": "lợi ích; tác dụng"
+        }
+      ],
+      "mobileId": 172708,
+      "opposite_word": [
+        "害"
+      ],
+      "phonetic": "えき",
+      "related_words": {
+        "word": [
+          "利益",
+          "粗利益",
+          "収益",
+          "損益",
+          "差益",
+          "当期利益",
+          "有益",
+          "受益者",
+          "公益法人",
+          "不利益"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "益",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "厚生",
+                "便益",
+                "プラス",
+                "為",
+                "恩恵",
+                "福祉",
+                "特典",
+                "恩沢",
+                "恩",
+                "便宜",
+                "恵沢",
+                "福利",
+                "ベネフィット"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "妙味",
+                "便益",
+                "プラス",
+                "得",
+                "利",
+                "ゲイン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "プラス",
+                "儲け",
+                "利",
+                "儲",
+                "利潤",
+                "ゲイン",
+                "利得",
+                "益金",
+                "利益"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "プラス",
+                "効能",
+                "利",
+                "効",
+                "アドバンテージ",
+                "効用",
+                "ベネフィット",
+                "冥利"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "利得",
+                "利益"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "益"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fb7d92",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ngày càng tăng; càng ngày càng"
+        }
+      ],
+      "mobileId": 8013,
+      "phonetic": "えきえき",
+      "related_words": {
+        "word": [
+          "益"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "益益",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "次第に",
+                "愈",
+                "愈愈",
+                "加えて",
+                "愈々"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "益益"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821c3b0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "people, subjects, populace"
+        }
+      ],
+      "mobileId": 232523,
+      "phonetic": "ますひと",
+      "word": "益人"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca035e1cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "animal beneficial to humans"
+        }
+      ],
+      "mobileId": 282687,
+      "phonetic": "えきじゅう",
+      "word": "益獣"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107dfc5d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lợi nhuận hàng năm ."
+        }
+      ],
+      "mobileId": 55620,
+      "phonetic": "ねんえき",
+      "related_words": {
+        "word": [
+          "年",
+          "益"
+        ]
+      },
+      "word": "年益"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd694694",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gắt nhìn thấy cardamon"
+        }
+      ],
+      "mobileId": 72121,
+      "phonetic": "えきさとし",
+      "word": "益智"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682f8878",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiếm lợi để bán"
+        }
+      ],
+      "mobileId": 1541,
+      "phonetic": "ばいきゃくえき",
+      "word": "売却益"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7761049c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "paper profit, appraisal gain, profit accrued from revised valuation"
+        }
+      ],
+      "mobileId": 267592,
+      "phonetic": "ひょうかえき",
+      "word": "評価益"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0847fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "capital gain"
+        }
+      ],
+      "mobileId": 223663,
+      "phonetic": "しさんばいきゃくえき",
+      "word": "資産売却益"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde03678",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "người làm ơn; ân nhân, người làm việc thiện"
+        }
+      ],
+      "mobileId": 16860,
+      "phonetic": "えきをあたえるひと",
+      "word": "益を与える人"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

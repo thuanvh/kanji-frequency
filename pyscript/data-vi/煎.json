@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9592f72e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, suf, ctr",
+          "mean": "nướng; đốt cháy; nướng; lửa (chè); sôi xuống (trong dầu)"
+        }
+      ],
+      "mobileId": 60783,
+      "phonetic": "い",
+      "related_words": {
+        "word": [
+          "煎餅",
+          "煎茶",
+          "煎る",
+          "二番煎じ"
+        ]
+      },
+      "word": "煎"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d224444",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "rang (ví dụ cà phê)"
+        }
+      ],
+      "mobileId": 216201,
+      "phonetic": "ばいせん",
+      "word": "焙煎"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9f6966",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bò những trứng"
+        }
+      ],
+      "mobileId": 14846,
+      "phonetic": "いたまご",
+      "related_words": {
+        "word": [
+          "子",
+          "玉",
+          "煎"
+        ]
+      },
+      "word": "煎玉子"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9fb751",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nướng cái chảo"
+        }
+      ],
+      "mobileId": 14855,
+      "phonetic": "いなべ",
+      "word": "煎鍋"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2b18ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "var. of Japanese cracker"
+        }
+      ],
+      "mobileId": 249417,
+      "phonetic": "おせん",
+      "word": "御煎"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9f9d7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "làm dạn dày tofu"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "boiled and seasoned becurd"
+        }
+      ],
+      "mobileId": 14853,
+      "phonetic": "いとうふ",
+      "related_words": {
+        "word": [
+          "豆腐",
+          "豆",
+          "煎"
+        ]
+      },
+      "word": "煎豆腐"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c012d3e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "to be roasted, to be parched"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to be irritated, to be annoyed"
+        }
+      ],
+      "mobileId": 189753,
+      "phonetic": "いれる",
+      "word": "煎れる"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c020a91e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vz, vt",
+          "mean": "to boil, to decoct, to infuse"
+        }
+      ],
+      "mobileId": 190204,
+      "phonetic": "せんずる",
+      "word": "煎ずる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

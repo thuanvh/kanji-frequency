@@ -1,0 +1,279 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107c65fd4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "英語では高田君にずいぶん差をつけられたなあ。",
+              "mean": "Tôi bị Takada bỏ rơi rất xa trong môn tiếng Anh.",
+              "transcription": "えいごではたかだくんにずいぶんさをつけられたなあ。"
+            },
+            {
+              "content": "この地方は寒暖の差が激しい。",
+              "mean": "Ở vùng này khác biệt về nóng lạnh là rất khắc nghiệt.",
+              "transcription": "このちほうはかんだんのさがはげしい。"
+            },
+            {
+              "content": "この国では貧富の差が大きい。",
+              "mean": "Khoảng cách giàu nghèo ở quốc gia này lớn.",
+              "transcription": "このくにではひんぷのさがおおきい。"
+            },
+            {
+              "content": "この２人の生徒には能力の差がほとんどない。",
+              "mean": "Gần như không có gì khác biệt về năng lực giữa hai học sinh này.",
+              "transcription": "このににんのせいとにはのうりょくのさがほとんどない。"
+            },
+            {
+              "content": "１０００円と９８０円の差は２０円だが，その差が購買者に与える心理的影響力は多きい。",
+              "mean": "1000 yên và 980 yên chỉ sai khác có 20 yên nhưng sức ảnh hưởng tâm lý đối với người mua là rất lớn.",
+              "transcription": "いちぜろぜろぜろえんときゅうはちぜろえんのさはにぜろえんだが，そのさがこうばいしゃにあたえるしんりてきえいきょうりょくはたきい。"
+            },
+            {
+              "content": "小(大)差で選挙に勝つ",
+              "mean": "Thắng cử với cách biệt nhỏ (lớn). .",
+              "transcription": "しょう(だい)さでせんきょにかつ"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "sự khác biệt; khoảng cách"
+        }
+      ],
+      "mobileId": 55174,
+      "opposite_word": [
+        "和"
+      ],
+      "phonetic": "さ",
+      "related_words": {
+        "word": [
+          "差異",
+          "段差",
+          "標準偏差",
+          "誤差",
+          "差額",
+          "時差ぼけ",
+          "交差点",
+          "時差",
+          "公差",
+          "偏差"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "差",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "隔たり",
+                "距離",
+                "違い",
+                "懸隔",
+                "不一致",
+                "相違",
+                "差異",
+                "差違"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "対照",
+                "コントラスト"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "隔たり",
+                "違い",
+                "ずれ",
+                "格差",
+                "差異",
+                "ギャップ",
+                "溝"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "異同",
+                "食い違い",
+                "齟齬",
+                "相反",
+                "違い",
+                "異存",
+                "懸隔",
+                "不一致",
+                "ずれ",
+                "相違",
+                "不和",
+                "不統一",
+                "不整合",
+                "異議",
+                "不調和",
+                "差異",
+                "差違",
+                "不同"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "差"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bffded",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khác nhau chiều cao; sự khác nhau trong sự nâng cao"
+        }
+      ],
+      "mobileId": 39646,
+      "phonetic": "こうどさ",
+      "word": "高度差"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932d7e8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khác nhau"
+        }
+      ],
+      "mobileId": 19376,
+      "phonetic": "かいさ",
+      "word": "階差"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933fc604",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đặt giá lề"
+        }
+      ],
+      "mobileId": 19958,
+      "phonetic": "かかくさ",
+      "related_words": {
+        "word": [
+          "価格",
+          "差",
+          "格",
+          "価"
+        ]
+      },
+      "word": "価格差"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a2b39cd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "子どもがたくさん産めるかどうかの物差し",
+              "mean": "Thước đo xem liệu ai có thể sinh được nhiều con hay không.",
+              "transcription": "こどもがたくさんうめるかどうかのものさし"
+            }
+          ],
+          "kind": "n",
+          "mean": "thước đo; thước"
+        }
+      ],
+      "mobileId": 171088,
+      "phonetic": "ものさし",
+      "word": "物差"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d40261f0",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "thay thế"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "さしかえ",
+      "word": "差替"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7211e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pha trái ngược"
+        }
+      ],
+      "mobileId": 13420,
+      "phonetic": "いそうさ",
+      "word": "位相差"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107dd7194",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "年差＿秒以内である",
+              "mean": "Sự biến đổi chính xác trong vòng...giây mỗi năm. .",
+              "transcription": "としさ＿びょういないである"
+            }
+          ],
+          "kind": "n",
+          "mean": "Sự biến đổi hàng năm"
+        }
+      ],
+      "mobileId": 55584,
+      "phonetic": "ねんさ",
+      "related_words": {
+        "word": [
+          "年",
+          "差"
+        ]
+      },
+      "word": "年差"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0220adb",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Cho phép sự khác biệt, khoan dung, dung sai cho phép."
+        }
+      ],
+      "mobileId": 282039,
+      "phonetic": "きょようさ",
+      "related_words": {
+        "word": [
+          "差",
+          "許容"
+        ]
+      },
+      "word": "許容差"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77614d2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "différance"
+        }
+      ],
+      "mobileId": 267603,
+      "phonetic": "さえん",
+      "word": "差延"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

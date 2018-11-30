@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc3a193",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "sự gấp đôi ."
+        }
+      ],
+      "mobileId": 144809,
+      "phonetic": "ばい",
+      "related_words": {
+        "word": [
+          "倍率",
+          "二倍",
+          "倍数",
+          "三倍",
+          "四倍",
+          "倍増",
+          "倍音"
+        ]
+      },
+      "word": "倍"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d58366c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gấp đôi"
+        },
+        {
+          "examples": [
+            {
+              "content": "私の年収は昨年の 2 倍だ.",
+              "mean": "Thu nhập năm nay của tôi gấp đôi năm ngoái",
+              "transcription": "わたしのねんしゅうはさくねんの2ばいだ."
+            },
+            {
+              "content": "3 と 4 を足してからそれを 2 倍する, という意味を示すには(3+4)×2と書く.",
+              "mean": "3 cộng với 4 sau đó nhân gấp đôi được viết hiển thị là ",
+              "transcription": "3と4をたしてからそれを2ばいする,といういみをしめすには( 3 + 4 ) かける 2とかく."
+            }
+          ],
+          "kind": "n",
+          "mean": "sự gấp đôi"
+        }
+      ],
+      "mobileId": 142955,
+      "phonetic": "にばい",
+      "related_words": {
+        "word": [
+          "倍",
+          "二"
+        ]
+      },
+      "word": "二倍"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9231bf6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-f",
+          "mean": "servo, booster"
+        }
+      ],
+      "mobileId": 257401,
+      "phonetic": "ばいりょく",
+      "word": "倍力"
+    },
+    {
+      "_id": "edf7f33f53832e93b36c90d5fd0eccfe",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "thêm"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "倍付"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951b3146",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gấp mười, mười lần"
+        }
+      ],
+      "mobileId": 56964,
+      "phonetic": "じゅうばい",
+      "word": "十倍"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d09996e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "一倍体セット",
+              "mean": "một bộ gấp đôi .",
+              "transcription": "いちばいたいセット"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "một phần; gấp đôi"
+        }
+      ],
+      "mobileId": 141559,
+      "phonetic": "いちばい",
+      "related_words": {
+        "word": [
+          "一",
+          "倍"
+        ]
+      },
+      "word": "一倍"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d154401",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "multiplication (e.g. of frequencies)"
+        }
+      ],
+      "mobileId": 215779,
+      "phonetic": "ていばい",
+      "word": "逓倍"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a4bc51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "độc quyền; vật độc chiếm, tư bản độc quyền"
+        }
+      ],
+      "mobileId": 61347,
+      "phonetic": "せんばい",
+      "related_words": {
+        "word": [
+          "千",
+          "倍"
+        ]
+      },
+      "word": "千倍"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04e393d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "payment of a sum twice the original, giving back a gift double the value of the one received, repaying twofold"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "inflicting a revenge twice as hurtful (painful, costly, etc.) as the original misdeed"
+        }
+      ],
+      "mobileId": 283461,
+      "phonetic": "ばいがえし",
+      "word": "倍返し"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95502ea2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "vài thời báo (như lớn, qua)"
+        }
+      ],
+      "mobileId": 58651,
+      "phonetic": "すうばい",
+      "word": "数倍"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107e89aac",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "環境庁",
+              "mean": "Cục môi trường",
+              "transcription": "かんきょうちょう"
+            },
+            {
+              "content": "気象庁",
+              "mean": "Cục khí tượng",
+              "transcription": "きしょうちょう"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "cục"
+        }
+      ],
+      "mobileId": 55739,
+      "phonetic": "ちょう",
+      "related_words": {
+        "word": [
+          "県庁",
+          "官庁",
+          "警視庁",
+          "気象庁",
+          "都庁",
+          "警察庁",
+          "省庁",
+          "県庁所在地",
+          "本庁",
+          "宮内庁"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "庁",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "局",
+                "機関",
+                "公社",
+                "役所"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "庁"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82f0962",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sở tài chính"
+        }
+      ],
+      "mobileId": 35002,
+      "phonetic": "きんゆうちょう",
+      "related_words": {
+        "word": [
+          "金",
+          "金融",
+          "庁"
+        ]
+      },
+      "word": "金融庁"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95d1f88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "office in Heian Kyoto responsible for police and judicial duties"
+        }
+      ],
+      "mobileId": 259291,
+      "phonetic": "けびいしちょう けんびいしちょう",
+      "word": "検非違使庁"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77110403",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "official reception hall"
+        }
+      ],
+      "mobileId": 265003,
+      "phonetic": "せいちょう",
+      "word": "正庁"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80701c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toà thánh, Va, ti, can"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Toà thánh Vatican, địa vị Giáo hoàng"
+        }
+      ],
+      "mobileId": 33714,
+      "phonetic": "きょうこうちょう",
+      "word": "教皇庁"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada8095e1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "フランス原子力庁",
+              "mean": "Cục Năng lượng Nguyên tử Pháp",
+              "transcription": "フランスげんしりょくちょう"
+            },
+            {
+              "content": "タイ原子力庁",
+              "mean": "Cục Năng lượng Nguyên tử Thái Lan",
+              "transcription": "タイげんしりょくちょう"
+            },
+            {
+              "content": "インドネシア原子力庁",
+              "mean": "Cục Năng lượng Nguyên tử Indonexia .",
+              "transcription": "インドネシアげんしりょくちょう"
+            }
+          ],
+          "kind": null,
+          "mean": "Cục Năng lượng Nguyên tử"
+        }
+      ],
+      "mobileId": 79091,
+      "phonetic": "げんしりょくちょう",
+      "word": "原子力庁"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9106c2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "coming to a prefectural office, etc."
+        }
+      ],
+      "mobileId": 273297,
+      "phonetic": "らいちょう",
+      "word": "来庁"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95d6407",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "becoming employed by a government office, agency, board, etc."
+        }
+      ],
+      "mobileId": 275718,
+      "phonetic": "にゅうちょう",
+      "word": "入庁"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bbaaf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những văn phòng (của) một tổ chức công cộng hoặc chính thể"
+        }
+      ],
+      "mobileId": 39503,
+      "phonetic": "おおやけちょう",
+      "word": "公庁"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca073f57c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "domain administrative headquarters (early Meiji)"
+        }
+      ],
+      "mobileId": 284675,
+      "phonetic": "はんちょう",
+      "word": "藩庁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

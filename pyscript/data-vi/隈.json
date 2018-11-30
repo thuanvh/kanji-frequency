@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd2dff5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "corner, nook, recess"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "a shadow, a shade"
+        }
+      ],
+      "mobileId": 221936,
+      "phonetic": "くま",
+      "word": "隈"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e02f81",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜　探す",
+              "mean": "tìm kiếm khắp nơi .",
+              "transcription": "〜さがす"
+            }
+          ],
+          "kind": "adv",
+          "mean": "khắp nơi; mọi nơi; tất cả các nơi"
+        }
+      ],
+      "mobileId": 110466,
+      "phonetic": "くまなく",
+      "word": "隈なく"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9159927",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "indigo blue make-up used in Kabuki"
+        }
+      ],
+      "mobileId": 273461,
+      "phonetic": "あいぐま",
+      "word": "藍隈"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85619f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vt",
+          "mean": "để làm lên trên; tới bóng"
+        }
+      ],
+      "mobileId": 36265,
+      "phonetic": "くまとる",
+      "word": "隈取る"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8561bf7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ở mọi nơi, khắp nơi, khắp chốn"
+        }
+      ],
+      "mobileId": 36266,
+      "phonetic": "くまなく",
+      "word": "隈無く"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

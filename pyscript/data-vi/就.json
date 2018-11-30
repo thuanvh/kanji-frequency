@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107aa541a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "Đặc biệt là; nhất là ."
+        }
+      ],
+      "mobileId": 54776,
+      "phonetic": "なかんづく",
+      "related_words": {
+        "word": [
+          "中"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "就中",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一入",
+                "殊に",
+                "別て",
+                "とりわけ",
+                "別して",
+                "殊更",
+                "一際",
+                "特に"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "先ず",
+                "殊に",
+                "別て",
+                "とりわけ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一入",
+                "別に",
+                "殊に",
+                "別て",
+                "とりわけ",
+                "別して",
+                "殊更",
+                "一際",
+                "特に"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "就中"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c06351",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "tìm việc làm, tìm việc"
+        }
+      ],
+      "mobileId": 213041,
+      "phonetic": "しゅうかつ",
+      "word": "就活"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9575d36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "job-hunting via a social networking service (e.g. Facebook)"
+        }
+      ],
+      "mobileId": 275528,
+      "phonetic": "ソーシャルしゅうかつ",
+      "word": "ソーシャル就活"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

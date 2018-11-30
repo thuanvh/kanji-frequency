@@ -1,0 +1,263 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7da5565a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "暑いので体がだるい",
+              "mean": "vì trời nóng nên cơ thể uể oải",
+              "transcription": "あついのでからだがだるい"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "cơ thể; sức khoẻ"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "thân thể ."
+        }
+      ],
+      "mobileId": 144246,
+      "phonetic": "からだ",
+      "related_words": {
+        "word": [
+          "全体",
+          "体制",
+          "本体",
+          "具体的",
+          "大体",
+          "解体",
+          "体験",
+          "体重",
+          "体育",
+          "変体"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "体",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "様式",
+                "姿態",
+                "風格",
+                "構え",
+                "文体",
+                "スタイル",
+                "体裁",
+                "調子"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "風情",
+                "見栄",
+                "仮相",
+                "身なり",
+                "格好",
+                "様子",
+                "風格",
+                "押出し",
+                "見栄え",
+                "趣",
+                "恰好",
+                "見せかけ",
+                "体貌",
+                "姿",
+                "体裁",
+                "表面",
+                "形容",
+                "風体",
+                "態",
+                "見映",
+                "外観",
+                "佇まい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "肉体",
+                "身",
+                "ボディ",
+                "身体",
+                "ボディー",
+                "体躯",
+                "五体",
+                "肉塊"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "格好",
+                "恰好",
+                "体裁",
+                "形",
+                "形式"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "風情",
+                "エア",
+                "空気",
+                "天空"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "体"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686889a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mầm bệnh; nguồn bệnh"
+        }
+      ],
+      "mobileId": 3324,
+      "phonetic": "びょうげんたい",
+      "related_words": {
+        "word": [
+          "原",
+          "体",
+          "病"
+        ]
+      },
+      "word": "病原体"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd92b6a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "di chuyển thân thể"
+        }
+      ],
+      "mobileId": 14451,
+      "phonetic": "いどうたい",
+      "related_words": {
+        "word": [
+          "移動",
+          "体",
+          "動"
+        ]
+      },
+      "word": "移動体"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeb40af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "hình nón; vật hình nón, nón, ốc nón, làm thành hình nón, có hình nón"
+        }
+      ],
+      "mobileId": 17218,
+      "phonetic": "えんすいたい",
+      "related_words": {
+        "word": [
+          "円",
+          "体",
+          "円錐",
+          "錐"
+        ]
+      },
+      "word": "円錐体"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c86d7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "mang ngoài sẽ (của) một có ngài"
+        }
+      ],
+      "mobileId": 6393,
+      "phonetic": "たてまつからだ",
+      "word": "奉体"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e49338",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kỳ dị; khác thường; kỳ lạ"
+        }
+      ],
+      "mobileId": 25155,
+      "phonetic": "きたい",
+      "word": "奇体"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a95e5f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "plasmodium (form within the life cycle of myxomycete slime molds)"
+        }
+      ],
+      "mobileId": 228188,
+      "phonetic": "へんけいたい",
+      "word": "変形体"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80c3040",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phòng (buồng, hộp); trường hợp; thành phần; đơn vị"
+        }
+      ],
+      "mobileId": 33881,
+      "phonetic": "かたみたい",
+      "word": "筐体"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8106fc5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thân thể hợp tác; hệ thống hợp tác"
+        }
+      ],
+      "mobileId": 34019,
+      "phonetic": "きょうどうたい",
+      "word": "共同体"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83b72ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những đặc tính semicursive"
+        }
+      ],
+      "mobileId": 35403,
+      "phonetic": "くだりたい",
+      "word": "行体"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

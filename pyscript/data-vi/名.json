@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adac2475e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "自衛の名の下に侵略を図る",
+              "mean": "với danh nghĩa tự vệ che giấu âm mưu xâm lược",
+              "transcription": "じえいのなのしたにしんりゃくをはかる"
+            }
+          ],
+          "kind": "n",
+          "mean": "danh nghĩa"
+        },
+        {
+          "examples": [
+            {
+              "content": "名あり実なし",
+              "mean": "hữu danh vô thực",
+              "transcription": "なありみなし"
+            }
+          ],
+          "kind": "n",
+          "mean": "danh; tên gọi"
+        },
+        {
+          "examples": [
+            {
+              "content": "なを落す",
+              "mean": "hủy hoại thanh danh .",
+              "transcription": "なをおとす"
+            }
+          ],
+          "kind": "n",
+          "mean": "thanh danh; tên tuổi"
+        }
+      ],
+      "mobileId": 80020,
+      "opposite_word": [
+        "氏"
+      ],
+      "phonetic": "な",
+      "related_words": {
+        "word": [
+          "名前",
+          "氏名",
+          "有名",
+          "件名",
+          "名刺",
+          "名称",
+          "品名",
+          "ユーザー名",
+          "署名",
+          "題名"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "名",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "二字",
+                "題名",
+                "題",
+                "名前",
+                "呼称",
+                "名称",
+                "ネーム",
+                "称号",
+                "名目",
+                "氏名",
+                "人名",
+                "姓名"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "勇名",
+                "評判",
+                "令聞",
+                "令名",
+                "威名",
+                "才名",
+                "有名",
+                "栄達",
+                "英名",
+                "名声"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "名目"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ファーストネーム",
+                "名前"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "名"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19339bbd8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ký âm;  tên các nốt nhạc"
+        }
+      ],
+      "mobileId": 19769,
+      "phonetic": "かいめい",
+      "word": "階名"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938b49cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "họ"
+        }
+      ],
+      "mobileId": 22349,
+      "phonetic": "かめい",
+      "word": "科名"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca096975a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "corporate name"
+        }
+      ],
+      "mobileId": 285756,
+      "phonetic": "ほうじんめい",
+      "related_words": {
+        "word": [
+          "名",
+          "人",
+          "法人",
+          "法"
+        ]
+      },
+      "word": "法人名"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b5bf07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flight number"
+        }
+      ],
+      "mobileId": 286787,
+      "phonetic": "びんめい",
+      "related_words": {
+        "word": [
+          "名",
+          "便"
+        ]
+      },
+      "word": "便名"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca001a612",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "excellent poem, fine poetry"
+        }
+      ],
+      "mobileId": 281003,
+      "phonetic": "めいし",
+      "word": "名詩"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00315b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "register of names"
+        }
+      ],
+      "mobileId": 281050,
+      "phonetic": "めいちょう",
+      "word": "名帳"
+    },
+    {
+      "_id": "432518852de0a80625d585a982767bca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "file-name"
+        }
+      ],
+      "mobileId": 235372,
+      "phonetic": "ファイルめい",
+      "related_words": {
+        "word": [
+          "名",
+          "ファイル"
+        ]
+      },
+      "word": "ファイル名"
+    },
+    {
+      "_id": "432518852de0a80625d585a982db8373",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "data-name"
+        }
+      ],
+      "mobileId": 238672,
+      "phonetic": "データめい",
+      "word": "データ名"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd42793d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa hiệu nổi tiếng lâu đời"
+        }
+      ],
+      "mobileId": 70907,
+      "phonetic": "",
+      "word": "名舗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

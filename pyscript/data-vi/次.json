@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f8256cc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "我が社には次々とお金が流れ込んでいるので、高額のボーナスを期待していなさい",
+              "mean": "Tiền liên tục chảy vào công ty chúng ta, vì vậy hãy chờ đón một mức thưởng cao đi",
+              "transcription": "わがしゃにはつぎつぎとおかねがながれこんでいるので、こうがくのボーナスをきたいしていなさい"
+            },
+            {
+              "content": "次々といろんなアイディアを見せに来られても困る",
+              "mean": "Tôi thấy rất khó khi xem những ý tưởng tiếp theo của bạn .",
+              "transcription": "つぎつぎといろんなアイディアをみせにきたられてもこまる"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "lần sau; sau đây; tiếp đến"
+        }
+      ],
+      "mobileId": 187034,
+      "opposite_word": [
+        "手前",
+        "前"
+      ],
+      "phonetic": "つぎ",
+      "related_words": {
+        "word": [
+          "次回",
+          "目次",
+          "次の",
+          "次に",
+          "次元",
+          "次第",
+          "二次元",
+          "二次",
+          "次長",
+          "次世代"
+        ]
+      },
+      "word": "次"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68286ff0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền được trước, quyền đi trước, quyền đứng trước, quyền ở trước, địa vị cao hơn, địa vị trên"
+        }
+      ],
+      "mobileId": 1304,
+      "phonetic": "はんじ",
+      "word": "班次"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be1b744",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "next"
+        }
+      ],
+      "mobileId": 247053,
+      "phonetic": "このつぎ",
+      "word": "この次"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dffe7ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đi theo phương trình"
+        }
+      ],
+      "mobileId": 153912,
+      "phonetic": "つぎしき",
+      "related_words": {
+        "word": [
+          "次",
+          "式"
+        ]
+      },
+      "word": "次式"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c092e6f9",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp",
+          "mean": "liên tiếp, cái khác"
+        }
+      ],
+      "mobileId": 211561,
+      "phonetic": "つぎからつぎへと",
+      "word": "次から次へと"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687b5239",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "không theo quy luật"
+        }
+      ],
+      "mobileId": 3923,
+      "phonetic": "ふつぎ",
+      "related_words": {
+        "word": [
+          "次"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "不次",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "反則",
+                "不順",
+                "凸凹",
+                "不斉",
+                "変則",
+                "不規則",
+                "斑",
+                "不同",
+                "不正規",
+                "不純",
+                "変調",
+                "変格"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "不次"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd782990",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "đầu tiên; sơ cấp; tuyến tính(thẳng) (phương trình); đầu tiên - thứ tự"
+        }
+      ],
+      "mobileId": 13609,
+      "phonetic": "いちじ",
+      "related_words": {
+        "word": [
+          "次",
+          "一"
+        ]
+      },
+      "word": "一次"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed950cf454",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "năm (tài chính) sau"
+        }
+      ],
+      "mobileId": 56530,
+      "phonetic": "じねんど",
+      "word": "次年度"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be3576fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "zêrô - thứ tự"
+        }
+      ],
+      "mobileId": 90992,
+      "phonetic": "ゼロじ",
+      "word": "ゼロ次"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b6e7673",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "next hop"
+        }
+      ],
+      "mobileId": 243381,
+      "phonetic": "つぎホップ",
+      "word": "次ホップ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

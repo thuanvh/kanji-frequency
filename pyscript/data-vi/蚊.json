@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a33bce",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼女はいつも蚊の鳴くような声で話す。",
+              "mean": "Cô ấy lúc nào cũng nói bé như muỗi kêu vậy.",
+              "transcription": "かのじょはいつもかのなくようなこえではなす。"
+            }
+          ],
+          "kind": "n",
+          "mean": "con muỗi"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "muỗi ."
+        }
+      ],
+      "mobileId": 31965,
+      "phonetic": "か",
+      "related_words": {
+        "word": [
+          "蚊取り線香",
+          "蚊帳",
+          "蚊取線香"
+        ]
+      },
+      "word": "蚊"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193388ab8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngoài trời nhắm vào với khói dầy đặc để khước từ muỗi"
+        }
+      ],
+      "mobileId": 19733,
+      "phonetic": "かいぶし",
+      "word": "蚊燻"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938ca821",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hun muỗi"
+        }
+      ],
+      "mobileId": 22394,
+      "phonetic": "かやり",
+      "word": "蚊遣り"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19380f16a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con ruồi, con ruồi giả  (làm mồi câu cá)"
+        }
+      ],
+      "mobileId": 22028,
+      "phonetic": "かはり",
+      "word": "蚊針"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2f079e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crane fly, daddy longlegs (insect of family Tipulidae)"
+        }
+      ],
+      "mobileId": 224925,
+      "phonetic": "ががんぼ かがんぼ",
+      "word": "大蚊"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193707d44",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "con muỗi - con cá"
+        }
+      ],
+      "mobileId": 21503,
+      "phonetic": "かぜっ",
+      "word": "蚊絶"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2f13f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crane fly, daddy longlegs (insect of family Tipulidae)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "a tall, gangly person, string bean"
+        }
+      ],
+      "mobileId": 224926,
+      "phonetic": "かトンボ かとんぼ",
+      "word": "蚊トンボ"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c069182c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mosquitofish (Gambusia affinis), mosquito fish, gambusia"
+        }
+      ],
+      "mobileId": 210219,
+      "phonetic": "かだやし カダヤシ",
+      "word": "蚊絶やし"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae44a654",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con muỗi bệnh sốt rét"
+        }
+      ],
+      "mobileId": 129533,
+      "phonetic": "マラリアか",
+      "word": "マラリア蚊"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d10141f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drone beetle (scarabaeid beetle) (Rhomborrhina japonica)"
+        }
+      ],
+      "mobileId": 215610,
+      "phonetic": "かなぶん カナブン",
+      "word": "金蚊"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

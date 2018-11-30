@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95bb6b8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "sửa soạn"
+        }
+      ],
+      "mobileId": 62068,
+      "phonetic": "もと",
+      "word": "素"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d64ef6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sửa soạn lĩnh vực"
+        }
+      ],
+      "mobileId": 62946,
+      "phonetic": "もとたい",
+      "word": "素体"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822d5e22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grapheme, morpheme"
+        }
+      ],
+      "mobileId": 233068,
+      "phonetic": "しょきそ",
+      "word": "書記素"
+    },
+    {
+      "_id": "432518852de0a80625d585a98232271d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prime element"
+        }
+      ],
+      "mobileId": 233212,
+      "phonetic": "そげん",
+      "word": "素元"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d9abacf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "skin diving, free diving"
+        }
+      ],
+      "mobileId": 220077,
+      "phonetic": "すもぐり",
+      "word": "素潜り"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a86e5f4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "乳酸発酵素",
+              "mean": "Chất lên men sữa",
+              "transcription": "にゅうさんはつこうそ"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái men; cái để lên men"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "c?i men; c?i ?? l?n men"
+        }
+      ],
+      "mobileId": 172489,
+      "phonetic": "はっこうす",
+      "word": "発酵素"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aaf59e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "agglutinin"
+        }
+      ],
+      "mobileId": 229007,
+      "phonetic": "ぎょうしゅうそ",
+      "word": "凝集素"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac2fd64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phlogiston"
+        }
+      ],
+      "mobileId": 229650,
+      "phonetic": "ねんそ",
+      "word": "燃素"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0083d07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "passing one by (without noticing), inadvertently ignoring"
+        }
+      ],
+      "mobileId": 281224,
+      "phonetic": "すむし",
+      "word": "素無視"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9559cd95",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lanh lợi; nhanh; nhanh nhẹn"
+        }
+      ],
+      "mobileId": 58960,
+      "phonetic": "もとはやい",
+      "word": "素速い"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

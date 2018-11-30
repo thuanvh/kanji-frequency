@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a7ac321",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "なぐられて目の回りが黒いあざになっている",
+              "mean": "Bị đánh nên xung quanh mắt bị thâm quầng",
+              "transcription": "なぐられてめのまわりがくろいあざになっている"
+            },
+            {
+              "content": "あざができるほどひどく打つ",
+              "mean": "Đánh mạnh đến mức người có các vết thâm tím",
+              "transcription": "あざができるほどひどくうつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Vết thâm, vết nám"
+        }
+      ],
+      "mobileId": 172314,
+      "phonetic": "あざ",
+      "synsets": [
+        {
+          "base_form": "痣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "母斑",
+                "黶"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "痣"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85d5553",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đê chắn sóng đen; vẻ đẹp đánh dấu"
+        }
+      ],
+      "mobileId": 36490,
+      "phonetic": "くろあざ",
+      "related_words": {
+        "word": [
+          "黒",
+          "痣"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "黒痣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "黒子"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "黒痣"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2cb629",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thâm tím"
+        }
+      ],
+      "mobileId": 11219,
+      "phonetic": "あおあざ",
+      "word": "青痣"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

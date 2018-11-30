@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f3fc991",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "三才未満",
+              "mean": "chưa đầy ba tuổi",
+              "transcription": "さんさいみまん"
+            }
+          ],
+          "kind": "n",
+          "mean": "vẫn chưa; chưa"
+        }
+      ],
+      "mobileId": 185995,
+      "opposite_word": [
+        "既"
+      ],
+      "phonetic": "み",
+      "related_words": {
+        "word": [
+          "未満",
+          "未来",
+          "未定",
+          "未使用",
+          "未完成",
+          "未婚",
+          "未収入金",
+          "未確定",
+          "未決定",
+          "未成年"
+        ]
+      },
+      "word": "未"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f3fb577",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Mùi (dê); giờ Mùi"
+        }
+      ],
+      "mobileId": 185994,
+      "opposite_word": [
+        "既"
+      ],
+      "phonetic": "ひつじ",
+      "related_words": {
+        "word": [
+          "未満",
+          "未来",
+          "未定",
+          "未使用",
+          "未完成",
+          "未婚",
+          "未収入金",
+          "未確定",
+          "未決定",
+          "未成年"
+        ]
+      },
+      "word": "未"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ed292d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "20 th (của) sexagenary đạp xe"
+        }
+      ],
+      "mobileId": 25437,
+      "phonetic": "みずのとひつじ",
+      "word": "癸未"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08926cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "untreated, left unattended (to), still to be dealt with, unprocessed"
+        }
+      ],
+      "mobileId": 211247,
+      "phonetic": "みしょり",
+      "related_words": {
+        "word": [
+          "処理",
+          "未"
+        ]
+      },
+      "word": "未処理"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd10a359",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "để trống ((quyển) sách)"
+        }
+      ],
+      "mobileId": 69319,
+      "phonetic": "みきにゅう",
+      "related_words": {
+        "word": [
+          "記",
+          "未",
+          "記入"
+        ]
+      },
+      "word": "未記入"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd10ab87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "không tập, không rèn, không có kinh nghiệm; chưa thạo, (thể dục, thể thao) không tập dượt, không huấn luyện"
+        }
+      ],
+      "mobileId": 69320,
+      "phonetic": "みきょういく",
+      "related_words": {
+        "word": [
+          "教育",
+          "未"
+        ]
+      },
+      "word": "未教育"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd123962",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "còn chưa (thì) chính thức được công bố"
+        }
+      ],
+      "mobileId": 69370,
+      "phonetic": "みこうひょう",
+      "word": "未公表"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd135d65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, adj-na, n",
+          "mean": "không dùng; chưa dùng đến, không quen"
+        }
+      ],
+      "mobileId": 69411,
+      "phonetic": "みしよう",
+      "related_words": {
+        "word": [
+          "用",
+          "使用",
+          "未"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "未使用",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "新鮮",
+                "新しい"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "未使用"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd17686b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phần ít; thiểu số, only a minority of British households do/does not have a car, chỉ có một số ít hộ gia đình người Anh là không có xe hơi, tộc người thiểu số, tuổi vị thành niên"
+        }
+      ],
+      "mobileId": 69548,
+      "phonetic": "みせいねん",
+      "related_words": {
+        "word": [
+          "年",
+          "青",
+          "未",
+          "青年"
+        ]
+      },
+      "word": "未青年"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd215170",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không thanh toán lên trên (vốn)"
+        }
+      ],
+      "mobileId": 69864,
+      "phonetic": "みはらいこみ",
+      "related_words": {
+        "word": [
+          "未"
+        ]
+      },
+      "word": "未払い込み"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

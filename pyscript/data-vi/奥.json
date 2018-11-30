@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10755c430",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "弟は奥の部屋で遊んでいる。",
+              "mean": "Em trai tôi đang chơi ở phòng trong.",
+              "transcription": "おとうとはおくのへやであそんでいる。"
+            },
+            {
+              "content": "森の奥に小屋を見つけた。",
+              "mean": "Tôi thấy một ngôi nhà nhỏ ở trong rừng.",
+              "transcription": "もりのおくにこやをみつけた。"
+            }
+          ],
+          "kind": "n",
+          "mean": "bên trong"
+        }
+      ],
+      "mobileId": 53287,
+      "opposite_word": [
+        "表",
+        "端"
+      ],
+      "phonetic": "おく",
+      "related_words": {
+        "word": [
+          "奥行き",
+          "奥様",
+          "奥義",
+          "大奥",
+          "奥歯",
+          "奥深い",
+          "奥の手",
+          "奥手",
+          "奥ゆかしい",
+          "奥山"
+        ]
+      },
+      "word": "奥"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf53b23",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thật sâu; kiến thức sâu"
+        }
+      ],
+      "mobileId": 17544,
+      "phonetic": "おくむね",
+      "related_words": {
+        "word": [
+          "奥",
+          "旨"
+        ]
+      },
+      "word": "奥旨"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19303514a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm việc như một cô hầu phòng"
+        }
+      ],
+      "mobileId": 17983,
+      "phonetic": "おくつとめ",
+      "word": "奥勤め"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca082db54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inner wall (e.g. cave), inner rockface (mountain valley, etc.)"
+        }
+      ],
+      "mobileId": 285120,
+      "phonetic": "おくへき",
+      "word": "奥壁"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19303cbb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "phòng trong; bên trong nhà; nội bộ trong nhà"
+        }
+      ],
+      "mobileId": 18000,
+      "phonetic": "おくむき",
+      "related_words": {
+        "word": [
+          "奥",
+          "向き"
+        ]
+      },
+      "word": "奥向き"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5602e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rear shrine (located behind the main shrine, but dedicated to the same deity)"
+        }
+      ],
+      "mobileId": 226161,
+      "phonetic": "おくしゃ",
+      "word": "奥社"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19301bbdb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ý định trong tâm"
+        }
+      ],
+      "mobileId": 17937,
+      "phonetic": "おくい",
+      "related_words": {
+        "word": [
+          "奥",
+          "意"
+        ]
+      },
+      "word": "奥意"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19301cb61",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con dấu chính thức"
+        }
+      ],
+      "mobileId": 17938,
+      "phonetic": "おくしるし",
+      "related_words": {
+        "word": [
+          "印",
+          "奥"
+        ]
+      },
+      "word": "奥印"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1075629e9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "書物の終りにつける奥付は著者、発行者、印刷者の氏名、住所、定価などがある",
+              "mean": "Lời kết thúc ở cuối sách thường là tên tác giả, nhà phát hành, Nhà in, địa chỉ và giá cả .",
+              "transcription": "しょもつのおわりにつけるおくづけはちょしゃ、はっこうしゃ、いんさつしゃのしめい、じゅうしょ、ていかなどがある"
+            }
+          ],
+          "kind": "n",
+          "mean": "lời trong sách"
+        }
+      ],
+      "mobileId": 53290,
+      "phonetic": "おくづけ",
+      "word": "奥付け"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7708706f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "woman in waiting in the inner part of a lord's mansion (Edo period)"
+        }
+      ],
+      "mobileId": 264733,
+      "phonetic": "おくじょちゅう",
+      "word": "奥女中"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

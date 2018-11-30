@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b12ade",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "bể chứa (nước, chất lỏng)"
+        }
+      ],
+      "mobileId": 212543,
+      "phonetic": "そう",
+      "word": "槽"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa718ec69",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bể nước ."
+        }
+      ],
+      "mobileId": 107103,
+      "phonetic": "ちょすいそう",
+      "related_words": {
+        "word": [
+          "水",
+          "貯水"
+        ]
+      },
+      "word": "貯水槽"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b832dc1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vacuum column"
+        }
+      ],
+      "mobileId": 244033,
+      "phonetic": "しんくうそう",
+      "word": "真空槽"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c49d6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "precipitation tank, settling tank, sedimentation tank"
+        }
+      ],
+      "mobileId": 270815,
+      "phonetic": "ちんでんそう",
+      "word": "沈殿槽"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7fbdf6f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "隔膜電解槽",
+              "mean": "Bể điện phân có màng ngăn",
+              "transcription": "かくまくでんかいそう"
+            },
+            {
+              "content": "電解槽電圧",
+              "mean": "Điện áp của bể điện phân .",
+              "transcription": "でんかいそうでんあつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "bể điện phân"
+        }
+      ],
+      "mobileId": 110953,
+      "phonetic": "でんかいそう",
+      "related_words": {
+        "word": [
+          "電解"
+        ]
+      },
+      "word": "電解槽"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c3a102",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tub used to collect feces in an outhouse"
+        }
+      ],
+      "mobileId": 262537,
+      "phonetic": "べんそう",
+      "word": "便槽"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af3c74a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "washing machine tub"
+        }
+      ],
+      "mobileId": 231234,
+      "phonetic": "せんたくそう",
+      "word": "洗濯槽"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90ff663",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wooden vat (esp. for sake brewing), wooden tank"
+        }
+      ],
+      "mobileId": 273283,
+      "phonetic": "もくそう きぶね",
+      "word": "木槽"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d5bd037",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "máy rửa kiểu hai bể ."
+        }
+      ],
+      "mobileId": 143022,
+      "phonetic": "にそうしき",
+      "related_words": {
+        "word": [
+          "式",
+          "二"
+        ]
+      },
+      "word": "二槽式"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef95c7d33",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "cisternal"
+        }
+      ],
+      "mobileId": 275689,
+      "phonetic": "のうそうない",
+      "word": "脳槽内"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

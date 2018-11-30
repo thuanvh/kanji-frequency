@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801055743",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "是か非か見わかる",
+              "mean": "phân biệt phải trái",
+              "transcription": "ぜかひかみわかる"
+            }
+          ],
+          "kind": "n",
+          "mean": "phi; chẳng phải; trái"
+        },
+        {
+          "examples": [
+            {
+              "content": "非をあげく",
+              "mean": "bộc lộ khuyết điểm .",
+              "transcription": "ひをあげく"
+            }
+          ],
+          "kind": "n",
+          "mean": "sai lầm; khuyết điểm"
+        }
+      ],
+      "mobileId": 41826,
+      "opposite_word": [
+        "是"
+      ],
+      "phonetic": "ひ",
+      "word": "非"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68471297",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không hợp với, không thích hợp với, không tương hợp với, kỵ nhau, xung khắc, không hợp nhau"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không có gì chống đỡ, không có chỗ dựa, không ni nưng tựa, không được ủng hộ"
+        }
+      ],
+      "mobileId": 2293,
+      "phonetic": "ひたいおう",
+      "related_words": {
+        "word": [
+          "対応",
+          "対"
+        ]
+      },
+      "word": "非対応"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad18133",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "not applicable, na"
+        }
+      ],
+      "mobileId": 230134,
+      "phonetic": "ひてきよう",
+      "related_words": {
+        "word": [
+          "用"
+        ]
+      },
+      "word": "非適用"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010567c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "Nhẫn tâm; vô nhân đạo; sắt đá"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự nhẫn tâm; sự vô nhân đạo; sự sắt đá"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "vô tình ."
+        }
+      ],
+      "mobileId": 41829,
+      "phonetic": "ひにんじょう",
+      "word": "非人情"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801058a62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "sự không công khai ."
+        }
+      ],
+      "mobileId": 41834,
+      "opposite_word": [
+        "公開"
+      ],
+      "phonetic": "ひこうかい",
+      "related_words": {
+        "word": [
+          "公開",
+          "公"
+        ]
+      },
+      "word": "非公開"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801061d4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Không chuyển đổi ."
+        }
+      ],
+      "mobileId": 41849,
+      "phonetic": "ひへんかん",
+      "related_words": {
+        "word": [
+          "変換",
+          "変"
+        ]
+      },
+      "word": "非変換"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801076d93",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phi dân chủ ."
+        }
+      ],
+      "mobileId": 41889,
+      "phonetic": "ひみんしゅ",
+      "related_words": {
+        "word": [
+          "主",
+          "民",
+          "民主"
+        ]
+      },
+      "word": "非民主"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680107c7bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miễn thuế ."
+        }
+      ],
+      "mobileId": 41898,
+      "phonetic": "ひかぜい",
+      "related_words": {
+        "word": [
+          "課",
+          "税"
+        ]
+      },
+      "word": "非課税"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826aa22a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "the extraordinary, the unusual, the unexpected"
+        }
+      ],
+      "mobileId": 234998,
+      "phonetic": "ひにちじょう",
+      "related_words": {
+        "word": [
+          "日",
+          "常",
+          "日常"
+        ]
+      },
+      "word": "非日常"
+    },
+    {
+      "_id": "432518852de0a80625d585a982416697",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "free (e.g. verse)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "atypical"
+        }
+      ],
+      "mobileId": 233692,
+      "phonetic": "ひていけい",
+      "word": "非定型"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

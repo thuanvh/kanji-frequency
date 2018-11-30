@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed953e54ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hình thành trận đánh; cắm trại; sự cắm trại"
+        }
+      ],
+      "mobileId": 58071,
+      "phonetic": "じん",
+      "word": "陣"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86b86f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những hàng dãy quản lý"
+        }
+      ],
+      "mobileId": 36948,
+      "phonetic": "けいえいじん",
+      "related_words": {
+        "word": [
+          "経営"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "経営陣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "取締り",
+                "取締",
+                "幹部"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "経営陣"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd79d8dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiền đội, quân tiên phong, những người tiên phong, tiên phong"
+        }
+      ],
+      "mobileId": 13663,
+      "phonetic": "いちじん",
+      "related_words": {
+        "word": [
+          "一"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "一陣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "先陣",
+                "前衛",
+                "先鋒",
+                "前軍",
+                "先遣部隊"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "一陣"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d639c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "engineering staff"
+        }
+      ],
+      "mobileId": 271425,
+      "phonetic": "ぎじゅつじん",
+      "word": "技術陣"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0028012",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "press corps, group of reporters"
+        }
+      ],
+      "mobileId": 281030,
+      "phonetic": "しゅざいじん",
+      "word": "取材陣"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954645a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màn vây xung quanh trại lính"
+        }
+      ],
+      "mobileId": 58323,
+      "phonetic": "じんまく",
+      "word": "陣幕"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e96c6af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ném nhân viên"
+        }
+      ],
+      "mobileId": 115842,
+      "phonetic": "とうしゅじん",
+      "word": "投手陣"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954624e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơn lốc, gió lốc"
+        }
+      ],
+      "mobileId": 58318,
+      "phonetic": "じんふう",
+      "word": "陣風"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c239d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tổ khảo sát phạm tội (đội)"
+        }
+      ],
+      "mobileId": 62291,
+      "phonetic": "そうさじん",
+      "word": "捜査陣"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7703f34c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "gian hàng"
+        },
+        {
+          "examples": [],
+          "kind": "adj-t, adv-to",
+          "mean": "mạnh mẽ (gió), khốc liệt"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "liên tục"
+        }
+      ],
+      "mobileId": 264585,
+      "phonetic": "じんじん",
+      "word": "陣々"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

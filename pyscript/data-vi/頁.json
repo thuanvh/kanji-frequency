@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68beb9b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trang"
+        }
+      ],
+      "mobileId": 6087,
+      "phonetic": "ぺーじ",
+      "related_words": {
+        "word": [
+          "頁数"
+        ]
+      },
+      "word": "頁"
+    },
+    {
+      "_id": "f2d618ceb0702f781ec83b7d4f5cbb1b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "ngắt trang, phân trang"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "かいぺーじ",
+      "word": "改頁"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bec91b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đánh số trang"
+        }
+      ],
+      "mobileId": 6088,
+      "phonetic": "ぺーじづけ",
+      "word": "頁付け"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae4260a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số (của) những trang"
+        }
+      ],
+      "mobileId": 129466,
+      "phonetic": "ぺーじすう",
+      "related_words": {
+        "word": [
+          "数",
+          "頁"
+        ]
+      },
+      "word": "頁数"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bc341e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "form feed, FF"
+        }
+      ],
+      "mobileId": 246062,
+      "phonetic": "ページおくり",
+      "word": "頁送り"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e20597d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp",
+          "mean": "trang tiếp theo"
+        }
+      ],
+      "mobileId": 249067,
+      "phonetic": "じぺーじ じページ",
+      "word": "次頁"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda8b5a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "để trống trang"
+        }
+      ],
+      "mobileId": 74197,
+      "phonetic": "よはくぺーじ",
+      "word": "余白頁"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a967afdf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "page total, total number of pages"
+        }
+      ],
+      "mobileId": 259622,
+      "phonetic": "ぜんけつ",
+      "word": "全頁"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a967be38",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "web page"
+        }
+      ],
+      "mobileId": 259623,
+      "phonetic": "もうけつ もうよう もうページ",
+      "related_words": {
+        "word": [
+          "網",
+          "頁"
+        ]
+      },
+      "word": "網頁"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a967c780",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "homepage, main page (of a website)"
+        }
+      ],
+      "mobileId": 259624,
+      "phonetic": "しゅけつ しゅよう しゅページ",
+      "word": "主頁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

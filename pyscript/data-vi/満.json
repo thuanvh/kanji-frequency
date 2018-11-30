@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf729e3",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, pref",
+          "mean": "đầy đủ (năm, v.v.)"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Toàn bộ, tất cả"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Đủ đầy đủ, không thiếu"
+        },
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Mãn Châu"
+        }
+      ],
+      "mobileId": 247722,
+      "opposite_word": [
+        "干",
+        "数え"
+      ],
+      "phonetic": "まん",
+      "word": "満"
+    },
+    {
+      "_id": "432518852de0a80625d585a9823429d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "win worth 32000 points (or, if dealer, 48000 points)"
+        }
+      ],
+      "mobileId": 233280,
+      "phonetic": "やくまん",
+      "word": "役満"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e246517",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ランプが消えると満充電の状態になる",
+              "mean": "Khi đèn báo tắt là trạng thái đã sạc đầy pin.",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Sạc đầy pin"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "まんじゅうでん",
+      "word": "満充電"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0bfc43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phòng họp đầy người dự; nhà hát đấy người xem"
+        }
+      ],
+      "mobileId": 69172,
+      "phonetic": "まんたく",
+      "word": "満卓"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e118b58",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "all beds occupied (hospital), no beds (hospital), no vacancy"
+        }
+      ],
+      "mobileId": 248557,
+      "phonetic": "まんしょう",
+      "word": "満床"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0b5534",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "manchuria"
+        }
+      ],
+      "mobileId": 69152,
+      "phonetic": "まんしゅう",
+      "word": "満洲"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c7abb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "win worth 16000 points (or, if dealer, 24000 points)"
+        }
+      ],
+      "mobileId": 279132,
+      "phonetic": "ばいまん",
+      "word": "倍満"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4b7121",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "non-ordained Christian monk"
+        }
+      ],
+      "mobileId": 217498,
+      "phonetic": "イルマン",
+      "word": "入満"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0fe8b06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "manganese (Mn)"
+        }
+      ],
+      "mobileId": 206826,
+      "phonetic": "マンガン まんがん",
+      "word": "満俺"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68eaf9c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "sự bơm phồng, sự thổi phồng; tình trạng được bơm phồng, tình trạng được thổi phồng, sự lạm phát, sự tăng giá giả tạo"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "thô lỗ, cục cằn; lịch sự"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "hống hách"
+        }
+      ],
+      "mobileId": 7486,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "膨満",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "膨張"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "膨満"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

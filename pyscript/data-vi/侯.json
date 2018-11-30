@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7db4352d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "hầu"
+        },
+        {
+          "examples": [
+            {
+              "content": "侯爵夫人",
+              "mean": "Phu nhân của hầu tước",
+              "transcription": "こうしゃくふじん"
+            },
+            {
+              "content": "侯爵位",
+              "mean": "Tước vị hầu tước",
+              "transcription": "こうしゃくい"
+            },
+            {
+              "content": "サド侯爵はその倒錯し好で有名だった",
+              "mean": "Hầu tước Sade nổi tiếng vì sự truy lạc của mình",
+              "transcription": "サドこうしゃくはそのとうさくしこうでゆうめいだった"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "hầu tước"
+        }
+      ],
+      "mobileId": 144508,
+      "phonetic": "こう",
+      "related_words": {
+        "word": [
+          "侯爵",
+          "諸侯"
+        ]
+      },
+      "word": "侯"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c16707",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người quý tộc, người quý phái"
+        }
+      ],
+      "mobileId": 39692,
+      "phonetic": "ほうはく",
+      "related_words": {
+        "word": [
+          "伯",
+          "侯"
+        ]
+      },
+      "word": "侯伯"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a1245a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khống chế (của) sendai"
+        }
+      ],
+      "mobileId": 61239,
+      "phonetic": "せんだいこう",
+      "word": "仙台侯"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec5c3df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hầu tước (Nhật ...)"
+        }
+      ],
+      "mobileId": 117357,
+      "phonetic": "どこう",
+      "word": "土侯"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7df3c513",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công hầu ."
+        }
+      ],
+      "mobileId": 145629,
+      "phonetic": "こうこう",
+      "related_words": {
+        "word": [
+          "公",
+          "侯"
+        ]
+      },
+      "word": "公侯"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7db44412",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lãnh địa của hoàng thân; hầu quốc ."
+        }
+      ],
+      "mobileId": 144509,
+      "phonetic": "こうこく",
+      "related_words": {
+        "word": [
+          "国",
+          "侯"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "侯国",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "公国",
+                "公領"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "侯国"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02c2ec1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "native state (of pre-independence India), princely state"
+        }
+      ],
+      "mobileId": 282362,
+      "phonetic": "どこうこく",
+      "word": "土侯国"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

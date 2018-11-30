@@ -1,0 +1,265 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adae4c8b5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bịa chuyện"
+        },
+        {
+          "examples": [
+            {
+              "content": "竹田さんがK大に入ったなんてうそみたいね。",
+              "mean": "Thật khó tin rằng anh Takeda đã vào được trường đại học K.",
+              "transcription": "たけださんがKだいにはいったなんてうそみたいね。"
+            },
+            {
+              "content": "上司のご機嫌をとるためにその社員は嘘の報告書を提出した。",
+              "mean": "Để làm cấp trên hài lòng, người nhân viên ấy đã nộp một bản báo cáo giả.",
+              "transcription": "じょうしのごきげんをとるためにそのしゃいんはうそのほうこくしょをていしゅつした。"
+            },
+            {
+              "content": "どこの国の親も子どもに嘘をつかないように言うものである。",
+              "mean": "Dù ở đâu thì bố mẹ cũng thường dặn con cái không được nói dối.",
+              "transcription": "どこのくにのおやもこどもにうそをつかないようにいうものである。"
+            }
+          ],
+          "kind": "n",
+          "mean": "lời nói dối; sự dối trá; sự giả dối"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "嘘みたい:khó tin / như là không đúng / như là không thật / như giả"
+        },
+        {
+          "examples": [
+            {
+              "content": "こんなに勉強したんだから合格しなけりゃ嘘だよ。",
+              "mean": "Tôi học như vậy mà không đỗ thì thật là không hợp lý.",
+              "transcription": "こんなにべんきょうしたんだからごうかくしなけりゃうそだよ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự không hợp lý"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xạo ."
+        }
+      ],
+      "mobileId": 80688,
+      "opposite_word": [
+        "本当",
+        "実",
+        "真"
+      ],
+      "phonetic": "うそ",
+      "related_words": {
+        "word": [
+          "嘘吐き"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "嘘",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "偽言",
+                "贋造",
+                "捏造",
+                "作り言",
+                "偽り",
+                "虚言",
+                "作り話",
+                "作り事",
+                "虚偽"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "空言",
+                "妄言",
+                "偽言",
+                "偽",
+                "偽り",
+                "虚言",
+                "不実",
+                "うそ",
+                "虚偽",
+                "虚"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "偽",
+                "虚妄",
+                "うそ",
+                "虚偽",
+                "虚"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "嘘"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb7b26f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "Mít ướt, hay khóc"
+        }
+      ],
+      "mobileId": 15615,
+      "phonetic": "うそなき",
+      "word": "嘘泣き"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb7a706",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người nói dối, người bịa chuyện"
+        }
+      ],
+      "mobileId": 15613,
+      "opposite_word": [
+        "正直者"
+      ],
+      "phonetic": "うそはき",
+      "related_words": {
+        "word": [
+          "嘘"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "嘘吐き",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "与太郎",
+                "偽者",
+                "偽り者"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "嘘吐き"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca048022d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "feigned sleep, playing possum"
+        }
+      ],
+      "mobileId": 283271,
+      "phonetic": "うそね",
+      "word": "嘘寝"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c7fb26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "contrived, false-sounding"
+        }
+      ],
+      "mobileId": 279145,
+      "phonetic": "うそくさい",
+      "word": "嘘くさい"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7709be57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "great lie, lie, falsehood"
+        }
+      ],
+      "mobileId": 264773,
+      "phonetic": "うそいつわり",
+      "word": "嘘偽り"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfa54c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nói dối trắng trợn; nói dối quá đáng"
+        }
+      ],
+      "mobileId": 17703,
+      "phonetic": "だいうそ",
+      "related_words": {
+        "word": [
+          "大",
+          "嘘"
+        ]
+      },
+      "word": "大嘘"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c06c83f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liar, fibber"
+        }
+      ],
+      "mobileId": 210330,
+      "phonetic": "うそつけ",
+      "word": "嘘吐け"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c7fe90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "contrived, false-sounding"
+        }
+      ],
+      "mobileId": 279146,
+      "phonetic": "うそっぽい",
+      "word": "嘘っぽい"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c6691f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lie"
+        }
+      ],
+      "mobileId": 262628,
+      "phonetic": "おそごと",
+      "word": "嘘言"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

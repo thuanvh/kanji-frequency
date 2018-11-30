@@ -1,0 +1,248 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f7417c3d1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼の演奏を見るたびに彼からたくさんのことを学んでいる",
+              "mean": "Mỗi khi xem anh ấy biểu diễn tôi lại học được rất nhiều điều từ anh ấy.",
+              "transcription": "かれのえんそうをみるたびにかれからたくさんのことをまなんでいる"
+            },
+            {
+              "content": "彼、政治家になる前は小説家だったのよ。それと、何年も国会議員を務めていたわね",
+              "mean": "Ông ấy từng là một tiểu thuyết gia trước khi trở thành một nhà chính trị. Đồng thời, ông ấy cũng là một đại biểu quốc hội (nghị sĩ quốc hội) trong nhiều năm",
+              "transcription": "かれ、せいじかになるまえはしょうせつかだったのよ。それと、なんねんもこっかいぎいんをつとめていたわね"
+            },
+            {
+              "content": "彼、すごい意地悪でごう慢に見えるでしょ。でも根はいいやつなんだ",
+              "mean": "Anh ấy trông có vẻ rất bủn xỉn và kiêu căng, nhưng thực chất lại là một người đàn ông tốt bụng",
+              "transcription": "かれ、すごいいじわるでごうまんにみえるでしょ。でもねはいいやつなんだ"
+            },
+            {
+              "content": "彼、あの年にしては元気ね",
+              "mean": "Ở độ tuổi đấy mà ông ấy vẫn trông phong độ nhỉ",
+              "transcription": "かれ、あのとしにしてはげんきね"
+            }
+          ],
+          "kind": "n",
+          "mean": "anh ta"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gã"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hắn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nó"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ông ấy"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ông ta"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tên ấy ."
+        }
+      ],
+      "mobileId": 97821,
+      "opposite_word": [
+        "彼女",
+        "我"
+      ],
+      "phonetic": "かれ",
+      "related_words": {
+        "word": [
+          "彼女",
+          "彼らの",
+          "彼氏",
+          "彼方",
+          "彼女の",
+          "彼ら",
+          "彼の",
+          "彼を",
+          "彼岸花",
+          "彼岸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "彼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボーイフレンド",
+                "彼氏"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "彼"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b59f4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "so trifling, so trivial"
+        }
+      ],
+      "mobileId": 286783,
+      "phonetic": "あれしき",
+      "word": "彼式"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5251e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới phạm vi đó; tới mức đó"
+        }
+      ],
+      "mobileId": 12421,
+      "phonetic": "かれほど",
+      "word": "彼程"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c06cb961",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "they"
+        }
+      ],
+      "mobileId": 210336,
+      "phonetic": "あいつら",
+      "word": "彼奴ら"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3e9c89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "this and that"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "this person and that person, anybody"
+        }
+      ],
+      "mobileId": 217101,
+      "phonetic": "これかれ",
+      "word": "此彼"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0a25d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "he himself"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "his personal"
+        }
+      ],
+      "mobileId": 248322,
+      "phonetic": "かれこじん",
+      "word": "彼個人"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d93239b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "bạn trai cũ"
+        }
+      ],
+      "mobileId": 219827,
+      "phonetic": "もとかれ, もとカレ",
+      "word": "元彼"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca041da97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "his style, her style, his way (of), her way (of)"
+        }
+      ],
+      "mobileId": 283078,
+      "phonetic": "かれりゅう",
+      "word": "彼流"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0af5f5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, adv",
+          "mean": "his way, peculiar to him"
+        }
+      ],
+      "mobileId": 212480,
+      "phonetic": "かれなり",
+      "word": "彼なり"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7417e926",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あのCDは1960年代の楽曲のサンプリング集だ",
+              "mean": "chiếc đĩa hát đó tập hợp các bài hát của thập niên những năm 60",
+              "transcription": "あのCDは1960ねんだいのがっきょくのサンプリングしゅうだ"
+            },
+            {
+              "content": "私の人生は、あの2通の手紙で変わった",
+              "mean": "cuộc sống của tôi đã thay đổi sau 2 lá thư này .",
+              "transcription": "わたしのじんせいは、あの2つうのてがみでかわった"
+            }
+          ],
+          "kind": "adj-pn",
+          "mean": "cái đó; chỗ đó"
+        }
+      ],
+      "mobileId": 97822,
+      "phonetic": "あの",
+      "related_words": {
+        "word": [
+          "の",
+          "彼",
+          "彼のもの"
+        ]
+      },
+      "word": "彼の"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

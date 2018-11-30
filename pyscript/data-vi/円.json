@@ -1,0 +1,340 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada15cd27",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "そのノートは２００円です。",
+              "mean": "Quyển vở đó giá 200 yên.VIÊN",
+              "transcription": "そのノートはにぜろぜろえんです。"
+            }
+          ],
+          "kind": "n",
+          "mean": "đồng yên"
+        },
+        {
+          "examples": [
+            {
+              "content": "子どもたちは火のまわりに円を作って座った。",
+              "mean": "Lũ trẻ ngồi thành một vòng tròn quanh đống lửa.",
+              "transcription": "こどもたちはひのまわりにえんをつくってすわった。"
+            }
+          ],
+          "kind": "n",
+          "mean": "vòng tròn"
+        }
+      ],
+      "mobileId": 77247,
+      "opposite_word": [
+        "方"
+      ],
+      "phonetic": "えん",
+      "related_words": {
+        "word": [
+          "円形",
+          "楕円",
+          "円周",
+          "円筒",
+          "円柱",
+          "円錐",
+          "円滑",
+          "円弧",
+          "円グラフ",
+          "円盤"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "円",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "円形"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "輪",
+                "丸型",
+                "丸",
+                "巡回",
+                "丸形",
+                "円型",
+                "円形",
+                "サークル",
+                "循環"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "丸型",
+                "丸形",
+                "円型",
+                "円形",
+                "サークル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "円"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada15d176",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tròn ."
+        }
+      ],
+      "mobileId": 77248,
+      "opposite_word": [
+        "方"
+      ],
+      "phonetic": "まる",
+      "related_words": {
+        "word": [
+          "円形",
+          "楕円",
+          "円周",
+          "円筒",
+          "円柱",
+          "円錐",
+          "円滑",
+          "円弧",
+          "円グラフ",
+          "円盤"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "円",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "円形"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "輪",
+                "丸型",
+                "丸",
+                "巡回",
+                "丸形",
+                "円型",
+                "円形",
+                "サークル",
+                "循環"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "丸型",
+                "丸形",
+                "円型",
+                "円形",
+                "サークル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "円"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde56f4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khối đồng Yên; vùng đồng yên"
+        }
+      ],
+      "mobileId": 17025,
+      "phonetic": "えんいき",
+      "word": "円域"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde7eca5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gò đống; đồi nhỏ"
+        }
+      ],
+      "mobileId": 17107,
+      "phonetic": "まどかたかし",
+      "related_words": {
+        "word": [
+          "円",
+          "丘"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "円丘",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "塚"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "円丘"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19301d6cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "100,000,000 yên"
+        }
+      ],
+      "mobileId": 17939,
+      "phonetic": "おくえん",
+      "word": "億円"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193bf37f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vẽ đường bao vòng tròn"
+        }
+      ],
+      "mobileId": 23969,
+      "phonetic": "がいせつえん",
+      "word": "外接円"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada17bf39",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "最近は円高ドル安だ。",
+              "mean": "Dạo này đồng yên lên giá còn đồng dollar lại giảm giá.",
+              "transcription": "さいきんはえんだかドルやすだ。"
+            },
+            {
+              "content": "ここ２，３週間為替相場はやや円高だった。",
+              "mean": "2, 3 tuần nay, trên thị trường hối đoái đồng yên hơi tăng giá một chút. .",
+              "transcription": "ここに，さんしゅうかんかわせそうばはややえんだかだった。"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "việc đồng yên lên giá"
+        }
+      ],
+      "mobileId": 77269,
+      "opposite_word": [
+        "円安"
+      ],
+      "phonetic": "えんだか",
+      "related_words": {
+        "word": [
+          "円"
+        ]
+      },
+      "word": "円高"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea79dd7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính lồi, độ lồi"
+        }
+      ],
+      "mobileId": 116399,
+      "phonetic": "とつえん",
+      "related_words": {
+        "word": [
+          "円"
+        ]
+      },
+      "word": "凸円"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ff0513",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "round burial mound"
+        }
+      ],
+      "mobileId": 280921,
+      "phonetic": "まるづか まるか えんちょう",
+      "word": "円塚"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d09f53d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この辺り一円に",
+              "mean": "xung quanh vùng này",
+              "transcription": "このあたりいちえんに"
+            },
+            {
+              "content": "関東一円で",
+              "mean": "xung quanh quận Kantô",
+              "transcription": "かんとういちえんで"
+            },
+            {
+              "content": "北関東一円に雹が降った。",
+              "mean": "toàn vùng Bắc Kanto có mưa đá.",
+              "transcription": "きたかんとういちえんに雹がふった。"
+            }
+          ],
+          "kind": "n",
+          "mean": "khắp; toàn vùng; xung quanh"
+        },
+        {
+          "examples": [
+            {
+              "content": "〜に一円たりとも出さない",
+              "mean": "không chi dù chỉ 1 yên .",
+              "transcription": "〜にいちえんたりともださない"
+            }
+          ],
+          "kind": "n",
+          "mean": "một yên"
+        }
+      ],
+      "mobileId": 141563,
+      "phonetic": "いちえん",
+      "related_words": {
+        "word": [
+          "円",
+          "一"
+        ]
+      },
+      "word": "一円"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

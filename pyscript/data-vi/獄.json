@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d5bd7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jail, gaol, prison"
+        }
+      ],
+      "mobileId": 263106,
+      "phonetic": "ごく ひとや",
+      "word": "獄"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77eb5203",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prison"
+        }
+      ],
+      "mobileId": 272101,
+      "phonetic": "ごくしょ ごくそ",
+      "word": "獄所"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77eb4b8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prisoner"
+        }
+      ],
+      "mobileId": 272100,
+      "phonetic": "ごくしゅう",
+      "word": "獄囚"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a5dcaf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "going to hell, falling into hell"
+        }
+      ],
+      "mobileId": 261578,
+      "phonetic": "だごく",
+      "word": "堕獄"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86ef24b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà tù, tượng trưng cho sự trừng phạt về mặt công quyền"
+        }
+      ],
+      "mobileId": 37065,
+      "phonetic": "けいごく",
+      "related_words": {
+        "word": [
+          "刑"
+        ]
+      },
+      "word": "刑獄"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0356a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới nhà tù gãy"
+        }
+      ],
+      "mobileId": 145854,
+      "phonetic": "ごくをやぶる",
+      "word": "獄を破る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

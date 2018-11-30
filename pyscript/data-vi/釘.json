@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a8665a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đanh"
+        },
+        {
+          "examples": [
+            {
+              "content": "テレビ画面に釘付けになっている",
+              "mean": "đóng đinh (dán mắt) vào màn hình vô tuyến",
+              "transcription": "テレビがめんにくぎづけになっている"
+            },
+            {
+              "content": "〜の釘を抜いてあける",
+              "mean": "tháo đinh ra",
+              "transcription": "〜のくぎをぬいてあける"
+            },
+            {
+              "content": "釘を打ち込む",
+              "mean": "đóng đinh",
+              "transcription": "くぎをうちこむ"
+            },
+            {
+              "content": "蹄鉄の古釘",
+              "mean": "đinh cũ ngắn to",
+              "transcription": "ていてつのこくぎ"
+            },
+            {
+              "content": "屋根釘",
+              "mean": "đinh mái nhà .",
+              "transcription": "やねくぎ"
+            }
+          ],
+          "kind": "n",
+          "mean": "đinh"
+        }
+      ],
+      "mobileId": 109544,
+      "phonetic": "くぎ",
+      "related_words": {
+        "word": [
+          "切り釘"
+        ]
+      },
+      "word": "釘"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f734d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rivet, tack, thumbtack, drawing-pin, hobnail"
+        }
+      ],
+      "mobileId": 272474,
+      "phonetic": "びょうくぎ",
+      "word": "鋲釘"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a596d7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "square nail, square peg"
+        }
+      ],
+      "mobileId": 226262,
+      "phonetic": "かくくぎ",
+      "word": "角釘"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b5b30e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dowel, guide dowel"
+        }
+      ],
+      "mobileId": 278529,
+      "phonetic": "あわせくぎ",
+      "word": "合せ釘"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adab5f5b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đinh hai đầu nhọn ."
+        }
+      ],
+      "mobileId": 79837,
+      "phonetic": "あいくぎ",
+      "word": "合い釘"
+    },
+    {
+      "_id": "f475adfd3d43fe9a3f6e63da4098e91c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đinh khuy"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đinh ốc ."
+        }
+      ],
+      "mobileId": 177540,
+      "phonetic": "ねじくぎ",
+      "word": "ねじ釘"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d40ae8f9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "コンクリですけどコンクリート釘",
+              "mean": "Bởi vì bi tông nên đóng bằng đinh bi tông",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Đinh đóng bê tông"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "Konkuri-tokugi",
+      "word": "コンクリート釘"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc8a8a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái đinh móc, vật có đóng đinh móc phía sau để treo tường"
+        }
+      ],
+      "mobileId": 16135,
+      "phonetic": "うらくぎ",
+      "related_words": {
+        "word": [
+          "裏",
+          "釘"
+        ]
+      },
+      "word": "裏釘"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81dbe26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đinh nhỏ đầu"
+        }
+      ],
+      "mobileId": 34446,
+      "phonetic": "きりくぎ",
+      "related_words": {
+        "word": [
+          "切",
+          "切り",
+          "釘"
+        ]
+      },
+      "word": "切り釘"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a89b6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đầu đinh ."
+        }
+      ],
+      "mobileId": 109549,
+      "phonetic": "ていとう",
+      "word": "釘頭"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

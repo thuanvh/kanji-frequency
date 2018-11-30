@@ -1,0 +1,232 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9561d6a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "thế lực; binh lực; sức mạnh quân đội"
+        }
+      ],
+      "mobileId": 59215,
+      "phonetic": "ぜい",
+      "related_words": {
+        "word": [
+          "姿勢",
+          "勢い",
+          "勢力",
+          "大勢",
+          "情勢",
+          "去勢",
+          "伊勢海老",
+          "優勢",
+          "運勢",
+          "攻勢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "強さ",
+                "力",
+                "勢い"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "余勢",
+                "勢い"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "勢"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eac46d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đoàn tuỳ tùng"
+        }
+      ],
+      "mobileId": 116557,
+      "phonetic": "きょうぜい",
+      "related_words": {
+        "word": [
+          "供",
+          "勢"
+        ]
+      },
+      "word": "供勢"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed957fc45d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gia đình,họ có ảnh hưởng; người đàn ông trong sức mạnh"
+        }
+      ],
+      "mobileId": 60155,
+      "phonetic": "ぜいもん",
+      "related_words": {
+        "word": [
+          "門",
+          "勢"
+        ]
+      },
+      "word": "勢門"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d90f276",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sự phục kích ."
+        }
+      ],
+      "mobileId": 143953,
+      "phonetic": "ふせぜい",
+      "related_words": {
+        "word": [
+          "勢",
+          "伏せ",
+          "伏"
+        ]
+      },
+      "word": "伏せ勢"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82a8139",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính giống nhau, tính đồng dạng, tính chất  không thay đổi, tính đều đều, tính đơn điệu"
+        }
+      ],
+      "mobileId": 34854,
+      "phonetic": "ひとしぜい",
+      "word": "均勢"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebb5415",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phát biểu; điều kiện; những sự chuyển động"
+        }
+      ],
+      "mobileId": 117028,
+      "phonetic": "どうぜい",
+      "related_words": {
+        "word": [
+          "動",
+          "勢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "動勢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "様相",
+                "有り様",
+                "動静",
+                "様子",
+                "工合",
+                "様態",
+                "恰好",
+                "状況",
+                "状態",
+                "様"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "動勢"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91b16e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inferiority, weakness"
+        }
+      ],
+      "mobileId": 273639,
+      "phonetic": "じゃくせい",
+      "word": "弱勢"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80aedca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự nhấn mạnh; điểm nhấn"
+        }
+      ],
+      "mobileId": 33842,
+      "phonetic": "つよぜい",
+      "related_words": {
+        "word": [
+          "強",
+          "勢"
+        ]
+      },
+      "word": "強勢"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed957f1bf4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sức mạnh và tính phổ biến"
+        }
+      ],
+      "mobileId": 60130,
+      "phonetic": "ぜいもち",
+      "related_words": {
+        "word": [
+          "勢"
+        ]
+      },
+      "word": "勢望"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a50cf3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "energization (electrical), bias"
+        }
+      ],
+      "mobileId": 277985,
+      "phonetic": "ふせい",
+      "word": "付勢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

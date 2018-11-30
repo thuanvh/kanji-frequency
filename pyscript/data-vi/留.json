@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c092f5f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fragrant wood"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "wooden peg, toggle"
+        }
+      ],
+      "mobileId": 211562,
+      "phonetic": "とめぎ",
+      "word": "留木"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc66a3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự làm cho thoả mãn; sự vừa lòng, sự toại ý, sự thoả mãn, sự trả nợ; sự làm tròn nhiệm vụ, dịp rửa thù"
+        }
+      ],
+      "mobileId": 75147,
+      "phonetic": "とめいん",
+      "synsets": [
+        {
+          "base_form": "留飲",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "満足",
+                "会心",
+                "喜び",
+                "本望"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "補償",
+                "満足",
+                "会心",
+                "喜び",
+                "本望",
+                "償い"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "留飲"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87b30a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự treo âm nhạc"
+        }
+      ],
+      "mobileId": 37454,
+      "phonetic": "かけとめ",
+      "word": "掛留"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a966b0dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "refinement (e.g. of alcohol), rectification"
+        }
+      ],
+      "mobileId": 259594,
+      "phonetic": "せいりゅう",
+      "word": "精留"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a6cb979",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đinh ghim ."
+        }
+      ],
+      "mobileId": 172105,
+      "phonetic": "とめぴん",
+      "word": "留ピン"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92123ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fraction (i.e. in distillation), cut"
+        }
+      ],
+      "mobileId": 257332,
+      "phonetic": "りゅうぶん",
+      "word": "留分"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a906ef18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "directly distilled, straight"
+        }
+      ],
+      "mobileId": 256541,
+      "phonetic": "ちょくりゅう",
+      "word": "直留"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eabb0e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "không ngừng, liên tu bất tận"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "không ngớt, liên tục"
+        }
+      ],
+      "mobileId": 116535,
+      "phonetic": "とめところなく",
+      "word": "留処無く"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03e0edd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "continued fever, sustained fever"
+        }
+      ],
+      "mobileId": 282961,
+      "phonetic": "けいりゅうねつ",
+      "word": "稽留熱"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9070b73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "straight diesel oil"
+        }
+      ],
+      "mobileId": 256546,
+      "phonetic": "ちょくりゅうけいゆ",
+      "word": "直留軽油"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

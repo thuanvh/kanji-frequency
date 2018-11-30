@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e810d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "three mental disturbances"
+        }
+      ],
+      "mobileId": 280176,
+      "phonetic": "さんわく さんなく",
+      "word": "三惑"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d9e8601",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trickery"
+        }
+      ],
+      "mobileId": 220203,
+      "phonetic": "おうわく",
+      "word": "枉惑"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01e185b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "perceptive mental disturbances"
+        }
+      ],
+      "mobileId": 281912,
+      "phonetic": "しゅわく",
+      "word": "修惑"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

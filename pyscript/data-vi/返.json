@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c959cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "word-order marks used to assist reading of Chinese classics"
+        }
+      ],
+      "mobileId": 213336,
+      "phonetic": "へんどくてん",
+      "word": "返読点"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7744bc6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reply"
+        }
+      ],
+      "mobileId": 266677,
+      "phonetic": "へんし",
+      "word": "返詞"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dee19a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "return value (from a function, in programming)"
+        }
+      ],
+      "mobileId": 222818,
+      "phonetic": "かえりち",
+      "word": "返値"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf8420b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "xung quanh đi nhẹ bước"
+        }
+      ],
+      "mobileId": 17636,
+      "phonetic": "",
+      "word": "往返"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e2bce7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "trả lời gọi điểm danh thay cho người vắng mặt"
+        }
+      ],
+      "mobileId": 112431,
+      "phonetic": "だい へん",
+      "related_words": {
+        "word": [
+          "代"
+        ]
+      },
+      "word": "代返"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

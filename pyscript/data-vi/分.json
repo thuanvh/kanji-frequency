@@ -1,0 +1,363 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada2c5cce",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "８分の利息を取る",
+              "mean": "lấy lãi 8%",
+              "transcription": "はちぶんのりそくをとる"
+            }
+          ],
+          "kind": "n",
+          "mean": "lãi suất"
+        },
+        {
+          "examples": [
+            {
+              "content": "8 分の利子を払う",
+              "mean": "Trả 8% lãi suất",
+              "transcription": "8ぶんのりしをはらう"
+            }
+          ],
+          "kind": "n",
+          "mean": "một phần trăm"
+        },
+        {
+          "examples": [
+            {
+              "content": "1 分は 1 時間の何分の 1 か.",
+              "mean": "1 phút bằng 1 phần mấy giờ?",
+              "transcription": "1ふんは1じかんのなんぶんの1か."
+            }
+          ],
+          "kind": "n",
+          "mean": "phần"
+        }
+      ],
+      "mobileId": 77702,
+      "opposite_word": [
+        "合"
+      ],
+      "phonetic": "ぶ",
+      "related_words": {
+        "word": [
+          "多分",
+          "分割",
+          "自分",
+          "分解",
+          "区分",
+          "分類",
+          "十分",
+          "気分",
+          "分析",
+          "半分"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "分",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "パーツ",
+                "部分"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "時間"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "分"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada2c8190",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "分相応にやる",
+              "mean": "theo thân phận mà làm",
+              "transcription": "ぶんそうおうにやる"
+            }
+          ],
+          "kind": "n",
+          "mean": "địa vị; thân phận"
+        },
+        {
+          "examples": [
+            {
+              "content": "分を尽くす",
+              "mean": "đã hoàn thành phần việc",
+              "transcription": "ぶんをつくす"
+            }
+          ],
+          "kind": "n",
+          "mean": "phần việc"
+        },
+        {
+          "examples": [
+            {
+              "content": "この分ならば間違いないでしょう",
+              "mean": "nếu như làm đến trình độ này thì không có vấn đề gì nữa",
+              "transcription": "このぶんならばまちがいないでしょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "trình độ; trạng thái"
+        },
+        {
+          "examples": [
+            {
+              "content": "その島は四国の 5 分の 1 の大きさである.",
+              "mean": "Hòn đảo này bằng 1 phần 5 Shikoku",
+              "transcription": "そのしまはしこくの5ぶんの1のおおきさである."
+            },
+            {
+              "content": "砂糖 3 分に小麦粉 5 分の割合にする",
+              "mean": "Chia theo tỷ lệ 3 phần đường 5 phần bột.",
+              "transcription": "さとう3ふんにこむぎこ5ぶんのわりあいにする"
+            }
+          ],
+          "kind": "n, n-suf, pref",
+          "mean": "phần; từng phần"
+        }
+      ],
+      "mobileId": 77703,
+      "opposite_word": [
+        "合"
+      ],
+      "phonetic": "ぶん",
+      "related_words": {
+        "word": [
+          "多分",
+          "分割",
+          "自分",
+          "分解",
+          "区分",
+          "分類",
+          "十分",
+          "気分",
+          "分析",
+          "半分"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "分",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "パーツ",
+                "部分"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "時間"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "分"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d091e25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "ngang bằng nhau, ngang ngửa, năm năm"
+        }
+      ],
+      "mobileId": 146042,
+      "phonetic": "ごぶごぶ",
+      "related_words": {
+        "word": [
+          "分",
+          "五",
+          "五分"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "五分五分",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "分け",
+                "タイゲーム",
+                "相子",
+                "引き分け",
+                "タイ",
+                "ドロー",
+                "同点",
+                "五分"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "五分五分"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6d9453",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chia theo tỉ lệ bảy - ba"
+        }
+      ],
+      "mobileId": 149204,
+      "phonetic": "ななふんさんふん",
+      "word": "七分三分"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a13f4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phân nhánh văn phòng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "polarization (light, radio waves)"
+        }
+      ],
+      "mobileId": 5112,
+      "opposite_word": [
+        "本局"
+      ],
+      "phonetic": "ぶんきょく",
+      "related_words": {
+        "word": [
+          "分",
+          "局"
+        ]
+      },
+      "word": "分局"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a1f3a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "xuất bản phần gần chia ra (e.g. trong một tạp chí)"
+        }
+      ],
+      "mobileId": 5140,
+      "phonetic": "ぶんの",
+      "related_words": {
+        "word": [
+          "分"
+        ]
+      },
+      "word": "分載"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a2e5fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chia cắt và tiến tới"
+        }
+      ],
+      "mobileId": 5170,
+      "phonetic": "ぶんすすむ",
+      "related_words": {
+        "word": [
+          "分"
+        ]
+      },
+      "word": "分進"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a404fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "(suff) trong tỉ lệ tới; đúng như nhiều như"
+        }
+      ],
+      "mobileId": 5208,
+      "phonetic": "ぶんだけ",
+      "word": "分だけ"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a57552",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xuân phân; phân nhánh; sự nối"
+        }
+      ],
+      "mobileId": 5258,
+      "phonetic": "ぶんてん",
+      "related_words": {
+        "word": [
+          "分",
+          "点"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "分点",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "分岐駅",
+                "分かれ目",
+                "別れ目"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "分点"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a615fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ấn định; sự định vị"
+        }
+      ],
+      "mobileId": 5282,
+      "phonetic": "ぶんふ",
+      "related_words": {
+        "word": [
+          "分"
+        ]
+      },
+      "word": "分賦"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

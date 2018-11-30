@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bbf68b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lời nói; tiếng địa phương"
+        }
+      ],
+      "mobileId": 6003,
+      "phonetic": "",
+      "word": "辯"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ef4a66",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lối nguỵ biện"
+        }
+      ],
+      "mobileId": 25516,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "詭辯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "欺騙",
+                "如何様",
+                "詭弁",
+                "ぺてん",
+                "権謀術数",
+                "詐欺",
+                "欺瞞",
+                "ごまかし",
+                "虚偽",
+                "詭計"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "詭辯"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280275d49a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tài hùng biện"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "có tài hùng biện ."
+        }
+      ],
+      "mobileId": 30660,
+      "phonetic": "のうべん",
+      "related_words": {
+        "word": [
+          "能"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "能辯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "能弁",
+                "雄弁",
+                "弁才",
+                "口弁"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "能辯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

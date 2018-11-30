@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a8664c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "birthday present"
+        }
+      ],
+      "mobileId": 286333,
+      "phonetic": "たんプレ",
+      "word": "誕プレ"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d161285",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự sống lại (của công ty, trường học ...)"
+        }
+      ],
+      "mobileId": 146446,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "再"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "再誕",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蘇り",
+                "回生",
+                "甦生",
+                "甦",
+                "復活",
+                "蘇生"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "再誕"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

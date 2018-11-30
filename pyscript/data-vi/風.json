@@ -1,0 +1,289 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568011c6d28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gió"
+        }
+      ],
+      "mobileId": 42224,
+      "phonetic": "かぜ",
+      "related_words": {
+        "word": [
+          "風景",
+          "風呂",
+          "神風",
+          "風邪",
+          "扇風機",
+          "台風",
+          "風俗",
+          "疾風",
+          "風船",
+          "そよ風"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "風",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウインド",
+                "気流"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "習わし",
+                "慣習",
+                "性",
+                "定例",
+                "仕来たり",
+                "風俗",
+                "因習",
+                "仕来り",
+                "慣例",
+                "慣行",
+                "習慣",
+                "因襲",
+                "流儀",
+                "遺風",
+                "トラディション",
+                "風習",
+                "為来り",
+                "旧例",
+                "惰性",
+                "旧習"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "風"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568011c968b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ああいった風の男",
+              "mean": "cái loại đàn ông đó",
+              "transcription": "ああいったかぜのおとこ"
+            },
+            {
+              "content": "東洋風の花瓶",
+              "mean": "Lọ hoa phong cách phương Đông",
+              "transcription": "とうようふうのかびん"
+            }
+          ],
+          "kind": "adj-na",
+          "mean": "phong cách"
+        },
+        {
+          "examples": [
+            {
+              "content": "あんな風では人に嫌われる.",
+              "mean": "Nếu anh còn tiếp tục cư xử như thế thì sẽ bị bị mọi người ghét đấy.",
+              "transcription": "あんなかぜではひとにきらわれる."
+            },
+            {
+              "content": "私のそばを通り過ぎる時, 彼はこんな風に手招きをした. A",
+              "mean": "Khi vượt qua tôi, anh ta đã vẫy tay như thế này. .",
+              "transcription": "わたしのそばをとおりすぎるとき,かれはこんなかぜにてまねきをした. A"
+            }
+          ],
+          "kind": "n-suf",
+          "mean": "phương thức; kiểu"
+        }
+      ],
+      "mobileId": 42225,
+      "phonetic": "ふう",
+      "related_words": {
+        "word": [
+          "風景",
+          "風呂",
+          "神風",
+          "風邪",
+          "扇風機",
+          "台風",
+          "風俗",
+          "疾風",
+          "風船",
+          "そよ風"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "風",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ウインド",
+                "気流"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "習わし",
+                "慣習",
+                "性",
+                "定例",
+                "仕来たり",
+                "風俗",
+                "因習",
+                "仕来り",
+                "慣例",
+                "慣行",
+                "習慣",
+                "因襲",
+                "流儀",
+                "遺風",
+                "トラディション",
+                "風習",
+                "為来り",
+                "旧例",
+                "惰性",
+                "旧習"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "風"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc8444d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gió thoảng từ biển; gió biển"
+        }
+      ],
+      "mobileId": 16118,
+      "phonetic": "うらふう",
+      "word": "浦風"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c08a85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơn gió dịu nhẹ thổi vào đầu hè (thổi từ hướng nam)"
+        }
+      ],
+      "mobileId": 24010,
+      "phonetic": "",
+      "word": "凱風"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c028f2bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5t, vi",
+          "mean": "to blow (wind)"
+        }
+      ],
+      "mobileId": 190480,
+      "phonetic": "かぜだつ かぜたつ",
+      "word": "風立つ"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06a435f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bagpipe"
+        }
+      ],
+      "mobileId": 284363,
+      "phonetic": "ふうてき",
+      "word": "風笛"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f76b9f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơn gió thuộc về mặt trời"
+        }
+      ],
+      "mobileId": 64022,
+      "phonetic": "たいようふう",
+      "related_words": {
+        "word": [
+          "風",
+          "陽"
+        ]
+      },
+      "word": "太陽風"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9531e381",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cuốn cao chót vót"
+        }
+      ],
+      "mobileId": 57678,
+      "phonetic": "じょうそうふう",
+      "word": "上層風"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd28e108",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những phong tục quốc gia"
+        }
+      ],
+      "mobileId": 70107,
+      "phonetic": "みんふう",
+      "related_words": {
+        "word": [
+          "風",
+          "民"
+        ]
+      },
+      "word": "民風"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9dce54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cơn gió thổi ban đêm"
+        }
+      ],
+      "mobileId": 73833,
+      "phonetic": "よ かぜ",
+      "related_words": {
+        "word": [
+          "風",
+          "夜"
+        ]
+      },
+      "word": "夜風"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

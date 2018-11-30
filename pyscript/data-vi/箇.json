@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad54499",
+      "means": [
+        {
+          "examples": null,
+          "kind": "ctr",
+          "mean": "counter for the ichi-ni-san counting system (usu. directly preceding the item being counted), a noun read using its on-yomi"
+        }
+      ],
+      "mobileId": 230253,
+      "phonetic": "か カ",
+      "word": "箇"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900edc7cbf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bao nhiêu cái"
+        }
+      ],
+      "mobileId": 118049,
+      "phonetic": "",
+      "word": "何箇"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8e35853",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ghi số (của) những mục (bài báo)"
+        }
+      ],
+      "mobileId": 40796,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "数"
+        ]
+      },
+      "word": "箇数"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd842391",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một; a mảnh"
+        }
+      ],
+      "mobileId": 13983,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "一"
+        ]
+      },
+      "word": "一箇"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de2b9fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n-adv, n-t",
+          "mean": "thực tế; thật"
+        }
+      ],
+      "mobileId": 152986,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "真"
+        ]
+      },
+      "word": "真箇"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

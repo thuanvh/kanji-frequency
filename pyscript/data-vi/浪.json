@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757ff8994c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự phiêu lãng ."
+        }
+      ],
+      "mobileId": 189054,
+      "phonetic": "ひょうろう",
+      "word": "漂浪"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7703eb0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blue waves, blue wave"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hair that has lost its shine due to ageing"
+        }
+      ],
+      "mobileId": 264584,
+      "phonetic": "そうろう",
+      "word": "蒼浪"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd80ceda",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "thi rớt đại học một lần"
+        }
+      ],
+      "mobileId": 13884,
+      "phonetic": "いちなみ",
+      "word": "一浪"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab60570",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "waves in narrow straits"
+        }
+      ],
+      "mobileId": 229220,
+      "phonetic": "となみ",
+      "word": "門浪"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fd2367c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "tên gọi cũ của vùng Osaka"
+        }
+      ],
+      "mobileId": 188390,
+      "phonetic": "なにわ",
+      "word": "浪華"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

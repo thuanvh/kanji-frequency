@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a64ca24",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "人）が直面しているトラブルについては知る由もない",
+              "mean": "chẳng có lý do gì để biết về những rắc rối mà con người đang đối mặt. .",
+              "transcription": "ひと）がちょくめんしているトラブルについてはしるよしもない"
+            }
+          ],
+          "kind": "n",
+          "mean": "lý do; nguyên nhân"
+        }
+      ],
+      "mobileId": 171992,
+      "phonetic": "よし",
+      "related_words": {
+        "word": [
+          "自由",
+          "理由",
+          "経由",
+          "自由民主党",
+          "由来",
+          "自由な",
+          "自由席",
+          "自由に",
+          "自由度",
+          "事由"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "由",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "由縁",
+                "訳",
+                "原由",
+                "理窟",
+                "事由",
+                "所為",
+                "理屈",
+                "理由",
+                "道理",
+                "由来",
+                "筋合い",
+                "筋合",
+                "根拠",
+                "謂れ",
+                "所以"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "訳",
+                "事由",
+                "所為",
+                "理屈",
+                "理由",
+                "筋合い",
+                "筋合",
+                "根拠",
+                "事情",
+                "所以"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仕方",
+                "仕様",
+                "途方",
+                "方法",
+                "手段",
+                "やり方"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "拠所",
+                "理由",
+                "証拠",
+                "証",
+                "根拠",
+                "裏付",
+                "裏付け",
+                "証明"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "由"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ce56b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "tôi nghe thấy that..."
+        }
+      ],
+      "mobileId": 62686,
+      "phonetic": "こうゆかり",
+      "word": "候由"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda4157c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "(của) hàng dãy(của) dòng quý tộc"
+        }
+      ],
+      "mobileId": 74035,
+      "phonetic": "よしある",
+      "word": "由有る"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada855616",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nguyên do; nguyên nhân; lý do ."
+        }
+      ],
+      "mobileId": 79137,
+      "phonetic": "げんゆう",
+      "related_words": {
+        "word": [
+          "原",
+          "由"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "原由",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "由縁",
+                "訳",
+                "理窟",
+                "事由",
+                "所為",
+                "理屈",
+                "理由",
+                "道理",
+                "由来",
+                "筋合い",
+                "筋合",
+                "根拠",
+                "謂れ",
+                "由",
+                "所以"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "原由"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9ffaf9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "meaningful, suggestive, seeming to be with a history, seeming to be with circumstances that are hard to explain"
+        }
+      ],
+      "mobileId": 228513,
+      "phonetic": "よしありげ",
+      "word": "由ありげ"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a305a0a",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp",
+          "mean": "không có cách nào để biết, hoàn toàn không biết gì về"
+        }
+      ],
+      "mobileId": 224959,
+      "phonetic": "しるよしもない",
+      "word": "知る由もない"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed87af9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(Phật) đơn vị số cực lớn\r\n(Phạn ngữ) đơn vị đếm, 10^72"
+        }
+      ],
+      "mobileId": 117936,
+      "phonetic": "",
+      "word": "那由他"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

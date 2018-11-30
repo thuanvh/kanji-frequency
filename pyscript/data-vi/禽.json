@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0802ca7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "iguanadon"
+        }
+      ],
+      "mobileId": 285041,
+      "phonetic": "きんりゅう",
+      "word": "禽竜"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6da3adfd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "birds"
+        }
+      ],
+      "mobileId": 220377,
+      "phonetic": "きんるい",
+      "word": "禽類"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e828dec0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chuồng [lồng] chim; chuồng gà"
+        }
+      ],
+      "mobileId": 34808,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "舎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "禽舎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鳥屋",
+                "鶏舎"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "禽舎"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82c248d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con chim; chim, loài chim"
+        }
+      ],
+      "mobileId": 34917,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "鳥"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "禽鳥",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "小鳥",
+                "鳥類",
+                "鳥"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "禽鳥"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e8291c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "climbers (birds formerly grouped in order Scansores)"
+        }
+      ],
+      "mobileId": 252238,
+      "phonetic": "はんきんるい",
+      "word": "攀禽類"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

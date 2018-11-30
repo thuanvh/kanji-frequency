@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0758846",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-nari",
+          "mean": "superb, outstanding"
+        }
+      ],
+      "mobileId": 284723,
+      "phonetic": "ゆう",
+      "word": "尤"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd873ad3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự có vẻ hợp lý, sự có vẻ đúng, sự có vẻ ngay thẳng, sự có vẻ đáng tin cậy"
+        }
+      ],
+      "mobileId": 73085,
+      "phonetic": "ゆうど",
+      "related_words": {
+        "word": [
+          "度"
+        ]
+      },
+      "word": "尤度"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8764f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-pn",
+          "mean": "tráng lệ; nổi bật"
+        }
+      ],
+      "mobileId": 73094,
+      "phonetic": "ゆうなる",
+      "word": "尤なる"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e9c343a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese god of war."
+        }
+      ],
+      "mobileId": 253081,
+      "phonetic": "しゆう",
+      "word": "蚩尤"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0756e8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "log-likelihood"
+        }
+      ],
+      "mobileId": 284719,
+      "phonetic": "たいすうゆうど",
+      "word": "対数尤度"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9664060",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "likelihood ratio test"
+        }
+      ],
+      "mobileId": 275995,
+      "phonetic": "ゆうどひけんてい",
+      "word": "尤度比検定"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0a8547",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bạn (thì) khá phải(đúng)"
+        }
+      ],
+      "mobileId": 146084,
+      "phonetic": "ごゆうも",
+      "word": "ご尤も"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96627f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "likelihood function"
+        }
+      ],
+      "mobileId": 275992,
+      "phonetic": "ゆうどかんすう",
+      "word": "尤度関数"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9662e58",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "likelihood ratio"
+        }
+      ],
+      "mobileId": 275993,
+      "phonetic": "ゆうどひ",
+      "word": "尤度比"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0a7a0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "bạn (thì) khá phải(đúng)"
+        }
+      ],
+      "mobileId": 146083,
+      "phonetic": "ごゆうも",
+      "word": "御尤も"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

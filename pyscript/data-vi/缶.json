@@ -1,0 +1,177 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027377ed5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "冷蔵庫から缶ビールを1本取り出す",
+              "mean": "lấy một lon bia từ tủ lạnh ra",
+              "transcription": "れいぞうこからかんビールを1ほんとりだす"
+            },
+            {
+              "content": "つや出しのスプレー缶",
+              "mean": "Bình phun nước đánh bóng",
+              "transcription": "つやだしのスプレーかん"
+            },
+            {
+              "content": "カーワックス缶",
+              "mean": "Bình sáp",
+              "transcription": "カーワックスかん"
+            },
+            {
+              "content": "カボチャの煮込み缶",
+              "mean": "Cặp lồng đựng bí ngô hầm",
+              "transcription": "カボチャのにこみかん"
+            }
+          ],
+          "kind": "n",
+          "mean": "bi đông; ca; lon; cặp lồng"
+        }
+      ],
+      "mobileId": 30013,
+      "phonetic": "かん",
+      "related_words": {
+        "word": [
+          "缶詰",
+          "薬缶",
+          "缶ジュース",
+          "缶切り"
+        ]
+      },
+      "word": "缶"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ba231f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bia đóng hộp; có thể (của) bia"
+        }
+      ],
+      "mobileId": 23817,
+      "phonetic": "かんビール",
+      "related_words": {
+        "word": [
+          "ビール",
+          "缶"
+        ]
+      },
+      "word": "缶ビール"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b26550",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "opening a can"
+        }
+      ],
+      "mobileId": 270250,
+      "phonetic": "かいかん",
+      "word": "開缶"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ba0ae6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước trái cây đóng hộp, nước quả đóng hộp"
+        }
+      ],
+      "mobileId": 23815,
+      "phonetic": "かんジュース",
+      "related_words": {
+        "word": [
+          "ジュース",
+          "缶"
+        ]
+      },
+      "word": "缶ジュース"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6ddbeb2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "canned coffee"
+        }
+      ],
+      "mobileId": 222227,
+      "phonetic": "かんコーヒー",
+      "word": "缶コーヒー"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5b4f60",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "trò đá lon"
+        }
+      ],
+      "mobileId": 218025,
+      "phonetic": "かんけり",
+      "word": "缶蹴り"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937d8c0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cua bể đóng hộp"
+        }
+      ],
+      "mobileId": 21916,
+      "phonetic": "",
+      "word": "蠏缶"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e6e5de0",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Bình Oxy"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "さんそかん",
+      "word": "酸素缶"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77965586",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "food container (esp. for transport)"
+        }
+      ],
+      "mobileId": 269328,
+      "phonetic": "しょっかん",
+      "word": "食缶"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a87a88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "canned"
+        }
+      ],
+      "mobileId": 261663,
+      "phonetic": "かんいり",
+      "word": "缶入り"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

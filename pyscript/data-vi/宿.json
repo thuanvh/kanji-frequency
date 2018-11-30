@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1078df509",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ trọ; chỗ tạm trú ."
+        }
+      ],
+      "mobileId": 54255,
+      "phonetic": "やど",
+      "related_words": {
+        "word": [
+          "宿題",
+          "宿泊",
+          "合宿",
+          "宿命",
+          "宿泊先",
+          "宿舎",
+          "宿屋",
+          "下宿",
+          "宿る",
+          "寄宿舎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "宿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "イン",
+                "ロッジ",
+                "宿舎",
+                "旅館",
+                "宿屋",
+                "ホステル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "居",
+                "居所",
+                "住み処",
+                "館",
+                "家宅",
+                "戸",
+                "人屋",
+                "住居",
+                "家屋",
+                "人家",
+                "住宅",
+                "住家",
+                "家",
+                "令堂",
+                "住みか"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "下宿"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "宿舎",
+                "旅館",
+                "ホテル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "宿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a589be0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese \"ghost\" constellation (one of the 28 mansions)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "\"day of the ghost\""
+        }
+      ],
+      "mobileId": 226240,
+      "phonetic": "きしゅく",
+      "word": "鬼宿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a594bc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese \"winnowing basket\" constellation (one of the 28 mansions)"
+        }
+      ],
+      "mobileId": 226259,
+      "phonetic": "みぼし",
+      "word": "箕宿"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f0fe14",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nghỉ tạm qua đêm"
+        }
+      ],
+      "mobileId": 63811,
+      "phonetic": "たいしょうやど",
+      "word": "隊商宿"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08d8a51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "star of fate, a zodiac"
+        }
+      ],
+      "mobileId": 211392,
+      "phonetic": "しゅくせい",
+      "word": "宿星"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683242e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hang trò cờ bạc ((sự) may rủi)"
+        }
+      ],
+      "mobileId": 1629,
+      "phonetic": "ばくえきやど",
+      "related_words": {
+        "word": [
+          "博",
+          "宿"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "博奕宿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "寺"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "博奕宿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5879f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese \"horn\" constellation (one of the 28 mansions)"
+        }
+      ],
+      "mobileId": 226237,
+      "phonetic": "すぼし",
+      "word": "角宿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a589413",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese \"rooftop\" constellation (one of the 28 mansions)"
+        }
+      ],
+      "mobileId": 226239,
+      "phonetic": "うみやめぼし",
+      "word": "危宿"
+    },
+    {
+      "_id": "432518852de0a80625d585a982650e1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "free lodging (for pilgrims, etc.)"
+        }
+      ],
+      "mobileId": 234832,
+      "phonetic": "ぜんこんやど",
+      "word": "善根宿"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ac0ff0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "old grudge, old score"
+        }
+      ],
+      "mobileId": 212372,
+      "phonetic": "しゅくこん しゅっこん",
+      "word": "宿恨"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

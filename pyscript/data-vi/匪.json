@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6839aac0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự phủ định; người xấu"
+        }
+      ],
+      "mobileId": 1870,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "匪",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "否",
+                "打ち消し",
+                "否定",
+                "打消"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "匪"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6841c20e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tự hy sinh dịch vụ"
+        }
+      ],
+      "mobileId": 2122,
+      "phonetic": "",
+      "word": "匪躬"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68484b55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bọn đầu trộm đuôi cướp; bọn phỉ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "being shot"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "being bombed"
+        }
+      ],
+      "mobileId": 2333,
+      "phonetic": "",
+      "word": "匪団"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ac69df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những kẻ cướp"
+        }
+      ],
+      "mobileId": 5490,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "兵"
+        ]
+      },
+      "word": "兵匪"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dcc12e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ăn;(một có) sự ăn kiêng; thức ăn; foodstuff(s)"
+        }
+      ],
+      "mobileId": 152234,
+      "phonetic": "しょく",
+      "related_words": {
+        "word": [
+          "食事",
+          "昼食",
+          "食べる",
+          "日食",
+          "皆既日食",
+          "朝食",
+          "夕食",
+          "食べ物",
+          "食堂",
+          "食べ放題"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "食",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一飲み",
+                "含み",
+                "一口"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "食べること",
+                "摂食"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "食"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdbf9609",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thức ăn vụ trụ"
+        }
+      ],
+      "mobileId": 15851,
+      "phonetic": "うちゅうしょく",
+      "related_words": {
+        "word": [
+          "宇宙",
+          "食"
+        ]
+      },
+      "word": "宇宙食"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7b0610",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bread-centered diet (as opposed to rice)"
+        }
+      ],
+      "mobileId": 227318,
+      "phonetic": "パンしょく",
+      "word": "パン食"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b070e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "meal (esp. dinner) served in one's room (at a ryokan)"
+        }
+      ],
+      "mobileId": 286605,
+      "phonetic": "へやしょく",
+      "word": "部屋食"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0184c5a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional food, ancestral food"
+        }
+      ],
+      "mobileId": 281736,
+      "phonetic": "でんとうしょく",
+      "word": "伝統食"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04cd694",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "entomophagy, insect eating"
+        }
+      ],
+      "mobileId": 283419,
+      "phonetic": "こんちゅうしょく",
+      "word": "昆虫食"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e818a7cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "từ chối lời mời"
+        }
+      ],
+      "mobileId": 34284,
+      "phonetic": "",
+      "word": "拒食"
+    },
+    {
+      "_id": "432518852de0a80625d585a98238f3f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "edible mushroom"
+        }
+      ],
+      "mobileId": 233423,
+      "phonetic": "しょくきん",
+      "word": "食菌"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02e4858",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "glacial scouring, glacial erosion, glacial abrasion"
+        }
+      ],
+      "mobileId": 208339,
+      "phonetic": "ひょうしょく",
+      "word": "氷食"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99c0e1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "therapeutic diet, therapeutic food"
+        }
+      ],
+      "mobileId": 277712,
+      "phonetic": "ちりょうしょく",
+      "word": "治療食"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

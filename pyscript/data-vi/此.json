@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f0104e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn, adj-pn",
+          "mean": "this (indicating an item near the speaker, the action of the speaker, or the current topic)"
+        }
+      ],
+      "mobileId": 280440,
+      "phonetic": "こん",
+      "word": "此"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f56fc8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đây và cái đó; such và such"
+        }
+      ],
+      "mobileId": 41367,
+      "phonetic": "",
+      "word": "此れ此れ"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d65cf06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "these guys, these fellows"
+        }
+      ],
+      "mobileId": 218372,
+      "phonetic": "こいつら",
+      "word": "此奴ら"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3e9c89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "this and that"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "this person and that person, anybody"
+        }
+      ],
+      "mobileId": 217101,
+      "phonetic": "これかれ",
+      "word": "此彼"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02cb056",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-adv, n-t",
+          "mean": "the other day, lately, recently"
+        }
+      ],
+      "mobileId": 200071,
+      "phonetic": "こないだ",
+      "word": "此間"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f8d7d29",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "申しわけございませんが，こちらでは輸入品は扱っておりません。",
+              "mean": "Xin lỗi nhưng chúng tôi không có hàng nhập khẩu.",
+              "transcription": "もうしわけございませんが，こちらではゆにゅうひんはあつかっておりません。"
+            },
+            {
+              "content": "後でこちらから電話します。",
+              "mean": "Sau đây tôi sẽ xin gọi điện đến.",
+              "transcription": "あとでこちらからでんわします。"
+            },
+            {
+              "content": "学校は川のこちら側にある。",
+              "mean": "Trường ở phía bên này sông.",
+              "transcription": "がっこうはかわのこちらがわにある。"
+            },
+            {
+              "content": "こちらへどうぞ。",
+              "mean": "Xin mời đi hướng này.",
+              "transcription": "こちらへどうぞ。"
+            },
+            {
+              "content": "こちらは先ほどお話した加古さんです。",
+              "mean": "Vị này là ông Kako mà tôi đã có dịp nhắc đến.",
+              "transcription": "こちらはさきほどおはなししたかこさんです。"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "phía này; bên này; hướng này; tôi; chúng tôi"
+        }
+      ],
+      "mobileId": 187209,
+      "opposite_word": [
+        "彼方"
+      ],
+      "phonetic": "こちら",
+      "related_words": {
+        "word": [
+          "方"
+        ]
+      },
+      "word": "此方"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a671e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn, adj-no",
+          "mean": "gã này; anh chàng này; người này"
+        }
+      ],
+      "mobileId": 38816,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "奴"
+        ]
+      },
+      "word": "此奴"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d555dbc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thế giới này, thế gian này"
+        }
+      ],
+      "mobileId": 148450,
+      "opposite_word": [
+        "彼岸",
+        "現し世",
+        "肉界",
+        "娑婆"
+      ],
+      "phonetic": "",
+      "word": "此岸"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e407ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn",
+          "mean": "you"
+        }
+      ],
+      "mobileId": 263550,
+      "phonetic": "こなさま こなたさま",
+      "word": "此様"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f8cd4a5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "これがインドで撮った写真です。",
+              "mean": "Đây lá bức ảnh chụp ở Ấn Độ.",
+              "transcription": "これがインドでとったしゃしんです。"
+            }
+          ],
+          "kind": "pn",
+          "mean": "cái này; đây"
+        },
+        {
+          "examples": [
+            {
+              "content": "これ，子どもたち，静かにしなさい。",
+              "mean": "Này, mấy cậu bé, yên lặng đi.",
+              "transcription": "これ，こどもたち，しずかにしなさい。"
+            }
+          ],
+          "kind": "pn",
+          "mean": "này (tiếng gọi)"
+        }
+      ],
+      "mobileId": 187205,
+      "phonetic": "これ",
+      "word": "此れ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

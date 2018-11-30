@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7bbe076",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "飼育係は像の鎖をはずした。",
+              "mean": "Người nuôi thú đã tháo xích của con voi ra.",
+              "transcription": "しいくがかりはぞうのくさりをはずした。"
+            },
+            {
+              "content": "犬を鎖で繋いでください。",
+              "mean": "Hãy xích con chó lại.",
+              "transcription": "いぬをくさりでつないでください。"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái xích; xích"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xiềng ."
+        }
+      ],
+      "mobileId": 109897,
+      "phonetic": "くさり",
+      "related_words": {
+        "word": [
+          "閉鎖",
+          "連鎖",
+          "鎖骨",
+          "鎖国",
+          "封鎖"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鎖",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "絆",
+                "鎹"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "チェイン",
+                "チェーン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "脈",
+                "チェイン",
+                "チェーン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鎖"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84917a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buộc (xích) may"
+        }
+      ],
+      "mobileId": 35843,
+      "phonetic": "くさりあみ",
+      "word": "鎖編み"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8491d30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dây chuyền (của) chỉ, sợi"
+        }
+      ],
+      "mobileId": 35844,
+      "phonetic": "くさりいと",
+      "word": "鎖糸"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cf980f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hóa học đứng bên dây chuyền"
+        }
+      ],
+      "mobileId": 62729,
+      "phonetic": "がわくさり",
+      "word": "側鎖"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0ad2161",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ninja weighted chain weapon"
+        }
+      ],
+      "mobileId": 212408,
+      "phonetic": "まんりきぐさり",
+      "word": "万力鎖"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a92f61",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f, adj-no",
+          "mean": "straight-chain, open-chain, acyclic, linear"
+        }
+      ],
+      "mobileId": 269948,
+      "phonetic": "ちょくさ",
+      "word": "直鎖"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8492e82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buộc (xích) (của) những cúp để trang trí treo từ một ống máng"
+        }
+      ],
+      "mobileId": 35846,
+      "phonetic": "くさりとい",
+      "word": "鎖樋"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7bbe712",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự truyền động bằng xích ."
+        }
+      ],
+      "mobileId": 109898,
+      "phonetic": "くさりでんどう",
+      "word": "鎖伝動"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7720a013",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "silent chain"
+        }
+      ],
+      "mobileId": 265515,
+      "phonetic": "サイレントぐさり",
+      "word": "サイレント鎖"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7720b75c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sprocket wheel"
+        }
+      ],
+      "mobileId": 265517,
+      "phonetic": "くさりぐるま",
+      "word": "鎖車"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

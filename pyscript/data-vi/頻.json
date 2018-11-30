@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e2d5f0c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adv",
+          "mean": "không ngừng nghỉ, không dừng lại"
+        }
+      ],
+      "mobileId": 249489,
+      "phonetic": "しくしく",
+      "word": "頻く頻く"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e08d064",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "frequent"
+        }
+      ],
+      "mobileId": 248280,
+      "phonetic": "ひんかい",
+      "word": "頻回"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801166afb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tần số ."
+        }
+      ],
+      "mobileId": 42144,
+      "phonetic": "ひんすう",
+      "word": "頻数"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e23359c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tachycardia"
+        }
+      ],
+      "mobileId": 249149,
+      "phonetic": "ひんみゃく",
+      "word": "頻脈"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68647427",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "từ loại"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự chết, chết; hấp hối, thốt ra lúc chết, sắp tàn"
+        }
+      ],
+      "mobileId": 3207,
+      "phonetic": "しきし",
+      "word": "頻死"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6864de0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chứng đi tiểu lắt nhắt nhiều lần"
+        }
+      ],
+      "mobileId": 3219,
+      "phonetic": "しきにょう",
+      "word": "頻尿"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c016f4cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vi",
+          "mean": "to occur repeatedly, to be repeated"
+        }
+      ],
+      "mobileId": 189883,
+      "phonetic": "しく",
+      "word": "頻く"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b682442",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mode"
+        }
+      ],
+      "mobileId": 243176,
+      "phonetic": "さいひんち",
+      "word": "最頻値"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

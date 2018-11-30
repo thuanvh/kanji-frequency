@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e41cbb5",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người vắt sữa; máy vắt sữa, bò sữa"
+        }
+      ],
+      "mobileId": 113133,
+      "phonetic": "",
+      "word": "乳窄"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027c99538",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "cũ nát; rách nát; tơi tả; nghèo đói ."
+        }
+      ],
+      "mobileId": 32640,
+      "phonetic": "みすぼらしい",
+      "word": "見窄らしい"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00f2434",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "atypical coarctation of aorta"
+        }
+      ],
+      "mobileId": 281446,
+      "phonetic": "いけいだいどうみゃくしゅくさくしょう",
+      "word": "異型大動脈縮窄症"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

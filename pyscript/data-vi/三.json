@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1db63a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "私たちは一つのシーンのために三つぐらい別のことをしました。",
+              "mean": "Chúng ta đã làm ba việc khác nhau cho một cảnh",
+              "transcription": "わたしたちはひとつのシーンのためにみっつぐらいべつのことをしました。"
+            },
+            {
+              "content": "三々五々集まる",
+              "mean": "Tụ tập ba hoặc năm người",
+              "transcription": "さんさんごごあつまる"
+            }
+          ],
+          "kind": "num",
+          "mean": "ba"
+        }
+      ],
+      "mobileId": 141817,
+      "phonetic": "さん",
+      "related_words": {
+        "word": [
+          "三日月",
+          "三角",
+          "三月",
+          "三角形",
+          "第三者",
+          "三重",
+          "三角関係",
+          "三回",
+          "三次元",
+          "三番"
+        ]
+      },
+      "word": "三"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1dc965",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "子牛とガチョウとミツバチ。世界はこの三つに支配されている",
+              "mean": "Thế giới được thống trị bởi ba loài",
+              "transcription": "こうしとガチョウとミツバチ。せかいはこのみっつにしはいされている"
+            },
+            {
+              "content": "三つに分かれた形",
+              "mean": "Hình dạng được chia làm ba phần",
+              "transcription": "みっつにわかれたかたち"
+            }
+          ],
+          "kind": "num",
+          "mean": "ba"
+        }
+      ],
+      "mobileId": 141818,
+      "phonetic": "み",
+      "related_words": {
+        "word": [
+          "三日月",
+          "三角",
+          "三月",
+          "三角形",
+          "第三者",
+          "三重",
+          "三角関係",
+          "三回",
+          "三次元",
+          "三番"
+        ]
+      },
+      "word": "三"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3b3360",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ba mươi ba miếu đi hành hương"
+        }
+      ],
+      "mobileId": 147613,
+      "phonetic": "さんじゅうさんしょ",
+      "word": "三十三所"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd1c2dff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "3 ngày và những 3 đêm"
+        }
+      ],
+      "mobileId": 69694,
+      "phonetic": "さんにちさんばん",
+      "word": "三日三晩"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd1c3bf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "3 ngày và những 3 đêm"
+        }
+      ],
+      "mobileId": 69695,
+      "phonetic": "さんにちさんや",
+      "word": "三日三夜"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e363be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na, adj-no",
+          "mean": "each of the three being different from the other two, each of the three having his (her) own way"
+        }
+      ],
+      "mobileId": 280029,
+      "phonetic": "さんにんさんよう",
+      "word": "三人三様"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f6ed6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "32nd anniversary of death"
+        }
+      ],
+      "mobileId": 280657,
+      "phonetic": "さんじゅうさんかいき",
+      "word": "三十三回忌"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d389c9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trao đổi (của) hôn nhân những cúp"
+        }
+      ],
+      "mobileId": 147531,
+      "phonetic": "さんさんきゅうど",
+      "related_words": {
+        "word": [
+          "度",
+          "三"
+        ]
+      },
+      "word": "三三九度"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d38a25a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "bên trong nhóm lại (của) twos và threes"
+        }
+      ],
+      "mobileId": 147532,
+      "phonetic": "さんさんごご",
+      "related_words": {
+        "word": [
+          "三",
+          "五"
+        ]
+      },
+      "word": "三三五五"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d165138",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "each of the three being different from the other two, each of the three having his (her) own way"
+        }
+      ],
+      "mobileId": 215810,
+      "phonetic": "さんしゃさんよう",
+      "word": "三者三様"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

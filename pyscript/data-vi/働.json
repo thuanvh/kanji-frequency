@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d40acf33",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "働く",
+              "mean": "Làm việc",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Làm việc"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "働"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80e17cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "(sinh học); tác động kép; cùng tác động; cùng hoạt động"
+        }
+      ],
+      "mobileId": 33945,
+      "phonetic": "",
+      "word": "共働"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0abebb0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "work after retirement age, work to supplement an insufficient pension"
+        }
+      ],
+      "mobileId": 286456,
+      "phonetic": "ろうどう",
+      "word": "老働"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80e2069",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hợp tác"
+        }
+      ],
+      "mobileId": 33946,
+      "phonetic": "",
+      "word": "協働"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95220f95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ số (của) sức ép trái đất bị động"
+        }
+      ],
+      "mobileId": 57189,
+      "phonetic": "",
+      "word": "受働土圧係数"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dad26d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ số (của) áp lực đất chủ động"
+        }
+      ],
+      "mobileId": 151218,
+      "phonetic": "",
+      "word": "主働土圧係数"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

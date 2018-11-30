@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f534a54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xiềng xích ."
+        }
+      ],
+      "mobileId": 186360,
+      "phonetic": "かせ",
+      "related_words": {
+        "word": [
+          "足枷",
+          "手枷"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "枷",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "拘束"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "緒",
+                "糸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "枷"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6deacf47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(mouth) gag, muzzle"
+        }
+      ],
+      "mobileId": 222718,
+      "phonetic": "くちかせ",
+      "word": "口枷"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0c3333",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Epimenia verrucosa (mollusc)"
+        }
+      ],
+      "mobileId": 248383,
+      "phonetic": "かせみみず",
+      "word": "枷蚯蚓"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f534f51",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xiềng ."
+        }
+      ],
+      "mobileId": 186361,
+      "phonetic": "かせをかける",
+      "word": "枷をかける"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

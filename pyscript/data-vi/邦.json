@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e852008f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nước"
+        }
+      ],
+      "mobileId": 36130,
+      "phonetic": "くに",
+      "related_words": {
+        "word": [
+          "異邦人",
+          "邦楽",
+          "連邦",
+          "邦画",
+          "邦人",
+          "ドイツ連邦共和国",
+          "本邦",
+          "連邦捜査局",
+          "邦貨",
+          "東邦"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "邦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "国"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "邦"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8008abe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước cũ (già)"
+        }
+      ],
+      "mobileId": 33492,
+      "phonetic": "きゅうくに",
+      "word": "旧邦"
+    },
+    {
+      "_id": "432518852de0a80625d585a982670a4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese ship"
+        }
+      ],
+      "mobileId": 234892,
+      "phonetic": "ほうせん",
+      "word": "邦船"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebf4d7d",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "cùng nước đó"
+        }
+      ],
+      "mobileId": 117156,
+      "phonetic": "どうくに",
+      "related_words": {
+        "word": [
+          "同",
+          "邦"
+        ]
+      },
+      "word": "同邦"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada733225",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Liên bang Nam Phi ."
+        }
+      ],
+      "mobileId": 78904,
+      "phonetic": "なんあれんぽう",
+      "related_words": {
+        "word": [
+          "南",
+          "連",
+          "連邦",
+          "邦"
+        ]
+      },
+      "word": "南阿連邦"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09f3182",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "death by hanging"
+        }
+      ],
+      "mobileId": 211966,
+      "phonetic": "こうけい",
+      "word": "絞刑"
+    },
+    {
+      "_id": "622cc39a952b667c2efb0cae5efc5607",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "(giống 絞り込む)",
+              "mean": "",
+              "transcription": ""
+            }
+          ],
+          "kind": "",
+          "mean": "thu hẹp phạm vi, chọn lọc"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "しぼりこむ",
+      "word": "絞込む"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b3012f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hành hình bằng hình thức treo cổ; tội đáng bị treo cổ"
+        }
+      ],
+      "mobileId": 39213,
+      "phonetic": "しぼつみ",
+      "word": "絞罪"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ec658e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "strangulation, constriction, entrapment"
+        }
+      ],
+      "mobileId": 280320,
+      "phonetic": "こうやく",
+      "word": "絞扼"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09f3ea2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hangman"
+        }
+      ],
+      "mobileId": 211967,
+      "phonetic": "こうけいり",
+      "word": "絞刑吏"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

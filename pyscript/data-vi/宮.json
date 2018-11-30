@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d46bcd2",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "đền thờ"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "cung điện, dinh thự"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "thành viên của gia đình hoàng tộc"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "đền thờ"
+        }
+      ],
+      "mobileId": 217350,
+      "phonetic": "みや",
+      "word": "宮"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af2f9b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sagittarius (9th zodiacal sign), the Archer"
+        }
+      ],
+      "mobileId": 231209,
+      "phonetic": "きしゃきゅう",
+      "word": "騎射宮"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09f8577",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "moon palace of the Hindu god Chandra"
+        }
+      ],
+      "mobileId": 286048,
+      "phonetic": "げっきゅう がっくう がっく",
+      "word": "月宮"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ad9e5d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hậu cung"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cung, điện; lâu đài, chỗ ở chính thức, quán ăn trang trí loè loẹt, tiệm rượu trang trí loè loẹt"
+        }
+      ],
+      "mobileId": 39040,
+      "phonetic": "きさきみや",
+      "related_words": {
+        "word": [
+          "后"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "后宮",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ハレム",
+                "内廷"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "館",
+                "パレス",
+                "御殿",
+                "御所",
+                "王宮",
+                "宮殿",
+                "殿",
+                "九天"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "后宮"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04e9cca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Imperial surname, title borne by a prince of the blood as a head of a house"
+        }
+      ],
+      "mobileId": 283476,
+      "phonetic": "みやごう",
+      "word": "宮号"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af2dd91",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Libra (7th zodiacal sign), the Scales"
+        }
+      ],
+      "mobileId": 231206,
+      "phonetic": "てんびんきゅう",
+      "word": "天秤宮"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825031ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "organization of shrine parishioners in a hamlet, parish guild"
+        }
+      ],
+      "mobileId": 234163,
+      "phonetic": "みやざ",
+      "word": "宮座"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771112d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "empress's residence"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "empress"
+        }
+      ],
+      "mobileId": 265004,
+      "phonetic": "こうごうぐう",
+      "word": "皇后宮"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fd87ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Heian Imperial Palace"
+        }
+      ],
+      "mobileId": 264381,
+      "phonetic": "へいあんきゅう",
+      "word": "平安宮"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fd4fd9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lâu đài; sân"
+        }
+      ],
+      "mobileId": 25951,
+      "phonetic": "みやにわ",
+      "word": "宮庭"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

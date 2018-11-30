@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107f9c617",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái cung"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cung ."
+        }
+      ],
+      "mobileId": 56012,
+      "phonetic": "ゆみ",
+      "related_words": {
+        "word": [
+          "弓道",
+          "弓矢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "弓",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "アーク"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "弓"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd26836",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kỹ thuật kéo vĩ (các nhạc cụ có dây như viôlông ...)"
+        }
+      ],
+      "mobileId": 16422,
+      "phonetic": "うんゆみ",
+      "word": "運弓"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f6d29f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "các thứ được sử dụng trong sự bắn cung"
+        }
+      ],
+      "mobileId": 25740,
+      "phonetic": "ゆみぐ",
+      "word": "弓具"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada12980e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cung nội tạng ."
+        }
+      ],
+      "mobileId": 77191,
+      "phonetic": "ないぞうきゅう",
+      "word": "内臓弓"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9132e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự giương cung; đèn lồng giấy có cần điều khiển hình cung tên"
+        }
+      ],
+      "mobileId": 73429,
+      "phonetic": "ゆみばり",
+      "word": "弓張り"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b2b5e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "up-bow (technique used when playing a string instrument)"
+        }
+      ],
+      "mobileId": 261998,
+      "phonetic": "あげゆみ",
+      "word": "上げ弓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7743f581",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prize archery"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "imperial archery event held annually on the 18th day of the first lunar month (Heian period)"
+        }
+      ],
+      "mobileId": 266655,
+      "phonetic": "のりゆみ",
+      "word": "賭弓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77468883",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pharyngeal arch"
+        }
+      ],
+      "mobileId": 266730,
+      "phonetic": "いんとうきゅう",
+      "word": "咽頭弓"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9003e9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fornix (of the brain), fornix cerebri"
+        }
+      ],
+      "mobileId": 272767,
+      "phonetic": "のうきゅう",
+      "word": "脳弓"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fa8e62",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n, adj-no",
+          "mean": "cong, uốn vòng cung, hình vòm, có khung vòm, có khung tò vò, có nhịp cuốn"
+        }
+      ],
+      "mobileId": 25861,
+      "phonetic": "きゅう じょう",
+      "word": "弓状"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

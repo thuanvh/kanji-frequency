@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4d5b73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "self deprecating first person pronoun used by the elderly"
+        }
+      ],
+      "mobileId": 225894,
+      "phonetic": "うそう",
+      "word": "迂叟"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4d5930",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "poor and careless way of living"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "self deprecating first person pronoun"
+        }
+      ],
+      "mobileId": 225893,
+      "phonetic": "うせつ",
+      "word": "迂拙"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb3171d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mạn phải (của tàu, thuyền...), bát"
+        }
+      ],
+      "mobileId": 15478,
+      "phonetic": "まがげん",
+      "word": "迂言"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb7e377",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bài hát"
+        }
+      ],
+      "mobileId": 15621,
+      "phonetic": "うた",
+      "related_words": {
+        "word": [
+          "唄う"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "唄",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "歌謡",
+                "歌唱",
+                "唱歌",
+                "歌",
+                "歌曲",
+                "シャソン",
+                "演歌",
+                "ソング",
+                "歌謡曲"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "バラード"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "唄"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1076a0de6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bài hát ru ."
+        }
+      ],
+      "mobileId": 53660,
+      "phonetic": "こもりうた",
+      "related_words": {
+        "word": [
+          "子",
+          "守",
+          "唄",
+          "子守"
+        ]
+      },
+      "word": "子守唄"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d892806",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional Okinawan folk music"
+        }
+      ],
+      "mobileId": 219510,
+      "phonetic": "しまうた",
+      "word": "島唄"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e856b516",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bản nhạc hỗn hợp (Nhật)"
+        }
+      ],
+      "mobileId": 36283,
+      "phonetic": "くみうた",
+      "word": "組み唄"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d56e87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bon Festival dance song"
+        }
+      ],
+      "mobileId": 271392,
+      "phonetic": "ぼんおどりうた",
+      "word": "盆踊り唄"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91da5f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "singer in a nagauta performance"
+        }
+      ],
+      "mobileId": 273720,
+      "phonetic": "うたかた",
+      "word": "唄方"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

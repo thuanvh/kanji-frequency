@@ -1,0 +1,231 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280275d86d0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "植物油脂",
+              "mean": "Mỡ và dầu thực vật",
+              "transcription": "しょくぶつゆし"
+            },
+            {
+              "content": "この肉は脂が多過ぎる。",
+              "mean": "Miếng thịt này quá mỡ",
+              "transcription": "このにくはあぶらがおおすぎる。"
+            }
+          ],
+          "kind": "n",
+          "mean": "mỡ; sự khoái trá; sự thích thú"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼は脂の乗り切った年頃だ.",
+              "mean": "Anh ta đang tràn trề nhựa sống (=ở trong thời kỳ đẹp nhất của cuộc đời (tuổi trưởng thành))",
+              "transcription": "かれはあぶらののりきったとしごろだ."
+            },
+            {
+              "content": "秋に捕れたサンマの身は特に脂が乗っています",
+              "mean": "Thịt của \"samma\"bắt vào mùa thu thì đặc biệt nhiều nước .",
+              "transcription": "あきにとれたサンマのみはとくにあぶらがのっています"
+            }
+          ],
+          "kind": "n",
+          "mean": "nhựa cây"
+        }
+      ],
+      "mobileId": 30662,
+      "phonetic": "あぶら",
+      "related_words": {
+        "word": [
+          "樹脂",
+          "脂肪",
+          "油脂",
+          "合成樹脂",
+          "臙脂",
+          "脂肪酸",
+          "脂い",
+          "脂っこい",
+          "皮下脂肪",
+          "牛脂"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "脂",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "樹脂"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "油脂",
+                "脂身",
+                "脂肪"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ラード"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "脂"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822bfc18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "adipose fin"
+        }
+      ],
+      "mobileId": 233026,
+      "phonetic": "あぶらびれ",
+      "word": "脂鰭"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e66f25c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sebaceous gland"
+        }
+      ],
+      "mobileId": 251361,
+      "phonetic": "しせん",
+      "word": "脂腺"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e987cc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fatty oil"
+        }
+      ],
+      "mobileId": 252953,
+      "phonetic": "しゆ",
+      "word": "脂油"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280275d918e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj, uk",
+          "mean": "béo ngậy; ngấy mỡ; đầy mỡ ."
+        }
+      ],
+      "mobileId": 30663,
+      "phonetic": "あぶらっこい",
+      "related_words": {
+        "word": [
+          "濃い",
+          "脂"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "脂濃い",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "脂っこい"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "脂濃い"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd44d214",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "để trở thành trơn; để (thì) làm bẩn dầu"
+        }
+      ],
+      "mobileId": 11990,
+      "phonetic": "あぶらしみる",
+      "related_words": {
+        "word": [
+          "脂",
+          "染みる"
+        ]
+      },
+      "word": "脂染みる"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90329d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vernix, vernix caseosa"
+        }
+      ],
+      "mobileId": 272860,
+      "phonetic": "たいし",
+      "word": "胎脂"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89377bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mỡ cá voi, con sứa, nước mắt; sự khóc sưng cả mắt, thổn thức; khóc bù lu bù loa; khóc sưng cả mắt, vều, trề"
+        }
+      ],
+      "mobileId": 38216,
+      "phonetic": "くじらあぶら",
+      "word": "鯨脂"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef978117d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "back fat, fatty upper part of roast pork"
+        }
+      ],
+      "mobileId": 276566,
+      "phonetic": "せあぶら",
+      "word": "背脂"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776d7f6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bone fat"
+        }
+      ],
+      "mobileId": 267991,
+      "phonetic": "こっし",
+      "word": "骨脂"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

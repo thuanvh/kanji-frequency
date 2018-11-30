@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936beafa",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bướng bỉnh, cứng đầu cứng cổ, khó bảo; ngoan cố, dai dẳng, khó chữa"
+        }
+      ],
+      "mobileId": 21355,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "頑張る",
+          "頑張って！",
+          "頑固",
+          "頑丈",
+          "頑強"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "頑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一刻",
+                "固い",
+                "堅い",
+                "一徹"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "頑"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a497f63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv-to, adj-t",
+          "mean": "resolute"
+        }
+      ],
+      "mobileId": 225771,
+      "phonetic": "がんぜん",
+      "word": "頑然"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0248d57",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adj-na",
+          "mean": "bướng bỉnh"
+        }
+      ],
+      "mobileId": 208025,
+      "phonetic": "かたくな",
+      "word": "頑な"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7719d7d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "stubborn and mean, obstinate and bigoted"
+        }
+      ],
+      "mobileId": 265300,
+      "phonetic": "がんろう",
+      "word": "頑陋"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a543f85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "distinction between right and wrong"
+        }
+      ],
+      "mobileId": 226109,
+      "phonetic": "がんぜ",
+      "word": "頑是"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01cca41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "enstatite"
+        }
+      ],
+      "mobileId": 281875,
+      "phonetic": "がんかきせき",
+      "word": "頑火輝石"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cbc50c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người vô tội; bơ vơ"
+        }
+      ],
+      "mobileId": 24375,
+      "phonetic": "",
+      "word": "頑是ない"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

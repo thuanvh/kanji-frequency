@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fc9eed6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thời kỳ hồng hoang ."
+        }
+      ],
+      "mobileId": 188265,
+      "phonetic": "こうせき",
+      "word": "洪積"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fc9faf4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tầng lũ tích ."
+        }
+      ],
+      "mobileId": 188267,
+      "phonetic": "こうせきそう",
+      "related_words": {
+        "word": [
+          "層",
+          "積"
+        ]
+      },
+      "word": "洪積層"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b9296a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "to lớn, bao la"
+        }
+      ],
+      "mobileId": 39416,
+      "phonetic": "ひろしだい",
+      "word": "洪大"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0c95e9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hungary"
+        }
+      ],
+      "mobileId": 205105,
+      "phonetic": "ハンガリー",
+      "word": "洪牙利"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f090a01",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tình hữu nghị Nhật Bản - Hungary ."
+        }
+      ],
+      "mobileId": 185068,
+      "phonetic": "にっこうしんぜん",
+      "word": "日洪親善"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

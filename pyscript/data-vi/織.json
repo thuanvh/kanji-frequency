@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931ccf8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự dệt (vải); vải được dệt"
+        }
+      ],
+      "mobileId": 18842,
+      "phonetic": "お",
+      "word": "織"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dce9e6b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vải dệt"
+        }
+      ],
+      "mobileId": 152321,
+      "phonetic": "しょく ふ",
+      "word": "織布"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9deda6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "warp rib weave cotton fabric (from Kokura)"
+        }
+      ],
+      "mobileId": 263392,
+      "phonetic": "こくらおり",
+      "word": "小倉織"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014bc5c8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "麻織物",
+              "mean": "sợi lanh, vải lanh .",
+              "transcription": "あさおりもの"
+            }
+          ],
+          "kind": "n",
+          "mean": "Vải lanh"
+        }
+      ],
+      "mobileId": 43055,
+      "phonetic": "あさおり",
+      "related_words": {
+        "word": [
+          "麻"
+        ]
+      },
+      "word": "麻織"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be241245",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "jacquard dệt"
+        }
+      ],
+      "mobileId": 90440,
+      "phonetic": "ジャカードお",
+      "word": "ジャカード織"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be3ccde8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vải dệt sợi len mịn"
+        }
+      ],
+      "mobileId": 91229,
+      "phonetic": "パイルお",
+      "word": "パイル織"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dd3e3b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người dệt vải, thợ dệt"
+        }
+      ],
+      "mobileId": 152492,
+      "phonetic": "おこう",
+      "word": "織工"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027819709",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dệt hoa ."
+        }
+      ],
+      "mobileId": 31402,
+      "phonetic": "はなもようおり",
+      "word": "花模様織"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07d66b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Gunnai silk weaving"
+        }
+      ],
+      "mobileId": 284953,
+      "phonetic": "ぐんないおり",
+      "word": "郡内織"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959b0c71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cai trị bề mặt"
+        }
+      ],
+      "mobileId": 61041,
+      "phonetic": "せんおめん",
+      "word": "線織面"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

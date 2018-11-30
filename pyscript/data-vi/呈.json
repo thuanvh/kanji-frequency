@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7a3154",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tô màu; có màu; màu sắc"
+        }
+      ],
+      "mobileId": 114922,
+      "phonetic": "ていしょく",
+      "related_words": {
+        "word": [
+          "色"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "呈色",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "彩色",
+                "色艶",
+                "色彩",
+                "彩り",
+                "色合い",
+                "活気",
+                "光彩",
+                "生彩"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "彩色"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "風情",
+                "色艶",
+                "色",
+                "色彩",
+                "色合い",
+                "趣",
+                "外観",
+                "カラー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "呈色"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca059420e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "serving tea (esp. in tea ceremony)"
+        }
+      ],
+      "mobileId": 283827,
+      "phonetic": "ていちゃ",
+      "word": "呈茶"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd580e45",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự biểu diễn (của) một guidebook"
+        }
+      ],
+      "mobileId": 12601,
+      "phonetic": "あんないしょてい",
+      "word": "案内書呈"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

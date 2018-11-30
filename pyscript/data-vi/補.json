@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9231bf7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "assistant ..., probationary ..."
+        }
+      ],
+      "mobileId": 273885,
+      "phonetic": "ほ",
+      "word": "補"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682874bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trợ lý xét đoán; quan tòa - bên trong - huấn luyện"
+        }
+      ],
+      "mobileId": 1306,
+      "phonetic": "はんじほ",
+      "word": "判事補"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5d6b47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cofactor (biochemistry)"
+        }
+      ],
+      "mobileId": 251048,
+      "phonetic": "ほいんし",
+      "word": "補因子"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e503ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "complement (blood proteins)"
+        }
+      ],
+      "mobileId": 271898,
+      "phonetic": "ほたい",
+      "related_words": {
+        "word": [
+          "体"
+        ]
+      },
+      "word": "補体"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cedd0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(bóng chày) thêm ở trọ"
+        }
+      ],
+      "mobileId": 6599,
+      "phonetic": "ほかい",
+      "word": "補回"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d1b106",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dây bổ sung"
+        }
+      ],
+      "mobileId": 6690,
+      "phonetic": "ほつる",
+      "word": "補弦"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e5cb2ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coenzyme"
+        }
+      ],
+      "mobileId": 251026,
+      "phonetic": "ほこうそ",
+      "word": "補酵素"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68cf422b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tập sách bổ sung"
+        }
+      ],
+      "mobileId": 6611,
+      "phonetic": "ほまき",
+      "word": "補巻"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d3d830",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tập hợp bổ sung; sự bổ sung"
+        }
+      ],
+      "mobileId": 6763,
+      "phonetic": "ほしゅうごう",
+      "word": "補集合"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a69e4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "special imperial appointment"
+        }
+      ],
+      "mobileId": 286272,
+      "phonetic": "しんぽ",
+      "word": "親補"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

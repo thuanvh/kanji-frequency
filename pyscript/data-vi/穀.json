@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8d7ee62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "hạt ngũ cốc"
+        }
+      ],
+      "mobileId": 40427,
+      "phonetic": "こくつぶ",
+      "related_words": {
+        "word": [
+          "粒"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "穀粒",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "種"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "米麦",
+                "穀類",
+                "穀物",
+                "米穀",
+                "シリアル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "穀粒"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aff4a06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sago (edible sago palm starch)"
+        }
+      ],
+      "mobileId": 231616,
+      "phonetic": "サゴ",
+      "word": "沙穀"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f7abd4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chín loại ngũ cốc"
+        }
+      ],
+      "mobileId": 25772,
+      "phonetic": "きゅうこく",
+      "word": "九穀"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

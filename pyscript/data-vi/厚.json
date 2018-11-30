@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d060365",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "thickness"
+        }
+      ],
+      "mobileId": 215295,
+      "opposite_word": [
+        "薄"
+      ],
+      "phonetic": "あつ",
+      "word": "厚"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e52b63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thick book cover, book with thick binding"
+        }
+      ],
+      "mobileId": 280087,
+      "phonetic": "あつびょうし",
+      "word": "厚表紙"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d85bdf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "board thickness"
+        }
+      ],
+      "mobileId": 271506,
+      "phonetic": "いたあつ",
+      "word": "板厚"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3df5f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tấm ván dày; tấm thảm dày thêu kim tuyến; tấm kim loại dày (trên 3mm)"
+        }
+      ],
+      "mobileId": 11774,
+      "phonetic": "あついた",
+      "related_words": {
+        "word": [
+          "板"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "厚板",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボード",
+                "板",
+                "平板"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "厚板"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3eebde",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bề dày; sâu sắc"
+        }
+      ],
+      "mobileId": 11806,
+      "phonetic": "あつみ",
+      "related_words": {
+        "word": [
+          "味"
+        ]
+      },
+      "word": "厚味"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a482274",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "deep gratitude"
+        }
+      ],
+      "mobileId": 225729,
+      "phonetic": "こうしゃ",
+      "word": "厚謝"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c17424",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bề dày; tính thiên vị"
+        }
+      ],
+      "mobileId": 39693,
+      "phonetic": "あつうす",
+      "related_words": {
+        "word": [
+          "薄"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "厚薄",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "厚さ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "偏好",
+                "偏愛",
+                "依怙贔屓",
+                "不公平"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "厚薄"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de78323",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Minister of Health, Labour and Welfare"
+        }
+      ],
+      "mobileId": 222610,
+      "phonetic": "こうろうしょう",
+      "word": "厚労相"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8cc0a99",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chân thành cám ơn"
+        }
+      ],
+      "mobileId": 40034,
+      "phonetic": "あつれい",
+      "related_words": {
+        "word": [
+          "礼"
+        ]
+      },
+      "word": "厚礼"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3e29d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cối giã tay bằng đá dày"
+        }
+      ],
+      "mobileId": 11780,
+      "phonetic": "あつうす",
+      "word": "厚臼"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

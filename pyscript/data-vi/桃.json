@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f5dff65",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đào"
+        },
+        {
+          "examples": [
+            {
+              "content": "このケーキは普通、桃を一切れ添えて出される",
+              "mean": "Bánh này luôn được ăn với một lát đào",
+              "transcription": "このケーキはふつう、ももをいちきれそえてだされる"
+            },
+            {
+              "content": "桃の代わりに缶詰の桃使っちゃおう。",
+              "mean": "chúng ta có thể ăn đào đóng hộp thay vì đào tươi",
+              "transcription": "もものかわりにかんづめのももつかっちゃおう。"
+            }
+          ],
+          "kind": "n",
+          "mean": "quả đào; hoa đào"
+        }
+      ],
+      "mobileId": 186532,
+      "phonetic": "もも",
+      "related_words": {
+        "word": [
+          "桃色",
+          "桃源郷",
+          "胡桃",
+          "扁桃腺",
+          "扁桃腺炎",
+          "桃の節句",
+          "桜桃",
+          "白桃",
+          "扁桃"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "桃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ピーチ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "桜色",
+                "桜",
+                "薔薇色",
+                "桃色",
+                "ローゼ",
+                "褪紅"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "桃"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b59622",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "quả hạnh, hạch hạnh, vật hình quả hạnh"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "câu trả lời, lời đáp, trả lời, đáp lại"
+        }
+      ],
+      "mobileId": 5795,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "桃",
+          "扁桃腺",
+          "扁桃腺炎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "扁桃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "アーモンド"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "扁桃"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9398560",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "peach grove, peach garden, peach orchard"
+        }
+      ],
+      "mobileId": 274611,
+      "phonetic": "とうりん",
+      "word": "桃林"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4899a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nectarine"
+        }
+      ],
+      "mobileId": 225743,
+      "phonetic": "つばいもも づばいもも ずばいもも つばきもも あぶらもも ひかりもも ズバイモモ ツバイモモ",
+      "word": "椿桃"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954dc4a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quả đào trắng"
+        }
+      ],
+      "mobileId": 58572,
+      "phonetic": "すいみつもも",
+      "word": "水蜜桃"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd60b53d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiểu tóc (của) meiji và kỷ nguyên taisho, có đặc tính một bánh bao giống với một chia đôi quả đào"
+        }
+      ],
+      "mobileId": 71849,
+      "phonetic": "ももわれ",
+      "word": "桃割れ"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef965d534",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "canned peaches"
+        }
+      ],
+      "mobileId": 275984,
+      "phonetic": "ももかん",
+      "word": "桃缶"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e475951",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "deep pink"
+        }
+      ],
+      "mobileId": 250323,
+      "phonetic": "のうとう",
+      "word": "濃桃"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f5e718a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trổ hoa đào ."
+        }
+      ],
+      "mobileId": 186540,
+      "phonetic": "とうか",
+      "related_words": {
+        "word": [
+          "花",
+          "桃"
+        ]
+      },
+      "word": "桃花"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdf734a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhuốm vàng quả đào"
+        }
+      ],
+      "mobileId": 17604,
+      "phonetic": "きもも",
+      "related_words": {
+        "word": [
+          "桃",
+          "黄"
+        ]
+      },
+      "word": "黄桃"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

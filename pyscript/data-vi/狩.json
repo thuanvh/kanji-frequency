@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a39f73f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "怠け者の犬は、体についたノミにほえるだけで何もしないが、狩りで走り回る犬は、ノミに気づきもしない。",
+              "mean": "Con chó của kẻ lười chỉ biết sủa và không làm gì cả khi bị bọ chét cắn, nhưng con chó phải chạy trong cuộc đi săn sẽ chẳng chú ý đến bọ chét.",
+              "transcription": "なまけもののいぬは、からだについたノミにほえるだけでなにもしないが、かりではしりまわるいぬは、ノミにきづきもしない。"
+            },
+            {
+              "content": "狩の先導役の吹く笛は鳥が捕まるまでは心地よく聞こえる。",
+              "mean": "Tiếng sáo của người bẫy chim trong cuộc đi săn vẫn ngọt nào đến tận khi con chim bị bắt",
+              "transcription": "かりのせんどうやくのふくふえはとりがつかまるまではここちよくきこえる。"
+            }
+          ],
+          "kind": "n",
+          "mean": "cuộc đi săn"
+        }
+      ],
+      "mobileId": 171321,
+      "phonetic": "かり",
+      "word": "狩"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95253752",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đế quốc đến thăm"
+        }
+      ],
+      "mobileId": 57287,
+      "phonetic": "めぐかり",
+      "word": "巡狩"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be7bdcb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "viburnum, Viburnum furcatum"
+        }
+      ],
+      "mobileId": 247240,
+      "phonetic": "むしかり ムシカリ",
+      "word": "虫狩"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96e6302",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hunting ground"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hunting contest"
+        }
+      ],
+      "mobileId": 259834,
+      "phonetic": "かりくら",
+      "word": "狩競"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

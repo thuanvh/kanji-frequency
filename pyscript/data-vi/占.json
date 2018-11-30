@@ -1,0 +1,209 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed959cfad4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chiếm giữ"
+        }
+      ],
+      "mobileId": 61110,
+      "phonetic": "うらないじゅう",
+      "related_words": {
+        "word": [
+          "住"
+        ]
+      },
+      "word": "占住"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a99282",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự làm tăng, sự nâng cao, sự đề cao, sự làm nổi bật, sự tăng"
+        }
+      ],
+      "mobileId": 61504,
+      "phonetic": "うらないよう",
+      "related_words": {
+        "word": [
+          "用"
+        ]
+      },
+      "word": "占用"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d803f46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5m, vt",
+          "mean": "để chiếm giữ; tới sự cầm giữ; tới lệnh; tính toán cho"
+        }
+      ],
+      "mobileId": 149794,
+      "phonetic": "うらないむ",
+      "synsets": [
+        {
+          "base_form": "占む",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "占める",
+                "塞ぐ",
+                "埋める",
+                "満ちる",
+                "満たす"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "占む"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7765c1e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "divination that predicts the events of the whole year (esp. concerning crops)"
+        }
+      ],
+      "mobileId": 267745,
+      "phonetic": "としうら",
+      "word": "年占"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6874b829",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "duopoly"
+        }
+      ],
+      "mobileId": 3717,
+      "phonetic": "ふくうらない",
+      "word": "複占"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84ccc8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tụ lại từ (kẻ) khác cãi nhau"
+        }
+      ],
+      "mobileId": 35959,
+      "phonetic": "くちうらない",
+      "related_words": {
+        "word": [
+          "口"
+        ]
+      },
+      "word": "口占"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824cacb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "divination, fortune-telling, mantic"
+        }
+      ],
+      "mobileId": 234053,
+      "phonetic": "せんじゅつ",
+      "word": "占術"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959b806e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mối bận tâm"
+        }
+      ],
+      "mobileId": 61057,
+      "phonetic": "うらないと",
+      "word": "占取"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ecae10",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuật xem điềm mà bói, điềm, triệu, linh cảm, lời đoán trước"
+        }
+      ],
+      "mobileId": 7536,
+      "phonetic": "ぼくうらない",
+      "related_words": {
+        "word": [
+          "卜"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "卜占",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "幸先",
+                "知らせ",
+                "兆し",
+                "徴候",
+                "前表",
+                "先触れ",
+                "オーメン",
+                "前兆",
+                "萌し",
+                "サイン",
+                "兆",
+                "兆候"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "卜占"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a6b658",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đoán, sự tiên đoán; sự bói toán, lời đoán đúng, lời đoán giỏi; sự đoán tài"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự bói toán, lời bói toán; lời tiên tri"
+        }
+      ],
+      "mobileId": 61411,
+      "phonetic": "うらないぼく",
+      "related_words": {
+        "word": [
+          "卜"
+        ]
+      },
+      "word": "占卜"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

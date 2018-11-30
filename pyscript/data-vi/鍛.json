@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1e9f1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trồng trọt; sự huấn luyện"
+        }
+      ],
+      "mobileId": 111996,
+      "phonetic": "",
+      "word": "鍛成"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca016bba7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hammering"
+        }
+      ],
+      "mobileId": 281688,
+      "phonetic": "たんきん",
+      "word": "鍛金"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1a4992",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thép được tôi luyện"
+        }
+      ],
+      "mobileId": 111866,
+      "phonetic": "",
+      "word": "鍛鋼"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1efc7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rèn sự hàn"
+        }
+      ],
+      "mobileId": 112008,
+      "phonetic": "",
+      "word": "鍛接"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19370157e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính dễ dát mỏng, tính dễ uốn, tính dễ bảo"
+        }
+      ],
+      "mobileId": 21491,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "性",
+          "可"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "可鍛性",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "可塑性"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "可鍛性"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0b3e07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cast and forged steel"
+        }
+      ],
+      "mobileId": 248353,
+      "phonetic": "ちゅうたんこう",
+      "word": "鋳鍛鋼"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

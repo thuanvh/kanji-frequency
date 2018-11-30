@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa703467c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "いまだに解けないでいる命題の謎",
+              "mean": "Điều bí ẩn của những vấn đề chưa được lý giải",
+              "transcription": "いまだにとけないでいるめいだいのなぞ"
+            },
+            {
+              "content": "解明されていない多くの謎",
+              "mean": "có nhiều điều bí ẩn chưa được làm sáng tỏ",
+              "transcription": "かいめいされていないおおくのなぞ"
+            }
+          ],
+          "kind": "n",
+          "mean": "điều bí ẩn"
+        }
+      ],
+      "mobileId": 106767,
+      "phonetic": "なぞ",
+      "related_words": {
+        "word": [
+          "謎謎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "謎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "難問",
+                "エニグマ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "判じ物",
+                "謎々",
+                "謎謎",
+                "パズル",
+                "当て物",
+                "ジグソーパズル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "謎"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7036a0b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "謎解きゲーム",
+              "mean": "Trò chơi giải câu đố",
+              "transcription": "なぞときゲーム"
+            },
+            {
+              "content": "謎解きが上手な人",
+              "mean": "Người giải đố giỏi .",
+              "transcription": "なぞときがじょうずなひと"
+            }
+          ],
+          "kind": "n",
+          "mean": "Lời giải đố"
+        }
+      ],
+      "mobileId": 106769,
+      "phonetic": "なぞとき",
+      "related_words": {
+        "word": [
+          "謎"
+        ]
+      },
+      "word": "謎解き"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00b9a3b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v5k, vi",
+          "mean": "bí ẩn hoặc khó hiểu, được bao bọc trong bí ẩn"
+        }
+      ],
+      "mobileId": 189513,
+      "phonetic": "なぞめく",
+      "word": "謎めく"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa703573b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）になぞなぞを言う",
+              "mean": "đánh đố .",
+              "transcription": "（ひと）になぞなぞをいう"
+            }
+          ],
+          "kind": "n",
+          "mean": "câu đố; điều bí ẩn"
+        }
+      ],
+      "mobileId": 106768,
+      "phonetic": "なぞなぞ",
+      "related_words": {
+        "word": [
+          "謎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "謎々",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "謎",
+                "判じ物",
+                "謎謎",
+                "パズル",
+                "当て物",
+                "ジグソーパズル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "謎々"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bec32a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "to solve a mystery"
+        }
+      ],
+      "mobileId": 247377,
+      "phonetic": "なぞをとく",
+      "word": "謎を解く"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abcc09c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "một loại câu đố đặc biệt"
+        }
+      ],
+      "mobileId": 229446,
+      "phonetic": "なぞかけ",
+      "word": "謎かけ"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed28263",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "đưa ra câu đố"
+        }
+      ],
+      "mobileId": 117760,
+      "phonetic": "なぞをかける",
+      "word": "謎を掛ける"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

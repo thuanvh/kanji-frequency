@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684c4009",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "một lớp; đơn"
+        }
+      ],
+      "mobileId": 2454,
+      "opposite_word": [
+        "複"
+      ],
+      "phonetic": "たん",
+      "related_words": {
+        "word": [
+          "単価",
+          "簡単",
+          "単位",
+          "単独",
+          "簡単に",
+          "単語",
+          "単体",
+          "単純",
+          "単相",
+          "単行本"
+        ]
+      },
+      "word": "単"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a8e231",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, adj-no",
+          "mean": "tế bào đơn nhân"
+        }
+      ],
+      "mobileId": 286349,
+      "phonetic": "たんきゅう",
+      "word": "単球"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e18f33a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "một - dính vào"
+        }
+      ],
+      "mobileId": 111824,
+      "phonetic": "たんかく",
+      "related_words": {
+        "word": [
+          "角",
+          "単"
+        ]
+      },
+      "word": "単角"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e19319b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-pref",
+          "mean": "kanji đơn"
+        }
+      ],
+      "mobileId": 111831,
+      "phonetic": "たんかんじ",
+      "related_words": {
+        "word": [
+          "漢字",
+          "字",
+          "単"
+        ]
+      },
+      "word": "単漢字"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1c1b22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(thực vật học) có một lá mầm; thuộc nhóm cây một lá mầm"
+        }
+      ],
+      "mobileId": 111924,
+      "phonetic": "たんしよう",
+      "word": "単子葉"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1ea71a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "đơn tính"
+        }
+      ],
+      "mobileId": 111997,
+      "phonetic": "たんせい",
+      "related_words": {
+        "word": [
+          "性",
+          "単"
+        ]
+      },
+      "word": "単性"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e1ef4b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "đơn giản liên kết"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "forge welding"
+        }
+      ],
+      "mobileId": 112007,
+      "phonetic": "たんふし",
+      "word": "単節"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94e92cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "layman's terms, simple name, uncomplicated term"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "singular"
+        }
+      ],
+      "mobileId": 275253,
+      "phonetic": "たんしょう",
+      "word": "単称"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2209b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "single bond"
+        }
+      ],
+      "mobileId": 249116,
+      "phonetic": "たんけつごう",
+      "word": "単結合"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a97d536f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-f",
+          "mean": "veneer (e.g. wood products)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "single panel (e.g. electronics, optics, automotive), single plate"
+        }
+      ],
+      "mobileId": 260295,
+      "phonetic": "たんばん",
+      "word": "単板"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

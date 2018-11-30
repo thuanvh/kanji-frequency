@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa799d1b4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "私は酉。で、あなたは？",
+              "mean": "Tôi tuổi Dậu. Còn bạn? .",
+              "transcription": "わたしはとり。で、あなたは？"
+            }
+          ],
+          "kind": "n",
+          "mean": "Dậu"
+        }
+      ],
+      "mobileId": 109266,
+      "phonetic": "とり",
+      "word": "酉"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822c5b91",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "58th year of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 233037,
+      "phonetic": "しんゆう かのととり",
+      "word": "辛酉"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1b66a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đinh Dậu ."
+        }
+      ],
+      "mobileId": 141758,
+      "phonetic": "ていゆう",
+      "word": "丁酉"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b94400",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tenth of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 262200,
+      "phonetic": "みずのととり きゆう",
+      "word": "癸酉"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b9a2e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "twenty-second of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 262214,
+      "phonetic": "きのととり いつゆう おつゆう",
+      "word": "乙酉"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa799dd22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "năm Dậu ."
+        }
+      ],
+      "mobileId": 109268,
+      "phonetic": "とりどし",
+      "related_words": {
+        "word": [
+          "年"
+        ]
+      },
+      "word": "酉年"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ba73cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "46th of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 262237,
+      "phonetic": "つちのととり きゆう",
+      "word": "己酉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a63e3ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"bird of the zodiac\" radical (radical 164)"
+        }
+      ],
+      "mobileId": 226581,
+      "phonetic": "ひよみのとり",
+      "word": "日読みの酉"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa799d533",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Phía tây ."
+        }
+      ],
+      "mobileId": 109267,
+      "phonetic": "とりのほうがく",
+      "word": "酉の方角"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7764ad5d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bird Day, Day of the Bird"
+        }
+      ],
+      "mobileId": 267714,
+      "phonetic": "とりのひ",
+      "word": "酉の日"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

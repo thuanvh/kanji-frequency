@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7de73d04",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あらしの間、兎（野ウサギ）は巣穴に入っていった",
+              "mean": "con thỏ chui vào trong hang trong suốt cơn bão",
+              "transcription": "あらしのま、うさぎ（のうさぎ）はすあなにはいっていった"
+            },
+            {
+              "content": "実験用兎",
+              "mean": "thỏ dùng để thí nghiệm",
+              "transcription": "じっけんよううさぎ"
+            }
+          ],
+          "kind": "n",
+          "mean": "con thỏ; thỏ rừng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thỏ ."
+        }
+      ],
+      "mobileId": 145354,
+      "phonetic": "うさぎ",
+      "related_words": {
+        "word": [
+          "兎に角"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "兎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "家兎"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "兎"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb3da82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ngu độn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người hay ngồi lê đôi mách, người hay kháo chuyện nói xấu; người hay nói chuyện tầm phào"
+        }
+      ],
+      "mobileId": 15498,
+      "phonetic": "うさぎみみ",
+      "related_words": {
+        "word": [
+          "耳",
+          "兎"
+        ]
+      },
+      "word": "兎耳"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19379b86a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuần hóa con thỏ"
+        }
+      ],
+      "mobileId": 21790,
+      "phonetic": "いえうさぎ",
+      "related_words": {
+        "word": [
+          "家",
+          "兎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "家兎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "兎"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "家兎"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77bc45e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lepus brachyurus lyoni (subspecies of Japanese hare)"
+        }
+      ],
+      "mobileId": 270561,
+      "phonetic": "えちごうさぎ エチゴウサギ",
+      "word": "越後兎"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aad7db2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pika (rabbit-like animal of family Ochotonidae)"
+        }
+      ],
+      "mobileId": 228937,
+      "phonetic": "なきうさぎ ナキウサギ",
+      "word": "啼兎"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7de79aba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tật sứt môi trên; tật hở hàm ếch ."
+        }
+      ],
+      "mobileId": 145361,
+      "phonetic": "としん",
+      "related_words": {
+        "word": [
+          "兎"
+        ]
+      },
+      "word": "兎脣"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb3ad28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con thỏ đi săn"
+        }
+      ],
+      "mobileId": 15494,
+      "phonetic": "うさぎかり",
+      "related_words": {
+        "word": [
+          "兎",
+          "狩り"
+        ]
+      },
+      "word": "兎狩り"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aad67e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "domestic rabbit (variety of European rabbit, Oryctolagus cuniculus)"
+        }
+      ],
+      "mobileId": 228935,
+      "phonetic": "かいうさぎ",
+      "word": "飼兎"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05113a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brown long-eared bat (Plecotus auritus), common long-eared bat, brown big-eared bat"
+        }
+      ],
+      "mobileId": 283561,
+      "phonetic": "うさぎこうもり ウサギコウモリ",
+      "word": "兎蝙蝠"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00925e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rabbit soup"
+        }
+      ],
+      "mobileId": 281255,
+      "phonetic": "うさぎじる",
+      "word": "兎汁"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

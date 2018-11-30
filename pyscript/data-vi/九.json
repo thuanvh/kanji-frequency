@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d4b0b94",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "発想の九割方は努力",
+              "mean": "Chín mươi phần trăm của sáng tạo là sự nỗ lực",
+              "transcription": "はっそうのきゅうわりかたはどりょく"
+            }
+          ],
+          "kind": "num",
+          "mean": "chín"
+        }
+      ],
+      "mobileId": 142716,
+      "phonetic": "きゅう",
+      "word": "九"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d4b189f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "猫には命が九つあり女は九猫分の命を持つ",
+              "mean": "Một con mèo có chín mạng và một người phụ nữ có chín mạng sống của một con mèo.",
+              "transcription": "ねこにはいのちがここのつありおんなはきゅうねこぶんのいのちをもつ"
+            },
+            {
+              "content": "猫には命が九つあり女は九猫分の命を持つ",
+              "mean": "Một con mèo có chín mạng và một người phụ nữ có chín mạng sống của một con mèo.",
+              "transcription": "ねこにはいのちがここのつありおんなはきゅうねこぶんのいのちをもつ"
+            }
+          ],
+          "kind": "num",
+          "mean": "số 9; chín (số)"
+        }
+      ],
+      "mobileId": 142717,
+      "phonetic": "く",
+      "word": "九"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8475599",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bảng cửu chương"
+        }
+      ],
+      "mobileId": 35792,
+      "phonetic": "く く",
+      "word": "九九"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f047a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "an old woman's gray hair"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "old woman with white hair"
+        }
+      ],
+      "mobileId": 214609,
+      "phonetic": "つくもがみ",
+      "word": "九十九髪"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8478070",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bảng cửu chương"
+        }
+      ],
+      "mobileId": 35796,
+      "phonetic": "きゅうきゅうのひょう",
+      "related_words": {
+        "word": [
+          "の",
+          "表",
+          "九九"
+        ]
+      },
+      "word": "九九の表"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e6decc9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cuốn con đường"
+        }
+      ],
+      "mobileId": 114550,
+      "phonetic": "きゅうじゅうきゅうおり",
+      "related_words": {
+        "word": [
+          "十",
+          "十九",
+          "九十",
+          "折"
+        ]
+      },
+      "word": "九十九折り"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c045a279",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "winding, meandering, sinuous, zigzag"
+        }
+      ],
+      "mobileId": 209081,
+      "phonetic": "つづらおり",
+      "word": "九十九折"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03b8287",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nine times"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "twisting around many times"
+        }
+      ],
+      "mobileId": 282881,
+      "phonetic": "きゅうかい",
+      "word": "九回"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fd0d0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nơi (vùng) rất thấp; lòng đất; nơi khó bị kẻ thù phát hiện"
+        }
+      ],
+      "mobileId": 25942,
+      "phonetic": "きゅうち",
+      "related_words": {
+        "word": [
+          "地"
+        ]
+      },
+      "word": "九地"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77659b35",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ninth day of the cold season (approx January 13th)"
+        }
+      ],
+      "mobileId": 267742,
+      "phonetic": "かんく",
+      "word": "寒九"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

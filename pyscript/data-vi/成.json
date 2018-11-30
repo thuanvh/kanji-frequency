@@ -1,0 +1,298 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027aeb3eb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "会合はいきなり延期された。",
+              "mean": "Cuộc họp bị kéo dài mà không được báo trước.",
+              "transcription": "かいごうはいきなりえんきされた。"
+            },
+            {
+              "content": "角から猫がいきなり飛び出した。",
+              "mean": "Từ trong góc, một con mèo đột ngột nhảy ra. .",
+              "transcription": "かくからねこがいきなりとびだした。"
+            }
+          ],
+          "kind": "adv, uk",
+          "mean": "bất ngờ; đột ngột"
+        }
+      ],
+      "mobileId": 32162,
+      "phonetic": "いきなり",
+      "related_words": {
+        "word": [
+          "行"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "行成",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "出し抜けに",
+                "突如",
+                "俄然",
+                "俄に",
+                "忽ち",
+                "ぱっと",
+                "不図",
+                "突然"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "出し抜けに",
+                "突如",
+                "俄然",
+                "俄に",
+                "忽ち",
+                "ぱっと",
+                "不図",
+                "突然",
+                "颯と"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "突如",
+                "忽ち",
+                "突然"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "出し抜けに",
+                "突如",
+                "ひょいと",
+                "俄然",
+                "俄に",
+                "忽ち",
+                "不図",
+                "突然"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "行成"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9569289f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đi đến tính vô giá trị"
+        }
+      ],
+      "mobileId": 59449,
+      "phonetic": "なるそら",
+      "word": "成空"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900edac225",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đẩy mạnh mạ bạc chung (shogi)"
+        }
+      ],
+      "mobileId": 117998,
+      "phonetic": "なるぎん",
+      "word": "成銀"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da14488",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính sớm, sự sớm ra hoa, sự sớm kết quả ; sự sớm biết, sự sớm phát triển, sự sớm tinh khôn"
+        }
+      ],
+      "mobileId": 150840,
+      "phonetic": "",
+      "word": "夙成"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d198c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "unpromoted (piece)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "limit orders that become market orders at the closing auction if not already executed"
+        }
+      ],
+      "mobileId": 271257,
+      "phonetic": "ふなり",
+      "word": "不成"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937d46ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đáng kể; khá; khá"
+        }
+      ],
+      "mobileId": 21908,
+      "phonetic": "かしげる",
+      "related_words": {
+        "word": [
+          "可"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "可成",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一寸",
+                "可也",
+                "随分",
+                "とっても",
+                "中中",
+                "割合",
+                "割り合い",
+                "割り方",
+                "ちょっと",
+                "中々",
+                "余程",
+                "かなり"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "大分",
+                "非常に",
+                "思い切り",
+                "最も",
+                "可也",
+                "少なからず",
+                "優に",
+                "尠からず",
+                "著しく",
+                "余程",
+                "かなり"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "可也",
+                "随分",
+                "とっても",
+                "余程",
+                "かなり",
+                "余っ程"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "殊の外",
+                "一向",
+                "可也",
+                "随分",
+                "丸で",
+                "とっても",
+                "実際に",
+                "全く",
+                "余程",
+                "余っ程"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "好い加減に",
+                "幾分",
+                "可也",
+                "随分",
+                "中中",
+                "中々",
+                "まずまず",
+                "かなり"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "可成"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9569af6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một con chó đã trưởng thành"
+        }
+      ],
+      "mobileId": 59467,
+      "phonetic": "なるいぬ",
+      "word": "成犬"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dcb1970",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kaisei (tên một tổ chức) ."
+        }
+      ],
+      "mobileId": 144927,
+      "phonetic": "かいせい",
+      "word": "偕成"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e08ef53",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "adult woman, mature woman"
+        }
+      ],
+      "mobileId": 248284,
+      "phonetic": "せいじょ",
+      "word": "成女"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e2caafe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "book"
+        }
+      ],
+      "mobileId": 249462,
+      "phonetic": "せいしょ",
+      "word": "成書"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

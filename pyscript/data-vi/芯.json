@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280277fe60c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bấc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phần cốt lõi; phần trung tâm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trái tim; thâm tâm; đáy lòng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tuỷ ."
+        }
+      ],
+      "mobileId": 31360,
+      "phonetic": "しん",
+      "synsets": [
+        {
+          "base_form": "芯",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "コア",
+                "核心",
+                "仲核",
+                "心",
+                "中心",
+                "核",
+                "真ん中",
+                "真中"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "芯"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74d2e4e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tỉa bớt (chồi, cành) ."
+        }
+      ],
+      "mobileId": 100604,
+      "phonetic": "てきしん",
+      "word": "摘芯"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933d00ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ruột chì (dùng để thay thế)"
+        }
+      ],
+      "mobileId": 19880,
+      "phonetic": "かえしん",
+      "related_words": {
+        "word": [
+          "芯",
+          "替え"
+        ]
+      },
+      "word": "替え芯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94829a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dead center"
+        }
+      ],
+      "mobileId": 258598,
+      "phonetic": "まっしん",
+      "word": "真っ芯"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8bca51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lamp wick"
+        }
+      ],
+      "mobileId": 227865,
+      "phonetic": "ランプしん",
+      "word": "ランプ芯"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8e4e15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "collar core (stiff fabric, etc. inside a collar)"
+        }
+      ],
+      "mobileId": 219677,
+      "phonetic": "えりしん",
+      "word": "衿芯"
+    },
+    {
+      "_id": "1f4ca8067fc092deb5c5d6a56625b32f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "芯測定",
+              "mean": "thước đo tâm"
+            }
+          ],
+          "kind": "",
+          "mean": "thước đo tâm"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "しんそくてい",
+      "word": "芯測定"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf6ee77",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "bút chì cơ khí chì"
+        }
+      ],
+      "mobileId": 247716,
+      "phonetic": "シャーしん",
+      "word": "シャー芯"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6689e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "staple (for a stapler)"
+        }
+      ],
+      "mobileId": 218394,
+      "phonetic": "ホッチキスしん ホチキスしん",
+      "word": "ホッチキス芯"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04d54ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toilet drain outlet"
+        }
+      ],
+      "mobileId": 283432,
+      "phonetic": "はいすいしん",
+      "word": "排水芯"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

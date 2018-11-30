@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680144f412",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cá trích ."
+        }
+      ],
+      "mobileId": 42929,
+      "phonetic": "にしん",
+      "word": "鰊"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca017f394",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soba in hot broth, topped with a salty-sweet dried herring"
+        }
+      ],
+      "mobileId": 281728,
+      "phonetic": "にしんそば",
+      "word": "鰊蕎麦"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771593c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cloudy weather near Hokkaido during the herrings season (from the third to the sixth lunar month)"
+        }
+      ],
+      "mobileId": 265152,
+      "phonetic": "にしんぐもり",
+      "word": "鰊曇り"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93fe4bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dried and pressed boiled herring (used as fertilizer)"
+        }
+      ],
+      "mobileId": 274806,
+      "phonetic": "にしんかす",
+      "word": "鰊粕"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

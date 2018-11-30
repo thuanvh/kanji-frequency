@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107b8673d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "峠を越す",
+              "mean": "vượt qua đỉnh đèo",
+              "transcription": "とうげをこす"
+            },
+            {
+              "content": "碓氷峠 the",
+              "mean": "con đèo Usui .",
+              "transcription": "うすいとうげthe"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "đèo, cao trào"
+        }
+      ],
+      "mobileId": 54977,
+      "phonetic": "とうげ",
+      "related_words": {
+        "word": [
+          "峠道"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "峠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "クライマックス",
+                "ピーク",
+                "花盛り",
+                "最盛期",
+                "頂点",
+                "頂上",
+                "最高潮",
+                "高潮",
+                "山",
+                "真っ盛り",
+                "極点",
+                "絶頂"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "山道",
+                "峠道",
+                "切り通し"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "峠"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb5c36c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "usui đi qua"
+        }
+      ],
+      "mobileId": 15553,
+      "phonetic": "うすいとうげ",
+      "word": "碓氷峠"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107b875b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường đèo ."
+        }
+      ],
+      "mobileId": 54979,
+      "phonetic": "とうげみち",
+      "related_words": {
+        "word": [
+          "道",
+          "峠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "峠道",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "山道",
+                "峠",
+                "切り通し"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "峠道"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7725b472",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "crossing a mountain pass"
+        }
+      ],
+      "mobileId": 265682,
+      "phonetic": "とうげごえ",
+      "word": "峠越え"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107b86d76",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼の病気も峠を越した。",
+              "mean": "Anh ấy đã qua khỏi cơn nguy hiểm.",
+              "transcription": "かれのびょうきもとうげをこした。"
+            },
+            {
+              "content": "この仕事も峠を越した。",
+              "mean": "Chúng ta đã vượt qua phần khó khăn nhất của công việc .",
+              "transcription": "このしごともとうげをこした。"
+            }
+          ],
+          "kind": "exp, v5s",
+          "mean": "vượt qua (thời điểm khó khăn, giai đoạn khó khăn)"
+        }
+      ],
+      "mobileId": 54978,
+      "phonetic": "とうげをこす",
+      "related_words": {
+        "word": [
+          "峠",
+          "越す"
+        ]
+      },
+      "word": "峠を越す"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e953538",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "tới sự chuyển qua qua đỉnh; để chéo qua một sự chuyển qua"
+        }
+      ],
+      "mobileId": 115789,
+      "phonetic": "とうげをこえる",
+      "word": "峠を越える"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

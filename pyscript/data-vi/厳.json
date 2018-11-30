@@ -1,0 +1,313 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c03154d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "strict, stern"
+        }
+      ],
+      "mobileId": 208435,
+      "opposite_word": [
+        "寛"
+      ],
+      "phonetic": "げん",
+      "word": "厳"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a2ce87",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thứ tự chính xác"
+        }
+      ],
+      "mobileId": 38709,
+      "phonetic": "",
+      "word": "厳逹"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada8871a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pháp luật nghiêm khắc ."
+        }
+      ],
+      "mobileId": 79172,
+      "phonetic": "げんりつ",
+      "related_words": {
+        "word": [
+          "律"
+        ]
+      },
+      "word": "厳律"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada884e62",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "言葉の厳密な意味",
+              "mean": "ý nghĩa chính xác của từ",
+              "transcription": "ことばのげんみつないみ"
+            },
+            {
+              "content": "〜を通じた厳密な規制の執行",
+              "mean": "thực thi quy chế nghiêm ngặt thông qua ~",
+              "transcription": "〜をつうじたげんみつなきせいのしっこう"
+            },
+            {
+              "content": "〜の品質とデザインに厳密な基準を要求する",
+              "mean": "yêu cầu tiêu chuẩn nghiêm ngặt về chất lượng và thiết kế của ~",
+              "transcription": "〜のひんしつとデザインにげんみつなきじゅんをようきゅうする"
+            },
+            {
+              "content": "厳密な科学的方法",
+              "mean": "Phương pháp khoa học chính xác",
+              "transcription": "げんみつなかがくてきほうほう"
+            },
+            {
+              "content": "規則の厳密な解釈",
+              "mean": "Giải thích chính xác về nội quy",
+              "transcription": "きそくのげんみつなかいしゃく"
+            },
+            {
+              "content": "資金移動に関する厳密なチェック",
+              "mean": "Kiểm tra chặt chẽ luồng tiền vốn",
+              "transcription": "しきんいどうにかんするげんみつなチェック"
+            },
+            {
+              "content": "入国の際厳密なチェックを受ける",
+              "mean": "Bị kiểm tra nghiêm ngặt khi nhập cảnh",
+              "transcription": "にゅうこくのさいげんみつなチェックをうける"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "chặt chẽ; nghiêm ngặt; chính xác"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "nghiêm mật"
+        },
+        {
+          "examples": [
+            {
+              "content": "厳密さを要求しない",
+              "mean": "không đòi hỏi sự nghiêm ngặt",
+              "transcription": "げんみつさをようきゅうしない"
+            },
+            {
+              "content": "厳密さを欠く表現",
+              "mean": "Biểu hiện thiếu sự chặt chẽ .",
+              "transcription": "げんみつさをかくひょうげん"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "sự chặt chẽ; trạng thái chặt chẽ; sự nghiêm ngặt; sự chính xác; chặt chẽ; nghiêm ngặt; chính xác"
+        }
+      ],
+      "mobileId": 79170,
+      "opposite_word": [
+        "疎漏"
+      ],
+      "phonetic": "げんみつ",
+      "synsets": [
+        {
+          "base_form": "厳密",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "厳格"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "厳重"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "厳格",
+                "厳めしい",
+                "厳しい",
+                "喧しい",
+                "厳重"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "精緻",
+                "精密"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "厳密"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a3f1ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adv",
+          "mean": "chính xác; long trọng"
+        }
+      ],
+      "mobileId": 38742,
+      "phonetic": "げんとして",
+      "word": "厳として"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada8903d7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "関係者の厳正な処分を行う",
+              "mean": "Tiến hành giải quyết nghiêm túc những người có liên quan",
+              "transcription": "かんけいしゃのげんせいなしょぶんをおこなう"
+            },
+            {
+              "content": "厳正な検査",
+              "mean": "Kiểm tra nghiêm chỉnh (nghiêm túc)",
+              "transcription": "げんせいなけんさ"
+            },
+            {
+              "content": "厳正な解釈をする人",
+              "mean": "Người đưa ra lời giải thích nghiêm chỉnh",
+              "transcription": "げんせいなかいしゃくをするひと"
+            },
+            {
+              "content": "道徳的に厳正である",
+              "mean": "nghiêm chỉnh (nghiêm túc) về mặt đạo đức",
+              "transcription": "どうとくてきにげんせいである"
+            }
+          ],
+          "kind": "adj-na, n",
+          "mean": "nghiêm chỉnh; nghiêm túc"
+        }
+      ],
+      "mobileId": 79176,
+      "phonetic": "げんせい",
+      "related_words": {
+        "word": [
+          "正"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "厳正",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "正確さ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "中立",
+                "公正",
+                "虚心",
+                "中正",
+                "平等",
+                "公平無私",
+                "不偏"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "厳正"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89e63e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người cha đáng tôn kính của bạn (từ kính ngữ để gọi cha của người khác)"
+        }
+      ],
+      "mobileId": 38559,
+      "phonetic": "いむくん",
+      "related_words": {
+        "word": [
+          "君"
+        ]
+      },
+      "word": "厳君"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4cbc9e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "strong reprimand, rebuke"
+        }
+      ],
+      "mobileId": 250493,
+      "phonetic": "げんせき",
+      "word": "厳責"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd60bf1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dữ tợn, tàn nhẫn, nhẫn tâm, ác nghiệt, không lay chuyển được"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nghiêm nghị, nghiêm khắc, sex, phía đuôi tàu, phần sau tàu, mông đít; đuôi"
+        }
+      ],
+      "mobileId": 12878,
+      "phonetic": "いむい",
+      "word": "厳い"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89e5633",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỉ dẫn chính xác"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "your honored father"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "elder statesman"
+        }
+      ],
+      "mobileId": 38558,
+      "phonetic": "いむさとし",
+      "word": "厳訓"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

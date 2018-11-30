@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b2795e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự  lừa bịp"
+        }
+      ],
+      "mobileId": 5691,
+      "phonetic": "かたと",
+      "word": "騙取"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e836d650",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự dối trá, sự lừa dối, sự lừa gạt, trò lừa dối, mưu mẹo gian dối, mánh khoé lừa bịp"
+        }
+      ],
+      "mobileId": 35251,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "欺騙",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ぺてん",
+                "詐欺",
+                "欺瞞",
+                "ごまかし",
+                "虚偽"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "偽計",
+                "ぺてん",
+                "詐欺",
+                "欺瞞",
+                "詐取",
+                "ごまかし"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "詐欺",
+                "欺瞞"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "如何様",
+                "詭弁",
+                "ぺてん",
+                "権謀術数",
+                "詐欺",
+                "欺瞞",
+                "詭辯",
+                "ごまかし",
+                "虚偽",
+                "詭計"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "詐欺",
+                "欺瞞",
+                "虚偽"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "欺騙"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c028a16b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "to trick, to cheat, to deceive"
+        }
+      ],
+      "mobileId": 190472,
+      "phonetic": "だまくらかす",
+      "word": "騙くらかす"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f7079e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Leadbeater's possum (Gymnobelideus leadbeateri)"
+        }
+      ],
+      "mobileId": 280663,
+      "phonetic": "ふくろももんがだまし フクロモモンガダマシ",
+      "word": "袋鼯鼠騙"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6d0ef8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grey mangrove (Avicennia marina), white mangrove"
+        }
+      ],
+      "mobileId": 251551,
+      "phonetic": "ひるぎだまし ヒルギダマシ",
+      "word": "蛭木騙"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

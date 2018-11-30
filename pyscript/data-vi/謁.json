@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef907d7b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "visiting and meeting somebody (of higher status)"
+        }
+      ],
+      "mobileId": 273016,
+      "phonetic": "らいえつ",
+      "word": "来謁"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c01462a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vi",
+          "mean": "to have an audience with"
+        }
+      ],
+      "mobileId": 189797,
+      "phonetic": "えっす",
+      "word": "謁す"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa702dd4a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "天皇に謁するチャンスが出来た",
+              "mean": "đã có cơ hội nhìn thấy Thiên hoàng .",
+              "transcription": "てんのうに謁するチャンスができた"
+            }
+          ],
+          "kind": "vs-s, vi",
+          "mean": "xem; thưởng thức"
+        }
+      ],
+      "mobileId": 106759,
+      "phonetic": "えっする",
+      "related_words": {
+        "word": [
+          "する"
+        ]
+      },
+      "word": "謁する"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9562a08d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cầu khẩn, van nài (giọng, vẻ)"
+        }
+      ],
+      "mobileId": 59245,
+      "phonetic": "",
+      "word": "請謁"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde3810e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "để được ban một thính giả"
+        }
+      ],
+      "mobileId": 16963,
+      "phonetic": "",
+      "word": "謁を賜わる"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

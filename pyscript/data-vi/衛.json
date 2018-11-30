@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a7e970",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đế quốc bảo vệ"
+        }
+      ],
+      "mobileId": 5347,
+      "phonetic": "",
+      "word": "陛衛"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca096cf17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "guard, escort"
+        }
+      ],
+      "mobileId": 285762,
+      "phonetic": "えいご えご",
+      "word": "衛護"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df68c52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người hoặc nhóm người có nhiệm vụ bảo vệ một nhân vật quan trọng; vệ sĩ; đội bảo vệ"
+        }
+      ],
+      "mobileId": 153614,
+      "phonetic": "さむらいまもる",
+      "related_words": {
+        "word": [
+          "侍"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "侍衛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "護衛",
+                "ボディーガード",
+                "エスコート",
+                "警護",
+                "警衛",
+                "用心棒"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "護衛",
+                "ボディーガード",
+                "警護",
+                "用心棒"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "侍衛"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd99743",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nơi được bảo vệ hoặc lính canh giữ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "torpedo room"
+        }
+      ],
+      "mobileId": 16650,
+      "phonetic": "まもるしょ",
+      "related_words": {
+        "word": [
+          "所"
+        ]
+      },
+      "word": "衛所"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e4abb1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giữa bảo vệ;(bóng đá) nội ứng;(volleyball) đặt đúng tâm phía trước"
+        }
+      ],
+      "mobileId": 113422,
+      "phonetic": "なかまもる",
+      "word": "中衛"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a208af8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "White Army (any of the armies that opposed the Bolsheviks during the Russian Revolution)"
+        }
+      ],
+      "mobileId": 224446,
+      "phonetic": "はくえいぐん",
+      "word": "白衛軍"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df6a010",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đội trưởng (của) bảo vệ"
+        }
+      ],
+      "mobileId": 153617,
+      "phonetic": "さむらいまもるちょう",
+      "related_words": {
+        "word": [
+          "長",
+          "侍"
+        ]
+      },
+      "word": "侍衛長"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

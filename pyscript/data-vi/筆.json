@@ -1,0 +1,217 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af397e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bút"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chữ viết bằng bút lông; vẽ tranh"
+        },
+        {
+          "examples": [
+            {
+              "content": "筆の立つ人",
+              "mean": "người giỏi viết văn .",
+              "transcription": "ふでのたつひと"
+            }
+          ],
+          "kind": "n",
+          "mean": "viết văn; năng lực viết"
+        }
+      ],
+      "mobileId": 174308,
+      "phonetic": "ふで",
+      "related_words": {
+        "word": [
+          "鉛筆",
+          "筆記試験",
+          "万年筆",
+          "色鉛筆",
+          "筆者",
+          "一筆",
+          "執筆",
+          "執筆者",
+          "筆箱",
+          "代筆"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "筆",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "絵筆"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "書き込み",
+                "執筆",
+                "作文",
+                "ペン",
+                "書込み",
+                "表記",
+                "ライティング"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ペン",
+                "万年筆"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "筆"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0743039",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "someone else writing, someone else's writing"
+        }
+      ],
+      "mobileId": 284685,
+      "opposite_word": [
+        "自筆"
+      ],
+      "phonetic": "たひつ",
+      "word": "他筆"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e59126a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đế quốc tự viết tay"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "writing with upright brush"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frank writing"
+        }
+      ],
+      "mobileId": 113884,
+      "phonetic": "みことのりひつ",
+      "related_words": {
+        "word": [
+          "筆"
+        ]
+      },
+      "word": "勅筆"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8c010f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "end of a brush-stroke"
+        }
+      ],
+      "mobileId": 219601,
+      "phonetic": "しゅうひつ",
+      "word": "終筆"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06899ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "written record"
+        }
+      ],
+      "mobileId": 284310,
+      "phonetic": "ひつろく",
+      "word": "筆録"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca088eb1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "taking a break from writing"
+        }
+      ],
+      "mobileId": 285314,
+      "phonetic": "きゅうひつ",
+      "word": "休筆"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b0c467",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drybrush, brush which gives a blurred effect in writing or painting"
+        }
+      ],
+      "mobileId": 286615,
+      "phonetic": "かっぴつ",
+      "word": "渇筆"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a52ebc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "brushmaker (calligraphy), brush seller"
+        }
+      ],
+      "mobileId": 269811,
+      "phonetic": "ふでや",
+      "word": "筆屋"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684a75af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sức mạnh (của) một brushstroke"
+        }
+      ],
+      "mobileId": 2401,
+      "phonetic": "",
+      "word": "筆圧"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6884a79b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phong cách vẽ riêng của một nghệ sự"
+        }
+      ],
+      "mobileId": 4223,
+      "phonetic": "ふでつき",
+      "word": "筆付き"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

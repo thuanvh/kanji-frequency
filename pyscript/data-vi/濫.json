@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cdbade66",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự đề xuất hỗn độn, sự đưa ra bừa bãi; sự dựng  lên quá lộn xộn (biển quảng cáo)"
+        }
+      ],
+      "mobileId": 74775,
+      "phonetic": "",
+      "word": "濫立"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdba1537",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "(đám đông) ùa vào, tràn vào một cách hỗn loạn"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "trespassing"
+        }
+      ],
+      "mobileId": 74751,
+      "phonetic": "",
+      "word": "濫入"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd1ac807",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chuyên quyền, độc đoán, tuỳ ý, tự ý"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xem unnecessary"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bừa bãi, ẩu"
+        }
+      ],
+      "mobileId": 69651,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "に"
+        ]
+      },
+      "word": "濫りに"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd1a91fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "có đạo đức hư hỏng"
+        }
+      ],
+      "mobileId": 69645,
+      "phonetic": "",
+      "word": "濫りがましい"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd1aa1f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "nhếch nhác, lôi thôi, lếch thếch, lười biếng cẩu thả; luộm thuộm"
+        },
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "tục tĩu, tà dâm, khiêu dâm, (từ cổ, nghĩa cổ) bẩn thỉu, ghê gớm"
+        }
+      ],
+      "mobileId": 69648,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "濫りがわしい",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "卑猥",
+                "妄りがましい",
+                "猥りがわしい",
+                "いかがわしい",
+                "淫ら"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "猥りがわしい",
+                "だらしない"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "エッチ",
+                "いやらしい",
+                "卑猥",
+                "妄りがましい",
+                "猥りがわしい",
+                "嫌らしい",
+                "いかがわしい",
+                "淫ら",
+                "厭やらしい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ゆるゆる",
+                "ふしだら",
+                "妄りがましい",
+                "猥りがわしい",
+                "淫ら"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "エッチ",
+                "卑猥",
+                "妄りがましい",
+                "猥りがわしい",
+                "嫌らしい",
+                "いかがわしい",
+                "淫ら"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "濫りがわしい"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

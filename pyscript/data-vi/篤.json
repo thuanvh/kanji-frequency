@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9519c7ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "nghiêm túc (bệnh)"
+        }
+      ],
+      "mobileId": 56927,
+      "phonetic": "じゅうあつし",
+      "related_words": {
+        "word": [
+          "重"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "重篤",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "肝腎",
+                "重大",
+                "深刻",
+                "肝要",
+                "大変"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "重篤"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0673e9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "helpful and sincere, kind and honest"
+        }
+      ],
+      "mobileId": 284264,
+      "phonetic": "とっこう",
+      "word": "篤厚"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

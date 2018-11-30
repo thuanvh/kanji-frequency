@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bda423c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "int",
+          "mean": "shh! (used to silence someone), sh!"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "shoo! (used to drive off an approaching animal, etc.)"
+        }
+      ],
+      "mobileId": 246799,
+      "phonetic": "しっ",
+      "word": "叱"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08118f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "int",
+          "mean": "shh! (used to silence someone), sh!"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "shoo! (used to drive off animals, etc.)"
+        }
+      ],
+      "mobileId": 285073,
+      "phonetic": "しっしっ シッシッ",
+      "word": "叱叱"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

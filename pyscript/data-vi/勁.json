@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e86ac378",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mạnh mẽ"
+        }
+      ],
+      "mobileId": 36927,
+      "phonetic": "",
+      "word": "勁"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e872b180",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lanh lợi và mạnh mẽ"
+        }
+      ],
+      "mobileId": 37182,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "勁"
+        ]
+      },
+      "word": "勁捷"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6810fcb9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phát ra ngoài sức mạnh bên trong"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the eldest son"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eight picturesque sights"
+        }
+      ],
+      "mobileId": 554,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "発",
+          "勁"
+        ]
+      },
+      "word": "発勁"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e64d07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wind-resistant blade of grass, resistant idea (metaphorically)"
+        }
+      ],
+      "mobileId": 271942,
+      "phonetic": "けいそう",
+      "word": "勁草"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86c8ba3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dữ tợn và mạnh mẽ"
+        }
+      ],
+      "mobileId": 36979,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "勁"
+        ]
+      },
+      "word": "勁悍"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada526d52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người lính xuất sắc ."
+        }
+      ],
+      "mobileId": 78357,
+      "phonetic": "けいそつ",
+      "related_words": {
+        "word": [
+          "勁"
+        ]
+      },
+      "word": "勁卒"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada527a52",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "勁敵と戦う",
+              "mean": "Chiến đấu chống lại địch thủ ghê gớm .",
+              "transcription": "勁敵とたたかう"
+            }
+          ],
+          "kind": "n",
+          "mean": "Địch thủ ghê gớm"
+        }
+      ],
+      "mobileId": 78358,
+      "phonetic": "けいてき",
+      "related_words": {
+        "word": [
+          "敵",
+          "勁"
+        ]
+      },
+      "word": "勁敵"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

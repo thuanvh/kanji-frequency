@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680145e240",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鱈子",
+              "mean": "Trứng cá tuyết.",
+              "transcription": "たらこ"
+            },
+            {
+              "content": "鱈綱",
+              "mean": "Luồng cá tuyết. .",
+              "transcription": "たらつな"
+            }
+          ],
+          "kind": "n",
+          "mean": "cá tuyết"
+        }
+      ],
+      "mobileId": 42942,
+      "phonetic": "たら",
+      "word": "鱈"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e17051e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "tới trái tim (của) ai đó có nội dung"
+        }
+      ],
+      "mobileId": 111767,
+      "phonetic": "たらはら",
+      "related_words": {
+        "word": [
+          "腹",
+          "鱈"
+        ]
+      },
+      "word": "鱈腹"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a12a4ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pacific cod (Gadus macrocephalus)"
+        }
+      ],
+      "mobileId": 224002,
+      "phonetic": "まだら マダラ",
+      "word": "真鱈"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a12cf1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "walleye pollack, Alaska pollack (Theragra chalcogramma)"
+        }
+      ],
+      "mobileId": 224006,
+      "phonetic": "すけそうだら スケソウダラ",
+      "word": "助宗鱈"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0906557",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sablefish (Anoplopoma fimbria), black cod, Japanese bluefish, North Pacific bluefish, candlefish, sable, blue cod, coal cod, coalfish, beshow, skil, skilfish"
+        }
+      ],
+      "mobileId": 211489,
+      "phonetic": "ぎんだら ギンダラ",
+      "word": "銀鱈"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd713de0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, adv-to",
+          "mean": "tình cờ"
+        }
+      ],
+      "mobileId": 72364,
+      "phonetic": "やたら",
+      "related_words": {
+        "word": [
+          "矢",
+          "鱈"
+        ]
+      },
+      "word": "矢鱈"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0439a46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dried cod"
+        }
+      ],
+      "mobileId": 209020,
+      "phonetic": "ほしだら",
+      "word": "干し鱈"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fcf7d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Arctic cod (Boreogadus saida), polar cod"
+        }
+      ],
+      "mobileId": 272663,
+      "phonetic": "ほっきょくだら ホッキョクダラ",
+      "word": "北極鱈"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771a43e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red king crab (Paralithodes camtschaticus)"
+        }
+      ],
+      "mobileId": 265315,
+      "phonetic": "たらば",
+      "word": "鱈場"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aaf7f46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hiếm khi"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khinh suất; sự thiếu thận trọng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự mù quáng; sự mò mẫm ."
+        }
+      ],
+      "mobileId": 173206,
+      "phonetic": "やたらに",
+      "word": "矢鱈に"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

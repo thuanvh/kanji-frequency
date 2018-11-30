@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e824fb12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "may chần; chăn, mền, gối (ổ rơm (súc vật nằm), địa tầng"
+        }
+      ],
+      "mobileId": 34680,
+      "phonetic": "ふすま",
+      "word": "衾"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8fb6587",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cung cấp chỗ ngủ cho cùng nhau"
+        }
+      ],
+      "mobileId": 41566,
+      "phonetic": "ごうふすま",
+      "word": "合衾"
+    },
+    {
+      "_id": "432518852de0a80625d585a982420bed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "legendary monster resembling a flying squirrel"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Japanese giant flying squirrel (Petaurista leucogenys)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Japanese dish prepared with cooked fish and chicken"
+        }
+      ],
+      "mobileId": 233711,
+      "phonetic": "のぶすま",
+      "word": "野衾"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

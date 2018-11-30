@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1071ec560",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "một"
+        }
+      ],
+      "mobileId": 52370,
+      "phonetic": "いち",
+      "word": "壱"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820ea2e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(in Japan) 1st note of the ancient chromatic scale (approx. D)"
+        }
+      ],
+      "mobileId": 232112,
+      "phonetic": "いちこつ",
+      "word": "壱越"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820eed7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(in gagaku) scale similar to Mixolydian mode on D"
+        }
+      ],
+      "mobileId": 232124,
+      "phonetic": "いちこつちょう いちこちちょう",
+      "word": "壱越調"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a521ef",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "3カ月で1万円？！痛いなあ",
+              "mean": "ối! Ba tháng một vạn yên cơ à. Đắt thế .",
+              "transcription": "3かげつで1まんえん？ ！いたいなあ"
+            }
+          ],
+          "kind": "n",
+          "mean": "một vạn yên"
+        }
+      ],
+      "mobileId": 109506,
+      "phonetic": "きんいちまんえん",
+      "word": "金壱万円"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f6432dc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "棗形の",
+              "mean": "Hình quả táo ta",
+              "transcription": "なつめがたの"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "Quả táo ta; cây táo ta"
+        }
+      ],
+      "mobileId": 186637,
+      "phonetic": "なつめ",
+      "related_words": {
+        "word": [
+          "棗椰子"
+        ]
+      },
+      "word": "棗"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a97202f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jujube"
+        }
+      ],
+      "mobileId": 259947,
+      "phonetic": "たいそう",
+      "word": "大棗"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

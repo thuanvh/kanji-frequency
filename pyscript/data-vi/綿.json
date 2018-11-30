@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027298e9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bông gòn"
+        },
+        {
+          "examples": [
+            {
+              "content": "綿で耳に栓をする",
+              "mean": "nút bông vào tai",
+              "transcription": "めんでみみにせんをする"
+            },
+            {
+              "content": "巻き綿",
+              "mean": "cuộn bông .",
+              "transcription": "まきめん"
+            }
+          ],
+          "kind": "n",
+          "mean": "sợi bông; vải bông; bông; cotton"
+        }
+      ],
+      "mobileId": 29764,
+      "phonetic": "わた",
+      "related_words": {
+        "word": [
+          "木綿",
+          "綿飴",
+          "海綿",
+          "綿密な",
+          "真綿"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "綿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "コットン",
+                "木綿"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コットン",
+                "綿布",
+                "木綿"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "綿"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027296953",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "bông; tơ sống"
+        }
+      ],
+      "mobileId": 29763,
+      "phonetic": "めん",
+      "word": "綿"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77002018",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cotton waste, flue"
+        }
+      ],
+      "mobileId": 264462,
+      "phonetic": "わたくず",
+      "word": "綿屑"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77145e87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rock wool"
+        }
+      ],
+      "mobileId": 265111,
+      "phonetic": "がんめん",
+      "word": "岩綿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a4faa44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-t",
+          "mean": "chirping of a small bird"
+        }
+      ],
+      "mobileId": 225971,
+      "phonetic": "めんばん",
+      "word": "綿蛮"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f443b1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cotton flannel, flannelette"
+        }
+      ],
+      "mobileId": 280569,
+      "phonetic": "めんフランネル",
+      "word": "綿フランネル"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e032036",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cotton production"
+        }
+      ],
+      "mobileId": 248101,
+      "phonetic": "めんさく わたさく",
+      "word": "綿作"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b842e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bông mỹ"
+        }
+      ],
+      "mobileId": 5892,
+      "phonetic": "べいめん",
+      "word": "米綿"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802729d6bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vải cốt tông ."
+        }
+      ],
+      "mobileId": 29772,
+      "phonetic": "めんおりもの",
+      "related_words": {
+        "word": [
+          "物",
+          "綿"
+        ]
+      },
+      "word": "綿織り物"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd4baef7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bông thuốc nổ, bông thuốc súng"
+        }
+      ],
+      "mobileId": 71184,
+      "phonetic": "めんかやく",
+      "word": "綿火薬"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

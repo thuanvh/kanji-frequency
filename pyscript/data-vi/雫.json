@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7eea6a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giọt ."
+        }
+      ],
+      "mobileId": 110751,
+      "phonetic": "しずく",
+      "word": "雫"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8a6034",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một giọt (nước ...)"
+        }
+      ],
+      "mobileId": 14177,
+      "phonetic": "いちしずく",
+      "word": "一雫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

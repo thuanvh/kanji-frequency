@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9757c11",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "seaworthiness"
+        }
+      ],
+      "mobileId": 276488,
+      "phonetic": "たんこうのうりょく",
+      "word": "堪航能力"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107133b76",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giấy chứng nhận khả năng đi biển ."
+        }
+      ],
+      "mobileId": 52185,
+      "phonetic": "たんわたるしょうめいしょ",
+      "word": "堪航証明書"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9544487",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "survivability, military term for the ability to withstand an attack and continue to function"
+        }
+      ],
+      "mobileId": 275427,
+      "phonetic": "こうたんせい",
+      "word": "抗堪性"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

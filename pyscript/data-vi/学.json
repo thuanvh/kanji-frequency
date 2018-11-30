@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c1e2d4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "học; học thuật sự thông thái; kiến thức"
+        }
+      ],
+      "mobileId": 24057,
+      "phonetic": "がく",
+      "word": "学"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c40150",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khoa tia x"
+        }
+      ],
+      "mobileId": 6249,
+      "phonetic": "ほうしゃせんがく",
+      "related_words": {
+        "word": [
+          "線",
+          "放射線"
+        ]
+      },
+      "word": "放射線学"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19366e149",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "paleontology, hóa thạch học"
+        }
+      ],
+      "mobileId": 21199,
+      "phonetic": "かせきがく",
+      "related_words": {
+        "word": [
+          "石",
+          "化石"
+        ]
+      },
+      "word": "化石学"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd90af90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "di truyền học"
+        }
+      ],
+      "mobileId": 14383,
+      "phonetic": "いでんがく",
+      "related_words": {
+        "word": [
+          "伝",
+          "遺伝"
+        ]
+      },
+      "word": "遺伝学"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd3fbe2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chuyển động học"
+        }
+      ],
+      "mobileId": 16472,
+      "phonetic": "うんどうがく",
+      "word": "運動学"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdda5767",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khoa vệ sinh"
+        }
+      ],
+      "mobileId": 16674,
+      "phonetic": "えいせいがく",
+      "word": "衛生学"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a42ed7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Khoa điều dưỡng"
+        }
+      ],
+      "mobileId": 23133,
+      "phonetic": "かんごがく",
+      "related_words": {
+        "word": [
+          "看護"
+        ]
+      },
+      "word": "看護学"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c26b8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giáo dục liên hoan"
+        }
+      ],
+      "mobileId": 24078,
+      "phonetic": "がくさい",
+      "related_words": {
+        "word": [
+          "祭"
+        ]
+      },
+      "word": "学祭"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83034b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "môn học nấm"
+        }
+      ],
+      "mobileId": 35036,
+      "phonetic": "きんるいがく",
+      "word": "菌類学"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88fb417",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiến trúc"
+        }
+      ],
+      "mobileId": 38094,
+      "phonetic": "けんちくがく",
+      "word": "建築学"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

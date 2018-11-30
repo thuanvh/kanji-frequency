@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107b2e768",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "その惑星を覆っている薄いガスの層",
+              "mean": "lớp khí ga mỏng bao quanh hành tinh đó",
+              "transcription": "そのわくせいをおおっているうすいガスのそう"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "tầng lớp"
+        }
+      ],
+      "mobileId": 54901,
+      "phonetic": "そう",
+      "related_words": {
+        "word": [
+          "階層",
+          "高層ビル",
+          "下層",
+          "年齢層",
+          "断層",
+          "地層",
+          "一層",
+          "高層",
+          "成層圏",
+          "表層"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "層",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "レイヤ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "階級",
+                "階層",
+                "クラス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "地層"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "度合",
+                "標準",
+                "段階",
+                "基準",
+                "階層",
+                "座標軸",
+                "レヴェル",
+                "次元",
+                "水準",
+                "レベル",
+                "レイヤ",
+                "程度"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "層"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934cfea0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lớp biểu bì (lớp da) của động vật có xương sống"
+        }
+      ],
+      "mobileId": 20370,
+      "phonetic": "かくしつそう",
+      "word": "角質層"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e876da64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lớp cấu tạo"
+        }
+      ],
+      "mobileId": 37315,
+      "phonetic": "けいせいそう",
+      "word": "形成層"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95f2a309",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lớp có cặn"
+        }
+      ],
+      "mobileId": 63866,
+      "phonetic": "たいせきそう",
+      "word": "堆積層"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bba95dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sublayer"
+        }
+      ],
+      "mobileId": 245800,
+      "phonetic": "ふくそう",
+      "word": "副層"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d05044f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "layering, stratification"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sheafification"
+        }
+      ],
+      "mobileId": 215269,
+      "phonetic": "そうか",
+      "word": "層化"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d69a177",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "monolayer, single layer, single story (storey)"
+        }
+      ],
+      "mobileId": 218492,
+      "phonetic": "たんそう",
+      "related_words": {
+        "word": [
+          "層",
+          "単"
+        ]
+      },
+      "word": "単層"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9631222",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "layer of clay, clay stratum"
+        }
+      ],
+      "mobileId": 259490,
+      "phonetic": "ねんどそう",
+      "word": "粘土層"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cbdb26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuốc súc miệng, thuốc súc họng, súc (miệng, họng)"
+        }
+      ],
+      "mobileId": 24377,
+      "phonetic": "いわそう",
+      "word": "岩層"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ce1c81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tòa nhà cao tầng, tòa cao ốc"
+        }
+      ],
+      "mobileId": 62679,
+      "phonetic": "そうろう",
+      "word": "層楼"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

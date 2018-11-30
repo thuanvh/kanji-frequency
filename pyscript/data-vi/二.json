@@ -1,0 +1,203 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d56b530",
+      "means": [
+        {
+          "examples": null,
+          "kind": "num",
+          "mean": "hai; số hai ."
+        }
+      ],
+      "mobileId": 142922,
+      "phonetic": "に",
+      "related_words": {
+        "word": [
+          "二人",
+          "十二",
+          "二十",
+          "二重",
+          "二酸化炭素",
+          "第二",
+          "二月",
+          "二次元",
+          "二つ",
+          "二次"
+        ]
+      },
+      "word": "二"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a5b6f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "twenty-second day of the month"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "twenty-two days"
+        }
+      ],
+      "mobileId": 278005,
+      "phonetic": "にじゅうににち",
+      "word": "二十二日"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abb04bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the Twenty-Two Shrines, the 22 most important Shinto shrines, as designated during the Heian period"
+        }
+      ],
+      "mobileId": 229389,
+      "phonetic": "にじゅうにしゃ",
+      "word": "二十二社"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a505c6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"ice\" radical"
+        }
+      ],
+      "mobileId": 225994,
+      "phonetic": "にすい",
+      "word": "二水"
+    },
+    {
+      "_id": "432518852de0a80625d585a982578742",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "second year (college) student, sophomore"
+        }
+      ],
+      "mobileId": 234402,
+      "phonetic": "にかいせい",
+      "word": "二回生"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cd3bac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "two rooms"
+        }
+      ],
+      "mobileId": 213467,
+      "phonetic": "ふたま",
+      "word": "二間"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee1ad9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ủng hộ - lớp (thư từ)"
+        }
+      ],
+      "mobileId": 118224,
+      "phonetic": "にしゅ",
+      "related_words": {
+        "word": [
+          "種",
+          "二"
+        ]
+      },
+      "word": "二種"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee3b04f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ủng hộ - tương đối độ"
+        }
+      ],
+      "mobileId": 118292,
+      "phonetic": "にとうしん",
+      "related_words": {
+        "word": [
+          "等",
+          "親",
+          "二"
+        ]
+      },
+      "word": "二等親"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e7d34e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "two causes"
+        }
+      ],
+      "mobileId": 280171,
+      "phonetic": "にいん",
+      "word": "二因"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d57596d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "女王エリザベス二世",
+              "mean": "Nữ hoàng Elizabeth đệ nhị",
+              "transcription": "じょおうえりざべすにせい"
+            },
+            {
+              "content": "二世に権力と名声が集まる現象",
+              "mean": "Hiện tượng tập trung danh tiếng và quyền lực ở thời nhị đế .",
+              "transcription": "にせいにけんりょくとめいせいがあつまるげんしょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "nhị thế; đời thứ hai"
+        }
+      ],
+      "mobileId": 142934,
+      "phonetic": "にせい",
+      "related_words": {
+        "word": [
+          "二",
+          "世"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "二世",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "二号",
+                "セカンド",
+                "二番",
+                "二番目",
+                "二着"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "二世"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

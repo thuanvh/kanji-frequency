@@ -1,0 +1,250 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a2a4107",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đồ vật"
+        },
+        {
+          "examples": [
+            {
+              "content": "私の物は私の物。あなたの物も私の物。",
+              "mean": "Những gì thuộc về tôi thì là của tôi. Những gì thuộc về anh cũng là của tôi. .",
+              "transcription": "わたしのものはわたしのもの。あなたのものもわたしのもの。"
+            }
+          ],
+          "kind": "n",
+          "mean": "vật"
+        }
+      ],
+      "mobileId": 171073,
+      "phonetic": "もの",
+      "related_words": {
+        "word": [
+          "建物",
+          "荷物",
+          "物理",
+          "動物",
+          "物語",
+          "買い物",
+          "食べ物",
+          "植物",
+          "物件",
+          "異物"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "物",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "品",
+                "物件",
+                "物品",
+                "品物",
+                "代物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "物事",
+                "物件",
+                "什",
+                "事柄",
+                "事",
+                "代物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "物質"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "品",
+                "物品",
+                "品物"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "物事",
+                "事柄",
+                "事物",
+                "件"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "物"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6818b145",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thứ cây có hoa"
+        }
+      ],
+      "mobileId": 788,
+      "phonetic": "はなぶつ",
+      "word": "花物"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681eb42a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây lá (trong cắm hoa ...); rau ăn lá"
+        }
+      ],
+      "mobileId": 975,
+      "phonetic": "はぶつ",
+      "word": "葉物"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687ee27e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "của cải; phần phụ thêm; phụ trợ"
+        }
+      ],
+      "mobileId": 4035,
+      "phonetic": "ふぞくぶつ",
+      "related_words": {
+        "word": [
+          "物",
+          "付",
+          "付属"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "付属物",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "附録",
+                "付属品",
+                "アクセサリー",
+                "付録"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "付属物"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688dc155",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đình chỉ những hạt; việc nổi quan trọng"
+        }
+      ],
+      "mobileId": 4503,
+      "phonetic": "ふゆうぶつ",
+      "word": "浮遊物"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683b9904",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(1) thân thể sáng chói thích một sao băng;(2) bất kỳ kim loại sáng sủa nào;(3) lạng mỏng câu cá với da bạc tiếp tục bỏ lại (iwashi, aji, sayori, sanma, kohada, vân vân.)"
+        }
+      ],
+      "mobileId": 1942,
+      "phonetic": "ひかりぶつ",
+      "word": "光物"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684b2b32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những nhu cầu"
+        }
+      ],
+      "mobileId": 2422,
+      "phonetic": "ひつようぶつ",
+      "related_words": {
+        "word": [
+          "必要",
+          "物"
+        ]
+      },
+      "word": "必要物"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4bd1f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vải (len) có hình vẽ; dệt gấm vóc"
+        }
+      ],
+      "mobileId": 12218,
+      "phonetic": "あやおりぶつ",
+      "word": "綾織物"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfdca8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nỉ mỏng"
+        }
+      ],
+      "mobileId": 17812,
+      "phonetic": "おおはばぶつ",
+      "word": "大幅物"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde6b771",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clo-rua"
+        }
+      ],
+      "mobileId": 17064,
+      "phonetic": "えんかぶつ",
+      "related_words": {
+        "word": [
+          "物",
+          "塩",
+          "塩化"
+        ]
+      },
+      "word": "塩化物"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10719997f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mả"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mồ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mồ mả"
+        },
+        {
+          "examples": [
+            {
+              "content": "墓掘り人",
+              "mean": "phu đào huyệt",
+              "transcription": "はかほりじん"
+            },
+            {
+              "content": "墓場",
+              "mean": "nghĩa trang",
+              "transcription": "はかば"
+            }
+          ],
+          "kind": "n",
+          "mean": "mộ; huyệt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà mồ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phần mộ ."
+        }
+      ],
+      "mobileId": 52288,
+      "phonetic": "はか",
+      "related_words": {
+        "word": [
+          "墓地",
+          "墓参り",
+          "墓石",
+          "墓参",
+          "墓標",
+          "墓穴"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "墓",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "墳墓",
+                "墓穴"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "墓"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0597ac7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "husband and wife tomb"
+        }
+      ],
+      "mobileId": 283834,
+      "phonetic": "めおとばか ふうふばか",
+      "word": "夫婦墓"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c07ac9ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gravedigger"
+        }
+      ],
+      "mobileId": 210790,
+      "phonetic": "はかほり",
+      "word": "墓掘り"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90df965",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tomb of someone with no relatives to mourn their death"
+        }
+      ],
+      "mobileId": 273216,
+      "phonetic": "むえんばか",
+      "word": "無縁墓"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a972a911",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tomb embedded in a Yayoi period barrow"
+        }
+      ],
+      "mobileId": 259968,
+      "phonetic": "ふんきゅうぼ",
+      "word": "墳丘墓"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05aa07a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "imperial tomb"
+        }
+      ],
+      "mobileId": 283871,
+      "phonetic": "みはか",
+      "word": "御墓"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0308bbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grave-robbing"
+        }
+      ],
+      "mobileId": 282504,
+      "phonetic": "はかあらし",
+      "word": "墓荒らし"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6daf9966",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grave robber, grave robbing"
+        }
+      ],
+      "mobileId": 220786,
+      "phonetic": "はかどろぼう",
+      "word": "墓泥棒"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a934e2b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cemetery, graveyard"
+        }
+      ],
+      "mobileId": 257977,
+      "phonetic": "ぼえん",
+      "word": "墓園"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6803c897",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người chăm sóc mộ, người quản lý nghĩa trang"
+        }
+      ],
+      "mobileId": 113,
+      "phonetic": "はかもり",
+      "word": "墓守り"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

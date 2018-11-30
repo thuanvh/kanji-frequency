@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e085dc1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự chóng mặt, sự choáng váng, sự lảo đảo"
+        }
+      ],
+      "mobileId": 111300,
+      "phonetic": "たちまばゆ",
+      "word": "立ち眩"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0117fb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vi",
+          "mean": "to spin, to revolve, to twirl"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to be dizzy, to feel faint"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to bustle about"
+        }
+      ],
+      "mobileId": 189704,
+      "phonetic": "くるめく",
+      "word": "眩めく"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c023f30d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "to dazzle, to make dizzy, to bewilder"
+        }
+      ],
+      "mobileId": 190312,
+      "phonetic": "くらます",
+      "word": "眩ます"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

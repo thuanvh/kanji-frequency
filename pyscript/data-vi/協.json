@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada6c04ec",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（財）インターネット協会",
+              "mean": "Hiệp hội Internet",
+              "transcription": "ざいだんほうじんインターネットきょうかい"
+            },
+            {
+              "content": "（財）アジア人口・開発協会",
+              "mean": "Hiệp hội dân số và phát triển Châu Á",
+              "transcription": "ざいだんほうじんアジアじんこう・かいはつきょうかい"
+            },
+            {
+              "content": "（財）アジア研究協",
+              "mean": "Hiệp hội nghiên cứu Châu Á",
+              "transcription": "ざいだんほうじんアジアけんきゅうきょう"
+            },
+            {
+              "content": "（財）ひょうご科学技術協会",
+              "mean": "Hiệp hội khoa học và kỹ thuật Hyogo",
+              "transcription": "ざいだんほうじんひょうごかがくぎじゅつきょうかい"
+            }
+          ],
+          "kind": "n-suf",
+          "mean": "hiệp (hội)"
+        }
+      ],
+      "mobileId": 78795,
+      "phonetic": "きょう",
+      "related_words": {
+        "word": [
+          "協会",
+          "妥協",
+          "協定",
+          "生協",
+          "妥協する",
+          "農協",
+          "御協力",
+          "妥協案",
+          "生活協同組合",
+          "紳士協定"
+        ]
+      },
+      "word": "協"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86da89a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hội nghị quản lý"
+        }
+      ],
+      "mobileId": 37017,
+      "phonetic": "けいきょう",
+      "word": "経協"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80999ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hiệp tâm, sự đồng tâm tương trợ lẫn nhau"
+        }
+      ],
+      "mobileId": 33800,
+      "phonetic": "きょうしん",
+      "related_words": {
+        "word": [
+          "心",
+          "協"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "協心",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "調和",
+                "一致",
+                "アコード"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ユニゾン",
+                "斉唱"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "協心"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80e2069",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự hợp tác"
+        }
+      ],
+      "mobileId": 33946,
+      "phonetic": "",
+      "word": "協働"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9567f05f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hiệp hội hợp tác; hợp tác xã"
+        }
+      ],
+      "mobileId": 59413,
+      "phonetic": "なまきょう",
+      "related_words": {
+        "word": [
+          "生",
+          "協"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "生協",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "コープ",
+                "生活協同組合"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "生活協同組合"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "生協"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770e2b62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "technology association, technology institute"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "technical cooperation"
+        }
+      ],
+      "mobileId": 264909,
+      "phonetic": "ぎきょう",
+      "word": "技協"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a972ac3a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "participatory government, participatory management, collaborative governance"
+        }
+      ],
+      "mobileId": 259969,
+      "phonetic": "きょうち",
+      "word": "協治"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4b2f2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japan Environmental Management Association for Industry, JEMAI"
+        }
+      ],
+      "mobileId": 217488,
+      "phonetic": "さんかんきょう",
+      "word": "産環協"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f09f182",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hiệp hội giao lưu văn hóa Nhật Mỹ ."
+        }
+      ],
+      "mobileId": 185091,
+      "phonetic": "にちべいきょう",
+      "word": "日米協"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e805f9f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đấu thủ, đối thủ, người tranh giải, người dự thi, người tranh luận, người tranh cãi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lực sĩ, vận động viên (điền kinh, thể dục thể thao)"
+        }
+      ],
+      "mobileId": 33679,
+      "phonetic": "きょうわざしゃ",
+      "word": "協技者"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

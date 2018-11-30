@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f7fd26f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "動物園の檻に入れられている動物",
+              "mean": "Những con vật mà bị nhốt trong lồng tại các trại thú",
+              "transcription": "どうぶつえんのおりにいれられているどうぶつ"
+            },
+            {
+              "content": "檻の中の若鳥一羽は沼地にいる百羽よりましだ。",
+              "mean": "Một con chim trong lồng còn đáng giá hơn một trăm con chim trong đầm lầy .",
+              "transcription": "おりのなかのわかとりいちわはぬまちにいるひゃくわよりましだ。"
+            }
+          ],
+          "kind": "n",
+          "mean": "lồng"
+        }
+      ],
+      "mobileId": 187000,
+      "phonetic": "おり",
+      "synsets": [
+        {
+          "base_form": "檻",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ケージ",
+                "伏せ籠"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "監房",
+                "独居室",
+                "独房"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "檻"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02dc4eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "elephant cage, Wullenweber antenna, large circular antenna array used for radio direction finding"
+        }
+      ],
+      "mobileId": 282413,
+      "phonetic": "ぞうのおり",
+      "word": "象の檻"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

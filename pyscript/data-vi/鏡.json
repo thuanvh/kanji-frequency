@@ -1,0 +1,242 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7bd4f88",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜を検査するための内視鏡",
+              "mean": "đèn nội soi để kiểm tra",
+              "transcription": "〜をけんさするためのうちしきょう"
+            },
+            {
+              "content": "分かりました。それら(木の鏡)は125ドルですね",
+              "mean": "hiểu rồi ạ, cái gương gỗ đó là 125 $ .",
+              "transcription": "わかりました。それら(きのかがみ)は125ドルですね"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái gương; gương; gương soi; đèn"
+        }
+      ],
+      "mobileId": 109919,
+      "phonetic": "かがみ",
+      "related_words": {
+        "word": [
+          "眼鏡",
+          "万華鏡",
+          "顕微鏡",
+          "虫眼鏡",
+          "望遠鏡",
+          "双眼鏡",
+          "鏡板",
+          "反射鏡",
+          "単眼鏡",
+          "合わせ鏡"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鏡",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ミラー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鏡"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd52b02e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trước mặt những gương"
+        }
+      ],
+      "mobileId": 12432,
+      "phonetic": "あわせきょう",
+      "related_words": {
+        "word": [
+          "鏡"
+        ]
+      },
+      "word": "合わせ鏡"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde7f190",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gương tròn; bánh bột gạo hình tròn (dùng cúng thần ...)"
+        }
+      ],
+      "mobileId": 17108,
+      "phonetic": "えんきょう",
+      "related_words": {
+        "word": [
+          "円",
+          "鏡"
+        ]
+      },
+      "word": "円鏡"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95089a1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kính nhìn nổi"
+        }
+      ],
+      "mobileId": 56391,
+      "phonetic": "じったいきょう",
+      "word": "実体鏡"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568011a2ff9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "蛍光顕微鏡",
+              "mean": "Kính hiển vi huỳnh quang",
+              "transcription": "けいこうけんびきょう"
+            },
+            {
+              "content": "解剖顕微鏡",
+              "mean": "Kính hiển vi giải phẫu",
+              "transcription": "かいぼうけんびきょう"
+            },
+            {
+              "content": "イオン顕微鏡",
+              "mean": "kính hiển vi ion",
+              "transcription": "イオンけんびきょう"
+            },
+            {
+              "content": "X線顕微鏡",
+              "mean": "Kính hiển vi tia X .",
+              "transcription": "Xせんけんびきょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "kính hiển vi"
+        }
+      ],
+      "mobileId": 42194,
+      "phonetic": "けんびきょう",
+      "related_words": {
+        "word": [
+          "鏡"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "顕微鏡",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "マイクロスコープ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "顕微鏡"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74ab7762",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜を拡大鏡で調べる",
+              "mean": "nghiên cứu, kiểm tra ~ bằng kính lúp",
+              "transcription": "〜をかくだいきょうでしらべる"
+            },
+            {
+              "content": "双眼拡大鏡",
+              "mean": "kính lúp của ống nhòm",
+              "transcription": "そうがんかくだいきょう"
+            },
+            {
+              "content": "雪のかけらを拡大鏡でよく見る",
+              "mean": "kiểm tra các mảnh vụn của tuyết bằng kính lúp .",
+              "transcription": "ゆきのかけらをかくだいきょうでよくみる"
+            }
+          ],
+          "kind": "n",
+          "mean": "Kính phóng đại; kính lúp"
+        }
+      ],
+      "mobileId": 99967,
+      "phonetic": "かくだいきょう",
+      "word": "拡大鏡"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9eddf0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "otoscope, auriscope, auroscope"
+        }
+      ],
+      "mobileId": 280369,
+      "phonetic": "じきょう",
+      "word": "耳鏡"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bc0a62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eyepiece, ocular lens"
+        }
+      ],
+      "mobileId": 262285,
+      "phonetic": "せつがんきょう",
+      "word": "接眼鏡"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d3c664",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lens-barrel, lens tube (e.g. of a telescope)"
+        }
+      ],
+      "mobileId": 263036,
+      "phonetic": "きょうとう",
+      "word": "鏡筒"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9dd3e25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional mirror with a handle, popular since the Muromachi period"
+        }
+      ],
+      "mobileId": 263344,
+      "phonetic": "えかがみ",
+      "word": "柄鏡"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

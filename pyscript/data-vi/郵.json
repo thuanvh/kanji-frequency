@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96d5653",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(an item of) electronic mail (e-mail), e-mail message"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "electronic mail (e-mail) service, electronic mail (e-mail) system"
+        }
+      ],
+      "mobileId": 259794,
+      "phonetic": "でんゆう",
+      "word": "電郵"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96603d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(an item of) electronic mail (e-mail), e-mail message"
+        }
+      ],
+      "mobileId": 259575,
+      "phonetic": "でんしゆうけん",
+      "word": "電子郵件"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96d5add",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "email from a cell phone or mobile phone"
+        }
+      ],
+      "mobileId": 259795,
+      "phonetic": "けいたいでんゆう",
+      "word": "携帯電郵"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

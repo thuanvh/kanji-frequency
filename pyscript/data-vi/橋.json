@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f7b1c88",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "橋を渡す",
+              "mean": "Đi qua cầu.",
+              "transcription": "はしをわたす"
+            },
+            {
+              "content": "1車線の橋",
+              "mean": "Cầu dành cho một làn xe",
+              "transcription": "1しゃせんのはし"
+            },
+            {
+              "content": "川に架かる橋",
+              "mean": "Cầu bắc qua sông",
+              "transcription": "かわにかかるはし"
+            },
+            {
+              "content": "オンラインのデジタル世界と人間性を結ぶ橋",
+              "mean": "Cầu nối giữa con người và thế giới kĩ thuật số của chương trình trực tuyến",
+              "transcription": "オンラインのデジタルせかいとにんげんせいをむすぶはし"
+            }
+          ],
+          "kind": "n",
+          "mean": "cầu"
+        }
+      ],
+      "mobileId": 186946,
+      "phonetic": "はし",
+      "related_words": {
+        "word": [
+          "架け橋",
+          "桟橋",
+          "歩道橋",
+          "橋渡し",
+          "石橋",
+          "架橋",
+          "鉄橋",
+          "艦橋",
+          "吊り橋"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "橋",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ブリッジ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "架橋",
+                "ブリッジ",
+                "架け橋"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "橋"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19394b0f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cầu tạm"
+        }
+      ],
+      "mobileId": 22647,
+      "phonetic": "かりはし",
+      "related_words": {
+        "word": [
+          "仮",
+          "橋"
+        ]
+      },
+      "word": "仮橋"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca040f658",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unusual bridge"
+        }
+      ],
+      "mobileId": 283047,
+      "phonetic": "ききょう",
+      "word": "奇橋"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4110cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "saddle tree"
+        }
+      ],
+      "mobileId": 250123,
+      "phonetic": "くらぼね あんが",
+      "word": "鞍橋"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb10ed7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cầu phao"
+        }
+      ],
+      "mobileId": 15416,
+      "phonetic": "うききょう",
+      "word": "浮き橋"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ab5c1e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cầu vượt"
+        }
+      ],
+      "mobileId": 38967,
+      "phonetic": "こうかきょう",
+      "word": "高架橋"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec0f2f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cầu đường bộ"
+        }
+      ],
+      "mobileId": 117208,
+      "phonetic": "どうろきょう",
+      "word": "道路橋"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a2494f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "railroad bridge"
+        }
+      ],
+      "mobileId": 269708,
+      "phonetic": "てつどうきょう",
+      "word": "鉄道橋"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c06e57ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cambridge"
+        }
+      ],
+      "mobileId": 202169,
+      "phonetic": "ケンブリッジ",
+      "word": "剣橋"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09eb1c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bridge designed to be underwater during a flood"
+        }
+      ],
+      "mobileId": 211950,
+      "phonetic": "ちんかばし",
+      "word": "沈下橋"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

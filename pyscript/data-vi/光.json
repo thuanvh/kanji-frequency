@@ -1,0 +1,241 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7de22b36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ánh sáng ."
+        }
+      ],
+      "mobileId": 145291,
+      "opposite_word": [
+        "闇",
+        "影"
+      ],
+      "phonetic": "ひかり",
+      "related_words": {
+        "word": [
+          "観光",
+          "光る",
+          "太陽光発電",
+          "観光地",
+          "蛍光灯",
+          "光栄",
+          "光熱費",
+          "月光",
+          "栄光",
+          "観光客"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "光",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "明かり"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "可視光線",
+                "光線"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "輝き",
+                "煌めき"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "電気",
+                "ランプ",
+                "灯り",
+                "灯火",
+                "明かり",
+                "明り",
+                "灯"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "光"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab683b814d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quang học manhêtô"
+        }
+      ],
+      "mobileId": 1939,
+      "phonetic": "ひかりじき",
+      "related_words": {
+        "word": [
+          "光",
+          "気",
+          "磁気"
+        ]
+      },
+      "word": "光磁気"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3f9af0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "photoconduction"
+        }
+      ],
+      "mobileId": 225453,
+      "phonetic": "こうでんどう ひかりでんどう",
+      "word": "光伝導"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde8b17f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cháy"
+        }
+      ],
+      "mobileId": 17139,
+      "phonetic": "ほのおこう",
+      "related_words": {
+        "word": [
+          "光",
+          "炎"
+        ]
+      },
+      "word": "炎光"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8aa6403",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cháy"
+        }
+      ],
+      "mobileId": 38936,
+      "phonetic": "ひかりえん",
+      "related_words": {
+        "word": [
+          "光",
+          "炎"
+        ]
+      },
+      "word": "光炎"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca016d226",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "photolysis, photodecomposition, photodissociation"
+        }
+      ],
+      "mobileId": 281691,
+      "phonetic": "こうぶんかい ひかりぶんかい",
+      "word": "光分解"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdddf1a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phát sáng, sự phát quang"
+        }
+      ],
+      "mobileId": 75854,
+      "phonetic": "ひやこう",
+      "related_words": {
+        "word": [
+          "光",
+          "冷"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "冷光",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ルミネッセンス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "冷光"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada713150",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nam cực quang ."
+        }
+      ],
+      "mobileId": 78866,
+      "phonetic": "なんきょくこう",
+      "related_words": {
+        "word": [
+          "光",
+          "南",
+          "極",
+          "南極"
+        ]
+      },
+      "word": "南極光"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98114bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blue light (e.g. of LED), blue glow, cadmium blue"
+        }
+      ],
+      "mobileId": 276846,
+      "phonetic": "あおいろこう",
+      "word": "青色光"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9275866",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "alpenglow, alpine glow"
+        }
+      ],
+      "mobileId": 274026,
+      "phonetic": "さんちょうこう",
+      "word": "山頂光"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada2802750089c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "紙の肌",
+              "mean": "bề mặt giấy",
+              "transcription": "かみのはだ"
+            }
+          ],
+          "kind": "n",
+          "mean": "bề mặt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "da; da dẻ ."
+        }
+      ],
+      "mobileId": 30462,
+      "phonetic": "はだ",
+      "related_words": {
+        "word": [
+          "肌色",
+          "鳥肌",
+          "肌着",
+          "肌寒い",
+          "素肌",
+          "地肌",
+          "肌触り",
+          "肌で感じる",
+          "肌理"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "肌",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "皮膚",
+                "人肌",
+                "素肌",
+                "スキン",
+                "皮",
+                "外皮",
+                "表皮"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "肌"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01edc0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dry skin"
+        }
+      ],
+      "mobileId": 281935,
+      "phonetic": "かんそうはだ",
+      "word": "乾燥肌"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06f7417",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "academic type, scholarly turn of mind"
+        }
+      ],
+      "mobileId": 284534,
+      "phonetic": "がっきゅうはだ",
+      "word": "学究肌"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0205359",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5g, vi",
+          "mean": "to remove one's shirt thus revealing the skin, to remove the upper part of one's garments"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to work with great effort"
+        }
+      ],
+      "mobileId": 190195,
+      "phonetic": "はだぬぐ",
+      "word": "肌脱ぐ"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0303962",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "skin as white as an egg"
+        }
+      ],
+      "mobileId": 282492,
+      "phonetic": "たまごはだ",
+      "word": "卵肌"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca055dfe2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "artisan's temperament, character of a complete artisan"
+        }
+      ],
+      "mobileId": 283719,
+      "phonetic": "しょくにんはだ",
+      "word": "職人肌"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd406534",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghệ sĩ có hoặc người chủ có tính khí"
+        }
+      ],
+      "mobileId": 70845,
+      "phonetic": "めいじんはだ",
+      "word": "名人肌"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77430b71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thinner futon (in contact with the skin)"
+        }
+      ],
+      "mobileId": 266623,
+      "phonetic": "はだぶとん",
+      "word": "肌布団"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b221a2a0b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "bề mặt vật đúc"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "いはだ",
+      "word": "鋳肌"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ed6fe4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bóc vỏ"
+        }
+      ],
+      "mobileId": 25447,
+      "phonetic": "はだはだ",
+      "word": "肌膚"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568013932e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cốt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xương"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xương cốt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xương xẩu ."
+        }
+      ],
+      "mobileId": 42705,
+      "phonetic": "ほね",
+      "related_words": {
+        "word": [
+          "骨折",
+          "骸骨",
+          "骨格",
+          "骨董品",
+          "頭蓋骨",
+          "骨盤",
+          "鉄骨",
+          "軟骨",
+          "肩甲骨",
+          "鎖骨"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "骨",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "骨組織"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "骨法"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "骨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a876444",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phalanx (phalange) of the hand"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phalanx (phalange) of the foot"
+        }
+      ],
+      "mobileId": 227720,
+      "phonetic": "しこつ",
+      "word": "指骨"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568011549a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Xương đỉnh ."
+        }
+      ],
+      "mobileId": 42127,
+      "phonetic": "とうちょうこつ",
+      "word": "頭頂骨"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68eef259",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những xương kể sử dụng động vật vận may"
+        }
+      ],
+      "mobileId": 7619,
+      "phonetic": "ぼくぼね",
+      "word": "卜骨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0bcb5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "ethmoid bone (of the skull)"
+        }
+      ],
+      "mobileId": 223773,
+      "phonetic": "しこつ",
+      "word": "篩骨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0bd861",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "vomer (a bone of the skull)"
+        }
+      ],
+      "mobileId": 223775,
+      "phonetic": "じょこつ",
+      "word": "鋤骨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0bdce3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "maxilla, upper jawbone"
+        }
+      ],
+      "mobileId": 223776,
+      "phonetic": "じょうがくこつ",
+      "word": "上顎骨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0e0bc4",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Xương búa ( ở tai)"
+        }
+      ],
+      "mobileId": 223853,
+      "phonetic": "つちこつ ついこつ",
+      "word": "槌骨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a12e927",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bone spur, osteophyte"
+        }
+      ],
+      "mobileId": 224008,
+      "phonetic": "こつきょく こっきょく",
+      "word": "骨棘"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a9dd97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "monochrome print (woodblock, copper etching)"
+        }
+      ],
+      "mobileId": 286380,
+      "phonetic": "ほねすり",
+      "word": "骨刷り"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

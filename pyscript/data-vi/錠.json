@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95293d04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ổ khóa, cái khóa; thuốc viên"
+        }
+      ],
+      "mobileId": 57411,
+      "phonetic": "じょう",
+      "word": "錠"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde41855",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái khoá móc, khoá móc"
+        }
+      ],
+      "mobileId": 16983,
+      "phonetic": "えびじょう",
+      "word": "蝦錠"
+    },
+    {
+      "_id": "432518852de0a80625d585a98223d23f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "unlocking"
+        }
+      ],
+      "mobileId": 232759,
+      "opposite_word": [
+        "施錠"
+      ],
+      "phonetic": "かいじょう",
+      "word": "開錠"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde41856",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái khoá móc, khoá móc"
+        }
+      ],
+      "mobileId": 16984,
+      "phonetic": "えびじょう",
+      "word": "海老錠"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027131f85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ghép lại; sự kết hợp; sự liên kết lại ."
+        }
+      ],
+      "mobileId": 29436,
+      "phonetic": "くみあわせじょう",
+      "related_words": {
+        "word": [
+          "組み合わせ",
+          "組"
+        ]
+      },
+      "word": "組み合わせ錠"
+    },
+    {
+      "_id": "432518852de0a80625d585a982242bc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bolt"
+        }
+      ],
+      "mobileId": 232771,
+      "phonetic": "さしじょう",
+      "word": "挿錠"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d199e82",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "りんごの一錠",
+              "mean": "một khay táo",
+              "transcription": "りんごのいちじょう"
+            },
+            {
+              "content": "イチゴジャムの一錠",
+              "mean": "khay mứt dâu .",
+              "transcription": "イチゴジャムのいちじょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "một khay"
+        }
+      ],
+      "mobileId": 141730,
+      "phonetic": "いちじょう",
+      "related_words": {
+        "word": [
+          "一"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "一錠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "盆"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "一錠"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be236bf0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự khóa hình trụ"
+        }
+      ],
+      "mobileId": 90418,
+      "phonetic": "シリンダーじょう",
+      "word": "シリンダー錠"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e97215d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Mở khoá (cửa, ô tô v.v...)"
+        }
+      ],
+      "mobileId": 0,
+      "opposite_word": [
+        "施錠"
+      ],
+      "phonetic": "かいじょう",
+      "word": "解錠"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95390645",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "để buộc chặt một sự khóa"
+        }
+      ],
+      "mobileId": 57894,
+      "phonetic": "じょうをかける",
+      "word": "錠を掛ける"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

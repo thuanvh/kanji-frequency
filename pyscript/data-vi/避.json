@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08cb980",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "abstention"
+        }
+      ],
+      "mobileId": 211361,
+      "phonetic": "ひし",
+      "word": "避止"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e3972de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "helping a criminal to avoid arrest"
+        }
+      ],
+      "mobileId": 249859,
+      "phonetic": "いんぴ",
+      "word": "隠避"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b2225ae7f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "進路の前方に障害物がある時の避譲",
+              "mean": "Nhường đường khi trước đường có vật cản",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Nhường, Tránh"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ひじょう",
+      "word": "避譲"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d15d23c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vt",
+          "mean": "tránh, tránh xa, huỷ bỏ, thủ tiêu ; bác bỏ (lý lẽ, lời biện hộ)"
+        }
+      ],
+      "mobileId": 146440,
+      "phonetic": "さく,  よく",
+      "synsets": [
+        {
+          "base_form": "避く",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "避ける",
+                "控える"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "避ける",
+                "免れる"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "避ける",
+                "免れる",
+                "遠ざける",
+                "斎む"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "避く"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a860ead",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flying lemur, colugo"
+        }
+      ],
+      "mobileId": 227681,
+      "phonetic": "ひよけざる ヒヨケザル",
+      "word": "日避猿"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4581ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sun spider (any arachnid of order Solifugae), wind scorpion, camel spider, solpugid"
+        }
+      ],
+      "mobileId": 250261,
+      "phonetic": "ひよけむし ヒヨケムシ",
+      "word": "日避虫"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e199ff4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Where there's a will, there's a way"
+        }
+      ],
+      "mobileId": 248841,
+      "phonetic": "だんじておこなえばきしんもこれをさく",
+      "word": "断じて行えば鬼神も之を避く"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

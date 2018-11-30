@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dd6e7c8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "まだ4歳だよ！僕が4歳のころは、ゲイって言葉も知らなかったよ！",
+              "mean": "Con bé mới 4 tuổi mà. Hồi tôi 4 tuổi tôi còn không biết cả từ \"Ái nam\"",
+              "transcription": "まだ4さいだよ！ぼくが4さいのころは、ゲイってことばもしらなかったよ！"
+            },
+            {
+              "content": "今晩は僕、お風呂入らない。昨日入ったもん。",
+              "mean": "Tối nay tớ không tắm đâu. Tớ đã tắm hôm qua rồi.",
+              "transcription": "こんばんはぼく、おふろはいらない。きのうはいったもん。"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "tôi"
+        }
+      ],
+      "mobileId": 145113,
+      "opposite_word": [
+        "君"
+      ],
+      "phonetic": "ぼく",
+      "related_words": {
+        "word": [
+          "僕ら",
+          "下僕",
+          "僕達"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "僕",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "下部",
+                "召使",
+                "下郎",
+                "奉公人",
+                "召し使い"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "下部",
+                "下男",
+                "家僕",
+                "奴",
+                "下僕"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "僕"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ed0631",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người hầu thành viên (bạn)"
+        }
+      ],
+      "mobileId": 7551,
+      "phonetic": "ぼくなかま",
+      "related_words": {
+        "word": [
+          "間",
+          "僕",
+          "仲間",
+          "仲"
+        ]
+      },
+      "word": "僕仲間"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ecbeaa",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chúng tôi, chúng ta"
+        }
+      ],
+      "mobileId": 7540,
+      "phonetic": "ぼくたち",
+      "word": "僕たち"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9883f9e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "woman who uses boku to refer to herself"
+        }
+      ],
+      "mobileId": 260649,
+      "phonetic": "ぼくおんな",
+      "word": "僕女"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ed288d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "ở (tại) chỗ (của) tôi"
+        }
+      ],
+      "mobileId": 7560,
+      "phonetic": "ぼくんところ",
+      "word": "僕ん所"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e51299f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người ở trung thành"
+        }
+      ],
+      "mobileId": 113625,
+      "phonetic": "ちゅうじつなぼく",
+      "word": "忠実な僕"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

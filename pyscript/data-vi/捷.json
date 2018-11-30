@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e872b180",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lanh lợi và mạnh mẽ"
+        }
+      ],
+      "mobileId": 37182,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "勁"
+        ]
+      },
+      "word": "勁捷"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0808794",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "smart, clever"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "agile, nimble, quick"
+        }
+      ],
+      "mobileId": 210979,
+      "phonetic": "はしっこい はしこい",
+      "word": "捷い"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

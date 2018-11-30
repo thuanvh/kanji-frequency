@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6df1a10d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "over the counter sales (often of financial packages)"
+        }
+      ],
+      "mobileId": 222940,
+      "phonetic": "まどはん",
+      "word": "窓販"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e899313",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sales, inventory and production planning, SIPP"
+        }
+      ],
+      "mobileId": 252467,
+      "phonetic": "せいはんざいけいかく",
+      "word": "生販在計画"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf80bda",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sales, general, and administrative expenses"
+        }
+      ],
+      "mobileId": 247746,
+      "phonetic": "はんかんひ",
+      "related_words": {
+        "word": [
+          "管",
+          "費"
+        ]
+      },
+      "word": "販管費"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e89c48d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "production, sales and inventory, PSI"
+        }
+      ],
+      "mobileId": 252474,
+      "phonetic": "せいはんざい",
+      "word": "生販在"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

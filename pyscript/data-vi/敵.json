@@ -1,0 +1,424 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74f0c446",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "日本と米国は第二次世界大戦中、敵同士であった",
+              "mean": "Nhật Bản và Mỹ là kẻ đối đầu của nhau trong suốt chiến tranh thế giới thứ hai",
+              "transcription": "にっぽんとべいこくはだいにじせかいたいせんちゅう、かたきどうしであった"
+            },
+            {
+              "content": "最大の敵は自分自身である",
+              "mean": "kẻ thù lớn nhất chính là bản thân chúng ta",
+              "transcription": "さいだいのてきはじぶんじしんである"
+            },
+            {
+              "content": "敵の敵は味方である",
+              "mean": "kẻ thù của kẻ thù là bạn của mình .",
+              "transcription": "てきのてきはみかたである"
+            }
+          ],
+          "kind": "n-suf, n",
+          "mean": "kẻ thù; kẻ đối đầu"
+        }
+      ],
+      "mobileId": 101077,
+      "opposite_word": [
+        "味方"
+      ],
+      "phonetic": "かたき",
+      "related_words": {
+        "word": [
+          "素敵な",
+          "素敵",
+          "無敵",
+          "天敵",
+          "索敵",
+          "敵意",
+          "敵対",
+          "不敵",
+          "匹敵",
+          "無敵艦隊"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "敵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "敵軍"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仇敵",
+                "エネミー",
+                "仇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ライバル",
+                "相手"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "没落",
+                "滅亡",
+                "仇",
+                "破滅",
+                "衰亡",
+                "荒廃"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "疲弊",
+                "没落",
+                "破壊",
+                "滅亡",
+                "壊滅",
+                "仇",
+                "破滅",
+                "衰亡",
+                "荒廃"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "エネミー",
+                "仇同氏",
+                "仇",
+                "反対者"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "相手"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "不和",
+                "仇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "敵対者",
+                "反対者"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "敵"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74f0e36c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "国内と国外の敵",
+              "mean": "kẻ thù trong và ngoài nước",
+              "transcription": "こくないとこくがいのてき"
+            },
+            {
+              "content": "2 人は敵同士だ.",
+              "mean": "2 người là kẻ thù của nhau",
+              "transcription": "2にんはかたきどうしだ."
+            },
+            {
+              "content": "恐ろしい敵",
+              "mean": "kẻ tử thù",
+              "transcription": "おそろしいてき"
+            },
+            {
+              "content": "強力な敵",
+              "mean": "kẻ thù hùng mạnh",
+              "transcription": "きょうりょくなてき"
+            }
+          ],
+          "kind": "n",
+          "mean": "kẻ địch; kẻ thù"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kình địch ."
+        }
+      ],
+      "mobileId": 101078,
+      "opposite_word": [
+        "味方"
+      ],
+      "phonetic": "てき",
+      "related_words": {
+        "word": [
+          "素敵な",
+          "素敵",
+          "無敵",
+          "天敵",
+          "索敵",
+          "敵意",
+          "敵対",
+          "不敵",
+          "匹敵",
+          "無敵艦隊"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "敵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "敵軍"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "仇敵",
+                "エネミー",
+                "仇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ライバル",
+                "相手"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "没落",
+                "滅亡",
+                "仇",
+                "破滅",
+                "衰亡",
+                "荒廃"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "疲弊",
+                "没落",
+                "破壊",
+                "滅亡",
+                "壊滅",
+                "仇",
+                "破滅",
+                "衰亡",
+                "荒廃"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "エネミー",
+                "仇同氏",
+                "仇",
+                "反対者"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "相手"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "不和",
+                "仇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "敵対者",
+                "反対者"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "敵"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74f13a38",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "敵側スパイに対するスパイ",
+              "mean": "phản gián với gián điệp quân địch",
+              "transcription": "てきがわスパイにたいするスパイ"
+            },
+            {
+              "content": "激しい圧力が敵側からかかる中",
+              "mean": "chịu áp lực rất lớn từ phía quân địch",
+              "transcription": "はげしいあつりょくがてきがわからかかるなか"
+            },
+            {
+              "content": "敵側に立つ",
+              "mean": "đứng về phía địch",
+              "transcription": "てきがわにたつ"
+            },
+            {
+              "content": "敵側に走る",
+              "mean": "bỏ theo địch .",
+              "transcription": "てきがわにはしる"
+            }
+          ],
+          "kind": "n",
+          "mean": "quân địch"
+        }
+      ],
+      "mobileId": 101082,
+      "phonetic": "てきがわ",
+      "word": "敵側"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74f22b28",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "敵弾の下を潜って進む",
+              "mean": "băng lên dưới làn đạn địch",
+              "transcription": "てきだんのしたをもぐってすすむ"
+            }
+          ],
+          "kind": "n",
+          "mean": "đạn địch"
+        }
+      ],
+      "mobileId": 101094,
+      "phonetic": "てきだん",
+      "word": "敵弾"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d47840",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "enemy general"
+        }
+      ],
+      "mobileId": 271359,
+      "phonetic": "てきしょう",
+      "word": "敵将"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7739d6eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rival company, rival corporation"
+        }
+      ],
+      "mobileId": 266334,
+      "phonetic": "てきしゃ",
+      "word": "敵社"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f6227cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kẻ thù nguy hiểm ."
+        }
+      ],
+      "mobileId": 186600,
+      "phonetic": "きょうてき",
+      "word": "梟敵"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada527a52",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "勁敵と戦う",
+              "mean": "Chiến đấu chống lại địch thủ ghê gớm .",
+              "transcription": "勁敵とたたかう"
+            }
+          ],
+          "kind": "n",
+          "mean": "Địch thủ ghê gớm"
+        }
+      ],
+      "mobileId": 78358,
+      "phonetic": "けいてき",
+      "related_words": {
+        "word": [
+          "敵",
+          "勁"
+        ]
+      },
+      "word": "勁敵"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74f370c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lực lượng địch ."
+        }
+      ],
+      "mobileId": 101111,
+      "phonetic": "てきぶたい",
+      "related_words": {
+        "word": [
+          "部",
+          "敵",
+          "部隊"
+        ]
+      },
+      "word": "敵部隊"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7ee7fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quân địch, quân thù"
+        }
+      ],
+      "mobileId": 115073,
+      "phonetic": "てきへい",
+      "word": "敵兵"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

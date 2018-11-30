@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfefb00",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đồi; đồi nhỏ, gò"
+        }
+      ],
+      "mobileId": 17852,
+      "phonetic": "おか",
+      "synsets": [
+        {
+          "base_form": "岡",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "丘",
+                "ヒル",
+                "丘陵"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "岡"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1930063b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hộp làm bằng gỗ để mang đồ ăn cho khách"
+        }
+      ],
+      "mobileId": 17894,
+      "phonetic": "おかもち",
+      "related_words": {
+        "word": [
+          "岡"
+        ]
+      },
+      "word": "岡持ち"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab533a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gooseneck loosestrife (Lysimachia clethroides)"
+        }
+      ],
+      "mobileId": 229194,
+      "phonetic": "おかとらのお オカトラノオ",
+      "word": "岡虎の尾"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8cbabc4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngọn đồi"
+        }
+      ],
+      "mobileId": 40024,
+      "phonetic": "おかりょう",
+      "word": "岡陵"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdffc6ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vùng lân cận (của) một ngọn đồi"
+        }
+      ],
+      "mobileId": 17878,
+      "phonetic": "おかあたり",
+      "word": "岡辺"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdffe619",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự yêu thầm, sự thầm thương trộm nhớ; người yêu thầm"
+        }
+      ],
+      "mobileId": 17882,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "岡"
+        ]
+      },
+      "word": "岡惚"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193006f82",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thùng (của) sạch rót nước (trong một tắm cái nhà)"
+        }
+      ],
+      "mobileId": 17896,
+      "phonetic": "おかゆ",
+      "word": "岡湯"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d845e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hired thief taker (Edo period), private secret policeman, private detective"
+        }
+      ],
+      "mobileId": 263179,
+      "phonetic": "おかひき",
+      "word": "岡引き"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

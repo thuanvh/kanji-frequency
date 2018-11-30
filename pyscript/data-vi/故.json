@@ -1,0 +1,209 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74e38f0a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "心事故のリスクが高い患者",
+              "mean": "Những bệnh nhân có nguy cơ (sự cố) về tim",
+              "transcription": "こころじこのリスクがたかいかんじゃ"
+            },
+            {
+              "content": "建設現場で発生する事故の件数を減らす",
+              "mean": "Giảm tỷ lệ tai nạn (sự cố) xảy ra ở các công trường xây dựng",
+              "transcription": "けんせつげんばではっせいするじこのけんすうをへらす"
+            }
+          ],
+          "kind": "pref",
+          "mean": "cố; cũ (đi ghép với từ khác)"
+        }
+      ],
+      "mobileId": 100903,
+      "phonetic": "こ",
+      "related_words": {
+        "word": [
+          "故障",
+          "故郷",
+          "事故",
+          "何故",
+          "何故ですか？",
+          "故意",
+          "故に",
+          "故人",
+          "縁故",
+          "反故"
+        ]
+      },
+      "word": "故"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74e395f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-adv",
+          "mean": "lý do; nguyên nhân; nguồn cơn ."
+        }
+      ],
+      "mobileId": 100904,
+      "phonetic": "ゆえ",
+      "related_words": {
+        "word": [
+          "故障",
+          "故郷",
+          "事故",
+          "何故",
+          "何故ですか？",
+          "故意",
+          "故に",
+          "故人",
+          "縁故",
+          "反故"
+        ]
+      },
+      "word": "故"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02b98bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "conj",
+          "mean": "therefore, for that reason, so"
+        }
+      ],
+      "mobileId": 208252,
+      "phonetic": "それゆえ",
+      "related_words": {
+        "word": [
+          "それ",
+          "故"
+        ]
+      },
+      "word": "それ故"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d9afc42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "without a reason"
+        }
+      ],
+      "mobileId": 220087,
+      "phonetic": "ゆえない",
+      "word": "故無い"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f72c2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cổ nhân; người quen cũ; bạn cũ"
+        }
+      ],
+      "mobileId": 25754,
+      "phonetic": "きゅうゆえ",
+      "related_words": {
+        "word": [
+          "故"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "旧故",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "上世",
+                "古",
+                "前世",
+                "古雅"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "旧故"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e316f32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one's former self"
+        }
+      ],
+      "mobileId": 249616,
+      "phonetic": "こご",
+      "word": "故吾"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9ffcc0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "seeming to be with certain circumstances, seeming to be for a certain reason"
+        }
+      ],
+      "mobileId": 228514,
+      "phonetic": "ゆえありげ",
+      "word": "故ありげ"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ddf4a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vì vậy, vì thế, do đó"
+        }
+      ],
+      "mobileId": 63202,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "故",
+          "其れ"
+        ]
+      },
+      "word": "其れ故"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8ad90e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "cho một nhất định suy luận; do những hoàn cảnh không thể tránh được"
+        }
+      ],
+      "mobileId": 73212,
+      "phonetic": "こあって",
+      "word": "故有って"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a324acd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "I think, therefore I am"
+        }
+      ],
+      "mobileId": 225019,
+      "phonetic": "われおもうゆえにわれあり",
+      "word": "我思う故に我あり"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

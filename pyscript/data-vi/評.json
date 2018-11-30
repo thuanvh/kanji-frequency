@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027ea2bbd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "人物評",
+              "mean": "bức phác họa chân dung",
+              "transcription": "じんぶつひょう"
+            },
+            {
+              "content": "映画評",
+              "mean": "bình luận điện ảnh",
+              "transcription": "えいがひょう"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "bình luận; phê bình"
+        },
+        {
+          "examples": [
+            {
+              "content": "批評家は、彼の作品をやや商業主義的だと評した。",
+              "mean": "Tác phẩm của anh ta được các nhà phê bình bình luận là hơi thương mại một chút.",
+              "transcription": "ひひょうかは、かれのさくひんをややしょうぎょうしゅぎてきだとひょうした。"
+            },
+            {
+              "content": "彼はたいてい、紳士的だが頭が固い男性だと評される",
+              "mean": "Người ta thường bình luận anh ta là người điềm đạm nhưng cứng rắn .",
+              "transcription": "かれはたいてい、しんしてきだがあたまがかたいだんせいだとひょうされる"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "sự bình luận; sự phê bình"
+        }
+      ],
+      "mobileId": 33110,
+      "phonetic": "ひょう",
+      "related_words": {
+        "word": [
+          "評価",
+          "評価する",
+          "評判",
+          "再評価",
+          "評議員",
+          "評論家",
+          "好評",
+          "批評",
+          "評論",
+          "講評"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "評",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "文芸批評",
+                "書評",
+                "評論",
+                "レビュー",
+                "批評",
+                "講評",
+                "論評",
+                "概説",
+                "総説"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "批判",
+                "クリティシズム",
+                "評論",
+                "レビュー",
+                "批評",
+                "講評",
+                "論評"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "注解",
+                "概評",
+                "評論",
+                "コメント",
+                "解説",
+                "レビュー",
+                "批評",
+                "講評",
+                "論評",
+                "解釈",
+                "注釈",
+                "注記",
+                "付注"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "評"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77bed861",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rumour, rumor"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "comment, commentary, review, criticism"
+        }
+      ],
+      "mobileId": 270635,
+      "phonetic": "ひょうせつ",
+      "word": "評説"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685f2dfe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chú giải, sự chú thích, lời chú giải, lời chú thích"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bài bình luận, lời chú thích, lời dẫn giải, bài tường thuật, running"
+        }
+      ],
+      "mobileId": 3041,
+      "phonetic": "",
+      "word": "評註"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9545ea0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lời phê bình một cá nhân; bài viết chỉ trích một cá nhân"
+        }
+      ],
+      "mobileId": 58312,
+      "phonetic": "じんぶつひょう",
+      "related_words": {
+        "word": [
+          "人",
+          "物",
+          "人物",
+          "評"
+        ]
+      },
+      "word": "人物評"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd0cd3cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhất trí, đồng lòng"
+        }
+      ],
+      "mobileId": 69198,
+      "phonetic": "",
+      "word": "漫評"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd6a5af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phê bình điện ảnh"
+        }
+      ],
+      "mobileId": 16558,
+      "phonetic": "えいがひょう",
+      "related_words": {
+        "word": [
+          "映画",
+          "画",
+          "評"
+        ]
+      },
+      "word": "映画評"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c2c118",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thông cáo; sự công bố"
+        }
+      ],
+      "mobileId": 39732,
+      "phonetic": "おおやけひょう",
+      "related_words": {
+        "word": [
+          "公",
+          "評"
+        ]
+      },
+      "word": "公評"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b29d49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "awards ceremony recognizing excellence (e.g. in sake or natto)"
+        }
+      ],
+      "mobileId": 270255,
+      "phonetic": "かんぴょうかい",
+      "word": "鑑評会"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfac4bd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "theo ý kiến chung, theo đánh giá của số đông"
+        }
+      ],
+      "mobileId": 17716,
+      "phonetic": "おおかたのひょうでは",
+      "word": "大方の評では"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

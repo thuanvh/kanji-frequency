@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1070ad028",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "đơn vị (của) phép đo đất; 3.95 làm vuông những thước anh; 3.31 làm vuông những mét (đồng hồ đo)"
+        }
+      ],
+      "mobileId": 52062,
+      "phonetic": "つぼ",
+      "related_words": {
+        "word": [
+          "坪数"
+        ]
+      },
+      "word": "坪"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0dfb6d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "diện tích mặt bằng; (đơn vị đo lường, khoảng 1.8 mét khối)"
+        }
+      ],
+      "mobileId": 111474,
+      "phonetic": "たてつぼ",
+      "related_words": {
+        "word": [
+          "坪"
+        ]
+      },
+      "word": "立て坪"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7018b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dán giấy trọng lượng trong gsm"
+        }
+      ],
+      "mobileId": 114619,
+      "phonetic": "つぼりょう",
+      "word": "坪量"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b222dc7d5",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "1 mét vuông"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "一坪"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9afe4a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "inner garden (esp. small, traditional), courtyard"
+        }
+      ],
+      "mobileId": 261910,
+      "phonetic": "つぼにわ",
+      "word": "坪庭"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b7dfb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dán giấy trọng lượng trong gsm"
+        }
+      ],
+      "mobileId": 5882,
+      "phonetic": "べいつぼ",
+      "word": "米坪"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107f3fb21",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "１階と２階の延べ坪は１５０平方メートルです",
+              "mean": "Tổng diện tích của tầng 1 và tầng 2 là 150 m2 .",
+              "transcription": "いちかいとにかいののべつぼはいちごぜろへいほうめーとるです"
+            }
+          ],
+          "kind": "n",
+          "mean": "tổng diện tích kiến trúc"
+        }
+      ],
+      "mobileId": 55923,
+      "phonetic": "のべつぼ",
+      "related_words": {
+        "word": [
+          "坪",
+          "延べ"
+        ]
+      },
+      "word": "延べ坪"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0dfea0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lát sàn không gian"
+        }
+      ],
+      "mobileId": 111475,
+      "phonetic": "たてつぼ",
+      "word": "建て坪"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e12dea1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "price per unit of area, price per square meter (metre)"
+        }
+      ],
+      "mobileId": 248606,
+      "phonetic": "つぼたんか",
+      "word": "坪単価"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68514c8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "văn phòng chính của công ty rất nhỏ ờ Tokyo nhằm có tên tuổi"
+        }
+      ],
+      "mobileId": 2607,
+      "phonetic": "いちつぼほんしゃ",
+      "word": "一坪本社"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

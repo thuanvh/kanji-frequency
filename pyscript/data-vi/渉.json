@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cdff5ef0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đi qua, băng qua, vượt qua; vượt, qua"
+        }
+      ],
+      "mobileId": 76899,
+      "phonetic": "わたるる",
+      "synsets": [
+        {
+          "base_form": "渉る",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "過ぎ行く",
+                "突き抜ける",
+                "通り過ぎる",
+                "越す",
+                "抜ける",
+                "経る",
+                "通り抜ける",
+                "通る",
+                "過ぎ去る",
+                "渡る",
+                "過ぎる",
+                "通り越す",
+                "越える"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "通り過ぎる",
+                "越す",
+                "超える",
+                "通る",
+                "横切る",
+                "渡る",
+                "過ぎる",
+                "越える"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "横切る",
+                "渡る"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "渉る"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820d6418",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(in Japan) 10th note of the ancient chromatic scale (approx. B)"
+        }
+      ],
+      "mobileId": 232072,
+      "phonetic": "ばんしき",
+      "word": "盤渉"
+    },
+    {
+      "_id": "432518852de0a80625d585a9820ee699",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(in gagaku) scale similar to Dorian mode on B"
+        }
+      ],
+      "mobileId": 232123,
+      "phonetic": "ばんしきちょう",
+      "word": "盤渉調"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6855a505",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ngắn gọn, vắn tắt, tóm tắt"
+        }
+      ],
+      "mobileId": 2739,
+      "phonetic": "いちわたるり",
+      "related_words": {
+        "word": [
+          "一"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "一渉り",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一通り"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "一渉り"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

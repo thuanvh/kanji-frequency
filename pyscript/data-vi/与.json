@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b888b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "together with ..."
+        }
+      ],
+      "mobileId": 270441,
+      "opposite_word": [
+        "奪"
+      ],
+      "phonetic": "むた みた",
+      "word": "与"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd931b95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự gây sức ép, sự gây áp lực, sự điều áp"
+        }
+      ],
+      "mobileId": 73486,
+      "phonetic": "",
+      "word": "与圧"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda7bdfe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "điểm cho (math)"
+        }
+      ],
+      "mobileId": 74164,
+      "phonetic": "あずかてん",
+      "related_words": {
+        "word": [
+          "点"
+        ]
+      },
+      "word": "与点"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dd60a2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "quà tặng, esp. tới người cấp dưới"
+        }
+      ],
+      "mobileId": 152561,
+      "phonetic": "たまものあずか",
+      "word": "賜与"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db1914a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the assigned equation (used in maths to avoid writing out the original equation again in full)"
+        }
+      ],
+      "mobileId": 220846,
+      "phonetic": "よしき",
+      "word": "与式"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

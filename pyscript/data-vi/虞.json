@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19309f438",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sợ hãi; mối lo; sự liên quan; trạng thái không yên tâm"
+        }
+      ],
+      "mobileId": 18232,
+      "phonetic": "おそれ",
+      "synsets": [
+        {
+          "base_form": "虞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "不安",
+                "鬼胎",
+                "憂慮",
+                "懸念",
+                "心配",
+                "恐れ",
+                "不安心"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "脅威",
+                "怖じ気",
+                "恐れ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "虞"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02e6b2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "emergency"
+        }
+      ],
+      "mobileId": 208343,
+      "phonetic": "ふぐ",
+      "related_words": {
+        "word": [
+          "虞"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "不虞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "非常",
+                "急場",
+                "危急",
+                "変事",
+                "事変",
+                "不時",
+                "火急",
+                "応急",
+                "緊急"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "非常",
+                "急場",
+                "危機",
+                "危急",
+                "変事",
+                "火急",
+                "緊急",
+                "急変",
+                "ピンチ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "不虞"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd7f8387",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "mối lo; nỗi sợ hãi"
+        }
+      ],
+      "mobileId": 72825,
+      "phonetic": "ゆうおそれ",
+      "word": "憂虞"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada783767",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "家庭の危虞",
+              "mean": "lo âu chuyện gia đình",
+              "transcription": "かていの危虞"
+            }
+          ],
+          "kind": "n",
+          "mean": "sợ hãi; những nỗi lo âu; lo âu"
+        }
+      ],
+      "mobileId": 78994,
+      "phonetic": "きく",
+      "related_words": {
+        "word": [
+          "虞"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "危虞",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鬼胎",
+                "気掛かり",
+                "気遣い",
+                "憂慮",
+                "憂懼",
+                "危懼",
+                "懸念",
+                "憂患",
+                "心配",
+                "危疑",
+                "憂心",
+                "恐れ",
+                "危惧"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "危虞"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d7102f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mạo hiểm (của) sự thất bại"
+        }
+      ],
+      "mobileId": 149312,
+      "phonetic": "しっぱいのおそれ",
+      "word": "失敗の虞"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ae0a9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "loại trừ khả năng lây nhiễm, xóa mất nguy cơ lây nhiễm"
+        }
+      ],
+      "mobileId": 23437,
+      "phonetic": "かんせんのおそれをなくす",
+      "word": "感染の虞を無くす"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

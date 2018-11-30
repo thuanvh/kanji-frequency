@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd887231",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đau buồn và sự giận dữ"
+        }
+      ],
+      "mobileId": 73128,
+      "phonetic": "ういきどお",
+      "word": "憂憤"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b9839d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "anger, resentment, indignation, chagrin, irritation"
+        }
+      ],
+      "mobileId": 262209,
+      "phonetic": "ふんもん",
+      "word": "憤悶"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc16437",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phẫn uất; sự thù oán; sự giận dữ"
+        }
+      ],
+      "mobileId": 15909,
+      "phonetic": "うついきどお",
+      "synsets": [
+        {
+          "base_form": "欝憤",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鬱憤",
+                "忿怒",
+                "忿懣",
+                "立腹",
+                "怒気",
+                "怒り",
+                "憤懣"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "怨み",
+                "遺恨",
+                "憤慨",
+                "怨恨",
+                "忿怒",
+                "忿懣",
+                "仇",
+                "恨み",
+                "憤懣",
+                "憎しみ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "腹立ち",
+                "鬱憤",
+                "向かっ腹",
+                "忿懣",
+                "怒気",
+                "怒り",
+                "憤懣"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "怨み",
+                "遺恨",
+                "鬱憤",
+                "怨恨",
+                "恨み",
+                "怨念",
+                "思い"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "欝憤"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09eef6c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fenqing, leftist Chinese youth (usu. nationalistic)"
+        }
+      ],
+      "mobileId": 286027,
+      "phonetic": "ふんせい",
+      "word": "憤青"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

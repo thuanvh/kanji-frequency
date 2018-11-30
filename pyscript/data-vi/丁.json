@@ -1,0 +1,227 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1a9251",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "渋谷五丁目",
+              "mean": "khu số 5 Shibuya",
+              "transcription": "しぶやごちょうめ"
+            },
+            {
+              "content": "豆腐の一丁",
+              "mean": "Một bánh đậu phụ",
+              "transcription": "とうふのいちちょう"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "bánh; khu"
+        }
+      ],
+      "mobileId": 141739,
+      "opposite_word": [
+        "半"
+      ],
+      "phonetic": "ちょう",
+      "related_words": {
+        "word": [
+          "丁寧",
+          "丁度",
+          "丁寧な",
+          "丁目",
+          "丁寧に",
+          "包丁",
+          "丁寧語",
+          "装丁",
+          "横丁",
+          "沈丁花"
+        ]
+      },
+      "word": "丁"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1a9af6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đinh (can) ."
+        }
+      ],
+      "mobileId": 141740,
+      "opposite_word": [
+        "半"
+      ],
+      "phonetic": "てい",
+      "related_words": {
+        "word": [
+          "丁寧",
+          "丁度",
+          "丁寧な",
+          "丁目",
+          "丁寧に",
+          "包丁",
+          "丁寧語",
+          "装丁",
+          "横丁",
+          "沈丁花"
+        ]
+      },
+      "word": "丁"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e455e7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(a) gathering"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sorting, collating"
+        }
+      ],
+      "mobileId": 250257,
+      "phonetic": "ちょうあい",
+      "word": "丁合い"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7765db13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Edo period silver coin shaped like a sea cucumber"
+        }
+      ],
+      "mobileId": 267749,
+      "phonetic": "ちょうぎん",
+      "word": "丁銀"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9506098",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clove"
+        }
+      ],
+      "mobileId": 258865,
+      "phonetic": "ちょうこう",
+      "word": "丁香"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a078f12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fourth division of the night (approx. 1 am to 3 am)"
+        }
+      ],
+      "mobileId": 223639,
+      "phonetic": "ていや",
+      "word": "丁夜"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e55fea3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số trang của quyển sách, thứ tự các trang"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đánh số trang"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ghi số vào cái gì; sự đánh số"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": ""
+        }
+      ],
+      "mobileId": 113783,
+      "phonetic": "ひのとづけ",
+      "related_words": {
+        "word": [
+          "付",
+          "付け",
+          "丁"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "丁付け",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "二枚折り"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "丁付け"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e2e800",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quire"
+        }
+      ],
+      "mobileId": 271831,
+      "phonetic": "おりちょう",
+      "word": "折丁"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b95f18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fourteenth of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 262204,
+      "phonetic": "ひのとのうし ていちゅう",
+      "word": "丁丑"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1aaa1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Đinh Hợi ."
+        }
+      ],
+      "mobileId": 141742,
+      "phonetic": "ていがい",
+      "word": "丁亥"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

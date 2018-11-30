@@ -1,0 +1,248 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7df3155a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼女は夫に自分たちの私生活を公にしないようにと言った",
+              "mean": "cô ấy nói với chồng là đừng biến cuộc sống riêng tư thành cái chung",
+              "transcription": "かのじょはおっとにじぶんたちのしせいかつをおおやけにしないようにといった"
+            },
+            {
+              "content": "人生における公と私",
+              "mean": "cuộc sống thì luôn có những cái chung và riêng",
+              "transcription": "じんせいにおけるおおやけとわたし"
+            },
+            {
+              "content": "公と私の間の線を引く",
+              "mean": "có một sợi dây nối liền giữa cái chung và cái riêng",
+              "transcription": "おおやけとわたしのまのせんをひく"
+            },
+            {
+              "content": "公での喫煙を禁じる",
+              "mean": "cấm hút thuốc ở nơi công cộng .",
+              "transcription": "おおやけでのきつえんをきんじる"
+            }
+          ],
+          "kind": "adj-no, n",
+          "mean": "công cộng; công chúng; nơi công cộng; cái chung"
+        }
+      ],
+      "mobileId": 145620,
+      "opposite_word": [
+        "私"
+      ],
+      "phonetic": "おおやけ",
+      "related_words": {
+        "word": [
+          "公開",
+          "非公開",
+          "公平",
+          "公園",
+          "主人公",
+          "公共",
+          "公務員",
+          "公式",
+          "公差",
+          "公衆電話"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "公",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "周知"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "公"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a07cbd1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "authorized absence, permission of absence from class(es)"
+        }
+      ],
+      "mobileId": 223647,
+      "phonetic": "こうけつ",
+      "word": "公欠"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bcc4af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ (của) nghi lễ; nơi công công"
+        }
+      ],
+      "mobileId": 39532,
+      "phonetic": "おおやけにわ",
+      "related_words": {
+        "word": [
+          "庭",
+          "公"
+        ]
+      },
+      "word": "公庭"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8cbb0dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đất công tước, tước công"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chức vương; sự thống trị của một ông hoàng, lãnh địa của một ông hoàng, xứ Gan"
+        }
+      ],
+      "mobileId": 40025,
+      "phonetic": "おおやけりょう",
+      "related_words": {
+        "word": [
+          "公"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "公領",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "侯国",
+                "公国"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "公国"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "公領"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8cc400e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đường cái, quốc lộ, con đường chính, con đường, đường lối"
+        }
+      ],
+      "mobileId": 40041,
+      "phonetic": "おおやけろ",
+      "related_words": {
+        "word": [
+          "公"
+        ]
+      },
+      "word": "公路"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca070d733",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "young noblewoman, princess"
+        }
+      ],
+      "mobileId": 284576,
+      "phonetic": "こうじょ",
+      "word": "公女"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c026afbe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "judicial decision"
+        }
+      ],
+      "mobileId": 208094,
+      "phonetic": "こうさい",
+      "word": "公裁"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd070169",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giá chính thức"
+        }
+      ],
+      "mobileId": 69013,
+      "phonetic": "まるこう",
+      "related_words": {
+        "word": [
+          "丸",
+          "公"
+        ]
+      },
+      "word": "丸公"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7df3c513",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công hầu ."
+        }
+      ],
+      "mobileId": 145629,
+      "phonetic": "こうこう",
+      "related_words": {
+        "word": [
+          "公",
+          "侯"
+        ]
+      },
+      "word": "公侯"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7df6bb48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bản đồ địa chính ."
+        }
+      ],
+      "mobileId": 145654,
+      "phonetic": "こうず",
+      "related_words": {
+        "word": [
+          "図",
+          "公"
+        ]
+      },
+      "word": "公図"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

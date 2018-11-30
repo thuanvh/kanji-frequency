@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280270ae52e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dây"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sợi dây ."
+        }
+      ],
+      "mobileId": 29276,
+      "phonetic": "ひも",
+      "related_words": {
+        "word": [
+          "靴紐",
+          "紐付き",
+          "組紐"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "紐",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "細引",
+                "緒",
+                "コード",
+                "吊紐",
+                "ひも"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ストリング",
+                "糸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "紐"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdbca2e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bện tết (viền) dây thừng"
+        }
+      ],
+      "mobileId": 15764,
+      "phonetic": "うちひも",
+      "word": "打ち紐"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a954c21f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "head harness, strap"
+        }
+      ],
+      "mobileId": 259003,
+      "phonetic": "あたまひも",
+      "word": "頭紐"
+    },
+    {
+      "_id": "f2d618ceb0702f781ec83b7d4f5c6500",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Kết hợp lại"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "紐付ける",
+      "word": "紐付ける"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07f4dc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "string bikini, g-string, thong"
+        }
+      ],
+      "mobileId": 285009,
+      "phonetic": "ひもパンツ ヒモパンツ",
+      "word": "紐パンツ"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e95312a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "elastic, elastic cord, elastic band"
+        }
+      ],
+      "mobileId": 252841,
+      "phonetic": "ゴムひも",
+      "word": "ゴム紐"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e851411d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dây giày"
+        }
+      ],
+      "mobileId": 36102,
+      "phonetic": "くつひも",
+      "related_words": {
+        "word": [
+          "靴",
+          "紐"
+        ]
+      },
+      "word": "靴紐"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef920f13e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hemp cord, hemp twine"
+        }
+      ],
+      "mobileId": 273824,
+      "phonetic": "あさひも",
+      "word": "麻紐"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d565ebb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "leather strap, thong, leash"
+        }
+      ],
+      "mobileId": 217864,
+      "phonetic": "かわひも",
+      "word": "革紐"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779aba08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sling (weapon)"
+        }
+      ],
+      "mobileId": 269462,
+      "phonetic": "とうせきひも",
+      "word": "投石紐"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

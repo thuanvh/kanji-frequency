@@ -1,0 +1,196 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1079ee70d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "封を切る",
+              "mean": "Cắt dấu niêm phong",
+              "transcription": "ふうをきる"
+            }
+          ],
+          "kind": "n",
+          "mean": "miệng bì thư; dấu niêm phong thư"
+        },
+        {
+          "examples": [
+            {
+              "content": "封がはがれていないかどうか確かめる",
+              "mean": "Kiểm tra xem niêm phong thư có bị bong ra không .",
+              "transcription": "ふうがはがれていないかどうかたしかめる"
+            }
+          ],
+          "kind": "n",
+          "mean": "thư"
+        }
+      ],
+      "mobileId": 54543,
+      "phonetic": "ふう",
+      "related_words": {
+        "word": [
+          "封筒",
+          "開封",
+          "封印",
+          "同封",
+          "密封",
+          "封鎖",
+          "封建",
+          "封書",
+          "封じ込める",
+          "封切り"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "封",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "印形",
+                "印",
+                "判",
+                "判子",
+                "シール"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "封"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8db707",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự rào lại, hàng rào vây quanh, đất có rào vây quanh, tài liệu gửi kèm"
+        }
+      ],
+      "mobileId": 14289,
+      "phonetic": "いちふう",
+      "related_words": {
+        "word": [
+          "一",
+          "封"
+        ]
+      },
+      "word": "一封"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c7c51e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghi thức cúng thần cổ xưa của Trung Hoa"
+        }
+      ],
+      "mobileId": 6374,
+      "phonetic": "ふうぜん",
+      "word": "封禅"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91b6fe9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "forced reduction of a daimyo's land by the Edo Shogunate, curtailment of a daimyo's domain"
+        }
+      ],
+      "mobileId": 273647,
+      "phonetic": "げんぽう",
+      "word": "減封"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8007b8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cựu thái ấp; lãnh địa của phong kiến thời xưa"
+        }
+      ],
+      "mobileId": 33489,
+      "phonetic": "きゅうふう",
+      "related_words": {
+        "word": [
+          "封"
+        ]
+      },
+      "word": "旧封"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca029fdc5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bestowing peerage by imperial edict (in ancient China), document bestowing peerage"
+        }
+      ],
+      "mobileId": 282285,
+      "phonetic": "さくほう さっぽう",
+      "word": "冊封"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee42f4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bắt buộc ngoài trên (về) giây"
+        }
+      ],
+      "mobileId": 118307,
+      "phonetic": "にふう",
+      "word": "二封"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e486ee8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liquid seal, liquid ring"
+        }
+      ],
+      "mobileId": 250362,
+      "phonetic": "えきふう",
+      "word": "液封"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a977192c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs",
+          "mean": "sealing, seal"
+        }
+      ],
+      "mobileId": 260107,
+      "phonetic": "ふうし",
+      "word": "封止"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9675200",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "forced relocation of a daimyo to a different domain by the Edo shogunate"
+        }
+      ],
+      "mobileId": 259610,
+      "phonetic": "いほう",
+      "word": "移封"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

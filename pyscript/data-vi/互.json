@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c0fc03",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lẫn nhau, qua lại, chung"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lẫn nhau, qua lại; có đi có lại, cả đôi bên, đảo, thuận nghịch, số đảo; hàm thuận nghịch"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự thổi phồng, sự phóng đại, sự cường điệu, sự làm quá mức, sự làm to quá khổ"
+        }
+      ],
+      "mobileId": 62249,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "双"
+        ]
+      },
+      "word": "双互"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0aa185",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sử dụng cùng nhau; sử dụng bên trong sự quay"
+        }
+      ],
+      "mobileId": 146088,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "用"
+        ]
+      },
+      "word": "互用"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771f3344",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reciprocity"
+        }
+      ],
+      "mobileId": 265468,
+      "phonetic": "ごしゅう",
+      "word": "互酬"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6ba114",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tiếng nhật quay phim giám đốc"
+        }
+      ],
+      "mobileId": 13224,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "石",
+          "井"
+        ]
+      },
+      "word": "石井聰互"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771f2e41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reciprocity"
+        }
+      ],
+      "mobileId": 265467,
+      "phonetic": "ごしゅうせい",
+      "word": "互酬性"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

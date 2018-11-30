@@ -1,0 +1,309 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a6e25b4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あの巨大な木の樹齢はほぼ1000年だ",
+              "mean": "cây cổ thụ kia đã khoảng 1000 năm tuổi. .",
+              "transcription": "あのきょだいなきのじゅれいはほぼ1000ねんだ"
+            }
+          ],
+          "kind": "adv",
+          "mean": "khoảng; áng chừng; đại để"
+        }
+      ],
+      "mobileId": 172129,
+      "phonetic": "ほぼ,   りゃく",
+      "word": "略"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a6e3cfa",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "システム概略",
+              "mean": "Sơ lược về hệ thống.",
+              "transcription": "システムがいりゃく"
+            },
+            {
+              "content": "イメージ作りの選挙戦略",
+              "mean": "Chiến dịch vận động tạo dựng hình ănh.",
+              "transcription": "イメージづくりのせんきょせんりゃく"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "sự lược bỏ"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "vắn tắt ."
+        }
+      ],
+      "mobileId": 172130,
+      "opposite_word": [
+        "詳"
+      ],
+      "phonetic": "りゃく",
+      "related_words": {
+        "word": [
+          "戦略",
+          "省略",
+          "概略",
+          "攻略",
+          "略称",
+          "前略",
+          "略語",
+          "略歴",
+          "経営戦略",
+          "侵略"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "略",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "先ず",
+                "殆ど",
+                "ざっと",
+                "大凡",
+                "おおよそ",
+                "約",
+                "およそ",
+                "凡そ",
+                "ほとんど"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        },
+        {
+          "base_form": "略",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "摘要",
+                "大意",
+                "図表",
+                "大要",
+                "概略",
+                "粗筋",
+                "大筋",
+                "大体",
+                "概論",
+                "梗概",
+                "概要",
+                "要旨",
+                "要約",
+                "輪郭",
+                "アウトライン",
+                "略記",
+                "素描",
+                "筋書き",
+                "図式",
+                "図解",
+                "概説",
+                "総説",
+                "要綱",
+                "綱領",
+                "図"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "摘要",
+                "総括",
+                "大意",
+                "大要",
+                "概略",
+                "撮要",
+                "大筋",
+                "概論",
+                "梗概",
+                "概要",
+                "要旨",
+                "要約",
+                "一つ書き",
+                "概括",
+                "概観",
+                "凡",
+                "概説",
+                "総説",
+                "要綱",
+                "綱領",
+                "纏め"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "中略",
+                "脱漏",
+                "省略",
+                "遺脱",
+                "為落ち",
+                "逸脱",
+                "遺漏"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "略"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc5aa6a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự tóm tắt, sự rút ngắn, bài tóm tắt, chữ viết tắt, sự ước lược, sự rút gọn"
+        }
+      ],
+      "mobileId": 75121,
+      "phonetic": "りゃくしょ",
+      "word": "略書"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc619d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "các mũ thông dụng"
+        }
+      ],
+      "mobileId": 75137,
+      "phonetic": "りゃくぼう",
+      "word": "略帽"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adab10022",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sử lược ."
+        }
+      ],
+      "mobileId": 79760,
+      "phonetic": "しりゃく",
+      "related_words": {
+        "word": [
+          "略",
+          "史"
+        ]
+      },
+      "word": "史略"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c83496",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Forgive me for dispensing with the preliminaries, but I hasten to inform you that..."
+        }
+      ],
+      "mobileId": 270930,
+      "phonetic": "りゃくけい",
+      "word": "略啓"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e1acf2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "semiformal attire, semiformal dress"
+        }
+      ],
+      "mobileId": 271790,
+      "phonetic": "りゃくれいふく",
+      "word": "略礼服"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010c02d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chiến lược; chiến thuật ."
+        }
+      ],
+      "mobileId": 41973,
+      "phonetic": "とうりゃく",
+      "related_words": {
+        "word": [
+          "略"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "韜略",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "駆引き",
+                "戦術",
+                "軍略",
+                "駆け引き",
+                "兵法",
+                "作戦",
+                "オペレーション",
+                "軍法"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "韜略"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc62428",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trí nhớ; giúp trí nh"
+        }
+      ],
+      "mobileId": 75138,
+      "phonetic": "りゃくめい",
+      "related_words": {
+        "word": [
+          "名",
+          "略"
+        ]
+      },
+      "word": "略名"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b74117",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "abbreviated koyomi (Japanese traditional calendar), koyomi presented in a smaller, easy to use, format"
+        }
+      ],
+      "mobileId": 262137,
+      "phonetic": "りゃくれき",
+      "word": "略暦"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

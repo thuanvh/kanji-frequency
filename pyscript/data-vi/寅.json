@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10791259b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "寅年に",
+              "mean": "năm dần .",
+              "transcription": "とらねんに"
+            }
+          ],
+          "kind": "n",
+          "mean": "dần"
+        }
+      ],
+      "mobileId": 54298,
+      "phonetic": "とら",
+      "word": "寅"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b91fa1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "third of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 262195,
+      "phonetic": "ひのえとら へいいん",
+      "word": "丙寅"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107912714",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "năm con hổ ."
+        }
+      ],
+      "mobileId": 54299,
+      "phonetic": "とらどし",
+      "related_words": {
+        "word": [
+          "年"
+        ]
+      },
+      "word": "寅年"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b9c97a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "twenty-seventh of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 262218,
+      "phonetic": "かのえとら こういん",
+      "word": "庚寅"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ba977c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "51st of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 262240,
+      "phonetic": "きのえとら こういん",
+      "word": "甲寅"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b90b6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "15th of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 262192,
+      "phonetic": "つちのえとら ぼいん",
+      "word": "戊寅"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ba46e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thirty-ninth of the sexagenary cycle"
+        }
+      ],
+      "mobileId": 262231,
+      "phonetic": "みずのえとら じんいん",
+      "word": "壬寅"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ead620f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xung quanh bốn oclock vào buổi sáng"
+        }
+      ],
+      "mobileId": 116594,
+      "phonetic": "とらのこく",
+      "word": "寅の刻"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

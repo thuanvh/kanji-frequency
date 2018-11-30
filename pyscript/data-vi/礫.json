@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ac25806",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ném đá ."
+        }
+      ],
+      "mobileId": 173498,
+      "phonetic": "つぶて",
+      "related_words": {
+        "word": [
+          "瓦礫",
+          "砂礫"
+        ]
+      },
+      "word": "礫"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935d59fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khối đá núi lửa phun ra (đường kính từ 4 đến 32 cm)"
+        }
+      ],
+      "mobileId": 20886,
+      "phonetic": "かざんつぶて",
+      "word": "火山礫"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8c4c37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hòn tuyết, nắm tuyết, bánh putđinh táo, ném  bằng hòn tuyết"
+        }
+      ],
+      "mobileId": 73266,
+      "phonetic": "ゆきつぶて",
+      "word": "雪礫"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ac26517",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đá cuội ."
+        }
+      ],
+      "mobileId": 173499,
+      "phonetic": "れきがん",
+      "related_words": {
+        "word": [
+          "岩",
+          "礫"
+        ]
+      },
+      "word": "礫岩"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b5616e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pellet, pebble, small rock"
+        }
+      ],
+      "mobileId": 262082,
+      "phonetic": "せきれき",
+      "word": "石礫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c1d0bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "breccia"
+        }
+      ],
+      "mobileId": 270725,
+      "phonetic": "かくれきがん",
+      "word": "角礫岩"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0f7a7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "aimless attempt, shot in the dark"
+        }
+      ],
+      "mobileId": 223899,
+      "phonetic": "やみよのつぶて",
+      "word": "闇夜の礫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

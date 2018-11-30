@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04d5d45",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chemotherapy"
+        }
+      ],
+      "mobileId": 283434,
+      "phonetic": "かりょう",
+      "word": "化療"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca056a987",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "music therapy"
+        }
+      ],
+      "mobileId": 283749,
+      "phonetic": "おんりょう",
+      "word": "音療"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e929a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "receiving medical treatment"
+        }
+      ],
+      "mobileId": 272035,
+      "phonetic": "じゅりょう",
+      "word": "受療"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

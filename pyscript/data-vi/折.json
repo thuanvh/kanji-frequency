@@ -1,0 +1,241 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f749c6c42",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "一年を通して四季折々の恵みがあることは、神の存在を証明している。",
+              "mean": "Việc được ban ơn cả 4 mùa trong năm đã chứng tỏ là thần thánh có tồn tại trên đời.",
+              "transcription": "いちねんをとおしてしきおりおりのめぐみがあることは、かみのそんざいをしょうめいしている。"
+            }
+          ],
+          "kind": "n",
+          "mean": "cơ hội; thời gian thích hợp; thời điểm thích hợp; dịp"
+        }
+      ],
+      "mobileId": 99766,
+      "phonetic": "おり",
+      "related_words": {
+        "word": [
+          "折角",
+          "骨折",
+          "折り紙",
+          "折り返し",
+          "折る",
+          "折れる",
+          "挫折",
+          "屈折",
+          "折衝",
+          "折れ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "折",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "とき",
+                "時分",
+                "時",
+                "時節",
+                "時期",
+                "頃",
+                "潮時"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "時",
+                "場合",
+                "際"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "とき",
+                "時",
+                "回",
+                "度"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "時点",
+                "時",
+                "時節",
+                "機会",
+                "頃",
+                "節",
+                "場合",
+                "序"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "とき",
+                "時代",
+                "時",
+                "期",
+                "時期",
+                "時間",
+                "タイム"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "折"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931e34d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adv",
+          "mean": "ở (tại) cái đó chính chốc lát; trùng nhau"
+        }
+      ],
+      "mobileId": 18895,
+      "phonetic": "おりもおり",
+      "related_words": {
+        "word": [
+          "折"
+        ]
+      },
+      "word": "折も折"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68291fef",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một nửa đo cỡ; một nửa một mảnh; một nửa length"
+        }
+      ],
+      "mobileId": 1329,
+      "phonetic": "はんおり",
+      "related_words": {
+        "word": [
+          "半",
+          "折"
+        ]
+      },
+      "word": "半折"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a979ed4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crease, creasing, crease line"
+        }
+      ],
+      "mobileId": 260193,
+      "phonetic": "おりけい",
+      "word": "折罫"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931d3493",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n-t",
+          "mean": "đúng rồi; ở (tại) thời gian ấy"
+        }
+      ],
+      "mobileId": 18858,
+      "phonetic": "おりから",
+      "related_words": {
+        "word": [
+          "から",
+          "折"
+        ]
+      },
+      "word": "折から"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8df0b4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "có hình thức cong như cái cung"
+        }
+      ],
+      "mobileId": 40666,
+      "phonetic": "こしおり",
+      "related_words": {
+        "word": [
+          "腰",
+          "折"
+        ]
+      },
+      "word": "腰折"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e2e800",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quire"
+        }
+      ],
+      "mobileId": 271831,
+      "phonetic": "おりちょう",
+      "word": "折丁"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931dfd03",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới chỗ uốn; tới sự quay lên trên; tới sự quay xuống; tới đôi"
+        }
+      ],
+      "mobileId": 18889,
+      "phonetic": "おりまげる",
+      "word": "折曲げる"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931ea54e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để kể lần nữa và lần nữa; tới sự lặp lại; tới điệp khúc; tới sự quay lên trên; tới sự quay xuống"
+        }
+      ],
+      "mobileId": 18911,
+      "phonetic": "おりかえる",
+      "word": "折返る"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04aacbc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "fortunately, luckily"
+        }
+      ],
+      "mobileId": 209244,
+      "phonetic": "おりよく",
+      "word": "折よく"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

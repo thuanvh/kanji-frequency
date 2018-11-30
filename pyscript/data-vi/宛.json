@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1078156e0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜（宛て）にメモを残す",
+              "mean": "để lại lời nhắn cho~",
+              "transcription": "〜 （あて）にメモをのこす"
+            },
+            {
+              "content": "〜（宛て）にお問い合わせください",
+              "mean": "Hãy liên hệ với ~ .",
+              "transcription": "〜 （あて）におといあわせください"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "nơi đến; nơi gửi đến"
+        }
+      ],
+      "mobileId": 54019,
+      "phonetic": "あて",
+      "related_words": {
+        "word": [
+          "宛先",
+          "宛名",
+          "宛て",
+          "私宛",
+          "宛てる"
+        ]
+      },
+      "word": "宛"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687fad2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hai mảnh (của); hai mảnh từng cái"
+        }
+      ],
+      "mobileId": 4059,
+      "phonetic": "ふたつあて",
+      "word": "二つ宛"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685104a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "một mỗi"
+        }
+      ],
+      "mobileId": 2597,
+      "phonetic": "ひとつあて",
+      "word": "一つ宛"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04c1fb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "eloquent, fluent, smooth-spoken, sonorous, facile, silver-tongued"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(of eyebrows) shapely"
+        }
+      ],
+      "mobileId": 209299,
+      "phonetic": "えんてん",
+      "word": "宛転"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9555cca9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "dần dần, từ từ"
+        }
+      ],
+      "mobileId": 58827,
+      "phonetic": "すこしあて",
+      "word": "少し宛"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3fbe30",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phân công; sự sắp đặt"
+        }
+      ],
+      "mobileId": 11828,
+      "phonetic": "あてい",
+      "word": "宛い"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3feb1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "địa chỉ"
+        }
+      ],
+      "mobileId": 11836,
+      "phonetic": "あてしょ",
+      "word": "宛所"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdff1713",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "địa chỉ (của) tôi"
+        }
+      ],
+      "mobileId": 76891,
+      "phonetic": "わたしあて",
+      "related_words": {
+        "word": [
+          "私",
+          "宛"
+        ]
+      },
+      "word": "私宛"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdedb3ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khoa trương, cầu kỳ, oang oang, sang sảng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cầu, hình cầu; có hình cầu"
+        }
+      ],
+      "mobileId": 17297,
+      "phonetic": "あててんたる",
+      "word": "宛転たる"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0cd037c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "couple"
+        }
+      ],
+      "mobileId": 213461,
+      "phonetic": "ふたりづつ ふたりずつ",
+      "word": "二人宛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

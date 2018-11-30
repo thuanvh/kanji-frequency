@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68450f68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "vỏ, vỏ não"
+        }
+      ],
+      "mobileId": 2234,
+      "phonetic": "",
+      "word": "卑湿"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af230f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Xianbei (ancient nomadic tribe of northern Asia)"
+        }
+      ],
+      "mobileId": 231183,
+      "phonetic": "せんぴ",
+      "word": "鮮卑"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68465314",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khiêm tốn (điều kiện); khiêm tốn (địa vị); ty tiện"
+        }
+      ],
+      "mobileId": 2272,
+      "phonetic": "",
+      "word": "卑賤"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6846fc3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "con cháu trực hệ (dưới cháu)"
+        }
+      ],
+      "mobileId": 2291,
+      "phonetic": "",
+      "word": "卑屬"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada6ab197",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngôn từ thô tục ."
+        }
+      ],
+      "mobileId": 78773,
+      "phonetic": "ひげん",
+      "synsets": [
+        {
+          "base_form": "卑言",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "俗語"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "卑言"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3f901d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "high and low class"
+        }
+      ],
+      "mobileId": 217131,
+      "phonetic": "きび",
+      "word": "貴卑"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3accb20f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pejorative term, derogatory word, invective"
+        }
+      ],
+      "mobileId": 229970,
+      "phonetic": "ひばご",
+      "word": "卑罵語"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,227 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69acf9d85",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "特別養成科",
+              "mean": "khóa đào tạo đặc biệt",
+              "transcription": "とくべつようせいか"
+            },
+            {
+              "content": "哲学科",
+              "mean": "khoa triết học",
+              "transcription": "てつがくか"
+            },
+            {
+              "content": "声楽科",
+              "mean": "khoa thanh nhạc",
+              "transcription": "せいがくか"
+            },
+            {
+              "content": "生活科",
+              "mean": "khoa đời sống",
+              "transcription": "せいかつか"
+            },
+            {
+              "content": "正科",
+              "mean": "khóa chính quy",
+              "transcription": "せいか"
+            },
+            {
+              "content": "心理学科",
+              "mean": "khoa tâm lý",
+              "transcription": "しんりがっか"
+            },
+            {
+              "content": "大学の史学科",
+              "mean": "Khoa lịch sử của trường đại học；京都大学大学院エネルギー研究科",
+              "transcription": "だいがくのしがくか"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "khoa; khóa"
+        }
+      ],
+      "mobileId": 173769,
+      "phonetic": "か",
+      "related_words": {
+        "word": [
+          "理科",
+          "科目",
+          "科学",
+          "学科",
+          "科学者",
+          "教科書",
+          "百科事典",
+          "内科",
+          "皮膚科",
+          "婦人科"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "科",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "分野",
+                "科目",
+                "学科",
+                "フィールド",
+                "教科",
+                "研究分野"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "科"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cddc36cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khoa văn học Anh-Mỹ; khoa (ngành) văn học Anh (ở trường đại học)"
+        }
+      ],
+      "mobileId": 16730,
+      "phonetic": "えいぶんか",
+      "related_words": {
+        "word": [
+          "文",
+          "科"
+        ]
+      },
+      "word": "英文科"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3b8e5c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Araceae, arum family of plants"
+        }
+      ],
+      "mobileId": 225310,
+      "phonetic": "サトイモか さといもか",
+      "word": "サトイモ科"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3abdb3d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Liliaceae (the lily family)"
+        }
+      ],
+      "mobileId": 229480,
+      "phonetic": "ユリか ゆりか",
+      "word": "ユリ科"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed956f6649",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bệnh học tinh thần, bệnh học tâm thần"
+        }
+      ],
+      "mobileId": 59639,
+      "phonetic": "せいしんか",
+      "related_words": {
+        "word": [
+          "神",
+          "精神",
+          "精",
+          "科"
+        ]
+      },
+      "word": "精神科"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c67cb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khoa nghiên cứu quyền lợi và bổn phận công dân"
+        }
+      ],
+      "mobileId": 39853,
+      "phonetic": "こうみんか",
+      "related_words": {
+        "word": [
+          "公",
+          "科",
+          "民",
+          "公民"
+        ]
+      },
+      "word": "公民科"
+    },
+    {
+      "_id": "432518852de0a80625d585a982558551",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Violaceae, violet family of plants"
+        }
+      ],
+      "mobileId": 234336,
+      "phonetic": "スミレか すみれか",
+      "word": "スミレ科"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04fc79f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Gruidae, bird family comprising the cranes"
+        }
+      ],
+      "mobileId": 209416,
+      "phonetic": "ツルか つるか",
+      "word": "ツル科"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92b16d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Otariidae, family of eared seals"
+        }
+      ],
+      "mobileId": 274148,
+      "phonetic": "アシカか",
+      "word": "アシカ科"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92b1b62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Odobenidae, family containing the walrus"
+        }
+      ],
+      "mobileId": 274149,
+      "phonetic": "セイウチか",
+      "word": "セイウチ科"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

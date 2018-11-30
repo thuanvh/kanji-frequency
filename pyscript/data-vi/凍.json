@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900e91c37a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đóng băng; là frozen qua; làm đông lại"
+        }
+      ],
+      "mobileId": 115679,
+      "phonetic": "こお",
+      "related_words": {
+        "word": [
+          "解凍",
+          "冷凍",
+          "冷凍食品",
+          "凍結",
+          "凍る",
+          "冷凍庫",
+          "凍える",
+          "凍傷",
+          "凍死",
+          "不凍液"
+        ]
+      },
+      "word": "凍"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada20333e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "đá Xtêatít (khoáng chất) ."
+        }
+      ],
+      "mobileId": 77443,
+      "phonetic": "とうせき",
+      "related_words": {
+        "word": [
+          "石",
+          "凍"
+        ]
+      },
+      "word": "凍石"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada207fb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mưa mùa đông ."
+        }
+      ],
+      "mobileId": 77449,
+      "phonetic": "とうう",
+      "related_words": {
+        "word": [
+          "雨",
+          "凍"
+        ]
+      },
+      "word": "凍雨"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ab5d264",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frozen harbor"
+        }
+      ],
+      "mobileId": 229215,
+      "phonetic": "とうこう",
+      "word": "凍港"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada20801d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sự thiếu thốn; cảnh thiếu thốn"
+        }
+      ],
+      "mobileId": 77450,
+      "phonetic": "とうたい",
+      "related_words": {
+        "word": [
+          "凍"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "凍餒",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "欠如",
+                "剥奪"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "凍餒"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada1fea68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự buốt giá ."
+        }
+      ],
+      "mobileId": 77438,
+      "phonetic": "とうかん",
+      "related_words": {
+        "word": [
+          "凍"
+        ]
+      },
+      "word": "凍寒"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9ba17e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "starving and freezing to death"
+        }
+      ],
+      "mobileId": 262225,
+      "phonetic": "きとう",
+      "word": "飢凍"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688545e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "không có băng, không bị đóng băng; không bao giờ bị đóng băng"
+        }
+      ],
+      "mobileId": 4242,
+      "phonetic": "ふとう",
+      "related_words": {
+        "word": [
+          "凍"
+        ]
+      },
+      "word": "不凍"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada206ff8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thịt đông lạnh ."
+        }
+      ],
+      "mobileId": 77448,
+      "phonetic": "とうにく",
+      "related_words": {
+        "word": [
+          "肉",
+          "凍"
+        ]
+      },
+      "word": "凍肉"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada208475",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sự thiếu thốn; cảnh thiếu thốn ."
+        }
+      ],
+      "mobileId": 77451,
+      "phonetic": "とうだい",
+      "related_words": {
+        "word": [
+          "凍"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "凍餒",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "欠如",
+                "剥奪"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "凍餒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8b4a80e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nảy mầm; men; bột nở; đất xốp đã làm mục đích"
+        }
+      ],
+      "mobileId": 39272,
+      "phonetic": "こうじ",
+      "related_words": {
+        "word": [
+          "麹菌"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "麹",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "イースト",
+                "酵母菌",
+                "酵母"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "イースト",
+                "酵母"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "麹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9232e96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "traditional Japanese condiment made by fermenting kouji mold with salt and water"
+        }
+      ],
+      "mobileId": 273887,
+      "phonetic": "しおこうじ",
+      "word": "塩麹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef929802b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "fish, meat, vegetables, etc. pickled in mould (mold) and salt, food pickled in malted rice"
+        }
+      ],
+      "mobileId": 274097,
+      "phonetic": "こうじづけ",
+      "word": "麹漬け"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97c3131",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "yellow-green tinged with grey"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "emperor's informal robes"
+        }
+      ],
+      "mobileId": 276695,
+      "phonetic": "きくじん きじん",
+      "word": "麹塵"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93f28ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "barley koji"
+        }
+      ],
+      "mobileId": 274781,
+      "phonetic": "むぎこうじ",
+      "word": "麦麹"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014b303f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây làm men; cây men ."
+        }
+      ],
+      "mobileId": 43039,
+      "phonetic": "こうじかび",
+      "related_words": {
+        "word": [
+          "麹",
+          "黴"
+        ]
+      },
+      "word": "麹黴"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09fe40f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "room for producing kōji"
+        }
+      ],
+      "mobileId": 286058,
+      "phonetic": "こうじむろ",
+      "word": "麹室"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9ae5717",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Monascus purpureus (species of mold), ang-khak"
+        }
+      ],
+      "mobileId": 278282,
+      "phonetic": "べにこうじ ベニコウジ",
+      "word": "紅麹"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a956d6e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rice-malt, malted rice"
+        }
+      ],
+      "mobileId": 259079,
+      "phonetic": "こめこうじ",
+      "related_words": {
+        "word": [
+          "米",
+          "麹"
+        ]
+      },
+      "word": "米麹"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef97c243c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "emperor's informal robes"
+        }
+      ],
+      "mobileId": 276694,
+      "phonetic": "きくじんのほう",
+      "word": "麹塵の袍"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

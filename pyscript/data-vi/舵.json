@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280277a8219",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ボートの舵にからみつく",
+              "mean": "gắn những chiếc bánh lái vào thuyền",
+              "transcription": "ボートのかじにからみつく"
+            },
+            {
+              "content": "舵をとるかい？",
+              "mean": "Anh có lấy bánh lái không",
+              "transcription": "かじをとるかい？"
+            },
+            {
+              "content": "船尾にある小さな舵はトリム・タブと呼ばれる。",
+              "mean": "bánh lái nhỏ ở đuôi tàu được gọi là trim tab",
+              "transcription": "せんびにあるちいさなかじはトリム・タブとよばれる。"
+            },
+            {
+              "content": "小さな舵によって、船全体がやすやすと向きを変えた",
+              "mean": "chỉ với một chiếc bánh lái nhỏ, con tàu trở nên di chuyển rất dễ dàng",
+              "transcription": "ちいさなかじによって、ふねぜんたいがやすやすとむきをかえた"
+            }
+          ],
+          "kind": "n",
+          "mean": "bánh lái"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tay lái ."
+        }
+      ],
+      "mobileId": 31223,
+      "phonetic": "かじ",
+      "related_words": {
+        "word": [
+          "操舵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "舵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ラダー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "下げ翼",
+                "フラップ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "舵"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c2b307",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bánh lái, nguyên tắc chỉ đạo, đũa khuấy"
+        }
+      ],
+      "mobileId": 6208,
+      "phonetic": "ほうこうかじ",
+      "word": "方向舵"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fe1e8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "control surface"
+        }
+      ],
+      "mobileId": 264402,
+      "phonetic": "だめん",
+      "word": "舵面"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d54d0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "helm, yoke"
+        }
+      ],
+      "mobileId": 263092,
+      "phonetic": "かじづか だへい",
+      "word": "舵柄"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db93976",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thang máy"
+        }
+      ],
+      "mobileId": 151620,
+      "phonetic": "しょうこうかじ",
+      "word": "昇降舵"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0c2973",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "coxed (rowing), having a coxswain"
+        }
+      ],
+      "mobileId": 248381,
+      "phonetic": "かじつき",
+      "word": "舵付き"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0443130",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hydroplane (submarines), diving plane, diving rudder"
+        }
+      ],
+      "mobileId": 283158,
+      "phonetic": "せんだ",
+      "word": "潜舵"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eae945f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chuyển (cạnh (của) một ship)"
+        }
+      ],
+      "mobileId": 116629,
+      "opposite_word": [
+        "面舵"
+      ],
+      "phonetic": "とりかじ",
+      "word": "取り舵"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0c2fd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "coxless (rowing)"
+        }
+      ],
+      "mobileId": 248382,
+      "phonetic": "かじなし",
+      "word": "舵無し"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7786cf14",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "black marlin (Makaira indica)"
+        }
+      ],
+      "mobileId": 268831,
+      "phonetic": "しろかじき シロカジキ",
+      "word": "白舵木"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

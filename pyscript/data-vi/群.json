@@ -1,0 +1,331 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280273e2eb7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "アタプルカの遺跡群",
+              "mean": "Quần thể di tích ở Atapuerca.",
+              "transcription": "アタプルカのいせきぐん"
+            },
+            {
+              "content": "〜の外側にある細胞群",
+              "mean": "Các nhóm tế bào có ở phía ngoài của~",
+              "transcription": "〜のそとがわにあるさいぼうぐん"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "huyện; quần thể; nhóm; đàn; lũ"
+        },
+        {
+          "examples": [
+            {
+              "content": "カウォーサ湖群",
+              "mean": "Quận hồ Kawartha.",
+              "transcription": "カウォーサみずうみぐん"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "quận"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "quần thể; nhóm; đàn; lũ ."
+        }
+      ],
+      "mobileId": 30149,
+      "phonetic": "ぐん",
+      "related_words": {
+        "word": [
+          "症候群",
+          "群れ",
+          "抜群",
+          "群衆",
+          "群集",
+          "群れる",
+          "群像",
+          "大群",
+          "群生",
+          "群雄割拠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "群",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "一群れ",
+                "群れ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "群集",
+                "人集り",
+                "群衆",
+                "集まり",
+                "集団"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一群",
+                "一群れ",
+                "群れ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コレクション",
+                "収集物",
+                "蓄積",
+                "集まり",
+                "固まり",
+                "集団"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "塊まり",
+                "クラスタ",
+                "塊",
+                "クラスター",
+                "固まり",
+                "集団",
+                "群れ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "モッブ",
+                "群集",
+                "一団",
+                "人立ち",
+                "かたまり",
+                "大群",
+                "一群",
+                "一群れ",
+                "人集り",
+                "群衆",
+                "塊",
+                "固まり",
+                "集団",
+                "群れ",
+                "大勢",
+                "一叢",
+                "グループ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "塊まり",
+                "かたまり",
+                "マス",
+                "群衆",
+                "塊",
+                "集まり",
+                "固まり",
+                "集塊",
+                "集団"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "グループ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "群れ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "群"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e869ba0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đàn cừu; tập hợp những kẻ ốm yếu"
+        }
+      ],
+      "mobileId": 36896,
+      "phonetic": "ぐんひつじ",
+      "word": "群羊"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e85b1d42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhóm renormalisation (vật lý)"
+        }
+      ],
+      "mobileId": 36428,
+      "phonetic": "くりこみぐん",
+      "related_words": {
+        "word": [
+          "群"
+        ]
+      },
+      "word": "繰り込み群"
+    },
+    {
+      "_id": "432518852de0a80625d585a98266d6e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "taxon"
+        }
+      ],
+      "mobileId": 234885,
+      "phonetic": "ぶんるいぐん",
+      "word": "分類群"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bc8df09",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "name group"
+        }
+      ],
+      "mobileId": 246248,
+      "phonetic": "なまえぐん",
+      "word": "名前群"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d93280a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "thu nhặt một nhóm cùng nhau"
+        }
+      ],
+      "mobileId": 150397,
+      "phonetic": "しゅうぐん",
+      "related_words": {
+        "word": [
+          "群"
+        ]
+      },
+      "word": "集群"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dac2b2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trội hơn, sự xuất sắc, sự ưu tú; tính ưu tú, điểm trội, sở trường"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính ưu việt, tính hơn hẳn"
+        }
+      ],
+      "mobileId": 151188,
+      "phonetic": "でぐん",
+      "related_words": {
+        "word": [
+          "群"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "出群",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "上等",
+                "ハイクオリティ",
+                "高級",
+                "卓抜",
+                "卓出",
+                "至上",
+                "秀逸",
+                "上質",
+                "出色",
+                "高品質",
+                "至高",
+                "卓越"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "出群"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77389455",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "herd of sheep, flock of sheep"
+        }
+      ],
+      "mobileId": 266294,
+      "phonetic": "ようぐん",
+      "word": "羊群"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a922969",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "nhóm ngôn ngữ"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "nhóm từ"
+        }
+      ],
+      "mobileId": 228070,
+      "phonetic": "ごぐん",
+      "word": "語群"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5b92d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "food group"
+        }
+      ],
+      "mobileId": 226334,
+      "phonetic": "しょくひんぐん",
+      "word": "食品群"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

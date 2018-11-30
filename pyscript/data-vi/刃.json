@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada2bed40",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鋭く研がれた刃",
+              "mean": "Lưỡi dao đã được mài sắc",
+              "transcription": "するどくとがれたは"
+            },
+            {
+              "content": "外科用メスの刃",
+              "mean": "Lưỡi dao phẫu thuật .",
+              "transcription": "げかようメスのは"
+            }
+          ],
+          "kind": "n",
+          "mean": "lưỡi (gươm); cạnh sắc"
+        }
+      ],
+      "mobileId": 77696,
+      "opposite_word": [
+        "峰"
+      ],
+      "phonetic": "は",
+      "related_words": {
+        "word": [
+          "刃物",
+          "諸刃の剣",
+          "刃先",
+          "出刃包丁",
+          "出刃"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "刃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "中味",
+                "中身"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "刃"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933d5915",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lưỡi dao dùng để thay thế"
+        }
+      ],
+      "mobileId": 19888,
+      "phonetic": "かえは",
+      "word": "替え刃"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd73bfa0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con dao nhà bếp dùng để xắt cá sống làm món sashimi"
+        }
+      ],
+      "mobileId": 72441,
+      "phonetic": "やなぎは",
+      "word": "柳刃"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0bc37f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "suguha, straight temper line (on a sword)"
+        }
+      ],
+      "mobileId": 287006,
+      "phonetic": "すぐは",
+      "word": "直刃"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada2b9579",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lưỡi gươm ."
+        }
+      ],
+      "mobileId": 77690,
+      "phonetic": "とうじん",
+      "related_words": {
+        "word": [
+          "刀",
+          "刃"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "刀刃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "太刀",
+                "兵刃",
+                "刀",
+                "剣",
+                "大刀",
+                "刀剣"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "刀刃"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3ebc7478",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "切れ刃の角度",
+              "mean": "Góc ăn dao khi tiện",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Dao tiện"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "切れ刃"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773bda71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "stab-proof, knife-proof"
+        }
+      ],
+      "mobileId": 266395,
+      "phonetic": "ぼうじん",
+      "word": "防刃"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681c2807",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lưỡi trích, vòm đỉnh nhọn, cửa sổ nhọn phía trên"
+        }
+      ],
+      "mobileId": 895,
+      "phonetic": "ははり",
+      "related_words": {
+        "word": [
+          "針",
+          "刃"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "刃針",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "メス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "刃針"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6824b773",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "length (của) một (thanh gươm) lưỡi; đi bộ trên (về) mép (của) một thanh gươm"
+        }
+      ],
+      "mobileId": 1174,
+      "phonetic": "はわたし",
+      "related_words": {
+        "word": [
+          "刃"
+        ]
+      },
+      "word": "刃渡"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685ec3c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sắc bén, sáng long lanh thanh gươm"
+        }
+      ],
+      "mobileId": 3027,
+      "phonetic": "こおりは",
+      "related_words": {
+        "word": [
+          "氷",
+          "刃"
+        ]
+      },
+      "word": "氷刃"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

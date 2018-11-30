@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada9f325f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "具体的な叙述",
+              "mean": "sự trần thuật có tính cụ thể",
+              "transcription": "ぐたいてきなじょじゅつ"
+            },
+            {
+              "content": "叙事詩",
+              "mean": "sử thi",
+              "transcription": "じょじし"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự kể lại; sự tường thuật; sự diễn tả; sự mô tả"
+        }
+      ],
+      "mobileId": 79561,
+      "phonetic": "じょ",
+      "related_words": {
+        "word": [
+          "叙情詩",
+          "叙事詩",
+          "自叙伝",
+          "叙情",
+          "叙述",
+          "叙事",
+          "叙勲"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "叙",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "デスクリプション",
+                "写生",
+                "記述",
+                "描写",
+                "描出",
+                "名状",
+                "叙述",
+                "叙事文",
+                "叙事",
+                "形容"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "叙"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953a79a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "phân phối những hàng dãy, những sự thưởng và những lương hưu"
+        }
+      ],
+      "mobileId": 57937,
+      "phonetic": "じょたまもの",
+      "related_words": {
+        "word": [
+          "叙"
+        ]
+      },
+      "word": "叙賜"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953cbbb3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mở đầu; lời giới thiệu"
+        }
+      ],
+      "mobileId": 58016,
+      "phonetic": "じょぶん",
+      "related_words": {
+        "word": [
+          "文",
+          "叙"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "叙文",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "序説",
+                "前置",
+                "案内書",
+                "序章",
+                "概論",
+                "前書き",
+                "前書",
+                "導入",
+                "緒論",
+                "前説",
+                "口書き",
+                "手引き",
+                "序論",
+                "前置き",
+                "序文",
+                "冒頭",
+                "前文",
+                "手引",
+                "序"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "序説",
+                "前書き",
+                "前書",
+                "緒論",
+                "序論",
+                "序文",
+                "冒頭",
+                "前文",
+                "序"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "叙文"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77957921",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "ordination (esp. Catholic)"
+        }
+      ],
+      "mobileId": 269305,
+      "phonetic": "じょかい",
+      "related_words": {
+        "word": [
+          "階",
+          "叙"
+        ]
+      },
+      "word": "叙階"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07ad39d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "ordination (esp. Catholic)"
+        }
+      ],
+      "mobileId": 284877,
+      "phonetic": "じょひん",
+      "word": "叙品"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95026762",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự viết tự truyện, tự truyện"
+        }
+      ],
+      "mobileId": 56195,
+      "phonetic": "じじょ",
+      "word": "自叙"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e978540",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đảo ngược thứ tự theo thời gian"
+        }
+      ],
+      "mobileId": 115869,
+      "phonetic": "",
+      "word": "倒叙"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c08a2cbc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Syria"
+        }
+      ],
+      "mobileId": 203088,
+      "phonetic": "シリア",
+      "word": "叙利亜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

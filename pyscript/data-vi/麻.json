@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568014b44c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gai"
+        },
+        {
+          "examples": [
+            {
+              "content": "麻ひも",
+              "mean": "sợi dây gai .",
+              "transcription": "まひも"
+            }
+          ],
+          "kind": "n",
+          "mean": "vải lanh; cây lanh; cây gai"
+        }
+      ],
+      "mobileId": 43040,
+      "phonetic": "あさ",
+      "related_words": {
+        "word": [
+          "麻雀",
+          "麻酔",
+          "麻薬",
+          "麻痺",
+          "大麻",
+          "麻疹",
+          "麻婆豆腐",
+          "蕁麻疹",
+          "胡麻",
+          "麻衣"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "麻",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "亜麻"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "麻"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014bdb83",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sợi lanh ."
+        }
+      ],
+      "mobileId": 43057,
+      "phonetic": "あさおりもの",
+      "word": "麻織物"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014b5a1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sợi gai thô dùng để làm dây thừng ."
+        }
+      ],
+      "mobileId": 43043,
+      "phonetic": "あさくず",
+      "related_words": {
+        "word": [
+          "麻",
+          "屑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "麻屑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "牽引"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "麻屑"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef920f13e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hemp cord, hemp twine"
+        }
+      ],
+      "mobileId": 273824,
+      "phonetic": "あさひも",
+      "word": "麻紐"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014bbdcc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Dây thừng bện bằng sợi gai ."
+        }
+      ],
+      "mobileId": 43054,
+      "phonetic": "あさなわ",
+      "related_words": {
+        "word": [
+          "麻",
+          "縄"
+        ]
+      },
+      "word": "麻縄"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed957f32eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây lanh (cây gai) quay; cây gai mặc quần áo"
+        }
+      ],
+      "mobileId": 60133,
+      "phonetic": "せいあさ",
+      "word": "製麻"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821d80c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thinly cut hemp or paper mixed with rice (scattered as an offering to the gods)"
+        }
+      ],
+      "mobileId": 232560,
+      "phonetic": "きりぬさ",
+      "word": "切麻"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b3c626",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thin linen polished to appear like silk"
+        }
+      ],
+      "mobileId": 278464,
+      "phonetic": "きぬあさ",
+      "word": "絹麻"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d00c18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ma Gu, legendary Taoist immortal with long talon-like fingernails"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "backscratcher"
+        }
+      ],
+      "mobileId": 271200,
+      "phonetic": "まこ まご",
+      "word": "麻姑"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08cec2d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "măng tre luộc, thái lát, lên men, sấy khô hoặc bảo quản trong muối, sau đó ngâm trong nước nóng và muối biển"
+        }
+      ],
+      "mobileId": 211369,
+      "phonetic": "めんま メンマ",
+      "word": "麺麻"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

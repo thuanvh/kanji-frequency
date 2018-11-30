@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a67f0b9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "2つの頭脳を持つ男",
+              "mean": "người đàn ông có 2 bộ não",
+              "transcription": "2つのずのうをもつおとこ"
+            },
+            {
+              "content": "生意気な男(知ったかぶりをする)",
+              "mean": "người đàn ông huyênh hoang (hợm hĩnh, tinh tướng, tinh vi) làm ra vẻ cái gì cũng biết",
+              "transcription": "なまいきなおとこ(しったかぶりをする)"
+            },
+            {
+              "content": "違う違う。マイクはあっち。分かる？変なひげの男",
+              "mean": "nhầm rồi! Mike ở đằng kia cơ! Có thấy không? Người đàn ông có bộ râu trông lạ lạ ý!",
+              "transcription": "ちがうちがう。マイクはあっち。わかる？へんなひげのおとこ"
+            }
+          ],
+          "kind": "n, n-pref",
+          "mean": "đàn ông; người đàn ông"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-pref",
+          "mean": "nam"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-pref",
+          "mean": "trai ."
+        }
+      ],
+      "mobileId": 172041,
+      "opposite_word": [
+        "女"
+      ],
+      "phonetic": "おとこ",
+      "related_words": {
+        "word": [
+          "男性",
+          "男の子",
+          "男女",
+          "男子",
+          "男性用",
+          "長男",
+          "男前",
+          "男の人",
+          "男根",
+          "男爵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "男",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "男の人",
+                "男性"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "男性"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "紳士",
+                "男子",
+                "丁年",
+                "男の人",
+                "ガイ",
+                "男性"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "男子"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "男"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0154587",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "man's appearance, man's behaviour, someone disguised as a man"
+        }
+      ],
+      "mobileId": 281635,
+      "phonetic": "おとこすがた",
+      "word": "男姿"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96547eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "unpopular man, man who isn't well-liked by women"
+        }
+      ],
+      "mobileId": 275967,
+      "phonetic": "もおとこ もお もだん",
+      "word": "喪男"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96baecd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "male bragging, male conceit"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bragging about one's husband or (male) lover"
+        }
+      ],
+      "mobileId": 276166,
+      "phonetic": "おとこじまん",
+      "word": "男自慢"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a72b9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "male name"
+        }
+      ],
+      "mobileId": 278047,
+      "phonetic": "おとこなまえ",
+      "word": "男名前"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6db2e6ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "uncool man, dork, geek, dweeb, nerd"
+        }
+      ],
+      "mobileId": 220886,
+      "phonetic": "ださお ダサお",
+      "word": "ダサ男"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ad2aaa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "popular figure, outstanding person, well-known person, lion"
+        }
+      ],
+      "mobileId": 270075,
+      "phonetic": "めいぶつおとこ",
+      "word": "名物男"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770aaabb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "male entertainer"
+        }
+      ],
+      "mobileId": 264799,
+      "phonetic": "おとこげいしゃ",
+      "word": "男芸者"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9df7084",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "room for menservants"
+        }
+      ],
+      "mobileId": 263411,
+      "phonetic": "おとこべや",
+      "word": "男部屋"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0461766",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "lãng tử"
+        }
+      ],
+      "mobileId": 283216,
+      "phonetic": "チャラお ちゃらお",
+      "word": "チャラ男"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

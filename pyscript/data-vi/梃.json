@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f610796",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đòn bẩy ."
+        }
+      ],
+      "mobileId": 186579,
+      "phonetic": "てこ",
+      "word": "梃"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937cbc59",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cái xà beng, cái nạy nắp thùng, cái đòn bẫy"
+        }
+      ],
+      "mobileId": 21887,
+      "phonetic": "きむてこ",
+      "word": "金梃"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b5519d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "strange; số phận"
+        }
+      ],
+      "mobileId": 5787,
+      "phonetic": "へんてこ",
+      "related_words": {
+        "word": [
+          "変"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "変梃",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "突飛",
+                "特別",
+                "怪奇",
+                "可笑しい",
+                "物珍しい",
+                "珍奇",
+                "妙",
+                "奇怪",
+                "変梃りん",
+                "変わった",
+                "奇矯",
+                "不思議",
+                "怪しい",
+                "変",
+                "怪しげ",
+                "奇妙",
+                "妖しい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "可笑しい",
+                "奇異",
+                "妙",
+                "変梃りん",
+                "変わった",
+                "奇矯",
+                "変",
+                "奇妙"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "変梃"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937cc21d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái xà beng, cái nạy nắp thùng, cái đòn bẫy"
+        }
+      ],
+      "mobileId": 21888,
+      "phonetic": "てつてこ",
+      "word": "鉄梃"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b55659",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "strange; số phận"
+        }
+      ],
+      "mobileId": 5788,
+      "phonetic": "へんてこりん",
+      "related_words": {
+        "word": [
+          "変"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "変梃りん",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "突飛",
+                "奇異",
+                "妙",
+                "奇矯",
+                "変",
+                "奇妙"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "突飛",
+                "特別",
+                "怪奇",
+                "可笑しい",
+                "物珍しい",
+                "珍奇",
+                "妙",
+                "奇怪",
+                "変わった",
+                "奇矯",
+                "不思議",
+                "怪しい",
+                "変",
+                "怪しげ",
+                "変梃",
+                "奇妙",
+                "妖しい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "可笑しい",
+                "奇異",
+                "妙",
+                "変わった",
+                "奇矯",
+                "変",
+                "変梃",
+                "奇妙"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "変梃りん"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

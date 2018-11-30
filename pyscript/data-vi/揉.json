@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a068ac4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soft, crumpled, unlacquered headwear (often worn by soldiers under their helmets from the Kamakura period onward)"
+        }
+      ],
+      "mobileId": 223607,
+      "phonetic": "もみえぼし",
+      "word": "揉烏帽子"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd60641b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cãi nhau; lo lắng; cãi nhau; ma sát (giữa những người)"
+        }
+      ],
+      "mobileId": 71838,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "事"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "揉事",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "激突",
+                "軋轢",
+                "不和",
+                "衝突",
+                "摩擦"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "争い",
+                "揉め事",
+                "論争",
+                "衝突",
+                "摩擦",
+                "葛藤"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "御苦労",
+                "故障",
+                "紛争",
+                "ごたごた",
+                "支障",
+                "厄介",
+                "波乱",
+                "障害",
+                "悶着",
+                "いざこざ",
+                "御迷惑",
+                "困難",
+                "困り者",
+                "災害",
+                "災い",
+                "迷惑",
+                "揉め事",
+                "煩わしさ",
+                "繁雑",
+                "厄介事",
+                "波瀾",
+                "手数",
+                "妨害",
+                "煩雑",
+                "不都合",
+                "面倒"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "紛争",
+                "ごたごた",
+                "騒動",
+                "波乱",
+                "悶着",
+                "いざこざ",
+                "騒ぎ",
+                "揉め",
+                "揉め事",
+                "波瀾",
+                "葛藤"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "揉事"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

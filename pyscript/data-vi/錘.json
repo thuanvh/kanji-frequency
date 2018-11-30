@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b8508c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "細い糸に大きな錘をつけてはいけない。",
+              "mean": "Không được đan kim đan lớn với sợi len mỏng",
+              "transcription": "ほそいいとにおおきなつむをつけてはいけない。"
+            },
+            {
+              "content": "どんなに記憶力がよくても学が無ければ、糸巻き棒と錘はあるが糸の材料が無いようなもの。",
+              "mean": "Dù trí nhớ có tốt đến mức nào đi chăng nữa, nếu không học thì cũng giống như có kim đan nhưng lại thiếu nguyên liệu đan",
+              "transcription": "どんなにきおくりょくがよくてもがくがなければ、いとまきぼうとつむはあるがいとのざいりょうがないようなもの。"
+            }
+          ],
+          "kind": "suf, ctr",
+          "mean": "kim đan; con suốt"
+        }
+      ],
+      "mobileId": 109833,
+      "opposite_word": [
+        "浮き"
+      ],
+      "phonetic": "つむ",
+      "synsets": [
+        {
+          "base_form": "錘",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "分銅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "重り",
+                "分銅"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "錘"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeb09cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hòn chì của dây dọi; quả dọi bằng chì"
+        }
+      ],
+      "mobileId": 17213,
+      "phonetic": "なまりつむ",
+      "word": "鉛錘"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b8576d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "có hình con suốt ."
+        }
+      ],
+      "mobileId": 109834,
+      "phonetic": "すいじょう",
+      "word": "錘状"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e73ad3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "có hình con suốt"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "hình thoi"
+        }
+      ],
+      "mobileId": 114723,
+      "phonetic": "つむがた",
+      "word": "錘形"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a9595f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đối tượng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đối trọng, lực lượng ngang hàng, ảnh hưởng ngang bằng, sự thăng bằng, lưới đất, counterbalance"
+        }
+      ],
+      "mobileId": 5398,
+      "phonetic": "へいこうつむ",
+      "word": "平衡錘"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9798447",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Giảm cân, giảm trọng lượng"
+        }
+      ],
+      "mobileId": 276614,
+      "phonetic": "らくすい",
+      "word": "落錘"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7787a177",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rainbow runner (Elagatis bipinnulata), rainbow yellowtail, Spanish jack, Hawaiian salmon"
+        }
+      ],
+      "mobileId": 268857,
+      "phonetic": "つむぶり ツムブリ",
+      "word": "錘鰤"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd920019",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới trọng lượng một hàng"
+        }
+      ],
+      "mobileId": 14429,
+      "phonetic": "いとにつむをつける",
+      "word": "糸に錘を付ける"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

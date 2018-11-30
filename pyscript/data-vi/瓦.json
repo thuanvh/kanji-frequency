@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a531690",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "瓦で屋根を葺いた",
+              "mean": "Lợp mái nhà bằng ngói.",
+              "transcription": "かわらでやねをふいた"
+            },
+            {
+              "content": "その屋根には黒い瓦が葺かれている",
+              "mean": "Mái nhà này được lợp bằng ngói đen",
+              "transcription": "そのやねにはくろいかわらがふかれている"
+            }
+          ],
+          "kind": "n",
+          "mean": "ngói"
+        }
+      ],
+      "mobileId": 171695,
+      "phonetic": "かわら",
+      "related_words": {
+        "word": [
+          "瓦礫",
+          "煉瓦",
+          "瓦解",
+          "瓦斯"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "瓦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "タイル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "グラム"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "瓦"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107463c4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gạch phơi nắng ."
+        }
+      ],
+      "mobileId": 52987,
+      "phonetic": "てんじつがわら",
+      "related_words": {
+        "word": [
+          "日",
+          "天",
+          "瓦",
+          "天日"
+        ]
+      },
+      "word": "天日瓦"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef939960a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blue-glazed roof tile"
+        }
+      ],
+      "mobileId": 274613,
+      "phonetic": "るりがわら",
+      "word": "瑠璃瓦"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a17d8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "clay monkey figure"
+        }
+      ],
+      "mobileId": 286112,
+      "phonetic": "かわらざる",
+      "word": "瓦猿"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd06ace7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngói hình bán nguyệt"
+        }
+      ],
+      "mobileId": 69001,
+      "phonetic": "まるかわら",
+      "related_words": {
+        "word": [
+          "丸",
+          "瓦"
+        ]
+      },
+      "word": "丸瓦"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eac0b6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngói lợp nhà; ngói vây cá; ngói hài"
+        }
+      ],
+      "mobileId": 116547,
+      "phonetic": "ともえかわら",
+      "related_words": {
+        "word": [
+          "巴",
+          "瓦"
+        ]
+      },
+      "word": "巴瓦"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774113b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slate roof tile"
+        }
+      ],
+      "mobileId": 266563,
+      "phonetic": "いしがわら",
+      "word": "石瓦"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c06a5a0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Guam"
+        }
+      ],
+      "mobileId": 202038,
+      "phonetic": "グアム グァム ガム",
+      "word": "瓦無"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c464b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "decorative cap of an eave-end roof tile"
+        }
+      ],
+      "mobileId": 262559,
+      "phonetic": "がとう",
+      "word": "瓦当"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939af8e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mái nhà lợp ngói, mái ngói"
+        }
+      ],
+      "mobileId": 22843,
+      "phonetic": "かわらやね",
+      "word": "瓦屋根"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

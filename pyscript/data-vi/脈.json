@@ -1,0 +1,225 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280275f528e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "脈が速い",
+              "mean": "mạch nhanh",
+              "transcription": "みゃくがはやい"
+            },
+            {
+              "content": "波の脈",
+              "mean": "nhịp sóng .",
+              "transcription": "なみのみゃく"
+            }
+          ],
+          "kind": "n",
+          "mean": "mạch; nhịp đập; nhịp"
+        }
+      ],
+      "mobileId": 30688,
+      "phonetic": "みゃく",
+      "related_words": {
+        "word": [
+          "動脈硬化",
+          "静脈",
+          "人脈",
+          "不整脈",
+          "動脈",
+          "脈拍",
+          "山脈",
+          "文脈",
+          "脈動",
+          "鉱脈"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "脈",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "心臓の鼓動",
+                "鼓動",
+                "脈拍",
+                "脈搏",
+                "脈動",
+                "ビート",
+                "プルス",
+                "心拍",
+                "どきどき"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "静脈",
+                "血管",
+                "脈絡",
+                "青筋"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "期待",
+                "光明",
+                "望み",
+                "見込",
+                "見込み",
+                "希望",
+                "当て"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "鎖",
+                "チェイン",
+                "チェーン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "静脈"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "鉱脈",
+                "荷重"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "脈"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280270416ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tĩnh mạch ."
+        }
+      ],
+      "mobileId": 29147,
+      "phonetic": "せいみゃく",
+      "word": "精脈"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e23359c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tachycardia"
+        }
+      ],
+      "mobileId": 249149,
+      "phonetic": "ひんみゃく",
+      "word": "頻脈"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953ccb8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tình trạng nhịp mạch giảm (dưới 60 nhịp / phút)"
+        }
+      ],
+      "mobileId": 58019,
+      "phonetic": "じょみゃく",
+      "word": "徐脈"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd23bb9a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ống, ống dẫn"
+        }
+      ],
+      "mobileId": 69944,
+      "phonetic": "みゃくかん",
+      "word": "脈管"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a1de7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "diagnostic sphygmopalpation (in traditional Chinese medicine), medical diagnosis performed by feeling one's pulse"
+        }
+      ],
+      "mobileId": 269694,
+      "phonetic": "みゃくしん",
+      "word": "脈診"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ce1b08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đê đập"
+        }
+      ],
+      "mobileId": 24448,
+      "phonetic": "いわみゃく",
+      "word": "岩脈"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e45dfd9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "mạch đập chậm"
+        }
+      ],
+      "mobileId": 113267,
+      "phonetic": "おそみゃく",
+      "word": "遅脈"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d15572b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cord, cording, stria, striae"
+        }
+      ],
+      "mobileId": 215783,
+      "phonetic": "みゃくり",
+      "word": "脈理"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770082e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "meridian flow (in traditional Chinese medicine)"
+        }
+      ],
+      "mobileId": 264473,
+      "phonetic": "けいみゃく",
+      "word": "経脈"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

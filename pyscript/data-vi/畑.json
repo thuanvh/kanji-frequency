@@ -1,0 +1,233 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a6c24a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ruộng"
+        },
+        {
+          "examples": [
+            {
+              "content": "耕作に適した畑",
+              "mean": "Những cánh đồng phù hợp với canh tác",
+              "transcription": "こうさくにてきしたはたけ"
+            },
+            {
+              "content": "＿ヘクタールほどのジャガイモが植えられた畑",
+              "mean": "Cánh đồng khoai tây rộng hàng ---- héc ta. .",
+              "transcription": "＿ ヘクタールほどのジャガイモがうえられたはたけ"
+            }
+          ],
+          "kind": "n",
+          "mean": "ruộng nương"
+        }
+      ],
+      "mobileId": 172099,
+      "opposite_word": [
+        "田"
+      ],
+      "phonetic": "はたけ",
+      "related_words": {
+        "word": [
+          "花畑",
+          "田畑",
+          "麦畑",
+          "茶畑",
+          "野菜畑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "畑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "分野",
+                "フィールド",
+                "野原",
+                "野",
+                "原",
+                "戦域",
+                "原野"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "畑"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd102905",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vườn trồng quít"
+        }
+      ],
+      "mobileId": 69306,
+      "phonetic": "みかんはたけ",
+      "related_words": {
+        "word": [
+          "畑",
+          "蜜柑"
+        ]
+      },
+      "word": "蜜柑畑"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9cfdc2e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "Làm việc trong một trang trại, việc đồng áng"
+        }
+      ],
+      "mobileId": 262922,
+      "phonetic": "はたしごと",
+      "related_words": {
+        "word": [
+          "仕事",
+          "事",
+          "畑"
+        ]
+      },
+      "word": "畑仕事"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd7c6c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những hàng bán giải quyết"
+        }
+      ],
+      "mobileId": 16591,
+      "phonetic": "えいぎょうはたけ",
+      "related_words": {
+        "word": [
+          "営業",
+          "畑",
+          "業"
+        ]
+      },
+      "word": "営業畑"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826ae00f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "field of rice seedlings"
+        }
+      ],
+      "mobileId": 235005,
+      "phonetic": "なえばたけ",
+      "word": "苗畑"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689da7e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ruộng nho, vườn nho"
+        }
+      ],
+      "mobileId": 5003,
+      "phonetic": "ぶどうはたけ",
+      "word": "葡萄畑"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a2a441",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vườn trẻ ."
+        }
+      ],
+      "mobileId": 109473,
+      "phonetic": "やさいばたけ",
+      "related_words": {
+        "word": [
+          "野菜",
+          "野",
+          "畑",
+          "菜"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "野菜畑",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "菜園"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "野菜畑"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8218db6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nương rẫy vườc tược trên sườn đồi"
+        }
+      ],
+      "mobileId": 34570,
+      "phonetic": "きりはたけ",
+      "related_words": {
+        "word": [
+          "畑",
+          "切",
+          "切り"
+        ]
+      },
+      "word": "切り畑"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09355cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hot spring area where mineral deposits are harvested"
+        }
+      ],
+      "mobileId": 285661,
+      "phonetic": "ゆばたけ",
+      "word": "湯畑"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00d8310",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "burning stubble and dry grass"
+        }
+      ],
+      "mobileId": 281395,
+      "phonetic": "はたやき",
+      "word": "畑焼き"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

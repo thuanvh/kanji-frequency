@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757ff5dc2f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "人工の滝",
+              "mean": "Thác nhân tạo",
+              "transcription": "じんこうのたき"
+            },
+            {
+              "content": "エンゼル・フォールは、世界で一番高い滝だ",
+              "mean": "Thác Angel là thác nước cao nhất trên thế giới",
+              "transcription": "エンゼル・フォールは、せかいでいちばんたかいたきだ"
+            },
+            {
+              "content": "日本からの旅行者の多くは、ナイアガラの滝などのアメリカの名所を訪れる",
+              "mean": "Rất nhiều khách du lịch từ Nhật Bản đến thăm những nơi nổi tiếng của Mỹ như thác nước Niagara .",
+              "transcription": "にっぽんからのりょこうしゃのおおくは、ナイアガラのたきなどのアメリカのめいしょをおとずれる"
+            }
+          ],
+          "kind": "n",
+          "mean": "thác nước"
+        }
+      ],
+      "mobileId": 189013,
+      "phonetic": "たき",
+      "synsets": [
+        {
+          "base_form": "滝",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "瀧",
+                "瀑布",
+                "飛瀑"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "滝"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757ff5fbfb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鯉の滝登り",
+              "mean": "Cá chép vượt thác .",
+              "transcription": "こいのたきのぼり"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự bơi vượt thác (cá)"
+        }
+      ],
+      "mobileId": 189015,
+      "phonetic": "たきのぼり",
+      "word": "滝登り"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0bbe859",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dried up waterfall, dry waterfall"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "simulated waterfall in a dry garden"
+        }
+      ],
+      "mobileId": 286994,
+      "phonetic": "かれたき",
+      "word": "枯滝"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95fde5f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chậu (của) một thác nước"
+        }
+      ],
+      "mobileId": 64225,
+      "phonetic": "たきつぼ",
+      "word": "滝壺"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802793bc2d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thác Gekon ."
+        }
+      ],
+      "mobileId": 31683,
+      "phonetic": "けごんのたき",
+      "word": "華厳の滝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

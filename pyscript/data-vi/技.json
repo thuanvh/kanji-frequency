@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74944689",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kỹ năng; kỹ thuật"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tài nghệ; kỹ xảo ."
+        }
+      ],
+      "mobileId": 99634,
+      "phonetic": "わざ",
+      "related_words": {
+        "word": [
+          "技術",
+          "技術者",
+          "生産技術",
+          "特技",
+          "陸上競技",
+          "技能",
+          "技術力",
+          "裏技",
+          "技術革新",
+          "情報技術"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "技",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "力量",
+                "伎",
+                "手技",
+                "手腕",
+                "技能",
+                "技巧",
+                "技術",
+                "アビリティー",
+                "技芸",
+                "伎倆",
+                "力倆",
+                "腕前",
+                "技量",
+                "スキル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "技能",
+                "技術",
+                "腕前",
+                "技量",
+                "スキル",
+                "腕"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "技法",
+                "技術",
+                "テクニック",
+                "手法",
+                "方法"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "技能",
+                "技術",
+                "伎倆",
+                "腕前",
+                "技量",
+                "スキル",
+                "腕"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "技"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4fe2ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xù lên phương pháp hoặc công việc"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "physical labor"
+        }
+      ],
+      "mobileId": 12340,
+      "phonetic": "あらわざ",
+      "word": "荒技"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111d2843",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "thủ thuật nhỏ (m&aacute;nh)"
+        }
+      ],
+      "mobileId": 0,
+      "opposite_word": [
+        "大技"
+      ],
+      "phonetic": "",
+      "word": "小技"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0a56b6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pulling techniques"
+        }
+      ],
+      "mobileId": 212151,
+      "phonetic": "ひきわざ",
+      "word": "引き技"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d40443",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "counterattack while evading the opponent's attack (kendo)"
+        }
+      ],
+      "mobileId": 279544,
+      "phonetic": "ぬきわざ",
+      "word": "抜き技"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e976026",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "waza-ari (in judo, a half-point awarded for good but incomplete execution)"
+        }
+      ],
+      "mobileId": 252918,
+      "phonetic": "わざあり",
+      "word": "技あり"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770e2b62",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "technology association, technology institute"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "technical cooperation"
+        }
+      ],
+      "mobileId": 264909,
+      "phonetic": "ぎきょう",
+      "word": "技協"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8aeee8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khéo léo; thành thạo"
+        }
+      ],
+      "mobileId": 39085,
+      "phonetic": "たくみわざ",
+      "word": "巧技"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68208083",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chiến công; nhanh làm việc"
+        }
+      ],
+      "mobileId": 1032,
+      "phonetic": "はやわざ",
+      "word": "早技"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb50d47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "aikido nâng lên bảo vệ"
+        }
+      ],
+      "mobileId": 15532,
+      "phonetic": "こうわざ",
+      "word": "後技"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

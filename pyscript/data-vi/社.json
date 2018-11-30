@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ac3159a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đền thờ ."
+        }
+      ],
+      "mobileId": 173521,
+      "phonetic": "やしろ",
+      "related_words": {
+        "word": [
+          "会社",
+          "株式会社",
+          "会社概要",
+          "会社員",
+          "本社",
+          "社長",
+          "社会",
+          "社員",
+          "有限会社",
+          "関連会社"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "社",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "殿堂",
+                "神宮",
+                "宮殿",
+                "聖堂",
+                "神社",
+                "神殿"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "社"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda85682",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công ty in ấn"
+        }
+      ],
+      "mobileId": 15130,
+      "phonetic": "いんさつしゃ",
+      "related_words": {
+        "word": [
+          "印刷",
+          "印",
+          "社"
+        ]
+      },
+      "word": "印刷社"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02a25a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shrine listed in the Engi-Shiki"
+        }
+      ],
+      "mobileId": 282289,
+      "phonetic": "しきないしゃ",
+      "word": "式内社"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821fecd9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prefectural shrine (of Kyoto or Osaka)"
+        }
+      ],
+      "mobileId": 232637,
+      "phonetic": "ふしゃ",
+      "word": "府社"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd70b33",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "luân lý học và thị dân"
+        }
+      ],
+      "mobileId": 75642,
+      "phonetic": "りんしゃ",
+      "word": "倫社"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8bef4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "công ty được sản xuất"
+        }
+      ],
+      "mobileId": 150166,
+      "phonetic": "しゃせい",
+      "word": "社製"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8de916",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khách quý của công ty, khách quang trọng của công ty"
+        }
+      ],
+      "mobileId": 150226,
+      "phonetic": "",
+      "word": "社賓"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d72951c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Shinto shrine on Buddhist temple grounds dedicated to the tutelary deity of the area"
+        }
+      ],
+      "mobileId": 218778,
+      "phonetic": "ちんじゅしゃ",
+      "word": "鎮守社"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5602e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rear shrine (located behind the main shrine, but dedicated to the same deity)"
+        }
+      ],
+      "mobileId": 226161,
+      "phonetic": "おくしゃ",
+      "word": "奥社"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed958507c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hội chữ thập đỏ"
+        }
+      ],
+      "mobileId": 60323,
+      "phonetic": "せきじゅうじしゃ",
+      "related_words": {
+        "word": [
+          "赤",
+          "十",
+          "字",
+          "社",
+          "赤十字"
+        ]
+      },
+      "word": "赤十字社"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

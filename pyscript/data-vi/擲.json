@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74d873ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lựu đạn ."
+        }
+      ],
+      "mobileId": 100685,
+      "phonetic": "てきだん",
+      "related_words": {
+        "word": [
+          "弾"
+        ]
+      },
+      "word": "擲弾"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74d87609",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Súng phóng lựu đạn ."
+        }
+      ],
+      "mobileId": 100686,
+      "phonetic": "てきだんはっしゃとう",
+      "related_words": {
+        "word": [
+          "発",
+          "弾",
+          "発射",
+          "筒"
+        ]
+      },
+      "word": "擲弾発射筒"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1071caabc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bục"
+        },
+        {
+          "examples": [
+            {
+              "content": "演説者が次々と壇に立った。",
+              "mean": "Các diễn giả thay nhau lên bục phát biểu.",
+              "transcription": "えんぜつしゃがつぎつぎとだんにたった。"
+            }
+          ],
+          "kind": "n",
+          "mean": "bục phát biểu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đài ."
+        }
+      ],
+      "mobileId": 52337,
+      "phonetic": "だん",
+      "word": "壇"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ba702c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "bước xuống diễn đàn, rời khỏi diễn đàn, rời khỏi (bước xuống) bục"
+        }
+      ],
+      "mobileId": 39463,
+      "opposite_word": [
+        "登壇"
+      ],
+      "phonetic": "くだだん",
+      "word": "降壇"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef925c661",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "bàn thờ"
+        }
+      ],
+      "mobileId": 273974,
+      "phonetic": "こうだん",
+      "word": "香壇"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d526d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gỗ mun, bằng gỗ mun, đen như gỗ mun"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cây keo cao ở úc"
+        }
+      ],
+      "mobileId": 40328,
+      "phonetic": "くろだん",
+      "related_words": {
+        "word": [
+          "黒"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "黒檀",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "烏木",
+                "漆黒"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "黒壇"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d94037c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dirt mound"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dirt walls on the inside of the sunken hearth in a tea room"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "platform made of dirt used to perform executions (decapitations) in the Edo period"
+        }
+      ],
+      "mobileId": 219859,
+      "phonetic": "どだん",
+      "word": "土壇"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027493376",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bàn thờ ."
+        }
+      ],
+      "mobileId": 30338,
+      "phonetic": "せいだん",
+      "word": "聖壇"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193709f33",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "luống hoa"
+        }
+      ],
+      "mobileId": 21507,
+      "phonetic": "はなだん",
+      "related_words": {
+        "word": [
+          "華"
+        ]
+      },
+      "word": "華壇"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e347a1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người dân trong giáo khu; người dân trong xã"
+        }
+      ],
+      "mobileId": 112703,
+      "phonetic": "だんか",
+      "word": "壇家"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e3626e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trình diễn"
+        }
+      ],
+      "mobileId": 112760,
+      "phonetic": "だんじょう",
+      "word": "壇場"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e37ef1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "có trên (về) nền tảng"
+        }
+      ],
+      "mobileId": 112813,
+      "phonetic": "だんにのぼる",
+      "word": "壇に登る"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

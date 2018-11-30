@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280276be411",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mủ"
+        },
+        {
+          "examples": [
+            {
+              "content": "厚くたまった膿",
+              "mean": "nhọt mưng mủ dầy",
+              "transcription": "あつくたまったうみ"
+            },
+            {
+              "content": "政界の膿を出す",
+              "mean": "làm sạch những ung nhọt thối tha trong giới chính trị",
+              "transcription": "せいかいのうみをだす"
+            },
+            {
+              "content": "脳内部の膿の局所的集積",
+              "mean": "Mủ tụ lại thành cục bên trong não",
+              "transcription": "のうないぶのうみのきょくしょてきしゅうせき"
+            },
+            {
+              "content": "注射器で膿瘍の排膿をする",
+              "mean": "Hút mủ mụn nhọt bằng ống kim tiêm",
+              "transcription": "ちゅうしゃきでのうようのはいうみをする"
+            },
+            {
+              "content": "黄色い膿の塊",
+              "mean": "Mảng mủ màu vàng",
+              "transcription": "きいろいうみのかたまり"
+            },
+            {
+              "content": "健全膿",
+              "mean": "nhọt bình thường .",
+              "transcription": "けんぜんうみ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Mủ (vết thương); ung nhọt; nhọt"
+        }
+      ],
+      "mobileId": 30902,
+      "phonetic": "うみ",
+      "related_words": {
+        "word": [
+          "蓄膿症",
+          "化膿",
+          "歯槽膿漏",
+          "膿瘍"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "膿",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "化膿"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "膿"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f9adf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pyuria"
+        }
+      ],
+      "mobileId": 272564,
+      "phonetic": "のうにょう",
+      "word": "膿尿"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dbb20f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pseudomonas aeruginosa"
+        }
+      ],
+      "mobileId": 221165,
+      "phonetic": "りょくのうきん",
+      "word": "緑膿菌"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adabe6a2f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "同シンポジウム",
+              "mean": "Cuộc họp này",
+              "transcription": "どうシンポジウム"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "pref",
+          "mean": "đồng; này"
+        }
+      ],
+      "mobileId": 79947,
+      "opposite_word": [
+        "不同",
+        "異"
+      ],
+      "phonetic": "どう",
+      "related_words": {
+        "word": [
+          "同じ",
+          "同時に",
+          "同意する",
+          "同上",
+          "同意",
+          "同時",
+          "同僚",
+          "同期",
+          "同性愛",
+          "同様に"
+        ]
+      },
+      "word": "同"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afd03d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "homology"
+        }
+      ],
+      "mobileId": 231536,
+      "phonetic": "そうどう",
+      "related_words": {
+        "word": [
+          "同",
+          "相"
+        ]
+      },
+      "word": "相同"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a503e16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji radical 13 (\"upside-down box\")"
+        }
+      ],
+      "mobileId": 225990,
+      "phonetic": "どうがまえ",
+      "word": "同構え"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca060e7ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "same father"
+        }
+      ],
+      "mobileId": 284073,
+      "phonetic": "どうふ",
+      "word": "同父"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09fc151",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "including something in a package"
+        }
+      ],
+      "mobileId": 211983,
+      "phonetic": "どうこん",
+      "related_words": {
+        "word": [
+          "同"
+        ]
+      },
+      "word": "同梱"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb50bd6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tương đương"
+        }
+      ],
+      "mobileId": 116833,
+      "phonetic": "どうあたい",
+      "related_words": {
+        "word": [
+          "同",
+          "価"
+        ]
+      },
+      "word": "同価"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb8d517",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "ngồi cùng nhau; cùng theater đó; sự liên can; làm vướng mắc; sự liên quan"
+        }
+      ],
+      "mobileId": 116950,
+      "phonetic": "どうすわ",
+      "related_words": {
+        "word": [
+          "同"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "同坐",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "同座"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "同坐"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb9cc71",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cùng chỗ, cùng nơi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "the same address"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "the said place"
+        }
+      ],
+      "mobileId": 116981,
+      "phonetic": "どうしょ",
+      "related_words": {
+        "word": [
+          "同"
+        ]
+      },
+      "word": "同処"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebbaf65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "như trên; cùng một thứ, cùng một loại, cái kể trên, cái như trên; cái cùng một thứ, cái cùng loại"
+        }
+      ],
+      "mobileId": 117041,
+      "phonetic": "どうまえ",
+      "related_words": {
+        "word": [
+          "前",
+          "同"
+        ]
+      },
+      "word": "同前"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ebcddf7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cùng mức; cùng mức độ, cùng trình độ"
+        }
+      ],
+      "mobileId": 117077,
+      "phonetic": "どうていど",
+      "related_words": {
+        "word": [
+          "同",
+          "程度",
+          "度",
+          "程"
+        ]
+      },
+      "word": "同程度"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

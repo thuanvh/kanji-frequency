@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a962444d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "niềm vui, thích thú, hưởng thụ"
+        }
+      ],
+      "mobileId": 259460,
+      "opposite_word": [
+        "不快"
+      ],
+      "phonetic": "かい",
+      "word": "快"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d8bc3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "good appetite and good bowel movements, enjoying one's food and having regular stools"
+        }
+      ],
+      "mobileId": 213845,
+      "phonetic": "かいしょくかいべん",
+      "word": "快食快便"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9826236",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "hurriedly, rapidly, swiftly"
+        }
+      ],
+      "mobileId": 276889,
+      "phonetic": "カイカイデ カイカイデー",
+      "word": "快快的"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77b5e243",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "steady advance, carrying all before one"
+        }
+      ],
+      "mobileId": 270362,
+      "phonetic": "かいしんげき",
+      "related_words": {
+        "word": [
+          "撃",
+          "進撃"
+        ]
+      },
+      "word": "快進撃"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea6bd73",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "đặc biệt nhanh (địa phương) huấn luyện"
+        }
+      ],
+      "mobileId": 116368,
+      "phonetic": "とっ かい",
+      "word": "特快"
+    },
+    {
+      "_id": "34a5deb02636e7fd7e49c6a1d408255f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "この問題を除いて全体的を解快したんだろ",
+              "mean": "Ngoại trừ vấn đề này. Có lẽ đã được giải quyết hết rồi",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Giải quyết"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "",
+      "word": "解快"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932b4ba8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phạt tiền bản ghi"
+        }
+      ],
+      "mobileId": 19307,
+      "phonetic": "かいきろく",
+      "word": "快記録"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c07b8280",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "good appetite"
+        }
+      ],
+      "mobileId": 210813,
+      "phonetic": "かいしょく",
+      "word": "快食"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193344031",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "cú đánh hay (trong bóng chày)"
+        }
+      ],
+      "mobileId": 19585,
+      "phonetic": "かいだ",
+      "word": "快打"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193349a0f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trang nam tử, hảo hán"
+        }
+      ],
+      "mobileId": 19599,
+      "phonetic": "かいだんし",
+      "word": "快男子"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

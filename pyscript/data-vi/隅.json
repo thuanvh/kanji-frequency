@@ -1,0 +1,245 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7dfa9da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "góc; xó; xó xỉnh ."
+        }
+      ],
+      "mobileId": 110460,
+      "opposite_word": [
+        "真ん中"
+      ],
+      "phonetic": "すみ",
+      "related_words": {
+        "word": [
+          "片隅",
+          "四隅",
+          "隅々"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "隅",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "端",
+                "コーナ",
+                "コーナー",
+                "角"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "隅々"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "コーナ",
+                "コーナー",
+                "角"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "片隅",
+                "一隅",
+                "コーナー",
+                "角",
+                "ニッチ",
+                "一角"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "端",
+                "一隅",
+                "コーナー",
+                "角"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "隅"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955b8cac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "mỗi xó xỉnh và góc"
+        }
+      ],
+      "mobileId": 59006,
+      "phonetic": "すみからすみまで",
+      "word": "隅から隅まで"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b657d2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "top left corner"
+        }
+      ],
+      "mobileId": 243086,
+      "phonetic": "ひだりうえすみ",
+      "word": "左上隅"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0bb2135",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hip (of roof)"
+        }
+      ],
+      "mobileId": 286966,
+      "phonetic": "すみむね",
+      "word": "隅棟"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111e81c3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "とは、道路の交差点で曲がり角を通りやすくするため、敷地の出隅を切り取ることで、二方向の道路が交わる敷地や、道路が屈曲（＝折れ曲がっていること）している敷地について、その角にあたる部分を隅切りし、空地としなければならないことが、多くの自治体の条例によって定められている",
+              "mean": "",
+              "transcription": ""
+            }
+          ],
+          "kind": "",
+          "mean": "g&oacute;c v&aacute;t"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "すみきる",
+      "word": "隅切り"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7dfc694",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "世界の隅々にまで広く共有される",
+              "mean": "Dùng rộng rãi ở khắp nơi trên thế giới",
+              "transcription": "せかいのすみずみにまでひろくきょうゆうされる"
+            },
+            {
+              "content": "体の隅々で",
+              "mean": "Tại các ngóc nghách trong cơ thể .",
+              "transcription": "からだのすみずみで"
+            }
+          ],
+          "kind": "n",
+          "mean": "ngóc ngách xó xỉnh; khắp nơi"
+        }
+      ],
+      "mobileId": 110461,
+      "phonetic": "すみずみ",
+      "related_words": {
+        "word": [
+          "々",
+          "隅"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "隅々",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "隅"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "隅々"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b656db0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bottom left corner"
+        }
+      ],
+      "mobileId": 243084,
+      "phonetic": "ひだりしたすみ",
+      "word": "左下隅"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824f7959",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "internal angle of two walls, planes, etc."
+        }
+      ],
+      "mobileId": 234141,
+      "phonetic": "いりすみ",
+      "word": "入隅"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777bbf23",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "corner post, corner pillar"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "downstage right pillar (on a noh stage)"
+        }
+      ],
+      "mobileId": 268459,
+      "phonetic": "すみばしら",
+      "word": "隅柱"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68aedee5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rẽ; xó xỉnh"
+        }
+      ],
+      "mobileId": 5567,
+      "phonetic": "へきすみ",
+      "related_words": {
+        "word": [
+          "隅",
+          "僻"
+        ]
+      },
+      "word": "僻隅"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

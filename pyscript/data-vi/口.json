@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adaa0084b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "とても小さな口",
+              "mean": "miệng rất nhỏ",
+              "transcription": "とてもちいさなくち"
+            },
+            {
+              "content": "つぼの口",
+              "mean": "miệng lọ",
+              "transcription": "つぼのくち"
+            },
+            {
+              "content": "かわいい口",
+              "mean": "cái miệng xinh xắn",
+              "transcription": "かわいいくち"
+            },
+            {
+              "content": "口（の中）の上側に粘りつく",
+              "mean": "dính cái gì vào phía trên mồm của ai",
+              "transcription": "くち（のなか）のうわがわにねばりつく"
+            }
+          ],
+          "kind": "n",
+          "mean": "cửa; miệng; chỗ cho vào; chỗ ra vào (đồ vật)"
+        },
+        {
+          "examples": [
+            {
+              "content": "鳥のくち",
+              "mean": "mỏ chim",
+              "transcription": "とりのくち"
+            },
+            {
+              "content": "歯のないくち",
+              "mean": "miệng không có răng .",
+              "transcription": "はのないくち"
+            }
+          ],
+          "kind": "n",
+          "mean": "mồm; miệng; mỏ"
+        }
+      ],
+      "mobileId": 79573,
+      "phonetic": "くち",
+      "related_words": {
+        "word": [
+          "出口",
+          "入り口",
+          "入口",
+          "口座",
+          "窓口",
+          "人口",
+          "非常口",
+          "蛇口",
+          "開口部",
+          "口コミ"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "口",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "開始",
+                "隙間",
+                "空隙",
+                "切り口",
+                "開設",
+                "就職口",
+                "販路",
+                "始業"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "口腔",
+                "マウス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "開始",
+                "空隙",
+                "切り口",
+                "開設",
+                "就職口",
+                "販路",
+                "始業"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "入り口"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "開始",
+                "開口部",
+                "空隙",
+                "切り口",
+                "開設",
+                "就職口",
+                "販路",
+                "始業"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "言葉",
+                "口舌",
+                "口説"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "口"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681f27a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhanh (nhanh) nói"
+        }
+      ],
+      "mobileId": 992,
+      "phonetic": "はやぐち",
+      "word": "速口"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68269337",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một nửa thị phần"
+        }
+      ],
+      "mobileId": 1236,
+      "phonetic": "はんくち",
+      "related_words": {
+        "word": [
+          "口",
+          "半"
+        ]
+      },
+      "word": "半口"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c248dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bịt mõm ((của) một súng)"
+        }
+      ],
+      "mobileId": 6195,
+      "phonetic": "ほうぐち",
+      "word": "砲口"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a832e63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "having a small mouth, eating only a little"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "topmouth gudgeon (Pseudorasbora parva)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "barracuda"
+        }
+      ],
+      "mobileId": 227585,
+      "phonetic": "くちぼそ",
+      "word": "口細"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84c913e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bắt đầu; mở nắp (nút)"
+        }
+      ],
+      "mobileId": 35949,
+      "phonetic": "くちあけ",
+      "related_words": {
+        "word": [
+          "口",
+          "明け"
+        ]
+      },
+      "word": "口明け"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84ca02b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "mãnh liệt, dữ, kịch liệt"
+        }
+      ],
+      "mobileId": 35953,
+      "phonetic": "くちあらく",
+      "word": "口荒く"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84dd807",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nói lầm bầm; ấp a ấp úng; định nói lại thôi"
+        }
+      ],
+      "mobileId": 35990,
+      "phonetic": "くちこもる",
+      "word": "口籠る"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931d4934",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa đi xuống; chỗ xuống"
+        }
+      ],
+      "mobileId": 18861,
+      "phonetic": "おりぐち",
+      "word": "降り口"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939f26f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lỗ thông hơi, lỗ thông gió"
+        }
+      ],
+      "mobileId": 22968,
+      "phonetic": "かんきぐち",
+      "related_words": {
+        "word": [
+          "気",
+          "口",
+          "換気"
+        ]
+      },
+      "word": "換気口"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

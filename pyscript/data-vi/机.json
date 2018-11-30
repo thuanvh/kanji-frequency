@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f456e86",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bàn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bàn viết ."
+        }
+      ],
+      "mobileId": 186125,
+      "phonetic": "つくえ",
+      "related_words": {
+        "word": [
+          "机上の空論",
+          "机上"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "机",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "デスク",
+                "ビューロー",
+                "事務机"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "幹事",
+                "秘書",
+                "書記",
+                "主事",
+                "参事",
+                "事務官"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "テーブル",
+                "卓",
+                "卓子",
+                "几"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "机"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77248343",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "desk made in China, Chinese style desk"
+        }
+      ],
+      "mobileId": 265642,
+      "phonetic": "とうづくえ",
+      "word": "唐机"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d55be81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bàn văn phòng ."
+        }
+      ],
+      "mobileId": 142904,
+      "phonetic": "じむづくえ",
+      "related_words": {
+        "word": [
+          "事",
+          "事務",
+          "机"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "事務机",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "デスク",
+                "机",
+                "ビューロー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "事務机"
+    },
+    {
+      "_id": "432518852de0a80625d585a98276ca22",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drawer unit (next to a desk), return"
+        }
+      ],
+      "mobileId": 235379,
+      "phonetic": "わきづくえ",
+      "word": "脇机"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad56295",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "long desk, long table"
+        }
+      ],
+      "mobileId": 230257,
+      "phonetic": "ながづくえ",
+      "word": "長机"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9780455",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese-style desk (short, used while sitting on the floor)"
+        }
+      ],
+      "mobileId": 276564,
+      "phonetic": "わづくえ",
+      "word": "和机"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68bc34e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(sự ghi) bàn"
+        }
+      ],
+      "mobileId": 6015,
+      "phonetic": "べんきょうつくえ",
+      "word": "勉強机"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931d9ccf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gấp bàn"
+        }
+      ],
+      "mobileId": 18873,
+      "phonetic": "おりたたみつくえ",
+      "related_words": {
+        "word": [
+          "机",
+          "畳",
+          "折",
+          "折り畳み"
+        ]
+      },
+      "word": "折り畳み机"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c30302",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Bàn học"
+        }
+      ],
+      "mobileId": 24094,
+      "phonetic": "がくしゅうつくえ",
+      "related_words": {
+        "word": [
+          "学習",
+          "机"
+        ]
+      },
+      "word": "学習机"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1076a765c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bàn con ."
+        }
+      ],
+      "mobileId": 53674,
+      "phonetic": "こつくえ",
+      "word": "子机"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

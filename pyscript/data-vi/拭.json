@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193909d12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "đánh bóng bằng vải khô"
+        }
+      ],
+      "mobileId": 22521,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "乾"
+        ]
+      },
+      "word": "乾拭"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3947c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vải (len) để lau chùi mồ hôi ra khỏi"
+        }
+      ],
+      "mobileId": 11618,
+      "phonetic": "",
+      "word": "汗拭"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e39235",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bed bath, sponge bath, blanket bath"
+        }
+      ],
+      "mobileId": 271848,
+      "phonetic": "せいしき",
+      "word": "清拭"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7704a0b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dish towel, tea towel"
+        }
+      ],
+      "mobileId": 264606,
+      "phonetic": "ふきのの ふきの",
+      "word": "拭布"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

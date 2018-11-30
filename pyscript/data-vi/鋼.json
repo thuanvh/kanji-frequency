@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b7a834",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thép ."
+        }
+      ],
+      "mobileId": 109820,
+      "phonetic": "はがね",
+      "related_words": {
+        "word": [
+          "鋼板",
+          "鉄鋼",
+          "鋼鉄",
+          "鋼材",
+          "鋼管",
+          "炭素鋼",
+          "製鋼",
+          "特殊鋼"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鋼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "スチール",
+                "鉄鋼",
+                "鋼材",
+                "鋼鉄"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鋼"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a461313",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "silicon steel"
+        }
+      ],
+      "mobileId": 225668,
+      "phonetic": "ケイそこう けいそこう",
+      "word": "ケイ素鋼"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e813f668",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cao thế tôi luyện"
+        }
+      ],
+      "mobileId": 34133,
+      "phonetic": "きょうりょくこう",
+      "word": "協力鋼"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be3a796c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ni ken tôi luyện"
+        }
+      ],
+      "mobileId": 91157,
+      "phonetic": "ニッケルこう",
+      "word": "ニッケル鋼"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be3c7902",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thép vanađium"
+        }
+      ],
+      "mobileId": 91217,
+      "phonetic": "バナジウムこう",
+      "word": "バナジウム鋼"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0decfe01",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thép được tôi luyện với bột than"
+        }
+      ],
+      "mobileId": 153305,
+      "phonetic": "しんたんこう",
+      "word": "滲炭鋼"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1d540a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thép thường ."
+        }
+      ],
+      "mobileId": 185447,
+      "phonetic": "ふつうこう",
+      "word": "普通鋼"
+    },
+    {
+      "_id": "32266b33d424da615075e0dca791ccf3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thép lò xo ."
+        }
+      ],
+      "mobileId": 46996,
+      "phonetic": "ぜんまいこう",
+      "word": "ぜんまい鋼"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be363f68",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vonfam tôi luyện"
+        }
+      ],
+      "mobileId": 91018,
+      "phonetic": "タングステンこう",
+      "word": "タングステン鋼"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b7dc25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dây thép ."
+        }
+      ],
+      "mobileId": 109825,
+      "phonetic": "こうせん",
+      "related_words": {
+        "word": [
+          "線",
+          "鋼"
+        ]
+      },
+      "word": "鋼線"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

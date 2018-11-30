@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74eed343",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "今年の国内政治での数々のスキャンダルについてどう思った？",
+              "mean": "Bạn nghĩ gì về những vụ bạo loạn chính trị ở Nhật trong năm nay?",
+              "transcription": "ことしのこくないせいじでのかずかずのスキャンダルについてどうおもった？"
+            },
+            {
+              "content": "彼は数々のガールフレンドと別れても何とも思っていない",
+              "mean": "Mặc dù anh ta đã chia tay với rất nhiều cô bạn gái nhưng anh ta chẳng mảy may nghĩ gì .",
+              "transcription": "かれはかずかずのガールフレンドとわかれてもなんともおもっていない"
+            }
+          ],
+          "kind": "n",
+          "mean": "số; những; nhiều"
+        }
+      ],
+      "mobileId": 101040,
+      "phonetic": "かず",
+      "related_words": {
+        "word": [
+          "数量",
+          "個数",
+          "手数料",
+          "回数",
+          "件数",
+          "複数",
+          "周波数",
+          "変数",
+          "数値",
+          "人数"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "数",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "基数"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "数字"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "量",
+                "クォンティティー",
+                "分量",
+                "数量",
+                "額"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "値",
+                "数字"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "番号",
+                "件数"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "数"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74eed431",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "số ."
+        }
+      ],
+      "mobileId": 101041,
+      "phonetic": "すう",
+      "related_words": {
+        "word": [
+          "数量",
+          "個数",
+          "手数料",
+          "回数",
+          "件数",
+          "複数",
+          "周波数",
+          "変数",
+          "数値",
+          "人数"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "数",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "基数"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "数字"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "量",
+                "クォンティティー",
+                "分量",
+                "数量",
+                "額"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "値",
+                "数字"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "番号",
+                "件数"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "数"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a53100b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "number of crimes"
+        }
+      ],
+      "mobileId": 226075,
+      "phonetic": "ざいすう",
+      "word": "罪数"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6828d15d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số tương hỗ"
+        }
+      ],
+      "mobileId": 1317,
+      "phonetic": "はんかず",
+      "related_words": {
+        "word": [
+          "数",
+          "反"
+        ]
+      },
+      "word": "反数"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6828d2fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số phiên bản; số duyệt lại"
+        }
+      ],
+      "mobileId": 1318,
+      "phonetic": "ばんすう",
+      "related_words": {
+        "word": [
+          "数",
+          "版"
+        ]
+      },
+      "word": "版数"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed952fca15",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số nhân, máy nhân, điện kế nhân, người làm cho bội  lên"
+        }
+      ],
+      "mobileId": 57612,
+      "phonetic": "たたみすう",
+      "word": "畳数"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954f02fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vài lần"
+        }
+      ],
+      "mobileId": 58613,
+      "phonetic": "すうかい",
+      "related_words": {
+        "word": [
+          "数",
+          "回"
+        ]
+      },
+      "word": "数回"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955014b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vài năm"
+        }
+      ],
+      "mobileId": 58648,
+      "phonetic": "すうねん",
+      "related_words": {
+        "word": [
+          "数",
+          "年"
+        ]
+      },
+      "word": "数年"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955019a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vài năm"
+        }
+      ],
+      "mobileId": 58649,
+      "phonetic": "すうねんかん",
+      "related_words": {
+        "word": [
+          "間",
+          "数",
+          "年",
+          "年間"
+        ]
+      },
+      "word": "数年間"
+    },
+    {
+      "_id": "332167954327f6e41c4a167bfebcd877",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "今晩のおかずは?",
+              "mean": "Thức ăn kèm của bữa tối là gì thế?",
+              "transcription": "こんばんのおかずは?"
+            }
+          ],
+          "kind": "n, uk",
+          "mean": "thức ăn kèm"
+        }
+      ],
+      "mobileId": 51139,
+      "phonetic": "おかず",
+      "word": "お数"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

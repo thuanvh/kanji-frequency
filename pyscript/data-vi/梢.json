@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f622fa0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngọn cây ."
+        }
+      ],
+      "mobileId": 186601,
+      "phonetic": "こずえ",
+      "related_words": {
+        "word": [
+          "末梢"
+        ]
+      },
+      "word": "梢"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9aecc8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "treetop"
+        }
+      ],
+      "mobileId": 261874,
+      "phonetic": "じゅしょう",
+      "word": "樹梢"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b44b07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bất ngờ đưa ra (của) màu vàng những chồi nụ"
+        }
+      ],
+      "mobileId": 39258,
+      "phonetic": "きこずえ",
+      "related_words": {
+        "word": [
+          "黄",
+          "梢"
+        ]
+      },
+      "word": "黄梢"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dbb5e89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người chèo thuyền; người giữ thuyền, người cho thuê thuyền"
+        }
+      ],
+      "mobileId": 151692,
+      "phonetic": "こずえこ",
+      "word": "梢子"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd011933",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngọn cây thông"
+        }
+      ],
+      "mobileId": 68821,
+      "phonetic": "まつのこずえ",
+      "word": "松の梢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

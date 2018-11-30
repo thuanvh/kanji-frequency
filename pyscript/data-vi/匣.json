@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada624a90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hộp ."
+        }
+      ],
+      "mobileId": 78602,
+      "phonetic": "はこ",
+      "synsets": [
+        {
+          "base_form": "匣",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "桟敷",
+                "箱",
+                "ボックス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ケイス",
+                "ケース",
+                "入物",
+                "入れ物",
+                "箱"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "箱",
+                "ボックス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "甲羅",
+                "甲殻",
+                "殻",
+                "覆い",
+                "箱",
+                "皮",
+                "革"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "匣"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad82eaf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "document chest"
+        }
+      ],
+      "mobileId": 230343,
+      "phonetic": "ぶんこう",
+      "word": "文匣"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad8154c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mirror case"
+        }
+      ],
+      "mobileId": 230341,
+      "phonetic": "きょうこう",
+      "word": "鏡匣"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdab9d72",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hộp được niêm phong (dán tem)"
+        }
+      ],
+      "mobileId": 15243,
+      "phonetic": "しるしくしげ",
+      "related_words": {
+        "word": [
+          "印",
+          "匣"
+        ]
+      },
+      "word": "印匣"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

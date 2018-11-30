@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19377f77f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ngoài ra, hơn nữa, vả lại, vả chăng, ngoài... ra"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hơn nữa, vả lại"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hơn nữa, ngoài ra, vả lại, vả chăng"
+        }
+      ],
+      "mobileId": 21738,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "又"
+        ]
+      },
+      "word": "且又"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939356cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khinh thường, coi nhẹ"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vặt, thường, không quan trọng"
+        }
+      ],
+      "mobileId": 22606,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "苟且",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "軽視",
+                "仮初",
+                "仮初め",
+                "不行届き"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "苟且"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b7b0e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "little while, short while"
+        }
+      ],
+      "mobileId": 278597,
+      "phonetic": "ざんしょ",
+      "word": "暫且"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

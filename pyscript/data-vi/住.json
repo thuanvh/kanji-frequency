@@ -1,0 +1,239 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95139b13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ cư trú, chỗ ở, nhà ở"
+        }
+      ],
+      "mobileId": 56739,
+      "phonetic": "じゅう",
+      "related_words": {
+        "word": [
+          "住所",
+          "現住所",
+          "住宅",
+          "住む",
+          "居住地",
+          "住宅街",
+          "住まい",
+          "住民",
+          "住民票",
+          "住居"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "住",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "居住",
+                "定住",
+                "居留",
+                "住い",
+                "住まい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "宅",
+                "お宅",
+                "実家",
+                "居",
+                "邸",
+                "自宅",
+                "住み処",
+                "アビタシオン",
+                "館",
+                "居住",
+                "邸宅",
+                "家宅",
+                "家作",
+                "住居",
+                "家屋",
+                "住宅",
+                "室",
+                "住家",
+                "住い",
+                "家居",
+                "家",
+                "住まい",
+                "住みか"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "住"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca01f839d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "dwelling together, living concentratedly"
+        }
+      ],
+      "mobileId": 281955,
+      "phonetic": "しゅうじゅう",
+      "word": "集住"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9517d069",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thái độ (của) nhà cửa"
+        }
+      ],
+      "mobileId": 56868,
+      "phonetic": "じゅうせいかつ",
+      "related_words": {
+        "word": [
+          "生",
+          "生活",
+          "住"
+        ]
+      },
+      "word": "住生活"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939322d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "dinh thự tạm thời"
+        }
+      ],
+      "mobileId": 22601,
+      "phonetic": "かりじゅう",
+      "word": "仮住"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b4edf7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái nhà căn hộ xây dựng bởi công ty nhà cửa nhật bản"
+        }
+      ],
+      "mobileId": 39278,
+      "phonetic": "おおやけじゅう",
+      "word": "公住"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dcd39d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nơi làm việc và nơi cư trú"
+        }
+      ],
+      "mobileId": 152274,
+      "phonetic": "しょくじゅう",
+      "word": "職住"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95164ad8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vi",
+          "mean": "sống; cư trú; sống ở"
+        }
+      ],
+      "mobileId": 56818,
+      "phonetic": "じゅうする",
+      "related_words": {
+        "word": [
+          "する",
+          "住"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "住する",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "住む",
+                "住まう"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "止まる",
+                "留まる",
+                "居る",
+                "残る",
+                "宿る"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "住する"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959cfad4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chiếm giữ"
+        }
+      ],
+      "mobileId": 61110,
+      "phonetic": "うらないじゅう",
+      "related_words": {
+        "word": [
+          "住"
+        ]
+      },
+      "word": "占住"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aafb308",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the kalpa of existence (the second aeon of the universe)"
+        }
+      ],
+      "mobileId": 229020,
+      "phonetic": "じゅうこう",
+      "word": "住劫"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c014a0ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vi",
+          "mean": "to live, to reside, to inhabit"
+        }
+      ],
+      "mobileId": 189807,
+      "phonetic": "じゅうす",
+      "word": "住す"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

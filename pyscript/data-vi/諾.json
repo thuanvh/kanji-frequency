@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7729807d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "agreement, assent"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-pref, n-suf",
+          "mean": "Norway"
+        }
+      ],
+      "mobileId": 265806,
+      "phonetic": "だく",
+      "word": "諾"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0c5a7f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Norway"
+        }
+      ],
+      "mobileId": 204988,
+      "phonetic": "ノルウェー",
+      "word": "諾威"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0218c07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vt",
+          "mean": "to consent to, to assent to"
+        }
+      ],
+      "mobileId": 190230,
+      "opposite_word": [
+        "拒む"
+      ],
+      "phonetic": "だくする",
+      "word": "諾する"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd7b2fd1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một sự ưng thuận"
+        }
+      ],
+      "mobileId": 13708,
+      "phonetic": "いちだく",
+      "word": "一諾"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773f8e05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "consent to an application for a contract"
+        }
+      ],
+      "mobileId": 266513,
+      "phonetic": "だくやく",
+      "word": "諾約"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f0ba083",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nhật Bản và Nauy ."
+        }
+      ],
+      "mobileId": 185117,
+      "phonetic": "にちだく",
+      "word": "日諾"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7029612",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hợp đồng ưng thuận ."
+        }
+      ],
+      "mobileId": 106753,
+      "phonetic": "だくせいけいやく",
+      "word": "諾成契約"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773f9241",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "promisor"
+        }
+      ],
+      "mobileId": 266514,
+      "phonetic": "だくやくしゃ",
+      "word": "諾約者"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5bdbb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sẵn sàng, vui lòng, sẵn lòng, dễ dàng, không khó khăn gì"
+        }
+      ],
+      "mobileId": 12727,
+      "phonetic": "いいだく々",
+      "related_words": {
+        "word": [
+          "唯"
+        ]
+      },
+      "word": "唯々諾々"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af897f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "legal representative, legal guardian"
+        }
+      ],
+      "mobileId": 231380,
+      "phonetic": "だいだくしゃ",
+      "word": "代諾者"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

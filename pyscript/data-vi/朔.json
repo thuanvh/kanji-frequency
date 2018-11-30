@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae1e48b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "new moon"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "first day of the lunar month"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(in ancient China) next year's calendar and decrees (distributed by the Emperor at year's end)"
+        }
+      ],
+      "mobileId": 230673,
+      "opposite_word": [
+        "晦日"
+      ],
+      "phonetic": "さく",
+      "word": "朔"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5912b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "first and fifteenth days of the lunar month (corresponding to new moon and full moon)"
+        }
+      ],
+      "mobileId": 226254,
+      "phonetic": "さくぼう",
+      "word": "朔望"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a591f26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "synodic month"
+        }
+      ],
+      "mobileId": 226255,
+      "phonetic": "さくぼうげつ",
+      "word": "朔望月"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91b514b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "last and first days of the month"
+        }
+      ],
+      "mobileId": 273644,
+      "phonetic": "かいさく",
+      "word": "晦朔"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed956b6be5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bắt đầu (của) tháng hoặc năm; ngày đầu năm; lịch"
+        }
+      ],
+      "mobileId": 59515,
+      "phonetic": "せいついたち",
+      "related_words": {
+        "word": [
+          "正",
+          "朔"
+        ]
+      },
+      "word": "正朔"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a592e96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spring tide"
+        }
+      ],
+      "mobileId": 226256,
+      "phonetic": "さくぼうちょう",
+      "word": "朔望潮"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770eda3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ceremony where the Emperor would inspect the records of attendance and absence of officials"
+        }
+      ],
+      "mobileId": 264934,
+      "phonetic": "こうさく",
+      "word": "視告朔"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

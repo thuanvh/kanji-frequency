@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a89fe4a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "強い方は白を持つ",
+              "mean": "bên mạnh dùng quân trắng",
+              "transcription": "つよいほうはしろをもつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "bên trắng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu trắng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người da trắng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vật màu trắng"
+        },
+        {
+          "examples": [
+            {
+              "content": "白か黒かを決める",
+              "mean": "quyết định vô tội hoặc có tội .",
+              "transcription": "しろかくろかをきめる"
+            }
+          ],
+          "kind": "n",
+          "mean": "vô tội; trong trắng"
+        }
+      ],
+      "mobileId": 172540,
+      "opposite_word": [
+        "紅",
+        "黒"
+      ],
+      "phonetic": "しろ",
+      "related_words": {
+        "word": [
+          "面白い",
+          "空白",
+          "漂白剤",
+          "告白",
+          "白い",
+          "面白",
+          "白黒",
+          "白人",
+          "余白",
+          "白夜"
+        ]
+      },
+      "word": "白"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6805fb8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khói trắng"
+        }
+      ],
+      "mobileId": 183,
+      "phonetic": "しろけむり",
+      "related_words": {
+        "word": [
+          "白",
+          "煙"
+        ]
+      },
+      "word": "白煙"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6807665e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khoáng chất maccazit"
+        }
+      ],
+      "mobileId": 235,
+      "phonetic": "しろてっこう",
+      "word": "白鉄鉱"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a208c2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "White Army (any of the armies that opposed the Bolsheviks during the Russian Revolution)"
+        }
+      ],
+      "mobileId": 224447,
+      "phonetic": "はくぐん",
+      "word": "白軍"
+    },
+    {
+      "_id": "432518852de0a80625d585a982513c31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chionarctia nivea (species of ermine moth)"
+        }
+      ],
+      "mobileId": 234202,
+      "phonetic": "しろひとり シロヒトリ",
+      "word": "白灯蛾"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9e97799",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "white pig"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "white person"
+        }
+      ],
+      "mobileId": 280226,
+      "phonetic": "しろぶた",
+      "word": "白豚"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0ddcedd3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "danh dự được tặng thưởng cho samurai trong tosa"
+        }
+      ],
+      "mobileId": 152786,
+      "phonetic": "しろさつ",
+      "word": "白札"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77ee68f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese glass shrimp (Pasiphaea japonica)"
+        }
+      ],
+      "mobileId": 272195,
+      "phonetic": "しらえび シラエビ",
+      "word": "白蝦"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77f0903d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scimitar oryx (Oryx dammah), scimitar-horned oryx"
+        }
+      ],
+      "mobileId": 272263,
+      "phonetic": "しろオリックス シロオリックス",
+      "word": "白オリックス"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770d2594",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "something painted white, white makeup (for an actor)"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "painted white"
+        }
+      ],
+      "mobileId": 264877,
+      "phonetic": "しろぬり",
+      "word": "白塗り"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f7470bf30",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "かわいさあまって憎さ百倍.",
+              "mean": "Yêu nhau lắm cắn nhau đau .",
+              "transcription": "かわいさあまってにくさひゃくばい."
+            }
+          ],
+          "kind": "n",
+          "mean": "Lòng căm ghét"
+        }
+      ],
+      "mobileId": 99073,
+      "phonetic": "にくさ",
+      "word": "憎さ"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f747186bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đáng ghét (hành động, ngôn từ ...); đáng ghê tởm (hành động, ngôn từ ...) ."
+        }
+      ],
+      "mobileId": 99085,
+      "phonetic": "にくげ",
+      "word": "憎気"
+    },
+    {
+      "_id": "432518852de0a80625d585a982617796",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the pain of meeting people one dislikes"
+        }
+      ],
+      "mobileId": 234716,
+      "opposite_word": [
+        "愛別離苦"
+      ],
+      "phonetic": "おんぞうえく",
+      "word": "怨憎会苦"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06e6ca6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Dislike China, Hate Korea, publishing genre of anti-Chinese and Korean books and magazines"
+        }
+      ],
+      "mobileId": 284499,
+      "phonetic": "かんちゅうぞうかん",
+      "word": "嫌中憎韓"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e13d7a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Excessive tenderness switches to hundredfold hatred"
+        }
+      ],
+      "mobileId": 248643,
+      "phonetic": "かわいさあまってにくさひゃくばい",
+      "word": "可愛さ余って憎さ百倍"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

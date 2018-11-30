@@ -1,0 +1,311 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada054a6a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "技術兵",
+              "mean": "Lính kỹ thuật",
+              "transcription": "ぎじゅつへい"
+            },
+            {
+              "content": "儀仗兵",
+              "mean": "Đội quân danh dự .",
+              "transcription": "ぎじょうへい"
+            }
+          ],
+          "kind": "n",
+          "mean": "lính"
+        }
+      ],
+      "mobileId": 76979,
+      "phonetic": "つわもの",
+      "related_words": {
+        "word": [
+          "兵士",
+          "兵器",
+          "傭兵",
+          "兵隊",
+          "海兵隊",
+          "核兵器",
+          "一等兵",
+          "大量破壊兵器",
+          "二等兵",
+          "歩兵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "兵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "兵士",
+                "軍卒",
+                "戦士",
+                "武弁",
+                "兵隊",
+                "軍人",
+                "兵家"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "兵士",
+                "軍卒",
+                "戦士",
+                "下士官兵",
+                "兵員",
+                "兵隊",
+                "軍人",
+                "武人"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "武者",
+                "戦士",
+                "丈夫",
+                "兵員",
+                "兵隊"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "兵卒",
+                "下士官兵"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "兵馬",
+                "軍兵",
+                "部隊",
+                "軍勢",
+                "軍",
+                "兵員",
+                "兵隊",
+                "軍人",
+                "軍隊"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "兵士",
+                "軍士",
+                "軍卒",
+                "戦士",
+                "兵卒",
+                "兵員",
+                "武弁",
+                "兵隊",
+                "軍人"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "兵"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a9df05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xe ngựa chiến tranh"
+        }
+      ],
+      "mobileId": 5415,
+      "phonetic": "へいしゃ",
+      "related_words": {
+        "word": [
+          "車",
+          "兵"
+        ]
+      },
+      "word": "兵車"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68aabc4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số (của) những người lính"
+        }
+      ],
+      "mobileId": 5438,
+      "phonetic": "へいすう",
+      "related_words": {
+        "word": [
+          "数",
+          "兵"
+        ]
+      },
+      "word": "兵数"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ac69df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những kẻ cướp"
+        }
+      ],
+      "mobileId": 5490,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "兵"
+        ]
+      },
+      "word": "兵匪"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a4a051",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hộ lý quân đội; sinh viên y khoa"
+        }
+      ],
+      "mobileId": 23144,
+      "phonetic": "かんごへい",
+      "related_words": {
+        "word": [
+          "看護",
+          "兵"
+        ]
+      },
+      "word": "看護兵"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e836d1d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hình nộm đi lính"
+        }
+      ],
+      "mobileId": 35250,
+      "phonetic": "にせへい",
+      "related_words": {
+        "word": [
+          "偽",
+          "兵"
+        ]
+      },
+      "word": "偽兵"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8effe7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cận vệ binh Hoàng gia; vệ sĩ"
+        }
+      ],
+      "mobileId": 41190,
+      "phonetic": "このえへい",
+      "word": "近衛兵"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed957e87fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lính tham gia chiến đấu trực tiếp"
+        }
+      ],
+      "mobileId": 60115,
+      "phonetic": "せいへい",
+      "related_words": {
+        "word": [
+          "正",
+          "兵"
+        ]
+      },
+      "word": "正兵"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdaa84f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lính dự bị, (thể dục, thể thao) đấu thủ dự bị"
+        }
+      ],
+      "mobileId": 74255,
+      "phonetic": "よびへい",
+      "related_words": {
+        "word": [
+          "予備",
+          "兵"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "予備兵",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "郷軍"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "予備兵"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7433d6e7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "志願兵一人は徴募兵の二人前",
+              "mean": "Một tình nguyện viên có giá trị bằng hai người bị ép buộc",
+              "transcription": "しがんへいいちにんはちょうぼへいのににんまえ"
+            },
+            {
+              "content": "陸軍に志願兵として入隊を許可される",
+              "mean": "được cho phép gia nhập với tư cách là tình nguyện viên trong quân đội .",
+              "transcription": "りくぐんにしがんへいとしてにゅうたいをきょかされる"
+            }
+          ],
+          "kind": "n",
+          "mean": "lính tình nguyện"
+        }
+      ],
+      "mobileId": 98262,
+      "phonetic": "しがんへい",
+      "related_words": {
+        "word": [
+          "志",
+          "兵"
+        ]
+      },
+      "word": "志願兵"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

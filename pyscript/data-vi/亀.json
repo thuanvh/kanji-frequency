@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d511a5b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "海亀の赤ちゃんが無事に海に戻った",
+              "mean": "Rùa con đã quay trở lại biển một cách an toàn",
+              "transcription": "うみかめのあかちゃんがぶじにうみにもどった"
+            },
+            {
+              "content": "亀のようにのろのろ歩く",
+              "mean": "Đi chậm như rùa .",
+              "transcription": "かめのようにのろのろあるく"
+            }
+          ],
+          "kind": "n",
+          "mean": "rùa; con rùa"
+        }
+      ],
+      "mobileId": 142821,
+      "phonetic": "かめ",
+      "related_words": {
+        "word": [
+          "亀裂",
+          "海亀",
+          "亀甲"
+        ]
+      },
+      "word": "亀"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a20f8e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "snapping turtle (Chelydra serpentina)"
+        }
+      ],
+      "mobileId": 224462,
+      "phonetic": "かみつきがめ カミツキガメ",
+      "word": "噛み付き亀"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826902c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "white plaster bun-shaped mound (used to support base stones, etc.)"
+        }
+      ],
+      "mobileId": 234946,
+      "phonetic": "かめばら",
+      "word": "亀腹"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d63d2e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Bunki era (1501.2.29-1504.2.30)"
+        }
+      ],
+      "mobileId": 218299,
+      "phonetic": "ぶんき",
+      "word": "文亀"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6270ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese soft-shelled turtle (Pelodiscus sinensis), soft-shelled turtle (Trionychidae)"
+        }
+      ],
+      "mobileId": 251207,
+      "phonetic": "どんがめ",
+      "word": "団亀"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938b7644",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuật bói toán bằng mu rùa"
+        }
+      ],
+      "mobileId": 22356,
+      "phonetic": "かめぼく",
+      "related_words": {
+        "word": [
+          "亀",
+          "卜"
+        ]
+      },
+      "word": "亀卜"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e88ed7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quả đấu, tuyến, đầu"
+        }
+      ],
+      "mobileId": 25280,
+      "phonetic": "かめあたま",
+      "word": "亀頭"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010280f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Rùa biển xanh ."
+        }
+      ],
+      "mobileId": 41763,
+      "phonetic": "あおうみがめ",
+      "word": "青海亀"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa72f098e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Rùa caretta ."
+        }
+      ],
+      "mobileId": 107469,
+      "phonetic": "あかうみがめ",
+      "word": "赤海亀"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e3f1dc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "alligator snapping turtle (Macroclemys temminckii)"
+        }
+      ],
+      "mobileId": 250051,
+      "phonetic": "わにがめ ワニガメ",
+      "word": "鰐亀"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9539801e",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự ô nhục"
+        }
+      ],
+      "mobileId": 57910,
+      "opposite_word": [
+        "栄"
+      ],
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "侮辱",
+          "屈辱",
+          "恥辱",
+          "侮辱する",
+          "辱める",
+          "雪辱"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "辱",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "レイプ",
+                "貞操蹂躪",
+                "強姦",
+                "手込め",
+                "暴行"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "憎まれ口",
+                "悪言",
+                "悪たれ口",
+                "無礼",
+                "冷罵",
+                "悪態",
+                "悪口",
+                "雑言",
+                "誹謗",
+                "讒謗",
+                "悪口雑言",
+                "侮言",
+                "恥辱",
+                "罵倒",
+                "侮辱"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "恥",
+                "屈辱",
+                "恥辱",
+                "汚辱"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "辱"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

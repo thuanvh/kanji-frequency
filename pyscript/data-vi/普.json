@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f1c8d3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nói chung; đại thể ."
+        }
+      ],
+      "mobileId": 185426,
+      "phonetic": "ふ",
+      "related_words": {
+        "word": [
+          "普通",
+          "普通預金",
+          "普及",
+          "普段",
+          "普通科",
+          "普及率",
+          "普通の人",
+          "普遍",
+          "普段着",
+          "普通列車"
+        ]
+      },
+      "word": "普"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1d5ff9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quyền bầu cử phổ thông ."
+        }
+      ],
+      "mobileId": 185449,
+      "phonetic": "ふせん",
+      "related_words": {
+        "word": [
+          "普"
+        ]
+      },
+      "word": "普選"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6877a788",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "samantabhadra (bodhisattva); lòng thương phổ thông"
+        }
+      ],
+      "mobileId": 3807,
+      "phonetic": "ひろしけん",
+      "word": "普賢"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688a66c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính chất chung, tính toàn thể, tính phổ thông, tính phổ biến"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính có mặt bất cứ nơi nào; tính đồng thời ở khắp mọi nơi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự có mặt ở khắp mọi nơi"
+        }
+      ],
+      "mobileId": 4408,
+      "phonetic": "ひろしへん",
+      "related_words": {
+        "word": [
+          "偏",
+          "普"
+        ]
+      },
+      "word": "普偏"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688a723b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính chất chung, tính toàn thể, tính phổ thông, tính phổ biến"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính có mặt bất cứ nơi nào; tính đồng thời ở khắp mọi nơi"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự có mặt ở khắp mọi nơi"
+        }
+      ],
+      "mobileId": 4409,
+      "phonetic": "ひろしあたり",
+      "related_words": {
+        "word": [
+          "辺",
+          "普"
+        ]
+      },
+      "word": "普辺"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d10ab8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "standard driver's licence"
+        }
+      ],
+      "mobileId": 215630,
+      "phonetic": "ふめん",
+      "word": "普免"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776767fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "entertaining people by serving tea (esp. in the Obaku school of Zen)"
+        }
+      ],
+      "mobileId": 267800,
+      "phonetic": "ふちゃ ふさ",
+      "word": "普茶"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7757b12d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Avalokitesvara Sutra, Kannon Sutra"
+        }
+      ],
+      "mobileId": 267282,
+      "phonetic": "ふもんぼん",
+      "word": "普門品"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c20260",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Prussia"
+        }
+      ],
+      "mobileId": 278947,
+      "phonetic": "プロシア",
+      "word": "普魯西"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688a9945",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phổ biến; tính đồng thời ở khắp mọi nơi; omnipresence"
+        }
+      ],
+      "mobileId": 4412,
+      "phonetic": "ひろしへんせい",
+      "related_words": {
+        "word": [
+          "性",
+          "偏",
+          "普"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "普偏性",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "普辺性"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "普遍性",
+                "普遍",
+                "普辺性"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "普偏性"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a89ada4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "returning to a club (one was formerly a member of)"
+        }
+      ],
+      "mobileId": 227796,
+      "phonetic": "ふくぶ",
+      "word": "復部"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687294c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "trở lại tới trường học"
+        }
+      ],
+      "mobileId": 3654,
+      "phonetic": "ふくこう",
+      "word": "復校"
+    },
+    {
+      "_id": "432518852de0a80625d585a982768a9c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "restoration of power (e.g. after power failure)"
+        }
+      ],
+      "mobileId": 235373,
+      "phonetic": "ふくでん",
+      "word": "復電"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6881058a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trở đầu bộ lên giấy, về đầu dòng"
+        }
+      ],
+      "mobileId": 4107,
+      "phonetic": "ふくあらため",
+      "word": "復改"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68752652",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự trả lời, sự đáp lại, sự hưởng ứng, sự phản ứng lại; vận động phản ứng lại, responsory"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "câu trả lời, lời đáp, trả lời, đáp lại"
+        }
+      ],
+      "mobileId": 3734,
+      "phonetic": "ふくこたえ",
+      "word": "復答"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d302856",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5u, vt",
+          "mean": "tới tổng quan; nhắc lại; để thực hành"
+        }
+      ],
+      "mobileId": 147254,
+      "phonetic": "ふくならう",
+      "related_words": {
+        "word": [
+          "復習"
+        ]
+      },
+      "word": "復習う"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779debc9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "returning to a company where one has worked before"
+        }
+      ],
+      "mobileId": 269568,
+      "phonetic": "ふくしゃ",
+      "word": "復社"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68752389",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự trả lời, sự đáp lại, sự hưởng ứng, sự phản ứng lại; vận động phản ứng lại, responsory"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "câu trả lời, lời đáp, trả lời, đáp lại"
+        }
+      ],
+      "mobileId": 3733,
+      "phonetic": "ふくとう",
+      "word": "復党"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d303ab9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vt",
+          "mean": "tới tổng quan; nhắc lại; để thực hành"
+        }
+      ],
+      "mobileId": 147256,
+      "phonetic": "ふくならえる",
+      "related_words": {
+        "word": [
+          "復習"
+        ]
+      },
+      "word": "復習える"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f7429653d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "補助復水器",
+              "mean": "Cái tụ phụ",
+              "transcription": "ほじょふくすいき"
+            },
+            {
+              "content": "復水器洗浄装置",
+              "mean": "thiết bị làm sạch tụ .",
+              "transcription": "ふくすいきせんじょうそうち"
+            }
+          ],
+          "kind": "n",
+          "mean": "Cái tụ"
+        }
+      ],
+      "mobileId": 98063,
+      "phonetic": "ふくすいき",
+      "word": "復水器"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

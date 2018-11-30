@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4f4e41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "revolt, rebellion, war"
+        }
+      ],
+      "mobileId": 217626,
+      "opposite_word": [
+        "治"
+      ],
+      "phonetic": "らん",
+      "word": "乱"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbae68d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự nhiễu loạn, sự chuyển động dữ dội, sự chuyển động không đều (của không khí)"
+        }
+      ],
+      "mobileId": 74776,
+      "phonetic": "らんりゅう",
+      "word": "乱流"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bcddb8f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "random access"
+        }
+      ],
+      "mobileId": 246396,
+      "phonetic": "らんよびだし",
+      "word": "乱呼出し"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9286910",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to, adj-no",
+          "mean": "dispersed (of citizens in a war-torn country, etc.)"
+        }
+      ],
+      "mobileId": 257561,
+      "phonetic": "らんり",
+      "word": "乱離"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb85b7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "bắn càn, bắn loạn xạ"
+        }
+      ],
+      "mobileId": 74700,
+      "phonetic": "",
+      "word": "乱撃"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb85dbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs, adj-no",
+          "mean": "trạng thái lộn xộn, trạng thái hỗn tạp, trạng thái lẫn lộn, tính hay chung chạ bừa bãi, tính hay ngủ bậy; tạp hôn"
+        }
+      ],
+      "mobileId": 74701,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "乱交パーティー"
+        ]
+      },
+      "word": "乱交"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d4935d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bewilderment, confusion"
+        }
+      ],
+      "mobileId": 279559,
+      "phonetic": "めいらん",
+      "word": "迷乱"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193525558",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chứng trúng nắng; bị trúng nóng; bị say nắng; các chứng bệnh do nhiệt gây nên như kiết lị; việm ruột, ..."
+        }
+      ],
+      "mobileId": 20536,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "霍乱",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "日射病"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "霍乱"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b0674e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thug, hooligan, ruffian, villain, scoundrel"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "spy"
+        }
+      ],
+      "mobileId": 286604,
+      "phonetic": "らっぱ",
+      "word": "乱波"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb7e1dc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự khai thác phát triển làm hư hại môi trường; sự khai thác bừa bãi"
+        }
+      ],
+      "mobileId": 74686,
+      "phonetic": "らんかいはつ",
+      "word": "乱開発"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

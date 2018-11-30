@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8fa4db0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "năm (được sử dụng trong những tài liệu pháp lý); tổ năm người"
+        }
+      ],
+      "mobileId": 41525,
+      "phonetic": "ご",
+      "related_words": {
+        "word": [
+          "伍長",
+          "落伍者"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "伍",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "線路",
+                "行列",
+                "筋",
+                "行",
+                "路線",
+                "ライン",
+                "列",
+                "線"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "線路",
+                "行列",
+                "筋",
+                "行",
+                "路線",
+                "ライン",
+                "列"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "伍"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d7e686",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hồ sơ và rậm rạp; những hàng dãy"
+        }
+      ],
+      "mobileId": 63003,
+      "phonetic": "そつご",
+      "related_words": {
+        "word": [
+          "伍"
+        ]
+      },
+      "word": "卒伍"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd8f73e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "năm"
+        }
+      ],
+      "mobileId": 14340,
+      "phonetic": "ごつ",
+      "word": "伍つ"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00882ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vi",
+          "mean": "to rank with, to rank among"
+        }
+      ],
+      "mobileId": 189403,
+      "phonetic": "ごする",
+      "word": "伍する"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a2e6e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dẫn dắt hồ sơ"
+        }
+      ],
+      "mobileId": 61291,
+      "phonetic": "せんとうご",
+      "word": "先頭伍"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0c10ce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "xếp theo hàng"
+        }
+      ],
+      "mobileId": 146132,
+      "phonetic": "ごをかさねる",
+      "word": "伍を重ねる"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d52365",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "full particulars, the whole story, from beginning to end"
+        }
+      ],
+      "mobileId": 213721,
+      "phonetic": "いちごいちじゅう",
+      "word": "一伍一什"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

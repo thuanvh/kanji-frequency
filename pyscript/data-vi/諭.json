@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada52ffe5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sắc dụ ."
+        }
+      ],
+      "mobileId": 78368,
+      "phonetic": "ちょくゆ",
+      "word": "勅諭"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8db4b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chỉ thị; chỉ dụ; chỉ dẫn (cho người cấp dưới)"
+        }
+      ],
+      "mobileId": 73314,
+      "phonetic": "",
+      "word": "諭示"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8602a36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "huấn dụ (từ hiếm có); sự nhắc nhở; sự cảnh cáo"
+        }
+      ],
+      "mobileId": 36584,
+      "phonetic": "くんさとし",
+      "word": "訓諭"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95379cef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sắc lệnh đế quốc"
+        }
+      ],
+      "mobileId": 57851,
+      "phonetic": "うえさとし",
+      "related_words": {
+        "word": [
+          "上"
+        ]
+      },
+      "word": "上諭"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685c9d05",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phúng dụ, lời nói bóng, chuyện ngụ ngôn, biểu tượng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "truyện ngụ ngôn, (từ cổ, nghĩa cổ) lời nói bí ẩn, nghĩa cổ) tục ngữ, nghĩa cổ) bắt đầu nói chuyện, bắt đầu đàm luận"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự so sánh, lối so sánh"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phép ẩn dụ"
+        }
+      ],
+      "mobileId": 2953,
+      "phonetic": "ひさとし",
+      "related_words": {
+        "word": [
+          "比"
+        ]
+      },
+      "word": "比諭"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93fae8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Imperial Rescript to Soldiers and Sailors (1882)"
+        }
+      ],
+      "mobileId": 258328,
+      "phonetic": "ぐんじんちょくゆ",
+      "word": "軍人勅諭"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

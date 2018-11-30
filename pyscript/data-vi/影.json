@@ -1,0 +1,322 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f7415dcfc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bóng dáng"
+        },
+        {
+          "examples": [
+            {
+              "content": "夕方の影",
+              "mean": "bóng chiều",
+              "transcription": "ゆうがたのかげ"
+            },
+            {
+              "content": "黒い影",
+              "mean": "bóng đen",
+              "transcription": "くろいかげ"
+            },
+            {
+              "content": "雲の影",
+              "mean": "bóng mây",
+              "transcription": "くものかげ"
+            }
+          ],
+          "kind": "n",
+          "mean": "bóng; bóng hình"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "近よる死の影:tiến dần đến cái chết ."
+        }
+      ],
+      "mobileId": 97797,
+      "opposite_word": [
+        "光",
+        "形"
+      ],
+      "phonetic": "かげ",
+      "related_words": {
+        "word": [
+          "影響",
+          "撮影",
+          "幻影",
+          "撮影者",
+          "火影",
+          "月影",
+          "悪影響",
+          "面影",
+          "投影",
+          "影武者"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "影",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蔭",
+                "本影",
+                "シェード",
+                "影法師",
+                "陰",
+                "日陰",
+                "シャドー",
+                "陰影",
+                "冥暗",
+                "物陰",
+                "陰翳",
+                "冥闇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "影像",
+                "影法師",
+                "シルエット"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "蔭",
+                "闇黒",
+                "闇",
+                "暗がり",
+                "暗黒",
+                "陰影",
+                "陰翳",
+                "暗闇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "影法師",
+                "シャドー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "幸先",
+                "知らせ",
+                "気配",
+                "兆し",
+                "徴候",
+                "気色",
+                "前表",
+                "先触れ",
+                "印",
+                "表徴",
+                "前兆",
+                "萌し",
+                "サイン",
+                "兆",
+                "兆候"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "幻影",
+                "幻",
+                "幻像",
+                "ファントム"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "存在"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "影"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68250387",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phản xạ; ảnh hưởng"
+        }
+      ],
+      "mobileId": 1184,
+      "phonetic": "はんかげ",
+      "related_words": {
+        "word": [
+          "影",
+          "反"
+        ]
+      },
+      "word": "反影"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd1c9b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hình dạng đám mây"
+        }
+      ],
+      "mobileId": 16403,
+      "phonetic": "くもかげ",
+      "related_words": {
+        "word": [
+          "影",
+          "雲"
+        ]
+      },
+      "word": "雲影"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d14d9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bóng, hình bóng, in bóng, rọi bóng; vẽ hình bóng trông nghiêng, rọi bóng trông nghiêng"
+        }
+      ],
+      "mobileId": 40205,
+      "phonetic": "くろかげ",
+      "related_words": {
+        "word": [
+          "黒",
+          "影"
+        ]
+      },
+      "word": "黒影"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f3944fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tia nắng ban mai ."
+        }
+      ],
+      "mobileId": 185870,
+      "phonetic": "あさひかげ",
+      "word": "朝日影"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd526af5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bóng mờ"
+        }
+      ],
+      "mobileId": 12423,
+      "phonetic": "あわいかげ",
+      "word": "淡い影"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ddd8f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bóng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chỉ huy, tổng hành dinh"
+        }
+      ],
+      "mobileId": 7064,
+      "phonetic": "ほんかげ",
+      "related_words": {
+        "word": [
+          "本",
+          "影"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "本影",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蔭",
+                "シェード",
+                "影法師",
+                "陰",
+                "日陰",
+                "影",
+                "シャドー",
+                "陰影",
+                "冥暗",
+                "物陰",
+                "陰翳",
+                "冥闇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "本影"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7f53a1f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "điện ảnh ."
+        }
+      ],
+      "mobileId": 110853,
+      "phonetic": "でんえい",
+      "word": "電影"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90c6c74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bubbles and shadows, something transient"
+        }
+      ],
+      "mobileId": 273163,
+      "phonetic": "ほうえい ほうよう",
+      "word": "泡影"
+    },
+    {
+      "_id": "ae3862f5ae32f3a57b0eefb8b395e4df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tranh thần thánh; hình ảnh của những vị đáng kính ."
+        }
+      ],
+      "mobileId": 136539,
+      "phonetic": "ごえい",
+      "word": "ご影"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

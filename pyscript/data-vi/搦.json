@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c07ed7ea",
+      "means": [
+        {
+          "examples": [],
+          "kind": "suf",
+          "mean": "Vấn đề liên quan, liên quan"
+        }
+      ],
+      "mobileId": 210921,
+      "phonetic": "がらみ",
+      "word": "搦み"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a948fbce",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "leg lock"
+        }
+      ],
+      "mobileId": 258628,
+      "phonetic": "あしがら",
+      "word": "足搦"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9a66385",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "collar, lapels"
+        }
+      ],
+      "mobileId": 261593,
+      "phonetic": "むながらみ",
+      "word": "胸搦み"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cb6494",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "(sự trói buộc) chắc chắn"
+        }
+      ],
+      "mobileId": 24362,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "に",
+          "字",
+          "雁"
+        ]
+      },
+      "word": "雁字搦みに"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

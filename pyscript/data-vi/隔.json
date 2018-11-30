@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3aef5f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "every other, second, alternate"
+        }
+      ],
+      "mobileId": 216986,
+      "phonetic": "かく",
+      "word": "隔"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e4b8eac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "vách ngăn"
+        }
+      ],
+      "mobileId": 113447,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "中"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "中隔",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "パーティション",
+                "隔て",
+                "中仕切",
+                "仕切り",
+                "几帳"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "中隔"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9514beef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "trung thất, vách"
+        }
+      ],
+      "mobileId": 56773,
+      "phonetic": "じゅう かく",
+      "word": "縦隔"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a952e576",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nasal septum"
+        }
+      ],
+      "mobileId": 258942,
+      "phonetic": "びちゅうかく",
+      "word": "鼻中隔"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

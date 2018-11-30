@@ -1,0 +1,359 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69adc47bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hầm"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hầm hố"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hang"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hốc"
+        },
+        {
+          "examples": [
+            {
+              "content": "その主張は穴だらけだ。",
+              "mean": "Lập luận đó toàn lỗ hổng.",
+              "transcription": "そのしゅちょうはあなだらけだ。"
+            },
+            {
+              "content": "あなたの計画には１つの穴がある。",
+              "mean": "Trong kế hoạch của anh có một lỗ hổng.",
+              "transcription": "あなたのけいかくにはひとつのあながある。"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "lỗ hổng; khiếm khuyết"
+        },
+        {
+          "examples": [
+            {
+              "content": "穴のたくさん開いた",
+              "mean": "có nhiều lỗ răng cưa",
+              "transcription": "あなのたくさんひらいた"
+            },
+            {
+              "content": "多数(複数)の穴が開いている",
+              "mean": "có nhiều lỗ răng cưa",
+              "transcription": "たすう(ふくすう)のあながひらいている"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "lỗ răng cưa"
+        },
+        {
+          "examples": [
+            {
+              "content": "恥ずかしくて穴があったら入りたい気持ちだった。",
+              "mean": "Tôi xấu hổ đến mức muốn chui xuống một cái lỗ nào đấy.",
+              "transcription": "はずかしくてあながあったらはいりたいきもちだった。"
+            },
+            {
+              "content": "彼は穴が空くほどじっと私の顔を見つめた。",
+              "mean": "Anh ta nhìn như muốn ăn tươi nuốt sống tôi vậy",
+              "transcription": "かれはあながすくほどじっとわたしのかおをみつめた。"
+            },
+            {
+              "content": "大工はドリルで穴を開けた。",
+              "mean": "Người thợ mộc khoan cái lỗ",
+              "transcription": "だいくはドリルであなをあけた。"
+            },
+            {
+              "content": "穴をふさぐ",
+              "mean": "lấp lỗ",
+              "transcription": "あなをふさぐ"
+            },
+            {
+              "content": "ウサギの穴",
+              "mean": "cái hang thỏ",
+              "transcription": "ウサギのあな"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "lỗ; lỗ nẻ; cái hang; cái lỗ"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "穴があったら入りたい:muốn chui xuống lỗ."
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "穴が空く:ăn tươi nuốt sống"
+        },
+        {
+          "examples": [
+            {
+              "content": "新車を買えば予算に大きな穴が空く。",
+              "mean": "Nếu mua xe mới thì tôi sẽ bị thâm hụt một khoản lớn.",
+              "transcription": "しんしゃをかえばよさんにおおきなあながすく。"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "tổn hại; thâm hụt; tổn thất"
+        }
+      ],
+      "mobileId": 173989,
+      "phonetic": "あな",
+      "related_words": {
+        "word": [
+          "落とし穴",
+          "穴子",
+          "毛穴",
+          "穴埋め",
+          "けつの穴",
+          "洞穴",
+          "鍵穴",
+          "風穴",
+          "墓穴",
+          "虎穴"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "穴",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "洞",
+                "穴凹"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "空洞",
+                "洞",
+                "空",
+                "穴凹",
+                "虚"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ホール"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "くぼみ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "兎馬",
+                "驢馬",
+                "ロバ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "兎馬",
+                "驢馬",
+                "痴人"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "傷",
+                "汚点",
+                "襤褸",
+                "短所",
+                "難",
+                "不備",
+                "粗",
+                "悪目",
+                "瑕疵",
+                "欠点",
+                "欠陥",
+                "難点",
+                "デメリット",
+                "瑕"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "洞",
+                "空",
+                "穴凹",
+                "虚"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "穴"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4200eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiểu lò cổ xưa đào trong vách núi"
+        }
+      ],
+      "mobileId": 11907,
+      "phonetic": "あなかま",
+      "word": "穴窯"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd83d32f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cùng lỗ; một tốp"
+        }
+      ],
+      "mobileId": 13974,
+      "phonetic": "いちあな",
+      "related_words": {
+        "word": [
+          "穴",
+          "一"
+        ]
+      },
+      "word": "一穴"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dfca0a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pothole (circular hole bored deep in a riverbed by stones rotating in an eddy)"
+        }
+      ],
+      "mobileId": 223289,
+      "phonetic": "おうけつ かめあな",
+      "word": "甌穴"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd83cf47",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cùng lỗ; một tốp"
+        }
+      ],
+      "mobileId": 13973,
+      "phonetic": "ひとつあな",
+      "related_words": {
+        "word": [
+          "穴",
+          "一"
+        ]
+      },
+      "word": "一つ穴"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0d31f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "round hole"
+        }
+      ],
+      "mobileId": 223828,
+      "phonetic": "まるあな",
+      "related_words": {
+        "word": [
+          "丸",
+          "穴"
+        ]
+      },
+      "word": "丸穴"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2174e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pinhole"
+        }
+      ],
+      "mobileId": 224479,
+      "phonetic": "はりあな",
+      "word": "針穴"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04b5b34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "hole, aperture, opening, orifice"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "fault, flaw"
+        }
+      ],
+      "mobileId": 209270,
+      "phonetic": "あなだらけ",
+      "word": "穴だらけ"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6807bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dẫn (lái) lỗ; xù lên lỗ"
+        }
+      ],
+      "mobileId": 149038,
+      "phonetic": "しもあな",
+      "related_words": {
+        "word": [
+          "下",
+          "穴"
+        ]
+      },
+      "word": "下穴"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7767bf80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "men who have slept with the same woman, hole brothers"
+        }
+      ],
+      "mobileId": 267808,
+      "phonetic": "あなきょうだい",
+      "word": "穴兄弟"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

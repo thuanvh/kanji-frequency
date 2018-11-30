@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107afb25b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "欠勤の届け",
+              "mean": "đơn xin phép nghỉ việc .",
+              "transcription": "けっきんのとどけ"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "giấy; đơn"
+        }
+      ],
+      "mobileId": 54850,
+      "phonetic": "とどけ",
+      "related_words": {
+        "word": [
+          "届く",
+          "届ける",
+          "届出",
+          "届け",
+          "届け先",
+          "婚姻届",
+          "届け出る",
+          "送り届ける",
+          "行き届く"
+        ]
+      },
+      "word": "届"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689644b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "báo cáo (của) sự mất mát (của) (mà một đã mất) một mục (bài báo)"
+        }
+      ],
+      "mobileId": 4770,
+      "phonetic": "ふんしつとどけ",
+      "word": "紛失届"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c050fb71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "report of damage, damage report"
+        }
+      ],
+      "mobileId": 209452,
+      "phonetic": "ひがいとどけ",
+      "related_words": {
+        "word": [
+          "被害",
+          "届",
+          "害"
+        ]
+      },
+      "word": "被害届"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e8a572f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thông báo (của) chuyển động bên trong"
+        }
+      ],
+      "mobileId": 115436,
+      "phonetic": "てんにゅうとどけ",
+      "related_words": {
+        "word": [
+          "届",
+          "転入"
+        ]
+      },
+      "word": "転入届"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107b03c31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "báo cáo ."
+        }
+      ],
+      "mobileId": 54860,
+      "phonetic": "とどけしょ",
+      "word": "届書"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c03fd411",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "report of late arrival, tardy slip"
+        }
+      ],
+      "mobileId": 208886,
+      "phonetic": "ちこくとどけ",
+      "word": "遅刻届"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada292a4f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "báo cáo (sổ đăng ký) (của) một sự sinh, giấy khai sinh"
+        }
+      ],
+      "mobileId": 77628,
+      "phonetic": "しゅっ しょうとどけ",
+      "word": "出生届"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f81c827",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giấy xin nghỉ phép ."
+        }
+      ],
+      "mobileId": 187025,
+      "phonetic": "けっせきとどけ",
+      "word": "欠席届"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada280271a0ed6",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giấy đăng ký kết hôn ."
+        }
+      ],
+      "mobileId": 29539,
+      "phonetic": "けっこんとどけ",
+      "word": "結婚届"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a074dc8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "official divorce registration papers"
+        }
+      ],
+      "mobileId": 223630,
+      "phonetic": "りこんとどけ",
+      "related_words": {
+        "word": [
+          "離婚",
+          "届"
+        ]
+      },
+      "word": "離婚届"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

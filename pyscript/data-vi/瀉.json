@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8722cf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "rót; gạn; chắt; đổ nghiêng (chất lỏng)"
+        }
+      ],
+      "mobileId": 37165,
+      "phonetic": "",
+      "word": "傾瀉"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94c2de4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cathartic, purgative, laxative"
+        }
+      ],
+      "mobileId": 258729,
+      "phonetic": "しゃやく",
+      "word": "瀉薬"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e036083",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s",
+          "mean": "to have diarrhea"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to vomit"
+        }
+      ],
+      "mobileId": 248108,
+      "phonetic": "しゃす",
+      "word": "瀉す"
+    },
+    {
+      "_id": "432518852de0a80625d585a98241265e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s",
+          "mean": "to have diarrhea"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to vomit"
+        }
+      ],
+      "mobileId": 233686,
+      "phonetic": "しゃする",
+      "word": "瀉する"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e823775",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-f, vs",
+          "mean": "catharsis, purgation, evacuation, purging the bowels, diarrhea"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "pouring out (water, etc.)"
+        }
+      ],
+      "mobileId": 252227,
+      "phonetic": "しゃげ しゃか",
+      "word": "瀉下"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99e3e06",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "laxative, cathartic, evacuant, purgative"
+        }
+      ],
+      "mobileId": 277785,
+      "phonetic": "しゃげやく しゃかやく",
+      "word": "瀉下薬"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fce76f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "supplementation, causing bowel movements, heating, and cooling (four main treatments of traditional Chinese medicine)"
+        }
+      ],
+      "mobileId": 272659,
+      "phonetic": "ほしゃおんりょう",
+      "word": "補瀉温涼"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

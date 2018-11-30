@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9825a1501",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(pair of) bellows"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lungs (of the body)"
+        }
+      ],
+      "mobileId": 234484,
+      "phonetic": "ふくとう たたら",
+      "word": "鞴韜"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010c02d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chiến lược; chiến thuật ."
+        }
+      ],
+      "mobileId": 41973,
+      "phonetic": "とうりゃく",
+      "related_words": {
+        "word": [
+          "略"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "韜略",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "駆引き",
+                "戦術",
+                "軍略",
+                "駆け引き",
+                "兵法",
+                "作戦",
+                "オペレーション",
+                "軍法"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "韜略"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825a0e5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bellows (of the) imperial harbor, Shinto Buddhist doctrines"
+        }
+      ],
+      "mobileId": 234483,
+      "phonetic": "てんしんふくとう あまつたたら",
+      "word": "天津鞴韜"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

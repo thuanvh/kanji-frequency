@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7470533",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mái chìa ."
+        }
+      ],
+      "mobileId": 107850,
+      "phonetic": "のき",
+      "related_words": {
+        "word": [
+          "一軒家",
+          "軒数",
+          "軒並み",
+          "軒先"
+        ]
+      },
+      "word": "軒"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd83f315",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từng nhà, từng nhà một, từng căn từng căn"
+        }
+      ],
+      "mobileId": 13979,
+      "phonetic": "いちけんいちけん",
+      "word": "一軒一軒"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0226e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rain gutter, roof gutter, eaves gutter"
+        }
+      ],
+      "mobileId": 248073,
+      "phonetic": "のきどい",
+      "word": "軒樋"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed954f5dc7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vài cái nhà"
+        }
+      ],
+      "mobileId": 58622,
+      "phonetic": "すうけん",
+      "word": "数軒"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d18d525",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "一軒家",
+              "mean": "một căn nhà",
+              "transcription": "いっけんや"
+            },
+            {
+              "content": "刑事は一軒一軒殺人犯の聞き込みに歩いた。",
+              "mean": "Viên thanh tra đi từng nhà từng nhà một để hỏi về kẻ giết người. .",
+              "transcription": "けいじはいちけんいちけんさつじんはんのききこみにあるいた。"
+            }
+          ],
+          "kind": "n",
+          "mean": "một căn (nhà)"
+        }
+      ],
+      "mobileId": 141719,
+      "phonetic": "いっけん",
+      "related_words": {
+        "word": [
+          "一",
+          "軒"
+        ]
+      },
+      "word": "一軒"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771c2d3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eave"
+        }
+      ],
+      "mobileId": 265377,
+      "phonetic": "のきてん",
+      "word": "軒天"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca063bfe3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "barge course"
+        }
+      ],
+      "mobileId": 284159,
+      "phonetic": "そばのき",
+      "word": "傍軒"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef2fb52",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiều cao từ nền nhà đến mái hiên"
+        }
+      ],
+      "mobileId": 118777,
+      "phonetic": "のきたけ",
+      "word": "軒丈"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca015b97b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "exp, v5r",
+          "mean": "đứng cạnh nhau, đứng xếp hàng"
+        }
+      ],
+      "mobileId": 281651,
+      "phonetic": "のきをならべる",
+      "word": "軒を並べる"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd308c42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một có ba neighbors tiếp theo"
+        }
+      ],
+      "mobileId": 70347,
+      "phonetic": "むこうさんけん",
+      "word": "向こう三軒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f57f580",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "優良株",
+              "mean": "cổ phiếu ưu đãi",
+              "transcription": "ゆうりょうかぶ"
+            },
+            {
+              "content": "上場（非上場）株",
+              "mean": "cổ phiếu đăng ký (không đăng ký) trên thị trường chứng khoán",
+              "transcription": "じょうじょう（ひじょうじょう）かぶ"
+            },
+            {
+              "content": "株券",
+              "mean": "chứng nhận cổ phiếu",
+              "transcription": "かぶけん"
+            },
+            {
+              "content": "普通株",
+              "mean": "cổ phiếu thường",
+              "transcription": "ふつうかぶ"
+            },
+            {
+              "content": "（人の）株が上がる",
+              "mean": "giá cổ phiếu của ai đó đang tăng",
+              "transcription": "（ひとの）かぶがあがる"
+            },
+            {
+              "content": "株を発行する",
+              "mean": "phát hành cổ phiếu",
+              "transcription": "かぶをはっこうする"
+            },
+            {
+              "content": "株を所有する",
+              "mean": "sở hữu cổ phiếu",
+              "transcription": "かぶをしょゆうする"
+            },
+            {
+              "content": "株を買い占める",
+              "mean": "thâu tóm (đầu cơ, mua tích trữ) cổ phiếu",
+              "transcription": "かぶをかいしめる"
+            },
+            {
+              "content": "株に投資する",
+              "mean": "đầu tư vào cổ phiếu",
+              "transcription": "かぶにとうしする"
+            },
+            {
+              "content": "株に手を出す",
+              "mean": "nhúng tay vào thị trường cổ phiếu",
+              "transcription": "かぶにてをだす"
+            },
+            {
+              "content": "株で儲ける（損する）",
+              "mean": "kiếm lời từ cổ phiếu (lỗ vì cổ phiếu)",
+              "transcription": "かぶでもうける（そんする）"
+            },
+            {
+              "content": "〜が下がる（暴落する）",
+              "mean": "giá cổ phiếu hạ (giảm)",
+              "transcription": "〜がさがる（ぼうらくする）"
+            },
+            {
+              "content": "株が上がる（急騰する）",
+              "mean": "giá cổ phiếu tăng",
+              "transcription": "かぶがあがる（きゅうとうする）"
+            },
+            {
+              "content": "いんちき会社株",
+              "mean": "cổ phiếu công ty ma",
+              "transcription": "いんちきかいしゃかぶ"
+            },
+            {
+              "content": "株（式）取引で発生した損失",
+              "mean": "lỗ (thiệt hại, tổn thất) từ hoạt động giao dịch cổ phiếu",
+              "transcription": "かぶ（しき）とりひきではっせいしたそんしつ"
+            },
+            {
+              "content": "株（価）の急激な上昇",
+              "mean": "giá cổ phiếu tăng đột biến",
+              "transcription": "かぶ（あたい）のきゅうげきなじょうしょう"
+            }
+          ],
+          "kind": "n, ctr",
+          "mean": "cổ phiếu"
+        },
+        {
+          "examples": [
+            {
+              "content": "木の株",
+              "mean": "gốc cây còn lại sau khi bị cưa đổ",
+              "transcription": "きのかぶ"
+            }
+          ],
+          "kind": "n, ctr",
+          "mean": "gốc (cây)"
+        }
+      ],
+      "mobileId": 186448,
+      "phonetic": "かぶ",
+      "related_words": {
+        "word": [
+          "株式会社",
+          "株式",
+          "株主",
+          "株価",
+          "株券",
+          "切り株",
+          "株式公開",
+          "優先株",
+          "切株",
+          "普通株"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "株",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "株券",
+                "株式",
+                "ストック"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "株"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931c1404",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vị trí (của) ông chủ (lớn đâm chồi)"
+        }
+      ],
+      "mobileId": 18818,
+      "phonetic": "おやぶんかぶ",
+      "word": "親分株"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c49a19",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cổ phiếu có mệnh giá; cổ phiếu ghi giá danh nghĩa"
+        }
+      ],
+      "mobileId": 24146,
+      "phonetic": "がくめんかぶ",
+      "word": "額面株"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a9eb26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kabufuda, type of playing cards"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tag verifying merchant guild membership (Edo period)"
+        }
+      ],
+      "mobileId": 286381,
+      "phonetic": "かぶふだ",
+      "word": "株札"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9da010c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "merchant guild entrusted by the shogunate to manage its respective trade (Edo period)"
+        }
+      ],
+      "mobileId": 279739,
+      "phonetic": "かぶなかま",
+      "word": "株仲間"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e570292",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "controlling stock, majority shares"
+        }
+      ],
+      "mobileId": 250826,
+      "phonetic": "しはいかぶ",
+      "word": "支配株"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0411bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "company name with the \"kabushiki kaisha\" at the beginning"
+        }
+      ],
+      "mobileId": 215242,
+      "phonetic": "まえかぶ",
+      "word": "前株"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77de4008",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "publicly-traded stock, stock listed on the stock exchange"
+        }
+      ],
+      "mobileId": 271686,
+      "phonetic": "こうかいかぶ",
+      "word": "公開株"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1d160d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cổ phiếu thông thường ."
+        }
+      ],
+      "mobileId": 185441,
+      "phonetic": "ふつうかぶ",
+      "related_words": {
+        "word": [
+          "普通",
+          "株",
+          "通",
+          "普"
+        ]
+      },
+      "word": "普通株"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6886ee8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thả nổi kho"
+        }
+      ],
+      "mobileId": 4296,
+      "phonetic": "ふどうかぶ",
+      "word": "浮動株"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

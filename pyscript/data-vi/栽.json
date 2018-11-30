@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f5daa0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trồng trọt ."
+        }
+      ],
+      "mobileId": 186528,
+      "phonetic": "さい",
+      "related_words": {
+        "word": [
+          "栽培",
+          "盆栽"
+        ]
+      },
+      "word": "栽"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dccac9a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "trồng cây cỏ"
+        }
+      ],
+      "mobileId": 152254,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "栽"
+        ]
+      },
+      "word": "植栽"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b264b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quyết định tư pháp"
+        }
+      ],
+      "mobileId": 39194,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "公",
+          "栽"
+        ]
+      },
+      "word": "公栽"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

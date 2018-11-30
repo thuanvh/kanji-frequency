@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ef2774",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "số không ."
+        }
+      ],
+      "mobileId": 110759,
+      "phonetic": "れい",
+      "related_words": {
+        "word": [
+          "零点",
+          "零度",
+          "零れる",
+          "零す",
+          "零下"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "零",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ナッシング",
+                "無"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "零"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d32a74b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "nilpotent"
+        }
+      ],
+      "mobileId": 216717,
+      "phonetic": "べきれい",
+      "word": "冪零"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ae8f36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chiến sĩ zêrô bay"
+        }
+      ],
+      "mobileId": 61659,
+      "phonetic": "れいせん",
+      "related_words": {
+        "word": [
+          "戦",
+          "零"
+        ]
+      },
+      "word": "零戦"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdde21ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "không quan trọng, tầm thường, đáng khinh, vô nghĩa"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "vặt, thường, không quan trọng"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "không đáng kể, tầm thương, nhỏ mọn; đáng khinh, ti tiện"
+        }
+      ],
+      "mobileId": 75860,
+      "phonetic": "",
+      "word": "零砕"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ef7c55",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "絶対零度は熱力学において大きな意義がある",
+              "mean": "Độ không tuyệt đối có ý nghĩa rất lớn trong nhiệt động lực học",
+              "transcription": "ぜったいれいどはねつりきがくにおいておおきないぎがある"
+            },
+            {
+              "content": "絶対零度では原子および分子のすべての運動が停止する",
+              "mean": "Ở độ không tuyệt đối, hoạt động của các hạt nguyên tử và phân tử bị dừng lại .",
+              "transcription": "ぜったいれいどではげんしおよびぶんしのすべてのうんどうがていしする"
+            }
+          ],
+          "kind": "n",
+          "mean": "không độ"
+        }
+      ],
+      "mobileId": 110763,
+      "phonetic": "れいど",
+      "related_words": {
+        "word": [
+          "度",
+          "零"
+        ]
+      },
+      "word": "零度"
+    },
+    {
+      "_id": "432518852de0a80625d585a98232766e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "zero divisor, null factor, nil factor"
+        }
+      ],
+      "mobileId": 233223,
+      "phonetic": "ぜろいんし れいいんし",
+      "word": "零因子"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ef7d7f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không giờ; mười hai giờ đêm ."
+        }
+      ],
+      "mobileId": 110764,
+      "phonetic": "れいじ",
+      "related_words": {
+        "word": [
+          "時",
+          "零"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "零時",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "半夜",
+                "正子",
+                "半宵",
+                "夜中",
+                "夜夜中",
+                "夜々中",
+                "真夜中",
+                "夜半"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "零時"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ef866f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "điểm không ."
+        }
+      ],
+      "mobileId": 110765,
+      "opposite_word": [
+        "満点"
+      ],
+      "phonetic": "れいてん",
+      "related_words": {
+        "word": [
+          "点",
+          "零"
+        ]
+      },
+      "word": "零点"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94dfcd7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "non-zero"
+        }
+      ],
+      "mobileId": 258784,
+      "phonetic": "ひれい",
+      "word": "非零"
+    },
+    {
+      "_id": "432518852de0a80625d585a98230e9d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "nilpotent"
+        }
+      ],
+      "mobileId": 233175,
+      "phonetic": "きんれい",
+      "word": "巾零"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

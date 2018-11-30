@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dc52d24",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "大気候",
+              "mean": "Khí hậu ở một khu vực lớn",
+              "transcription": "だいきこう"
+            },
+            {
+              "content": "新緑の候",
+              "mean": "Mùa tràn ngập màu xanh tươi của cây cỏ",
+              "transcription": "しんりょくのこう"
+            },
+            {
+              "content": "春暖の候",
+              "mean": "Mùa xuân ấm áp",
+              "transcription": "しゅんだんのこう"
+            },
+            {
+              "content": "厳寒の候に",
+              "mean": "Ở giữa mùa đông",
+              "transcription": "げんかんのこうに"
+            },
+            {
+              "content": "酷暑の候",
+              "mean": "Mùa nóng như thiêu đốt",
+              "transcription": "こくしょのこう"
+            }
+          ],
+          "kind": "n",
+          "mean": "thời tiết; khí hậu; mùa"
+        }
+      ],
+      "mobileId": 144836,
+      "phonetic": "こう",
+      "related_words": {
+        "word": [
+          "候補",
+          "天候",
+          "候補者",
+          "気候",
+          "症候群",
+          "兆候",
+          "立候補",
+          "居候",
+          "悪天候",
+          "斥候"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "候",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "時節",
+                "季節",
+                "シーズン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "時分",
+                "陽気",
+                "時節",
+                "季節",
+                "シーズン",
+                "時期",
+                "旬"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "候"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef99a8b58",
+      "means": [
+        {
+          "examples": null,
+          "kind": "aux-v",
+          "mean": "please ..., please do ..."
+        }
+      ],
+      "mobileId": 277661,
+      "phonetic": "そえ",
+      "word": "候へ"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a887849",
+      "means": [
+        {
+          "examples": null,
+          "kind": "aux",
+          "mean": "to be"
+        }
+      ],
+      "mobileId": 227759,
+      "phonetic": "でそう",
+      "word": "で候"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ce4483",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kiểu thư từ"
+        }
+      ],
+      "mobileId": 62682,
+      "phonetic": "こうちょう",
+      "word": "候調"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ce5380",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "tôi ngạc nhiên if..."
+        }
+      ],
+      "mobileId": 62685,
+      "phonetic": "",
+      "word": "候哉"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde4101c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nhiều daimyo"
+        }
+      ],
+      "mobileId": 76040,
+      "phonetic": "れつこう",
+      "word": "列候"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a938d2ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sign or symptom of a disease (usu. more subtle than a symptom)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "augury, foretoken, harbinger"
+        }
+      ],
+      "mobileId": 258100,
+      "phonetic": "びこう",
+      "word": "微候"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c01409ff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v4h, vi",
+          "mean": "to serve (by a superior's side)"
+        },
+        {
+          "examples": null,
+          "kind": "v4h, vi",
+          "mean": "to be (auxiliary used in place of \"aru\" after \"de\" or \"ni\" when forming a copula), to do (auxiliary used in place of \"-masu\" after a -masu stem)"
+        }
+      ],
+      "mobileId": 189787,
+      "phonetic": "そうろう そうらう",
+      "word": "候ふ"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934779fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "(có danh dự) để viết"
+        }
+      ],
+      "mobileId": 20198,
+      "phonetic": "かきこう",
+      "word": "書き候"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ce56b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "tôi nghe thấy that..."
+        }
+      ],
+      "mobileId": 62686,
+      "phonetic": "こうゆかり",
+      "word": "候由"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

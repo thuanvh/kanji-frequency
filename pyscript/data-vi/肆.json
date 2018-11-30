@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9847f80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liquor shop, bar, barroom"
+        }
+      ],
+      "mobileId": 276961,
+      "phonetic": "しゅし",
+      "word": "酒肆"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801380cab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự kiêu hãnh; kiêu hãnh; niềm kiêu hãnh ."
+        }
+      ],
+      "mobileId": 42694,
+      "phonetic": "きょうし",
+      "word": "驕肆"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d5ea29c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kho; tiếp thị nhà kho"
+        }
+      ],
+      "mobileId": 148727,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "市"
+        ]
+      },
+      "word": "市肆"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

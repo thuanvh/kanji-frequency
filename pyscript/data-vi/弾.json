@@ -1,0 +1,232 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f740e3300",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "弾が彼の腕にあたって止まっている.",
+              "mean": "Một viên đạn đã găm trúng tay anh ấy.",
+              "transcription": "たまがかれのうでにあたってとまっている."
+            },
+            {
+              "content": "ヘリコプターから発射されるロケット弾",
+              "mean": "Viên đạn Rôckét được bắn ra từ máy bay trực thăng. .",
+              "transcription": "ヘリコプターからはっしゃされるロケットだん"
+            }
+          ],
+          "kind": "ctr",
+          "mean": "viên đạn"
+        }
+      ],
+      "mobileId": 97680,
+      "phonetic": "たま",
+      "related_words": {
+        "word": [
+          "爆弾",
+          "弾丸",
+          "弾く",
+          "原子爆弾",
+          "弾幕",
+          "弾ける",
+          "弾性",
+          "時限爆弾",
+          "散弾銃",
+          "銃弾"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "弾",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "弾丸",
+                "銃弾"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "弾丸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "弾丸",
+                "砲弾",
+                "散弾",
+                "銃弾"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "弾丸",
+                "弾薬"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "弾丸",
+                "砲弾",
+                "散弾"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "弾"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688954bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đạn không nổ; bom không nổ"
+        }
+      ],
+      "mobileId": 4376,
+      "phonetic": "ふはつだん",
+      "related_words": {
+        "word": [
+          "発",
+          "弾",
+          "不発"
+        ]
+      },
+      "word": "不発弾"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935d12e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những vật do núi lửa phóng ra"
+        }
+      ],
+      "mobileId": 20878,
+      "phonetic": "かざんだん",
+      "word": "火山弾"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fdc0cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ma thuật bullet(s)"
+        }
+      ],
+      "mobileId": 8079,
+      "phonetic": "まだん",
+      "related_words": {
+        "word": [
+          "魔",
+          "弾"
+        ]
+      },
+      "word": "魔弾"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ae82a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đạn pháo sắt ."
+        }
+      ],
+      "mobileId": 109664,
+      "phonetic": "てっぽうだま",
+      "word": "鉄砲弾"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e34d9c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nứt rạn"
+        }
+      ],
+      "mobileId": 112714,
+      "phonetic": "たまき",
+      "word": "弾機"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e382af6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đạn trái phá; vỏ hoặc viên đạn vỡ ra từng mảnh"
+        }
+      ],
+      "mobileId": 112821,
+      "phonetic": "たまへん",
+      "word": "弾片"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dd3abe4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bom hơi cay"
+        }
+      ],
+      "mobileId": 145056,
+      "phonetic": "さいるいだん",
+      "related_words": {
+        "word": [
+          "涙",
+          "弾",
+          "催"
+        ]
+      },
+      "word": "催涙弾"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a19a13f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pháo sáng ."
+        }
+      ],
+      "mobileId": 170788,
+      "phonetic": "しょうめいだん",
+      "word": "照明弾"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdece7a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hút thuốc bom"
+        }
+      ],
+      "mobileId": 17274,
+      "phonetic": "けむりだん",
+      "related_words": {
+        "word": [
+          "弾",
+          "煙"
+        ]
+      },
+      "word": "煙弾"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

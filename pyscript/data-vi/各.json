@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adab37003",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "我が校には各教室にテレビがある。",
+              "mean": "Ở trường tôi, phòng học nào cũng có tivi.",
+              "transcription": "わがこうにはかくきょうしつにテレビがある。"
+            }
+          ],
+          "kind": "pref",
+          "mean": "mọi; mỗi"
+        }
+      ],
+      "mobileId": 79802,
+      "phonetic": "かく",
+      "related_words": {
+        "word": [
+          "各々",
+          "各位",
+          "各種",
+          "各地",
+          "各自",
+          "各国",
+          "各社",
+          "各部",
+          "各論",
+          "各個"
+        ]
+      },
+      "word": "各"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193129568",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mỗi; mỗi; cũng; tương ứng; riêng biệt"
+        }
+      ],
+      "mobileId": 18514,
+      "phonetic": "かくかく",
+      "word": "各各"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934e06ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tất cả thông tin"
+        }
+      ],
+      "mobileId": 20402,
+      "phonetic": "かくじょうほう",
+      "related_words": {
+        "word": [
+          "情報",
+          "各",
+          "情",
+          "報"
+        ]
+      },
+      "word": "各情報"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934f3f51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mỗi đoàn thể, từng đoàn thể"
+        }
+      ],
+      "mobileId": 20439,
+      "phonetic": "かくだんたい",
+      "word": "各団体"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934f9a97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "huấn luyện dừng gần như mỗi nhà ga"
+        }
+      ],
+      "mobileId": 20452,
+      "phonetic": "かくてい",
+      "word": "各停"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934bc53a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "các tỉnh"
+        }
+      ],
+      "mobileId": 20335,
+      "phonetic": "かくけん",
+      "related_words": {
+        "word": [
+          "県",
+          "各"
+        ]
+      },
+      "word": "各県"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19312c70d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tất cả các bạn, tất cả quý vị"
+        }
+      ],
+      "mobileId": 18519,
+      "phonetic": "かくかた",
+      "word": "各方"
+    },
+    {
+      "_id": "edf7f33f53832e93b36c90d5fd0e23b3",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Mỗi loại giấy tờ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "各書類"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19312a10a",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Mỗi, ri&ecirc;ng biệt"
+        }
+      ],
+      "mobileId": 18516,
+      "phonetic": "かく々",
+      "related_words": {
+        "word": [
+          "各"
+        ]
+      },
+      "word": "各々"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934ab4c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từng bộ"
+        }
+      ],
+      "mobileId": 20300,
+      "phonetic": "かくいちぶ",
+      "word": "各一部"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,217 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280277e69cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "màu"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mầu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu sắc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sắc ."
+        }
+      ],
+      "mobileId": 31330,
+      "phonetic": "いろ",
+      "related_words": {
+        "word": [
+          "黄色",
+          "色々",
+          "茶色",
+          "灰色",
+          "景色",
+          "紫色",
+          "水色",
+          "虹色",
+          "緑色",
+          "音色"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "色",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "色彩",
+                "彩り",
+                "色合い",
+                "色調",
+                "カラー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "風情",
+                "色艶",
+                "色彩",
+                "色合い",
+                "趣",
+                "外観",
+                "呈色",
+                "カラー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "恋人",
+                "愛人",
+                "ラバー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "色艶",
+                "色彩",
+                "カラー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "色"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda40ad1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rửa - màu ngoài (trong nhiếp ảnh)"
+        }
+      ],
+      "mobileId": 14995,
+      "phonetic": "いろとび",
+      "word": "色飛び"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931d0a04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu không nhuộm được dệt ; sự pha màu khi dệt sợi ngang sợi dọc khác màu nhau; đồ dệt bằng sợi nhuộm màu"
+        }
+      ],
+      "mobileId": 18849,
+      "phonetic": "おりしょく",
+      "word": "織り色"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aee6658",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "colored bead (coloured), colored ball"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pomegranate"
+        }
+      ],
+      "mobileId": 231061,
+      "phonetic": "いろだま",
+      "word": "色玉"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a99ac54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bright yellow (the color of amur corktree bark)"
+        }
+      ],
+      "mobileId": 228319,
+      "phonetic": "きはだいろ",
+      "word": "黄蘗色"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9570b615",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu sắc chính trị"
+        }
+      ],
+      "mobileId": 59683,
+      "phonetic": "せいじしょく",
+      "word": "政治色"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9585c7eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhẹ trang trí (màu)"
+        }
+      ],
+      "mobileId": 60347,
+      "phonetic": "せきちくいろ",
+      "word": "石竹色"
+    },
+    {
+      "_id": "432518852de0a80625d585a98204d856",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nuptial coloration (colouration)"
+        }
+      ],
+      "mobileId": 231796,
+      "phonetic": "こんいんしょく",
+      "word": "婚姻色"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9505ad07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khuynh hướng của một thời đại, đặc trưng của một thời đại"
+        }
+      ],
+      "mobileId": 56294,
+      "phonetic": "じだいしょく",
+      "word": "時代色"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8158f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cảnh buổi tối (phong cảnh)"
+        }
+      ],
+      "mobileId": 72891,
+      "phonetic": "ゆうけいしょく",
+      "word": "夕景色"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

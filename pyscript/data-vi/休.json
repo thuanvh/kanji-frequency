@@ -1,0 +1,294 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f3d241",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nghỉ ngơi; cởi bỏ một ngày ra; hiện thân kết thúc(thì) vắng mặt; thôi việc; giấc ngủ"
+        }
+      ],
+      "mobileId": 25659,
+      "phonetic": "きゅう",
+      "related_words": {
+        "word": [
+          "休日",
+          "休み",
+          "休憩",
+          "休暇",
+          "夏休み",
+          "有給休暇",
+          "定休日",
+          "休む",
+          "休憩室",
+          "休憩時間"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "休",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "息抜き",
+                "中休み",
+                "休息",
+                "休憩",
+                "憩い",
+                "養生",
+                "休止",
+                "休養",
+                "休み"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ポーズ",
+                "休会",
+                "中休み",
+                "休息",
+                "休憩",
+                "一休み",
+                "休暇",
+                "中入り",
+                "少憩",
+                "タイム",
+                "休み"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "息抜き",
+                "休息",
+                "骨休め",
+                "休憩",
+                "憩い",
+                "一休み",
+                "寛ぎ",
+                "くつろぎ",
+                "休養",
+                "休み"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ポーズ",
+                "中断",
+                "仲断",
+                "切れ間",
+                "中休み",
+                "停会",
+                "中絶",
+                "間",
+                "途絶",
+                "一休み",
+                "幕あい",
+                "中入り",
+                "一息",
+                "中止",
+                "幕間",
+                "休止",
+                "停止",
+                "タイム",
+                "休み",
+                "晴れ間"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "休"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d9424e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nghỉ chân; nghỉ chân ."
+        }
+      ],
+      "mobileId": 143989,
+      "phonetic": "きゅうそく",
+      "related_words": {
+        "word": [
+          "足",
+          "休"
+        ]
+      },
+      "word": "休足"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca088eb1d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "taking a break from writing"
+        }
+      ],
+      "mobileId": 285314,
+      "phonetic": "きゅうひつ",
+      "word": "休筆"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771a55c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "electricity cut-off"
+        }
+      ],
+      "mobileId": 265318,
+      "phonetic": "でんきゅう",
+      "word": "電休"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f964fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "điềm tốt, điềm lành, dấu hiệu khả quan (tốt)"
+        }
+      ],
+      "mobileId": 25829,
+      "phonetic": "きゅうさち",
+      "related_words": {
+        "word": [
+          "休",
+          "祥"
+        ]
+      },
+      "word": "休祥"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fcd033",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lười biếng; sự không chú ý tới"
+        }
+      ],
+      "mobileId": 25931,
+      "phonetic": "きゅうたい",
+      "related_words": {
+        "word": [
+          "休"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "休怠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "昏睡",
+                "不活動",
+                "無気力"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "怠慢",
+                "惰眠",
+                "不精",
+                "横着",
+                "骨惜しみ",
+                "怠惰",
+                "無精",
+                "惰気"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "怠慢",
+                "不精",
+                "横着",
+                "怠惰",
+                "無精"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "休怠"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8004f36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dấu lặng (trong âm nhạc)"
+        }
+      ],
+      "mobileId": 33485,
+      "phonetic": "きゅうふ",
+      "related_words": {
+        "word": [
+          "休"
+        ]
+      },
+      "word": "休符"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ef000e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kỳ nghỉ phép có hưởng lương hàng năm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "annual salary"
+        }
+      ],
+      "mobileId": 118683,
+      "phonetic": "としきゅう",
+      "word": "年休"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf39608",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Làm việc vào ngày nghỉ"
+        }
+      ],
+      "mobileId": 247610,
+      "phonetic": "きゅうしゅつ",
+      "word": "休出"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77992e2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drug withdrawal, cessation of medication"
+        }
+      ],
+      "mobileId": 269418,
+      "phonetic": "きゅうやく",
+      "word": "休薬"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

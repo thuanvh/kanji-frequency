@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280270f2bbd",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "私たちが外に出るまで、私は紫と白のパジャマを着ていたことに気が付かなかった。／私が紫と白のパジャマを着ていることに気が付いたのは、私たちが外に出てからだった",
+              "mean": "Cho đến tận khi chúng ta ra ngoài, tôi mới chợt nhận ra mình đang mặc bộ pi ja ma sọc tím và trắng",
+              "transcription": "わたしたちがそとにでるまで、わたしはむらさきとしろのパジャマをきていたことにきがつかなかった。 ／わたしがむらさきとしろのパジャマをきていることにきがついたのは、わたしたちがそとにでてからだった"
+            },
+            {
+              "content": "プラムはたいてい、緑か、紫か、赤のいずれかの色をしている",
+              "mean": "Quả mận thường có màu xanh, tím hoặc đỏ",
+              "transcription": "プラムはたいてい、みどりか、むらさきか、あかのいずれかのいろをしている"
+            }
+          ],
+          "kind": "n",
+          "mean": "màu tím"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tía"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tím ."
+        }
+      ],
+      "mobileId": 29352,
+      "phonetic": "むらさき",
+      "related_words": {
+        "word": [
+          "紫色",
+          "紫外線",
+          "紫蘇",
+          "赤紫",
+          "紫の",
+          "紫水晶",
+          "紫外",
+          "紫紺",
+          "紫煙"
+        ]
+      },
+      "word": "紫"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822568e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "blue mussel (Mytilus galloprovincialis), Mediterranean mussel"
+        }
+      ],
+      "mobileId": 232806,
+      "phonetic": "むらさきいがい ムラサキイガイ",
+      "word": "紫貽貝"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa72f8f2b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "赤紫色の顔",
+              "mean": "Gương mặt đỏ tía tai",
+              "transcription": "あかむらさきいろのかお"
+            },
+            {
+              "content": "暗めの赤紫色",
+              "mean": "Màu đỏ tía nhạt .",
+              "transcription": "くらめのあかむらさきいろ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Màu đỏ sắc tía"
+        }
+      ],
+      "mobileId": 107476,
+      "phonetic": "あかむらさき",
+      "related_words": {
+        "word": [
+          "紫",
+          "赤"
+        ]
+      },
+      "word": "赤紫"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd3cc899",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ametit, thạch anh tím"
+        }
+      ],
+      "mobileId": 70729,
+      "phonetic": "むらさきすいしょう",
+      "related_words": {
+        "word": [
+          "紫",
+          "水",
+          "水晶"
+        ]
+      },
+      "word": "紫水晶"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77fb31c4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wood blewit (Lepista nuda)"
+        }
+      ],
+      "mobileId": 272610,
+      "phonetic": "むらさきしめじ ムラサキシメジ",
+      "word": "紫湿地"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c774937a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bluish purple"
+        }
+      ],
+      "mobileId": 266817,
+      "phonetic": "あおむらさき",
+      "word": "青紫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2eb55d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "powdered oakblue (butterfly) (Narathura bazalus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "purple martin (bird) (Progne subis)"
+        }
+      ],
+      "mobileId": 224917,
+      "phonetic": "むらさきつばめ ムラサキツバメ",
+      "word": "紫燕"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04f866c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Malabar spinach (Basella alba), Indian spinach"
+        }
+      ],
+      "mobileId": 283505,
+      "phonetic": "つるむらさき ツルムラサキ",
+      "word": "蔓紫"
+    },
+    {
+      "_id": "432518852de0a80625d585a982237b4b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Soletellina diphos (species of clam)"
+        }
+      ],
+      "mobileId": 232750,
+      "phonetic": "むらさきがい ムラサキガイ",
+      "word": "紫貝"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d47aac1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "deep purple"
+        }
+      ],
+      "mobileId": 217380,
+      "phonetic": "ふかむらさき",
+      "word": "深紫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

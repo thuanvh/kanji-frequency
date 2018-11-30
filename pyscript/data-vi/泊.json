@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900eff8ab1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "ctr",
+          "mean": "ngược những đêm (của) một sự ở lại"
+        }
+      ],
+      "mobileId": 119172,
+      "phonetic": "とまり",
+      "word": "泊"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05efc5e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "no-show (at hotel)"
+        }
+      ],
+      "mobileId": 284011,
+      "phonetic": "ふはく",
+      "word": "不泊"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef908b782",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "coming to stay over, coming to spend the night"
+        }
+      ],
+      "mobileId": 273042,
+      "phonetic": "らいはく",
+      "word": "来泊"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd743eb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự neo buộc thuyền vào ban đêm; sự ngủ đêm trên thuyền"
+        }
+      ],
+      "mobileId": 72455,
+      "phonetic": "よるはく",
+      "related_words": {
+        "word": [
+          "夜"
+        ]
+      },
+      "word": "夜泊"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b8bdaf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "Sự thả neo; sự bỏ neo ."
+        }
+      ],
+      "mobileId": 109846,
+      "phonetic": "びょうはく",
+      "word": "錨泊"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d46f100",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "kéo dài thời gian lưu trú (một nơi nào đó)"
+        }
+      ],
+      "mobileId": 217356,
+      "phonetic": "えんぱく",
+      "word": "延泊"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d134251",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "私が泊まったホテルの部屋は一泊２食付きで８０００円だった。",
+              "mean": "Khách sạn chỗ tôi ở lại tính 8000 cho một đêm cùng 2 bữa ăn.",
+              "transcription": "わたしがとまったホテルのへやはいちはくにしょくつきではちぜろぜろぜろえんだった。"
+            },
+            {
+              "content": "彼らは神戸へ着きそこで一泊した。",
+              "mean": "Họ đến Kobe và nghỉ lại đó một đêm.",
+              "transcription": "かれらはこうべへつきそこでいっぱくした。"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n, vs, adj-no",
+          "mean": "một đêm"
+        }
+      ],
+      "mobileId": 141663,
+      "phonetic": "いっぱく",
+      "related_words": {
+        "word": [
+          "一"
+        ]
+      },
+      "word": "一泊"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93dd612",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "spending the night in a car, train, bus, etc."
+        }
+      ],
+      "mobileId": 258270,
+      "phonetic": "しゃちゅうはく",
+      "word": "車中泊"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca08b8c32",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "Ở lại từ đêm hôm trước"
+        }
+      ],
+      "mobileId": 285403,
+      "phonetic": "ぜんぱく",
+      "word": "前泊"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b2228081b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "3 ngày 2 đêm(trọ lại qua đêm)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "にはくみっか",
+      "word": "二泊三日"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

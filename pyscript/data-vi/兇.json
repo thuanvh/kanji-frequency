@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e80226b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính chất đồi bại, tính chất độc ác, tính chất nguy hại, tính tinh quái, tính độc hại"
+        }
+      ],
+      "mobileId": 33553,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "兇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "醜悪",
+                "曲事",
+                "悪行",
+                "曲悪",
+                "卑陋",
+                "悪事",
+                "邪悪",
+                "横様"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "兇"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e804eb3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính chất cực kỳ tàn ác; tính chất ghê tởm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính dữ tợn, tính hung ác, sự dã man, sự tàn bạo"
+        }
+      ],
+      "mobileId": 33639,
+      "phonetic": "",
+      "word": "兇悍"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80647c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vũ khí nguy hiểm"
+        }
+      ],
+      "mobileId": 33692,
+      "phonetic": "",
+      "word": "兇具"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e813fcb4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tốp xấu"
+        }
+      ],
+      "mobileId": 34135,
+      "phonetic": "",
+      "word": "兇類"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

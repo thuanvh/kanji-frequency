@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a09f4e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tro"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tro tàn ."
+        }
+      ],
+      "mobileId": 170449,
+      "phonetic": "はい",
+      "related_words": {
+        "word": [
+          "灰色",
+          "灰皿",
+          "石灰",
+          "灰分",
+          "灰色の",
+          "火山灰",
+          "灰燼",
+          "灰汁抜けのした"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "灰",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "灰殻",
+                "灰分"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "灰"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a09eb81",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "tàn"
+        }
+      ],
+      "mobileId": 170448,
+      "phonetic": "はい",
+      "related_words": {
+        "word": [
+          "灰色",
+          "灰皿",
+          "石灰",
+          "灰分",
+          "灰色の",
+          "火山灰",
+          "灰燼",
+          "灰汁抜けのした"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "灰",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "灰殻",
+                "灰分"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "灰"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900efa683c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mức tro (sự sử dụng trong một lò than hồng (người làm đồ đồng))"
+        }
+      ],
+      "mobileId": 119009,
+      "phonetic": "はいおし",
+      "related_words": {
+        "word": [
+          "灰",
+          "押し"
+        ]
+      },
+      "word": "灰押し"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a38c2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "calx, metal residue"
+        }
+      ],
+      "mobileId": 277945,
+      "phonetic": "きんぞくかい",
+      "word": "金属灰"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95a04e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anorthite"
+        }
+      ],
+      "mobileId": 259180,
+      "phonetic": "かいちょうせき",
+      "word": "灰長石"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900efd0beb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nước men tro (kiểu nền tảng lắp kính sử dụng trong vài thời gian cổ xưa làm từ tro (của) những nguyên liệu như gạo unhulled, phủ rơm, cây sồi và cây thông)"
+        }
+      ],
+      "mobileId": 119097,
+      "phonetic": "",
+      "word": "灰釉"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef901c2f8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "decalcification, demineralization"
+        }
+      ],
+      "mobileId": 272815,
+      "phonetic": "だっかい",
+      "word": "脱灰"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a0a0c51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sự tẩy rửa bằng thuốc tẩy ."
+        }
+      ],
+      "mobileId": 170451,
+      "phonetic": "あくあらい",
+      "word": "灰洗い"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7729c55a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coal ash, fly ash"
+        }
+      ],
+      "mobileId": 265812,
+      "phonetic": "せきたんばい",
+      "word": "石炭灰"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96da47f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ash box (used in tea ceremony)"
+        }
+      ],
+      "mobileId": 259805,
+      "phonetic": "はいき",
+      "word": "灰器"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

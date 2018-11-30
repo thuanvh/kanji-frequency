@@ -1,0 +1,233 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dd6bbf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "con voi"
+        },
+        {
+          "examples": [
+            {
+              "content": "コンピュータ処理によって画質を向上させた断層像",
+              "mean": "hình cắt lớp được nâng cao chất lượng nhờ vi tính xử lý",
+              "transcription": "コンピュータしょりによってがしつをこうじょうさせただんそうぞう"
+            },
+            {
+              "content": "イスラム教の出現以前に造られた像",
+              "mean": "Bức tượng được đúc từ trước khi đạo Hồi xuất hiện.",
+              "transcription": "いすらむきょうのしゅつげんいぜんにつくられたぞう"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "tượng"
+        }
+      ],
+      "mobileId": 145112,
+      "phonetic": "ぞう",
+      "related_words": {
+        "word": [
+          "画像",
+          "映像",
+          "想像",
+          "解像度",
+          "画像処理",
+          "想像する",
+          "肖像画",
+          "仏像",
+          "現像",
+          "残像"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "像",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "象",
+                "体形",
+                "形態",
+                "外見",
+                "容体",
+                "格好",
+                "姿態",
+                "形状",
+                "外形",
+                "恰好",
+                "姿",
+                "体裁",
+                "形",
+                "形容",
+                "態",
+                "形象",
+                "容姿"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "フォト",
+                "写真",
+                "画像",
+                "映像"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "像"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05dabda",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "statuette, figurine"
+        }
+      ],
+      "mobileId": 283971,
+      "phonetic": "しょうぞう",
+      "word": "小像"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0472ff8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sacred image, icon"
+        }
+      ],
+      "mobileId": 209128,
+      "phonetic": "せいぞう",
+      "word": "聖像"
+    },
+    {
+      "_id": "432518852de0a80625d585a98262d04a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crucifix"
+        }
+      ],
+      "mobileId": 234764,
+      "phonetic": "たくけいぞう たっけいぞう",
+      "word": "磔刑像"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833ba5592c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "video, moving image"
+        }
+      ],
+      "mobileId": 245119,
+      "phonetic": "どうがぞう",
+      "word": "動画像"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d0f2cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "self-image"
+        }
+      ],
+      "mobileId": 271235,
+      "phonetic": "じこぞう",
+      "word": "自己像"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e819669e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hình ảnh khổng lồ"
+        }
+      ],
+      "mobileId": 34316,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "像",
+          "巨"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "巨像",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "巨人",
+                "巨漢",
+                "怪物",
+                "大男"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "巨像"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0383f31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gargoyle"
+        }
+      ],
+      "mobileId": 282773,
+      "phonetic": "かいじゅうぞう",
+      "word": "怪獣像"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3cfeb0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "subject (of a portrait or bust), a person posing for a portrait or bust"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(historically) patron, someone who commissions a Buddhist temple or work of art"
+        }
+      ],
+      "mobileId": 225365,
+      "phonetic": "ぞうしゅ",
+      "word": "像主"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d792233",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hình ảnh của con người (cả vẻ bề ngoài, tính cách, tư tưởng) ."
+        }
+      ],
+      "mobileId": 143515,
+      "phonetic": "にんげんぞう",
+      "word": "人間像"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7deeb820",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Vào vườn ."
+        }
+      ],
+      "mobileId": 145517,
+      "phonetic": "にゅうえん",
+      "word": "入苑"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c2a88c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tên (của) một cà phê đi mua hàng"
+        }
+      ],
+      "mobileId": 39727,
+      "phonetic": "こーひーえん",
+      "word": "珈琲苑"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6cdeec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "secret garden, private garden"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "name for female genitalia"
+        }
+      ],
+      "mobileId": 226866,
+      "phonetic": "ひえん",
+      "word": "秘苑"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdf2b298",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "magadaava (nơi phật thích ca chuyển giao thuyết giáo đầu tiên (của) anh ấy); bãi hươu"
+        }
+      ],
+      "mobileId": 76505,
+      "phonetic": "かのえん",
+      "word": "鹿野苑"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a25bc64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "daisy (Erigeron annuus), daisy fleabane"
+        }
+      ],
+      "mobileId": 224632,
+      "phonetic": "ひめじょおん ヒメジョオン",
+      "word": "姫女苑"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7deec6c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thẻ vào vườn ."
+        }
+      ],
+      "mobileId": 145518,
+      "phonetic": "にゅうえんけん",
+      "related_words": {
+        "word": [
+          "券"
+        ]
+      },
+      "word": "入苑券"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

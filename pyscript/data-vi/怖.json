@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a98247a0d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "int",
+          "mean": "frightening, terrifying"
+        }
+      ],
+      "mobileId": 233900,
+      "phonetic": "こわ",
+      "word": "怖"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f61d3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bồn chồn, lo lắng"
+        }
+      ],
+      "mobileId": 41387,
+      "phonetic": "こわこわ",
+      "word": "怖怖"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193094808",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv-to",
+          "mean": "rụt rè, nhút nhát, bẽn lẽn, dễ sợ hãi"
+        },
+        {
+          "examples": null,
+          "kind": "adv-to",
+          "mean": "bồn chồn, lo lắng"
+        }
+      ],
+      "mobileId": 18204,
+      "phonetic": "こわずこわず",
+      "word": "怖ず怖ず"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8f62770",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bồn chồn, lo lắng"
+        }
+      ],
+      "mobileId": 41388,
+      "phonetic": "こわ々",
+      "word": "怖々"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19309f14f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự sợ hãi; để (thì) sợ hãi"
+        }
+      ],
+      "mobileId": 18230,
+      "phonetic": "こわる",
+      "synsets": [
+        {
+          "base_form": "怖る",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "恐れる",
+                "憂える",
+                "危ぶむ",
+                "案ずる",
+                "畏れる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "怖る"
+    },
+    {
+      "_id": "432518852de0a80625d585a98247ae80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "int",
+          "mean": "scary!"
+        }
+      ],
+      "mobileId": 233901,
+      "phonetic": "こわっ",
+      "word": "怖っ"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19315ccf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, adv",
+          "mean": "gan dạ, bạo dạn"
+        }
+      ],
+      "mobileId": 18620,
+      "phonetic": "こわめずおくせず",
+      "word": "怖めず臆せず"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

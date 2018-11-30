@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e9deaf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "special Nara-period administrative division for areas containing a detached palace (Yoshino and Izumi)"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "secretary, third highest-ranking officials in the Dazaifu"
+        }
+      ],
+      "mobileId": 263739,
+      "phonetic": "げん",
+      "word": "監"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771c9139",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one of the six administrators of a Zen temple who substitutes for the chief priest"
+        }
+      ],
+      "mobileId": 265389,
+      "phonetic": "かんす かんず かんじ",
+      "word": "監寺"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8328ecf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thiết kế - bên trong - chính; kỹ sư chính; nhà khoa học chính"
+        }
+      ],
+      "mobileId": 35113,
+      "phonetic": "",
+      "word": "技監"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d6af61",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "housemaster, resident advisor, houseparent, housefather, housemother, dorm parent"
+        }
+      ],
+      "mobileId": 279634,
+      "phonetic": "りょうかん",
+      "word": "寮監"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773c69a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "superintendent supervisor, assistant commissioner (UK, Aus. etc.)"
+        }
+      ],
+      "mobileId": 266412,
+      "phonetic": "けいしかん",
+      "word": "警視監"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d2b52e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "animation director"
+        }
+      ],
+      "mobileId": 279502,
+      "phonetic": "さっかん",
+      "word": "作監"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7dee7d3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "Bị bỏ tù; bị tống giam ."
+        }
+      ],
+      "mobileId": 145508,
+      "phonetic": "にゅうかん",
+      "word": "入監"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c6ff13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chủ nhiệm khoa, trưởng tu viện; linh mục địa phận, người cao tuổi nhất, trưởng đoàn ngoại giao, thung lũng sâu và hẹp"
+        }
+      ],
+      "mobileId": 24224,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "学監",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "学部長"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "学監"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e86310e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bác sĩ phẫu thuật quân đội"
+        }
+      ],
+      "mobileId": 36677,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "軍",
+          "医"
+        ]
+      },
+      "word": "軍医監"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98276ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "checking (if an arrow has hit its target), marking, person who checks if an arrow has hit its target"
+        }
+      ],
+      "mobileId": 276895,
+      "phonetic": "かんてき",
+      "word": "監的"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

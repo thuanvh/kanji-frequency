@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef90aebed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "water bottle (of a monk, nun, etc.), flask"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vase"
+        }
+      ],
+      "mobileId": 273114,
+      "phonetic": "ぐんじ",
+      "word": "軍持"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6821f5d3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ability (của) một thức ăn để làm đầy bạn lên trên"
+        }
+      ],
+      "mobileId": 1078,
+      "phonetic": "はらじ",
+      "word": "腹持"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd57ef81",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới thang máy; để xảy ra; để xuất hiện; để đến gần; tới sự quay lên trên"
+        }
+      ],
+      "mobileId": 71572,
+      "phonetic": "じあがる",
+      "related_words": {
+        "word": [
+          "上",
+          "上がる"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "持上がる",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "生ずる",
+                "起きる",
+                "生じる",
+                "起こる"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "飛び出す",
+                "現れる",
+                "表れる"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "沸き起こる",
+                "沸き上がる",
+                "生ずる",
+                "起きる",
+                "沸き起る",
+                "生じる",
+                "起こる",
+                "発する",
+                "湧く",
+                "生まれる"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "持上がる"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193811937",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thư ký riêng"
+        }
+      ],
+      "mobileId": 22032,
+      "phonetic": "かばんじ",
+      "word": "鞄持"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e809da49",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đảm bảo quyền lợi và những tiện ích"
+        }
+      ],
+      "mobileId": 33807,
+      "phonetic": "とおるじ",
+      "word": "享持"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9352d4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "support (e.g. of an element acting as a catalyst)"
+        }
+      ],
+      "mobileId": 274467,
+      "phonetic": "たんじ",
+      "word": "担持"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a965b57f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drawn game, impasse"
+        }
+      ],
+      "mobileId": 259567,
+      "phonetic": "じしょうぎ",
+      "word": "持将棋"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68c66c41",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chịu; giới thiệu; sự cầm nắm lên trên (bức tranh (của) hoàng đế)"
+        }
+      ],
+      "mobileId": 6327,
+      "phonetic": "たてまつじ",
+      "word": "奉持"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74afc144",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "duy trì"
+        },
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "kiên trì"
+        },
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "ủng hộ ."
+        }
+      ],
+      "mobileId": 100023,
+      "phonetic": "もちこたえる",
+      "word": "持堪える"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193837a7e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chéo qua cổ phần"
+        }
+      ],
+      "mobileId": 22108,
+      "phonetic": "かぶしきじごう",
+      "word": "株式持合"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

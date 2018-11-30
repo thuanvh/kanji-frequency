@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0f33ee1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "button"
+        }
+      ],
+      "mobileId": 206455,
+      "phonetic": "ボタン ぼたん",
+      "word": "釦"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada5c0451",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nút bọc ."
+        }
+      ],
+      "mobileId": 78497,
+      "phonetic": "つつみぼたん",
+      "related_words": {
+        "word": [
+          "包み"
+        ]
+      },
+      "word": "包み釦"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

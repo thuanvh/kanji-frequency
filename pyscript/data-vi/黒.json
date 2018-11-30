@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568014dd414",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "結局，彼は黒なのか白なのか。",
+              "mean": "Kết cục thì anh ta có tội hay không ?",
+              "transcription": "けっきょく，かれはくろなのかしろなのか。"
+            },
+            {
+              "content": "黒ビール",
+              "mean": "bia đen",
+              "transcription": "くろびーる"
+            },
+            {
+              "content": "黒パン",
+              "mean": "bánh mỳ đen .",
+              "transcription": "くろぱん"
+            }
+          ],
+          "kind": "n",
+          "mean": "màu đen; sự có tội"
+        }
+      ],
+      "mobileId": 43085,
+      "opposite_word": [
+        "白"
+      ],
+      "phonetic": "くろ",
+      "related_words": {
+        "word": [
+          "黒人",
+          "黒猫",
+          "黒い",
+          "白黒",
+          "暗黒",
+          "漆黒",
+          "黒字",
+          "黒髪",
+          "黒板",
+          "黒子"
+        ]
+      },
+      "word": "黒"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801507b6d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu đen thẫm ."
+        }
+      ],
+      "mobileId": 43153,
+      "phonetic": "くろぐろ",
+      "related_words": {
+        "word": [
+          "黒"
+        ]
+      },
+      "word": "黒黒"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a03d35b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common crane (Grus grus)"
+        }
+      ],
+      "mobileId": 223525,
+      "phonetic": "くろづる",
+      "word": "黒鶴"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014e4b23",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự làm đen; sự bôi đen; sự sơn đen; sơn đen ."
+        }
+      ],
+      "mobileId": 43100,
+      "phonetic": "くろぬり",
+      "related_words": {
+        "word": [
+          "黒"
+        ]
+      },
+      "word": "黒塗り"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014e7f88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đai đen ."
+        }
+      ],
+      "mobileId": 43105,
+      "opposite_word": [
+        "白帯"
+      ],
+      "phonetic": "くろおび",
+      "related_words": {
+        "word": [
+          "黒",
+          "帯"
+        ]
+      },
+      "word": "黒帯"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0075c26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bighead carp (Aristichthys nobilis)"
+        }
+      ],
+      "mobileId": 281192,
+      "phonetic": "こくれん コクレン",
+      "word": "黒鰱"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825d11bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "completely black, black from top to bottom, black from head to toe"
+        }
+      ],
+      "mobileId": 234571,
+      "phonetic": "くろずくめ",
+      "word": "黒ずくめ"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0271861",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "black mole, beauty mark"
+        }
+      ],
+      "mobileId": 208106,
+      "phonetic": "くろあざ",
+      "word": "黒あざ"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e9f0878",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Tên 1 loại cà tím của nhật"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "黒陽"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef90aff13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "black cattle"
+        }
+      ],
+      "mobileId": 273116,
+      "phonetic": "こくぎゅう くろうし",
+      "word": "黒牛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

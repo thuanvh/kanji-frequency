@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e952c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "what was said, what it means, origin of a story (or tradition, etc.)"
+        }
+      ],
+      "mobileId": 272041,
+      "phonetic": "いい",
+      "word": "謂"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f747f92a2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "いわゆる天才",
+              "mean": "cái mà chúng ta gọi là thiên tài",
+              "transcription": "いわゆるてんさい"
+            }
+          ],
+          "kind": "adj-pn",
+          "mean": "cái gọi là"
+        }
+      ],
+      "mobileId": 99318,
+      "phonetic": "いわゆる",
+      "related_words": {
+        "word": [
+          "所"
+        ]
+      },
+      "word": "所謂"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

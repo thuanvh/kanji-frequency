@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74f9894f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "半斤のパンでもないよりはまし",
+              "mean": "một nửa ổ bánh mì vẫn còn tốt hơn là không có gì",
+              "transcription": "はんきんのパンでもないよりはまし"
+            }
+          ],
+          "kind": "n",
+          "mean": "kin; ổ"
+        }
+      ],
+      "mobileId": 101199,
+      "phonetic": "きん",
+      "word": "斤"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74f9946b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cái rìu ."
+        }
+      ],
+      "mobileId": 101201,
+      "phonetic": "ふきん",
+      "word": "斧斤"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d0f0f48",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "một kin"
+        },
+        {
+          "examples": [
+            {
+              "content": "食パン一斤",
+              "mean": "một ổ bánh mì",
+              "transcription": "しょくぱんいちきん"
+            },
+            {
+              "content": "トマト一斤",
+              "mean": "1 quả cà chua",
+              "transcription": "トマトいちきん"
+            },
+            {
+              "content": "食パン一斤",
+              "mean": "một ổ bánh mì",
+              "transcription": "しょくぱんいちきん"
+            }
+          ],
+          "kind": "n",
+          "mean": "một ổ (bánh mì); một quả..."
+        }
+      ],
+      "mobileId": 141619,
+      "phonetic": "いっきん",
+      "word": "一斤"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92fa946",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "light pink, pale pink"
+        }
+      ],
+      "mobileId": 274293,
+      "phonetic": "いっこんぞめ いっきんぞめ",
+      "word": "一斤染め"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

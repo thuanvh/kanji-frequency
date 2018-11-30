@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef90d5440",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "disintegration, degradation, decay"
+        }
+      ],
+      "mobileId": 273194,
+      "phonetic": "ほうかい",
+      "word": "崩解"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7709478e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "collapse, crumbling, breaking down, caving in"
+        }
+      ],
+      "mobileId": 264759,
+      "phonetic": "かいほう",
+      "word": "壊崩"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f2784f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "complete collapse, (something) going to pieces (breaking up beyond repair)"
+        }
+      ],
+      "mobileId": 214688,
+      "phonetic": "どほうがかい",
+      "word": "土崩瓦解"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c01377df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "to die (of the emperor, etc.)"
+        }
+      ],
+      "mobileId": 189773,
+      "phonetic": "ほうじる",
+      "word": "崩じる"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

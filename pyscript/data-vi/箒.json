@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af822eb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chổi rễ"
+        },
+        {
+          "examples": [
+            {
+              "content": "新しい箒はよく掃ける.",
+              "mean": "Cái chổi mới quét rất tốt",
+              "transcription": "あたらしいほうきはよくはける."
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "chổi; cái chổi"
+        }
+      ],
+      "mobileId": 174393,
+      "phonetic": "ほうき",
+      "word": "箒"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0069e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cái chổi tre"
+        }
+      ],
+      "mobileId": 111049,
+      "phonetic": "たけほうき",
+      "word": "竹箒"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05ccf38",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pertya scandens (species of aster)"
+        }
+      ],
+      "mobileId": 283945,
+      "phonetic": "こうやぼうき コウヤボウキ",
+      "word": "高野箒"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9442569",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "whisk broom"
+        }
+      ],
+      "mobileId": 274937,
+      "phonetic": "はけほうき はけぼうき",
+      "word": "刷毛箒"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77000888",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hemp-palm broom"
+        }
+      ],
+      "mobileId": 264460,
+      "phonetic": "しゅろぼうき",
+      "word": "棕櫚箒"
+    },
+    {
+      "_id": "432518852de0a80625d585a98257d6b9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phoronid (any wormlike animal of phylum Phoronida)"
+        }
+      ],
+      "mobileId": 234410,
+      "phonetic": "ほうきむし ホウキムシ",
+      "word": "箒虫"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d43d403",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sweet basil"
+        }
+      ],
+      "mobileId": 217261,
+      "phonetic": "めぼうき メボウキ",
+      "word": "目箒"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af8253f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cán chổi ."
+        }
+      ],
+      "mobileId": 174394,
+      "phonetic": "ほうきのえ",
+      "word": "箒の柄"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

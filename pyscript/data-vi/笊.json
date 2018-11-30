@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af192c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái rọ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rá ."
+        }
+      ],
+      "mobileId": 174260,
+      "phonetic": "ざる",
+      "word": "笊"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c772d4333",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Burchard's cockle (Vasticardium burchardi)"
+        }
+      ],
+      "mobileId": 265938,
+      "phonetic": "ざるがい ザルガイ",
+      "word": "笊貝"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d4a6482",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pháp luật đầy loopholes"
+        }
+      ],
+      "mobileId": 148103,
+      "phonetic": "ざるほう",
+      "related_words": {
+        "word": [
+          "法",
+          "笊"
+        ]
+      },
+      "word": "笊法"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

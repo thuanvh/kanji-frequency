@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937b7c0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ấm đun nước ba chân (thường được dùng ở thời cổ đại)"
+        }
+      ],
+      "mobileId": 21846,
+      "phonetic": "かなえ",
+      "word": "鼎"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680151879b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thay đổi triều đại ."
+        }
+      ],
+      "mobileId": 43178,
+      "phonetic": "ていかく",
+      "word": "鼎革"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6004c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "three people sitting in a triangle"
+        }
+      ],
+      "mobileId": 251126,
+      "phonetic": "みつがなえ",
+      "word": "三つ鼎"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7a293a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ngồi trong một hình tam giác"
+        }
+      ],
+      "mobileId": 114919,
+      "phonetic": "かなえざ",
+      "related_words": {
+        "word": [
+          "座",
+          "鼎"
+        ]
+      },
+      "word": "鼎座"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d704f2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bronze-vessel and bell inscriptions"
+        }
+      ],
+      "mobileId": 218703,
+      "phonetic": "しょうていぶん",
+      "word": "鐘鼎文"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1937b7f35",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5u-s",
+          "mean": "nghi ngờ năng lực của ai đó (xuất phát từ nghĩa đen: nghi ngờ sự vững chắc của cái ấm 3 chân)"
+        }
+      ],
+      "mobileId": 21847,
+      "phonetic": "かなえのけいちょうをとう",
+      "word": "鼎の軽重を問う"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

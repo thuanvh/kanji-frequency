@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74ff9baa",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "つい最近の日本のへ旅",
+              "mean": "Chuyến đi mới đây đến Nhật Bản",
+              "transcription": "ついさいきんのにっぽんのへたび"
+            },
+            {
+              "content": "（人）が世界の歴史について学べる史跡を訪れる旅",
+              "mean": "Chuyến đi thăm những di tích lịch sử mà ở đó có thể học được đôi điều về lịch sử thế giới",
+              "transcription": "（ひと）がせかいのれきしについてまなべるしせきをおとずれるたび"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "chuyến đi; cuộc hành trình; chuyến du lịch"
+        }
+      ],
+      "mobileId": 101342,
+      "phonetic": "たび",
+      "related_words": {
+        "word": [
+          "旅行",
+          "修学旅行",
+          "旅人",
+          "旅立ち",
+          "新婚旅行",
+          "旅館",
+          "旅行者",
+          "旅行する",
+          "一人旅",
+          "旅行代理店"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "旅",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "渡航",
+                "周遊",
+                "トラベル",
+                "トリップ",
+                "旅行",
+                "ジャーニー"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "トリップ",
+                "旅行",
+                "航海"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "旅"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd4cfd9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khách sạn nhỏ; nhà trọ"
+        }
+      ],
+      "mobileId": 75572,
+      "phonetic": "たびてい",
+      "word": "旅亭"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de67f1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lemming"
+        }
+      ],
+      "mobileId": 222579,
+      "phonetic": "たびねずみ",
+      "word": "旅鼠"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74ffb446",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "...のパスポートで旅する",
+              "mean": "đi du lịch bằng hộ chiếu của... .",
+              "transcription": "...のパスポートでたびする"
+            }
+          ],
+          "kind": "vs-s",
+          "mean": "đi du lịch; du lịch; đi xa"
+        }
+      ],
+      "mobileId": 101343,
+      "phonetic": "たび",
+      "related_words": {
+        "word": [
+          "する",
+          "旅"
+        ]
+      },
+      "word": "旅する"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e12dca6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mệt mỏi do đi du lịch, mệt mỏi vì chuyến đi xa"
+        }
+      ],
+      "mobileId": 111633,
+      "phonetic": "たびづかれ",
+      "word": "旅疲れ"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e12e0c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "quen với việc đi du lịch đây đó"
+        }
+      ],
+      "mobileId": 111634,
+      "phonetic": "たびなれる",
+      "word": "旅慣れる"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9e33076",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "travelling male homosexual prostitute"
+        }
+      ],
+      "mobileId": 263522,
+      "phonetic": "たびこ",
+      "word": "旅子"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8228cb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đi du lịch; đi du lịch"
+        }
+      ],
+      "mobileId": 34605,
+      "phonetic": "",
+      "word": "羈旅"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd4a7ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khách sạn nhỏ, quán trọ"
+        }
+      ],
+      "mobileId": 75568,
+      "phonetic": "たびじ",
+      "word": "旅次"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e12e797",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhật ký chuyến đi"
+        }
+      ],
+      "mobileId": 111635,
+      "phonetic": "たびにっき",
+      "related_words": {
+        "word": [
+          "日",
+          "旅",
+          "記",
+          "日記"
+        ]
+      },
+      "word": "旅日記"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

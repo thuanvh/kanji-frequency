@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03f701d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "horse disease"
+        }
+      ],
+      "mobileId": 283002,
+      "phonetic": "ばえき",
+      "word": "馬疫"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bb414a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "epidemic"
+        }
+      ],
+      "mobileId": 262260,
+      "phonetic": "じえき",
+      "word": "時疫"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ce93be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dịch chuột"
+        }
+      ],
+      "mobileId": 62695,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "鼠"
+        ]
+      },
+      "word": "鼠疫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77669c41",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gods or demons that cause epidemics"
+        }
+      ],
+      "mobileId": 267776,
+      "phonetic": "えきき",
+      "word": "疫鬼"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a934ea7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "god who spreads infectious diseases, god of pestilence"
+        }
+      ],
+      "mobileId": 257979,
+      "phonetic": "えきじん やくじん",
+      "word": "疫神"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa42d1d",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "bệnh lở mồm long móng"
+        }
+      ],
+      "mobileId": 228650,
+      "phonetic": "こうていえき",
+      "word": "口蹄疫"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03f7f81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "African horse sickness"
+        }
+      ],
+      "mobileId": 283003,
+      "phonetic": "アフリカばえき",
+      "word": "アフリカ馬疫"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a08847",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "god of pestilence, god who spreads infectious diseases"
+        }
+      ],
+      "mobileId": 277855,
+      "phonetic": "ぎょうやくじん ぎょうえきじん",
+      "word": "行疫神"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

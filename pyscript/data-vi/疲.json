@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9824d90e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "exhaustion"
+        }
+      ],
+      "mobileId": 234085,
+      "phonetic": "ひはい",
+      "word": "疲憊"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0174c90",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "to fatigue, to exhaust"
+        }
+      ],
+      "mobileId": 189898,
+      "phonetic": "つからかす",
+      "word": "疲らかす"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824d8f0a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "heat exhaustion"
+        }
+      ],
+      "mobileId": 234084,
+      "phonetic": "ねつひはい",
+      "word": "熱疲憊"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

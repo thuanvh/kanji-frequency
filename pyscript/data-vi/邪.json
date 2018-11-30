@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cda24045",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "xấu; tội lỗi"
+        }
+      ],
+      "mobileId": 73971,
+      "opposite_word": [
+        "正"
+      ],
+      "phonetic": "よこしま",
+      "related_words": {
+        "word": [
+          "風邪",
+          "邪魔",
+          "邪悪",
+          "風邪をひく",
+          "無邪気",
+          "邪悪な",
+          "邪鬼",
+          "邪道",
+          "邪魔臭い",
+          "無邪気な"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "邪",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "悪い",
+                "腹黒い",
+                "邪悪",
+                "あくどい"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "悪い",
+                "邪悪"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "邪"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95112b57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ma quỷ; tà ác"
+        }
+      ],
+      "mobileId": 56664,
+      "phonetic": "よこしまおに",
+      "related_words": {
+        "word": [
+          "鬼",
+          "邪"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "邪鬼",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "デーモン",
+                "悪魔",
+                "魔神",
+                "魔物",
+                "妖魔",
+                "亡者",
+                "天魔",
+                "妖怪",
+                "悪神",
+                "鬼神",
+                "悪鬼",
+                "悪霊",
+                "魔王",
+                "鬼",
+                "デビル",
+                "魔"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "邪鬼"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0bb2223",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evil eye"
+        }
+      ],
+      "mobileId": 286967,
+      "phonetic": "じゃがん",
+      "word": "邪眼"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9512ff96",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gian lận bay"
+        }
+      ],
+      "mobileId": 56719,
+      "phonetic": "よこしまひ",
+      "word": "邪飛"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778b5951",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evil ways"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sorcery"
+        }
+      ],
+      "mobileId": 268983,
+      "phonetic": "じゃじゅつ",
+      "word": "邪術"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95e8c13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evil eye"
+        }
+      ],
+      "mobileId": 259341,
+      "phonetic": "じゃし",
+      "word": "邪視"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0e48354",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Wrong and right are but two faces of the same coin"
+        }
+      ],
+      "mobileId": 214232,
+      "phonetic": "じゃしょういちにょ",
+      "word": "邪正一如"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda24ac0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tâm hồn tội lội"
+        }
+      ],
+      "mobileId": 73972,
+      "phonetic": "よこしままなこころ",
+      "word": "邪まな心"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

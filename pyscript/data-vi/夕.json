@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107257cf2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-adv, n-suf, n-t",
+          "mean": "buổi tối; buổi đêm ."
+        }
+      ],
+      "mobileId": 52475,
+      "opposite_word": [
+        "朝"
+      ],
+      "phonetic": "ゆう",
+      "related_words": {
+        "word": [
+          "夕方",
+          "夕食",
+          "七夕",
+          "夕焼け",
+          "夕暮れ",
+          "夕日",
+          "夕飯",
+          "夕べ",
+          "夕陽",
+          "夕闇"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "夕",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "夕べ",
+                "夕暮れ",
+                "暮れ",
+                "夕刻",
+                "夕闇",
+                "日暮れ",
+                "黄昏",
+                "夕まぐれ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "日没",
+                "夕暮れ",
+                "暮れ",
+                "日の入り",
+                "夕方",
+                "夕刻",
+                "日暮れ",
+                "夕陽",
+                "黄昏",
+                "サンセット"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "夕べ",
+                "夕暮れ",
+                "晩",
+                "夕方",
+                "イブニング",
+                "夕刻",
+                "日暮れ",
+                "夕まぐれ"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "夕"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca082e9d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evening fish market"
+        }
+      ],
+      "mobileId": 285122,
+      "phonetic": "ゆうがし",
+      "word": "夕河岸"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd847fff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một loại cây thuộc họ cây loa kèn có hoa màu vàng chanh nở hoa vào buổi tối"
+        }
+      ],
+      "mobileId": 72996,
+      "phonetic": "ゆうかん",
+      "word": "夕菅"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8948a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sương mù buổi chiều"
+        }
+      ],
+      "mobileId": 73156,
+      "opposite_word": [
+        "朝靄"
+      ],
+      "phonetic": "",
+      "word": "夕靄"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd869d29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mặt trăng buổi tối"
+        }
+      ],
+      "mobileId": 73065,
+      "phonetic": "ゆうつき",
+      "related_words": {
+        "word": [
+          "月",
+          "夕"
+        ]
+      },
+      "word": "夕月"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d546b85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evening chill, cool of the evening"
+        }
+      ],
+      "mobileId": 217803,
+      "phonetic": "ゆうびえ",
+      "word": "夕冷え"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a724541",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "early evening cloud, clouds at sunset"
+        }
+      ],
+      "mobileId": 227051,
+      "phonetic": "ゆうぐも",
+      "word": "夕雲"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d23226",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evening service"
+        }
+      ],
+      "mobileId": 271276,
+      "phonetic": "ゆうざ",
+      "word": "夕座"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9550f79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "evening breeze, evening mist"
+        }
+      ],
+      "mobileId": 259014,
+      "opposite_word": [
+        "朝霞"
+      ],
+      "phonetic": "ゆうがすみ",
+      "word": "夕霞"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd878417",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trời trong lúc hoàng hôn"
+        }
+      ],
+      "mobileId": 73100,
+      "phonetic": "ゆうはれ",
+      "word": "夕晴れ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

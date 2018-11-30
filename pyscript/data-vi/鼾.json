@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801541d94",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "雷のようないびき",
+              "mean": "ngáy như sấm .",
+              "transcription": "かみなりのようないびき"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự ngáy; tiếng ngáy"
+        }
+      ],
+      "mobileId": 43242,
+      "phonetic": "いびき",
+      "word": "鼾"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680154338e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự ngáy; ngáy; ngáy ngủ ."
+        }
+      ],
+      "mobileId": 43244,
+      "phonetic": "かんすい",
+      "related_words": {
+        "word": [
+          "鼾"
+        ]
+      },
+      "word": "鼾酔"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7705210a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "loud snore"
+        }
+      ],
+      "mobileId": 264623,
+      "phonetic": "おおいびき",
+      "word": "大鼾"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adcb528",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5k",
+          "mean": "to snore"
+        }
+      ],
+      "mobileId": 230504,
+      "phonetic": "いびきをかく",
+      "related_words": {
+        "word": [
+          "いびき"
+        ]
+      },
+      "word": "鼾をかく"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

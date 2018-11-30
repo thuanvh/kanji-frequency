@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757ff091fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "vịnh ."
+        }
+      ],
+      "mobileId": 188898,
+      "phonetic": "わん",
+      "related_words": {
+        "word": [
+          "台湾",
+          "湾岸",
+          "港湾",
+          "湾曲",
+          "東京湾",
+          "真珠湾"
+        ]
+      },
+      "word": "湾"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ccce0e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ lồi lõm (ở bờ biển); doi đất"
+        }
+      ],
+      "mobileId": 40058,
+      "phonetic": "みさきわん",
+      "related_words": {
+        "word": [
+          "湾",
+          "岬"
+        ]
+      },
+      "word": "岬湾"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca031ce74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "beyond the bay"
+        }
+      ],
+      "mobileId": 282543,
+      "opposite_word": [
+        "湾内"
+      ],
+      "phonetic": "わんがい",
+      "word": "湾外"
+    },
+    {
+      "_id": "f61fc88c4ffea55446c27e6690ec73fb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vịnh Mêhicô ."
+        }
+      ],
+      "mobileId": 184316,
+      "phonetic": "メキシコわん",
+      "word": "メキシコ湾"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f4a5c75",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "東京湾の埋め立て地に造られる〔施設が〕",
+              "mean": "được tạo ra ngoài vùng đất thu hồi dọc theo vịnh Tokyo",
+              "transcription": "とうきょうわんのうめたてちにつくられる〔しせつが〕"
+            },
+            {
+              "content": "東京湾ウォーターフロント開発",
+              "mean": "Sự phát triển của khu dân cư ở vịnh Tokyo .",
+              "transcription": "とうきょうわんウォーターフロントかいはつ"
+            }
+          ],
+          "kind": "n",
+          "mean": "Vịnh Tokyo"
+        }
+      ],
+      "mobileId": 186213,
+      "phonetic": "とうきょうわん",
+      "related_words": {
+        "word": [
+          "東京",
+          "東",
+          "京",
+          "湾"
+        ]
+      },
+      "word": "東京湾"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fd8dab0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vịnh ."
+        }
+      ],
+      "mobileId": 188486,
+      "phonetic": "うみわん",
+      "word": "海湾"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e6887de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scoliosis"
+        }
+      ],
+      "mobileId": 251413,
+      "phonetic": "そくわんしょう",
+      "word": "側湾症"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a9e833d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Gulf of Tonkin Incident"
+        }
+      ],
+      "mobileId": 228466,
+      "phonetic": "トンキンわんじけん",
+      "word": "トンキン湾事件"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e688f1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scoliosis"
+        }
+      ],
+      "mobileId": 251414,
+      "phonetic": "せきついそくわんしょう",
+      "word": "脊椎側湾症"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e687a17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scoliosis"
+        }
+      ],
+      "mobileId": 251412,
+      "phonetic": "せきちゅうそくわんしょう",
+      "word": "脊柱側湾症"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

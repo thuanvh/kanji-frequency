@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd1f6e55",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mồ côi, đứa trẻ mồ côi, làm cho  mồ côi cha mẹ"
+        }
+      ],
+      "mobileId": 69800,
+      "phonetic": "こ",
+      "word": "孤"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0a16cfa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lone monkey, stray monkey"
+        }
+      ],
+      "mobileId": 286109,
+      "phonetic": "こえん",
+      "word": "孤猿"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b99966",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "young orphan"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "being alone and weak with no place to go to"
+        }
+      ],
+      "mobileId": 262212,
+      "phonetic": "こじゃく",
+      "word": "孤弱"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8e05e20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trầm tư cô đơn"
+        }
+      ],
+      "mobileId": 40713,
+      "phonetic": "",
+      "word": "孤愁"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd689802",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mồ côi, đứa trẻ mồ côi, làm cho  mồ côi cha mẹ"
+        }
+      ],
+      "mobileId": 13130,
+      "phonetic": "のここ",
+      "synsets": [
+        {
+          "base_form": "遺孤",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "孤児",
+                "遺児"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "遺孤"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e8ac7dc",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Ăn một mình"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "こしょく",
+      "word": "孤食"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd9b0604",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(thì) mồ côi vào một có tuổi thơ"
+        }
+      ],
+      "mobileId": 73741,
+      "phonetic": "ようにしてことなる",
+      "word": "幼にして孤となる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

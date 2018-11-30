@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0242647",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "to chat enthusiastically, to chatter, to talk on and on"
+        }
+      ],
+      "mobileId": 190318,
+      "phonetic": "しゃべくる",
+      "word": "喋くる"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef96fa792",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chatting without a break, talking without pause"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "amusing two-person dialogue (form of stand-up comedy)"
+        }
+      ],
+      "mobileId": 276287,
+      "phonetic": "しゃべくり",
+      "word": "喋くり"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

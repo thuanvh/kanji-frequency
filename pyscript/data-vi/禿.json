@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c000ac3c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "禿げ上がった地肌",
+              "mean": "mảng đầu hói",
+              "transcription": "はげあがったじはだ"
+            }
+          ],
+          "kind": null,
+          "mean": "người hói trán"
+        },
+        {
+          "examples": [
+            {
+              "content": "禿山",
+              "mean": "đồi núi trọc .",
+              "transcription": "はげやま"
+            }
+          ],
+          "kind": null,
+          "mean": "trơ trọi"
+        }
+      ],
+      "mobileId": 173705,
+      "phonetic": "顔が大きくて頭は禿げているのよ",
+      "related_words": {
+        "word": [
+          "禿上がる",
+          "禿鷹"
+        ]
+      },
+      "word": "禿"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69acc7308",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chốc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hói trán"
+        }
+      ],
+      "mobileId": 173703,
+      "phonetic": "はげ",
+      "related_words": {
+        "word": [
+          "禿上がる",
+          "禿鷹"
+        ]
+      },
+      "word": "禿"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6808affb",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để trở thành là fom trọc cái trán; để lùi lại"
+        }
+      ],
+      "mobileId": 276,
+      "phonetic": "はげあがる",
+      "related_words": {
+        "word": [
+          "上",
+          "上がる",
+          "禿"
+        ]
+      },
+      "word": "禿上がる"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd07bca4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hói cả đầu, sự hói trọc lóc"
+        }
+      ],
+      "mobileId": 69038,
+      "phonetic": "まるはげ",
+      "related_words": {
+        "word": [
+          "丸",
+          "禿"
+        ]
+      },
+      "word": "丸禿"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69accc5c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hói ."
+        }
+      ],
+      "mobileId": 173710,
+      "phonetic": "はげる",
+      "word": "禿る"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09ca933",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "alopecia areata"
+        }
+      ],
+      "mobileId": 285960,
+      "phonetic": "とくそう",
+      "word": "禿瘡"
+    },
+    {
+      "_id": "432518852de0a80625d585a98230748f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "strong agreement"
+        }
+      ],
+      "mobileId": 233157,
+      "phonetic": "はげどう",
+      "word": "禿同"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94234cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Eurasian least shrew (Sorex minutissimus), lesser pygmy shrew"
+        }
+      ],
+      "mobileId": 274881,
+      "phonetic": "ちびとがりねずみ チビトガリネズミ",
+      "word": "禿尖鼠"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef935e266",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shiny, bald head, person with a shiny, bald head"
+        }
+      ],
+      "mobileId": 274486,
+      "phonetic": "つるっぱげ",
+      "word": "つるっ禿"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94cc90e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Himalayan mole (Euroscaptor micrura)"
+        }
+      ],
+      "mobileId": 275199,
+      "phonetic": "ちびおもぐら チビオモグラ",
+      "word": "禿尾土竜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a3076f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khối lượng"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "lượng ."
+        }
+      ],
+      "mobileId": 109485,
+      "opposite_word": [
+        "質"
+      ],
+      "phonetic": "りょう",
+      "related_words": {
+        "word": [
+          "数量",
+          "容量",
+          "重量",
+          "計量",
+          "使用量",
+          "量産",
+          "質量",
+          "流量",
+          "降水量",
+          "含有量"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "量",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "寸法",
+                "クォンティティー",
+                "数量"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "分量",
+                "数量"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボリューム",
+                "体積",
+                "容積",
+                "大きさ",
+                "分量"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "クォンティティー",
+                "分量",
+                "数",
+                "数量",
+                "額"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "量"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19395ba55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liều quá mức, cho quá liều"
+        }
+      ],
+      "mobileId": 22676,
+      "phonetic": "かりょう",
+      "word": "過量"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adf310b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vector quantity"
+        }
+      ],
+      "mobileId": 230584,
+      "phonetic": "ベクトルりょう",
+      "word": "ベクトル量"
+    },
+    {
+      "_id": "432518852de0a80625d585a982bfbbb0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "system capacity"
+        }
+      ],
+      "mobileId": 237741,
+      "phonetic": "システムりょう",
+      "word": "システム量"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95846e9b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tải trọng chở hàng (xe, tàu ...)"
+        }
+      ],
+      "mobileId": 60305,
+      "phonetic": "せきさいりょう",
+      "word": "積載量"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdec01d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trọng lượng (của) 1000 tấm (tờ,lá) (của) giấy; trọng lượng ream"
+        }
+      ],
+      "mobileId": 76285,
+      "phonetic": "れんりょう",
+      "word": "連量"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74bd8082",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "距離当たりの排気量",
+              "mean": "Lượng khí thải tương ứng với khoảng cách.",
+              "transcription": "きょりあたりのはいきりょう"
+            },
+            {
+              "content": "＿年までに二酸化炭素の排気量を半減させる",
+              "mean": "Đến năm ~ thì lượng khí thải dioxi cac bon sẽ giảm đi một nửa. .",
+              "transcription": "＿としまでににさんかたんそのはいきりょうをはんげんさせる"
+            }
+          ],
+          "kind": "n",
+          "mean": "lượng khí thải"
+        }
+      ],
+      "mobileId": 100255,
+      "phonetic": "はいきりょう",
+      "related_words": {
+        "word": [
+          "気",
+          "量",
+          "排気"
+        ]
+      },
+      "word": "排気量"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa753cf52",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "khối lượng xuất khẩu ."
+        }
+      ],
+      "mobileId": 108083,
+      "phonetic": "ゆしゅつりょう",
+      "word": "輸出量"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7f8c125",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "điện lượng ."
+        }
+      ],
+      "mobileId": 110911,
+      "phonetic": "でんきりょう",
+      "word": "電気量"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef983db64",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "comparison"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Pramana, epistemology"
+        }
+      ],
+      "mobileId": 276940,
+      "phonetic": "ひりょう",
+      "word": "比量"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

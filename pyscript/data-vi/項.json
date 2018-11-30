@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801105619",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "憲法第９条第２項",
+              "mean": "Khoản 2 điều 9 Hiến pháp",
+              "transcription": "けんぽうだいきゅうじょうだいにこう"
+            },
+            {
+              "content": "議題の第２項",
+              "mean": "Mục 2 của chương trình nghị sự.",
+              "transcription": "ぎだいのだいにこう"
+            }
+          ],
+          "kind": "n",
+          "mean": "mục; khoản; số hạng"
+        }
+      ],
+      "mobileId": 42029,
+      "phonetic": "こう",
+      "related_words": {
+        "word": [
+          "項目",
+          "注意事項",
+          "事項",
+          "制限事項",
+          "関連項目",
+          "要項",
+          "条項",
+          "前項",
+          "選択項目",
+          "免責条項"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "項",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "用語"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ディテール",
+                "事項",
+                "項目",
+                "委細",
+                "デテール"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "襟首"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "パラグラフ",
+                "段落",
+                "節"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "項"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd84475f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khoản, món ; tiết mục, tin tức;"
+        }
+      ],
+      "mobileId": 13989,
+      "phonetic": "いちこう",
+      "related_words": {
+        "word": [
+          "一",
+          "項"
+        ]
+      },
+      "word": "一項"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ff109c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đoạn cuối cùng"
+        }
+      ],
+      "mobileId": 8128,
+      "phonetic": "すえこう",
+      "word": "末項"
+    },
+    {
+      "_id": "432518852de0a80625d585a98238fe1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "claim (esp. in a patent)"
+        }
+      ],
+      "mobileId": 233424,
+      "phonetic": "せいきゅうこう",
+      "word": "請求項"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e059019",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "等差数列の一般項は    a_{n}=a_{1}+(n-1)d",
+              "mean": "Công thức chung của cấp số cộng là a_{n}=a_{1}+(n-1)d",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Công thức chung, thuật ngữ chung"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "一般項"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae46f14f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "động lượng, xung lượng, đà, được tăng cường mạnh lên"
+        }
+      ],
+      "mobileId": 129615,
+      "phonetic": "モーメントこう",
+      "related_words": {
+        "word": [
+          "項",
+          "モーメント"
+        ]
+      },
+      "word": "モーメント項"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b4ef5a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "entry"
+        }
+      ],
+      "mobileId": 242362,
+      "phonetic": "きじゅつこう",
+      "word": "記述項"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a7f714",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những vị trí lý lẽ"
+        }
+      ],
+      "mobileId": 38861,
+      "phonetic": "こういち",
+      "word": "項位置"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ab567b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thời hạn viết lại"
+        }
+      ],
+      "mobileId": 38966,
+      "phonetic": "こうかきかえ",
+      "related_words": {
+        "word": [
+          "項"
+        ]
+      },
+      "word": "項書換え"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09b60ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "item number"
+        }
+      ],
+      "mobileId": 211842,
+      "phonetic": "こうばん",
+      "word": "項番"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

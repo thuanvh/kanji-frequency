@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a928fa59",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lifting height (of a pump, etc.)"
+        }
+      ],
+      "mobileId": 257582,
+      "phonetic": "ようてい",
+      "word": "揚程"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938d4d91",
+      "means": [
+        {
+          "examples": "",
+          "kind": "",
+          "mean": "(khoai tây, gà) chiên, rán"
+        }
+      ],
+      "mobileId": 22418,
+      "phonetic": "から あげ",
+      "word": "唐揚"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd94b062",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sắc nhọn (dấu nhấn, vân vân.)"
+        }
+      ],
+      "mobileId": 73537,
+      "phonetic": "あげおん",
+      "word": "揚音"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a96e1249",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "lifting and recovery (e.g. in marine salvage)"
+        }
+      ],
+      "mobileId": 259822,
+      "phonetic": "ようしゅう",
+      "word": "揚収"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdfecdd8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "largeheartedness; tư tưởng tự do; tính cơ đốc giáo; sự hào phóng; sự rộng lượng; tính cao thượng"
+        }
+      ],
+      "mobileId": 17845,
+      "phonetic": "だいよう",
+      "word": "大揚"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938d4721",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(khoai tây, gà...) chiên, rán; chiên khô; ràn giòn"
+        }
+      ],
+      "mobileId": 22416,
+      "phonetic": "そらあげ",
+      "related_words": {
+        "word": [
+          "空"
+        ]
+      },
+      "word": "空揚"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd94b9a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dấu sắc)"
+        }
+      ],
+      "mobileId": 73538,
+      "phonetic": "あげおんぷ",
+      "word": "揚音符"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd341f16",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "excess of withdrawals over deposits"
+        }
+      ],
+      "mobileId": 11458,
+      "phonetic": "",
+      "word": "引揚超過"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ddf2a3",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bến dỡ ."
+        }
+      ],
+      "mobileId": 110431,
+      "phonetic": "りくあげふとう",
+      "word": "陸揚埠頭"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ddf68c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảng dỡ ."
+        }
+      ],
+      "mobileId": 110432,
+      "phonetic": "りくあげこう",
+      "word": "陸揚港"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

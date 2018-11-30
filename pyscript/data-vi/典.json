@@ -1,0 +1,225 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada07f2ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bộ luật"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghi lễ; các hoạt động nhân dịp lễ kỷ niệm ."
+        }
+      ],
+      "mobileId": 77026,
+      "phonetic": "てん",
+      "related_words": {
+        "word": [
+          "特典",
+          "辞典",
+          "百科事典",
+          "出典",
+          "古典",
+          "典型的",
+          "式典",
+          "香典",
+          "事典",
+          "記念式典"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "典",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "儀典",
+                "会",
+                "セレモニー",
+                "儀式",
+                "典礼",
+                "祭り",
+                "栄典",
+                "儀",
+                "式",
+                "祭",
+                "式典",
+                "祝典"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "礼式",
+                "セレモニー",
+                "儀式",
+                "典礼",
+                "儀",
+                "式",
+                "式典",
+                "定式"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "儀典",
+                "セレモニー",
+                "儀式",
+                "典礼",
+                "祭り",
+                "儀",
+                "祭祀",
+                "式",
+                "祭",
+                "式典",
+                "定式"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "典"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d885a94",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tín đồ phật giáo sutras; văn học tín đồ phật giáo"
+        }
+      ],
+      "mobileId": 150062,
+      "phonetic": "しゃくのり",
+      "word": "釈典"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8784ed7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sách luật hình sự"
+        }
+      ],
+      "mobileId": 37361,
+      "phonetic": "けいてん",
+      "related_words": {
+        "word": [
+          "典",
+          "刑"
+        ]
+      },
+      "word": "刑典"
+    },
+    {
+      "_id": "432518852de0a80625d585a9822afa73",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "secretary (lowest of the four administrative ranks of the ritsuryo period)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "shrine official (ranking below a negi)"
+        }
+      ],
+      "mobileId": 232994,
+      "phonetic": "さかん しゅてん そうかん",
+      "word": "主典"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193fdb846",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "truyền thống; cổ điển"
+        }
+      ],
+      "mobileId": 25963,
+      "phonetic": "きゅうてん",
+      "related_words": {
+        "word": [
+          "典"
+        ]
+      },
+      "word": "旧典"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aa51905",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "canon (i.e. the Biblical canon)"
+        }
+      ],
+      "mobileId": 228676,
+      "phonetic": "せいてん",
+      "word": "正典"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0932ce5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sweden"
+        }
+      ],
+      "mobileId": 203381,
+      "phonetic": "スウェーデン スヰーデン",
+      "word": "瑞典"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb786dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người La, tinh, tiếng La, Rô, ma, La"
+        }
+      ],
+      "mobileId": 74671,
+      "phonetic": "らのり",
+      "word": "羅典"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a49b18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "prize, reward"
+        }
+      ],
+      "mobileId": 269793,
+      "phonetic": "しょうてん",
+      "word": "賞典"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bdbb4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cổ điển tiếng nhật"
+        }
+      ],
+      "mobileId": 39566,
+      "phonetic": "すめらぎてん",
+      "word": "皇典"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

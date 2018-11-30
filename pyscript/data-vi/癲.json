@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09cc6f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "madness, insanity, lunacy"
+        }
+      ],
+      "mobileId": 211894,
+      "phonetic": "てんきょう",
+      "word": "癲狂"
+    },
+    {
+      "_id": "432518852de0a80625d585a98267a5ae",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "asylum, bedlam"
+        }
+      ],
+      "mobileId": 234906,
+      "phonetic": "てんきょういん",
+      "word": "癲狂院"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

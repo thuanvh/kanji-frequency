@@ -1,0 +1,444 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d949294",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜を審議する大統領管轄協議会",
+              "mean": "Hội nghị tổng thống các nước để bàn bạc về ~",
+              "transcription": "〜をしんぎするだいとうりょうかんかつきょうぎかい"
+            },
+            {
+              "content": "この議会の次の会は、6月に開かれる",
+              "mean": "Kỳ họp tiếp theo của quốc hội sẽ diễn ra vào thàng 6",
+              "transcription": "このぎかいのつぎのかいは、 6つきにひらかれる"
+            }
+          ],
+          "kind": "n",
+          "mean": "cuộc họp; họp; hội nghị"
+        },
+        {
+          "examples": [
+            {
+              "content": "〜が開催する技能競技会",
+              "mean": "Hội thi tay nghề do ~ tổ chức",
+              "transcription": "〜がかいさいするぎのうきょうぎかい"
+            },
+            {
+              "content": "＿月＿日に開かれる同窓会",
+              "mean": "hội cựu tu nghiệp sinh tổ chức vào ngày~ tháng~",
+              "transcription": "＿つき＿ひにひらかれるどうそうかい"
+            },
+            {
+              "content": "EU理事会",
+              "mean": "Hội đồng Châu Âu",
+              "transcription": "EUりじかい"
+            },
+            {
+              "content": "品評会〔農産物や商品の〕",
+              "mean": "Ban đánh giá chất lượng (nông sản và hàng hóa)",
+              "transcription": "ひんぴょうかい〔のうさんぶつやしょうひんの〕"
+            },
+            {
+              "content": "試験委員会",
+              "mean": "Hội đồng chấm thi",
+              "transcription": "しけんいいんかい"
+            },
+            {
+              "content": "今夜も勉強会",
+              "mean": "tối nay lại học nhóm à",
+              "transcription": "こんやもべんきょうかい"
+            }
+          ],
+          "kind": "n-suf",
+          "mean": "hội; nhóm; hội đồng; ban"
+        }
+      ],
+      "mobileId": 143992,
+      "phonetic": "かい",
+      "related_words": {
+        "word": [
+          "会社",
+          "株式会社",
+          "会社概要",
+          "会社員",
+          "会話",
+          "照会",
+          "会長",
+          "会計",
+          "会員",
+          "社会"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "会",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "儀典",
+                "セレモニー",
+                "儀式",
+                "典礼",
+                "祭り",
+                "栄典",
+                "儀",
+                "式",
+                "祭",
+                "式典",
+                "典",
+                "祝典"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "パーティー",
+                "宴",
+                "集い",
+                "宴会",
+                "集まり"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "会合",
+                "会議",
+                "会集",
+                "集会",
+                "アセンブリ",
+                "集い",
+                "集まり",
+                "集合",
+                "会同",
+                "コンベンション"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "結社",
+                "倶楽部",
+                "団体",
+                "組合",
+                "アソシエーション",
+                "クラブ",
+                "サークル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "会合",
+                "会議",
+                "会集",
+                "集会",
+                "アセンブリ",
+                "集まり",
+                "集合",
+                "会同"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "会"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d94500f",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Tập hợp các tín đồ phật giáo, hội."
+        }
+      ],
+      "mobileId": 143991,
+      "phonetic": "え",
+      "related_words": {
+        "word": [
+          "会社",
+          "株式会社",
+          "会社概要",
+          "会社員",
+          "会話",
+          "照会",
+          "会長",
+          "会計",
+          "会員",
+          "社会"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "会",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "儀典",
+                "セレモニー",
+                "儀式",
+                "典礼",
+                "祭り",
+                "栄典",
+                "儀",
+                "式",
+                "祭",
+                "式典",
+                "典",
+                "祝典"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "パーティー",
+                "宴",
+                "集い",
+                "宴会",
+                "集まり"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "会合",
+                "会議",
+                "会集",
+                "集会",
+                "アセンブリ",
+                "集い",
+                "集まり",
+                "集合",
+                "会同",
+                "コンベンション"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "結社",
+                "倶楽部",
+                "団体",
+                "組合",
+                "アソシエーション",
+                "クラブ",
+                "サークル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "会合",
+                "会議",
+                "会集",
+                "集会",
+                "アセンブリ",
+                "集まり",
+                "集合",
+                "会同"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "会"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6864f54f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cạnh tranh hiện ra;(một) hội chợ"
+        }
+      ],
+      "mobileId": 3221,
+      "phonetic": "ひんぴょうかい",
+      "word": "品評会"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5a2910",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Cuộc tiêu khiển; Cuộc giải trí"
+        }
+      ],
+      "mobileId": 12669,
+      "phonetic": "いあんかい",
+      "word": "慰安会"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d51fc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(gia đình,họ) công ty"
+        }
+      ],
+      "mobileId": 6807,
+      "phonetic": "ほぜんかい",
+      "related_words": {
+        "word": [
+          "会",
+          "保全",
+          "全",
+          "保"
+        ]
+      },
+      "word": "保全会"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdca0754",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dự tiệc (của) những đèn lồng"
+        }
+      ],
+      "mobileId": 16177,
+      "phonetic": "うらぼんえ",
+      "related_words": {
+        "word": [
+          "会",
+          "蘭",
+          "盆"
+        ]
+      },
+      "word": "盂蘭盆会"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932f12fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người chủ trì cuộc họp"
+        }
+      ],
+      "mobileId": 19423,
+      "phonetic": "かいぬし",
+      "related_words": {
+        "word": [
+          "主",
+          "会"
+        ]
+      },
+      "word": "会主"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932f2a74",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "nhóm người tụ tập; hội họp"
+        }
+      ],
+      "mobileId": 19425,
+      "phonetic": "かいしゅう",
+      "related_words": {
+        "word": [
+          "会"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "会集",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "会合",
+                "会",
+                "会議",
+                "集会",
+                "アセンブリ",
+                "集い",
+                "集まり",
+                "集合",
+                "会同",
+                "コンベンション"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "会合",
+                "会",
+                "会議",
+                "集会",
+                "アセンブリ",
+                "集まり",
+                "集合",
+                "会同"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "会議",
+                "集会",
+                "国会",
+                "協定",
+                "大会",
+                "アセンブリ",
+                "議会",
+                "コンベンション"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "会集"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae2a8c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "elementary school student council"
+        }
+      ],
+      "mobileId": 230696,
+      "phonetic": "じどうかい",
+      "word": "児童会"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b59c21",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ăn cơm tháng (của) những giám đốc"
+        }
+      ],
+      "mobileId": 23673,
+      "phonetic": "かんぶかい",
+      "related_words": {
+        "word": [
+          "部",
+          "会",
+          "幹",
+          "幹部"
+        ]
+      },
+      "word": "幹部会"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

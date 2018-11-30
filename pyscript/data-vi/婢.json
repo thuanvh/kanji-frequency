@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aecb42a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "female slave"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "female servant, housemaid"
+        }
+      ],
+      "mobileId": 231009,
+      "phonetic": "ひ めのこやつこ",
+      "word": "婢"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7700c4e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "young female servant"
+        }
+      ],
+      "mobileId": 264480,
+      "phonetic": "しょうひ",
+      "word": "少婢"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed950e60a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nữ thị tỳ"
+        }
+      ],
+      "mobileId": 56579,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "侍"
+        ]
+      },
+      "word": "侍婢"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e671e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "most thrilling relationships for a man (another man's wife, a maidservant, a mistress, a prostitute, and finally his own wife)"
+        }
+      ],
+      "mobileId": 271947,
+      "phonetic": "いっとうにひさんしょうしぎごさい",
+      "word": "一盗二婢三妾四妓五妻"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

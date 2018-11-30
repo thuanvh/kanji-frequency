@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107dff2e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thuế hàng năm ."
+        }
+      ],
+      "mobileId": 55624,
+      "phonetic": "ねんそ",
+      "related_words": {
+        "word": [
+          "年"
+        ]
+      },
+      "word": "年租"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7138d92",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Thuế hàng năm; vật cống ."
+        }
+      ],
+      "mobileId": 107014,
+      "phonetic": "こうそ",
+      "word": "貢租"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0ca014",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự cầm giữ (một cuộc gặp)"
+        }
+      ],
+      "mobileId": 146150,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "開催",
+          "主催",
+          "催眠術",
+          "催眠",
+          "主催者",
+          "開催中",
+          "催促する",
+          "催す",
+          "催し",
+          "催し物"
+        ]
+      },
+      "word": "催"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca02338d8",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "Thực hiện một chuyến đi (theo kế hoạch)"
+        }
+      ],
+      "mobileId": 282072,
+      "phonetic": "さいこう",
+      "word": "催行"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef92230ad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "teratogenicity"
+        }
+      ],
+      "mobileId": 273860,
+      "phonetic": "さいきせい",
+      "word": "催奇性"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0cd8d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kích thích tình dục, thuốc kích thích tình dục"
+        }
+      ],
+      "mobileId": 146157,
+      "phonetic": "さいいん ざい",
+      "related_words": {
+        "word": [
+          "剤",
+          "催"
+        ]
+      },
+      "word": "催淫剤"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a335e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "teratogen"
+        }
+      ],
+      "mobileId": 277931,
+      "phonetic": "さいきけいぶっしつ",
+      "word": "催奇形物質"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef925dc8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "teratogenicity"
+        }
+      ],
+      "mobileId": 273976,
+      "phonetic": "さいきけいせい",
+      "word": "催奇形性"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0ff998",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "genre of Heian-period Japanese court music (primarily consisting of gagaku-styled folk melodies)"
+        }
+      ],
+      "mobileId": 248507,
+      "phonetic": "さいばら",
+      "word": "催馬楽"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94658b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "emetic"
+        }
+      ],
+      "mobileId": 258541,
+      "phonetic": "さいとやく",
+      "related_words": {
+        "word": [
+          "薬",
+          "催"
+        ]
+      },
+      "word": "催吐薬"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

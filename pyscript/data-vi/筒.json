@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af6a080",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "信号弾発射筒",
+              "mean": "ống pháo hoa .",
+              "transcription": "しんごうだんはっしゃとう"
+            }
+          ],
+          "kind": "n",
+          "mean": "ống; ống hình trụ dài"
+        }
+      ],
+      "mobileId": 174368,
+      "phonetic": "つつ",
+      "related_words": {
+        "word": [
+          "封筒",
+          "水筒",
+          "円筒",
+          "気筒",
+          "円筒形",
+          "筒状",
+          "茶筒"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "筒",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "銃身"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ライフル",
+                "小銃",
+                "鉄砲",
+                "銃"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "チューブ",
+                "笛",
+                "管",
+                "導管",
+                "パイプ",
+                "煙管"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "チューブ",
+                "管"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "筒"
+    },
+    {
+      "_id": "432518852de0a80625d585a982552209",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(grenade, etc.) launcher"
+        }
+      ],
+      "mobileId": 234324,
+      "phonetic": "はっしゃとう",
+      "word": "発射筒"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a819728",
+      "means": [
+        {
+          "examples": "",
+          "kind": "n",
+          "mean": "lư trầm hương ."
+        }
+      ],
+      "mobileId": 172413,
+      "phonetic": "はつえんとう",
+      "related_words": {
+        "word": [
+          "発",
+          "煙",
+          "筒"
+        ]
+      },
+      "word": "発煙筒"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04fc571",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, n",
+          "mean": "tube-shaped, cylindrical"
+        }
+      ],
+      "mobileId": 209415,
+      "phonetic": "つつがた",
+      "word": "筒型"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c4fae5",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "máy bơm"
+        }
+      ],
+      "mobileId": 262581,
+      "phonetic": "そくとう しょくとう",
+      "word": "喞筒"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94b195e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cardboard mailing tube, shipping tube"
+        }
+      ],
+      "mobileId": 275148,
+      "phonetic": "あつがみつつ",
+      "word": "厚紙筒"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69af6cc47",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "筒状花を有する",
+              "mean": "có hoa hình ống",
+              "transcription": "つつじょうはなをゆうする"
+            },
+            {
+              "content": "〜を筒状にクルクル巻く",
+              "mean": "cuộn ~ theo hình ống.",
+              "transcription": "〜をつつじょうにクルクルまく"
+            }
+          ],
+          "kind": "adj-no",
+          "mean": "Hình ống"
+        }
+      ],
+      "mobileId": 174370,
+      "phonetic": "つつじょう",
+      "related_words": {
+        "word": [
+          "筒",
+          "状"
+        ]
+      },
+      "word": "筒状"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9d3c664",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lens-barrel, lens tube (e.g. of a telescope)"
+        }
+      ],
+      "mobileId": 263036,
+      "phonetic": "きょうとう",
+      "word": "鏡筒"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ad77fbc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dot tiles, circle tiles"
+        }
+      ],
+      "mobileId": 230321,
+      "phonetic": "ピンズ トンズ",
+      "word": "筒子"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc33bd3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái bẫy lươn, ống dùng để bắt lươn, cái trúm"
+        }
+      ],
+      "mobileId": 15974,
+      "phonetic": "うなぎとう",
+      "word": "鰻筒"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

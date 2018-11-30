@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e4c740",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bên cạnh"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cạnh"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự giáp bên; sự ngay bên cạnh ."
+        }
+      ],
+      "mobileId": 110529,
+      "phonetic": "となり",
+      "related_words": {
+        "word": [
+          "隣人",
+          "隣接",
+          "近隣",
+          "隣接する",
+          "隣国",
+          "隣家",
+          "両隣"
+        ]
+      },
+      "word": "隣"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aaf12d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "immediately adjacent"
+        }
+      ],
+      "mobileId": 228998,
+      "phonetic": "まとなり",
+      "word": "真隣"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d1f7e79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trước nữa"
+        }
+      ],
+      "mobileId": 146738,
+      "phonetic": "せんとなり",
+      "related_words": {
+        "word": [
+          "先",
+          "隣"
+        ]
+      },
+      "word": "先隣"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77dfa854",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "neighbour to the left"
+        }
+      ],
+      "mobileId": 271731,
+      "phonetic": "ひだりどなり",
+      "word": "左隣"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea87f1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "neighboring (kề bên) thị thành"
+        }
+      ],
+      "mobileId": 116432,
+      "phonetic": "となりまち",
+      "related_words": {
+        "word": [
+          "町",
+          "隣"
+        ]
+      },
+      "word": "隣町"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e4f33e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quan hệ hàng xóm tốt đẹp; quan hệ hàng xóm láng giềng ."
+        }
+      ],
+      "mobileId": 110533,
+      "phonetic": "となりづきあい",
+      "word": "隣付き合い"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c771bc8e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "late autumn that makes it seem like winter is coming"
+        }
+      ],
+      "mobileId": 265365,
+      "phonetic": "ふゆどなり",
+      "word": "冬隣"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68fd3d57",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà thứ hai tính từ đây"
+        }
+      ],
+      "mobileId": 8063,
+      "phonetic": "またとなり",
+      "word": "又隣"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca079511f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "adjacent side, cathetus"
+        }
+      ],
+      "mobileId": 284836,
+      "phonetic": "りんぺん",
+      "word": "隣辺"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ea8609e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng xóm, vùng, vùng lân cận"
+        }
+      ],
+      "mobileId": 116430,
+      "phonetic": "となりきんじょ",
+      "word": "隣近所"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

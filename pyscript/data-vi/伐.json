@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d913dca",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "違法に伐採された木材および関連製品の輸出入",
+              "mean": "Xuất nhập khẩu gỗ và các sản phẩm gỗ trái phép.",
+              "transcription": "いほうにばっさいされたもくざいおよびかんれんせいひんのゆしゅつにゅう"
+            },
+            {
+              "content": "原生林とは一度も伐採されたことのない森のことである。",
+              "mean": "Rừng nguyên sinh là khu rừng chưa bao giờ bị chặt phá.",
+              "transcription": "げんせいりんとはいちどもばっさいされたことのないもりのことである。"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự tấn công; sự chinh phạt"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trừng phạt ."
+        }
+      ],
+      "mobileId": 143959,
+      "phonetic": "ばつ",
+      "related_words": {
+        "word": [
+          "伐採",
+          "討伐",
+          "殺伐"
+        ]
+      },
+      "word": "伐"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6833f601",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "rơi"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "drawing sword"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "drawn sword"
+        }
+      ],
+      "mobileId": 1689,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "伐"
+        ]
+      },
+      "word": "伐倒"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a91d585b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "clear-cut logging, clear-cutting"
+        }
+      ],
+      "mobileId": 257219,
+      "phonetic": "かいばつ",
+      "word": "皆伐"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3eb4041a",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Công việc dọn cỏ (chuẩn bị thi công xây dựng)"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ばっかいじょこん",
+      "word": "伐開除根"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada70ac2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Nam chinh Bắc phạt ."
+        }
+      ],
+      "mobileId": 78858,
+      "phonetic": "なんせいほくばつ",
+      "related_words": {
+        "word": [
+          "北",
+          "南",
+          "伐"
+        ]
+      },
+      "word": "南征北伐"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3f9d29",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rừng shelterwood"
+        }
+      ],
+      "mobileId": 147755,
+      "phonetic": "かさきはやし",
+      "word": "傘伐林"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9824e394d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "arm disability, someone with disabled arms"
+        }
+      ],
+      "mobileId": 234107,
+      "phonetic": "てなえ",
+      "word": "攣"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c032448b",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v5r",
+          "mean": "bị chuột rút, bị chật chội"
+        }
+      ],
+      "mobileId": 208465,
+      "phonetic": "つる",
+      "word": "攣る"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dcabbbd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "spasm"
+        }
+      ],
+      "mobileId": 221685,
+      "phonetic": "れんしゅく",
+      "word": "攣縮"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab684091a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự giật; để có một chứng chuột rút; để trở thành cứng đờ"
+        }
+      ],
+      "mobileId": 2083,
+      "phonetic": "",
+      "word": "引攣る"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74d89e1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mắt xếch ."
+        }
+      ],
+      "mobileId": 100691,
+      "phonetic": "つりめ",
+      "word": "攣り目"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93d59de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scar"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "spasm, twitch, cramp"
+        }
+      ],
+      "mobileId": 258255,
+      "phonetic": "ひっつり",
+      "word": "引っ攣り"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

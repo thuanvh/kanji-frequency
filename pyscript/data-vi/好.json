@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e0dad48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pref",
+          "mean": "good"
+        }
+      ],
+      "mobileId": 248437,
+      "phonetic": "こう",
+      "word": "好"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193f73826",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tình bạn cũ (già)"
+        }
+      ],
+      "mobileId": 25756,
+      "phonetic": "きゅうよしみ",
+      "word": "旧好"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7705a64",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "通好条約を結ぶ",
+              "mean": "ký kết hiệp ước quan hệ thân thiện",
+              "transcription": "つうこうじょうやくをむすぶ"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "quan hệ thân thiện; hữu nghị"
+        }
+      ],
+      "mobileId": 108596,
+      "phonetic": "つうこう",
+      "word": "通好"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d29e4f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "good impression, favorable impression"
+        }
+      ],
+      "mobileId": 216451,
+      "phonetic": "こういんしょう",
+      "word": "好印象"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b6ff71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "chạy tốt; chạy nhanh"
+        }
+      ],
+      "mobileId": 39349,
+      "phonetic": "こうはし",
+      "word": "好走"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b92148",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "(bóng chày) cú đánh tốt"
+        }
+      ],
+      "mobileId": 39414,
+      "phonetic": "こうだ",
+      "word": "好打"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1075c01ba",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ます釣りの好期",
+              "mean": "thời kỳ lý tưởng cho săn bắt cá hồi",
+              "transcription": "ますづりのこうき"
+            }
+          ],
+          "kind": "n",
+          "mean": "Thời gian lý tưởng"
+        }
+      ],
+      "mobileId": 53393,
+      "phonetic": "こうき",
+      "related_words": {
+        "word": [
+          "期"
+        ]
+      },
+      "word": "好期"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1075caaeb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "好結果を予期する",
+              "mean": "Dự đoán trước kết quả tốt.",
+              "transcription": "こうけっかをよきする"
+            },
+            {
+              "content": "好結果を得る",
+              "mean": "giành được kết quả tốt",
+              "transcription": "こうけっかをえる"
+            },
+            {
+              "content": "好結果を勝ち取る",
+              "mean": "Tự hào vì kết quả tốt",
+              "transcription": "こうけっかをかちとる"
+            },
+            {
+              "content": "好結果をもたらす",
+              "mean": "Mang lại kết quả tốt",
+              "transcription": "こうけっかをもたらす"
+            },
+            {
+              "content": "好結果になる",
+              "mean": "Trở thành kết quả tốt .",
+              "transcription": "こうけっかになる"
+            }
+          ],
+          "kind": "n",
+          "mean": "kết quả tốt"
+        }
+      ],
+      "mobileId": 53400,
+      "phonetic": "こうけっか",
+      "word": "好結果"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9878f37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "person of refined taste"
+        }
+      ],
+      "mobileId": 277061,
+      "phonetic": "こうかく こうきゃく",
+      "word": "好客"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e42c371",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Người đàn ông trẻ tuổi, thanh thiếu niên dễ chịu"
+        }
+      ],
+      "mobileId": 250178,
+      "phonetic": "こうせいねん",
+      "related_words": {
+        "word": [
+          "年",
+          "青",
+          "青年"
+        ]
+      },
+      "word": "好青年"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

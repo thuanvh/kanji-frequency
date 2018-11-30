@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae14763",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "poem"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "narrative (style of the Shi Jing)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "classical Chinese rhymed prose"
+        }
+      ],
+      "mobileId": 230654,
+      "phonetic": "ふ",
+      "word": "賦"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9259f67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "allocation, apportionment, distribution"
+        }
+      ],
+      "mobileId": 257475,
+      "phonetic": "はいふ",
+      "word": "配賦"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687cc1a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thiên nhiên"
+        }
+      ],
+      "mobileId": 3964,
+      "phonetic": "ふせい",
+      "word": "賦性"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d7c0a08",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghệ thuật thơ tiếng trung hoa"
+        }
+      ],
+      "mobileId": 149659,
+      "phonetic": "ことばふ",
+      "word": "詞賦"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a615fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự ấn định; sự định vị"
+        }
+      ],
+      "mobileId": 5282,
+      "phonetic": "ぶんふ",
+      "related_words": {
+        "word": [
+          "分"
+        ]
+      },
+      "word": "分賦"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c30cc4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vật cống và hệ thống thuế"
+        }
+      ],
+      "mobileId": 39744,
+      "phonetic": "みつぎふ",
+      "word": "貢賦"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686cf956",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bài thơ, vật đẹp như bài thơ, cái nên thơ"
+        }
+      ],
+      "mobileId": 3470,
+      "phonetic": "ふえい",
+      "word": "賦詠"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c088b685",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "existence, presence (of resources)"
+        }
+      ],
+      "mobileId": 211233,
+      "phonetic": "ふそん",
+      "word": "賦存"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95c3bc89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thơ ca ngợi tới sớm nứt rạn"
+        }
+      ],
+      "mobileId": 62336,
+      "phonetic": "そうしゅんふ",
+      "word": "早春賦"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa72807c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự đánh thuế ."
+        }
+      ],
+      "mobileId": 107357,
+      "phonetic": "ふぜい",
+      "related_words": {
+        "word": [
+          "税"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "賦税",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "税",
+                "収税",
+                "賦課",
+                "課税",
+                "公租",
+                "租税",
+                "寄与",
+                "徴税",
+                "税金",
+                "タックス",
+                "公課"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "賦税"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

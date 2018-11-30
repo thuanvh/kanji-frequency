@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aa34f36",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "月に銀の盾が見えれば、畑の刈り取りをためらうことはないが、かさがかかった月が昇れば、すぐに水浸しの地面を歩くことになるだろう。",
+              "mean": "Nếu trăng giống như cái khiên bạc thì không cần lo nhiều về đồng ruộng, nhưng nếu trăng giống như cái ô thì cần dẫn nước vào ruộng nhanh. (=Trăng quầng thì hạn, trăng tán thì mưa.) .",
+              "transcription": "つきにぎんのたてがみえれば、はたけのかりとりをためらうことはないが、かさがかかったつきがのぼれば、すぐにみずびたしのじめんをあるくことになるだろう。"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái khiên; lá chắn; tấm mộc"
+        }
+      ],
+      "mobileId": 173014,
+      "phonetic": "たて",
+      "related_words": {
+        "word": [
+          "矛盾"
+        ]
+      },
+      "word": "盾"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0d9f89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scutum (chòm sao); shield"
+        }
+      ],
+      "mobileId": 111463,
+      "phonetic": "たてざ",
+      "word": "盾座"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f741c3371",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）の主張の後ろ盾となる新証人",
+              "mean": "Nhân chứng mới chứng nhận lời khai của ai đấy.",
+              "transcription": "（ひと）のしゅちょうのうしろたてとなるしんしょうにん"
+            },
+            {
+              "content": "〜の強力な後ろ盾なしでは",
+              "mean": "nếu không có sự ủng hộ mạnh mẽ từ~",
+              "transcription": "〜のきょうりょくなうしろたてなしでは"
+            },
+            {
+              "content": "その金持ちの男性は、彼の息子のただひとりの後ろ盾だった",
+              "mean": "Người đàn ông giàu có kia chỉ là một người trong số những người đỡ đầu của con trai ông ta",
+              "transcription": "そのかねもちのだんせいは、かれのむすこのただひとりのうしろたてだった"
+            },
+            {
+              "content": "国会議員の後ろ盾がある",
+              "mean": "Có người đỡ đầu là đại biểu quốc hội",
+              "transcription": "こっかいぎいんのうしろたてがある"
+            }
+          ],
+          "kind": "n",
+          "mean": "người ủng hộ; người cổ vũ từ hậu trường; người đỡ đầu"
+        },
+        {
+          "examples": [
+            {
+              "content": "〜の後ろ盾を求める",
+              "mean": "tìm kiếm sự ủng hộ của ~",
+              "transcription": "〜のうしろたてをもとめる"
+            },
+            {
+              "content": "〜の後ろ盾を得る",
+              "mean": "Dành được sự ủng hộ của",
+              "transcription": "〜のうしろたてをえる"
+            },
+            {
+              "content": "法的後ろ盾",
+              "mean": "Sự ủng hộ có tính luật pháp",
+              "transcription": "ほうてきうしろたて"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự ủng hộ; sự cổ vũ từ hậu trường; từ đằng sau"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vật chống đỡ phía sau ."
+        }
+      ],
+      "mobileId": 97880,
+      "phonetic": "うしろだて",
+      "related_words": {
+        "word": [
+          "後",
+          "後ろ",
+          "盾"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "後ろ盾",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "肩入れ",
+                "幇助",
+                "助け舟",
+                "力添え",
+                "荷担",
+                "扶持",
+                "助力",
+                "掩護",
+                "後押し",
+                "支援",
+                "加勢",
+                "扶助",
+                "援助",
+                "サポート",
+                "救い",
+                "補助",
+                "助成",
+                "応援",
+                "加担",
+                "助太刀",
+                "介添え",
+                "支え",
+                "賛助",
+                "支持",
+                "援護",
+                "後援"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "後押し",
+                "助勢",
+                "応援",
+                "バックアップ",
+                "賛助",
+                "支持",
+                "後援"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "後ろ盾"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5ab45a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "human shield"
+        }
+      ],
+      "mobileId": 226302,
+      "phonetic": "にんげんのたて",
+      "word": "人間の盾"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e16c924",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Look at both sides of the thing"
+        }
+      ],
+      "mobileId": 248744,
+      "phonetic": "たてのりょうめんをみよ",
+      "word": "盾の両面を見よ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

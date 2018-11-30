@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027abaf51",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "công chúng ."
+        }
+      ],
+      "mobileId": 32114,
+      "opposite_word": [
+        "寡"
+      ],
+      "phonetic": "しゅう",
+      "related_words": {
+        "word": [
+          "アメリカ合衆国",
+          "公衆電話",
+          "衆議院",
+          "合衆国",
+          "大衆",
+          "公衆",
+          "公衆衛生",
+          "聴衆",
+          "公衆浴場",
+          "群衆"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "衆",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "人々",
+                "ピープル",
+                "人達"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "衆"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca038ac2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "assembly of monks and laity (at a rite, sermon, etc.)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(monks and laity of) the Jishu sect"
+        }
+      ],
+      "mobileId": 282785,
+      "phonetic": "じしゅ じしゅう",
+      "word": "時衆"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e32f679",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người chưng diện; người ga lăng; người hào hiệp"
+        }
+      ],
+      "mobileId": 112652,
+      "phonetic": "だてしゅう",
+      "related_words": {
+        "word": [
+          "伊達",
+          "衆"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "伊達衆",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "伊達者",
+                "伊達男"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "伊達衆"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d94f23b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dân chúng, quần chúng nhân dân"
+        }
+      ],
+      "mobileId": 150454,
+      "phonetic": "",
+      "word": "衆庶"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c773d5392",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crowd (of people), large group of people"
+        }
+      ],
+      "mobileId": 266444,
+      "phonetic": "たしゅう",
+      "word": "多衆"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd82e16c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những vô số; những người"
+        }
+      ],
+      "mobileId": 72944,
+      "phonetic": "ゆうしゅう",
+      "word": "有衆"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d970b1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhiều ý kiến, nhiều quan điểm, nhiều thuyết"
+        }
+      ],
+      "mobileId": 150521,
+      "phonetic": "しゅうせつ",
+      "word": "衆説"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d87ea87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "elder chief of a village or town during Edo Period"
+        }
+      ],
+      "mobileId": 219468,
+      "phonetic": "としよりしゅう",
+      "word": "年寄衆"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7724ddc9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "humble samurai who served as a body guard on foot"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bodyguards in service of the shogun who would walk ahead of him on an outing(Edo period)"
+        }
+      ],
+      "mobileId": 265654,
+      "phonetic": "かちしゅう",
+      "word": "徒士衆"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0abebaf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "feudal lord who did not leave his domains to meet the shogun in Kyoto (during the Muromachi period)"
+        }
+      ],
+      "mobileId": 286455,
+      "phonetic": "ざいこくしゅう",
+      "word": "在国衆"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

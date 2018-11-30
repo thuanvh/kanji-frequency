@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a52e395",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ウリはキュウリ、スイカ、カボチャ等の総称です",
+              "mean": "Dưa là tên gọi chung của dưa chuột, dưa hấu và bí ngô.v...v...",
+              "transcription": "ウリはキュウリ、スイカ、カボチャとうのそうしょうです"
+            }
+          ],
+          "kind": "n",
+          "mean": "dưa; bầu; bí"
+        }
+      ],
+      "mobileId": 171692,
+      "phonetic": "うり",
+      "related_words": {
+        "word": [
+          "胡瓜",
+          "西瓜",
+          "破瓜",
+          "南瓜",
+          "木瓜"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "瓜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "メロン"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "瓜"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcc20e4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "giống hệt nhau, giống nhau như đúc; giống hệt (ai)"
+        }
+      ],
+      "mobileId": 16243,
+      "phonetic": "うりふたつ",
+      "word": "瓜二つ"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdcafefe",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(thực vật học) (thuộc) họ bầu bí"
+        }
+      ],
+      "mobileId": 16210,
+      "phonetic": "うりか",
+      "word": "瓜科"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a36448d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cucurbit leaf beetle (Aulacophora femoralis)"
+        }
+      ],
+      "mobileId": 225153,
+      "phonetic": "うりはむし ウリハムシ",
+      "word": "瓜羽虫"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be67776",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kara flowering quince, Choenomeles lagenaria"
+        }
+      ],
+      "mobileId": 247201,
+      "phonetic": "からぼけ カラボケ",
+      "word": "唐木瓜"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aefc9fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wax gourd (Benincasa hispida), winter melon"
+        }
+      ],
+      "mobileId": 231105,
+      "phonetic": "かもうり",
+      "word": "氈瓜"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a944a43e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Okinawan yellow cucumber"
+        }
+      ],
+      "mobileId": 258492,
+      "phonetic": "もううり まうり もううい モーウイ",
+      "word": "毛瓜"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80171e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cây dưa chuột, quả dưa chuột, cool"
+        }
+      ],
+      "mobileId": 33528,
+      "phonetic": "きうり",
+      "related_words": {
+        "word": [
+          "黄",
+          "瓜"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "黄瓜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "胡瓜"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "黄瓜"
+    },
+    {
+      "_id": "432518852de0a80625d585a982103540",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cucurbit leaf beetle (Aulacophora femoralis)"
+        }
+      ],
+      "mobileId": 232157,
+      "phonetic": "うりばえ ウリバエ",
+      "word": "瓜蝿"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de66d3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wild boar piglet"
+        }
+      ],
+      "mobileId": 222577,
+      "phonetic": "うりぼう",
+      "word": "瓜坊"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

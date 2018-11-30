@@ -1,0 +1,293 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193153816",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liên hoan; dự tiệc"
+        }
+      ],
+      "mobileId": 18602,
+      "phonetic": "まつり",
+      "related_words": {
+        "word": [
+          "祭り",
+          "夏祭り",
+          "お祭り",
+          "学園祭",
+          "祭日",
+          "復活祭",
+          "前夜祭",
+          "祝祭日",
+          "祭典",
+          "冠婚葬祭"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "祭",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "儀典",
+                "会",
+                "セレモニー",
+                "儀式",
+                "典礼",
+                "祭り",
+                "栄典",
+                "儀",
+                "式",
+                "式典",
+                "典",
+                "祝典"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "儀典",
+                "セレモニー",
+                "儀式",
+                "典礼",
+                "祭り",
+                "儀",
+                "祭祀",
+                "式",
+                "式典",
+                "典",
+                "定式"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "お祭り",
+                "祭り",
+                "祭礼",
+                "祝儀",
+                "祝い",
+                "祝宴",
+                "祝賀",
+                "祝典"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "お祭り",
+                "祭り",
+                "祭典",
+                "祝祭",
+                "祭礼",
+                "祝宴",
+                "祝典"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "お祭り",
+                "祭り",
+                "祭典",
+                "祭祀",
+                "祝祭",
+                "祭礼"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "祭"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2670f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "university festival, rag day"
+        }
+      ],
+      "mobileId": 224654,
+      "phonetic": "だいがくさい",
+      "word": "大学祭"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5631c5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "religious ceremony (to appease the gods)"
+        }
+      ],
+      "mobileId": 226166,
+      "phonetic": "ちんさい",
+      "word": "鎮祭"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a05a2e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lễ hội Shinto vào ngày 3 tháng giêng"
+        }
+      ],
+      "mobileId": 38631,
+      "phonetic": "げんしさい",
+      "related_words": {
+        "word": [
+          "元",
+          "祭"
+        ]
+      },
+      "word": "元始祭"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1076f1c70",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "buổi lễ của trường"
+        },
+        {
+          "examples": [
+            {
+              "content": "有名作家が、うちの大学の学園祭で講演することになっている",
+              "mean": "một tác giả lớn sẽ đến diễn thuyết tại ngày hội trường tôi",
+              "transcription": "ゆうめいさっかが、うちのだいがくのがくえんさいでこうえんすることになっている"
+            },
+            {
+              "content": "彼女はその年の学園祭でミスに選ばれた",
+              "mean": "cô ấy đã được bầu là Hoa hậu tại ngày hội trường năm đó",
+              "transcription": "かのじょはそのとしのがくえんさいでミスにえらばれた"
+            },
+            {
+              "content": "学園祭で〜を展示する",
+              "mean": "triển lãm... ở ngày hội trường .",
+              "transcription": "がくえんさいで〜をてんじする"
+            }
+          ],
+          "kind": "n",
+          "mean": "ngày hội trường; hội trường; lễ hội tổ chức tại trường"
+        }
+      ],
+      "mobileId": 53750,
+      "phonetic": "がくえんさい",
+      "related_words": {
+        "word": [
+          "学園",
+          "園",
+          "祭"
+        ]
+      },
+      "word": "学園祭"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd016c34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những dịp hội hè đình đám"
+        }
+      ],
+      "mobileId": 68833,
+      "phonetic": "まつりさわぎ",
+      "related_words": {
+        "word": [
+          "祭",
+          "騒ぎ"
+        ]
+      },
+      "word": "祭騒ぎ"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde0c23e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "liên hoan hàng năm"
+        }
+      ],
+      "mobileId": 75939,
+      "phonetic": "れいねんさい",
+      "related_words": {
+        "word": [
+          "年",
+          "例",
+          "祭",
+          "例年"
+        ]
+      },
+      "word": "例年祭"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74f5031c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "高校の文化祭に参加する",
+              "mean": "Tham gia tuần lễ văn hóa của trường.",
+              "transcription": "こうこうのぶんかさいにさんかする"
+            },
+            {
+              "content": "文化祭で劇をやる計画をしてるんだけどやる気あるかい。",
+              "mean": "Chúng tôi đang định đóng một vở kịch trong lễ văn hóa của trường, bạn có muốn tham gia không .",
+              "transcription": "ぶんかさいでげきをやるけいかくをしてるんだけどやるきあるかい。"
+            }
+          ],
+          "kind": "n",
+          "mean": "lễ văn hóa"
+        }
+      ],
+      "mobileId": 101129,
+      "phonetic": "ぶんかさい",
+      "related_words": {
+        "word": [
+          "文",
+          "文化",
+          "祭"
+        ]
+      },
+      "word": "文化祭"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ec50ea3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lễ kỷ niệm ngày độc lập"
+        }
+      ],
+      "mobileId": 117334,
+      "phonetic": "どくりつさい",
+      "word": "独立祭"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92a978c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fertility festival, harvest festival"
+        }
+      ],
+      "mobileId": 257632,
+      "phonetic": "ほうねんさい",
+      "word": "豊年祭"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

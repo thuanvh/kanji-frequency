@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f7480641e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cánh cửa ."
+        }
+      ],
+      "mobileId": 99333,
+      "phonetic": "とびら",
+      "related_words": {
+        "word": [
+          "門扉"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "扉",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "門口",
+                "戸",
+                "玄関",
+                "入り口",
+                "戸口",
+                "ドア",
+                "乗車口",
+                "門",
+                "門戸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "扉"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e89a13",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái cửa watertight"
+        }
+      ],
+      "mobileId": 7405,
+      "phonetic": "ぼうすいとびら",
+      "word": "防水扉"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9b42151",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "doorway, door, hatch"
+        }
+      ],
+      "mobileId": 278477,
+      "phonetic": "とびらぐち",
+      "word": "扉口"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e3a4b7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "khai hỏa cái cửa,cửa chống cháy."
+        }
+      ],
+      "mobileId": 7245,
+      "phonetic": "ぼうかとびら",
+      "related_words": {
+        "word": [
+          "火",
+          "扉",
+          "防火"
+        ]
+      },
+      "word": "防火扉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a7dd34",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "double doors opening from the centre"
+        }
+      ],
+      "mobileId": 269904,
+      "phonetic": "かんのんとびら",
+      "word": "観音扉"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1933637bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa quay"
+        }
+      ],
+      "mobileId": 19654,
+      "phonetic": "かいてんとびら",
+      "word": "回転扉"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc923ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lùi lại lá cây"
+        }
+      ],
+      "mobileId": 16151,
+      "phonetic": "うらとびら",
+      "word": "裏扉"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed950c1b3d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cửa tự động"
+        }
+      ],
+      "mobileId": 56504,
+      "phonetic": "じどうとびら",
+      "related_words": {
+        "word": [
+          "自動",
+          "動",
+          "扉"
+        ]
+      },
+      "word": "自動扉"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7ca10c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "việc mở cửa ."
+        }
+      ],
+      "mobileId": 110125,
+      "phonetic": "かいひ",
+      "related_words": {
+        "word": [
+          "扉"
+        ]
+      },
+      "word": "開扉"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77d1142a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trapdoor, trap door"
+        }
+      ],
+      "mobileId": 271240,
+      "phonetic": "しかけとびら",
+      "word": "仕掛け扉"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "_id": "e54577117760bd3f413fad561e055659",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "thành công, công đức"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "thành tích, kinh nghiệm tích lũy"
+        }
+      ],
+      "mobileId": 248179,
+      "opposite_word": [
+        "罪"
+      ],
+      "phonetic": "こう",
+      "word": "功"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd68b6d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thành tựu to lớn, kỳ công vẻ vang của người đã mất để lại"
+        }
+      ],
+      "mobileId": 13136,
+      "phonetic": "のこいさお",
+      "word": "遺功"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776a70c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "amount of work, extent of labor (involved in ..., accomplished, etc.)"
+        }
+      ],
+      "mobileId": 267899,
+      "phonetic": "こうてい",
+      "word": "功程"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde7c79a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thành vấn đề được thu nhận xuyên qua sự huấn luyện cứng; những chiến công (của) thực hành"
+        }
+      ],
+      "mobileId": 76155,
+      "phonetic": "ねりこう",
+      "word": "練功"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a2f1897",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Hiệu lực đặc biệt ."
+        }
+      ],
+      "mobileId": 171154,
+      "phonetic": "とっこう",
+      "word": "特功"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d74e4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hiệu quả tức thời"
+        }
+      ],
+      "mobileId": 62983,
+      "phonetic": "そくいさお",
+      "word": "即功"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cded57af",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xứng đáng chứng nhượng"
+        }
+      ],
+      "mobileId": 76325,
+      "phonetic": "ろうこう",
+      "related_words": {
+        "word": [
+          "労"
+        ]
+      },
+      "word": "労功"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f8deb9e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vũ công ."
+        }
+      ],
+      "mobileId": 187218,
+      "phonetic": "ぶこう",
+      "word": "武功"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cded5b79",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-na",
+          "mean": "trải qua; lão luyện; có tay nghề cao"
+        }
+      ],
+      "mobileId": 76326,
+      "phonetic": "ろうこう",
+      "synsets": [
+        {
+          "base_form": "老功",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "慣れた",
+                "達者"
+              ]
+            }
+          ],
+          "pos": "adjective"
+        }
+      ],
+      "word": "老功"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da2672e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phân biệt service(s)"
+        }
+      ],
+      "mobileId": 150881,
+      "phonetic": "ことこう",
+      "word": "殊功"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

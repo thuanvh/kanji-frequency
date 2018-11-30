@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a7111a",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "アジアには、蝗を食べる人たちもいる",
+              "mean": "ở Châu Á có người ăn châu chấu",
+              "transcription": "アジアには、いなごをたべるひとたちもいる"
+            },
+            {
+              "content": "蝗の数は夏になると劇的に急増する",
+              "mean": "Cứ mùa hè đến, số lượng châu chấu lại tăng nhanh một cách đột biến .",
+              "transcription": "いなごのかずはなつになるとげきてきにきゅうぞうする"
+            }
+          ],
+          "kind": "n",
+          "mean": "châu chấu"
+        }
+      ],
+      "mobileId": 32031,
+      "phonetic": "いなご",
+      "word": "蝗"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a71463",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Con châu chấu ."
+        }
+      ],
+      "mobileId": 32032,
+      "phonetic": "ばった",
+      "word": "蝗虫"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a36ab81",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "male Oriental longheaded locust (Acrida cinerea)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Gonista bicolor (species of grasshopper resembling the Oriental longheaded locust)"
+        }
+      ],
+      "mobileId": 225165,
+      "phonetic": "きちきちばった キチキチバッタ",
+      "word": "きちきち蝗虫"
+    },
+    {
+      "_id": "432518852de0a80625d585a98262aef6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "migratory locust (Locusta migratoria)"
+        }
+      ],
+      "mobileId": 234757,
+      "phonetic": "とのさまばった トノサマバッタ",
+      "word": "殿様蝗虫"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de34a48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rice grasshopper"
+        }
+      ],
+      "mobileId": 222471,
+      "phonetic": "はねながいなご",
+      "word": "羽長蝗"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77292d8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "groundhopper (esp. species Tetrix japonica)"
+        }
+      ],
+      "mobileId": 265797,
+      "phonetic": "ひしばった ヒシバッタ",
+      "word": "菱蝗虫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

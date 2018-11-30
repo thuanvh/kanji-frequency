@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8f3705",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "khối u, u, bướu"
+        }
+      ],
+      "mobileId": 150273,
+      "phonetic": "しゅ",
+      "related_words": {
+        "word": [
+          "腫瘍",
+          "悪性腫瘍",
+          "腫れる",
+          "腫れ",
+          "浮腫",
+          "腫脹",
+          "麦粒腫",
+          "浮腫む"
+        ]
+      },
+      "word": "腫"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09c7f89",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ganglion"
+        }
+      ],
+      "mobileId": 285954,
+      "phonetic": "けっせつしゅ",
+      "word": "結節腫"
+    },
+    {
+      "_id": "432518852de0a80625d585a98205c433",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "granuloma"
+        }
+      ],
+      "mobileId": 231825,
+      "phonetic": "にくがしゅ にくげしゅ",
+      "word": "肉芽腫"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da60320",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự phồng ra, sự sưng lên, sự tấy lên, nước sông lên to"
+        }
+      ],
+      "mobileId": 150993,
+      "phonetic": "しゅだい",
+      "related_words": {
+        "word": [
+          "大",
+          "腫"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "腫大",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "おでき",
+                "こぶ",
+                "たんこぶ",
+                "隆起",
+                "瘤",
+                "腫脹"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "腫大"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7769da09",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "neuroma"
+        }
+      ],
+      "mobileId": 267882,
+      "phonetic": "しんけいしゅ",
+      "word": "神経腫"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802763eddf",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "持続性の脾腫",
+              "mean": "sưng lá lách mãn tính .",
+              "transcription": "じぞくせいの脾腫"
+            }
+          ],
+          "kind": "n",
+          "mean": "lá lách sưng phù"
+        }
+      ],
+      "mobileId": 30776,
+      "phonetic": "ひしゅ",
+      "related_words": {
+        "word": [
+          "腫"
+        ]
+      },
+      "word": "脾腫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776b2c71",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xanthoma"
+        }
+      ],
+      "mobileId": 267921,
+      "phonetic": "おうしょくしゅ",
+      "word": "黄色腫"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c779f7053",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chondroma"
+        }
+      ],
+      "mobileId": 269616,
+      "phonetic": "なんこつしゅ",
+      "word": "軟骨腫"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a95967a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ranula"
+        }
+      ],
+      "mobileId": 259158,
+      "phonetic": "がましゅ",
+      "word": "蝦蟇腫"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d3fda7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khối u độc, khối u ác tính"
+        }
+      ],
+      "mobileId": 40291,
+      "phonetic": "こくしょくしゅ",
+      "related_words": {
+        "word": [
+          "黒",
+          "色",
+          "黒色",
+          "腫"
+        ]
+      },
+      "word": "黒色腫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

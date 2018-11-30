@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada62f92d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "旧市街地区",
+              "mean": "khu vực phố cổ",
+              "transcription": "きゅうしがいちく"
+            },
+            {
+              "content": "経済特（別）区(中国内の)",
+              "mean": "đặc khu kinh tế (của Trung Quốc)",
+              "transcription": "けいざいとく（べつ）く(ちゅうごくないの)"
+            },
+            {
+              "content": "担当区(警察官の)",
+              "mean": "khu vực phụ trách (của cảnh sát)",
+              "transcription": "たんとうく(けいさつかんの)"
+            },
+            {
+              "content": "選挙（区）",
+              "mean": "hạt bầu cử .",
+              "transcription": "せんきょ（く）"
+            }
+          ],
+          "kind": "n",
+          "mean": "khu; khu vực; quận; hạt"
+        }
+      ],
+      "mobileId": 78610,
+      "phonetic": "く",
+      "related_words": {
+        "word": [
+          "区分",
+          "区別",
+          "区切り",
+          "区間",
+          "地区",
+          "区役所",
+          "区画",
+          "区域",
+          "区切る",
+          "区分け"
+        ]
+      },
+      "word": "区"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d22ddc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khu bảo tồn (động vật hoang dã ...)"
+        }
+      ],
+      "mobileId": 6706,
+      "phonetic": "ほごく",
+      "word": "保護区"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0b138e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "south district"
+        }
+      ],
+      "mobileId": 248347,
+      "phonetic": "みなみく",
+      "word": "南区"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a15912",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khu"
+        }
+      ],
+      "mobileId": 5116,
+      "phonetic": "ぶんく",
+      "related_words": {
+        "word": [
+          "分",
+          "区"
+        ]
+      },
+      "word": "分区"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027713ed4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "中国の自治区",
+              "mean": "khu vực tự trị của Trung Quốc",
+              "transcription": "ちゅうごくのじちく"
+            },
+            {
+              "content": "パレスチナ自治区",
+              "mean": "khu vực tự trị của người Palestin",
+              "transcription": "パレスチナじちく"
+            },
+            {
+              "content": "自治区での軍事活動を中止する",
+              "mean": "dừng các hoạt động quân sự ở khu vực tự trị",
+              "transcription": "じちくでのぐんじかつどうをちゅうしする"
+            },
+            {
+              "content": "その自治区からの撤退",
+              "mean": "thoát ra từ khu vực tự trị .",
+              "transcription": "そのじちくからのてったい"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "khu vực tự trị"
+        }
+      ],
+      "mobileId": 31019,
+      "phonetic": "じちく",
+      "word": "自治区"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e895430a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gần gũi tranh đua cử tri"
+        }
+      ],
+      "mobileId": 38278,
+      "phonetic": "げきせんく",
+      "word": "激戦区"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e82ffa02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khu cấm câu cá; khu bảo tồn động vât biển"
+        }
+      ],
+      "mobileId": 35029,
+      "phonetic": "きんぎょく",
+      "word": "禁漁区"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b550806",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "delimiter"
+        }
+      ],
+      "mobileId": 242555,
+      "phonetic": "くきりし",
+      "word": "区きり子"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d57f8d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giáo khu"
+        }
+      ],
+      "mobileId": 148530,
+      "phonetic": "しきょうく",
+      "word": "司教区"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d8a985a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhà ga (của) những chất dẫn (dây dẫn) (văn phòng)"
+        }
+      ],
+      "mobileId": 150127,
+      "phonetic": "しゃしょうく",
+      "word": "車掌区"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027f8adea",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "原子説",
+              "mean": "thuyết nguyên tử .",
+              "transcription": "げんしせつ"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "thuyết"
+        }
+      ],
+      "mobileId": 33341,
+      "phonetic": "せつ",
+      "related_words": {
+        "word": [
+          "説明",
+          "説明書",
+          "伝説",
+          "取扱説明書",
+          "説明する",
+          "解説",
+          "小説",
+          "取り扱い説明書",
+          "取説",
+          "仮説"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "説",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "セオリー",
+                "理窟",
+                "理屈",
+                "理論"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "セオリー",
+                "学説",
+                "定理",
+                "原理",
+                "体系",
+                "公理",
+                "理論"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "説"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1932e264c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tiếng đồn (của) sự hòa tan"
+        }
+      ],
+      "mobileId": 19396,
+      "phonetic": "かいさんせつ",
+      "word": "解散説"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afbc6c5",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "lý thuyết âm mưu"
+        }
+      ],
+      "mobileId": 231500,
+      "phonetic": "いんぼうせつ",
+      "word": "陰謀説"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ad33ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự nói bóng gió, sự ám chỉ, lời ám chỉ"
+        }
+      ],
+      "mobileId": 23407,
+      "phonetic": "せきせつ",
+      "word": "関説"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ae2137",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giải thích rõ ràng và khuyến khích; khuyên răn"
+        }
+      ],
+      "mobileId": 23439,
+      "phonetic": "すすむせつ",
+      "related_words": {
+        "word": [
+          "説"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "勧説",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "切言",
+                "説諭",
+                "説得"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "勧説"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda78636",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tiền định, sự định trước số phận, sự định trước vận mệnh, số phận, vận mệnh"
+        }
+      ],
+      "mobileId": 74157,
+      "phonetic": "よていせつ",
+      "related_words": {
+        "word": [
+          "予定",
+          "説"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "予定説",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "先決",
+                "宿命"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "予定説"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9aa9444",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "misdirected claim, incomprehensible idea"
+        }
+      ],
+      "mobileId": 278152,
+      "phonetic": "めいせつ",
+      "word": "迷説"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d6512e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quan điểm cá nhân"
+        }
+      ],
+      "mobileId": 148944,
+      "phonetic": "わたしせつ",
+      "word": "私説"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d65192f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giáo viên có lý thuyết"
+        }
+      ],
+      "mobileId": 148945,
+      "phonetic": "しせつ",
+      "related_words": {
+        "word": [
+          "師",
+          "説"
+        ]
+      },
+      "word": "師説"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e8b576",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ảo tưởng; sai báo cáo"
+        }
+      ],
+      "mobileId": 7412,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "説"
+        ]
+      },
+      "word": "妄説"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,456 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b2d748",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bề phải"
+        },
+        {
+          "examples": [
+            {
+              "content": "表を飾る",
+              "mean": "trang trí bên ngoài",
+              "transcription": "ひょうをかざる"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái biểu hiện bên ngoài"
+        },
+        {
+          "examples": [
+            {
+              "content": "どういう意味？どっちが表？",
+              "mean": "điều đó có nghĩa là gì? Mặt nào là mặt chính?",
+              "transcription": "どういういみ？どっちがひょう？"
+            }
+          ],
+          "kind": "n",
+          "mean": "cửa trước; cửa chính; phòng khách phía trước; bảng; biểu đồ"
+        },
+        {
+          "examples": [
+            {
+              "content": "表で人の声がする",
+              "mean": "bên ngoài có người nói",
+              "transcription": "ひょうでひとのこえがする"
+            }
+          ],
+          "kind": "n",
+          "mean": "ngoài; phía ngoài; ngoài nhà"
+        },
+        {
+          "examples": [
+            {
+              "content": "紙の表と裏",
+              "mean": "hai mặt của tờ giấy",
+              "transcription": "かみのひょうとうら"
+            }
+          ],
+          "kind": "n",
+          "mean": "vỏ; bên ngoài; mặt ngoài"
+        }
+      ],
+      "mobileId": 32236,
+      "opposite_word": [
+        "奥",
+        "裏"
+      ],
+      "phonetic": "おもて",
+      "related_words": {
+        "word": [
+          "表示",
+          "発表",
+          "表現",
+          "代表",
+          "表紙",
+          "表記",
+          "代表者",
+          "正規表現",
+          "貸借対照表",
+          "表面"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "表",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "テーブル",
+                "時刻表",
+                "リスト",
+                "チャート",
+                "一覧表",
+                "早見"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一覧",
+                "名鑑",
+                "名簿",
+                "カタログ",
+                "目録",
+                "リスト",
+                "一覧表"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "上面",
+                "うわべ",
+                "上辺",
+                "表側",
+                "表面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "表側",
+                "表面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "面目",
+                "点前",
+                "顔",
+                "顔面",
+                "立前",
+                "面子",
+                "建て前"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "面",
+                "上面",
+                "うわべ",
+                "外面",
+                "上側",
+                "上辺",
+                "外",
+                "表面",
+                "上っ面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "前面",
+                "正面",
+                "前部",
+                "表側",
+                "フロント",
+                "前"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "露天",
+                "野外",
+                "戸外"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "外面",
+                "表層",
+                "表面"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "表"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b2e4e4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "これは、ベトナムの主用農産物の生産量を表した表です。",
+              "mean": "Đây là một bảng biểu diễn sản lượng các loại nông sản chính ở Việt Nam.",
+              "transcription": "これは、ベトナムのしゅようのうさんぶつのせいさんりょうをあらわしたひょうです。"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "biểu; bảng; bảng biểu"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "phiếu ."
+        }
+      ],
+      "mobileId": 32237,
+      "opposite_word": [
+        "奥",
+        "裏"
+      ],
+      "phonetic": "ひょう",
+      "related_words": {
+        "word": [
+          "表示",
+          "発表",
+          "表現",
+          "代表",
+          "表紙",
+          "表記",
+          "代表者",
+          "正規表現",
+          "貸借対照表",
+          "表面"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "表",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "テーブル",
+                "時刻表",
+                "リスト",
+                "チャート",
+                "一覧表",
+                "早見"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一覧",
+                "名鑑",
+                "名簿",
+                "カタログ",
+                "目録",
+                "リスト",
+                "一覧表"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "上面",
+                "うわべ",
+                "上辺",
+                "表側",
+                "表面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "表側",
+                "表面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "面目",
+                "点前",
+                "顔",
+                "顔面",
+                "立前",
+                "面子",
+                "建て前"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "面",
+                "上面",
+                "うわべ",
+                "外面",
+                "上側",
+                "上辺",
+                "外",
+                "表面",
+                "上っ面"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "前面",
+                "正面",
+                "前部",
+                "表側",
+                "フロント",
+                "前"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "露天",
+                "野外",
+                "戸外"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "外面",
+                "表層",
+                "表面"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "表"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6869d3c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một chất lượng; sự bao phủ tatami"
+        }
+      ],
+      "mobileId": 3362,
+      "phonetic": "びんごひょう",
+      "related_words": {
+        "word": [
+          "後",
+          "表"
+        ]
+      },
+      "word": "備後表"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685f6dff",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "bên trong một bảng hoặc danh sách"
+        }
+      ],
+      "mobileId": 3049,
+      "phonetic": "ひょうない",
+      "word": "表内"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193191d7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hướng vào (trên (về) phong bì, etc.)"
+        }
+      ],
+      "mobileId": 18720,
+      "phonetic": "ひょうしょ",
+      "word": "表書"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193198114",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khu vực tiếp giáp Thái bình dương của Nhật"
+        }
+      ],
+      "mobileId": 18735,
+      "phonetic": "おもてにっぽん",
+      "related_words": {
+        "word": [
+          "日",
+          "本",
+          "日本",
+          "表"
+        ]
+      },
+      "word": "表日本"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5009ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xuất hiện; đi vào tầm nhìn; trở nên rõ ràng; xuất hiện, bộc lộ"
+        }
+      ],
+      "mobileId": 12344,
+      "phonetic": "ひょうわれる",
+      "word": "表われる"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d62b80",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "số đen"
+        }
+      ],
+      "mobileId": 40362,
+      "phonetic": "くろひょう",
+      "related_words": {
+        "word": [
+          "黒",
+          "表"
+        ]
+      },
+      "word": "黒表"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca042212d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "work schedule, progress schedule, process chart"
+        }
+      ],
+      "mobileId": 283087,
+      "phonetic": "こうていひょう",
+      "related_words": {
+        "word": [
+          "表",
+          "工程",
+          "程"
+        ]
+      },
+      "word": "工程表"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0649ab9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eye chart, eyesight test chart, visual acuity chart"
+        }
+      ],
+      "mobileId": 284186,
+      "phonetic": "しりょくひょう",
+      "word": "視力表"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

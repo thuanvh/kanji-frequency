@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a948a7de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "freshly pickled vegetables"
+        }
+      ],
+      "mobileId": 258615,
+      "phonetic": "しんづけ",
+      "word": "新漬"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19364379f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(cá hoặc rau) dầm giấm"
+        }
+      ],
+      "mobileId": 21108,
+      "phonetic": "",
+      "word": "糟漬"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0de438e3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "nhúng chìm xuống; ngâm nước; ngấm nước"
+        }
+      ],
+      "mobileId": 153034,
+      "phonetic": "",
+      "word": "浸漬"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77672461",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "salt pickling of a turnip or daikon, incl. leaves and stalk"
+        }
+      ],
+      "mobileId": 267792,
+      "phonetic": "くきづけ",
+      "word": "茎漬"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0130c12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vi",
+          "mean": "to be immersed"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to be pickled"
+        }
+      ],
+      "mobileId": 189762,
+      "phonetic": "つく",
+      "word": "漬く"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1071837af",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "白菜の　〜",
+              "mean": "muối dưa cải thảo .",
+              "transcription": "はくさいの〜"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự muối dưa; sự để cổ phiếu lâu không bán đi trong một thời gian dài vì giá thấp"
+        }
+      ],
+      "mobileId": 52267,
+      "phonetic": "しおづけ",
+      "word": "塩漬"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95fe505e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dầm giấm daikon (củ cải)"
+        }
+      ],
+      "mobileId": 64237,
+      "phonetic": "",
+      "word": "沢庵漬"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a908b897",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "woodland bittercress (Cardamine flexuosa), wavy bittercress"
+        }
+      ],
+      "mobileId": 256597,
+      "phonetic": "たねつけばな タネツケバナ",
+      "word": "種漬花"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

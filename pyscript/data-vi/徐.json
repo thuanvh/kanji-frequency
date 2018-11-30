@@ -1,0 +1,231 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74224199",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dần dần ."
+        }
+      ],
+      "mobileId": 97947,
+      "phonetic": "そろそろ",
+      "synsets": [
+        {
+          "base_form": "徐徐",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ぐずぐず",
+                "徐々に",
+                "のろのろ",
+                "徐徐に",
+                "のそのそ",
+                "ゆっくり",
+                "徐ろに",
+                "じんわり",
+                "徐々"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ぐんぐん",
+                "徐々に",
+                "どんどん",
+                "絶えず",
+                "着着",
+                "徐徐に",
+                "確り",
+                "徐々",
+                "聢り"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "少しずつ",
+                "次第に",
+                "徐々に",
+                "ぼつぼつ",
+                "ぼちぼち",
+                "漸く",
+                "徐徐に",
+                "段段",
+                "ジワジワ",
+                "ゆっくり",
+                "じんわり",
+                "漸次",
+                "徐々",
+                "ぽつぽつ"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "徐徐"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953b253f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, adv-to, adj-no",
+          "mean": "dần dần; đều đều; yên lặng; chậm chạp; sớm"
+        }
+      ],
+      "mobileId": 57960,
+      "phonetic": "じょ々",
+      "related_words": {
+        "word": [
+          "徐々に"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "徐々",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ぐずぐず",
+                "徐々に",
+                "のろのろ",
+                "徐徐",
+                "徐徐に",
+                "のそのそ",
+                "ゆっくり",
+                "徐ろに",
+                "じんわり"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ぐんぐん",
+                "徐々に",
+                "どんどん",
+                "絶えず",
+                "徐徐",
+                "着着",
+                "徐徐に",
+                "確り",
+                "聢り"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "少しずつ",
+                "次第に",
+                "徐々に",
+                "ぼつぼつ",
+                "ぼちぼち",
+                "漸く",
+                "徐徐",
+                "徐徐に",
+                "段段",
+                "ジワジワ",
+                "ゆっくり",
+                "じんわり",
+                "漸次",
+                "ぽつぽつ"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "徐々"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74224daf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự đi bộ chầm chậm; sự tản bộ ."
+        }
+      ],
+      "mobileId": 97949,
+      "phonetic": "じょほ",
+      "related_words": {
+        "word": [
+          "歩"
+        ]
+      },
+      "word": "徐歩"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953ccb8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "tình trạng nhịp mạch giảm (dưới 60 nhịp / phút)"
+        }
+      ],
+      "mobileId": 58019,
+      "phonetic": "じょみゃく",
+      "word": "徐脈"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931a0357",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "chậm, chầm chậm"
+        },
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "nhẹ nhàng, êm ái, dịu dàng, chầm chậm"
+        }
+      ],
+      "mobileId": 18754,
+      "phonetic": "じょろに",
+      "related_words": {
+        "word": [
+          "に"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "徐ろに",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ぐずぐず",
+                "徐々に",
+                "のろのろ",
+                "徐徐",
+                "徐徐に",
+                "のそのそ",
+                "ゆっくり",
+                "じんわり",
+                "徐々"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "そっと",
+                "しっとりと",
+                "優しく"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "徐ろに"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

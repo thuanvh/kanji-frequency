@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f744894",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ống nước ."
+        }
+      ],
+      "mobileId": 186851,
+      "phonetic": "とい",
+      "synsets": [
+        {
+          "base_form": "樋",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "側溝",
+                "溝"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "樋"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8492e82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "buộc (xích) (của) những cúp để trang trí treo từ một ống máng"
+        }
+      ],
+      "mobileId": 35846,
+      "phonetic": "くさりとい",
+      "word": "鎖樋"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e0226e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rain gutter, roof gutter, eaves gutter"
+        }
+      ],
+      "mobileId": 248073,
+      "phonetic": "のきどい",
+      "word": "軒樋"
+    },
+    {
+      "_id": "edf7f33f53832e93b36c90d5fd1225cb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "たてどい",
+              "mean": "",
+              "transcription": null
+            }
+          ],
+          "kind": "",
+          "mean": "Máng xối"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "竪樋"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e022fc3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "downpipe, drainspout, water pipe"
+        }
+      ],
+      "mobileId": 248074,
+      "phonetic": "たてどい",
+      "word": "縦樋"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9787865",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "elbow, gooseneck, rainspout"
+        }
+      ],
+      "mobileId": 260149,
+      "phonetic": "よびどい",
+      "word": "呼び樋"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687e134b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bao trùm rãnh"
+        }
+      ],
+      "mobileId": 4007,
+      "phonetic": "ふせとい",
+      "related_words": {
+        "word": [
+          "樋",
+          "伏せ",
+          "伏"
+        ]
+      },
+      "word": "伏せ樋"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687e17e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bao trùm rãnh"
+        }
+      ],
+      "mobileId": 4008,
+      "phonetic": "ふくとい",
+      "related_words": {
+        "word": [
+          "樋",
+          "伏"
+        ]
+      },
+      "word": "伏樋"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd482e02",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "máng nước, ống máng, máng xối hứng nước mưa (dưới mái nhà)"
+        }
+      ],
+      "mobileId": 12094,
+      "phonetic": "あめとい",
+      "word": "雨樋"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9849e60",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toilet"
+        }
+      ],
+      "mobileId": 276964,
+      "phonetic": "ひどの",
+      "word": "樋殿"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

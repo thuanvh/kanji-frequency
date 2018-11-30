@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd8e1de6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây thanh yên (tiếng nhật) (quả kiểu giống cam quít)"
+        }
+      ],
+      "mobileId": 73328,
+      "phonetic": "ゆず",
+      "related_words": {
+        "word": [
+          "柚子"
+        ]
+      },
+      "word": "柚"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00b2096",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miso with sugar, sake, yuzu juice and skin"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hollowed out yuzu stuffed with miso and yuzu juice then baked"
+        }
+      ],
+      "mobileId": 281322,
+      "phonetic": "ゆずみそ ゆみそ",
+      "word": "柚味噌"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e449b3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "suf",
+          "mean": "citrus-grilled"
+        }
+      ],
+      "mobileId": 271872,
+      "phonetic": "ゆうがやき",
+      "word": "柚香焼"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a992300",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "swallowtail butterfly larva (a pest of citrus plants)"
+        }
+      ],
+      "mobileId": 228293,
+      "phonetic": "ゆずぼう",
+      "word": "柚坊"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77e43cb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese aster (Kalimeris pinnatifida), false aster"
+        }
+      ],
+      "mobileId": 271871,
+      "phonetic": "ゆうがぎく",
+      "word": "柚香菊"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d99c3c7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Quả bưởi"
+        }
+      ],
+      "mobileId": 220042,
+      "phonetic": "ばんぺいゆ バンペイユ",
+      "word": "晩白柚"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776820f5",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "bánh bao hấp có vị ngọt"
+        }
+      ],
+      "mobileId": 267823,
+      "phonetic": "ゆべし",
+      "word": "柚餅子"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

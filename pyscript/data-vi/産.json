@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8a44a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(giving) birth, childbirth, delivery, confinement"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "native of, product of"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "assets, property, fortune"
+        }
+      ],
+      "mobileId": 219546,
+      "phonetic": "さん",
+      "word": "産"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0129087",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vs-s, vi, vt",
+          "mean": "to bear (a child), to be born"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to produce, to yield, to be produced, to be yielded"
+        }
+      ],
+      "mobileId": 189744,
+      "phonetic": "さんする",
+      "related_words": {
+        "word": [
+          "する"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "産する",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "造る",
+                "作る",
+                "作り出す"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "作る",
+                "作り出す",
+                "育てる",
+                "培う"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "生む",
+                "造る",
+                "生ずる",
+                "生じる",
+                "作る",
+                "作り出す",
+                "産む"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "生み落す",
+                "生む",
+                "産む",
+                "生み出す"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "生む",
+                "生じる",
+                "作る",
+                "作り出す",
+                "産む",
+                "生み出す"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "産する"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9a07292",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "guardian deity of pregnant women, newborn babies and one's birthplace"
+        }
+      ],
+      "mobileId": 277852,
+      "phonetic": "うぶがみ",
+      "word": "産神"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0ecaa0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "parity, having borne children"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "parous"
+        }
+      ],
+      "mobileId": 215569,
+      "phonetic": "けいさん",
+      "word": "経産"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3ca889",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n, vs",
+          "mean": "sản xuất"
+        }
+      ],
+      "mobileId": 225352,
+      "phonetic": "さんせい",
+      "word": "産生"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05660de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "freshwater, limnetic"
+        }
+      ],
+      "mobileId": 283739,
+      "phonetic": "たんすいさん",
+      "word": "淡水産"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdbd6fcd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sản phẩm địa phương, thổ sản"
+        }
+      ],
+      "mobileId": 74857,
+      "phonetic": "くがさん",
+      "word": "陸産"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada0c0b20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Sản xuất trong nước ."
+        }
+      ],
+      "mobileId": 77081,
+      "phonetic": "ないこくさん",
+      "related_words": {
+        "word": [
+          "国",
+          "国産"
+        ]
+      },
+      "word": "内国産"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d3e5fb0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nỗ lực những sự đau"
+        }
+      ],
+      "mobileId": 147716,
+      "phonetic": "さんつう",
+      "word": "産痛"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68b78c78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự sản xuất gạo; hàng hóa được sản xuất ở Mỹ"
+        }
+      ],
+      "mobileId": 5869,
+      "phonetic": "べいさん",
+      "word": "米産"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

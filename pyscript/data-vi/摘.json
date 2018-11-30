@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e6adf82",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Thụt hậu môn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "てきべん",
+      "word": "摘便"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74d2e4e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tỉa bớt (chồi, cành) ."
+        }
+      ],
+      "mobileId": 100604,
+      "phonetic": "てきしん",
+      "word": "摘芯"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e7e6a44",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự cuốc ((sự) thu hoạch(sự) mổ thóc; cạy (tủ, khóa);; nhổ lên trên"
+        }
+      ],
+      "mobileId": 115054,
+      "phonetic": "",
+      "word": "摘取"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a816707",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "bóng cá, bánh bao cá"
+        }
+      ],
+      "mobileId": 227528,
+      "phonetic": "つみれ",
+      "word": "摘入"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9574211d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự thiến, sự cắt xén đoạn dở, sự cắt xén đoạn thừa"
+        }
+      ],
+      "mobileId": 59783,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "性",
+          "腺"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "性腺摘除",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "去勢"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "性腺摘除"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

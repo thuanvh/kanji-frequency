@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a8e051",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "châm"
+        },
+        {
+          "examples": [
+            {
+              "content": "針を含んだ言葉",
+              "mean": "Những lời nói mỉa mai cay độc./ lời nói như châm kim/ miệng lưỡi có gai",
+              "transcription": "はりをふくんだことば"
+            },
+            {
+              "content": "毎日姑にいびられる若い嫁は針のむしろに座る思いだった.",
+              "mean": "Người con dâu trẻ bị mẹ chồng nạt hằng ngày có cảm giác như đang ngồi trên tấm chiếu đầy kim .",
+              "transcription": "まいにちしゅうとにいびられるわかいよめははりのむしろにすわるおもいだった."
+            }
+          ],
+          "kind": "n",
+          "mean": "kim; đinh ghim"
+        }
+      ],
+      "mobileId": 109551,
+      "phonetic": "はり",
+      "related_words": {
+        "word": [
+          "方針",
+          "指針",
+          "羅針盤",
+          "針金",
+          "秒針",
+          "避雷針",
+          "検針",
+          "方針決定",
+          "釣り針",
+          "針鼠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "針",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ニードル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "指針"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "針"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953c58e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tĩnh học nạp bộ lọc"
+        }
+      ],
+      "mobileId": 58005,
+      "phonetic": "じょでんはり",
+      "word": "除電針"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0928077",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "probe"
+        }
+      ],
+      "mobileId": 211551,
+      "phonetic": "たんしん",
+      "word": "探針"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a91399",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "pháp châm cứu ."
+        }
+      ],
+      "mobileId": 109556,
+      "phonetic": "しんきゅう",
+      "word": "針灸"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6680e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "staple (for a stapler)"
+        }
+      ],
+      "mobileId": 218392,
+      "phonetic": "ホッチキスはり ホチキスはり",
+      "word": "ホッチキス針"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e39d41d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "circular needle (knitting)"
+        }
+      ],
+      "mobileId": 249873,
+      "phonetic": "りんばり",
+      "word": "輪針"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9fea32d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "heated acupuncture needle, hot acupuncture needle"
+        }
+      ],
+      "mobileId": 264419,
+      "phonetic": "ひばり",
+      "word": "火針"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada2802733d39d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kim khâu ."
+        }
+      ],
+      "mobileId": 29947,
+      "opposite_word": [
+        "まち針",
+        "待ち針"
+      ],
+      "phonetic": "ぬいばり",
+      "related_words": {
+        "word": [
+          "針",
+          "縫い"
+        ]
+      },
+      "word": "縫い針"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aedf31f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "storehousebush (Cudrania tricuspidata), mandarin melon berry, silkworm thorn, cudrang"
+        }
+      ],
+      "mobileId": 231049,
+      "phonetic": "はりぐわ ハリグワ",
+      "word": "針桑"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6822c6ec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "hình kim"
+        },
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "nhọn, có đầu nhọn, châm chọc, chua cay, được nhấn mạnh; được làm nổi bật; được làm rõ ràng, được làm hiển nhiên"
+        }
+      ],
+      "mobileId": 1108,
+      "phonetic": "はりじょう",
+      "word": "針状"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

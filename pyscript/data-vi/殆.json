@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c080cd4c",
+      "means": [
+        {
+          "examples": [],
+          "kind": "adv",
+          "mean": "hoàn toàn, thực sự"
+        }
+      ],
+      "mobileId": 210987,
+      "phonetic": "ほとほと",
+      "word": "殆"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d9252c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hầu hết, phần lớn; thường là, chủ yếu là"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hầu, gần, suýt nữa, tí nữa"
+        }
+      ],
+      "mobileId": 6924,
+      "phonetic": "",
+      "word": "殆んど"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e364970",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "If you know your enemy and know yourself, in a hundred battles you will never be defeated"
+        }
+      ],
+      "mobileId": 249768,
+      "phonetic": "かれをしりおのれをしればひゃくせんあやうからず",
+      "word": "彼を知り己を知れば百戦殆からず"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

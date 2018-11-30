@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b34695",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Khoáng chất ."
+        }
+      ],
+      "mobileId": 109744,
+      "phonetic": "こうしつ",
+      "related_words": {
+        "word": [
+          "質"
+        ]
+      },
+      "word": "鉱質"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cde8c6da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một sự dẫn đào mỏ; dẫn dắt những tiền đặt"
+        }
+      ],
+      "mobileId": 17141,
+      "phonetic": "なまりこう",
+      "related_words": {
+        "word": [
+          "鉛"
+        ]
+      },
+      "word": "鉛鉱"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e395ec4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kaolin, China clay"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "magnetite"
+        }
+      ],
+      "mobileId": 249854,
+      "phonetic": "じこう",
+      "word": "磁鉱"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8aad5a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "khoáng hoá"
+        }
+      ],
+      "mobileId": 38950,
+      "phonetic": "こうか",
+      "word": "鉱化"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8bb7940",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xương sườn; cột"
+        }
+      ],
+      "mobileId": 39496,
+      "phonetic": "こうばしら",
+      "word": "鉱柱"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c3ce95",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "khoáng vật quan trọng"
+        }
+      ],
+      "mobileId": 39769,
+      "phonetic": "こうぶっしつ",
+      "word": "鉱物質"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c777dfd3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mine car, mine wagon"
+        }
+      ],
+      "mobileId": 268541,
+      "phonetic": "こうしゃ",
+      "word": "鉱車"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d2e8d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "quặng thô"
+        }
+      ],
+      "mobileId": 62835,
+      "phonetic": "そこう",
+      "word": "粗鉱"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6afa67",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "miner"
+        }
+      ],
+      "mobileId": 218531,
+      "phonetic": "こういん",
+      "word": "鉱員"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b192de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lổ khoan để thăm đò tìm khoáng sản"
+        }
+      ],
+      "mobileId": 39164,
+      "phonetic": "こうあな",
+      "word": "鉱坑"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

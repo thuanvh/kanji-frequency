@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed95cba5f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không khí băng giá"
+        }
+      ],
+      "mobileId": 62595,
+      "phonetic": "しもきり",
+      "related_words": {
+        "word": [
+          "霜"
+        ]
+      },
+      "word": "霜雰"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd3abf65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "không khí mù sương"
+        }
+      ],
+      "mobileId": 70660,
+      "phonetic": "きりきり",
+      "related_words": {
+        "word": [
+          "霧"
+        ]
+      },
+      "word": "霧雰"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

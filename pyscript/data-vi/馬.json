@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680130ce17",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mã"
+        },
+        {
+          "examples": [
+            {
+              "content": "馬に乗って花見をする",
+              "mean": "cưỡi ngựa xem hoa",
+              "transcription": "うまにのってはなみをする"
+            },
+            {
+              "content": "かんの強い馬",
+              "mean": "Chú ngựa dũng cảm",
+              "transcription": "かんのつよいうま"
+            },
+            {
+              "content": "（レースに）勝ちそうな馬",
+              "mean": "Con ngựa có vẻ sẽ thắng trong cuộc đua",
+              "transcription": "（レースに）かちそうなうま"
+            },
+            {
+              "content": "すべての美しい馬 (映画)",
+              "mean": "Tất cả những con ngựa đẹp (tên phim)",
+              "transcription": "すべてのうつくしいうま(えいが)"
+            },
+            {
+              "content": "やせた馬",
+              "mean": "Con ngựa gầy còm, ốm yếu",
+              "transcription": "やせたうま"
+            },
+            {
+              "content": "つまずかないのは良い馬",
+              "mean": "Đó là một con ngựa tốt, nó không bao giờ bị sẩy chân .",
+              "transcription": "つまずかないのはよいうま"
+            }
+          ],
+          "kind": "n",
+          "mean": "ngựa"
+        }
+      ],
+      "mobileId": 42583,
+      "phonetic": "うま",
+      "related_words": {
+        "word": [
+          "馬鹿",
+          "乗馬",
+          "馬鹿野郎",
+          "競馬",
+          "馬鹿にする",
+          "馬力",
+          "馬車",
+          "驢馬",
+          "馬鹿者",
+          "河馬"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "馬",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "馬匹"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "馬"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e1afb82",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Birds of a feather flock together"
+        }
+      ],
+      "mobileId": 248883,
+      "phonetic": "うまはうまづれ",
+      "word": "馬は馬連れ"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a4ebf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con ngựa kansai"
+        }
+      ],
+      "mobileId": 23156,
+      "phonetic": "かんさいば",
+      "word": "関西馬"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027fe9783",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "Sự huấn luyện ngựa ."
+        }
+      ],
+      "mobileId": 33448,
+      "phonetic": "ちょうば",
+      "word": "調馬"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0169b35",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chollima, winged horse of East Asian mythologies"
+        }
+      ],
+      "mobileId": 281684,
+      "phonetic": "チョンリマ",
+      "word": "千里馬"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd8a56d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mạnh mẽ) ứng cử viên; hy vọng (đầy hứa hẹn"
+        }
+      ],
+      "mobileId": 73195,
+      "phonetic": "ゆうりょくば",
+      "word": "有力馬"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a300e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngựa hoang ."
+        }
+      ],
+      "mobileId": 109483,
+      "phonetic": "のうま",
+      "word": "野馬"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef964c616",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "stall (i.e. in a stable)"
+        }
+      ],
+      "mobileId": 275946,
+      "phonetic": "ばぼう",
+      "word": "馬房"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d98b2f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Whitmania pigra (species of leech)"
+        }
+      ],
+      "mobileId": 279725,
+      "phonetic": "うまびる ウマビル",
+      "word": "馬蛭"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef98c138a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "native Japanese horse"
+        }
+      ],
+      "mobileId": 277197,
+      "phonetic": "にほんうま",
+      "word": "日本馬"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

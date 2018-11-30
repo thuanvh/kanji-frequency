@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ced6a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chứng nhượng; thành vấn đề"
+        }
+      ],
+      "mobileId": 24470,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "歌舞伎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "伎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "力量",
+                "手技",
+                "手腕",
+                "技能",
+                "技巧",
+                "技術",
+                "アビリティー",
+                "技芸",
+                "伎倆",
+                "力倆",
+                "腕前",
+                "技",
+                "技量",
+                "スキル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "伎"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8366dd7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kỹ thuật thành vấn đề; ability; khả năng"
+        }
+      ],
+      "mobileId": 35236,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "能",
+          "伎"
+        ]
+      },
+      "word": "伎能"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e834f2b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kỹ nữ"
+        }
+      ],
+      "mobileId": 35189,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "女",
+          "伎"
+        ]
+      },
+      "word": "伎女"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7c36db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Asian koel (Eudynamys scolopacea)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lesser cuckoo (Cuculus poliocephalus)"
+        }
+      ],
+      "mobileId": 227362,
+      "phonetic": "くきら",
+      "word": "倶伎羅"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

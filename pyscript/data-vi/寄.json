@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c9948e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "v5s",
+          "mean": "mang đến gần, đặt gần, cho đến gần"
+        }
+      ],
+      "mobileId": 213344,
+      "phonetic": "よす",
+      "word": "寄す"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae13a24",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1",
+          "mean": "to compare, to liken"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to use as a pretext"
+        }
+      ],
+      "mobileId": 230653,
+      "phonetic": "よそえる",
+      "word": "寄える"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193daf883",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ghé cảng; ghé sân bay; quá cảnh"
+        }
+      ],
+      "mobileId": 24845,
+      "opposite_word": [
+        "直航"
+      ],
+      "phonetic": "やどりきこう",
+      "word": "寄航"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193dc03b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "gửi từ gần"
+        }
+      ],
+      "mobileId": 24880,
+      "phonetic": "やどりきご",
+      "word": "寄語"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e08a9a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gửi một bức thư"
+        }
+      ],
+      "mobileId": 25017,
+      "phonetic": "やどりきしん",
+      "word": "寄信"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ee374d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5s, vt",
+          "mean": "tới sự tìm kiếm một lời xin lỗi"
+        }
+      ],
+      "mobileId": 41137,
+      "phonetic": "ことやどりきす",
+      "related_words": {
+        "word": [
+          "事"
+        ]
+      },
+      "word": "事寄す"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3ea6df7e",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Hàng hoá như giấy lau."
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "最寄品"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

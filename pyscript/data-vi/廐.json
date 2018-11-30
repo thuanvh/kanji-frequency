@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc57a81",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "kho thóc; ổn định"
+        }
+      ],
+      "mobileId": 16039,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "廐",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "馬小屋",
+                "廐舎",
+                "厩舎",
+                "厩"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "廐"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107f37100",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kho thóc; ổn định ."
+        }
+      ],
+      "mobileId": 55916,
+      "phonetic": "きゅうしゃ",
+      "related_words": {
+        "word": [
+          "舎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "廐舎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "廐",
+                "馬小屋",
+                "厩舎",
+                "厩"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "畜舎",
+                "厩舎"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "廐舎"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107f36381",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Phân bón; phân hữu cơ; phân chuồng ."
+        }
+      ],
+      "mobileId": 55915,
+      "phonetic": "きゅうひ",
+      "related_words": {
+        "word": [
+          "肥"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "廐肥",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "肥やし",
+                "肥料",
+                "肥",
+                "下肥",
+                "堆肥"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "廐肥"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

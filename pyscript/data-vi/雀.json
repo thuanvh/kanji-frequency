@@ -1,0 +1,194 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e572e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim sẻ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sẻ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "se sẽ ."
+        }
+      ],
+      "mobileId": 110546,
+      "phonetic": "すずめ",
+      "related_words": {
+        "word": [
+          "麻雀",
+          "雲雀",
+          "孔雀",
+          "雀蜂",
+          "雀斑"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "雀",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "黄雀"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "雀"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95135e8b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "jankyu (sự kết hợp (của) pinball và mahjong tiếng nhật)"
+        }
+      ],
+      "mobileId": 56731,
+      "phonetic": "すずめだま",
+      "word": "雀球"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00aebcd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sparrows flocking on ripening rice fields"
+        }
+      ],
+      "mobileId": 281316,
+      "phonetic": "いなすずめ",
+      "word": "稲雀"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c772671e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "skilled mahjong player"
+        }
+      ],
+      "mobileId": 265705,
+      "phonetic": "ジャンき",
+      "word": "雀鬼"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b4d3db",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chim sẻ"
+        }
+      ],
+      "mobileId": 39276,
+      "phonetic": "きすずめ",
+      "related_words": {
+        "word": [
+          "黄",
+          "雀"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "黄雀",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "雀"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "黄雀"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d1ab669",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mahjong tile"
+        }
+      ],
+      "mobileId": 215959,
+      "phonetic": "ジャンパイ",
+      "word": "雀牌"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a98d0bc6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pearl-spot chromis (Chromis notata, species of damselfish found in southern Japan, Ryukyu Islands, Taiwan, and China)"
+        }
+      ],
+      "mobileId": 260791,
+      "phonetic": "すずめだい スズメダイ",
+      "word": "雀鯛"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af3503d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hawk moth (any moth of family Sphingidae), hawkmoth, sphinx moth"
+        }
+      ],
+      "mobileId": 231220,
+      "phonetic": "すずめが スズメガ",
+      "word": "雀蛾"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca03d230f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "house sparrow (Passer domesticus)"
+        }
+      ],
+      "mobileId": 282932,
+      "phonetic": "いえすずめ イエスズメ",
+      "word": "家雀"
+    },
+    {
+      "_id": "432518852de0a80625d585a98239117c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "murrelet (esp. the ancient murrelet, Synthliboramphus antiquus)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "roundbelly cowfish (Lactoria diaphana)"
+        }
+      ],
+      "mobileId": 233428,
+      "phonetic": "うみすずめ ウミスズメ",
+      "word": "海雀"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

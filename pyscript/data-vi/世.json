@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d348dd0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thế giới; xã hội; tuổi; thế hệ ."
+        }
+      ],
+      "mobileId": 142273,
+      "phonetic": "よ",
+      "related_words": {
+        "word": [
+          "世界",
+          "お世話になります。",
+          "世話",
+          "世代",
+          "次世代",
+          "お世辞",
+          "中世",
+          "全世界",
+          "新世紀",
+          "救世主"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "世",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "世紀",
+                "時代",
+                "劃期"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "世"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6daca5f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "if times were better, if times had not changed"
+        }
+      ],
+      "mobileId": 220675,
+      "phonetic": "よがよなら",
+      "word": "世が世なら"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5df6d8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "afterlife, realm of the dead"
+        }
+      ],
+      "mobileId": 226408,
+      "phonetic": "かくりよ",
+      "word": "隠り世"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95684b55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những sự phát triển thế giới"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "political situation"
+        }
+      ],
+      "mobileId": 59427,
+      "phonetic": "よきょく",
+      "related_words": {
+        "word": [
+          "世",
+          "局"
+        ]
+      },
+      "word": "世局"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900eb39c32",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự tách biệt từ thế giới"
+        }
+      ],
+      "mobileId": 116787,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "世"
+        ]
+      },
+      "word": "遯世"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93fa7f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "worldly affairs, public affairs"
+        }
+      ],
+      "mobileId": 258327,
+      "phonetic": "せいむ せむ",
+      "word": "世務"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd38dd12",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tâng bốc; sự xu nịnh; sự bợ đỡ"
+        }
+      ],
+      "mobileId": 11607,
+      "phonetic": "おもねよ",
+      "word": "阿世"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da147a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "già đi (của) sự suy tàn (được nói (của) một dân tộc)"
+        }
+      ],
+      "mobileId": 150841,
+      "phonetic": "",
+      "word": "叔世"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193e1fe38",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự chết"
+        }
+      ],
+      "mobileId": 25073,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "世"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "棄世",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "死亡",
+                "没",
+                "死神",
+                "他界",
+                "昇天",
+                "不祝儀",
+                "不幸",
+                "薨去",
+                "先途",
+                "死去",
+                "逝去",
+                "卒去",
+                "絶命",
+                "入滅"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "死亡",
+                "没",
+                "死神",
+                "他界",
+                "昇天",
+                "不祝儀",
+                "不幸",
+                "薨去",
+                "先途",
+                "死",
+                "死去",
+                "逝去",
+                "卒去",
+                "最後",
+                "絶命",
+                "入滅"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "棄世"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95794660",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "phòng khánh tiết"
+        }
+      ],
+      "mobileId": 59957,
+      "phonetic": "よでん",
+      "word": "世伝"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

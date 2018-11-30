@@ -1,0 +1,212 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f9ccedc",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ラクダの毛",
+              "mean": "lông lạc đà",
+              "transcription": "ラクダのけ"
+            },
+            {
+              "content": "髪の毛",
+              "mean": "tóc .",
+              "transcription": "かみのけ"
+            }
+          ],
+          "kind": "n",
+          "mean": "lông; tóc"
+        }
+      ],
+      "mobileId": 187518,
+      "phonetic": "け",
+      "related_words": {
+        "word": [
+          "陰毛",
+          "髪の毛",
+          "毛皮",
+          "眉毛",
+          "腋毛",
+          "毛布",
+          "毛糸",
+          "毛虫",
+          "羽毛",
+          "三毛猫"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "毛",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "髪",
+                "髪の毛",
+                "頭髪",
+                "ヘア",
+                "毛髪"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "髪",
+                "一髪"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "絨毛",
+                "ウール",
+                "羊毛"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "髪の毛"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "毛"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68f5b522",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tóc quăn"
+        }
+      ],
+      "mobileId": 7833,
+      "phonetic": "まきけ",
+      "word": "巻毛"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939d9216",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "râu cảm giác"
+        }
+      ],
+      "mobileId": 22926,
+      "phonetic": "かんかくけ",
+      "word": "感覚毛"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a25871a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tips of one's hair, hair ends"
+        }
+      ],
+      "mobileId": 224626,
+      "phonetic": "けさき",
+      "related_words": {
+        "word": [
+          "先",
+          "毛"
+        ]
+      },
+      "word": "毛先"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a60f66a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flock, (bits of) down"
+        }
+      ],
+      "mobileId": 226489,
+      "phonetic": "けくず",
+      "word": "毛くず"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e884b913",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gọi chim ưng về bằng cách tung chim giả tung lên, nhử, nhử mồi, dỗ dành, quyến rũ"
+        }
+      ],
+      "mobileId": 37738,
+      "phonetic": "もうかぎ",
+      "word": "毛鈎"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd3c580b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "không có tóc, sói; không có lông"
+        }
+      ],
+      "mobileId": 70715,
+      "phonetic": "むけ",
+      "related_words": {
+        "word": [
+          "無",
+          "毛"
+        ]
+      },
+      "word": "無毛"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd528ee8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hàng hóa len"
+        }
+      ],
+      "mobileId": 71408,
+      "phonetic": "もうせいひん",
+      "word": "毛製品"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef990a6cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "frizzled hair, curly hair"
+        }
+      ],
+      "mobileId": 277351,
+      "phonetic": "しゅくもう",
+      "word": "縮毛"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d284b04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tóc (của) màu khác nhau trộn lẫn vào trong một áo choàng (của) động vật"
+        }
+      ],
+      "mobileId": 147003,
+      "phonetic": "さしけ",
+      "word": "差し毛"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

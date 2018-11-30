@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09b6e3f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "a little over, a little more than"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "powerhouse, one of the biggest, one of the most powerful"
+        }
+      ],
+      "mobileId": 211843,
+      "opposite_word": [
+        "弱"
+      ],
+      "phonetic": "きょう",
+      "related_words": {
+        "word": [
+          "勉強",
+          "強姦",
+          "強い",
+          "強さ",
+          "強化",
+          "勉強する",
+          "勉強中",
+          "最強",
+          "補強",
+          "強引"
+        ]
+      },
+      "word": "強"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c038304c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, adv, vs",
+          "mean": "stiff, starchy"
+        }
+      ],
+      "mobileId": 208643,
+      "phonetic": "ごわごわ",
+      "word": "強強"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8073abf",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "người kỳ cựu; nhà vô địch; người khoẻ mạnh cứng cáp"
+        }
+      ],
+      "mobileId": 33724,
+      "phonetic": "つよつよし",
+      "word": "強剛"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e81277b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "(giải phẫu) màng cứng mắt"
+        }
+      ],
+      "mobileId": 34084,
+      "phonetic": "つよまく",
+      "word": "強膜"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8fb5bd8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sức mạnh; sự vững chắc"
+        }
+      ],
+      "mobileId": 41565,
+      "phonetic": "つよしきょう",
+      "related_words": {
+        "word": [
+          "強"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "剛強",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "下渋り",
+                "恒心",
+                "不動",
+                "保ち合い"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "剛強"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7712de04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "final four (in a tournament)"
+        }
+      ],
+      "mobileId": 265064,
+      "phonetic": "よんきょう",
+      "word": "四強"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80aedca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự nhấn mạnh; điểm nhấn"
+        }
+      ],
+      "mobileId": 33842,
+      "phonetic": "つよぜい",
+      "related_words": {
+        "word": [
+          "強",
+          "勢"
+        ]
+      },
+      "word": "強勢"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0ac09d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "covering in salt"
+        }
+      ],
+      "mobileId": 286459,
+      "phonetic": "ごうじお ごうしお",
+      "word": "強塩"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74076cee",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "強さ〜に達する",
+              "mean": "Đạt đến một sức mạnh.",
+              "transcription": "つよさ〜にたっする"
+            },
+            {
+              "content": "経済的強さ",
+              "mean": "Sức mạnh mang tính kinh tế .",
+              "transcription": "けいざいてきつよさ"
+            }
+          ],
+          "kind": "n",
+          "mean": "sức mạnh"
+        }
+      ],
+      "mobileId": 97624,
+      "phonetic": "つよさ",
+      "related_words": {
+        "word": [
+          "強"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "強さ",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "力",
+                "勢",
+                "勢い"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "効能",
+                "効力"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "力"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "強さ"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d001cf8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tự hào; kiêu ngạo; kiêu ngạo"
+        }
+      ],
+      "mobileId": 145753,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "強"
+        ]
+      },
+      "word": "強慢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

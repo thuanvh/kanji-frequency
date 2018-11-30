@@ -1,0 +1,146 @@
+{
+  "data": [
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dda9218",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(1) đánh dấu;(2) ký hiệu;(3) bằng chứng"
+        }
+      ],
+      "mobileId": 152701,
+      "phonetic": "しめぎ",
+      "word": "標"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685f3063",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những ký pháp ở lề"
+        }
+      ],
+      "mobileId": 3042,
+      "phonetic": "",
+      "word": "標註"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8045d03",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mốc bờ, mốc ranh giới, giới hạn, mốc, bước ngoặc"
+        }
+      ],
+      "mobileId": 33619,
+      "phonetic": "きょうかいしるべ",
+      "word": "境界標"
+    },
+    {
+      "_id": "1deff59183d11869f4e26da7111d79f7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Thước dùng trong trắc địa"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "ひょうしゃく",
+      "word": "標尺"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685f4475",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đặc trưng; biểu tượng; (y học) triệu chứng"
+        }
+      ],
+      "mobileId": 3045,
+      "phonetic": "しめぎちょう",
+      "word": "標徴"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77a0f7f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "distance mark, milepost"
+        }
+      ],
+      "mobileId": 269668,
+      "phonetic": "きょりひょう",
+      "word": "距離標"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685e327f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "biểu tượng; phù hiệu; đánh dấu"
+        }
+      ],
+      "mobileId": 3005,
+      "phonetic": "しめぎあきら",
+      "related_words": {
+        "word": [
+          "章"
+        ]
+      },
+      "word": "標章"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdc41789",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cột kilômét cọc, sự kiện quan trọng, mốc lịch sử, giai đoạn quan trọng"
+        }
+      ],
+      "mobileId": 75072,
+      "phonetic": "りていしるべ",
+      "word": "里程標"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7ddc1862",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cột mốc số không ."
+        }
+      ],
+      "mobileId": 145203,
+      "phonetic": "げんぴょう",
+      "related_words": {
+        "word": [
+          "元"
+        ]
+      },
+      "word": "元標"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e752e6f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "characteristic (of a ring or field in algebra)"
+        }
+      ],
+      "mobileId": 251805,
+      "phonetic": "ひょうすう",
+      "word": "標数"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

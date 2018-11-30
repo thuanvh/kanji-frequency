@@ -1,0 +1,227 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d7b060f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-adv, n",
+          "mean": "bây giờ"
+        }
+      ],
+      "mobileId": 143552,
+      "opposite_word": [
+        "古",
+        "昔"
+      ],
+      "phonetic": "いま",
+      "related_words": {
+        "word": [
+          "今日は",
+          "今日",
+          "今後",
+          "今回",
+          "今度",
+          "今まで",
+          "今のところ",
+          "今年",
+          "今週",
+          "今日は!"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "今",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "唯今",
+                "只今",
+                "今方",
+                "ちょうど",
+                "丁度",
+                "今し方"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "今では",
+                "今や"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "丁度"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "差し当たり",
+                "今や",
+                "現在"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "今では"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "今"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd989c9f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "phải(đúng) bây giờ"
+        }
+      ],
+      "mobileId": 14627,
+      "phonetic": "こんいま",
+      "related_words": {
+        "word": [
+          "今"
+        ]
+      },
+      "word": "今今"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd98c32c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "đúng bây giờ"
+        }
+      ],
+      "mobileId": 14633,
+      "phonetic": "いまがいま",
+      "related_words": {
+        "word": [
+          "今"
+        ]
+      },
+      "word": "今が今"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd98cecf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "mãi cho đến bây giờ, mãi cho đến ngay lúc này"
+        }
+      ],
+      "mobileId": 14634,
+      "phonetic": "いまがいままで",
+      "word": "今が今まで"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dfeea24",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "từ giờ trở đi"
+        }
+      ],
+      "mobileId": 153874,
+      "phonetic": "",
+      "word": "而今"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd98b975",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv-to",
+          "mean": "hăng hái đợi"
+        }
+      ],
+      "mobileId": 14632,
+      "phonetic": "いまかいまか",
+      "related_words": {
+        "word": [
+          "今"
+        ]
+      },
+      "word": "今か今か"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77c7badf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "till just now"
+        }
+      ],
+      "mobileId": 270912,
+      "phonetic": "いまのいままで",
+      "word": "今の今まで"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca073e231",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "just now, a moment ago"
+        }
+      ],
+      "mobileId": 284672,
+      "phonetic": "いまさっき",
+      "related_words": {
+        "word": [
+          "今",
+          "さっき"
+        ]
+      },
+      "word": "今さっき"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07c07f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "one's current boyfriend"
+        }
+      ],
+      "mobileId": 284908,
+      "phonetic": "いまかれ いまカレ",
+      "word": "今彼"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0816c2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n-adv, n-t",
+          "mean": "just now, at this moment, at this point of time"
+        }
+      ],
+      "mobileId": 285081,
+      "phonetic": "いまげんざい",
+      "related_words": {
+        "word": [
+          "現在",
+          "今"
+        ]
+      },
+      "word": "今現在"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

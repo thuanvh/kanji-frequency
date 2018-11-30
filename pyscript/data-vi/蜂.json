@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027a61ffa",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "蜂の巣に物を投げたら刺されないように注意せよ。",
+              "mean": "Nếu bạn ném vật gì đó vào tổ ong chú ý đừng để ong đốt nhé.",
+              "transcription": "はちのすにものをなげたらさされないようにちゅういせよ。"
+            },
+            {
+              "content": "蝶のように舞い、蜂のように刺す。",
+              "mean": "Bay lượn như bướm và đốt như ong .",
+              "transcription": "ちょうのようにまい、はちのようにさす。"
+            }
+          ],
+          "kind": "n",
+          "mean": "con ong"
+        }
+      ],
+      "mobileId": 32014,
+      "phonetic": "はち",
+      "related_words": {
+        "word": [
+          "蜂蜜",
+          "蜂の巣",
+          "雀蜂",
+          "蜜蜂",
+          "働き蜂"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "蜂",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "蜜蜂"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "蜂"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ae839de",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "beeswax"
+        }
+      ],
+      "mobileId": 230866,
+      "phonetic": "はちろう",
+      "word": "蜂ろう"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af32fef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "red-banded sand wasp (Ammophila sabulosa)"
+        }
+      ],
+      "mobileId": 231216,
+      "phonetic": "こしぼそばち",
+      "word": "腰細蜂"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af5721c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gall wasp (any insect of family Cynipidae)"
+        }
+      ],
+      "mobileId": 231280,
+      "phonetic": "たまばち タマバチ",
+      "word": "たま蜂"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0569bca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chalcid (fly, wasp), chalcis (fly)"
+        }
+      ],
+      "mobileId": 283748,
+      "phonetic": "こばち コバチ",
+      "word": "小蜂"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9cbc5ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crested honey buzzard (Pernis ptilorhynchus), Oriental honey buzzard, pern"
+        }
+      ],
+      "mobileId": 279272,
+      "phonetic": "はちくま ハチクマ",
+      "word": "蜂熊"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d96b8fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hummingbird (Trochilidae family)"
+        }
+      ],
+      "mobileId": 219941,
+      "phonetic": "はちすずめ",
+      "word": "蜂雀"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3af5d2bb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "potter wasp (esp. species Eumenes mikado)"
+        }
+      ],
+      "mobileId": 231293,
+      "phonetic": "とっくりばち トックリバチ",
+      "word": "徳利蜂"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7e5b0f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ong đực ."
+        }
+      ],
+      "mobileId": 110552,
+      "phonetic": "おばち",
+      "word": "雄蜂"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab681be36c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ong cắn lá"
+        }
+      ],
+      "mobileId": 889,
+      "phonetic": "ははち",
+      "word": "葉蜂"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

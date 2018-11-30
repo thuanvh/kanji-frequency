@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afa23a5",
+      "means": [
+        {
+          "examples": [],
+          "kind": "suf",
+          "mean": "triển lãm"
+        }
+      ],
+      "mobileId": 231434,
+      "phonetic": "てん",
+      "word": "展"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b271c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cuộc triển lãm do chính phủ tài trợ"
+        }
+      ],
+      "mobileId": 23568,
+      "phonetic": "かんてん",
+      "word": "官展"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8e100df",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cuộc triển lãm (của) những (quyển) sách hiếm có (cũ (già), khảo cổ học)"
+        }
+      ],
+      "mobileId": 40730,
+      "phonetic": "こしょてん",
+      "word": "古書展"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef908ec5b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "art exhibition"
+        }
+      ],
+      "mobileId": 273049,
+      "phonetic": "アートてん",
+      "word": "アート展"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3a7d4e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "farewell exhibition, retrospective (exhibition), exhibition in commemoration of retirement"
+        }
+      ],
+      "mobileId": 216972,
+      "phonetic": "たいにんてん",
+      "word": "退任展"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d46e4e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "special exhibition (at museum, etc.)"
+        }
+      ],
+      "mobileId": 217354,
+      "phonetic": "とくべつてん",
+      "related_words": {
+        "word": [
+          "特別",
+          "別"
+        ]
+      },
+      "word": "特別展"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b221b4acc",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "triển lãm"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "絵展"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3afa16fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "exhibition of returned works (e.g. from overseas)"
+        }
+      ],
+      "mobileId": 231433,
+      "phonetic": "さとがえりてん",
+      "word": "里帰り展"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0ad4ff0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "roadshow, touring exhibition, travelling exhibition"
+        }
+      ],
+      "mobileId": 286496,
+      "phonetic": "じゅんかいてん",
+      "word": "巡回展"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9902114",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "art exhibition, art show"
+        }
+      ],
+      "mobileId": 277338,
+      "phonetic": "かいがてん",
+      "word": "絵画展"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

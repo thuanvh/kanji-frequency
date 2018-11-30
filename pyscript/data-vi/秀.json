@@ -1,0 +1,209 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a9823a45f7",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "ưu việt, siêu phàm"
+        }
+      ],
+      "mobileId": 233474,
+      "phonetic": "しゅう",
+      "word": "秀"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8727c8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người phụ nữ khuê tú; người phụ nữ được giáo dục kỹ lưỡng"
+        }
+      ],
+      "mobileId": 37175,
+      "phonetic": "ねやしゅう",
+      "word": "閨秀"
+    },
+    {
+      "_id": "432518852de0a80625d585a98251f148",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese sea fig (Ficus superba var. japonica)"
+        }
+      ],
+      "mobileId": 234225,
+      "phonetic": "あこう アコウ",
+      "word": "赤秀"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0db131f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "thiên tài; thần kỳ; người có tài"
+        }
+      ],
+      "mobileId": 151353,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "儁秀",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "穎才",
+                "鬼才",
+                "天才",
+                "俊士",
+                "俊傑",
+                "異才",
+                "俊豪",
+                "俊才",
+                "頭脳",
+                "ブレーン",
+                "秀才",
+                "俊逸",
+                "英才",
+                "才子",
+                "俊秀",
+                "俊英",
+                "俊足"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "穎才",
+                "英気",
+                "鬼才",
+                "天才",
+                "偉才",
+                "異才",
+                "俊才",
+                "英知",
+                "秀才",
+                "賢才",
+                "英才",
+                "才知",
+                "才気",
+                "冴え"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "才能",
+                "鬼才",
+                "天才",
+                "俊士",
+                "創作力",
+                "異才",
+                "俊豪",
+                "俊才",
+                "俊",
+                "素質",
+                "入神",
+                "俊逸",
+                "入伸",
+                "俊秀",
+                "俊英"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "鬼才",
+                "天才",
+                "俊士",
+                "異才",
+                "俊豪",
+                "俊才",
+                "秀才",
+                "俊逸",
+                "才器",
+                "賢才",
+                "逸材",
+                "俊秀",
+                "俊英"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "神童",
+                "鬼才",
+                "天才",
+                "異才",
+                "俊才",
+                "驚異",
+                "秀才",
+                "非凡",
+                "俊秀"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "儁秀"
+    },
+    {
+      "_id": "13c287a9cd6fe5af7f6474cfb29942c8",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜作家",
+              "mean": "nữ văn sĩ nổi tiếng",
+              "transcription": "〜さっか"
+            },
+            {
+              "content": "〜画家",
+              "mean": "nữ họa sĩ tài danh .",
+              "transcription": "〜がか"
+            }
+          ],
+          "kind": "n",
+          "mean": "ưu tú; tài danh"
+        }
+      ],
+      "mobileId": 27893,
+      "phonetic": "けいしゅう",
+      "word": "けい秀"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8728d0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "họa sĩ phụ nữ (đã hoàn thành)"
+        }
+      ],
+      "mobileId": 37177,
+      "phonetic": "ねやしゅうがか",
+      "word": "閨秀画家"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87283f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nữ họa sĩ (tài năng)"
+        }
+      ],
+      "mobileId": 37176,
+      "phonetic": "けいしゅうがか",
+      "word": "けい秀画家"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

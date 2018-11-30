@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de10718efba",
+      "means": [
+        {
+          "kind": "n",
+          "mean": "Lớp học thêm ."
+        }
+      ],
+      "mobileId": 52280,
+      "phonetic": "じゅく",
+      "related_words": {
+        "word": [
+          "学習塾",
+          "義塾"
+        ]
+      },
+      "word": "塾"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd8ef3c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trường Anh ngữ tư thục"
+        }
+      ],
+      "mobileId": 16625,
+      "phonetic": "えいごじゅく",
+      "word": "英語塾"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77df4549",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "private painting school"
+        }
+      ],
+      "mobileId": 271719,
+      "phonetic": "がじゅく",
+      "word": "画塾"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19362cb7d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trường học tư, gia thục"
+        }
+      ],
+      "mobileId": 21061,
+      "phonetic": "いえじゅく",
+      "word": "家塾"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e83489a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trường học riêng tư"
+        }
+      ],
+      "mobileId": 35175,
+      "phonetic": "ぎじゅく",
+      "related_words": {
+        "word": [
+          "塾"
+        ]
+      },
+      "word": "義塾"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10771e273",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "学習塾経営者",
+              "mean": "giám đốc trường bổ túc .",
+              "transcription": "がくしゅうじゅくけいえいしゃ"
+            }
+          ],
+          "kind": "n",
+          "mean": "trường bổ túc; trường tư; trường luyện thi"
+        }
+      ],
+      "mobileId": 53787,
+      "phonetic": "がくしゅうじゅく",
+      "related_words": {
+        "word": [
+          "学習",
+          "塾"
+        ]
+      },
+      "word": "学習塾"
+    },
+    {
+      "_id": "432518852de0a80625d585a9826ce3ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "attending cram school"
+        }
+      ],
+      "mobileId": 235064,
+      "phonetic": "じゅくがよい",
+      "word": "塾通い"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e6ac4a4",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "học thêm về"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": null,
+      "word": "塾帰り"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0ddfbc46",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "học thêm, học phụ đạo"
+        }
+      ],
+      "mobileId": 152883,
+      "phonetic": "しんがくじゅく",
+      "word": "進学塾"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951e74b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới sự chạy (mà) một riêng tư giáo dục"
+        }
+      ],
+      "mobileId": 57070,
+      "phonetic": "じゅくをひらいている",
+      "word": "塾を開いている"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900efa25ee",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự xếp đặt; phân phối; sự sắp đặt"
+        }
+      ],
+      "mobileId": 118998,
+      "phonetic": "はい",
+      "word": "配"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e3dbb50",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "lắp đặt cốt thép theo như bản vẽ"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "はいきん",
+      "word": "配筋"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d322ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dealt tiles"
+        }
+      ],
+      "mobileId": 279515,
+      "phonetic": "はいパイ ペイパイ",
+      "word": "配牌"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0876e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giao nhầm hàng"
+        }
+      ],
+      "mobileId": 146017,
+      "phonetic": "ご はい",
+      "word": "誤配"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd5838b2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự sắp đặt"
+        }
+      ],
+      "mobileId": 12607,
+      "phonetic": "あんはい",
+      "word": "案配"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0af1907",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "seating allocation (conference, banquet, etc.)"
+        }
+      ],
+      "mobileId": 286552,
+      "phonetic": "はいせき",
+      "word": "配席"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0957015",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "regard, consideration, thoughtfulness"
+        }
+      ],
+      "mobileId": 211640,
+      "phonetic": "はいい",
+      "related_words": {
+        "word": [
+          "意"
+        ]
+      },
+      "word": "配意"
+    },
+    {
+      "_id": "5f2ca7a267ba2661463e3ccd3e74a797",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Vận chuyển đồ ăn"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "はいしょく",
+      "word": "配食"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9781010",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "light distribution (e.g. in candle-power or candela), luminous intensity distribution, spatial distribution of luminous intensity"
+        }
+      ],
+      "mobileId": 260135,
+      "phonetic": "はいこう",
+      "word": "配光"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05b76e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "distribution (e.g. of products to a retailer)"
+        }
+      ],
+      "mobileId": 283901,
+      "phonetic": "はいか",
+      "word": "配荷"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

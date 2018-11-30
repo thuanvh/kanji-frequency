@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a633eb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "Điền"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "ruộng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ruộng lúa ."
+        }
+      ],
+      "mobileId": 171968,
+      "opposite_word": [
+        "畠",
+        "畑"
+      ],
+      "phonetic": "た",
+      "related_words": {
+        "word": [
+          "田舎",
+          "半田",
+          "田舎者",
+          "水田",
+          "田園",
+          "我田引水",
+          "田植え",
+          "油田",
+          "田畑",
+          "田圃"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "田",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "代",
+                "田圃",
+                "田地",
+                "水田"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "田"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e855c24d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ruộng lúa, cánh đồng ở vùng đất thấp"
+        }
+      ],
+      "mobileId": 36253,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "田",
+          "凹"
+        ]
+      },
+      "word": "凹田"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab682accec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự phân công đất đai thời xưa theo chế độ \"ban điền\""
+        }
+      ],
+      "mobileId": 1386,
+      "phonetic": "はんた",
+      "word": "班田"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68d90512",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chim cu cu, chàng ngốc, gáy cu cu, điên điên, gàn gàn"
+        }
+      ],
+      "mobileId": 6920,
+      "phonetic": "",
+      "word": "田鵑"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca09527d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rice paddy plowing, tilling a rice field"
+        }
+      ],
+      "mobileId": 285714,
+      "phonetic": "たおこし",
+      "word": "田起こし"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e21e7b7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thóc giải quyết; canh tác"
+        }
+      ],
+      "mobileId": 112113,
+      "phonetic": "たぼ",
+      "word": "田ぼ"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c776ea8bc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mole"
+        }
+      ],
+      "mobileId": 268034,
+      "phonetic": "でんそ",
+      "related_words": {
+        "word": [
+          "田",
+          "鼠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "田鼠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "土竜",
+                "土龍"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "田鼠"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7d5a87",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common snipe (Gallinago gallinago)"
+        }
+      ],
+      "mobileId": 227398,
+      "phonetic": "たしぎ タシギ",
+      "word": "田鷸"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193799368",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dấu gạch chéo - và - đốt cháy nông nghiệp"
+        }
+      ],
+      "mobileId": 21784,
+      "phonetic": "ひた",
+      "word": "火田"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939378f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồng lúa đã thu hoạch, đồng lúa đã gặt"
+        }
+      ],
+      "mobileId": 22610,
+      "phonetic": "かりた",
+      "related_words": {
+        "word": [
+          "田"
+        ]
+      },
+      "word": "刈り田"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

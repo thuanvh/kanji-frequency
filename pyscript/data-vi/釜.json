@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a8c059",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "自動釜",
+              "mean": "lò tự động",
+              "transcription": "じどうかま"
+            },
+            {
+              "content": "高圧釜",
+              "mean": "lò cao áp",
+              "transcription": "こうあつかま"
+            },
+            {
+              "content": "乾燥釜",
+              "mean": "lò sấy",
+              "transcription": "かんそうかま"
+            },
+            {
+              "content": "タンク釜",
+              "mean": "lò đứng",
+              "transcription": "タンクかま"
+            },
+            {
+              "content": "圧力釜",
+              "mean": "lò áp suất",
+              "transcription": "あつりょくかま"
+            }
+          ],
+          "kind": "n",
+          "mean": "ấm đun nước; ấm tích; nồi đun; nồi nấu; lò đun; lò sấy; lò nung; lò (nung vôi, gạch, đồ gốm)"
+        }
+      ],
+      "mobileId": 109550,
+      "phonetic": "かま",
+      "related_words": {
+        "word": [
+          "御釜"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "釜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "薬鑵",
+                "薬罐",
+                "ケトル",
+                "薬缶",
+                "湯沸し",
+                "湯沸かし"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "釜"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada38e896",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lễ uống trà đầu năm mới ."
+        }
+      ],
+      "mobileId": 77888,
+      "phonetic": "はつがま",
+      "word": "初釜"
+    },
+    {
+      "_id": "622cc39a952b667c2efb0cae5ef82b82",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "かまくら: Cơm Niêu “cơm được nấu bằng nồi đất” nhưng thực tế ở nhật bây giờ thường nấu bằng nồi gàng."
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "かまくら",
+      "word": "釜蔵"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c03ecafb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kettle rest"
+        }
+      ],
+      "mobileId": 208854,
+      "phonetic": "かましき",
+      "word": "釜敷"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b9ffeb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鍋釜を洗う",
+              "mean": "Rửa xoong nồi",
+              "transcription": "なべかまをあらう"
+            }
+          ],
+          "kind": "n",
+          "mean": "Xoong nồi"
+        }
+      ],
+      "mobileId": 109869,
+      "phonetic": "なべかま",
+      "word": "鍋釜"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68510dd8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một hoặc cùng cái bình đó; ăn uống hoặc sống cùng nhau"
+        }
+      ],
+      "mobileId": 2600,
+      "phonetic": "ひとつかま",
+      "word": "一つ釜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00d0253",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "iron kettle suspended on a chain"
+        }
+      ],
+      "mobileId": 281381,
+      "phonetic": "つりがま",
+      "word": "釣釜"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77078316",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "steam bath (often using brine)"
+        }
+      ],
+      "mobileId": 264702,
+      "phonetic": "かまぶろ",
+      "word": "釜風呂"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3f268e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nồi áp suất"
+        }
+      ],
+      "mobileId": 11814,
+      "phonetic": "あつりょくかま",
+      "word": "圧力釜"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9c39aee",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "outer pot of a rice cooker"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "outdoor bathwater heater"
+        }
+      ],
+      "mobileId": 279002,
+      "phonetic": "そとがま",
+      "word": "外釜"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

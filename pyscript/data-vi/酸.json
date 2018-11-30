@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa79de88e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "a xít ."
+        }
+      ],
+      "mobileId": 109340,
+      "phonetic": "さん",
+      "related_words": {
+        "word": [
+          "二酸化炭素",
+          "酸素",
+          "酸っぱい",
+          "リン酸",
+          "酸化",
+          "水酸化ナトリウム",
+          "硫酸",
+          "酸化防止剤",
+          "炭酸",
+          "酸性雨"
+        ]
+      },
+      "word": "酸"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be3a6c2c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nicotinic"
+        }
+      ],
+      "mobileId": 91155,
+      "phonetic": "ニコチンさん",
+      "word": "ニコチン酸"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9bb6ba9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "organic acid"
+        }
+      ],
+      "mobileId": 278725,
+      "phonetic": "ゆうきさん",
+      "word": "有機酸"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9bb7782",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mineral acid, inorganic acid"
+        }
+      ],
+      "mobileId": 278726,
+      "phonetic": "むきさん",
+      "word": "無機酸"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9dec615",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "pickling, soaking a metal in an acidic solution to remove impurities"
+        }
+      ],
+      "mobileId": 279885,
+      "phonetic": "さんせん",
+      "word": "酸洗"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d35810b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "căn bản chua"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mountain air"
+        }
+      ],
+      "mobileId": 147437,
+      "phonetic": "さんもと",
+      "word": "酸基"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d374b31",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "sự nghẹt thở"
+        }
+      ],
+      "mobileId": 147486,
+      "phonetic": "さんけつ",
+      "related_words": {
+        "word": [
+          "酸"
+        ]
+      },
+      "word": "酸欠"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7781658f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cyanic acid"
+        }
+      ],
+      "mobileId": 268653,
+      "phonetic": "シアンさん",
+      "word": "シアン酸"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c778170f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "selenic acid"
+        }
+      ],
+      "mobileId": 268654,
+      "phonetic": "セレンさん",
+      "word": "セレン酸"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7781c0cb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "glyceric acid"
+        }
+      ],
+      "mobileId": 268665,
+      "phonetic": "グリセリンさん",
+      "word": "グリセリン酸"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

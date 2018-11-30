@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f648428",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "机の後ろにある棚",
+              "mean": "Cái giá đặt đằng sau bàn.",
+              "transcription": "つくえのうしろにあるたな"
+            },
+            {
+              "content": "牛乳と卵は冷蔵庫の中で、ホットケーキの素はオーブンの隣の戸棚にあるわよ。一番上の棚。",
+              "mean": "Sữa bò và trứng ở trong tủ lạnh, nguyên liệu làm bánh ở trong tủ bếp bên cạnh cái lò nướng. Cái giá trên cùng ấy.",
+              "transcription": "ぎゅうにゅうとたまごはれいぞうこのなかで、ホットケーキのもとはオーブンのとなりのとだなにあるわよ。いちばんじょうのたな。"
+            }
+          ],
+          "kind": "n",
+          "mean": "cái giá"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái kệ"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gác"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giàn"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kệ ."
+        }
+      ],
+      "mobileId": 186641,
+      "phonetic": "たな",
+      "related_words": {
+        "word": [
+          "本棚",
+          "戸棚",
+          "書棚",
+          "神棚",
+          "棚上げ"
+        ]
+      },
+      "word": "棚"
+    },
+    {
+      "_id": "432518852de0a80625d585a98213f41c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "araneomorph funnel-web spider (any spider of family Agelenidae)"
+        }
+      ],
+      "mobileId": 232279,
+      "phonetic": "たなぐも タナグモ",
+      "word": "棚蜘蛛"
+    },
+    {
+      "_id": "432518852de0a80625d585a98239f7c2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "display shelf (in a store)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "store, shop"
+        }
+      ],
+      "mobileId": 233459,
+      "phonetic": "みせだな",
+      "word": "店棚"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680126956c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tủ chén ."
+        }
+      ],
+      "mobileId": 42412,
+      "phonetic": "しょっきだな",
+      "related_words": {
+        "word": [
+          "棚",
+          "食",
+          "器",
+          "食器"
+        ]
+      },
+      "word": "食器棚"
+    },
+    {
+      "_id": "432518852de0a80625d585a9825fc3f6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ice shelf"
+        }
+      ],
+      "mobileId": 234662,
+      "phonetic": "たなごおり",
+      "word": "棚氷"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9aede48",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shelf that can be moved around, whatnot"
+        }
+      ],
+      "mobileId": 278299,
+      "phonetic": "おきだな",
+      "word": "置き棚"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda58515",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gờ, rìa (tường, cửa...), đá ngầm, mạch quặng"
+        }
+      ],
+      "mobileId": 15037,
+      "phonetic": "いわたな",
+      "related_words": {
+        "word": [
+          "棚",
+          "岩"
+        ]
+      },
+      "word": "岩棚"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7a9b30b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giá treo ."
+        }
+      ],
+      "mobileId": 109571,
+      "phonetic": "つりだな",
+      "word": "釣り棚"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5c8ffb",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kệ trưng bày"
+        }
+      ],
+      "mobileId": 113998,
+      "phonetic": "ちんれつたな",
+      "word": "陳列棚"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0157207",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dish drainer, draining board"
+        }
+      ],
+      "mobileId": 281640,
+      "phonetic": "みずきりだな",
+      "word": "水切り棚"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1078e6632",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "会社であなたに会えなくなるのはとても寂しいけど、一年間海外で働くというあなたの夢が実現したことは素晴らしいと思うわ。",
+              "mean": "Mặc dù tôi không thể gặp bạn ở công ty nữa, nhưng tôi nghĩ thật là tuyệt nếu bạn hoàn thành giấc mơ được làm việc ở nước ngoài.",
+              "transcription": "かいしゃであなたにあえなくなるのはとてもさびしいけど、いちねんかんかいがいではたらくというあなたのゆめがじつげんしたことはすばらしいとおもうわ。"
+            },
+            {
+              "content": "（人）からの楽しいファクスや伝言が来なくなって寂い",
+              "mean": "thiếu vắng tiếng fax và nhắn tin vui vẻ .",
+              "transcription": "（ひと）からのたのしいファクスやでんごんがこなくなってさびい"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự tĩnh mịch; sự lẻ loi; sự buồn bã"
+        }
+      ],
+      "mobileId": 54267,
+      "phonetic": "さび",
+      "related_words": {
+        "word": [
+          "寂しい",
+          "静寂",
+          "寂しさ",
+          "寂しがる"
+        ]
+      },
+      "word": "寂"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b1ddf2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "sad, lonesome, desolate"
+        }
+      ],
+      "mobileId": 261972,
+      "phonetic": "せきせき じゃくじゃく さびさび",
+      "word": "寂々"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdea9882",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "<TôN> cõi niết bàn"
+        }
+      ],
+      "mobileId": 17199,
+      "phonetic": "えんさび",
+      "related_words": {
+        "word": [
+          "円",
+          "寂"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "円寂",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "悟り",
+                "涅槃",
+                "彼岸",
+                "覚悟"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "円寂"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9588ab82",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự vắng vẻ, sự hiu quạnh, cảnh cô đơn, sự cô độc"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "xem desolate"
+        }
+      ],
+      "mobileId": 60437,
+      "phonetic": "さびりょう",
+      "word": "寂りょう"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a5eb0d5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-t, adv-to",
+          "mean": "silent and still, desolate"
+        }
+      ],
+      "mobileId": 226429,
+      "phonetic": "げきせき げきじゃく",
+      "word": "闃寂"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9c769be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "complete emptiness (i.e. as a denial of the inherent existence of all things), nirvana (where this emptiness is realized)"
+        },
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "quiet and lonely"
+        }
+      ],
+      "mobileId": 262664,
+      "phonetic": "くうじゃく",
+      "word": "空寂"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be00ef7a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "có vị cho sự yên tĩnh và đơn giản; wabi và sabi"
+        }
+      ],
+      "mobileId": 89326,
+      "phonetic": "わびとさび",
+      "word": "侘と寂"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0d245a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no, adj-t, adv-to",
+          "mean": "deserted and lonesome, quiet and alone, innocent and nonattached, All is void"
+        }
+      ],
+      "mobileId": 213629,
+      "phonetic": "くうくうじゃくじゃく",
+      "word": "空々寂々"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0fef02f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "harmony, respect, purity and tranquility, the four most important elements of the tea ceremony"
+        }
+      ],
+      "mobileId": 215085,
+      "phonetic": "わけいせいじゃく",
+      "word": "和敬清寂"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9511bdac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "sự yên tĩnh; nín lặng"
+        }
+      ],
+      "mobileId": 56682,
+      "phonetic": "さびとした",
+      "word": "寂とした"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74e22cd4",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "もし政界で働きたいのなら、ナンシーはもっと上手な話し方を身に付けなければ。",
+              "mean": "Nancy phải học cách nói chuyện tốt hơn nếu cô ta muốn làm việc về lĩnh vực chính trị",
+              "transcription": "もしせいかいではたらきたいのなら、ナンシーはもっとじょうずなはなしかたをみにつけなければ。"
+            },
+            {
+              "content": "郡の税金は郡政委員会によって課税される",
+              "mean": "Tiền thuế do chính quyền ủy ban đánh thuế .",
+              "transcription": "ぐんのぜいきんはこおりまさしいいんかいによってかぜいされる"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự thống trị; sự cai trị; chính quyền"
+        }
+      ],
+      "mobileId": 100862,
+      "phonetic": "まつりごと",
+      "related_words": {
+        "word": [
+          "政治",
+          "政府",
+          "政治家",
+          "行政",
+          "政策",
+          "家政婦",
+          "財政",
+          "政権",
+          "政党",
+          "政令"
+        ]
+      },
+      "word": "政"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6861e2a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhuốm vàng đuôi amberjack (kiểu con cá)"
+        }
+      ],
+      "mobileId": 3128,
+      "phonetic": "たいらまさし",
+      "word": "平政"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c09bb5ac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "political power"
+        }
+      ],
+      "mobileId": 211859,
+      "phonetic": "せいへい",
+      "word": "政柄"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8143f07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chủ nghĩa cộng hoà"
+        }
+      ],
+      "mobileId": 34142,
+      "phonetic": "きょうわせい",
+      "word": "共和政"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a69b73d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Tổ chức thành phố; sự điều hành thành phố ."
+        }
+      ],
+      "mobileId": 172071,
+      "phonetic": "ちょうせい",
+      "word": "町政"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a98e4897",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ward management, ward administration"
+        }
+      ],
+      "mobileId": 260832,
+      "phonetic": "くせい",
+      "word": "区政"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd016bad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v5r",
+          "mean": "để điều hành những quan hệ (của) trạng thái"
+        }
+      ],
+      "mobileId": 68832,
+      "phonetic": "せいをとる",
+      "word": "政を執る"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69aebb88b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chính trị quân chủ lập hiến ."
+        }
+      ],
+      "mobileId": 174179,
+      "phonetic": "りっけんくんしゅせい",
+      "related_words": {
+        "word": [
+          "君",
+          "主",
+          "君主",
+          "政"
+        ]
+      },
+      "word": "立憲君主政"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94cdec8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(French) Second Republic"
+        }
+      ],
+      "mobileId": 258750,
+      "phonetic": "だいにきょうわせい",
+      "word": "第二共和政"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4b8544",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cold political relations but hot economical relations (often said about China-Japan relations)"
+        }
+      ],
+      "mobileId": 217503,
+      "phonetic": "せいれいけいねつ",
+      "word": "政冷経熱"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

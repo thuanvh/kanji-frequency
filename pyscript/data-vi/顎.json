@@ -1,0 +1,266 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801180beb",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼は思ったより早く顎を出した。",
+              "mean": "Anh ta mệt nhanh hơn tôi tưởng.",
+              "transcription": "かれはおもったよりはやくあごをだした。"
+            },
+            {
+              "content": "人に顎で使われるな。",
+              "mean": "Đừng có để người khác dắt mũi.",
+              "transcription": "ひとにあごでつかわれるな。"
+            },
+            {
+              "content": "笑いすぎて顎が外れてしまった。",
+              "mean": "Tôi cười nhiều quá đến nỗi rã rời cả cằm.",
+              "transcription": "わらいすぎてあごがはずれてしまった。"
+            },
+            {
+              "content": "二重顎",
+              "mean": "Hai cằm",
+              "transcription": "にじゅうあご"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "cái cằm"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "顎を出した:cằm dài ra (chỉ sự mệt mỏi) = vêu vao"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "顎で使う:Dắt mũi, chỉ đạo"
+        },
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "cằm ."
+        }
+      ],
+      "mobileId": 42165,
+      "phonetic": "あご",
+      "related_words": {
+        "word": [
+          "下顎"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "顎",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "チン"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "鰓",
+                "ジル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "顎骨",
+                "齶"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "顎"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c03ee2b4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "beard (esp. on the chin), goatee"
+        }
+      ],
+      "mobileId": 208857,
+      "phonetic": "あごひげ",
+      "word": "顎髭"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d2a62a7",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "自由下顎運動",
+              "mean": "vận động hàm dưới tự do",
+              "transcription": "じゆうかあごうんどう"
+            },
+            {
+              "content": "下顎を上げる",
+              "mean": "nâng hàm dưới",
+              "transcription": "しもあごをあげる"
+            },
+            {
+              "content": "下顎のたるんでいる老人",
+              "mean": "cụ già có hàm dưới bị trễ xuống",
+              "transcription": "しもあごのたるんでいるろうじん"
+            }
+          ],
+          "kind": "n, adj-no",
+          "mean": "Hàm dưới"
+        }
+      ],
+      "mobileId": 142007,
+      "opposite_word": [
+        "上顎"
+      ],
+      "phonetic": "かがく",
+      "related_words": {
+        "word": [
+          "下",
+          "顎"
+        ]
+      },
+      "word": "下顎"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77746ed0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "maxillary artery"
+        }
+      ],
+      "mobileId": 268213,
+      "phonetic": "がくどうみゃく",
+      "word": "顎動脈"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801184446",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あごひげの伸ばし始め",
+              "mean": "bắt đầu mọc râu",
+              "transcription": "あごひげののばしはじめ"
+            },
+            {
+              "content": "ヤギのあごひげ",
+              "mean": "râu dê",
+              "transcription": "ヤギのあごひげ"
+            },
+            {
+              "content": "モジャモジャのあごひげ",
+              "mean": "râu rậm",
+              "transcription": "モジャモジャのあごひげ"
+            },
+            {
+              "content": "こわいあごひげ",
+              "mean": "bộ râu trông đáng sợ",
+              "transcription": "こわいあごひげ"
+            },
+            {
+              "content": "顎鬚を剃る",
+              "mean": "cạo râu",
+              "transcription": "あごひげをそる"
+            }
+          ],
+          "kind": "n",
+          "mean": "râu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "râu cằm ."
+        }
+      ],
+      "mobileId": 42167,
+      "phonetic": "あごひげ",
+      "word": "顎鬚"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a934107c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "forktongue goby (Chaenogobius annularis), chestnut goby"
+        }
+      ],
+      "mobileId": 257950,
+      "phonetic": "あごはぜ アゴハゼ",
+      "word": "顎沙魚"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd346bb7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dây quàng vào cằm để giữ mũ nằm yên trên đầu"
+        }
+      ],
+      "mobileId": 11470,
+      "phonetic": "あごひも",
+      "word": "顎紐"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9b8b3f9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chin, jaw"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gills, branchia"
+        }
+      ],
+      "mobileId": 262183,
+      "phonetic": "あぎと",
+      "word": "顎門"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193c21476",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chung quai hàm"
+        }
+      ],
+      "mobileId": 24064,
+      "phonetic": "あごかんせつ",
+      "word": "顎関節"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e45af25",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "maxilliped, gnathopod"
+        }
+      ],
+      "mobileId": 250267,
+      "phonetic": "がっきゃく",
+      "word": "顎脚"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

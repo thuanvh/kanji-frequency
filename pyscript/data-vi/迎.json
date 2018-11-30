@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca05ec7d9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "welcoming reception"
+        }
+      ],
+      "mobileId": 284003,
+      "phonetic": "げいおん",
+      "word": "迎恩"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193af4513",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Tiệc chào mừng người mới và chia tay người cũ (công ty)"
+        }
+      ],
+      "mobileId": 23471,
+      "phonetic": "かんそうむかえかい",
+      "word": "歓送迎会"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a9f5b0c",
+      "means": [
+        {
+          "examples": "",
+          "kind": "pref",
+          "mean": "cùng nhau; ổn định; hòa hợp"
+        }
+      ],
+      "mobileId": 172953,
+      "phonetic": "あい",
+      "related_words": {
+        "word": [
+          "相談",
+          "相変わらず",
+          "相手",
+          "近親相姦",
+          "相談する",
+          "相棒",
+          "相対",
+          "首相",
+          "相当",
+          "相性"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "相",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "長官",
+                "閣僚",
+                "大臣"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "相"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a9f7705",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "彼は長命の相がある",
+              "mean": "anh ta có dáng sẽ sống lâu",
+              "transcription": "かれはちょうめいのそうがある"
+            }
+          ],
+          "kind": "n",
+          "mean": "dáng; trạng thái"
+        }
+      ],
+      "mobileId": 172954,
+      "phonetic": "そう",
+      "related_words": {
+        "word": [
+          "相談",
+          "相変わらず",
+          "相手",
+          "近親相姦",
+          "相談する",
+          "相棒",
+          "相対",
+          "首相",
+          "相当",
+          "相性"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "相",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "長官",
+                "閣僚",
+                "大臣"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "相"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1934eae8c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "pha hạt nhân"
+        }
+      ],
+      "mobileId": 20424,
+      "phonetic": "かくしょう",
+      "word": "核相"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd524ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chuyên chở bộ trưởng"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ministry of Transport"
+        }
+      ],
+      "mobileId": 16511,
+      "phonetic": "うんゆしょう",
+      "word": "運輸相"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd2b592b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "giống như nhau, ngang bằng như nhau"
+        }
+      ],
+      "mobileId": 11172,
+      "phonetic": "あいひとしい",
+      "related_words": {
+        "word": [
+          "等",
+          "相",
+          "等しい"
+        ]
+      },
+      "word": "相等しい"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a07be1a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "vz",
+          "mean": "to be in common, to have in common"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to be in mutually understood"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to be mutually connected, to have a link"
+        }
+      ],
+      "mobileId": 223645,
+      "phonetic": "あいつうずる",
+      "word": "相通ずる"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c017e7c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v1, vi",
+          "mean": "to face"
+        }
+      ],
+      "mobileId": 189913,
+      "phonetic": "あいみる",
+      "word": "相見る"
+    },
+    {
+      "_id": "432518852de0a80625d585a98266104d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "the empty nature of all things"
+        }
+      ],
+      "mobileId": 234864,
+      "phonetic": "くうそう",
+      "word": "空相"
+    },
+    {
+      "_id": "432518852de0a80625d585a982766981",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "face-to-face encounter"
+        }
+      ],
+      "mobileId": 235370,
+      "phonetic": "あいまみえ",
+      "word": "相見え"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5e378c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giúp đỡ (của) thương mại và công nghiệp quốc tế"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ministry of International Trade and Industry"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "MITI"
+        }
+      ],
+      "mobileId": 114047,
+      "phonetic": "つうさんしょう",
+      "word": "通産相"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

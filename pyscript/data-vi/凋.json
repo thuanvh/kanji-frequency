@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada1efaf4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự trở nên hốc hác ."
+        }
+      ],
+      "mobileId": 77424,
+      "phonetic": "ちょうすい",
+      "word": "凋悴"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e5579b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm héo; mục nát; suy sụp"
+        }
+      ],
+      "mobileId": 113767,
+      "phonetic": "",
+      "word": "凋尽"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada1eff42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự điêu tàn ."
+        }
+      ],
+      "mobileId": 77425,
+      "phonetic": "ちょうざん",
+      "synsets": [
+        {
+          "base_form": "凋残",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "衰退",
+                "低下",
+                "衰微",
+                "減衰",
+                "衰勢",
+                "後退",
+                "頽廃",
+                "減退",
+                "下向き",
+                "萎靡",
+                "下り坂",
+                "退廃",
+                "凋落",
+                "下落",
+                "衰頽"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "衰退",
+                "衰微",
+                "没落",
+                "減衰",
+                "衰勢",
+                "頽廃",
+                "減退",
+                "萎靡",
+                "凋落",
+                "衰頽"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "凋残"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

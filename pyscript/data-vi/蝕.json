@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "_id": "332167954327f6e41c4a167bfe2bd8b5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "齲蝕有病率",
+              "mean": "tỷ lệ mắc bệnh sâu răng",
+              "transcription": "齲蝕ゆうびょうりつ"
+            },
+            {
+              "content": "齲蝕予防",
+              "mean": "phòng bệnh sâu răng",
+              "transcription": "齲蝕よぼう"
+            },
+            {
+              "content": "齲蝕（う蝕）の診断",
+              "mean": "khám sâu răng .",
+              "transcription": "齲蝕 （う蝕 ）のしんだん"
+            }
+          ],
+          "kind": "n",
+          "mean": "sâu răng"
+        }
+      ],
+      "mobileId": 49534,
+      "phonetic": "うしょく",
+      "word": "う蝕"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdb4913c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "răng mục nát"
+        }
+      ],
+      "mobileId": 15517,
+      "phonetic": "",
+      "word": "齲蝕"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab685e5282",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hiện tượng bị xâm thực do băng"
+        }
+      ],
+      "mobileId": 3010,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "氷"
+        ]
+      },
+      "word": "氷蝕"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a80ef4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đồ hộp"
+        }
+      ],
+      "mobileId": 23252,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "乾"
+        ]
+      },
+      "word": "乾蝕"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68a2c5e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bộ phận che khuất"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "literary embellishments"
+        }
+      ],
+      "mobileId": 5165,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "分"
+        ]
+      },
+      "word": "分蝕"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8265540",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "nguyệt thực hình khuyên"
+        }
+      ],
+      "mobileId": 34721,
+      "phonetic": "",
+      "word": "金環蝕"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

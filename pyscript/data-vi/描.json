@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68691b76",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kỹ thuật vẽ"
+        }
+      ],
+      "mobileId": 3341,
+      "phonetic": "",
+      "word": "描法"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68690133",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "miêu tả kỹ lưỡng, mô tả tỉ mỉ"
+        }
+      ],
+      "mobileId": 3337,
+      "phonetic": "",
+      "word": "描破"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d3113c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "description, picture"
+        }
+      ],
+      "mobileId": 216667,
+      "phonetic": "びょうぞう",
+      "word": "描像"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

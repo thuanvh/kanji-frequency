@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9524a9a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "vâng lời"
+        }
+      ],
+      "mobileId": 57270,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "行"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "遵行",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "コンプライアンス",
+                "遵奉",
+                "即応",
+                "遵守",
+                "適応"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "遵行"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,119 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e81c1398",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5k, vi",
+          "mean": "tới ánh sáng lấp lánh; tới sự lấp lánh; tới lấp lánh; tới sự lấp lánh; tới ánh sáng chói lòa; tới tia sáng yếu ớt"
+        }
+      ],
+      "mobileId": 34398,
+      "phonetic": "きらめく",
+      "synsets": [
+        {
+          "base_form": "煌く",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "煌めく",
+                "光る",
+                "光り輝く"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "煌めく",
+                "輝く",
+                "照る",
+                "差す",
+                "閃く",
+                "光る",
+                "光り輝く",
+                "射す"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "煌めく",
+                "きらめく"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "煌めく",
+                "輝く",
+                "ひらめく",
+                "閃く",
+                "光る",
+                "光り輝く",
+                "ぴかぴか光る"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "煌めく",
+                "輝く",
+                "光る",
+                "光り輝く",
+                "ぴかぴか光る"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "煌く"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193db72fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từ thơ ca cho mặt trời"
+        }
+      ],
+      "mobileId": 24862,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "帝"
+        ]
+      },
+      "word": "輝煌帝"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a17f34e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "きらびやかな飾り物",
+              "mean": "đồ trang sức lộng lẫy",
+              "transcription": "きらびやかなかざりもの"
+            },
+            {
+              "content": "きらびやかな光景",
+              "mean": "cảnh quang huy hoàng .",
+              "transcription": "きらびやかなこうけい"
+            }
+          ],
+          "kind": "adj-na",
+          "mean": "rực rỡ; sặc sỡ; hoa hoè hoa sói; huy hoàng; lộng lẫy"
+        }
+      ],
+      "mobileId": 170758,
+      "phonetic": "きらびやか",
+      "word": "煌びやか"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

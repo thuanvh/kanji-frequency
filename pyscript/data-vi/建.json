@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193bae964",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhịp độ trong tiền tệ nước ngoài"
+        }
+      ],
+      "mobileId": 23842,
+      "phonetic": "がいかけん",
+      "word": "外貨建"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d617f8d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kenryaku era (1211.3.9-1213.12.6)"
+        }
+      ],
+      "mobileId": 218223,
+      "phonetic": "けんりゃく",
+      "word": "建暦"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107f5d929",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "quốc khánh ."
+        }
+      ],
+      "mobileId": 55948,
+      "phonetic": "けんこくさい",
+      "word": "建国際"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d612fe4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kenkyuu era (1190.4.11-1199.4.27)"
+        }
+      ],
+      "mobileId": 218217,
+      "phonetic": "けんきゅう",
+      "word": "建久"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0c7354a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "short pillar set on a beam to support a ridgepole"
+        }
+      ],
+      "mobileId": 213266,
+      "phonetic": "うだつ",
+      "word": "卯建"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d614583",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kennin era (1201.2.13-1204.2.20)"
+        }
+      ],
+      "mobileId": 218219,
+      "phonetic": "けんにん",
+      "word": "建仁"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d61851c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kempou era (1213.12.6-1219.4.12)"
+        }
+      ],
+      "mobileId": 218224,
+      "phonetic": "けんぽう",
+      "word": "建保"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b22097ba3",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "Ashiba"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "たてじ",
+      "word": "建地"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e88bf82b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự lập kế hoạch, sự đưa ra phương sách; sự đề suất, sự đề nghị"
+        }
+      ],
+      "mobileId": 37975,
+      "phonetic": "けんさく",
+      "related_words": {
+        "word": [
+          "策"
+        ]
+      },
+      "word": "建策"
+    },
+    {
+      "_id": "432518852de0a80625d585a982587e33",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "yen-denominated (e.g. bond)"
+        }
+      ],
+      "mobileId": 234435,
+      "phonetic": "えんかだて",
+      "word": "円貨建"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

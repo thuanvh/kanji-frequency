@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e89304f3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "keo kiệt và tham lam, bủn xỉn"
+        }
+      ],
+      "mobileId": 38199,
+      "phonetic": "",
+      "word": "倹吝"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e87e7d0c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tính keo kiệt, tính bủn xỉn"
+        }
+      ],
+      "mobileId": 37554,
+      "phonetic": "しわちん",
+      "synsets": [
+        {
+          "base_form": "吝ちん",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "けち",
+                "一文惜み"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "吝ちん"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdd5c96d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "lòng ghen tị"
+        }
+      ],
+      "mobileId": 75605,
+      "phonetic": "しわき",
+      "word": "吝気"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3adac791ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "uk",
+          "mean": "người keo kiệt; người bủn xỉn; kẻ keo xỉn; kẻ ky bo ."
+        }
+      ],
+      "mobileId": 80127,
+      "phonetic": "けちんぼう",
+      "related_words": {
+        "word": [
+          "坊"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "吝ちん坊",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "守銭奴",
+                "吝嗇",
+                "一文惜み",
+                "握り屋",
+                "悋嗇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "吝ちん坊"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

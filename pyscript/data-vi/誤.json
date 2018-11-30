@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e8fa43cd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-pref",
+          "mean": "mis -"
+        }
+      ],
+      "mobileId": 41524,
+      "opposite_word": [
+        "正"
+      ],
+      "phonetic": "あやま",
+      "word": "誤"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef956fe2a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "improper use, wrong use, misuse, mishandling, abuse"
+        }
+      ],
+      "mobileId": 275512,
+      "phonetic": "ごしよう",
+      "word": "誤使用"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab686e0041",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tính không thể sai lầm được, tính không thể sai được; tính không thể hỏng (phương pháp, thí nghiệm...)"
+        }
+      ],
+      "mobileId": 3505,
+      "phonetic": "ふかあやま",
+      "related_words": {
+        "word": [
+          "可",
+          "不可"
+        ]
+      },
+      "word": "不可誤"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d048237",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự bắn nhầm mục tiêu"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "error in copying"
+        }
+      ],
+      "mobileId": 145894,
+      "phonetic": "あやまい",
+      "word": "誤射"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0876e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "giao nhầm hàng"
+        }
+      ],
+      "mobileId": 146017,
+      "phonetic": "ご はい",
+      "word": "誤配"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca07d206c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "delivery to the wrong house or person (email, postal items, etc.), false notification, mistaken notification, notifying somebody incorrectly"
+        }
+      ],
+      "mobileId": 284945,
+      "phonetic": "ごたつ",
+      "word": "誤達"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9239f28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "accidental ingestion"
+        }
+      ],
+      "mobileId": 273900,
+      "phonetic": "ごしょく",
+      "word": "誤食"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d07d55b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự trả lời sai (nhầm), câu trả lời sai"
+        }
+      ],
+      "mobileId": 146000,
+      "opposite_word": [
+        "正答"
+      ],
+      "phonetic": "あやまこたえ",
+      "word": "誤答"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77bb31c3",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "misnomer, misnaming"
+        }
+      ],
+      "mobileId": 270526,
+      "phonetic": "ごしょう",
+      "word": "誤称"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d06b1d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự lồng vào sai ((của) thiết bị, đơn vị, phần)"
+        }
+      ],
+      "mobileId": 145963,
+      "phonetic": "あやまそうにゅう",
+      "word": "誤挿入"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

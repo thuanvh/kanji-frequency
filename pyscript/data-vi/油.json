@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757fbc871a",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dầu"
+        },
+        {
+          "examples": [
+            {
+              "content": "油であげる",
+              "mean": "rán bằng dầu rán",
+              "transcription": "あぶらであげる"
+            },
+            {
+              "content": "油は水と溶け合わないものだ",
+              "mean": "dầu không hòa tan với nước",
+              "transcription": "あぶらはみずととけあわないものだ"
+            }
+          ],
+          "kind": "n",
+          "mean": "dầu mỡ rán"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "脂;膏"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mỡ ."
+        }
+      ],
+      "mobileId": 188001,
+      "phonetic": "あぶら",
+      "related_words": {
+        "word": [
+          "醤油",
+          "石油",
+          "給油",
+          "軽油",
+          "灯油",
+          "油断",
+          "重油",
+          "油絵",
+          "油脂",
+          "原油"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "油",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "オイル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "油"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3aff3a86",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "oil palm (esp. the African oil palm, Elaeis guineensis)"
+        }
+      ],
+      "mobileId": 231615,
+      "phonetic": "あぶらやし アブラヤシ",
+      "word": "油椰子"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8c3dc26",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dầu khoáng vật"
+        }
+      ],
+      "mobileId": 39770,
+      "phonetic": "こうぶつゆ",
+      "related_words": {
+        "word": [
+          "物",
+          "油",
+          "鉱物"
+        ]
+      },
+      "word": "鉱物油"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd4526c6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đá mài (mài với dầu)"
+        }
+      ],
+      "mobileId": 11998,
+      "phonetic": "あぶらといし",
+      "word": "油砥石"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a3942f4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "spiny dogfish (Squalus acanthias)"
+        }
+      ],
+      "mobileId": 225241,
+      "phonetic": "あぶらざめ アブラザメ",
+      "word": "油鮫"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b12dad",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(traditional) hair oil, pomade"
+        }
+      ],
+      "mobileId": 286630,
+      "phonetic": "すきあぶら",
+      "word": "梳き油"
+    },
+    {
+      "_id": "4a879669dfc9cec32da10b6c21dc53f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dầu bắp ."
+        }
+      ],
+      "mobileId": 68193,
+      "phonetic": "とうもろこしあぶら",
+      "word": "とうもろこし油"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c046d6c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "coconut oil"
+        }
+      ],
+      "mobileId": 209118,
+      "phonetic": "ヤシゆ やしゆ",
+      "word": "ヤシ油"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833bf36932",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "anointing oil"
+        }
+      ],
+      "mobileId": 247605,
+      "phonetic": "たっといあぶら とうといあぶら",
+      "word": "尊い油"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d1ad065",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Dầu đinh hương ."
+        }
+      ],
+      "mobileId": 141745,
+      "phonetic": "ちょうじゆ",
+      "word": "丁子油"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

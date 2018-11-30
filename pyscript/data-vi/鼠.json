@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568015247e9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "鼠咬症",
+              "mean": "bệnh do chuột cắn",
+              "transcription": "そこうしょう"
+            },
+            {
+              "content": "内弁慶の外鼠",
+              "mean": "là con hổ khi ở nhà và là con chuột khi ở bên ngoài",
+              "transcription": "うちべんけいのそとねずみ"
+            }
+          ],
+          "kind": "n",
+          "mean": "con chuột; chuột"
+        },
+        {
+          "examples": [
+            {
+              "content": "鼠径部リンパ節肥大",
+              "mean": "sự phình to các mô phần đường kính màu nâu .",
+              "transcription": "そけいぶリンパぶしひだい"
+            }
+          ],
+          "kind": "n",
+          "mean": "màu xám đen; màu nâu thẫm"
+        }
+      ],
+      "mobileId": 43187,
+      "phonetic": "ねずみ",
+      "related_words": {
+        "word": [
+          "栗鼠",
+          "針鼠",
+          "鼠色",
+          "溝鼠",
+          "海鼠"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鼠",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "マウス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鼠"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938c9d45",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chuột Kayane (nhỏ nhất trong các loài chuột ở Nhật)"
+        }
+      ],
+      "mobileId": 22392,
+      "phonetic": "かやねずみ",
+      "word": "萱鼠"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a897486",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "muskrat (Ondatra zibethicus)"
+        }
+      ],
+      "mobileId": 227789,
+      "phonetic": "においねずみ ニオイネズミ",
+      "word": "臭鼠"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3ac962b8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "armadillo"
+        }
+      ],
+      "mobileId": 229844,
+      "phonetic": "よろいねずみ",
+      "word": "鎧鼠"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca050f52e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bat (animal)"
+        }
+      ],
+      "mobileId": 283555,
+      "phonetic": "てんそ",
+      "word": "天鼠"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801527122",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bẫy chuột ."
+        }
+      ],
+      "mobileId": 43190,
+      "phonetic": "ねずみとり",
+      "related_words": {
+        "word": [
+          "鼠"
+        ]
+      },
+      "word": "鼠取り"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821b9a43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Mongolian gerbil (Meriones unguiculatus), Mongolian jird"
+        }
+      ],
+      "mobileId": 232505,
+      "phonetic": "すなねずみ スナネズミ",
+      "word": "砂鼠"
+    },
+    {
+      "_id": "432518852de0a80625d585a9821ba2d7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Ryukyu spiny rat (Tokudaia osimensis)"
+        }
+      ],
+      "mobileId": 232506,
+      "phonetic": "とげねずみ トゲネズミ",
+      "word": "棘鼠"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef91e3c88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "indigo-tinged grey, indigo-tinged gray"
+        }
+      ],
+      "mobileId": 273742,
+      "phonetic": "あいねずみ",
+      "word": "藍鼠"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de67f1c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lemming"
+        }
+      ],
+      "mobileId": 222579,
+      "phonetic": "たびねずみ",
+      "word": "旅鼠"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

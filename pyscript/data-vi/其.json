@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cebc4f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cái đó"
+        }
+      ],
+      "mobileId": 24467,
+      "phonetic": "",
+      "word": "其"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19312ab80",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mỗi; mỗi; cũng; tương ứng; riêng biệt"
+        }
+      ],
+      "mobileId": 18517,
+      "phonetic": "",
+      "word": "其其"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931295d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "int",
+          "mean": "mỗi; mỗi; cũng; tương ứng; riêng biệt"
+        }
+      ],
+      "mobileId": 18515,
+      "phonetic": "",
+      "word": "其れ其れ"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95d2b74a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chỗ đó; ở đó"
+        }
+      ],
+      "mobileId": 62828,
+      "opposite_word": [
+        "此処"
+      ],
+      "phonetic": "",
+      "word": "其処"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada072b3b",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "そちらから出て行ってください",
+              "mean": "Đi ra ở đường đó",
+              "transcription": "そちらからでていってください"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "pn, adj-no",
+          "mean": "nơi đó"
+        }
+      ],
+      "mobileId": 77014,
+      "phonetic": "そちら",
+      "word": "其方"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada0718b3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "そいつはいい考えだね.",
+              "mean": "Đó là một ý kiến hay đấy chứ nhỉ?",
+              "transcription": "そいつはいいかんがえだね."
+            },
+            {
+              "content": "そいつの言うことは当てにすべきではない.",
+              "mean": "Cậu đừng có trông chờ gì vào những gì thằng cha đó nói. .",
+              "transcription": "そいつのいうことはあてにすべきではない."
+            }
+          ],
+          "kind": "pn, adj-no",
+          "mean": "người đó; anh chàng đó; gã đó; người đồng nghiệp đó"
+        }
+      ],
+      "mobileId": 77013,
+      "phonetic": "そいつ",
+      "word": "其奴"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada072e93",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "そっちに行くつもりです",
+              "mean": "Tôi cũng định đi tới đó. .",
+              "transcription": "そっちにいくつもりです"
+            }
+          ],
+          "kind": "n, uk",
+          "mean": "nơi đó"
+        }
+      ],
+      "mobileId": 77015,
+      "phonetic": "そっち",
+      "word": "其方"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19312bab5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "int",
+          "mean": "mỗi; mỗi; cũng; tương ứng; riêng biệt"
+        }
+      ],
+      "mobileId": 18518,
+      "phonetic": "",
+      "word": "其々"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada06611c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "其れは私のかばんです",
+              "mean": "cái đấy là túi của tôi",
+              "transcription": "其れはわたしのかばんです"
+            }
+          ],
+          "kind": "n",
+          "mean": "nó; cái đấy; điều đấy"
+        }
+      ],
+      "mobileId": 77001,
+      "phonetic": "それ",
+      "word": "其れ"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c02e1a32",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "those (near the second person)"
+        }
+      ],
+      "mobileId": 200120,
+      "phonetic": "それら",
+      "word": "其れ等"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

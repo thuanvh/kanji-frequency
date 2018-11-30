@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd4b0954",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự giải tán"
+        }
+      ],
+      "mobileId": 71167,
+      "opposite_word": [
+        "任"
+      ],
+      "phonetic": "めん",
+      "related_words": {
+        "word": [
+          "御免なさい",
+          "免許",
+          "運転免許証",
+          "運転免許",
+          "免税",
+          "免許証",
+          "免責",
+          "免除",
+          "免疫",
+          "御免"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "免",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "解任",
+                "免官",
+                "馘首",
+                "首",
+                "免職",
+                "免黜",
+                "解雇",
+                "暇",
+                "解職",
+                "罷免",
+                "御免"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "免"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a6954fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "driving license suspension"
+        }
+      ],
+      "mobileId": 226755,
+      "phonetic": "めんてい",
+      "word": "免停"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939557ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giấy phép tạm thời; chứng chỉ tạm thời"
+        }
+      ],
+      "mobileId": 22665,
+      "phonetic": "かりめん",
+      "word": "仮免"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d0496ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "base isolation, seismic base isolation, base isolating, vibration damping at the base of a building"
+        }
+      ],
+      "mobileId": 215257,
+      "phonetic": "めんしん",
+      "word": "免震"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d10ab8e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "standard driver's licence"
+        }
+      ],
+      "mobileId": 215630,
+      "phonetic": "ふめん",
+      "word": "普免"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c0297a7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2r-s, vi",
+          "mean": "to escape from harm, to be spared"
+        }
+      ],
+      "mobileId": 190501,
+      "phonetic": "まのがる",
+      "word": "免る"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95ba169f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hoàn thành sự miễn"
+        }
+      ],
+      "mobileId": 62025,
+      "phonetic": "ぜんめん",
+      "related_words": {
+        "word": [
+          "全",
+          "免"
+        ]
+      },
+      "word": "全免"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd4e1650",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự giải tán"
+        }
+      ],
+      "mobileId": 71266,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "免"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "免黜",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "解任",
+                "免官",
+                "馘首",
+                "首",
+                "免職",
+                "免",
+                "解雇",
+                "暇",
+                "解職",
+                "罷免",
+                "御免"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "免黜"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d049d91",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "base isolated system, quake-absorbing structure"
+        }
+      ],
+      "mobileId": 215258,
+      "phonetic": "めんしんこうぞう",
+      "word": "免震構造"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

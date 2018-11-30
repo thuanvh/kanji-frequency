@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab688392cf",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sắp sôi; nổi bọt ở ngoài; chảy ở ngoài"
+        }
+      ],
+      "mobileId": 4187,
+      "phonetic": "にえにえ",
+      "word": "沸沸"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561ebc868f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "zeolite"
+        }
+      ],
+      "mobileId": 254146,
+      "phonetic": "ふっせき",
+      "word": "沸石"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68839e54",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv-to",
+          "mean": "sắp sôi; nổi bọt ở ngoài; chảy ở ngoài"
+        }
+      ],
+      "mobileId": 4188,
+      "phonetic": "にえ々",
+      "word": "沸々"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e47d3da",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "explosive boil (after a liquid has been heated to its boiling point), bumping"
+        }
+      ],
+      "mobileId": 250340,
+      "phonetic": "とっぷつ",
+      "word": "突沸"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757fbc2572",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sôi động ."
+        }
+      ],
+      "mobileId": 187996,
+      "phonetic": "わきたつ",
+      "word": "沸立つ"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,232 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757ff9313d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây sơn"
+        },
+        {
+          "examples": [
+            {
+              "content": "漆器製造",
+              "mean": "chế tạo đồ sơn mài",
+              "transcription": "しっきせいぞう"
+            },
+            {
+              "content": "沃懸地の漆器",
+              "mean": "đồ sơn mài lấp lánh bột vàng",
+              "transcription": "沃懸ちのしっき"
+            }
+          ],
+          "kind": "n",
+          "mean": "đồ sơn mài"
+        },
+        {
+          "examples": [
+            {
+              "content": "漆黒塗りの木の装飾",
+              "mean": "trang trí gỗ bằng sơn đen",
+              "transcription": "しっこくぬりのきのそうしょく"
+            }
+          ],
+          "kind": "n",
+          "mean": "sơn sống; sơn ta"
+        }
+      ],
+      "mobileId": 189061,
+      "phonetic": "うるし",
+      "related_words": {
+        "word": [
+          "漆黒",
+          "漆器",
+          "漆塗り"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "漆",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ラッカー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "漆"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef951f3c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(Japanese) lacquer art"
+        }
+      ],
+      "mobileId": 275361,
+      "phonetic": "しつげい",
+      "word": "漆芸"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757ff97794",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "漆塗りの椀",
+              "mean": "bát sơn",
+              "transcription": "うるしぬりのわん"
+            },
+            {
+              "content": "素晴らしい漆塗りの仏像を安置する",
+              "mean": "bày tượng Phật đã được sơn thếp rất tuyệt vời .",
+              "transcription": "すばらしいうるしぬりのぶつぞうをあんちする"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự quét sơn; tô sơn"
+        }
+      ],
+      "mobileId": 189066,
+      "phonetic": "うるしぬり",
+      "related_words": {
+        "word": [
+          "漆"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "漆塗り",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "漆器"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "漆塗り"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1935ed928",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "véc-ni"
+        }
+      ],
+      "mobileId": 20931,
+      "phonetic": "かりうるし",
+      "related_words": {
+        "word": [
+          "仮",
+          "漆"
+        ]
+      },
+      "word": "仮漆"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdccafa6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "một bức tranh sơn mài"
+        }
+      ],
+      "mobileId": 16259,
+      "phonetic": "うるしえ",
+      "word": "漆絵"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d20a11e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Asian poison ivy (Rhus ambigua)"
+        }
+      ],
+      "mobileId": 216152,
+      "phonetic": "つたうるし ツタウルシ",
+      "word": "蔦漆"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a932bac6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "black lacquer"
+        }
+      ],
+      "mobileId": 257901,
+      "phonetic": "ろいろうるし",
+      "word": "蝋色漆"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b351e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "dán và sơn; sự thân tình lớn"
+        }
+      ],
+      "mobileId": 39225,
+      "phonetic": "にかわうるし",
+      "related_words": {
+        "word": [
+          "漆",
+          "膠"
+        ]
+      },
+      "word": "膠漆"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d3b018",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu đen sơn"
+        }
+      ],
+      "mobileId": 40281,
+      "phonetic": "くろうるし",
+      "related_words": {
+        "word": [
+          "黒",
+          "漆"
+        ]
+      },
+      "word": "黒漆"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d206302",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese sumac (Rhus trichocarpa)"
+        }
+      ],
+      "mobileId": 216146,
+      "phonetic": "やまうるし ヤマウルシ",
+      "word": "山漆"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

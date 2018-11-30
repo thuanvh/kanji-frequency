@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3497a0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mặt trời buổi sáng"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "skips-most-stations Jouetsu-line shinkansen"
+        }
+      ],
+      "mobileId": 11476,
+      "phonetic": "あさひ",
+      "word": "旭"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f105a18",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tia nắng khi mặt trời mọc ."
+        }
+      ],
+      "mobileId": 185181,
+      "phonetic": "きょっき",
+      "word": "旭暉"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e819fd36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kéo cờ lên (Cờ có hình Mặt trời của Nhật Bản]"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rays of the rising sun"
+        }
+      ],
+      "mobileId": 34335,
+      "phonetic": "あさひはた",
+      "related_words": {
+        "word": [
+          "旗"
+        ]
+      },
+      "word": "旭旗"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd349ee7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cua bể chân đỏ"
+        }
+      ],
+      "mobileId": 11477,
+      "phonetic": "あさひかに",
+      "word": "旭蟹"
+    },
+    {
+      "_id": "12be0047dfdec669605e1a2b222de113",
+      "means": [
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "1 ngọn núi ở Nhật Bản nằm ở thị trấn higashikawa, hokkaido và là ngọn núi cao nhất trên đảo hokkaido cao 2291m"
+        }
+      ],
+      "mobileId": 0,
+      "phonetic": "Asahidake",
+      "word": "旭岳"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

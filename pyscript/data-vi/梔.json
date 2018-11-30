@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "fe59d178662ff4b87a141c757f61faac",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cây dành dành ."
+        }
+      ],
+      "mobileId": 186595,
+      "phonetic": "くちなし",
+      "word": "梔子"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be80ba4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "eightfold gardenia, Gardenia jasminoide"
+        }
+      ],
+      "mobileId": 247249,
+      "phonetic": "やえくちなし ヤエクチナシ",
+      "word": "八重梔子"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833be80ecc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Fukurin gardenia, Gardenia jasminoide"
+        }
+      ],
+      "mobileId": 247250,
+      "phonetic": "ふくりんくちなし",
+      "word": "覆輪梔子"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

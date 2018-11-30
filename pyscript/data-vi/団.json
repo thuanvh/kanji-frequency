@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adaefda6d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "toán ."
+        }
+      ],
+      "mobileId": 80820,
+      "phonetic": "だん",
+      "word": "団"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cda74250",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hiệp hội phe (đảng) không phải là thành viên quốc hội"
+        }
+      ],
+      "mobileId": 15091,
+      "phonetic": "いんがいだん",
+      "word": "院外団"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568011beb42",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đoàn cố vấn ."
+        }
+      ],
+      "mobileId": 42218,
+      "phonetic": "こもんだん",
+      "word": "顧問団"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed959bf105",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đội; tổ"
+        }
+      ],
+      "mobileId": 61070,
+      "phonetic": "せんしゅだん",
+      "word": "選手団"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7da30a9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bồi thẩm đoàn ."
+        }
+      ],
+      "mobileId": 110367,
+      "phonetic": "ばいしんだん",
+      "word": "陪審団"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d883b4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đoàn đại biểu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phái đoàn ."
+        }
+      ],
+      "mobileId": 143815,
+      "phonetic": "だいひょうだん",
+      "related_words": {
+        "word": [
+          "代表",
+          "表",
+          "代"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "代表団",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "デリゲーション",
+                "ミッション",
+                "使節団"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "代議員団",
+                "代表",
+                "デリゲーション",
+                "委任",
+                "使節団"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "代表団"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9f09caf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "band of warriors (often formed from related or dependent families), group of samurai"
+        }
+      ],
+      "mobileId": 280458,
+      "phonetic": "ぶしだん",
+      "word": "武士団"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a99d31d2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "order of chivalry, chivalric order"
+        }
+      ],
+      "mobileId": 261311,
+      "phonetic": "きしだん",
+      "related_words": {
+        "word": [
+          "騎士",
+          "士"
+        ]
+      },
+      "word": "騎士団"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0156910",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "strikers, workers on strike"
+        }
+      ],
+      "mobileId": 281639,
+      "phonetic": "そうぎだん",
+      "word": "争議団"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab689ea835",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhảy đoàn"
+        }
+      ],
+      "mobileId": 5033,
+      "phonetic": "ぶようだん",
+      "word": "舞踊団"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

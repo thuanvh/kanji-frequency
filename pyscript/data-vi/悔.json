@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "_id": "240dfb508424581ad13e9197e858d593",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tiếc nuối, hối tiếc; thương tiếc"
+        }
+      ],
+      "mobileId": 36352,
+      "phonetic": "",
+      "word": "悔む"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c027d0ed",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v2y-k, vt",
+          "mean": "to regret"
+        }
+      ],
+      "mobileId": 190442,
+      "phonetic": "くゆ",
+      "word": "悔ゆ"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e84cd6b0",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đáng tiếc, đáng ân hận"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hành xác, khổ hạnh, làm nhục, làm xấu hổ, làm mất thể diện"
+        }
+      ],
+      "mobileId": 35962,
+      "phonetic": "",
+      "word": "悔やしい"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e858bdb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự làm bực mình, sự làm phật ý, sự bực mình, sự phật ý, điều phiền toái, điều khó chịu"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự chán nản, sự buồn nản; sự thất vọng; sự tủi nhục, làm phiền muộn; làm thất vọng; làm tủi nhục"
+        }
+      ],
+      "mobileId": 36350,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "し",
+          "涙"
+        ]
+      },
+      "word": "悔やし涙"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada452fb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "thuốc ."
+        }
+      ],
+      "mobileId": 78123,
+      "phonetic": "ざい",
+      "related_words": {
+        "word": [
+          "接着剤",
+          "薬剤師",
+          "漂白剤",
+          "洗剤",
+          "添加剤",
+          "殺虫剤",
+          "乾燥剤",
+          "酸化防止剤",
+          "薬剤",
+          "防腐剤"
+        ]
+      },
+      "word": "剤"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68e60b16",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chất khử mùi"
+        }
+      ],
+      "mobileId": 7327,
+      "phonetic": "ぼうしゅうざい",
+      "related_words": {
+        "word": [
+          "剤",
+          "防臭"
+        ]
+      },
+      "word": "防臭剤"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68125e50",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chất tạo bọt"
+        }
+      ],
+      "mobileId": 600,
+      "phonetic": "はっぽうざい",
+      "related_words": {
+        "word": [
+          "発",
+          "泡",
+          "剤",
+          "発泡"
+        ]
+      },
+      "word": "発泡剤"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19369427a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chất làm dẻo, chất làm mềm dẻo"
+        }
+      ],
+      "mobileId": 21275,
+      "phonetic": "かそざい",
+      "related_words": {
+        "word": [
+          "可",
+          "剤",
+          "可塑"
+        ]
+      },
+      "word": "可塑剤"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0503fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "detergent, washing material"
+        }
+      ],
+      "mobileId": 223559,
+      "phonetic": "せんじょうざい",
+      "related_words": {
+        "word": [
+          "洗浄",
+          "剤"
+        ]
+      },
+      "word": "洗浄剤"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a430c61",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "arsenicals (drugs containing arsenic)"
+        }
+      ],
+      "mobileId": 225572,
+      "phonetic": "ひそざい",
+      "word": "砒素剤"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193976209",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chất làm rụng lá"
+        }
+      ],
+      "mobileId": 22725,
+      "phonetic": "かれはざい",
+      "related_words": {
+        "word": [
+          "葉",
+          "剤",
+          "枯葉"
+        ]
+      },
+      "word": "枯葉剤"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107803123",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuốc hiện ảnh ."
+        }
+      ],
+      "mobileId": 54000,
+      "phonetic": "ていちゃくざい",
+      "word": "定着剤"
+    },
+    {
+      "_id": "432518852de0a80625d585a9824d76a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cataplasm, poultice"
+        }
+      ],
+      "mobileId": 234081,
+      "phonetic": "パップざい",
+      "word": "パップ剤"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95a53b1b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "màu tóc"
+        }
+      ],
+      "mobileId": 61363,
+      "phonetic": "せんぱつざい",
+      "word": "染髪剤"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

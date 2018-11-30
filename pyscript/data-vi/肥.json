@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027526899",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "肥をやる",
+              "mean": "bón phân .",
+              "transcription": "こえをやる"
+            }
+          ],
+          "kind": "n",
+          "mean": "phân; cứt; phân bón"
+        }
+      ],
+      "mobileId": 30489,
+      "phonetic": "こえ",
+      "related_words": {
+        "word": [
+          "肥満",
+          "肥料",
+          "肥大",
+          "堆肥",
+          "施肥",
+          "化学肥料",
+          "肥える"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "肥",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "肥やし",
+                "肥料"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "肥やし",
+                "肥料",
+                "廐肥",
+                "下肥",
+                "堆肥"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "肥"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027533f36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ngựa béo ."
+        }
+      ],
+      "mobileId": 30508,
+      "phonetic": "ひば",
+      "word": "肥馬"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8cd98e9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "việc mang đêm dễ bẩn"
+        }
+      ],
+      "mobileId": 40080,
+      "phonetic": "こえくみ",
+      "related_words": {
+        "word": [
+          "肥"
+        ]
+      },
+      "word": "肥汲み"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107f36381",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Phân bón; phân hữu cơ; phân chuồng ."
+        }
+      ],
+      "mobileId": 55915,
+      "phonetic": "きゅうひ",
+      "related_words": {
+        "word": [
+          "肥"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "廐肥",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "肥やし",
+                "肥料",
+                "肥",
+                "下肥",
+                "堆肥"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "廐肥"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770a65f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "night-soil man, night-soil woman"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "removal of night-soil"
+        }
+      ],
+      "mobileId": 264790,
+      "phonetic": "こえとり",
+      "word": "肥取り"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a94224ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "night-soil bucket, honey bucket"
+        }
+      ],
+      "mobileId": 258411,
+      "phonetic": "こえおけ",
+      "word": "肥桶"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b61078",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chamber pot, jerry"
+        }
+      ],
+      "mobileId": 286795,
+      "phonetic": "こえつぼ",
+      "word": "肥壺"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8cdb1a8",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "hầm chứa phân, nơi ô uế, nơi bẩn thỉu"
+        }
+      ],
+      "mobileId": 40082,
+      "phonetic": "こえたまり",
+      "word": "肥溜"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0b02239",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mixed fertilizer, e.g. made from compost and burned soil"
+        }
+      ],
+      "mobileId": 286592,
+      "phonetic": "ぞうひ",
+      "word": "雑肥"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca096d3ab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "alfalfa (Medicago sativa), alphalpha, lucerne"
+        }
+      ],
+      "mobileId": 285763,
+      "phonetic": "むらさきうまごやし ムラサキウマゴヤシ",
+      "word": "紫馬肥"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

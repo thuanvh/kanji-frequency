@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "_id": "3f622868b00cf393d2dd93ed9583f6c0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "gia đình,họ (của) ai đó đăng ký; một có nơi ở"
+        }
+      ],
+      "mobileId": 60286,
+      "phonetic": "せき",
+      "word": "籍"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d7e2bb2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "membership of the Imperial family"
+        }
+      ],
+      "mobileId": 219147,
+      "phonetic": "こうせき",
+      "word": "皇籍"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80b60b6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tham gia nhà thờ"
+        }
+      ],
+      "mobileId": 33853,
+      "phonetic": "きょうせき",
+      "word": "教籍"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95e6ad35",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giai cấp; tầng lớp (và nơi ở hợp pháp)"
+        }
+      ],
+      "mobileId": 63470,
+      "phonetic": "ぞくせき",
+      "word": "族籍"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca095f412",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "establishment of a family registry (separate from one's parents')"
+        }
+      ],
+      "mobileId": 285739,
+      "phonetic": "ぶんせき",
+      "word": "分籍"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9798d84",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "foreign citizenship, foreign nationality"
+        }
+      ],
+      "mobileId": 276615,
+      "phonetic": "がいこくせき",
+      "word": "外国籍"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d884bc8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, suf",
+          "mean": "ship registry"
+        }
+      ],
+      "mobileId": 219484,
+      "phonetic": "せきせん",
+      "word": "籍船"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdeb9bb6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "relatives"
+        }
+      ],
+      "mobileId": 17237,
+      "phonetic": "えんせき",
+      "related_words": {
+        "word": [
+          "縁"
+        ]
+      },
+      "word": "縁籍"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9bd7f33",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bedding, bed"
+        },
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "to sleep together in the same bed"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to sleep together using each other's bodies as pillow"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to sleep together using books as a pillow"
+        }
+      ],
+      "mobileId": 262333,
+      "phonetic": "ちんせき ちんしゃ",
+      "word": "枕籍"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9588eeb1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, v1",
+          "mean": "có một tên được vào trong gia đình,họ đăng ký"
+        }
+      ],
+      "mobileId": 60446,
+      "phonetic": "せきをいれる",
+      "word": "籍を入れる"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

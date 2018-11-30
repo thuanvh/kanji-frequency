@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de1071e3c1f",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "（人）の心の奥の抗し難い声",
+              "mean": "Tiếng nói thuyết phục từ sâu trong trái tim của ai.",
+              "transcription": "（ひと）のこころのおくのこうしがたいこえ"
+            },
+            {
+              "content": "（人）が帰宅したときに飼い犬が鳴く声",
+              "mean": "Chó sủa khi (ai đó) về nhà. .",
+              "transcription": "（ひと）がきたくしたときにかいいぬがなくこえ"
+            }
+          ],
+          "kind": "n",
+          "mean": "tiếng; giọng nói"
+        }
+      ],
+      "mobileId": 52358,
+      "phonetic": "こえ",
+      "related_words": {
+        "word": [
+          "音声",
+          "声優",
+          "声をかける",
+          "名声",
+          "鳴き声",
+          "歌声",
+          "大声で",
+          "声明",
+          "大声",
+          "歓声"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "声",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "発声",
+                "音声",
+                "ボイス"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "音響",
+                "音声",
+                "音",
+                "響",
+                "物音",
+                "響き",
+                "サウンド"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一声",
+                "音声",
+                "ボイス"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "声"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab68ce3250",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tiếng sủa (chó); tiếng hú; tiếng gầm rống (sư tử)"
+        }
+      ],
+      "mobileId": 6579,
+      "phonetic": "ほえごえ",
+      "word": "吠え声"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193cfb4d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "giọng the thé"
+        }
+      ],
+      "mobileId": 24491,
+      "phonetic": "きいろいこえ",
+      "related_words": {
+        "word": [
+          "色",
+          "声",
+          "黄",
+          "黄色い"
+        ]
+      },
+      "word": "黄色い声"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8cd8a21",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "sự giới thiệu; sự tiến cử của một người có chức vụ cao"
+        }
+      ],
+      "mobileId": 40079,
+      "phonetic": "こえかかり",
+      "word": "声掛かり"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e559579",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thuộc về âm điệu đánh dấu (e.g. pinyin)"
+        }
+      ],
+      "mobileId": 113769,
+      "phonetic": "ちょうごえ",
+      "related_words": {
+        "word": [
+          "声"
+        ]
+      },
+      "word": "調声"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9973d3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "deep voice, rich voice, full voice"
+        }
+      ],
+      "mobileId": 277568,
+      "phonetic": "ふといこえ",
+      "word": "太い声"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e633993",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "groan, moan"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "roar, growl"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "buzz, hum (e.g. motor), whistling (e.g. wind, wires in the wind)"
+        }
+      ],
+      "mobileId": 251237,
+      "phonetic": "うなりごえ",
+      "word": "うなり声"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e80ad681",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "thấp đốt sém tiếng nói"
+        }
+      ],
+      "mobileId": 33840,
+      "phonetic": "むねごえ",
+      "word": "胸声"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc6e9e6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "rền rỉ; than vãn; than vãn"
+        }
+      ],
+      "mobileId": 16082,
+      "phonetic": "うめきごえ",
+      "word": "呻き声"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca055a04e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp, n",
+          "mean": "sweet voice, seductive voice"
+        }
+      ],
+      "mobileId": 283712,
+      "phonetic": "あまいこえ",
+      "word": "甘い声"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

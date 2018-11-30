@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd6d5124",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Bia mộ"
+        }
+      ],
+      "mobileId": 13276,
+      "phonetic": "いしぶみ",
+      "word": "碑"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9590808",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "đài tưởng niệm"
+        }
+      ],
+      "mobileId": 259143,
+      "phonetic": "いれいひ",
+      "word": "慰霊碑"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027e323b0",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "〜のための記念碑の建設",
+              "mean": "Xây dựng bia tưởng niệm để ~.",
+              "transcription": "〜のためのきねんひのけんせつ"
+            },
+            {
+              "content": "戦争の英雄たちの記念碑が、大理石と青銅でつくられた",
+              "mean": "Bia tưởng niệm những vị anh hùng trong cuộc chiến tranh được dựng bằng đá cẩm thạch và đồng thiếc",
+              "transcription": "せんそうのえいゆうたちのきねんひが、だいりせきとせいどうでつくられた"
+            },
+            {
+              "content": "何千何万という人の名前が戦没者記念碑に刻み込まれた",
+              "mean": "Tên của hàng ngàn liệt sĩ đã được khắc lên bia tưởng niệm",
+              "transcription": "なんせんなんまんというひとのなまえがせんぼつしゃきねんひにきざみこまれた"
+            },
+            {
+              "content": "ベトナム戦没者記念碑",
+              "mean": "Bia tưởng niệm các liệt sĩ Việt Nam",
+              "transcription": "ベトナムせんぼつしゃきねんひ"
+            }
+          ],
+          "kind": "n",
+          "mean": "bia kỷ niệm; bia tưởng niệm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đài kỷ niệm ."
+        }
+      ],
+      "mobileId": 32980,
+      "phonetic": "きねんひ",
+      "related_words": {
+        "word": [
+          "記",
+          "記念",
+          "念"
+        ]
+      },
+      "word": "記念碑"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9590ea0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "memorial (stone)"
+        }
+      ],
+      "mobileId": 259144,
+      "phonetic": "ついとうひ",
+      "word": "追悼碑"
+    },
+    {
+      "_id": "21f0c71f2162fd9b60ada28027b39795",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bia kỷ niệm chiến tranh ."
+        }
+      ],
+      "mobileId": 32245,
+      "phonetic": "ひょうちゅうひ",
+      "related_words": {
+        "word": [
+          "表"
+        ]
+      },
+      "word": "表忠碑"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a958e8fe",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "war memorial"
+        }
+      ],
+      "mobileId": 259140,
+      "phonetic": "せんぼつしゃいれいひ",
+      "word": "戦没者慰霊碑"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74fcce04",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bia tưởng niệm Nitta Yoshisada ."
+        }
+      ],
+      "mobileId": 101267,
+      "phonetic": "にったよしさだのひ",
+      "word": "新田義貞の碑"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69a1023e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đài liệt sĩ ."
+        }
+      ],
+      "mobileId": 170555,
+      "phonetic": "れっしのひ",
+      "word": "烈士の碑"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

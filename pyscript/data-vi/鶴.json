@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e47775435680149f710",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "あの子、不器用なのよね。折り紙で鶴を作れないの。",
+              "mean": "cô bé ấy rất vụng về, không thể xếp con hạc bằng giấy",
+              "transcription": "あのこ、ぶきようなのよね。おりがみでつるをつくれないの。"
+            },
+            {
+              "content": "世界中の子どもたちが送った鶴は記念碑に飾られています。",
+              "mean": "Những con hạc mà trẻ en khắp nơi trên thế giới gửi tới được trang trí trên bia tưởng niệm.",
+              "transcription": "せかいじゅうのこどもたちがおくったつるはきねんひにかざられています。"
+            }
+          ],
+          "kind": "n",
+          "mean": "con hạc; con sếu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hạc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vạc ."
+        }
+      ],
+      "mobileId": 43014,
+      "phonetic": "つる",
+      "word": "鶴"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dd132f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sandhill crane (Grus canadensis)"
+        }
+      ],
+      "mobileId": 221887,
+      "phonetic": "カナダづる",
+      "word": "カナダ鶴"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a03db37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flamingo (Phoenicopteridae)"
+        }
+      ],
+      "mobileId": 223526,
+      "phonetic": "べにづる",
+      "word": "紅鶴"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca00af7e8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "migration of cranes to their nesting grounds"
+        }
+      ],
+      "mobileId": 281318,
+      "phonetic": "つるきたる",
+      "word": "鶴来る"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77dc3e91",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "crane and tortoise (symbol of longevity, artistic motif)"
+        }
+      ],
+      "mobileId": 271626,
+      "phonetic": "つるかめ",
+      "word": "鶴亀"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a982fa7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Oriental stork (Ciconia boyciana)"
+        }
+      ],
+      "mobileId": 228255,
+      "phonetic": "こうづる",
+      "word": "鸛鶴"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a03d35b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "common crane (Grus grus)"
+        }
+      ],
+      "mobileId": 223525,
+      "phonetic": "くろづる",
+      "word": "黒鶴"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193b704e5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "loài hạc có cánh màu trắng, đuôi màu nâu, trên đầu có mào hình giống vương miện màu vàng; loài hạc vua"
+        }
+      ],
+      "mobileId": 23718,
+      "phonetic": "かんむりつる",
+      "word": "冠鶴"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568014a0ab0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Họ chim hạc ."
+        }
+      ],
+      "mobileId": 43016,
+      "phonetic": "つるか",
+      "word": "鶴科"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6deb51fa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "final word, voice of authority, authoritative pronouncement"
+        }
+      ],
+      "mobileId": 222731,
+      "phonetic": "つるのひとこえ",
+      "word": "鶴の一声"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,277 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e477754356801463df1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chim chóc"
+        },
+        {
+          "examples": [
+            {
+              "content": "各種の鳥",
+              "mean": "các loại chim",
+              "transcription": "かくしゅのとり"
+            },
+            {
+              "content": "外国産の鳥",
+              "mean": "Chim ngoại lai",
+              "transcription": "がいこくさんのとり"
+            }
+          ],
+          "kind": "n",
+          "mean": "chim; gia cầm"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "điểu ."
+        }
+      ],
+      "mobileId": 42947,
+      "phonetic": "とり",
+      "related_words": {
+        "word": [
+          "千鳥",
+          "青い鳥",
+          "雷鳥",
+          "花鳥風月",
+          "不死鳥",
+          "焼き鳥",
+          "七面鳥",
+          "白鳥",
+          "一石二鳥",
+          "小鳥"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鳥",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "鶏"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "小鳥",
+                "鳥類",
+                "禽鳥"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鳥"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19325a075",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "vươn; gà trống"
+        }
+      ],
+      "mobileId": 19125,
+      "phonetic": "おすとり",
+      "word": "牡鳥"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7b70f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lesser cuckoo (Cuculus poliocephalus)"
+        }
+      ],
+      "mobileId": 227331,
+      "phonetic": "うづきどり",
+      "word": "卯月鳥"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7b7dde",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lesser cuckoo (Cuculus poliocephalus)"
+        }
+      ],
+      "mobileId": 227333,
+      "phonetic": "あさはどり",
+      "word": "浅羽鳥"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7b89f2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lesser cuckoo (Cuculus poliocephalus)"
+        }
+      ],
+      "mobileId": 227335,
+      "phonetic": "あやめどり",
+      "word": "文目鳥"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7bbc3e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lesser cuckoo (Cuculus poliocephalus)"
+        }
+      ],
+      "mobileId": 227341,
+      "phonetic": "しずとり",
+      "word": "賤鳥"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a7be6c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lesser cuckoo (Cuculus poliocephalus)"
+        }
+      ],
+      "mobileId": 227346,
+      "phonetic": "つなどり",
+      "word": "綱鳥"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a8d299f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "flying bird, soaring bird"
+        }
+      ],
+      "mobileId": 227912,
+      "phonetic": "とぶとり",
+      "word": "飛ぶ鳥"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568010106a2",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "ニューヨーカーの青い鳥",
+              "mean": "phương pháp trị liệu trong tương lai.",
+              "transcription": "ニューヨーカーのあおいとり"
+            },
+            {
+              "content": "私たちの庭に毎日青い鳥がやって来る",
+              "mean": "ngày nào cũng có một con chim xanh bay vào vườn nhà chúng tôi.",
+              "transcription": "わたしたちのにわにまいにちあおいとりがやってくる"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "n",
+          "mean": "con chim xanh, tên một vở vũ kịch được công diễn lần đầu vào năm 1908"
+        }
+      ],
+      "mobileId": 41729,
+      "phonetic": "あおいとり",
+      "related_words": {
+        "word": [
+          "青",
+          "鳥",
+          "青い"
+        ]
+      },
+      "word": "青い鳥"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680146de12",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "中国のバレーチームにはちょっと勝てない。",
+              "mean": "Không thể dễ dàng đánh bại đội bóng chuyền Trung Quốc.",
+              "transcription": "ちゅうごくのバレーチームにはちょっとかてない。"
+            }
+          ],
+          "kind": "adv, int, uk",
+          "mean": "dễ dàng; đơn giản"
+        },
+        {
+          "examples": [
+            {
+              "content": "ちょっと顔色が悪いね。",
+              "mean": "Sắc mặt anh có vẻ hơi xấu nhỉ.",
+              "transcription": "ちょっとかおいろがわるいね。"
+            }
+          ],
+          "kind": "adv, int, uk",
+          "mean": "hơi hơi"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼女はご飯はちょっとしか食べない。",
+              "mean": "Cô ấy chỉ ăn một chút cơm.",
+              "transcription": "かのじょはごはんはちょっとしかたべない。"
+            }
+          ],
+          "kind": "adv, int, uk",
+          "mean": "một chút"
+        },
+        {
+          "examples": [
+            {
+              "content": "松原さんの奥さんはちょっとした美人だ。",
+              "mean": "Vợ của anh Matsubara cũng tương đối đẹp",
+              "transcription": "まつばらさんのおくさんはちょっとしたびじんだ。"
+            }
+          ],
+          "kind": "adv, int, uk",
+          "mean": "tương đối"
+        },
+        {
+          "examples": [
+            {
+              "content": "ちょっと、この借金どうしてくれるのよ。",
+              "mean": "Này, cậu sẽ làm thế nào để trả chỗ tiền vay này cho mình đấy ?",
+              "transcription": "ちょっと、このしゃっきんどうしてくれるのよ。"
+            }
+          ],
+          "kind": "int, uk",
+          "mean": "này; ê (tiếng gọi)"
+        },
+        {
+          "examples": [
+            {
+              "content": "ちょっと待ってね。",
+              "mean": "Đợi một phút nhé .",
+              "transcription": "ちょっとまってね。"
+            }
+          ],
+          "kind": "adv, uk",
+          "mean": "vài phút"
+        }
+      ],
+      "mobileId": 42958,
+      "phonetic": "ちょっと",
+      "word": "鳥渡"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

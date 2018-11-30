@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a982091258",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "subordinate, secondary, junior, incidental"
+        }
+      ],
+      "mobileId": 231931,
+      "opposite_word": [
+        "主"
+      ],
+      "phonetic": "じゅう",
+      "word": "従"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19362aaca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "người phục vụ trong nhà; người quản gia; người hầu trong nhà"
+        }
+      ],
+      "mobileId": 21056,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "家"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "家従",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "下働き",
+                "下男",
+                "家僕",
+                "召使",
+                "下郎",
+                "奉公人",
+                "従僕",
+                "家来",
+                "サーバント",
+                "下僕",
+                "使用人",
+                "召し使い",
+                "下人"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "家職",
+                "執事",
+                "家令",
+                "スチュワード",
+                "家扶"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "家従"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b789c05",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slave station"
+        }
+      ],
+      "mobileId": 243700,
+      "phonetic": "じゅうきょく",
+      "word": "従局"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95142408",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nguyên nhân gián tiếp, nguyên nhân thứ yếu"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "reserves"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "recruits"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "draftees"
+        }
+      ],
+      "mobileId": 56754,
+      "opposite_word": [
+        "主因"
+      ],
+      "phonetic": "",
+      "word": "従因"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a92688b6",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "số tiền phát sinh, khối lượng sử dụng, tỷ lệ đồng hồ hoặc số tiền"
+        }
+      ],
+      "mobileId": 257500,
+      "phonetic": "じゅうりょう",
+      "word": "従量"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9518e146",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-f",
+          "mean": "người cấp dưới; thứ nhì; cấp dưới; bất ngờ; phụ trợ"
+        }
+      ],
+      "mobileId": 56901,
+      "phonetic": "",
+      "word": "従たる"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd555044",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "bằng lòng, ưng thuận, đồng ý; bằng lòng ngầm, mặc nhận"
+        }
+      ],
+      "mobileId": 71482,
+      "phonetic": "",
+      "word": "黙従"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9517e683",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "làm cho lệ thuộc mệnh đề"
+        }
+      ],
+      "mobileId": 56871,
+      "phonetic": "",
+      "word": "従節"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951971a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na",
+          "mean": "làm cho lệ thuộc; thứ nhì"
+        }
+      ],
+      "mobileId": 56917,
+      "phonetic": "",
+      "word": "従的"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed951b6451",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vật phụ thuộc, sự thuộc về, đồ phụ tùng"
+        }
+      ],
+      "mobileId": 56972,
+      "phonetic": "",
+      "word": "従物"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

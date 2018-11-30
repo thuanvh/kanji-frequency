@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "_id": "35e94b76fb726c8818e40de107634642",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cháu gái ."
+        }
+      ],
+      "mobileId": 53514,
+      "opposite_word": [
+        "甥"
+      ],
+      "phonetic": "めい",
+      "word": "姪"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dee3084",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grandniece"
+        }
+      ],
+      "mobileId": 222820,
+      "phonetic": "まためい",
+      "word": "又姪"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cde04765",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lệnh điệt; cháu gái của bạn [từ lịch sự để gọi cháu gái của người đối thoại]"
+        }
+      ],
+      "mobileId": 75922,
+      "phonetic": "りょうめい",
+      "related_words": {
+        "word": [
+          "姪",
+          "令"
+        ]
+      },
+      "word": "令姪"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dee0aec",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "niece"
+        }
+      ],
+      "mobileId": 222816,
+      "phonetic": "めいっこ めいご",
+      "related_words": {
+        "word": [
+          "子",
+          "姪"
+        ]
+      },
+      "word": "姪っ子"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b4bf0d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(another person's) niece"
+        }
+      ],
+      "mobileId": 212669,
+      "phonetic": "めいご",
+      "word": "姪御"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8af84f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "grandniece, grandnephew"
+        }
+      ],
+      "mobileId": 219572,
+      "phonetic": "てっそん",
+      "word": "姪孫"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

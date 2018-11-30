@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7744ac85",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "awakening, waking up, opening one's eyes"
+        }
+      ],
+      "mobileId": 266676,
+      "phonetic": "せいかく",
+      "word": "醒覚"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f59b4d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "half asleep and half awake"
+        }
+      ],
+      "mobileId": 214785,
+      "phonetic": "はんすいはんせい",
+      "word": "半睡半醒"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0f5a2c8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "half awake and half asleep"
+        }
+      ],
+      "mobileId": 214787,
+      "phonetic": "はんせいはんすい",
+      "word": "半醒半睡"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

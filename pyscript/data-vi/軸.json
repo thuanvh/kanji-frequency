@@ -1,0 +1,241 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa74ced4a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "cán bút"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "đường chuẩn của hình học đối xứng"
+        },
+        {
+          "examples": null,
+          "kind": "n, n-suf",
+          "mean": "trục ."
+        }
+      ],
+      "mobileId": 107943,
+      "phonetic": "じく",
+      "related_words": {
+        "word": [
+          "横軸",
+          "時間軸",
+          "回転軸",
+          "軸受け",
+          "主軸",
+          "枢軸",
+          "同軸ケーブル",
+          "光軸",
+          "掛け軸",
+          "車軸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "軸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "コア",
+                "仲核",
+                "中枢",
+                "核",
+                "中軸",
+                "心臓部",
+                "中核"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "中軸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "心棒",
+                "機軸",
+                "回転軸"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "心棒",
+                "機軸",
+                "車軸"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "軸"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0134c88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "point at issue, axis of a conflict, focus of confrontation"
+        }
+      ],
+      "mobileId": 281573,
+      "phonetic": "たいりつじく",
+      "word": "対立軸"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda25840",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "trục hoành"
+        }
+      ],
+      "mobileId": 73973,
+      "opposite_word": [
+        "縦軸"
+      ],
+      "phonetic": "よこじく",
+      "related_words": {
+        "word": [
+          "横",
+          "軸"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "横軸",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "横座標",
+                "横線"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "横軸"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900e0dbf28",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trục tung; đường thẳng đứng"
+        }
+      ],
+      "mobileId": 111467,
+      "opposite_word": [
+        "横軸"
+      ],
+      "phonetic": "たてじく",
+      "word": "縦軸"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d60f268",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "trục xe chết"
+        }
+      ],
+      "mobileId": 148796,
+      "phonetic": "しじく",
+      "word": "死軸"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0dfafbf5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chân trục quay"
+        }
+      ],
+      "mobileId": 153756,
+      "phonetic": "じくあし",
+      "related_words": {
+        "word": [
+          "足",
+          "軸"
+        ]
+      },
+      "word": "軸足"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d07c9c9",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "horizontal axis"
+        }
+      ],
+      "mobileId": 215344,
+      "phonetic": "すいへいじく",
+      "word": "水平軸"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca06f1730",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "drive shaft"
+        }
+      ],
+      "mobileId": 284522,
+      "phonetic": "くどうじく",
+      "word": "駆動軸"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0134bab",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "vertical shaft, upright arm shaft"
+        }
+      ],
+      "mobileId": 281572,
+      "phonetic": "たてじく",
+      "word": "立軸"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de1074be249",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Trục thiên cầu ."
+        }
+      ],
+      "mobileId": 53093,
+      "phonetic": "てんじく",
+      "related_words": {
+        "word": [
+          "天",
+          "軸"
+        ]
+      },
+      "word": "天軸"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

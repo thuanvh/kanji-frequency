@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3ada49f8d6",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "わいせつな劇",
+              "mean": "Vở kịch khiêu dâm (không đứng đắn)",
+              "transcription": "わいせつなげき"
+            },
+            {
+              "content": "シェークスピア劇",
+              "mean": "Kịch của Shakespeare",
+              "transcription": "シェークスピアげき"
+            },
+            {
+              "content": "まれに見る面白い劇",
+              "mean": "Vở kịch thú vị hiếm thấy",
+              "transcription": "まれにみるおもしろいげき"
+            },
+            {
+              "content": "ちゃんばら劇",
+              "mean": "Vở kịch về trận đấu kiếm",
+              "transcription": "ちゃんばらげき"
+            },
+            {
+              "content": "（人）による自作自演劇",
+              "mean": "Vở kịch do ai tự biên tự diễn",
+              "transcription": "（ひと）によるじさくじえんげき"
+            },
+            {
+              "content": "劇、どうだった？",
+              "mean": "Vở kịch thế nào? .",
+              "transcription": "げき、どうだった？"
+            }
+          ],
+          "kind": "n",
+          "mean": "kịch"
+        }
+      ],
+      "mobileId": 78224,
+      "phonetic": "げき",
+      "related_words": {
+        "word": [
+          "劇場",
+          "演劇",
+          "悲劇",
+          "時代劇",
+          "劇団",
+          "西部劇",
+          "喜劇",
+          "観劇",
+          "劇的",
+          "惨劇"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "劇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "芝居",
+                "演戯",
+                "演劇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ドラマ",
+                "芝居",
+                "脚本",
+                "戯曲",
+                "演劇"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "演劇術",
+                "劇道",
+                "芝居",
+                "演劇"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "劇"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e895692f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kịch trong kịch"
+        }
+      ],
+      "mobileId": 38285,
+      "phonetic": "げきちゅうげき",
+      "word": "劇中劇"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89626e1",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "đốt nóng thảo luận"
+        }
+      ],
+      "mobileId": 38307,
+      "phonetic": "げきろん",
+      "related_words": {
+        "word": [
+          "劇"
+        ]
+      },
+      "word": "劇論"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8a30774",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kịch hiện đại"
+        }
+      ],
+      "mobileId": 38718,
+      "opposite_word": [
+        "時代劇"
+      ],
+      "phonetic": "げんだいげき",
+      "word": "現代劇"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ee81716",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "con rối hiện ra"
+        }
+      ],
+      "mobileId": 118428,
+      "phonetic": "にんぎょうげき",
+      "related_words": {
+        "word": [
+          "人",
+          "形",
+          "人形",
+          "劇"
+        ]
+      },
+      "word": "人形劇"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77cf4459",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kabuki play, kabuki drama"
+        }
+      ],
+      "mobileId": 271171,
+      "phonetic": "かぶきげき",
+      "word": "歌舞伎劇"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e860626d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "đạo đức chơi; trò chơi ngụ ngôn"
+        }
+      ],
+      "mobileId": 36594,
+      "phonetic": "ぐういげき",
+      "word": "寓意劇"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e89508f7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "động đất khốc liệt"
+        }
+      ],
+      "mobileId": 38270,
+      "phonetic": "げきしん",
+      "related_words": {
+        "word": [
+          "劇"
+        ]
+      },
+      "word": "劇震"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193aea7c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kịch mang tính răn dạy về đạo đức"
+        }
+      ],
+      "mobileId": 23455,
+      "phonetic": "かんぜんちょうあくげき",
+      "related_words": {
+        "word": [
+          "悪",
+          "善",
+          "劇",
+          "勧善懲悪"
+        ]
+      },
+      "word": "勧善懲悪劇"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107e5f804",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Kịch phi hiện thực ."
+        }
+      ],
+      "mobileId": 55703,
+      "phonetic": "げんそうげき",
+      "related_words": {
+        "word": [
+          "幻",
+          "幻想",
+          "想",
+          "劇"
+        ]
+      },
+      "word": "幻想劇"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

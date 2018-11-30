@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "_id": "432518852de0a80625d585a982602e6e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "detail, details"
+        }
+      ],
+      "mobileId": 234674,
+      "opposite_word": [
+        "大",
+        "巨",
+        "太"
+      ],
+      "phonetic": "さい",
+      "word": "細"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a832e63",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "having a small mouth, eating only a little"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "topmouth gudgeon (Pseudorasbora parva)"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "barracuda"
+        }
+      ],
+      "mobileId": 227585,
+      "phonetic": "くちぼそ",
+      "word": "口細"
+    },
+    {
+      "_id": "432518852de0a80625d585a982292275",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "switch (long, young branch)"
+        }
+      ],
+      "mobileId": 232935,
+      "phonetic": "しもと",
+      "word": "細枝"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d425ada",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "độ tinh vừa (giũa) ."
+        }
+      ],
+      "mobileId": 142535,
+      "phonetic": "ちゅうぼそ",
+      "word": "中細"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d19d9aa",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những mảnh nhỏ"
+        }
+      ],
+      "mobileId": 146565,
+      "phonetic": "ほそへん",
+      "synsets": [
+        {
+          "base_form": "細片",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "砕片",
+                "欠け",
+                "破片",
+                "小片",
+                "切れ",
+                "欠片",
+                "割れ",
+                "断片"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "細片"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d30162d",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cá gai"
+        }
+      ],
+      "mobileId": 147250,
+      "phonetic": "ほそぎょ",
+      "related_words": {
+        "word": [
+          "魚"
+        ]
+      },
+      "word": "細魚"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d4821e2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cord"
+        }
+      ],
+      "mobileId": 217397,
+      "phonetic": "ほそなわ",
+      "word": "細縄"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04149e0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fine dust"
+        }
+      ],
+      "mobileId": 283057,
+      "phonetic": "さいじん",
+      "word": "細塵"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0592e7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "shredding, chopping up, pulping"
+        }
+      ],
+      "mobileId": 283825,
+      "phonetic": "さいだん",
+      "word": "細断"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d10e43d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lỗ"
+        }
+      ],
+      "mobileId": 146281,
+      "phonetic": "ほそあな",
+      "synsets": [
+        {
+          "base_form": "細孔",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "毛穴"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "細孔"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

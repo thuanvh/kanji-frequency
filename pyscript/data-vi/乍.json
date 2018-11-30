@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecf63dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "(kết hợp với dạng động từ bỏ ます　）\r\nvừa .... vừa ......\r\n\r\ntuy nhiên, nhưng mà"
+        }
+      ],
+      "mobileId": 117663,
+      "phonetic": "",
+      "word": "乍"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c02d5096",
+      "means": [
+        {
+          "examples": [],
+          "kind": "prt",
+          "mean": "trong khi, như"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "mặc dù"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "tất cả, cả hai"
+        },
+        {
+          "examples": [],
+          "kind": "",
+          "mean": "nhưng, nhưng mà, tuy nhiên"
+        }
+      ],
+      "mobileId": 208309,
+      "phonetic": "ながら",
+      "word": "乍ら"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab687fbf49",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cả hai, cả... lẫn; vừa... vừa"
+        }
+      ],
+      "mobileId": 4063,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "二",
+          "二つ",
+          "乍"
+        ]
+      },
+      "word": "二つ乍ら"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd9cc09f",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "miễn cưỡng; bất đắc dự, không tự nguyện, không sẵn lòng, trơ trơ, khó bảo, khó làm"
+        }
+      ],
+      "mobileId": 14763,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "否",
+          "乍"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "否否乍ら",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "止むを得ず",
+                "否々乍ら",
+                "不承不承",
+                "仕方無く",
+                "仕方無しに",
+                "渋渋",
+                "嫌々",
+                "渋々",
+                "嫌嫌"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "否否乍ら"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dddd007",
+      "means": [
+        {
+          "examples": null,
+          "kind": "prt",
+          "mean": "though, notwithstanding, although"
+        }
+      ],
+      "mobileId": 222284,
+      "phonetic": "ながらも",
+      "word": "乍らも"
+    },
+    {
+      "_id": "5cc803bee4146733aeaf1a45be05b2ea",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cho tôi (để làm một thứ như vậy)"
+        }
+      ],
+      "mobileId": 89491,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "我",
+          "乍"
+        ]
+      },
+      "word": "我乍ら"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dc624f5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv",
+          "mean": "secretly, behind someone's back, unbeknownst to the parties involved"
+        }
+      ],
+      "mobileId": 221534,
+      "phonetic": "かげながら",
+      "word": "陰乍ら"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6de13b9e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "conj",
+          "mean": "while, during, performed in this condition"
+        }
+      ],
+      "mobileId": 222395,
+      "phonetic": "ながらに",
+      "word": "乍らに"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931c9358",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tới (cái) tốt nhất (của) tôi ability, tuy nhiên (thì) nghèo nó"
+        }
+      ],
+      "mobileId": 18834,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "乍"
+        ]
+      },
+      "word": "及ばず乍ら"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cda60ee7",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "gián tiếp"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tình cờ, ngẫu nhiên, thất thường"
+        }
+      ],
+      "mobileId": 74103,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "所",
+          "余",
+          "乍"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "余所乍ら",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "暗に",
+                "間接的"
+              ]
+            }
+          ],
+          "pos": "adverb"
+        }
+      ],
+      "word": "余所乍ら"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

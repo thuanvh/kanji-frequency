@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d487ae5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "prt",
+          "mean": "của"
+        }
+      ],
+      "mobileId": 142675,
+      "phonetic": "の",
+      "word": "乃"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931e80fd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "pn",
+          "mean": "tôi (cái tôi) (thích khoe khoang trước hết - đại từ người)"
+        }
+      ],
+      "mobileId": 18904,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "公"
+        ]
+      },
+      "word": "乃公"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ed7d521",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "muối (xuất phát từ quan niệm tránh để muối gần người chết)\r\n\r\nsóng bạc đầu (từ so sánh con sóng tan ra trông như những bông hoa trắng"
+        }
+      ],
+      "mobileId": 117919,
+      "phonetic": "",
+      "word": "波乃花"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f03cf36",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cờ Nhật ."
+        }
+      ],
+      "mobileId": 184937,
+      "phonetic": "ひのまる",
+      "word": "日乃丸"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

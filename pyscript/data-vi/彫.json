@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c096f6a6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "gold-inlaid laquerware"
+        }
+      ],
+      "mobileId": 211693,
+      "phonetic": "ちんきんぼり",
+      "word": "沈金彫"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef94340f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "engraver, carver, sculptor, sculpturer, statue maker"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tattoo artist"
+        }
+      ],
+      "mobileId": 274915,
+      "phonetic": "ほりし",
+      "related_words": {
+        "word": [
+          "師"
+        ]
+      },
+      "word": "彫師"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a93b2c4c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "engraving a woodblock or seal"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "woodblock or seal engraver"
+        }
+      ],
+      "mobileId": 258186,
+      "phonetic": "はんほり",
+      "word": "版彫"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

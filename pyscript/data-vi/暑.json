@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77bde702",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "heat"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "midsummer"
+        }
+      ],
+      "mobileId": 270609,
+      "opposite_word": [
+        "冷"
+      ],
+      "phonetic": "しょ",
+      "word": "暑"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de10793cf4d",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "寒暑が極端な国",
+              "mean": "nước phải chịu thời tiết nóng và lạnh hết sức khắc nghiệt .",
+              "transcription": "さむあつがきょくたんなくに"
+            }
+          ],
+          "kind": "n",
+          "mean": "nóng và lạnh; đông hè"
+        }
+      ],
+      "mobileId": 54353,
+      "phonetic": "かんしょ",
+      "word": "寒暑"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7715d60c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lingering heat (in autumn)"
+        }
+      ],
+      "mobileId": 265161,
+      "phonetic": "しゅうしょ",
+      "word": "秋暑"
+    },
+    {
+      "_id": "432518852de0a80625d585a98254ce7c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hot summer"
+        }
+      ],
+      "mobileId": 234315,
+      "phonetic": "しょか",
+      "word": "暑夏"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0d0277a4",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự nóng bức; mùa nóng bức"
+        }
+      ],
+      "mobileId": 145828,
+      "opposite_word": [
+        "極寒"
+      ],
+      "phonetic": "ごく しょ",
+      "word": "極暑"
+    },
+    {
+      "_id": "fe59d178662ff4b87a141c757f1f32d3",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "問題は暑さではなくて、湿度なんだ。",
+              "mean": "Vấn đề không phải ở độ nóng mà là nhiệt độ.",
+              "transcription": "もんだいはあつさではなくて、しつどなんだ。"
+            },
+            {
+              "content": "夏の暑さが過ぎるのが待ち遠しいよ。／この夏の暑さから一刻も早く逃れたい。",
+              "mean": "Tôi chẳng chờ đợi cái nóng quá của mùa hè đâu. /Với cái nóng của mùa hè này, tôi chỉ muốn trốn khỏi đây thôi. .",
+              "transcription": "なつのあつさがすぎるのがまちどおしいよ。 ／このなつのあつさからいっこくもはやくのがれたい。"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự nóng bức; oi bức; nóng bức"
+        }
+      ],
+      "mobileId": 185480,
+      "phonetic": "あつさ",
+      "synsets": [
+        {
+          "base_form": "暑さ",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "暖かさ"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "暑気",
+                "熱気",
+                "火熱",
+                "高温",
+                "熱",
+                "高熱"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "暑さ"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c00abde8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vi",
+          "mean": "to complain of the heat, to feel the heat"
+        }
+      ],
+      "mobileId": 189480,
+      "phonetic": "あつがる",
+      "word": "暑がる"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193ed4e20",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mãnh liệt nóng lên"
+        }
+      ],
+      "mobileId": 25442,
+      "phonetic": "きびしいあつさ",
+      "word": "厳しい暑さ"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3e9ef2",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cảm thấy rất nóng"
+        }
+      ],
+      "mobileId": 11795,
+      "phonetic": "あつさがこたえる",
+      "word": "暑さが応える"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cd3ea39d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự tránh nóng; cách tránh nóng"
+        }
+      ],
+      "mobileId": 11796,
+      "phonetic": "あつさしのぎ",
+      "word": "暑さ凌ぎ"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

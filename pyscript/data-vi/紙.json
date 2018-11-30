@@ -1,0 +1,219 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada280270bcd42",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "吸い取り紙（の台)",
+              "mean": "Giấy thấm",
+              "transcription": "すいとりし（のたい)"
+            },
+            {
+              "content": "高級紙(羊皮紙に似た)",
+              "mean": "Giấy cao cấp (giống như giấy da cừu)",
+              "transcription": "こうきゅうし(ようひしににた)"
+            },
+            {
+              "content": "でんぷん紙",
+              "mean": "Giấy tinh bột",
+              "transcription": "でんぷんし"
+            }
+          ],
+          "kind": "n",
+          "mean": "giấy"
+        }
+      ],
+      "mobileId": 29297,
+      "phonetic": "かみ",
+      "related_words": {
+        "word": [
+          "表紙",
+          "手紙",
+          "壁紙",
+          "別紙",
+          "原紙",
+          "用紙",
+          "折り紙",
+          "裏表紙",
+          "台紙",
+          "収入印紙"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "紙",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "用紙",
+                "ペーパー"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "紙"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19354b978",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "giấy bọc"
+        }
+      ],
+      "mobileId": 20604,
+      "phonetic": "かけし",
+      "word": "掛け紙"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdc9c5c1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giấy bìa sau; bìa giấy sau"
+        }
+      ],
+      "mobileId": 16170,
+      "phonetic": "うらおもてし",
+      "related_words": {
+        "word": [
+          "表",
+          "紙",
+          "裏",
+          "表紙"
+        ]
+      },
+      "word": "裏表紙"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdd1357a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "giấy bìa; bìa trước; giấy bọc"
+        }
+      ],
+      "mobileId": 16388,
+      "phonetic": "じょうひょうし",
+      "related_words": {
+        "word": [
+          "上",
+          "表",
+          "紙",
+          "表紙"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "上表紙",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "表紙",
+                "上紙"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "上表紙"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0985e7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "paper feeding (printing)"
+        }
+      ],
+      "mobileId": 223701,
+      "phonetic": "きゅうし",
+      "word": "給紙"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193899105",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "những sản phẩm giấy"
+        }
+      ],
+      "mobileId": 22291,
+      "phonetic": "かみせいひん",
+      "word": "紙製品"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1938a4953",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "dán giấy người nắm giữ; dán giấy cái kẹp"
+        }
+      ],
+      "mobileId": 22319,
+      "phonetic": "かみはさみ",
+      "word": "紙鋏み"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3adbec49",
+      "means": [
+        {
+          "examples": [],
+          "kind": "n",
+          "mean": "Giấy quỳ tím"
+        }
+      ],
+      "mobileId": 230475,
+      "phonetic": "リトマスし",
+      "word": "リトマス紙"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e839e3dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tạp chí thương mại"
+        }
+      ],
+      "mobileId": 35347,
+      "phonetic": "ぎょうかいし",
+      "related_words": {
+        "word": [
+          "紙",
+          "業界",
+          "業"
+        ]
+      },
+      "word": "業界紙"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca04bf7a5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "release paper, releasing paper, sticker release paper"
+        }
+      ],
+      "mobileId": 283392,
+      "phonetic": "はくりし",
+      "word": "剥離紙"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

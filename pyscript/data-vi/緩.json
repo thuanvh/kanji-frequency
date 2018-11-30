@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "_id": "537cd53f3d99606d92e07021cd92a500",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, adv",
+          "mean": "chính lỏng; chậm chạp; thong thả"
+        }
+      ],
+      "mobileId": 73473,
+      "phonetic": "ゆるゆる",
+      "word": "緩緩"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd928c17",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "có phần thả lỏng"
+        }
+      ],
+      "mobileId": 73470,
+      "phonetic": "ゆるめ",
+      "word": "緩目"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d56b898",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "ineffective or wasted move (in Go or Shoji)"
+        }
+      ],
+      "mobileId": 217873,
+      "phonetic": "かんしゅ",
+      "word": "緩手"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd92ae16",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "chính lỏng; chậm chạp; thong thả"
+        }
+      ],
+      "mobileId": 73474,
+      "phonetic": "ゆる々",
+      "word": "緩々"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a961ad3b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, adj-t",
+          "mean": "looking cool and collect, with an air of perfect composure"
+        }
+      ],
+      "mobileId": 259438,
+      "phonetic": "かんかん",
+      "word": "寛緩"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1939f736f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "cú ném bóng chậm; bóng ném chậm"
+        }
+      ],
+      "mobileId": 22975,
+      "phonetic": "ゆるだま",
+      "word": "緩球"
+    },
+    {
+      "_id": "432518852de0a80625d585a982374723",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv-to",
+          "mean": "unhurriedly, leisurely, slowly, relaxedly, taking one's time"
+        }
+      ],
+      "mobileId": 233368,
+      "phonetic": "ゆるり",
+      "word": "緩り"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef951620c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "litotes (figure of speech), meiosis"
+        }
+      ],
+      "mobileId": 275343,
+      "phonetic": "かんじょほう",
+      "word": "緩叙法"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d99a418",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "slow speed"
+        }
+      ],
+      "mobileId": 220037,
+      "phonetic": "かんそく",
+      "word": "緩速"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca193a271c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhuận tràng, thuốc nhuận tràng"
+        }
+      ],
+      "mobileId": 23073,
+      "phonetic": "ゆるしもくすり",
+      "related_words": {
+        "word": [
+          "下",
+          "薬"
+        ]
+      },
+      "word": "緩下薬"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

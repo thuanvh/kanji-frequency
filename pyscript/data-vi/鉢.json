@@ -1,0 +1,310 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b1ea84",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "料理用の鉢",
+              "mean": "bát nấu",
+              "transcription": "りょうりようのはち"
+            }
+          ],
+          "kind": "n",
+          "mean": "bát to"
+        },
+        {
+          "examples": [
+            {
+              "content": "小さな植木鉢",
+              "mean": "chậu cây trồng nhỏ",
+              "transcription": "ちいさなうえきばち"
+            }
+          ],
+          "kind": "n",
+          "mean": "chậu"
+        },
+        {
+          "examples": [
+            {
+              "content": "粘土製の植木鉢",
+              "mean": "Bình hoa được làm bằng đất sét",
+              "transcription": "ねんどせいのうえきばち"
+            },
+            {
+              "content": "雑草の生えた植木鉢",
+              "mean": "Chậu hoa dại",
+              "transcription": "ざっそうのはえたうえきばち"
+            }
+          ],
+          "kind": "n",
+          "mean": "chậu trồng hoa"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mũ sắt đội đầu"
+        },
+        {
+          "examples": [
+            {
+              "content": "金属の小鉢",
+              "mean": "vỏ bọc kim loại",
+              "transcription": "きんぞくのこばち"
+            }
+          ],
+          "kind": "n",
+          "mean": "vỏ bọc"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "xương sọ ."
+        }
+      ],
+      "mobileId": 109717,
+      "phonetic": "はち",
+      "related_words": {
+        "word": [
+          "植木鉢",
+          "小鉢",
+          "鉢植え",
+          "鉢巻",
+          "火鉢",
+          "乳鉢",
+          "托鉢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "鉢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボウル",
+                "器"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボール",
+                "くぼみ",
+                "椀",
+                "ボウル"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "植木鉢"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボール",
+                "碗",
+                "丼",
+                "椀",
+                "ボウル",
+                "丼鉢"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "頭骨",
+                "頭蓋骨",
+                "髑髏"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "鉢"
+    },
+    {
+      "_id": "80aba39a16cc9b100e85ad900ecbff07",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chơi bóng"
+        }
+      ],
+      "mobileId": 117550,
+      "phonetic": "どんぶりはち",
+      "related_words": {
+        "word": [
+          "丼",
+          "鉢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "丼鉢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "ボール",
+                "碗",
+                "丼",
+                "鉢",
+                "椀",
+                "ボウル"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "丼鉢"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d709ca8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "fukubachi (inverted bowl-shaped part of a pagoda finial)"
+        }
+      ],
+      "mobileId": 218714,
+      "phonetic": "ふくばち",
+      "word": "伏鉢"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed955e03df",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "cái cối đồ gốm"
+        }
+      ],
+      "mobileId": 59086,
+      "phonetic": "すりはち",
+      "word": "摺り鉢"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9bbb314",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hanging flowerpot"
+        }
+      ],
+      "mobileId": 278735,
+      "phonetic": "つりばち",
+      "word": "吊り鉢"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c770f66a2",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "(earthenware) mortar (for grinding)"
+        }
+      ],
+      "mobileId": 264950,
+      "phonetic": "あたりばち",
+      "word": "当たり鉢"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a97d23d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "washbasin, stoup or font for cleaning hands (esp. tea house, garden decoration, or for ablutions when visiting a shrine or temple)"
+        }
+      ],
+      "mobileId": 260290,
+      "phonetic": "ちょうずばち",
+      "word": "手水鉢"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed9558de43",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n",
+          "mean": "sự liều lĩnh tuyệt vọng, sự tuyệt vọng"
+        }
+      ],
+      "mobileId": 58928,
+      "phonetic": "すてはち",
+      "related_words": {
+        "word": [
+          "鉢"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "捨て鉢",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "絶望",
+                "自棄",
+                "失望",
+                "捨鉢",
+                "自暴自棄",
+                "自暴",
+                "失意",
+                "悲観"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "自棄",
+                "捨鉢",
+                "自暴自棄",
+                "自暴"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "捨て鉢"
+    },
+    {
+      "_id": "432518852de0a80625d585a98260c27e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "soup bowl"
+        }
+      ],
+      "mobileId": 234695,
+      "phonetic": "スープばち",
+      "word": "スープ鉢"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7b05862",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bát tộ bằng sắt (để khất thực của nhà sư) ."
+        }
+      ],
+      "mobileId": 109696,
+      "phonetic": "てっぱち",
+      "word": "鉄鉢"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,187 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568014adea6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lúa mạch"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "lúa mì"
+        },
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mì ."
+        }
+      ],
+      "mobileId": 43030,
+      "phonetic": "むぎ",
+      "related_words": {
+        "word": [
+          "小麦粉",
+          "小麦",
+          "麦茶",
+          "大麦",
+          "麦藁帽子",
+          "麦酒",
+          "麦畑",
+          "麦芽",
+          "麦価",
+          "小麦色"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "麦",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "麦芽",
+                "小麦"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "小麦"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "麦"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a56564b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "field of grain (not rice)"
+        }
+      ],
+      "mobileId": 226175,
+      "phonetic": "ばくろう",
+      "word": "麦隴"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed95b789ef",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-no",
+          "mean": "whole - lúa mì"
+        }
+      ],
+      "mobileId": 61938,
+      "phonetic": "ぜんむぎ",
+      "word": "全麦"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08e3f78",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wheat bulb, wheat grain light bulb"
+        }
+      ],
+      "mobileId": 211414,
+      "phonetic": "むぎきゅう",
+      "word": "麦球"
+    },
+    {
+      "_id": "2ff8571a77cebf5bd97fd4cca0711d0b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "shochu distilled from barley"
+        }
+      ],
+      "mobileId": 284585,
+      "phonetic": "むぎしょうちゅう",
+      "word": "麦焼酎"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cd2ebd97",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "gieo lúa mì hoặc lúa mạch"
+        }
+      ],
+      "mobileId": 70290,
+      "phonetic": "むぎまき",
+      "word": "麦蒔き"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef93efe2b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "barley miso"
+        }
+      ],
+      "mobileId": 274777,
+      "phonetic": "むぎみそ",
+      "word": "麦味噌"
+    },
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d9a381",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "wheat grain"
+        }
+      ],
+      "mobileId": 279728,
+      "phonetic": "むぎつぶ ばくりゅう",
+      "word": "麦粒"
+    },
+    {
+      "_id": "281bb32b24bb1e477754356801506c9d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Lúa mạch đen ."
+        }
+      ],
+      "mobileId": 43152,
+      "phonetic": "くろむぎ",
+      "related_words": {
+        "word": [
+          "黒",
+          "麦"
+        ]
+      },
+      "word": "黒麦"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c04605d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "adlay (Coix lacryma-jobi var. ma-yuen), Job's tears, coixseed, tear grass, adlai"
+        }
+      ],
+      "mobileId": 209096,
+      "phonetic": "はとむぎ ハトムギ",
+      "word": "はと麦"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

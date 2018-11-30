@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "_id": "610ad459b1ca11417579d40f74e01556",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "攻城砲",
+              "mean": "Súng thần công vây thành .",
+              "transcription": "おさむしろほう"
+            }
+          ],
+          "kind": "n, vs",
+          "mean": "vây thành"
+        }
+      ],
+      "mobileId": 100813,
+      "phonetic": "こうじょう",
+      "related_words": {
+        "word": [
+          "城"
+        ]
+      },
+      "word": "攻城"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8b19eb8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "(bóng chày) cầm (lấy) lĩnh vực trước, như vậy đánh giây"
+        }
+      ],
+      "mobileId": 39169,
+      "opposite_word": [
+        "先攻"
+      ],
+      "phonetic": "こうおさむ",
+      "word": "後攻"
+    },
+    {
+      "_id": "3f622868b00cf393d2dd93ed953a16dd",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hỗ trợ sự tấn công"
+        }
+      ],
+      "mobileId": 57926,
+      "phonetic": "じょおさむ",
+      "related_words": {
+        "word": [
+          "助"
+        ]
+      },
+      "word": "助攻"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8acb911",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sự hiến dâng để học hoặc nghiên cứu"
+        }
+      ],
+      "mobileId": 39011,
+      "phonetic": "おさむがく",
+      "word": "攻学"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0da25c37",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chính tấn công"
+        }
+      ],
+      "mobileId": 150880,
+      "phonetic": "しゅおさむ",
+      "related_words": {
+        "word": [
+          "主"
+        ]
+      },
+      "word": "主攻"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdb38824",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "xâm lược"
+        }
+      ],
+      "mobileId": 74534,
+      "phonetic": "らいおさむ",
+      "related_words": {
+        "word": [
+          "来"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "来攻",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "来襲",
+                "侵冦",
+                "侵攻",
+                "襲来",
+                "入冦",
+                "侵入",
+                "来冦",
+                "侵略",
+                "侵犯",
+                "侵掠"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "来襲",
+                "侵冦",
+                "侵攻",
+                "襲来",
+                "入冦",
+                "侵入",
+                "蚕食",
+                "攻略",
+                "来冦",
+                "侵略",
+                "侵犯",
+                "侵掠"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "来攻"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e14ba88",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "Union is strength"
+        }
+      ],
+      "mobileId": 248673,
+      "phonetic": "ぐんようをかってもうこをせむ",
+      "word": "群羊を駆って猛虎を攻む"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7700347c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "one should learn from other's mistakes, stones from other mountains can be used to polish one's own gems"
+        }
+      ],
+      "mobileId": 264464,
+      "phonetic": "たざんのいしもってたまをおさむべし",
+      "word": "他山の石以て玉を攻むべし"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

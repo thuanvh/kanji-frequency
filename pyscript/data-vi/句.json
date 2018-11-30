@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "_id": "54053bd79d053f61f90b2e3adaabe1a5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "語句",
+              "mean": "từ vựng",
+              "transcription": "ごく"
+            },
+            {
+              "content": "移行句",
+              "mean": "câu chuyển tiếp",
+              "transcription": "いこうく"
+            },
+            {
+              "content": "反復句",
+              "mean": "câu lặp lại",
+              "transcription": "はんぷくく"
+            },
+            {
+              "content": "挿入句",
+              "mean": "câu chèn vào",
+              "transcription": "そうにゅうく"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "câu; ngữ; từ vựng"
+        }
+      ],
+      "mobileId": 79704,
+      "phonetic": "く",
+      "related_words": {
+        "word": [
+          "文句",
+          "俳句",
+          "慣用句",
+          "語句",
+          "決まり文句",
+          "句読点",
+          "禁句",
+          "句点",
+          "桃の節句",
+          "初節句"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "句",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "俳句"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "一節"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "句"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e847517b",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "mỗi mệnh đề"
+        }
+      ],
+      "mobileId": 35791,
+      "phonetic": "くく",
+      "related_words": {
+        "word": [
+          "句"
+        ]
+      },
+      "word": "句句"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1931d4515",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nghệ thuật thơ trò chơi ô chữ"
+        }
+      ],
+      "mobileId": 18860,
+      "phonetic": "おりく",
+      "word": "折り句"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8965022",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "bộ phận của một bài thơ cuối cùng hoặc kinh thánh làm thơ"
+        }
+      ],
+      "mobileId": 38312,
+      "phonetic": "したく",
+      "related_words": {
+        "word": [
+          "下",
+          "句"
+        ]
+      },
+      "word": "下句"
+    },
+    {
+      "_id": "45cb52b868cdf707f15bbf08c0b26dd8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "adjective phrase, adjectival phrase"
+        }
+      ],
+      "mobileId": 212588,
+      "phonetic": "けいようしく",
+      "word": "形容詞句"
+    },
+    {
+      "_id": "610ad459b1ca11417579d40f74028df1",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "シェイクスピアからの引用句",
+              "mean": "câu trích dẫn từ Sechpia",
+              "transcription": "シェイクスピアからのいんようく"
+            },
+            {
+              "content": "引用句を用いる",
+              "mean": "sử dụng câu trích dẫn (dẫn chứng)",
+              "transcription": "いんようくをもちいる"
+            },
+            {
+              "content": "次の言葉の集まりを解読して二つの有名な引用句を発見しましょう",
+              "mean": "hãy giải nghĩa cụm từ sau và tìm hai dẫn chứng nổi tiếng",
+              "transcription": "つぎのことばのあつまりをかいどくしてふたつのゆうめいないんようくをはっけんしましょう"
+            },
+            {
+              "content": "仏典からの引用句",
+              "mean": "câu trích dẫn từ kinh Phật (đạo phật)",
+              "transcription": "ぶってんからのいんようく"
+            },
+            {
+              "content": "シェイクスピアからの引用句",
+              "mean": "câu trích dẫn từ Sechpia",
+              "transcription": "シェイクスピアからのいんようく"
+            }
+          ],
+          "kind": "n",
+          "mean": "câu trích dẫn; dẫn chứng (văn học)"
+        }
+      ],
+      "mobileId": 97552,
+      "phonetic": "いんようく",
+      "related_words": {
+        "word": [
+          "用",
+          "引用",
+          "句"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "引用句",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "引例",
+                "引証",
+                "レファレンス",
+                "引用",
+                "引き合い",
+                "引用文",
+                "サイテーション",
+                "典拠",
+                "謝辞",
+                "クレジット"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "引例",
+                "援引",
+                "援用",
+                "引証",
+                "引用",
+                "引用文",
+                "サイテーション",
+                "抄録"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "引用句"
+    },
+    {
+      "_id": "a047af1dd74df7dfb7ab00833b851c65",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "number token"
+        }
+      ],
+      "mobileId": 244094,
+      "phonetic": "すうじく",
+      "word": "数字句"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d6f3184",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "scripture"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "passage from scripture"
+        }
+      ],
+      "mobileId": 218660,
+      "phonetic": "せいく",
+      "word": "聖句"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77aa8661",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "second verse (in a linked series of poems)"
+        }
+      ],
+      "mobileId": 269997,
+      "phonetic": "わきく",
+      "word": "脇句"
+    },
+    {
+      "_id": "01cb4a7871f6a5fd92ff5dab6826906d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "từ rất ngắn gọn"
+        }
+      ],
+      "mobileId": 1235,
+      "phonetic": "はんく",
+      "related_words": {
+        "word": [
+          "半",
+          "句"
+        ]
+      },
+      "word": "半句"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

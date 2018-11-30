@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa786a965",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "犬達",
+              "mean": "những con chó",
+              "transcription": "いぬたち"
+            },
+            {
+              "content": "その人達",
+              "mean": "những người đó",
+              "transcription": "そのひとたち"
+            },
+            {
+              "content": "私達",
+              "mean": "chúng tôi",
+              "transcription": "わたしたち"
+            },
+            {
+              "content": "Ghi chú",
+              "mean": " số đếm người",
+              "transcription": "Ghi chú"
+            }
+          ],
+          "kind": "suf",
+          "mean": "những"
+        }
+      ],
+      "mobileId": 108972,
+      "phonetic": "たち",
+      "word": "達"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8d510f1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "sự báo, sự khai báo; sự thông báo"
+        }
+      ],
+      "mobileId": 40326,
+      "phonetic": "つげたち",
+      "synsets": [
+        {
+          "base_form": "告達",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "公示",
+                "布告",
+                "公布",
+                "告知",
+                "公表",
+                "告示"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "告達"
+    },
+    {
+      "_id": "c1501ee68b95a76792cb85cf0df95d46",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "định hướng sự giao hàng"
+        }
+      ],
+      "mobileId": 153704,
+      "phonetic": "じかたち",
+      "related_words": {
+        "word": [
+          "直"
+        ]
+      },
+      "word": "直達"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a0e07f0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adv, adj-no",
+          "mean": "strongly hoping or requesting (of something that is difficult to be brought to fruition)"
+        }
+      ],
+      "mobileId": 223852,
+      "phonetic": "たって",
+      "word": "達て"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8ef0f59",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "trẻ con"
+        }
+      ],
+      "mobileId": 41163,
+      "phonetic": "こどもたち",
+      "word": "子ども達"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e504b7b",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n-suf",
+          "mean": "coefficient, rate"
+        }
+      ],
+      "mobileId": 250610,
+      "phonetic": "たつりつ",
+      "word": "達率"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a11a9d0",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "certain fulfilment"
+        }
+      ],
+      "mobileId": 223966,
+      "phonetic": "ひったつ",
+      "word": "必達"
+    },
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a2bbd55",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "children"
+        }
+      ],
+      "mobileId": 224830,
+      "phonetic": "こたち",
+      "word": "子達"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19326385d",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phụ nữ; womenfolks"
+        }
+      ],
+      "mobileId": 19145,
+      "phonetic": "おんなたち",
+      "related_words": {
+        "word": [
+          "女"
+        ]
+      },
+      "word": "女達"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca19373fa59",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "tư tưởng rộng rãi; sự khoáng đạt"
+        }
+      ],
+      "mobileId": 21615,
+      "phonetic": "",
+      "word": "豁達"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "_id": "0a951fdb8a16236250ffda52cd96f0c7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-na, n, adj-no",
+          "mean": "hình trái xoan; hình bầu dục; méo mó; cong đi; không vuông vắn; bị làm cong"
+        }
+      ],
+      "mobileId": 14579,
+      "phonetic": "いびつ",
+      "related_words": {
+        "word": [
+          "歪み",
+          "歪む",
+          "歪曲",
+          "歪める"
+        ]
+      },
+      "word": "歪"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdf7611f",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "mặt nghiêng (những thông tin được thống kê)"
+        }
+      ],
+      "mobileId": 76653,
+      "phonetic": "いびつど",
+      "related_words": {
+        "word": [
+          "度",
+          "歪"
+        ]
+      },
+      "word": "歪度"
+    },
+    {
+      "_id": "537cd53f3d99606d92e07021cdf77100",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "nhấn mạnh"
+        }
+      ],
+      "mobileId": 76655,
+      "phonetic": "いびつりょく",
+      "related_words": {
+        "word": [
+          "力",
+          "歪"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "歪力",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "応力",
+                "ストレス",
+                "圧力",
+                "テンション"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "歪力"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

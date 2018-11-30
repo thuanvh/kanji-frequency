@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "_id": "281bb32b24bb1e4777543568010bb84c",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "婦人用の鞍",
+              "mean": "yên ngựa dùng cho quý bà",
+              "transcription": "ふじんようのくら"
+            },
+            {
+              "content": "乗馬用の鞍",
+              "mean": "yên ngựa dùng để cưỡi ngựa",
+              "transcription": "じょうばようのくら"
+            },
+            {
+              "content": "革製の鞍",
+              "mean": "yên ngựa bằng da",
+              "transcription": "かわせいのくら"
+            }
+          ],
+          "kind": "n",
+          "mean": "yên ngựa"
+        }
+      ],
+      "mobileId": 41966,
+      "phonetic": "くら",
+      "word": "鞍"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e410af8",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "decorative saddle"
+        }
+      ],
+      "mobileId": 250122,
+      "phonetic": "かざりぐら",
+      "word": "飾り鞍"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e4110cc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "saddle tree"
+        }
+      ],
+      "mobileId": 250123,
+      "phonetic": "くらぼね あんが",
+      "word": "鞍橋"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dee71a1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, adj-no",
+          "mean": "on top of a saddle"
+        }
+      ],
+      "mobileId": 222828,
+      "phonetic": "あんじょう",
+      "word": "鞍上"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e410454",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Chinese-style ritual saddle"
+        }
+      ],
+      "mobileId": 250120,
+      "phonetic": "からくら からぐら",
+      "word": "唐鞍"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c7776e5ba",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "saddlecloth, numnah"
+        }
+      ],
+      "mobileId": 268299,
+      "phonetic": "くらしき あんじょく",
+      "word": "鞍敷"
+    },
+    {
+      "_id": "e54577117760bd3f413fad561e410629",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "Japanese-style ritual saddle"
+        }
+      ],
+      "mobileId": 250121,
+      "phonetic": "やまとぐら わぐら",
+      "word": "大和鞍"
+    },
+    {
+      "_id": "281bb32b24bb1e47775435680130ea75",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "yên ngựa ."
+        }
+      ],
+      "mobileId": 42588,
+      "phonetic": "うまのくら",
+      "word": "馬の鞍"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dee66bf",
+      "means": [
+        {
+          "examples": null,
+          "kind": "exp",
+          "mean": "riding a horse so skillfully that it appears as if man and horse have become one"
+        }
+      ],
+      "mobileId": 222826,
+      "phonetic": "あんじょうひとなくあんかうまなし",
+      "word": "鞍上人なく鞍下馬なし"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

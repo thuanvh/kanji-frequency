@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "_id": "993ac06591dc13e564a87d6ef9d5aea5",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v4k",
+          "mean": "to hang oneself, to strangle oneself"
+        },
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "to wring the neck, to strangle"
+        }
+      ],
+      "mobileId": 279595,
+      "phonetic": "わなく",
+      "word": "縊く"
+    },
+    {
+      "_id": "2aaa6af3b9fed0a5847abe38c01875be",
+      "means": [
+        {
+          "examples": null,
+          "kind": "v5r, vt",
+          "mean": "to strangle to death"
+        }
+      ],
+      "mobileId": 189935,
+      "phonetic": "くびる",
+      "word": "縊る"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a959a3d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n, vs",
+          "mean": "suicide by hanging"
+        }
+      ],
+      "mobileId": 259164,
+      "phonetic": "いしゅ",
+      "word": "縊首"
+    },
+    {
+      "_id": "240dfb508424581ad13e9197e8554b57",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "bóp nghẹt cổ tới sự chết"
+        }
+      ],
+      "mobileId": 36236,
+      "phonetic": "",
+      "related_words": {
+        "word": [
+          "殺す"
+        ]
+      },
+      "word": "縊り殺す"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

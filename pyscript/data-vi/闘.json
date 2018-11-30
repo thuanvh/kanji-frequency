@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": "18dd57e50094ff765ae2fa2a3a667c98",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "kanji \"fighting\" radical"
+        }
+      ],
+      "mobileId": 226660,
+      "phonetic": "とうがまえ",
+      "word": "闘構え"
+    },
+    {
+      "_id": "ebf2f73762939adfacdaeb3c77056213",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "difficult battle"
+        }
+      ],
+      "mobileId": 264633,
+      "phonetic": "あくとう",
+      "word": "悪闘"
+    },
+    {
+      "_id": "7d7410ab80fff9deaa6c754fa7d322d1",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tinh thần đấu tranh ."
+        }
+      ],
+      "mobileId": 110241,
+      "phonetic": "とうき",
+      "related_words": {
+        "word": [
+          "気"
+        ]
+      },
+      "word": "闘気"
+    },
+    {
+      "_id": "f14fb31d12c81e03ec4c7c97a9259cea",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "tea-tasting contest"
+        }
+      ],
+      "mobileId": 257474,
+      "phonetic": "とうちゃ",
+      "word": "闘茶"
+    },
+    {
+      "_id": "a98094831ba6881a0332dc69ae49d02e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "chín cắt mudra; câu thần chú - sự làm sạch nghỉ một lát"
+        }
+      ],
+      "mobileId": 129705,
+      "phonetic": "",
+      "word": "臨兵闘者皆陣裂在前"
+    }
+  ],
+  "found": false,
+  "status": 200
+}

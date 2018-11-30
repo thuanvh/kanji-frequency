@@ -1,0 +1,259 @@
+{
+  "data": [
+    {
+      "_id": "21f0c71f2162fd9b60ada28027fae54e",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "明日は第１０課を習う。",
+              "mean": "Ngày mai sẽ học bài 10.",
+              "transcription": "あしたはだいいちぜろかをならう。"
+            },
+            {
+              "content": "第6課",
+              "mean": "bài 6",
+              "transcription": "だい6か"
+            },
+            {
+              "content": "第5課",
+              "mean": "bài 5",
+              "transcription": "だい5か"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "bài (học)"
+        },
+        {
+          "examples": [
+            {
+              "content": "彼女は庶務課に配置替えになった。",
+              "mean": "Cô ấy được chuyển sang phòng thường vụ.",
+              "transcription": "かのじょはしょむかにはいちがえになった。"
+            },
+            {
+              "content": "遺失物課",
+              "mean": "Phòng lưu giữ vật thất lạc",
+              "transcription": "いしつぶつか"
+            },
+            {
+              "content": "ロンドン警視庁捜査課",
+              "mean": "Phòng điều tra tội phạm Luân Đôn",
+              "transcription": "ロンドンけいしちょうそうさか"
+            },
+            {
+              "content": "システム推進課",
+              "mean": "Phòng xúc tiến hệ thống .",
+              "transcription": "システムすいしんか"
+            }
+          ],
+          "kind": "n, n-suf",
+          "mean": "khoa; phòng; ban"
+        }
+      ],
+      "mobileId": 33374,
+      "phonetic": "か",
+      "related_words": {
+        "word": [
+          "課題",
+          "課長",
+          "課金",
+          "放課後",
+          "人事課",
+          "非課税",
+          "課税",
+          "博士課程",
+          "課程",
+          "担当課長"
+        ]
+      },
+      "synsets": [
+        {
+          "base_form": "課",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "レッスン",
+                "課業"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "学部",
+                "局",
+                "部門",
+                "部",
+                "セクション"
+              ]
+            },
+            {
+              "definition_id": "",
+              "synonym": [
+                "部門",
+                "分科",
+                "事業部",
+                "部",
+                "セクション"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "課"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d5c1d8a",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "foreign affairs section"
+        }
+      ],
+      "mobileId": 218048,
+      "phonetic": "がいじか",
+      "word": "外事課"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6d8a49ca",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "accounting section"
+        }
+      ],
+      "mobileId": 219547,
+      "phonetic": "けいりか",
+      "related_words": {
+        "word": [
+          "課",
+          "経理"
+        ]
+      },
+      "word": "経理課"
+    },
+    {
+      "_id": "e5de112ef7554845e4d6997d6dafa917",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "investigation department"
+        }
+      ],
+      "mobileId": 220787,
+      "phonetic": "ちょうさか",
+      "word": "調査課"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d70466e",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phòng tổ chức cán bộ; vụ tổ chức cán bộ ."
+        }
+      ],
+      "mobileId": 143343,
+      "phonetic": "じんじか",
+      "related_words": {
+        "word": [
+          "人",
+          "人事",
+          "事",
+          "課"
+        ]
+      },
+      "word": "人事課"
+    },
+    {
+      "_id": "ee19c5346111f0d2f7ecf0b69ad4b17c",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "thuế khoá ."
+        }
+      ],
+      "mobileId": 173856,
+      "phonetic": "ぜいむか",
+      "word": "税務課"
+    },
+    {
+      "_id": "0e0c844d73b2e7de16d7fca1936519fc",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "hệ thống phân lớp"
+        }
+      ],
+      "mobileId": 21141,
+      "phonetic": "かせい",
+      "related_words": {
+        "word": [
+          "課",
+          "制"
+        ]
+      },
+      "word": "課制"
+    },
+    {
+      "_id": "35e94b76fb726c8818e40de107f0f6d6",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "phòng quản trị tổng hợp ."
+        }
+      ],
+      "mobileId": 55877,
+      "phonetic": "しょむか",
+      "related_words": {
+        "word": [
+          "課",
+          "庶務"
+        ]
+      },
+      "word": "庶務課"
+    },
+    {
+      "_id": "54053bd79d053f61f90b2e3ada51b13c",
+      "means": [
+        {
+          "examples": null,
+          "kind": "n",
+          "mean": "sở lao động ."
+        }
+      ],
+      "mobileId": 78342,
+      "phonetic": "ろうむか",
+      "word": "労務課"
+    },
+    {
+      "_id": "bdb06511fc48f896ae5cd81c7d97ada5",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "会計課長",
+              "mean": "kế toán trưởng .",
+              "transcription": "かいけいかちょう"
+            }
+          ],
+          "kind": "n",
+          "mean": "phòng kế toán; ban kế toán; bộ phận kế toán"
+        }
+      ],
+      "mobileId": 144034,
+      "phonetic": "かいけいか",
+      "word": "会計課"
+    }
+  ],
+  "found": true,
+  "status": 200
+}

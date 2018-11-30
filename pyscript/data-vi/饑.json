@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "_id": "45cb52b868cdf707f15bbf08c08094a7",
+      "means": [
+        {
+          "examples": null,
+          "kind": "adj-i",
+          "mean": "hungry"
+        }
+      ],
+      "mobileId": 210982,
+      "phonetic": "ひだるい",
+      "word": "饑い"
+    },
+    {
+      "_id": "0a951fdb8a16236250ffda52cdaf4482",
+      "means": [
+        {
+          "examples": null,
+          "kind": null,
+          "mean": "để (thì) đói; để làm chết đói; tới sự khát nước"
+        }
+      ],
+      "mobileId": 15362,
+      "phonetic": "",
+      "synsets": [
+        {
+          "base_form": "饑える",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "餓える",
+                "飢える"
+              ]
+            }
+          ],
+          "pos": "verb"
+        }
+      ],
+      "word": "饑える"
+    },
+    {
+      "_id": "281bb32b24bb1e4777543568012df6d9",
+      "means": [
+        {
+          "examples": [
+            {
+              "content": "人民は饑渇して",
+              "mean": "người dân đang đói khát .",
+              "transcription": "じんみんは饑渇して"
+            }
+          ],
+          "kind": "n",
+          "mean": "sự đói khát; đói khát"
+        }
+      ],
+      "mobileId": 42530,
+      "phonetic": "きかつ",
+      "synsets": [
+        {
+          "base_form": "饑渇",
+          "entry": [
+            {
+              "definition_id": "",
+              "synonym": [
+                "饑餓",
+                "飢渇",
+                "飢餓"
+              ]
+            }
+          ],
+          "pos": "noun"
+        }
+      ],
+      "word": "饑渇"
+    }
+  ],
+  "found": false,
+  "status": 200
+}
