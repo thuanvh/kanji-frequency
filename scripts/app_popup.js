@@ -15,7 +15,7 @@ function chartWrapper(t,a){var e=$("<div/>",{"class":a}),n=$("<div/>",{"class":"
 // 	//$(".popup-overlay, .popup-content").addClass("active");
 // });
 function calldetail(t){
-	k=t.data.c;
+	k=t;//.data.c;
 	//alert(dictdata[k]);
 	var e=$("<div/>",{"class":"detail-item"});
 	e.append($("<h2/>").html(k));
@@ -40,8 +40,21 @@ function calldetail(t){
   $('.popup-overlay').css({top:top});
 }
 //removes the "active" class to .popup and .popup-content when the "Close" button is clicked 
-$(".close, .popup-bar").on("click", function(){
-  $(".popup-overlay, .popup-content").removeClass("active");
+$(".close, .popup-bar").on("click", function(e){
+	$(".popup-overlay, .popup-content").removeClass("active");
+	e.stopPropagation();
+});
+$("body").click(function(){
+	if($(".popup-overlay, .popup-content").hasClass("active"))
+		$(".popup-overlay, .popup-content").removeClass("active");	
+});
+$(".popup-overlay, .popup-content").click(function(e){
+	if($(".popup-overlay, .popup-content").hasClass("active"))
+		$(".popup-overlay, .popup-content").removeClass("active");	
+  e.stopPropagation();
+});
+$(".popup-content-div").click(function(e){	
+  e.stopPropagation();
 });
 $(document).keyup(function(e) {
 	if (e.which == 27) {
@@ -72,7 +85,10 @@ tdata.forEach(function(t,idx){
 		var h=$("<span/>",{"class":"kjregion  " + (showlink?"kjregion-detail-hide":"")}).html(t[0]);
 		var k=$("<span/>",{"class":"kjregion-detail " + (showlink?"":"kjregion-detail-hide")});
 		var b=$("<input/>",{"type":"button","value":t[0],"class":"kjregion-detail-button"}).html(t[0]);
-		b.click({c:t[0]},calldetail);
+		//b.click({c:t[0]},calldetail);
+		b.click(function(e){			
+			calldetail($(this).val());
+			e.stopPropagation();});
 		k.append(b);			
 		e.append(h);
 		e.append(k);			
@@ -179,7 +195,9 @@ function addTable(t,a){
 			var h=$("<span/>",{"class":"kjregion  "}).html(t[0]);
 			var k=$("<span/>",{"class":"kjregion-detail kjregion-detail-hide"});
 			var b=$("<input/>",{"type":"button","value":t[0],"class":"kjregion-detail-button"}).html(t[0]);
-			b.click({c:t[0]},calldetail);
+			b.click(function(e){				
+				calldetail($(this).val());
+				e.stopPropagation();});
 			k.append(b);			
 			e.append(h);
 			e.append(k);			
