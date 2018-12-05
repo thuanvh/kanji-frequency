@@ -60,8 +60,8 @@ function calldetail(t){
 		{
 			var wdiv=$("<div/>");
 			var b=$("<input/>",{"type":"button","value":"hv?","class":"kjregion-detail-button"}).html(wl[i][0]);
-			b.click(function(e){			
-				calldetailhv($(this).html(),$(this));
+			b.click({p1:wl[i][0]},function(e){			
+				calldetailhv(e.data.p1,$(this));
 				e.stopPropagation();});
 			wdiv.append(b);
 			for(var k=0; k < wl[i].length; k++)
