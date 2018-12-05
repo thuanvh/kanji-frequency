@@ -14,14 +14,43 @@ function chartWrapper(t,a){var e=$("<div/>",{"class":a}),n=$("<div/>",{"class":"
 // 	//alert(dictdata["人"]);
 // 	//$(".popup-overlay, .popup-content").addClass("active");
 // });
+
+function calldetailhv(t,ele){
+	var k=t + " : ";
+	//alert(t);
+	var promises=[];
+	//t.forEach(function(c){promises.push(d3.json("data-hv/"+t[i]+".json"));});
+	for(var i=0; i < t.length; i++){
+		promises.push(d3.json("data-hv/"+t[i]+".json").catch(error=>{return null;}));	
+	}
+	Promise.all(promises).then(function(values){
+		values.forEach(function(v,idx){
+			//alert(v);
+			if(v!=null)
+				k+="["+v["h"]+"]";
+			else
+				k+=t[idx];
+		});
+		//console.log(values);
+		//alert(k);
+		//alert(ele.parent().html());
+		var kele=ele.parent().find(".kjwordhv");
+		//console.log(kele);
+		//alert(kele);
+		if(kele.length == 0)
+			ele.parent().append($("<span/>",{"class":"kjwordhv"}).html(k));
+		else
+			kele[0].html(k);
+	});	
+}
 function calldetail(t){
 	k=t;//.data.c;
 	//alert(dictdata[k]);
 	var e=$("<div/>",{"class":"detail-item"});
 	e.append($("<h2/>").html(k));
-	d3.json("data/"+k+".json", function(error, json){
-		if (error) return;
-		var dictdata=json;
+	Promise.all([d3.json("data/"+k+".json")]).then(function(json){
+		//if (error) return;
+		var dictdata=json[0];
 		var idx=["hanviet","keyword","strokeDiagram","constituent","myStory","onYomi","kunYomi","readingExamples"];
 		if(dictdata != null)
 		for(var i = 0; i < idx.length; i++)
@@ -30,6 +59,11 @@ function calldetail(t){
 		for(var i=0; i < wl.length;i++)
 		{
 			var wdiv=$("<div/>");
+			var b=$("<input/>",{"type":"button","value":"hv?","class":"kjregion-detail-button"}).html(wl[i][0]);
+			b.click(function(e){			
+				calldetailhv($(this).html(),$(this));
+				e.stopPropagation();});
+			wdiv.append(b);
 			for(var k=0; k < wl[i].length; k++)
 				wdiv.append($("<span/>",{"class":"kjword"+k}).html(wl[i][k]));
 			e.append(wdiv);
@@ -69,22 +103,29 @@ $(document).keyup(function(e) {
 	}
 });
 function calllist(t){	
+	//alert(t);
 	//alert(dictdata[k]);
 	//var e=$("<div/>",{"class":"detail-item"});
 	//e.append($("<h2/>").html(k));
-	d3.json("data-order/"+t+pageidx+".json", function(error, json){
-		if (error) return;
-		var dictdata=json;
-		genlist(dictdata);
+	// d3.json("data-order/"+t+pageidx+".json", function(error, json){
+	// 	if (error) return;
+	// 	var dictdata=json;
+	// 	genlist(dictdata);
+	// });
+	Promise.all([d3.json("data-order/"+t+pageidx+".json")]).then(function(values){
+		//console.log(values[0]);
+		genlist(values[0]);
 	});
 }
 function genlist(tdata){
+	//console.log(tdata);
 	data2 = $("#table-list");//a.parents(".table-wrapper").find(".table-list");
 //alert("hello " + data2_);
 //alert(data2_.html());
 if(data2 != null)
 	data2.html("");
-tdata.forEach(function(t,idx){
+tdata.forEach(function(t){
+	//alert(t);
 		//if(idx == 0) return;
 		// if(idx%100==1)
 		// 	data2.append($("<div/>",{"class":"kjbr"}).html(idx));
@@ -148,86 +189,86 @@ calllist(catname);
 
 // return{key:t,table:r}});
 //i.domain([0,e]),o.domain([0,_(u).map(function(t){return _.last(t.table)[1]}).max()]),p.append("g").attr("class","x axis").attr("transform","translate(0,"+l+")").call(s),p.append("g").attr("class","y axis").call(c).append("text").attr("transform","rotate(-90)").attr("y",6).attr("dy",".7em").style("text-anchor","end").text("Coverage"),_.forEach(u,function(t,a){p.append("path").attr("class","compare-"+a).attr("data-legend",function(){return t.key}).attr("data-legend-pos",a).attr("d",d(t.table))}),legend=p.append("g").attr("class","legend").attr("transform","translate(50,30)").call(d3.legend)}
-function addTable(t,a){
-	function e(t){return t==parseInt(t,20)}
-	function n(t){
-		var a=100*t;
-		return(e(a)?a:a.toFixed(6))+"%"}
-	function r(t){
-		//alert("call table");
-		return t.table.map(
-		function(t,a){
-			return [a].concat([t[0]]).concat('<a href="https://jisho.org/search/'+t[0]+' %23kanji" >'+[t[0]]+'</a>')
-		}
-	)}
+// function addTable(t,a){
+// 	function e(t){return t==parseInt(t,20)}
+// 	function n(t){
+// 		var a=100*t;
+// 		return(e(a)?a:a.toFixed(6))+"%"}
+// 	function r(t){
+// 		//alert("call table");
+// 		return t.table.map(
+// 		function(t,a){
+// 			return [a].concat([t[0]]).concat('<a href="https://jisho.org/search/'+t[0]+' %23kanji" >'+[t[0]]+'</a>')
+// 		}
+// 	)}
 	
-	var l=$("<select/>",{"class":"form-control input-sm"});
-	//var data2=$("<div/>",{"class":"table-list"});
-	//alert(data2);
-	_(t).keys().forEach(
-		function(a,e){var n=$("<option/>").val(a).text(t[a].name);
-		l.append(n),0==e&&n.attr("selected",!0)});
+// 	var l=$("<select/>",{"class":"form-control input-sm"});
+// 	//var data2=$("<div/>",{"class":"table-list"});
+// 	//alert(data2);
+// 	_(t).keys().forEach(
+// 		function(a,e){var n=$("<option/>").val(a).text(t[a].name);
+// 		l.append(n),0==e&&n.attr("selected",!0)});
 
-	//var i=a.DataTable({dom:'<"table-toolbar">fti',data:r(t[l.val()]),columns:[{title:"#"},{title:"Kanji"},/*{title:"Count",searchable:!1},{title:"Percent",render:n,type:"num-fmt",searchable:!1},*/{title:"Link to jishoo"}],
-//deferRender:!0,scroller:!0,scrollY:500});
+// 	//var i=a.DataTable({dom:'<"table-toolbar">fti',data:r(t[l.val()]),columns:[{title:"#"},{title:"Kanji"},/*{title:"Count",searchable:!1},{title:"Percent",render:n,type:"num-fmt",searchable:!1},*/{title:"Link to jishoo"}],
+// //deferRender:!0,scroller:!0,scrollY:500});
 
-	//$(a.parents(".table-wrapper").find(".table-toolbar")[0]).append(l);
-	a.append(l);
-	var b=$("<input/>",{type: "checkbox","class":"form-control show-detail", id:'cbshowlink'});
-	var bl=$("<span/>",{'for':'cbshowlink', text:"Show link"});
-	a.append(b);
-	a.append(bl);
-	b.change(function(){		
-		if(this.checked) {
-			$(".kjregion-detail").removeClass("kjregion-detail-hide"); 
-			$(".kjregion").addClass("kjregion-detail-hide");
-		}else {
-			$(".kjregion-detail").addClass("kjregion-detail-hide");
-			$(".kjregion").removeClass("kjregion-detail-hide");
-		}
-		});
-	//$(a.parents(".table-wrapper").find(".table-list")[0]).clear(),
-	//$(a.parents(".table-wrapper").find(".table-list")[0]).append(data2),
-	gentable = function(tdata){
-		data2 = $("#table-list");//a.parents(".table-wrapper").find(".table-list");
-	//alert("hello " + data2_);
-	//alert(data2_.html());
-	if(data2 != null)
-		data2.html("");
-	tdata.forEach(function(t,idx){
-			if(idx == 0) return;
-			if(idx%100==1)
-				data2.append($("<div/>",{"class":"kjbr"}).html(idx));
-			var e=$("<span/>",{"class":"element_region"});
-			var h=$("<span/>",{"class":"kjregion  "}).html(t[0]);
-			var k=$("<span/>",{"class":"kjregion-detail kjregion-detail-hide"});
-			var b=$("<input/>",{"type":"button","value":t[0],"class":"kjregion-detail-button"}).html(t[0]);
-			b.click(function(e){				
-				calldetail($(this).val());
-				e.stopPropagation();});
-			k.append(b);			
-			e.append(h);
-			e.append(k);			
-			data2.append(e);			
-			});
-	};
-	//alert(t.aozora.table);
-	gentable(t.aozora.table);
-	//else		
-	//	$(a.parents(".table-wrapper").find(".table-toolbar")[0]).append(data2);
-	l.change(function(a){a.preventDefault()
-	    //,
-	    //i.clear(),i.rows.add(r(t[$(this).val()])),i.draw()
-		,gentable(t[$(this).val()].table)//,alert(tdata)
-		/*,tdata.forEach(function(t,idx){
-			var e=$("<div/>",{"class":"col-md-6 col-lg-3"}).html(idx + t[0] + '<a href="https://jisho.org/search/'+t[0]+' %23kanji" >'+[t[0]]+'</a>');
-			//alert(e.html());
-			data2.append(e);
-			//alert(data2.html());
-			})
-		//,alert(data2.html())*/
-	})
-} // End addTable
+// 	//$(a.parents(".table-wrapper").find(".table-toolbar")[0]).append(l);
+// 	a.append(l);
+// 	var b=$("<input/>",{type: "checkbox","class":"form-control show-detail", id:'cbshowlink'});
+// 	var bl=$("<span/>",{'for':'cbshowlink', text:"Show link"});
+// 	a.append(b);
+// 	a.append(bl);
+// 	b.change(function(){		
+// 		if(this.checked) {
+// 			$(".kjregion-detail").removeClass("kjregion-detail-hide"); 
+// 			$(".kjregion").addClass("kjregion-detail-hide");
+// 		}else {
+// 			$(".kjregion-detail").addClass("kjregion-detail-hide");
+// 			$(".kjregion").removeClass("kjregion-detail-hide");
+// 		}
+// 		});
+// 	//$(a.parents(".table-wrapper").find(".table-list")[0]).clear(),
+// 	//$(a.parents(".table-wrapper").find(".table-list")[0]).append(data2),
+// 	gentable = function(tdata){
+// 		data2 = $("#table-list");//a.parents(".table-wrapper").find(".table-list");
+// 	//alert("hello " + data2_);
+// 	//alert(data2_.html());
+// 	if(data2 != null)
+// 		data2.html("");
+// 	tdata.forEach(function(t,idx){
+// 			if(idx == 0) return;
+// 			if(idx%100==1)
+// 				data2.append($("<div/>",{"class":"kjbr"}).html(idx));
+// 			var e=$("<span/>",{"class":"element_region"});
+// 			var h=$("<span/>",{"class":"kjregion  "}).html(t[0]);
+// 			var k=$("<span/>",{"class":"kjregion-detail kjregion-detail-hide"});
+// 			var b=$("<input/>",{"type":"button","value":t[0],"class":"kjregion-detail-button"}).html(t[0]);
+// 			b.click(function(e){				
+// 				calldetail($(this).val());
+// 				e.stopPropagation();});
+// 			k.append(b);			
+// 			e.append(h);
+// 			e.append(k);			
+// 			data2.append(e);			
+// 			});
+// 	};
+// 	//alert(t.aozora.table);
+// 	gentable(t.aozora.table);
+// 	//else		
+// 	//	$(a.parents(".table-wrapper").find(".table-toolbar")[0]).append(data2);
+// 	l.change(function(a){a.preventDefault()
+// 	    //,
+// 	    //i.clear(),i.rows.add(r(t[$(this).val()])),i.draw()
+// 		,gentable(t[$(this).val()].table)//,alert(tdata)
+// 		/*,tdata.forEach(function(t,idx){
+// 			var e=$("<div/>",{"class":"col-md-6 col-lg-3"}).html(idx + t[0] + '<a href="https://jisho.org/search/'+t[0]+' %23kanji" >'+[t[0]]+'</a>');
+// 			//alert(e.html());
+// 			data2.append(e);
+// 			//alert(data2.html());
+// 			})
+// 		//,alert(data2.html())*/
+// 	})
+// } // End addTable
 
 // !function(){d3.legend=function(t){return t.each(function(){var t=d3.select(this),a={},e=d3.select(t.property("nearestViewportElement")),n=t.attr("data-style-padding")||5,r=t.selectAll(".legend-box").data([!0]),l=t.selectAll(".legend-items").data([!0]);
 // r.enter().append("rect").classed("legend-box",!0),l.enter().append("g").classed("legend-items",!0),e.selectAll("[data-legend]").each(function(){var t=d3.select(this),e=void 0!=t.attr("data-legend-color")?t.attr("data-legend-color"):"none"!=t.style("fill")?t.style("fill"):t.style("stroke");
