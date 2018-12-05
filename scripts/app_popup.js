@@ -22,11 +22,18 @@ function calldetail(t){
 	d3.json("data/"+k+".json", function(error, json){
 		if (error) return;
 		var dictdata=json;
-		var idx=["hanviet","keyword","strokeDiagram","constituent","myStory","onYomi","kunYomi","words","readingExamples"];
+		var idx=["hanviet","keyword","strokeDiagram","constituent","myStory","onYomi","kunYomi","readingExamples"];
 		if(dictdata != null)
 		for(var i = 0; i < idx.length; i++)
 			e.append($("<div/>").html(idx[i] + ": " + dictdata[idx[i]]));
-		
+		wl=dictdata["words"];
+		for(var i=0; i < wl.length;i++)
+		{
+			var wdiv=$("<div/>");
+			for(var k=0; k < wl[i].length; k++)
+				wdiv.append($("<span/>",{"class":"kjword"+k}).html(wl[i][k]));
+			e.append(wdiv);
+		}
 	});
 	
 	  //e.append($("<span/>").html(dictdata[k][3]));
