@@ -20,5 +20,291 @@
   "readingExamples": "手 (て)",
   "strokeCount": "4",
   "strokeDiagram": "<img src=\"E6898B.png\" />",
-  "words": "上手(うわて): upper part, upper stream, left side (of a stage), skillful (only in comparisons), dexterity (only in comparisons)<br>お手上げ(おてあげ): all over, given in, given up hope, bring to knees<br>小切手(こぎって): cheque, check<br>手芸(しゅげい): handicrafts<br>手法(しゅほう): technique<br>着手(ちゃくしゅ): embarkation, launch<br>手当て(てあて): allowance, compensation, treatment, medical care<br>手遅れ(ておくれ): too late, belated treatment<br>手掛かり(てがかり): contact, trail, scent, on hand, hand hold, clue, key<br>手掛ける(てがける): to handle, to manage, to work with, to rear, to look after, to have experience with<br>手数(てかず): number of moves, trouble<br>手軽(てがる): easy, simple, informal, offhand, cheap<br>手際(てぎわ): performance, skill, tact<br>手順(てじゅん): process, procedure, protocol<br>手錠(てじょう): handcuffs, manacles<br>手近(てぢか): near, handy, familiar<br>手配(てはい): arrangement, search (by police)<br>手筈(てはず): arrangement, plan, programme<br>手引き(てびき): guidance, guide, introduction<br>手本(てほん): model, pattern<br>手回し(てまわし): preparations, arrangements<br>手元(てもと): on hand, at hand, at home<br>手分け(てわけ): division of labour<br>取っ手(とって): handle, grip, knob<br>土手(どて): embankment, bank<br>入手(にゅうしゅ): obtaining, coming to hand<br>相手(あいて): companion, partner, company, other party, addressee<br>握手(あくしゅ): handshake<br>お手伝いさん(おてつだいさん): maid<br>歌手(かしゅ): singer<br>手術(しゅじゅつ): surgical operation<br>手段(しゅだん): means, way, measure<br>助手(じょしゅ): helper, assistant, tutor<br>選手(せんしゅ): player (in game), team<br>手洗い(てあらい): restroom, lavatory, hand-washing<br>手入れ(ていれ): repairs, maintenance<br>手首(てくび): wrist<br>手頃(てごろ): moderate, handy<br>手品(てじな): sleight of hand, conjuring trick, magic, juggling<br>手帳(てちょう): notebook<br>手伝い(てつだい): help, helper, assistant<br>手続き(てつづき): procedure, (legal) process, formalities<br>手拭い(てぬぐい): (hand) towel<br>手間(てま): time, labour<br>手前(てまえ): before, this side, we, you<br>苦手(にがて): poor (at), weak (in), dislike (of)<br>拍手(はくしゅ): clapping hands, applause<br>派手(はで): showy, loud, gay, flashy, gaudy<br>運転手(うんてんしゅ): drive<br>手伝う(てつだう): help<br>手袋(てぶくろ): gloves<br>お手洗い(おてあらい): toilet, restroom, lavatory, bathroom (US)<br>切手(きって): stamp<br>上手(じょうず): skill, skillful, dexterity<br>手(て): hand<br>手紙(てがみ): letter<br>下手(へた): unskillful, poor, awkward"
+  "words": [
+    [
+      "上手",
+      "うわて",
+      "upper part, upper stream, left side (of a stage), skillful (only in comparisons), dexterity (only in comparisons)"
+    ],
+    [
+      "お手上げ",
+      "おてあげ",
+      "all over, given in, given up hope, bring to knees"
+    ],
+    [
+      "小切手",
+      "こぎって",
+      "cheque, check"
+    ],
+    [
+      "手芸",
+      "しゅげい",
+      "handicrafts"
+    ],
+    [
+      "手法",
+      "しゅほう",
+      "technique"
+    ],
+    [
+      "着手",
+      "ちゃくしゅ",
+      "embarkation, launch"
+    ],
+    [
+      "手当て",
+      "てあて",
+      "allowance, compensation, treatment, medical care"
+    ],
+    [
+      "手遅れ",
+      "ておくれ",
+      "too late, belated treatment"
+    ],
+    [
+      "手掛かり",
+      "てがかり",
+      "contact, trail, scent, on hand, hand hold, clue, key"
+    ],
+    [
+      "手掛ける",
+      "てがける",
+      "to handle, to manage, to work with, to rear, to look after, to have experience with"
+    ],
+    [
+      "手数",
+      "てかず",
+      "number of moves, trouble"
+    ],
+    [
+      "手軽",
+      "てがる",
+      "easy, simple, informal, offhand, cheap"
+    ],
+    [
+      "手際",
+      "てぎわ",
+      "performance, skill, tact"
+    ],
+    [
+      "手順",
+      "てじゅん",
+      "process, procedure, protocol"
+    ],
+    [
+      "手錠",
+      "てじょう",
+      "handcuffs, manacles"
+    ],
+    [
+      "手近",
+      "てぢか",
+      "near, handy, familiar"
+    ],
+    [
+      "手配",
+      "てはい",
+      "arrangement, search (by police)"
+    ],
+    [
+      "手筈",
+      "てはず",
+      "arrangement, plan, programme"
+    ],
+    [
+      "手引き",
+      "てびき",
+      "guidance, guide, introduction"
+    ],
+    [
+      "手本",
+      "てほん",
+      "model, pattern"
+    ],
+    [
+      "手回し",
+      "てまわし",
+      "preparations, arrangements"
+    ],
+    [
+      "手元",
+      "てもと",
+      "on hand, at hand, at home"
+    ],
+    [
+      "手分け",
+      "てわけ",
+      "division of labour"
+    ],
+    [
+      "取っ手",
+      "とって",
+      "handle, grip, knob"
+    ],
+    [
+      "土手",
+      "どて",
+      "embankment, bank"
+    ],
+    [
+      "入手",
+      "にゅうしゅ",
+      "obtaining, coming to hand"
+    ],
+    [
+      "相手",
+      "あいて",
+      "companion, partner, company, other party, addressee"
+    ],
+    [
+      "握手",
+      "あくしゅ",
+      "handshake"
+    ],
+    [
+      "お手伝いさん",
+      "おてつだいさん",
+      "maid"
+    ],
+    [
+      "歌手",
+      "かしゅ",
+      "singer"
+    ],
+    [
+      "手術",
+      "しゅじゅつ",
+      "surgical operation"
+    ],
+    [
+      "手段",
+      "しゅだん",
+      "means, way, measure"
+    ],
+    [
+      "助手",
+      "じょしゅ",
+      "helper, assistant, tutor"
+    ],
+    [
+      "選手",
+      "せんしゅ",
+      "player (in game), team"
+    ],
+    [
+      "手洗い",
+      "てあらい",
+      "restroom, lavatory, hand-washing"
+    ],
+    [
+      "手入れ",
+      "ていれ",
+      "repairs, maintenance"
+    ],
+    [
+      "手首",
+      "てくび",
+      "wrist"
+    ],
+    [
+      "手頃",
+      "てごろ",
+      "moderate, handy"
+    ],
+    [
+      "手品",
+      "てじな",
+      "sleight of hand, conjuring trick, magic, juggling"
+    ],
+    [
+      "手帳",
+      "てちょう",
+      "notebook"
+    ],
+    [
+      "手伝い",
+      "てつだい",
+      "help, helper, assistant"
+    ],
+    [
+      "手続き",
+      "てつづき",
+      "procedure, (legal) process, formalities"
+    ],
+    [
+      "手拭い",
+      "てぬぐい",
+      "(hand) towel"
+    ],
+    [
+      "手間",
+      "てま",
+      "time, labour"
+    ],
+    [
+      "手前",
+      "てまえ",
+      "before, this side, we, you"
+    ],
+    [
+      "苦手",
+      "にがて",
+      "poor (at), weak (in), dislike (of)"
+    ],
+    [
+      "拍手",
+      "はくしゅ",
+      "clapping hands, applause"
+    ],
+    [
+      "派手",
+      "はで",
+      "showy, loud, gay, flashy, gaudy"
+    ],
+    [
+      "運転手",
+      "うんてんしゅ",
+      "drive"
+    ],
+    [
+      "手伝う",
+      "てつだう",
+      "help"
+    ],
+    [
+      "手袋",
+      "てぶくろ",
+      "gloves"
+    ],
+    [
+      "お手洗い",
+      "おてあらい",
+      "toilet, restroom, lavatory, bathroom (US)"
+    ],
+    [
+      "切手",
+      "きって",
+      "stamp"
+    ],
+    [
+      "上手",
+      "じょうず",
+      "skill, skillful, dexterity"
+    ],
+    [
+      "手",
+      "て",
+      "hand"
+    ],
+    [
+      "手紙",
+      "てがみ",
+      "letter"
+    ],
+    [
+      "下手",
+      "へた",
+      "unskillful, poor, awkward"
+    ]
+  ]
 }

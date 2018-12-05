@@ -20,5 +20,196 @@
   "readingExamples": "間隔 (かんかく), 中間 (ちゅうかん), 時間 (じかん), 間 (あいだ), 間 (ま)",
   "strokeCount": "12",
   "strokeDiagram": "<img src=\"E99693.png\" />",
-  "words": "間柄(あいだがら): relation(ship)<br>合間(あいま): interval<br>空間(あきま): vacancy, room for rent or lease<br>何時の間にか(いつのまにか): before one knows, unnoticed, unawares<br>区間(くかん): section (of track etc)<br>この間(このあいだ): the other day, lately, recently<br>週間(しゅうかん): week, weekly<br>茶の間(ちゃのま): living room (Japanese style)<br>昼間(ちゅうかん): daytime, during the day<br>束の間(つかのま): moment, brief time, brief, transient<br>間違う(まちがう): to make a mistake, to be incorrect, to be mistaken<br>間に合う(まにあう): to be in time (for)<br>間々(まま): occasionally, frequently<br>間もなく(まもなく): soon, before long, in a short time<br>間(あいだ): space, interval<br>居間(いま): living room (Western style)<br>貸間(かしま): room to let<br>間隔(かんかく): space, interval<br>間接(かんせつ): indirectness<br>期間(きかん): period, term<br>客間(きゃくま): parlor, guest room<br>時間割(じかんわり): timetable, schedule<br>瞬間(しゅんかん): moment, second, instant<br>隙間(すきま): crevice, crack, gap, opening<br>世間(せけん): world, society<br>中間(ちゅうかん): middle, midway, interim<br>手間(てま): time, labour<br>床の間(とこのま): alcove<br>仲間(なかま): company, fellow, colleague, associate, comrade, mate, group, circle of friends, partner<br>人間(にんげん): human being, man, person<br>年間(ねんかん): year (interval of time)<br>間(ま): space, room, time, pause<br>間違い(まちがい): mistake<br>民間(みんかん): private, civilian, civil, popular, folk, unofficial<br>夜間(やかん): at night, nighttime<br>昼間(ひるま): daytime, during the daytime<br>間違える(まちがえる): make a mistake<br>時間(じかん): time"
+  "words": [
+    [
+      "間柄",
+      "あいだがら",
+      "relation(ship)"
+    ],
+    [
+      "合間",
+      "あいま",
+      "interval"
+    ],
+    [
+      "空間",
+      "あきま",
+      "vacancy, room for rent or lease"
+    ],
+    [
+      "何時の間にか",
+      "いつのまにか",
+      "before one knows, unnoticed, unawares"
+    ],
+    [
+      "区間",
+      "くかん",
+      "section (of track etc)"
+    ],
+    [
+      "この間",
+      "このあいだ",
+      "the other day, lately, recently"
+    ],
+    [
+      "週間",
+      "しゅうかん",
+      "week, weekly"
+    ],
+    [
+      "茶の間",
+      "ちゃのま",
+      "living room (Japanese style)"
+    ],
+    [
+      "昼間",
+      "ちゅうかん",
+      "daytime, during the day"
+    ],
+    [
+      "束の間",
+      "つかのま",
+      "moment, brief time, brief, transient"
+    ],
+    [
+      "間違う",
+      "まちがう",
+      "to make a mistake, to be incorrect, to be mistaken"
+    ],
+    [
+      "間に合う",
+      "まにあう",
+      "to be in time (for)"
+    ],
+    [
+      "間々",
+      "まま",
+      "occasionally, frequently"
+    ],
+    [
+      "間もなく",
+      "まもなく",
+      "soon, before long, in a short time"
+    ],
+    [
+      "間",
+      "あいだ",
+      "space, interval"
+    ],
+    [
+      "居間",
+      "いま",
+      "living room (Western style)"
+    ],
+    [
+      "貸間",
+      "かしま",
+      "room to let"
+    ],
+    [
+      "間隔",
+      "かんかく",
+      "space, interval"
+    ],
+    [
+      "間接",
+      "かんせつ",
+      "indirectness"
+    ],
+    [
+      "期間",
+      "きかん",
+      "period, term"
+    ],
+    [
+      "客間",
+      "きゃくま",
+      "parlor, guest room"
+    ],
+    [
+      "時間割",
+      "じかんわり",
+      "timetable, schedule"
+    ],
+    [
+      "瞬間",
+      "しゅんかん",
+      "moment, second, instant"
+    ],
+    [
+      "隙間",
+      "すきま",
+      "crevice, crack, gap, opening"
+    ],
+    [
+      "世間",
+      "せけん",
+      "world, society"
+    ],
+    [
+      "中間",
+      "ちゅうかん",
+      "middle, midway, interim"
+    ],
+    [
+      "手間",
+      "てま",
+      "time, labour"
+    ],
+    [
+      "床の間",
+      "とこのま",
+      "alcove"
+    ],
+    [
+      "仲間",
+      "なかま",
+      "company, fellow, colleague, associate, comrade, mate, group, circle of friends, partner"
+    ],
+    [
+      "人間",
+      "にんげん",
+      "human being, man, person"
+    ],
+    [
+      "年間",
+      "ねんかん",
+      "year (interval of time)"
+    ],
+    [
+      "間",
+      "ま",
+      "space, room, time, pause"
+    ],
+    [
+      "間違い",
+      "まちがい",
+      "mistake"
+    ],
+    [
+      "民間",
+      "みんかん",
+      "private, civilian, civil, popular, folk, unofficial"
+    ],
+    [
+      "夜間",
+      "やかん",
+      "at night, nighttime"
+    ],
+    [
+      "昼間",
+      "ひるま",
+      "daytime, during the daytime"
+    ],
+    [
+      "間違える",
+      "まちがえる",
+      "make a mistake"
+    ],
+    [
+      "時間",
+      "じかん",
+      "time"
+    ]
+  ]
 }

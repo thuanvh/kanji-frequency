@@ -20,5 +20,181 @@
   "readingExamples": "切断 (せつだん), 親切 (しんせつ), 切に (せつに), 切る (き.る), 切れる (き.れる)",
   "strokeCount": "4",
   "strokeDiagram": "<img src=\"E58887.png\" />",
-  "words": "一切(いっさい): all, everything, without exception, the whole, entirely, absolutely<br>打ち切る(うちきる): to stop, to abort, to discontinue, to close<br>噛み切る(かみきる): to bite off, to gnaw through<br>切っ掛け(きっかけ): chance, start, cue, excuse, motive, impetus, occasion<br>切り(きり): limits, end, bounds, period, place to leave off, closing sentence, all there is, only, since<br>切り替える(きりかえる): to change, to exchange, to convert, to renew, to throw a switch, to replace, to switch over<br>切れ目(きれめ): break, pause, gap, end, rift, interruption, cut, section, notch, incision, end (of a task)<br>区切り(くぎり): an end, a stop, punctuation<br>小切手(こぎって): cheque, check<br>仕切る(しきる): to partition, to divide, to mark off, to settle accounts, to toe the mark<br>締め切り(しめきり): closing, cut-off, end, deadline, Closed, No Entrance<br>切開(せっかい): clearing (land), opening up, cutting through<br>切実(せつじつ): compelling, serious, severe, acute, earnest, pressing, urgent<br>切ない(せつない): painful, trying, oppressive, suffocating<br>痛切(つうせつ): keen, acute<br>出切る(できる): to be out of, to have no more at hand<br>跡切れる(とぎれる): to pause, to be interrupted<br>持ち切り(もちきり): hot topic, talk of the town<br>裏切る(うらぎる): betray, double-cross<br>売り切れ(うりきれ): sold out<br>売り切れる(うりきれる): be sold out<br>切れ(きれ): cloth, piece, cut, chop, strip, slice, scrap<br>切れる(きれる): be sharp (blade), break (off), snap, wear out, burst, collapse, be injured, be disconnected, be out of, expire, be shrewd, have a sharp mind<br>区切る(くぎる): punctuate, cut off, mark off, stop, put an end to<br>締切(しめきり): closing, cut-off, end, deadline, Closed, No Entrance<br>締め切る(しめきる): shut up<br>適切(てきせつ): pertinent, appropriate, adequate, relevance<br>張り切る(はりきる): be in high spirits, be full of vigor, be enthusiastic, be eager, stretch to breaking point<br>踏切(ふみきり): railway crossing, level crossing, starting line, scratch, crossover<br>横切る(よこぎる): cross (e.g. arms), traverse<br>親切(しんせつ): kind<br>切手(きって): stamp<br>切符(きっぷ): ticket<br>切る(きる): cut, chop, hash, carve, saw, clip, shear, slice, strip, cut down, punch, sever (connections), pause, break off, disconnect, turn off, hang up, cross (a street), finish, be through, complete<br>大切(たいせつ): important"
+  "words": [
+    [
+      "一切",
+      "いっさい",
+      "all, everything, without exception, the whole, entirely, absolutely"
+    ],
+    [
+      "打ち切る",
+      "うちきる",
+      "to stop, to abort, to discontinue, to close"
+    ],
+    [
+      "噛み切る",
+      "かみきる",
+      "to bite off, to gnaw through"
+    ],
+    [
+      "切っ掛け",
+      "きっかけ",
+      "chance, start, cue, excuse, motive, impetus, occasion"
+    ],
+    [
+      "切り",
+      "きり",
+      "limits, end, bounds, period, place to leave off, closing sentence, all there is, only, since"
+    ],
+    [
+      "切り替える",
+      "きりかえる",
+      "to change, to exchange, to convert, to renew, to throw a switch, to replace, to switch over"
+    ],
+    [
+      "切れ目",
+      "きれめ",
+      "break, pause, gap, end, rift, interruption, cut, section, notch, incision, end (of a task)"
+    ],
+    [
+      "区切り",
+      "くぎり",
+      "an end, a stop, punctuation"
+    ],
+    [
+      "小切手",
+      "こぎって",
+      "cheque, check"
+    ],
+    [
+      "仕切る",
+      "しきる",
+      "to partition, to divide, to mark off, to settle accounts, to toe the mark"
+    ],
+    [
+      "締め切り",
+      "しめきり",
+      "closing, cut-off, end, deadline, Closed, No Entrance"
+    ],
+    [
+      "切開",
+      "せっかい",
+      "clearing (land), opening up, cutting through"
+    ],
+    [
+      "切実",
+      "せつじつ",
+      "compelling, serious, severe, acute, earnest, pressing, urgent"
+    ],
+    [
+      "切ない",
+      "せつない",
+      "painful, trying, oppressive, suffocating"
+    ],
+    [
+      "痛切",
+      "つうせつ",
+      "keen, acute"
+    ],
+    [
+      "出切る",
+      "できる",
+      "to be out of, to have no more at hand"
+    ],
+    [
+      "跡切れる",
+      "とぎれる",
+      "to pause, to be interrupted"
+    ],
+    [
+      "持ち切り",
+      "もちきり",
+      "hot topic, talk of the town"
+    ],
+    [
+      "裏切る",
+      "うらぎる",
+      "betray, double-cross"
+    ],
+    [
+      "売り切れ",
+      "うりきれ",
+      "sold out"
+    ],
+    [
+      "売り切れる",
+      "うりきれる",
+      "be sold out"
+    ],
+    [
+      "切れ",
+      "きれ",
+      "cloth, piece, cut, chop, strip, slice, scrap"
+    ],
+    [
+      "切れる",
+      "きれる",
+      "be sharp (blade), break (off), snap, wear out, burst, collapse, be injured, be disconnected, be out of, expire, be shrewd, have a sharp mind"
+    ],
+    [
+      "区切る",
+      "くぎる",
+      "punctuate, cut off, mark off, stop, put an end to"
+    ],
+    [
+      "締切",
+      "しめきり",
+      "closing, cut-off, end, deadline, Closed, No Entrance"
+    ],
+    [
+      "締め切る",
+      "しめきる",
+      "shut up"
+    ],
+    [
+      "適切",
+      "てきせつ",
+      "pertinent, appropriate, adequate, relevance"
+    ],
+    [
+      "張り切る",
+      "はりきる",
+      "be in high spirits, be full of vigor, be enthusiastic, be eager, stretch to breaking point"
+    ],
+    [
+      "踏切",
+      "ふみきり",
+      "railway crossing, level crossing, starting line, scratch, crossover"
+    ],
+    [
+      "横切る",
+      "よこぎる",
+      "cross (e.g. arms), traverse"
+    ],
+    [
+      "親切",
+      "しんせつ",
+      "kind"
+    ],
+    [
+      "切手",
+      "きって",
+      "stamp"
+    ],
+    [
+      "切符",
+      "きっぷ",
+      "ticket"
+    ],
+    [
+      "切る",
+      "きる",
+      "cut, chop, hash, carve, saw, clip, shear, slice, strip, cut down, punch, sever (connections), pause, break off, disconnect, turn off, hang up, cross (a street), finish, be through, complete"
+    ],
+    [
+      "大切",
+      "たいせつ",
+      "important"
+    ]
+  ]
 }

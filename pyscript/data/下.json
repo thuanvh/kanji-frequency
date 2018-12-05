@@ -20,5 +20,251 @@
   "readingExamples": "下流 (かりゅう), 下降 (かこう), 落下 (らっか), 下りる (お.りる), 下ろす (お.ろす), 下さる (くだ.さる), 下す (くだ.す), 下る (くだ.る), 下がる (さ.がる), 下げる (さ.げる), 下 (した), 下 (しも), 下 (もと)",
   "strokeCount": "3",
   "strokeDiagram": "<img src=\"E4B88B.png\" />",
-  "words": "上下(うえした): high and low, up and down, unloading and loading, praising and blaming<br>下位(かい): low rank, subordinate, lower order (e.g. byte)<br>下番(かばん): going off duty<br>下品(かひん): inferior article<br>下吏(かり): lower official<br>下さる(くださる): give (polite)<br>下痢(げり): diarrhoea<br>下心(したごころ): secret intention, motive<br>下地(したじ): groundwork, foundation, inclination, aptitude, elementary knowledge of, grounding in, prearrangement, spadework, signs, symptoms, first coat of plastering, soy<br>下調べ(したしらべ): preliminary investigation, preparation<br>下取り(したどり): trade in, part exchange<br>下火(したび): burning low, waning, declining<br>城下(じょうか): land near the castle<br>引き下げる(ひきさげる): to pull down, to lower, to reduce, to withdraw<br>部下(ぶか): subordinate person<br>ぶら下げる(ぶらさげる): to hang, to suspend, to dangle, to swing<br>真下(ました): right under, directly below<br>落下(らっか): fall, drop, come down<br>下す(おろす): take down, launch, drop, lower, let (a person) off, unload, discharge<br>下降(かこう): downward, descent, fall, drop<br>下線(かせん): underline<br>下り(くだり): down-train (going away from Tokyo)<br>下る(くだる): go down, descend, leave<br>下車(げしゃ): alighting, getting off<br>下旬(げじゅん): last third of month<br>下水(げすい): drainage, sewage, ditch, gutter<br>下駄(げた): wooden clogs<br>下品(げひん): inferior article<br>下る(さがる): hang down, abate, retire, fall, step back<br>下書き(したがき): rough copy, draft<br>下町(したまち): Shitamachi, lower parts of town<br>下(しも): lower, last<br>上下(じょうげ): high and low, up and down, unloading and loading, praising and blaming<br>地下(ちか): basement, underground<br>地下水(ちかすい): underground water<br>低下(ていか): decline, deterioration<br>見下ろす(みおろす): overlook, command a view of<br>目下(めした): subordinate(s), inferior(s), junior<br>廊下(ろうか): corridor<br>以下(いか): ~ or less than?not more than<br>下りる(おりる): come down<br>下宿(げしゅく): lodge<br>下がる(さがる): down<br>下げる(さげる): hang, let down<br>下着(したぎ): underwear<br>靴下(くつした): socks<br>下(した): under, below, beneath<br>地下鉄(ちかてつ): underground train, subway<br>下手(へた): unskillful, poor, awkward"
+  "words": [
+    [
+      "上下",
+      "うえした",
+      "high and low, up and down, unloading and loading, praising and blaming"
+    ],
+    [
+      "下位",
+      "かい",
+      "low rank, subordinate, lower order (e.g. byte)"
+    ],
+    [
+      "下番",
+      "かばん",
+      "going off duty"
+    ],
+    [
+      "下品",
+      "かひん",
+      "inferior article"
+    ],
+    [
+      "下吏",
+      "かり",
+      "lower official"
+    ],
+    [
+      "下さる",
+      "くださる",
+      "give (polite)"
+    ],
+    [
+      "下痢",
+      "げり",
+      "diarrhoea"
+    ],
+    [
+      "下心",
+      "したごころ",
+      "secret intention, motive"
+    ],
+    [
+      "下地",
+      "したじ",
+      "groundwork, foundation, inclination, aptitude, elementary knowledge of, grounding in, prearrangement, spadework, signs, symptoms, first coat of plastering, soy"
+    ],
+    [
+      "下調べ",
+      "したしらべ",
+      "preliminary investigation, preparation"
+    ],
+    [
+      "下取り",
+      "したどり",
+      "trade in, part exchange"
+    ],
+    [
+      "下火",
+      "したび",
+      "burning low, waning, declining"
+    ],
+    [
+      "城下",
+      "じょうか",
+      "land near the castle"
+    ],
+    [
+      "引き下げる",
+      "ひきさげる",
+      "to pull down, to lower, to reduce, to withdraw"
+    ],
+    [
+      "部下",
+      "ぶか",
+      "subordinate person"
+    ],
+    [
+      "ぶら下げる",
+      "ぶらさげる",
+      "to hang, to suspend, to dangle, to swing"
+    ],
+    [
+      "真下",
+      "ました",
+      "right under, directly below"
+    ],
+    [
+      "落下",
+      "らっか",
+      "fall, drop, come down"
+    ],
+    [
+      "下す",
+      "おろす",
+      "take down, launch, drop, lower, let (a person) off, unload, discharge"
+    ],
+    [
+      "下降",
+      "かこう",
+      "downward, descent, fall, drop"
+    ],
+    [
+      "下線",
+      "かせん",
+      "underline"
+    ],
+    [
+      "下り",
+      "くだり",
+      "down-train (going away from Tokyo)"
+    ],
+    [
+      "下る",
+      "くだる",
+      "go down, descend, leave"
+    ],
+    [
+      "下車",
+      "げしゃ",
+      "alighting, getting off"
+    ],
+    [
+      "下旬",
+      "げじゅん",
+      "last third of month"
+    ],
+    [
+      "下水",
+      "げすい",
+      "drainage, sewage, ditch, gutter"
+    ],
+    [
+      "下駄",
+      "げた",
+      "wooden clogs"
+    ],
+    [
+      "下品",
+      "げひん",
+      "inferior article"
+    ],
+    [
+      "下る",
+      "さがる",
+      "hang down, abate, retire, fall, step back"
+    ],
+    [
+      "下書き",
+      "したがき",
+      "rough copy, draft"
+    ],
+    [
+      "下町",
+      "したまち",
+      "Shitamachi, lower parts of town"
+    ],
+    [
+      "下",
+      "しも",
+      "lower, last"
+    ],
+    [
+      "上下",
+      "じょうげ",
+      "high and low, up and down, unloading and loading, praising and blaming"
+    ],
+    [
+      "地下",
+      "ちか",
+      "basement, underground"
+    ],
+    [
+      "地下水",
+      "ちかすい",
+      "underground water"
+    ],
+    [
+      "低下",
+      "ていか",
+      "decline, deterioration"
+    ],
+    [
+      "見下ろす",
+      "みおろす",
+      "overlook, command a view of"
+    ],
+    [
+      "目下",
+      "めした",
+      "subordinate(s), inferior(s), junior"
+    ],
+    [
+      "廊下",
+      "ろうか",
+      "corridor"
+    ],
+    [
+      "以下",
+      "いか",
+      "~ or less than?not more than"
+    ],
+    [
+      "下りる",
+      "おりる",
+      "come down"
+    ],
+    [
+      "下宿",
+      "げしゅく",
+      "lodge"
+    ],
+    [
+      "下がる",
+      "さがる",
+      "down"
+    ],
+    [
+      "下げる",
+      "さげる",
+      "hang, let down"
+    ],
+    [
+      "下着",
+      "したぎ",
+      "underwear"
+    ],
+    [
+      "靴下",
+      "くつした",
+      "socks"
+    ],
+    [
+      "下",
+      "した",
+      "under, below, beneath"
+    ],
+    [
+      "地下鉄",
+      "ちかてつ",
+      "underground train, subway"
+    ],
+    [
+      "下手",
+      "へた",
+      "unskillful, poor, awkward"
+    ]
+  ]
 }

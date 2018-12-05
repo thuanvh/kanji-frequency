@@ -20,5 +20,196 @@
   "readingExamples": "入る (い.る), 入れる (い.れる), 入る (はい.る)",
   "strokeCount": "2",
   "strokeDiagram": "<img src=\"E585A5.png\" />",
-  "words": "入口(いりくち): entrance, gate, approach, mouth<br>入る(いる): to get in, to go in, to come in, to flow into, to set, to set in<br>受け入れ(うけいれ): receiving, acceptance<br>受け入れる(うけいれる): to accept, to receive<br>恐れ入る(おそれいる): to be filled with awe, to feel small, to be amazed, to be surprised, to be disconcerted, to be sorry, to be grateful, to be defeated, to confess guilt<br>介入(かいにゅう): intervention<br>加入(かにゅう): becoming a member, joining, entry, admission, subscription, affiliation, adherence, signing<br>購入(こうにゅう): purchase, buy<br>仕入れる(しいれる): to lay in stock, to replenish stock, to procure<br>新入生(しんにゅうせい): freshman, first-year student<br>潜入(せんにゅう): infiltration, sneaking in<br>出入り口(でいりぐち): exit and entrance<br>投入(とうにゅう): throw, investment, making (an electrical circuit)<br>導入(どうにゅう): introduction, bringing in, leading in<br>入手(にゅうしゅ): obtaining, coming to hand<br>入賞(にゅうしょう): winning a prize or place (in a contest)<br>入浴(にゅうよく): bathe, bathing<br>納入(のうにゅう): payment, supply<br>申し入れる(もうしいれる): to propose, to suggest<br>入れ物(いれもの): container, case, receptacle<br>気に入る(きにいる): be pleased with, to suit<br>記入(きにゅう): entry, filling in of forms<br>四捨五入(ししゃごにゅう): rounding up (especially fractions)<br>収入(しゅうにゅう): income, receipts, revenue<br>侵入(しんにゅう): penetration, invasion, raid, aggression, trespass<br>出入り(でいり): in and out, coming and going, free association, income and expenditure, debits and credit<br>手入れ(ていれ): repairs, maintenance<br>取り入れる(とりいれる): harvest, take in, adopt<br>入社(にゅうしゃ): entry to a company<br>入場(にゅうじょう): entrance, admission, entering<br>日の入り(ひのいり): sunset<br>輸入(ゆにゅう): importation, import, introduction<br>押し入れ(おしいれ): closet<br>入院(にゅういん): enter hospital<br>入学(にゅうがく): enter a school<br>入口(いりぐち): entrance, gate, approach, mouth<br>入れる(いれる): put in, take in, bring in, let in, admit, introduce, usher in, insert, employ, listen to, tolerate, comprehend, include, pay (interest), cast (votes)<br>入る(はいる): enter, break into, join, enroll, contain, hold, accommodate, have (an income of)"
+  "words": [
+    [
+      "入口",
+      "いりくち",
+      "entrance, gate, approach, mouth"
+    ],
+    [
+      "入る",
+      "いる",
+      "to get in, to go in, to come in, to flow into, to set, to set in"
+    ],
+    [
+      "受け入れ",
+      "うけいれ",
+      "receiving, acceptance"
+    ],
+    [
+      "受け入れる",
+      "うけいれる",
+      "to accept, to receive"
+    ],
+    [
+      "恐れ入る",
+      "おそれいる",
+      "to be filled with awe, to feel small, to be amazed, to be surprised, to be disconcerted, to be sorry, to be grateful, to be defeated, to confess guilt"
+    ],
+    [
+      "介入",
+      "かいにゅう",
+      "intervention"
+    ],
+    [
+      "加入",
+      "かにゅう",
+      "becoming a member, joining, entry, admission, subscription, affiliation, adherence, signing"
+    ],
+    [
+      "購入",
+      "こうにゅう",
+      "purchase, buy"
+    ],
+    [
+      "仕入れる",
+      "しいれる",
+      "to lay in stock, to replenish stock, to procure"
+    ],
+    [
+      "新入生",
+      "しんにゅうせい",
+      "freshman, first-year student"
+    ],
+    [
+      "潜入",
+      "せんにゅう",
+      "infiltration, sneaking in"
+    ],
+    [
+      "出入り口",
+      "でいりぐち",
+      "exit and entrance"
+    ],
+    [
+      "投入",
+      "とうにゅう",
+      "throw, investment, making (an electrical circuit)"
+    ],
+    [
+      "導入",
+      "どうにゅう",
+      "introduction, bringing in, leading in"
+    ],
+    [
+      "入手",
+      "にゅうしゅ",
+      "obtaining, coming to hand"
+    ],
+    [
+      "入賞",
+      "にゅうしょう",
+      "winning a prize or place (in a contest)"
+    ],
+    [
+      "入浴",
+      "にゅうよく",
+      "bathe, bathing"
+    ],
+    [
+      "納入",
+      "のうにゅう",
+      "payment, supply"
+    ],
+    [
+      "申し入れる",
+      "もうしいれる",
+      "to propose, to suggest"
+    ],
+    [
+      "入れ物",
+      "いれもの",
+      "container, case, receptacle"
+    ],
+    [
+      "気に入る",
+      "きにいる",
+      "be pleased with, to suit"
+    ],
+    [
+      "記入",
+      "きにゅう",
+      "entry, filling in of forms"
+    ],
+    [
+      "四捨五入",
+      "ししゃごにゅう",
+      "rounding up (especially fractions)"
+    ],
+    [
+      "収入",
+      "しゅうにゅう",
+      "income, receipts, revenue"
+    ],
+    [
+      "侵入",
+      "しんにゅう",
+      "penetration, invasion, raid, aggression, trespass"
+    ],
+    [
+      "出入り",
+      "でいり",
+      "in and out, coming and going, free association, income and expenditure, debits and credit"
+    ],
+    [
+      "手入れ",
+      "ていれ",
+      "repairs, maintenance"
+    ],
+    [
+      "取り入れる",
+      "とりいれる",
+      "harvest, take in, adopt"
+    ],
+    [
+      "入社",
+      "にゅうしゃ",
+      "entry to a company"
+    ],
+    [
+      "入場",
+      "にゅうじょう",
+      "entrance, admission, entering"
+    ],
+    [
+      "日の入り",
+      "ひのいり",
+      "sunset"
+    ],
+    [
+      "輸入",
+      "ゆにゅう",
+      "importation, import, introduction"
+    ],
+    [
+      "押し入れ",
+      "おしいれ",
+      "closet"
+    ],
+    [
+      "入院",
+      "にゅういん",
+      "enter hospital"
+    ],
+    [
+      "入学",
+      "にゅうがく",
+      "enter a school"
+    ],
+    [
+      "入口",
+      "いりぐち",
+      "entrance, gate, approach, mouth"
+    ],
+    [
+      "入れる",
+      "いれる",
+      "put in, take in, bring in, let in, admit, introduce, usher in, insert, employ, listen to, tolerate, comprehend, include, pay (interest), cast (votes)"
+    ],
+    [
+      "入る",
+      "はいる",
+      "enter, break into, join, enroll, contain, hold, accommodate, have (an income of)"
+    ]
+  ]
 }

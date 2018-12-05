@@ -20,5 +20,36 @@
   "readingExamples": "街頭 (がいとう), 市街 (しがい), 商店街 (しょうてんがい), 街 (まち)",
   "strokeCount": "12",
   "strokeDiagram": "<img src=\"E8A197.png\" />",
-  "words": "街(がい): ~street, ~quarters<br>街道(かいどう): highway<br>街頭(がいとう): in the street<br>市街(しがい): urban areas, the streets, town, city<br>街(まち): street<br>街角(まちかど): street corner"
+  "words": [
+    [
+      "街",
+      "がい",
+      "~street, ~quarters"
+    ],
+    [
+      "街道",
+      "かいどう",
+      "highway"
+    ],
+    [
+      "街頭",
+      "がいとう",
+      "in the street"
+    ],
+    [
+      "市街",
+      "しがい",
+      "urban areas, the streets, town, city"
+    ],
+    [
+      "街",
+      "まち",
+      "street"
+    ],
+    [
+      "街角",
+      "まちかど",
+      "street corner"
+    ]
+  ]
 }

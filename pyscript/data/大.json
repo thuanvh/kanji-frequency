@@ -20,5 +20,326 @@
   "readingExamples": "大小 (だいしょう), 大胆 (だいたん), 拡大 (かくだい), 大 (おお), 大いに (おお.いに), 大きい (おお.きい)",
   "strokeCount": "3",
   "strokeDiagram": "<img src=\"E5A4A7.png\" />",
-  "words": "大方(おおかた): perhaps, almost all, majority<br>大柄(おおがら): large build, large pattern<br>大げさ(おおげさ): grandiose, exaggerated<br>大事(おおごと): important, valuable, serious matter<br>大ざっぱ(おおざっぱ): rough (as in not precise), broad, sketchy<br>大筋(おおすじ): outline, summary<br>大空(おおぞら): heaven, firmament, the sky<br>大幅(おおはば): full width, large scale, drastic<br>大水(おおみず): flood<br>お大事に(おだいじに): Take care of yourself<br>盛大(せいだい): grand, prosperous, magnificent<br>壮大(そうだい): magnificent, grand, majestic, splendid<br>大概(たいがい): in general, mainly<br>大金(たいきん): great cost<br>大衆(たいしゅう): general public<br>大胆(だいたん): bold, daring, audacious<br>大抵(たいてい): usually, generally<br>大部(たいぶ): most (e.g. most part), greater, fairly, a good deal, much<br>大便(だいべん): feces, excrement, shit<br>短大(たんだい): junior college<br>長大(ちょうだい): very long, great length<br>偉大(いだい): greatness<br>大いに(おおいに): very, much, greatly<br>大通り(おおどおり): main street<br>大家(おおや): landlord, landlady<br>大凡(おおよそ): about, roughly, approximately, as a rule<br>拡大(かくだい): magnification, enlargement<br>巨大(きょだい): huge, gigantic, enormous<br>重大(じゅうだい): serious, important, grave, weighty<br>増大(ぞうだい): enlargement<br>総理大臣(そうりだいじん): Prime Minister<br>大(だい): great, large<br>大会(たいかい): convention, tournament, mass meeting, rally<br>大学院(だいがくいん): graduate school<br>大気(たいき): atmosphere<br>大工(だいく): carpenter<br>大使(たいし): ambassador<br>大した(たいした): considerable, great, important, significant, a big deal<br>大して(たいして): (not so) much, (not) very<br>大小(だいしょう): size<br>大臣(だいじん): cabinet minister<br>大戦(たいせん): great war, great battle<br>大層(たいそう): very much, exaggerated, very fine<br>大体(だいたい): general, substantially, outline, main point<br>大統領(だいとうりょう): president, chief executive<br>大半(たいはん): majority, mostly, generally<br>大分(だいぶ): very, many, a lot<br>大部分(だいぶぶん): most part, greater part, majority<br>大分(だいぶん): considerably, greatly, a lot<br>大木(たいぼく): large tree<br>大陸(たいりく): continent<br>莫大(ばくだい): enormous, vast<br>膨大(ぼうだい): huge, bulky, enormous, extensive, swelling, expansion<br>大きな(おおきな): big, large<br>大学生(だいがくせい): university student<br>大事(だいじ): important<br>大きい(おおきい): big, large, great<br>大勢(おおぜい): many, a great number (of people)<br>大人(おとな): adult<br>大学(だいがく): university<br>大使館(たいしかん): embassy<br>大丈夫(だいじょうぶ): safe, all right, O.K.<br>大好き(だいすき): very likeable, like very much<br>大切(たいせつ): important"
+  "words": [
+    [
+      "大方",
+      "おおかた",
+      "perhaps, almost all, majority"
+    ],
+    [
+      "大柄",
+      "おおがら",
+      "large build, large pattern"
+    ],
+    [
+      "大げさ",
+      "おおげさ",
+      "grandiose, exaggerated"
+    ],
+    [
+      "大事",
+      "おおごと",
+      "important, valuable, serious matter"
+    ],
+    [
+      "大ざっぱ",
+      "おおざっぱ",
+      "rough (as in not precise), broad, sketchy"
+    ],
+    [
+      "大筋",
+      "おおすじ",
+      "outline, summary"
+    ],
+    [
+      "大空",
+      "おおぞら",
+      "heaven, firmament, the sky"
+    ],
+    [
+      "大幅",
+      "おおはば",
+      "full width, large scale, drastic"
+    ],
+    [
+      "大水",
+      "おおみず",
+      "flood"
+    ],
+    [
+      "お大事に",
+      "おだいじに",
+      "Take care of yourself"
+    ],
+    [
+      "盛大",
+      "せいだい",
+      "grand, prosperous, magnificent"
+    ],
+    [
+      "壮大",
+      "そうだい",
+      "magnificent, grand, majestic, splendid"
+    ],
+    [
+      "大概",
+      "たいがい",
+      "in general, mainly"
+    ],
+    [
+      "大金",
+      "たいきん",
+      "great cost"
+    ],
+    [
+      "大衆",
+      "たいしゅう",
+      "general public"
+    ],
+    [
+      "大胆",
+      "だいたん",
+      "bold, daring, audacious"
+    ],
+    [
+      "大抵",
+      "たいてい",
+      "usually, generally"
+    ],
+    [
+      "大部",
+      "たいぶ",
+      "most (e.g. most part), greater, fairly, a good deal, much"
+    ],
+    [
+      "大便",
+      "だいべん",
+      "feces, excrement, shit"
+    ],
+    [
+      "短大",
+      "たんだい",
+      "junior college"
+    ],
+    [
+      "長大",
+      "ちょうだい",
+      "very long, great length"
+    ],
+    [
+      "偉大",
+      "いだい",
+      "greatness"
+    ],
+    [
+      "大いに",
+      "おおいに",
+      "very, much, greatly"
+    ],
+    [
+      "大通り",
+      "おおどおり",
+      "main street"
+    ],
+    [
+      "大家",
+      "おおや",
+      "landlord, landlady"
+    ],
+    [
+      "大凡",
+      "おおよそ",
+      "about, roughly, approximately, as a rule"
+    ],
+    [
+      "拡大",
+      "かくだい",
+      "magnification, enlargement"
+    ],
+    [
+      "巨大",
+      "きょだい",
+      "huge, gigantic, enormous"
+    ],
+    [
+      "重大",
+      "じゅうだい",
+      "serious, important, grave, weighty"
+    ],
+    [
+      "増大",
+      "ぞうだい",
+      "enlargement"
+    ],
+    [
+      "総理大臣",
+      "そうりだいじん",
+      "Prime Minister"
+    ],
+    [
+      "大",
+      "だい",
+      "great, large"
+    ],
+    [
+      "大会",
+      "たいかい",
+      "convention, tournament, mass meeting, rally"
+    ],
+    [
+      "大学院",
+      "だいがくいん",
+      "graduate school"
+    ],
+    [
+      "大気",
+      "たいき",
+      "atmosphere"
+    ],
+    [
+      "大工",
+      "だいく",
+      "carpenter"
+    ],
+    [
+      "大使",
+      "たいし",
+      "ambassador"
+    ],
+    [
+      "大した",
+      "たいした",
+      "considerable, great, important, significant, a big deal"
+    ],
+    [
+      "大して",
+      "たいして",
+      "(not so) much, (not) very"
+    ],
+    [
+      "大小",
+      "だいしょう",
+      "size"
+    ],
+    [
+      "大臣",
+      "だいじん",
+      "cabinet minister"
+    ],
+    [
+      "大戦",
+      "たいせん",
+      "great war, great battle"
+    ],
+    [
+      "大層",
+      "たいそう",
+      "very much, exaggerated, very fine"
+    ],
+    [
+      "大体",
+      "だいたい",
+      "general, substantially, outline, main point"
+    ],
+    [
+      "大統領",
+      "だいとうりょう",
+      "president, chief executive"
+    ],
+    [
+      "大半",
+      "たいはん",
+      "majority, mostly, generally"
+    ],
+    [
+      "大分",
+      "だいぶ",
+      "very, many, a lot"
+    ],
+    [
+      "大部分",
+      "だいぶぶん",
+      "most part, greater part, majority"
+    ],
+    [
+      "大分",
+      "だいぶん",
+      "considerably, greatly, a lot"
+    ],
+    [
+      "大木",
+      "たいぼく",
+      "large tree"
+    ],
+    [
+      "大陸",
+      "たいりく",
+      "continent"
+    ],
+    [
+      "莫大",
+      "ばくだい",
+      "enormous, vast"
+    ],
+    [
+      "膨大",
+      "ぼうだい",
+      "huge, bulky, enormous, extensive, swelling, expansion"
+    ],
+    [
+      "大きな",
+      "おおきな",
+      "big, large"
+    ],
+    [
+      "大学生",
+      "だいがくせい",
+      "university student"
+    ],
+    [
+      "大事",
+      "だいじ",
+      "important"
+    ],
+    [
+      "大きい",
+      "おおきい",
+      "big, large, great"
+    ],
+    [
+      "大勢",
+      "おおぜい",
+      "many, a great number (of people)"
+    ],
+    [
+      "大人",
+      "おとな",
+      "adult"
+    ],
+    [
+      "大学",
+      "だいがく",
+      "university"
+    ],
+    [
+      "大使館",
+      "たいしかん",
+      "embassy"
+    ],
+    [
+      "大丈夫",
+      "だいじょうぶ",
+      "safe, all right, O.K."
+    ],
+    [
+      "大好き",
+      "だいすき",
+      "very likeable, like very much"
+    ],
+    [
+      "大切",
+      "たいせつ",
+      "important"
+    ]
+  ]
 }

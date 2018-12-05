@@ -20,5 +20,201 @@
   "readingExamples": "目的 (もくてき), 目前 (もくぜん), 項目 (こうもく), 目 (め)",
   "strokeCount": "5",
   "strokeDiagram": "<img src=\"E79BAE.png\" />",
-  "words": "一目(いちもく): a glance, a look, a glimpse<br>お目出度う(おめでとう): (ateji) (int) (uk) Congratulations!, an auspicious occasion!<br>効き目(ききめ): effect, virtue, efficacy, impression<br>生真面目(きまじめ): too serious, person who is too serious, honesty, sincerity<br>切れ目(きれめ): break, pause, gap, end, rift, interruption, cut, section, notch, incision, end (of a task)<br>人目(じんもく): glimpse, public gaze<br>着目(ちゃくもく): attention<br>丁目(ちょうめ): district of a town, city block (of irregular size)<br>継ぎ目(つぎめ): a joint, joining point<br>出鱈目(でたらめ): irresponsible utterance, nonsense, nonsensical, random, haphazard, unsystematic<br>番目(ばんめ): cardinal number suffix<br>目蓋(まぶた): eyelid<br>目方(めかた): weight<br>目覚しい(めざましい): brilliant, splendid, striking, remarkable<br>目覚める(めざめる): to wake up<br>目付き(めつき): look, expression of the eyes, eyes<br>目眩(めまい): dizziness, giddiness<br>目盛(めもり): scale, gradations<br>面目(めんぼく): face, honour, reputation, prestige, dignity, credit<br>目録(もくろく): catalogue, catalog, list<br>目論見(もくろみ): a plan, a scheme, a project, a program, intention, goal<br>お目に掛かる(おめにかかる): to see or meet someone<br>科目(かもく): (school) subject, curriculum, course<br>項目(こうもく): item<br>駄目(だめ): no, no good, hopeless<br>注目(ちゅうもく): notice, attention, observation<br>真面目(まじめ): diligent, serious, honest<br>目上(めうえ): superior(s), senior<br>目指す(めざす): aim at, have an eye on<br>目覚し(めざまし): alarm clock (abbreviation)<br>目下(めした): subordinate(s), inferior(s), junior<br>目印(めじるし): mark, sign, landmark<br>目立つ(めだつ): be conspicuous, stand out<br>目安(めやす): criterion, aim<br>目次(もくじ): table of contents<br>目的(もくてき): purpose, goal, aim, objective, intention<br>目標(もくひょう): mark, objective, target<br>役目(やくめ): duty, business<br>目(め): eye, eyeball"
+  "words": [
+    [
+      "一目",
+      "いちもく",
+      "a glance, a look, a glimpse"
+    ],
+    [
+      "お目出度う",
+      "おめでとう",
+      "(ateji) (int) (uk) Congratulations!, an auspicious occasion!"
+    ],
+    [
+      "効き目",
+      "ききめ",
+      "effect, virtue, efficacy, impression"
+    ],
+    [
+      "生真面目",
+      "きまじめ",
+      "too serious, person who is too serious, honesty, sincerity"
+    ],
+    [
+      "切れ目",
+      "きれめ",
+      "break, pause, gap, end, rift, interruption, cut, section, notch, incision, end (of a task)"
+    ],
+    [
+      "人目",
+      "じんもく",
+      "glimpse, public gaze"
+    ],
+    [
+      "着目",
+      "ちゃくもく",
+      "attention"
+    ],
+    [
+      "丁目",
+      "ちょうめ",
+      "district of a town, city block (of irregular size)"
+    ],
+    [
+      "継ぎ目",
+      "つぎめ",
+      "a joint, joining point"
+    ],
+    [
+      "出鱈目",
+      "でたらめ",
+      "irresponsible utterance, nonsense, nonsensical, random, haphazard, unsystematic"
+    ],
+    [
+      "番目",
+      "ばんめ",
+      "cardinal number suffix"
+    ],
+    [
+      "目蓋",
+      "まぶた",
+      "eyelid"
+    ],
+    [
+      "目方",
+      "めかた",
+      "weight"
+    ],
+    [
+      "目覚しい",
+      "めざましい",
+      "brilliant, splendid, striking, remarkable"
+    ],
+    [
+      "目覚める",
+      "めざめる",
+      "to wake up"
+    ],
+    [
+      "目付き",
+      "めつき",
+      "look, expression of the eyes, eyes"
+    ],
+    [
+      "目眩",
+      "めまい",
+      "dizziness, giddiness"
+    ],
+    [
+      "目盛",
+      "めもり",
+      "scale, gradations"
+    ],
+    [
+      "面目",
+      "めんぼく",
+      "face, honour, reputation, prestige, dignity, credit"
+    ],
+    [
+      "目録",
+      "もくろく",
+      "catalogue, catalog, list"
+    ],
+    [
+      "目論見",
+      "もくろみ",
+      "a plan, a scheme, a project, a program, intention, goal"
+    ],
+    [
+      "お目に掛かる",
+      "おめにかかる",
+      "to see or meet someone"
+    ],
+    [
+      "科目",
+      "かもく",
+      "(school) subject, curriculum, course"
+    ],
+    [
+      "項目",
+      "こうもく",
+      "item"
+    ],
+    [
+      "駄目",
+      "だめ",
+      "no, no good, hopeless"
+    ],
+    [
+      "注目",
+      "ちゅうもく",
+      "notice, attention, observation"
+    ],
+    [
+      "真面目",
+      "まじめ",
+      "diligent, serious, honest"
+    ],
+    [
+      "目上",
+      "めうえ",
+      "superior(s), senior"
+    ],
+    [
+      "目指す",
+      "めざす",
+      "aim at, have an eye on"
+    ],
+    [
+      "目覚し",
+      "めざまし",
+      "alarm clock (abbreviation)"
+    ],
+    [
+      "目下",
+      "めした",
+      "subordinate(s), inferior(s), junior"
+    ],
+    [
+      "目印",
+      "めじるし",
+      "mark, sign, landmark"
+    ],
+    [
+      "目立つ",
+      "めだつ",
+      "be conspicuous, stand out"
+    ],
+    [
+      "目安",
+      "めやす",
+      "criterion, aim"
+    ],
+    [
+      "目次",
+      "もくじ",
+      "table of contents"
+    ],
+    [
+      "目的",
+      "もくてき",
+      "purpose, goal, aim, objective, intention"
+    ],
+    [
+      "目標",
+      "もくひょう",
+      "mark, objective, target"
+    ],
+    [
+      "役目",
+      "やくめ",
+      "duty, business"
+    ],
+    [
+      "目",
+      "め",
+      "eye, eyeball"
+    ]
+  ]
 }

@@ -20,5 +20,211 @@
   "readingExamples": "事物 (じぶつ), 無事 (ぶじ), 師事 (しじ), 事 (こと)",
   "strokeCount": "8",
   "strokeDiagram": "<img src=\"E4BA8B.png\" />",
-  "words": "大事(おおごと): important, valuable, serious matter<br>お大事に(おだいじに): Take care of yourself<br>議事堂(ぎじどう): Diet building<br>旧事(くじ): past events, bygones<br>軍事(ぐんじ): military affairs<br>検事(けんじ): public prosecutor<br>事(こと): thing, matter, fact, circumstances, business, reason, experience<br>事柄(ことがら): matter, thing, affair, circumstance<br>事によると(ことによると): depending on the circumstances<br>些事(さじ): something small or petty, trifle<br>事業(じぎょう): project, enterprise, business, industry, operations<br>事項(じこう): matter, item, facts<br>事前(じぜん): prior, beforehand, in advance<br>従事(じゅうじ): engaging, pursuing, following<br>食事(しょくじ): meal<br>百科事典(ひゃっかじてん): encyclopedia<br>返事(へんじ): reply, answer<br>家事(かじ): housework, domestic chores<br>記事(きじ): article, news story, report, account<br>行事(ぎょうじ): event, function<br>刑事(けいじ): criminal case, (police) detective<br>工事(こうじ): construction work<br>事件(じけん): event, affair, incident, case, plot, trouble, scandal<br>事実(じじつ): fact, truth, reality<br>事情(じじょう): circumstances, consideration, conditions, situation, reasons<br>事態(じたい): situation, present state of affairs, circumstances<br>事務(じむ): business, office work<br>炊事(すいじ): cooking, culinary arts<br>知事(ちじ): prefectural governor<br>出来事(できごと): incident, affair, happening, event<br>判事(はんじ): judge, judiciary<br>無事(ぶじ): safety, peace, quietness<br>見事(みごと): splendid, magnificent, beautiful, admirable<br>物事(ものごと): things, everything<br>領事(りょうじ): consul<br>火事(かじ): fire<br>事故(じこ): accident<br>事務所(じむしょ): office<br>大事(だいじ): important<br>用事(ようじ): business, errand<br>仕事(しごと): work, occupation, employment"
+  "words": [
+    [
+      "大事",
+      "おおごと",
+      "important, valuable, serious matter"
+    ],
+    [
+      "お大事に",
+      "おだいじに",
+      "Take care of yourself"
+    ],
+    [
+      "議事堂",
+      "ぎじどう",
+      "Diet building"
+    ],
+    [
+      "旧事",
+      "くじ",
+      "past events, bygones"
+    ],
+    [
+      "軍事",
+      "ぐんじ",
+      "military affairs"
+    ],
+    [
+      "検事",
+      "けんじ",
+      "public prosecutor"
+    ],
+    [
+      "事",
+      "こと",
+      "thing, matter, fact, circumstances, business, reason, experience"
+    ],
+    [
+      "事柄",
+      "ことがら",
+      "matter, thing, affair, circumstance"
+    ],
+    [
+      "事によると",
+      "ことによると",
+      "depending on the circumstances"
+    ],
+    [
+      "些事",
+      "さじ",
+      "something small or petty, trifle"
+    ],
+    [
+      "事業",
+      "じぎょう",
+      "project, enterprise, business, industry, operations"
+    ],
+    [
+      "事項",
+      "じこう",
+      "matter, item, facts"
+    ],
+    [
+      "事前",
+      "じぜん",
+      "prior, beforehand, in advance"
+    ],
+    [
+      "従事",
+      "じゅうじ",
+      "engaging, pursuing, following"
+    ],
+    [
+      "食事",
+      "しょくじ",
+      "meal"
+    ],
+    [
+      "百科事典",
+      "ひゃっかじてん",
+      "encyclopedia"
+    ],
+    [
+      "返事",
+      "へんじ",
+      "reply, answer"
+    ],
+    [
+      "家事",
+      "かじ",
+      "housework, domestic chores"
+    ],
+    [
+      "記事",
+      "きじ",
+      "article, news story, report, account"
+    ],
+    [
+      "行事",
+      "ぎょうじ",
+      "event, function"
+    ],
+    [
+      "刑事",
+      "けいじ",
+      "criminal case, (police) detective"
+    ],
+    [
+      "工事",
+      "こうじ",
+      "construction work"
+    ],
+    [
+      "事件",
+      "じけん",
+      "event, affair, incident, case, plot, trouble, scandal"
+    ],
+    [
+      "事実",
+      "じじつ",
+      "fact, truth, reality"
+    ],
+    [
+      "事情",
+      "じじょう",
+      "circumstances, consideration, conditions, situation, reasons"
+    ],
+    [
+      "事態",
+      "じたい",
+      "situation, present state of affairs, circumstances"
+    ],
+    [
+      "事務",
+      "じむ",
+      "business, office work"
+    ],
+    [
+      "炊事",
+      "すいじ",
+      "cooking, culinary arts"
+    ],
+    [
+      "知事",
+      "ちじ",
+      "prefectural governor"
+    ],
+    [
+      "出来事",
+      "できごと",
+      "incident, affair, happening, event"
+    ],
+    [
+      "判事",
+      "はんじ",
+      "judge, judiciary"
+    ],
+    [
+      "無事",
+      "ぶじ",
+      "safety, peace, quietness"
+    ],
+    [
+      "見事",
+      "みごと",
+      "splendid, magnificent, beautiful, admirable"
+    ],
+    [
+      "物事",
+      "ものごと",
+      "things, everything"
+    ],
+    [
+      "領事",
+      "りょうじ",
+      "consul"
+    ],
+    [
+      "火事",
+      "かじ",
+      "fire"
+    ],
+    [
+      "事故",
+      "じこ",
+      "accident"
+    ],
+    [
+      "事務所",
+      "じむしょ",
+      "office"
+    ],
+    [
+      "大事",
+      "だいじ",
+      "important"
+    ],
+    [
+      "用事",
+      "ようじ",
+      "business, errand"
+    ],
+    [
+      "仕事",
+      "しごと",
+      "work, occupation, employment"
+    ]
+  ]
 }
