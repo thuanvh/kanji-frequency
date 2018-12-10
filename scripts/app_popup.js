@@ -143,7 +143,7 @@ tdata.forEach(function(t){
 		data2.append(e);			
 		});
 };
-var idx=["aozora","news","twitter","wikipedia"];
+var idx=["anki2k","news","aozora","twitter","wikipedia"];
 var pageidx=0;var catname=idx[0];var showlink=true;
 var mcontainer=$("#table");
 var l=$("<select/>",{"class":"form-control input-sm"});
