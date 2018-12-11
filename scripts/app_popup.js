@@ -207,3 +207,25 @@ pagesizectrl.change(function(a){a.preventDefault();
 	calllist(catname);
 	});
 calllist(catname);
+var shufflebutton=$("<input/>",{"type":"button","value":"Shuffle","class":"kjregion-detail-button"}).html("Shuffle");
+$.fn.shuffleChildren = function() {
+	$.each(this.get(), function(index, el) {
+			var $el = $(el);
+			var $find = $el.children();
+
+			$find.sort(function() {
+					return 0.5 - Math.random();
+			});
+
+			$el.empty();
+			$find.appendTo($el);
+	});
+};
+shufflebutton.click(function(){data2 = $("#table-list");
+// alert(data2.children.length);
+// for (var i = data2.children.length; i >= 0; i--) {
+// 	data2.append(data2.children[Math.random() * i | 0]);
+// }
+data2.shuffleChildren();
+});
+mcontainer.append(shufflebutton);
