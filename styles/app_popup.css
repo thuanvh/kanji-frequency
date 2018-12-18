@@ -34,10 +34,16 @@ body{font-family:Roboto,Arial,sans-serif}.jumbotron{color:#3f75a2;background-col
   visibility:visible;
   
 }
-
+.popup-content .prev{
+  float:left;
+}
+.popup-content .next{
+  float:left;
+}
 .popup-content-div{
   font-size: 12px;
   overflow-y:scroll;
+  clear: both;
 }
 .detail-item{
   text-align: left;
