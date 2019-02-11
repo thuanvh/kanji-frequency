@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Kanji usage frequency for kanji learning</title>
   <link rel="stylesheet" href="styles/vendor.css">
-  <link rel="stylesheet" href="styles/app_popup.css">
+  <link rel="stylesheet" href="styles/app.css">
   <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:400,700,500,400italic,700italic,500italic' rel='stylesheet' type='text/css'>
 </head>
 <body>
-  <!-- <div class="jumbotron">
+  <div class="jumbotron">
     <header class="container">
       <div class="row">
         <div class="col-xs-12">
@@ -32,35 +32,22 @@
       </div>
     </div>
     <div class="row templates"></div>
-  </section> -->
+  </section>
   
-<!--Creates the popup body-->
-<div class="popup-overlay">
-  <div class="popup-bar"></div>
-    <button class="close">Close</button>
-  <!--Creates the popup content-->
-   <div class="popup-content">
-      <a target="#" class="prev">Prev</a>
-      <a target="#" class="next">Next</a>      
-      <div class="popup-content-div"></div>
-      <!--popup's close button-->
-    </div>
-</div>
-
-
   <section id="tablular-data" class="container">
-    <div >
-      <div>
-        <h2>Data</h2>
-        <div >			
-          <div id="table" width="100%"></div>
-		      <div id="table-list">          
-		      </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <h2>Data</h2>		
+		
+        <div class="table-wrapper">			
+          <table id="table" class="table table-condensed display" width="100%"></table>
+		  <div id="table-list">          
+		  </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- <section id="zipf-law" class="container">
+  <section id="zipf-law" class="container">
     <div class="row">
       <div class="col-xs-12">
         <h2>Frequency and coverage</h2>
@@ -85,12 +72,8 @@
         </p>
       </div>
     </div>
-  </footer> -->
-  <!-- <script src="scripts/vendor.js" charset="utf-8"></script> -->
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-  <script src="https://d3js.org/d3.v5.min.js"></script>
-  <!-- <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
-  <script src="https://d3js.org/d3-fetch.v1.min.js"></script> -->
-  <script src="scripts/app_popup.js" charset="utf-8"></script>
+  </footer>
+  <script src="scripts/vendor.js" charset="utf-8"></script>
+  <script src="scripts/app.js" charset="utf-8"></script>
 </body>
 </html>
