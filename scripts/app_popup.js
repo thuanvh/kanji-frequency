@@ -57,7 +57,10 @@ function calldetail(t){
 		for(var i = 0; i < idx.length; i++){
 			d=$("<div/>",{"class":"form-group"});
 			d.append($("<label/>",{"class":"control-label col-sm-2"}).html(idx[i]));
-			d.append($("<span/>").html(dictdata[idx[i]]));
+			if(idx[i] != "strokeDiagram")
+				d.append($("<span/>").html(dictdata[idx[i]]));
+			else
+				d.append($("<img/>",{"src":"media/"+dictdata[idx[i]]}));
 			e.append(d);
 		}
 		wl=dictdata["words"];

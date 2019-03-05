@@ -7,6 +7,7 @@
 
 import pandas as pd
 import json
+import re
 
 df = pd.read_csv('anki-nihon.csv', delimiter=',')
 tuples =[tuple(x) for x in df.values]
@@ -21,12 +22,20 @@ str2 = str1.replace(str1[3],'__')
 str3 = str1.split('\x1f')
 #print(str3)
 alldict=dict()
+#"<img src=\"E4B880.png\" />"
+#regex = re.compile(, re.IGNORECASE)
 for i in range(0, len(dicts['flds'])):
   #print(i)
   data = (dicts['flds'][i].split('\x1f'))
   key = data[4]
+  strokeDiagram = data[5]
+  #print("origin", strokeDiagram)
+  #strokeDiagram = re.sub(r"\<img src=\"([a-zA-Z_]*\.[a-zA-Z]*) \/\>",'%1',strokeDiagram)
+  #strokeDiagram = re.sub(r".*\"([a-zA-Z_]*\.[a-zA-Z]*)\".*",'%1',strokeDiagram)
+  strokeDiagram = re.sub(r"^.*\"(?P<name>.*)\".*$","\g<name>",strokeDiagram)
+  #print("replace", strokeDiagram)
   alldict[key]={"id":data[0],"frameNoV4":data[1],"frameNoV6":data[2],
-    "keyword":data[3],"kanji":data[4],"strokeDiagram":data[5],
+    "keyword":data[3],"kanji":data[4],"strokeDiagram":strokeDiagram,
     "hint":data[6],"constituent":data[7],"strokeCount":data[8],
     "lessonNo":data[9],"myStory":data[10],"heisigStory":data[11],
     "heisigComment":data[12],"koohiiStory1":data[13],"koohiiStory2":data[14],
