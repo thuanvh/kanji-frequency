@@ -60,7 +60,7 @@ function calldetail(t){
 			if(idx[i] != "strokeDiagram")
 				d.append($("<span/>",{"class":"col-sm-10"}).html(dictdata[idx[i]]));
 			else
-				d.append($("<img/>",{"class":"col-sm-10","src":"media_gif/"+dictdata[idx[i]].substring(0,dictdata[idx[i]].length-3)+"gif"}));
+				d.append($("<img/>",{"class":"col-sm-10", "width": "109", "src":"media_gif/"+dictdata[idx[i]].substring(0,dictdata[idx[i]].length-3)+"gif"}));
 			e.append(d);
 		}
 		wl=dictdata["words"];
